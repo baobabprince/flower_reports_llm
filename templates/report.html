@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flower Bloom Reports</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Flower Bloom Reports</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Flower Name</th>
+                <th>Location</th>
+                <th>maps_query_locations</th>
+                <th>lat</th>
+                <th>lon</th>
+                <th>Date</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for report in reports %}
+            <tr>
+                <td>{{ report.flowers }}</td>
+                <td>{{ report.locations }}</td>
+                <td>{{ report.maps_query_locations }}</td>
+                <td>{{ report.lat }}</td>
+                <td>{{ report.lon }}</td>
+                <td>{{ report.date }}</td>
+                <td>{{ report.original_report }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
