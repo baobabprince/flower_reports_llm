@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Flower Bloom Reports</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Flower Bloom Reports</h1>
@@ -19,19 +19,29 @@
                 <th>Description</th>
             </tr>
         </thead>
-        <tbody>
-            {% for report in reports %}
-            <tr>
-                <td>{{ report.flowers }}</td>
-                <td>{{ report.locations }}</td>
-                <td>{{ report.maps_query_locations }}</td>
-                <td>{{ report.lat }}</td>
-                <td>{{ report.lon }}</td>
-                <td>{{ report.date }}</td>
-                <td>{{ report.original_report }}</td>
-            </tr>
-            {% endfor %}
+        <tbody id="reports-table">
         </tbody>
     </table>
+
+    <script>
+        fetch('/static/reports.json')
+            .then(response => response.json())
+            .then(reports => {
+                const tableBody = document.getElementById('reports-table');
+                reports.forEach(report => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${report.flowers.join(', ')}</td>
+                        <td>${report.locations}</td>
+                        <td>${report.maps_query_locations}</td>
+                        <td>${report.lat}</td>
+                        <td>${report.lon}</td>
+                        <td>${report.date}</td>
+                        <td>${report.original_report}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            });
+    </script>
 </body>
 </html>

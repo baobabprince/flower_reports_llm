@@ -214,7 +214,7 @@ def get_latest_reports(num_reports,force=False):
     # check the creation time of the reports file, and if it is older than 1 hour, reprocess the website
     if not force:
         try:
-            file_time = os.path.getmtime('reports.json')
+            file_time = os.path.getmtime('static/reports.json')
             if time.time() - file_time < 3600:
                 print('file is recent. loading from file')
                 with open('reports.json', 'r') as f:
@@ -247,7 +247,7 @@ def get_latest_reports(num_reports,force=False):
     print('got %d reports' % len(json_result))
 
     # save the reports to a file
-    with open('reports.json', 'w') as f:
+    with open('static/reports.json', 'w') as f:
         json.dump(json_result, f)
 
     if num_reports > 0:

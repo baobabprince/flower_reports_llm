@@ -1,69 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-         integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-         crossorigin=""/>
-
-     <!-- Make sure you put this AFTER Leaflet's CSS -->
-     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-         integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-         crossorigin=""></script>
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+        crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+        crossorigin=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
-
-    <!-- use the stamen maps ( http://maps.stamen.com/ ) -->
-    <!-- <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script> -->
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
 </head>
-
 <body>
-    <h1>
-        FlowerTest
-    </h1>
+    <h1>FlowerTest</h1>
     <div id="map" style="width: 100%; height: 1200px;"></div>
 
     <script type="text/javascript">
-        var flower_coords = {{ coords_list }};
-        var flower_ids = {{ flower_ids | safe }};
-        var descriptions = {{ descriptions | safe }};
-        console.log(flower_coords);
+        fetch('/static/reports.json')
+            .then(response => response.json())
+            .then(reports => {
+                var coords = [];
+                var flower_ids = [];
+                var descriptions = [];
 
-        var map = L.map('map').setView([31.771959, 35.217018], 7);
+                reports.forEach(report => {
+                    if (report.maps_query_locations && report.maps_query_locations.length > 0) {
+                        report.maps_query_locations.forEach(location => {
+                            fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(location)}&key=YOUR_GOOGLE_MAPS_API_KEY`)
+                                .then(response => response.json())
+                                .then(data => {
+                                    if (data.results && data.results.length > 0) {
+                                        var lat = data.results[0].geometry.location.lat;
+                                        var lon = data.results[0].geometry.location.lng;
+                                        coords.push([lat, lon]);
+                                        flower_ids.push(report.flowers.join(', ') + '\n' + report.date);
+                                        descriptions.push(report.original_report);
+                                    }
+                                });
+                        });
+                    }
+                });
 
-        var layer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19});
+                // Wait for all geocoding requests to complete
+                setTimeout(() => {
+                    var map = L.map('map').setView([31.771959, 35.217018], 7);
+                    var layer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19});
+                    map.addLayer(layer);
 
-        // var layer = new L.StamenTileLayer("toner");
-        console.log('layer  ok');
-        map.addLayer(layer);
+                    coords.forEach((coord, i) => {
+                        var marker = L.marker(coord);
+                        marker.description = descriptions[i];
+                        marker.title = flower_ids[i];
+                        marker.addTo(map);
+                        marker.bindPopup('<b>' + flower_ids[i] + '</b><br><a href="#" onclick="showDescription(' + i + ')">Show Description</a>');
+                    });
 
-        // function onMarkerClick(e) {
-        //     var marker = e.target;
-        //     marker.bindPopup(marker.description).openPopup();
-        // }
-
-        console.log('mepin');
-
-        var i;
-        for (i=0;i<flower_coords.length; i++) {
-            console.log(flower_coords[i]);
-    
-            // marker = mePin(flower_coords[i]);
-            // marker.flower_id = flower_ids[i];
-            var marker = L.marker([flower_coords[i][0], flower_coords[i][1]])
-            marker.description = descriptions[i];
-            marker.title = flower_ids[i];
-            marker.addTo(map);
-            marker.bindPopup('<b>' + flower_ids[i] + '</b><br><a href="#" onclick="showDescription(' + i + ')">Show Description</a>');
-            // marker.on('click', onMarkerClick);
-        }
-
-        function showDescription(index) {
-          alert(descriptions[index]);
-        }
-
-</script>
+                    function showDescription(index) {
+                        alert(descriptions[index]);
+                    }
+                }, 2000); // Adjust the timeout as needed
+            });
+    </script>
 </body>
 </html>
