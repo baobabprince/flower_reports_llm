@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flower Reports</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <style>
+        #map { height: 600px; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        // Load the reports data
+        fetch('static/reports.json')
+            .then(response => response.json())
+            .then(reports => {
+                // Initialize the map
+                const map = L.map('map').setView([31.7683, 35.2137], 7); // Center on Israel
+
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '© OpenStreetMap contributors'
+                }).addTo(map);
+
+                // Add markers for each report
+                reports.forEach(report => {
+                    if (report.lat && report.lon) {
+                        const marker = L.marker([report.lat, report.lon]).addTo(map);
+                        
+                        // Create popup content
+                        const popupContent = `
+                            <h3>${report.flowers.join(', ')}</h3>
+                            <p>Date: ${report.date}</p>
+                            <p>Location: ${report.locations}</p>
+                            <p>Observer: ${report.observer}</p>
+                            <p>${report.original_report}</p>
+                        `;
+                        
+                        marker.bindPopup(popupContent);
+                    }
+                });
+            });
+    </script>
+</body>
+</html>
