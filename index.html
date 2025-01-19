@@ -1,46 +1,99 @@
 <!DOCTYPE html>
-<html>
+<html dir="rtl" lang="he">
 <head>
-    <title>Flower Reports</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מפת פרחים בישראל</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
     <style>
-        #map { height: 600px; }
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        #map {
+            height: 500px;
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .last-update {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        .leaflet-popup-content {
+            direction: rtl;
+            text-align: right;
+        }
     </style>
 </head>
 <body>
-    <div id="map"></div>
+    <div class="container">
+        <h1>מפת פרחים בישראל</h1>
+        <div id="map"></div>
+        <div class="last-update" id="lastUpdate"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script>
-        // Load the reports data
-        fetch('static/reports.json')
-            .then(response => response.json())
-            .then(reports => {
-                // Initialize the map
-                const map = L.map('map').setView([31.7683, 35.2137], 7); // Center on Israel
+        // Sample data (in production, this would be loaded from static/reports.json)
+        const reports = [
+            {
+                "flowers": "לב הזהב",
+                "locations": "כינרת",
+                "maps_query_locations": "כינרת",
+                "lat": 32.7880,
+                "lon": 35.5833,
+                "date": "1930",
+                "original_report": "פרח לב הזהב בכינרת נצפה על ידי שלמה זלמן ב-1930"
+            },
+            {
+                "flowers": "כלנית",
+                "locations": "גוש חלב",
+                "maps_query_locations": "גוש חלב",
+                "lat": 33.0246,
+                "lon": 35.4467,
+                "date": "2023",
+                "original_report": "כלניות אדומות נצפו בגוש חלב על ידי דוד לוי ב-2023"
+            }
+        ];
 
-                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    attribution: '© OpenStreetMap contributors'
-                }).addTo(map);
+        // Initialize the map
+        const map = L.map('map').setView([32.9, 35.5], 9);
 
-                // Add markers for each report
-                reports.forEach(report => {
-                    if (report.lat && report.lon) {
-                        const marker = L.marker([report.lat, report.lon]).addTo(map);
-                        
-                        // Create popup content
-                        const popupContent = `
-                            <h3>${report.flowers.join(', ')}</h3>
-                            <p>Date: ${report.date}</p>
-                            <p>Location: ${report.locations}</p>
-                            <p>Observer: ${report.observer}</p>
-                            <p>${report.original_report}</p>
-                        `;
-                        
-                        marker.bindPopup(popupContent);
-                    }
-                });
-            });
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Add markers for each report
+        reports.forEach(report => {
+            const marker = L.marker([report.lat, report.lon]).addTo(map);
+            marker.bindPopup(`
+                <div>
+                    <strong>פרח:</strong> ${report.flowers}<br>
+                    <strong>מיקום:</strong> ${report.locations}<br>
+                    <strong>תאריך:</strong> ${report.date}<br>
+                    <strong>דיווח מקורי:</strong> ${report.original_report}
+                </div>
+            `);
+        });
+
+        // Find the most recent date
+        const mostRecentDate = Math.max(...reports.map(report => parseInt(report.date)));
+        document.getElementById('lastUpdate').textContent = `עדכון אחרון: ${mostRecentDate}`;
     </script>
 </body>
 </html>
