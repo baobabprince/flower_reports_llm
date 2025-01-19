@@ -37,6 +37,18 @@
             direction: rtl;
             text-align: right;
         }
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+            color: #666;
+        }
+        .error {
+            text-align: center;
+            padding: 20px;
+            color: #e74c3c;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -48,28 +60,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script>
-        // Sample data (in production, this would be loaded from static/reports.json)
-        const reports = [
-            {
-                "flowers": "לב הזהב",
-                "locations": "כינרת",
-                "maps_query_locations": "כינרת",
-                "lat": 32.7880,
-                "lon": 35.5833,
-                "date": "1930",
-                "original_report": "פרח לב הזהב בכינרת נצפה על ידי שלמה זלמן ב-1930"
-            },
-            {
-                "flowers": "כלנית",
-                "locations": "גוש חלב",
-                "maps_query_locations": "גוש חלב",
-                "lat": 33.0246,
-                "lon": 35.4467,
-                "date": "2023",
-                "original_report": "כלניות אדומות נצפו בגוש חלב על ידי דוד לוי ב-2023"
-            }
-        ];
-
         // Initialize the map
         const map = L.map('map').setView([32.9, 35.5], 9);
 
@@ -78,22 +68,48 @@
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
 
-        // Add markers for each report
-        reports.forEach(report => {
-            const marker = L.marker([report.lat, report.lon]).addTo(map);
-            marker.bindPopup(`
-                <div>
-                    <strong>פרח:</strong> ${report.flowers}<br>
-                    <strong>מיקום:</strong> ${report.locations}<br>
-                    <strong>תאריך:</strong> ${report.date}<br>
-                    <strong>דיווח מקורי:</strong> ${report.original_report}
-                </div>
-            `);
-        });
+        // Function to add markers to the map
+        function addMarkersToMap(reports) {
+            reports.forEach(report => {
+                const marker = L.marker([report.lat, report.lon]).addTo(map);
+                marker.bindPopup(`
+                    <div>
+                        <strong>פרח:</strong> ${report.flowers}<br>
+                        <strong>מיקום:</strong> ${report.locations}<br>
+                        <strong>תאריך:</strong> ${report.date}<br>
+                        <strong>דיווח מקורי:</strong> ${report.original_report}
+                    </div>
+                `);
+            });
 
-        // Find the most recent date
-        const mostRecentDate = Math.max(...reports.map(report => parseInt(report.date)));
-        document.getElementById('lastUpdate').textContent = `עדכון אחרון: ${mostRecentDate}`;
+            // Update the last update text
+            const mostRecentDate = Math.max(...reports.map(report => parseInt(report.date)));
+            document.getElementById('lastUpdate').textContent = `עדכון אחרון: ${mostRecentDate}`;
+        }
+
+        // Function to handle errors
+        function showError(message) {
+            const errorDiv = document.createElement('div');
+            errorDiv.className = 'error';
+            errorDiv.textContent = `שגיאה: ${message}`;
+            document.querySelector('.container').appendChild(errorDiv);
+        }
+
+        // Load the data from the JSON file
+        fetch('/static/reports.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load data');
+                }
+                return response.json();
+            })
+            .then(data => {
+                addMarkersToMap(data);
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
+            });
     </script>
 </body>
 </html>
