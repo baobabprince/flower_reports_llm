@@ -96,7 +96,7 @@
         }
 
         // Load the data from the JSON file
-        fetch('/static/reports.json')
+        fetch('./static/reports.json')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Failed to load data');
