@@ -1,115 +1,258 @@
-<!DOCTYPE html>
-<html dir="rtl" lang="he">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>מפת פרחים בישראל</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
-    <style>
-        body {
-            margin: 0;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        h1 {
-            color: #2c3e50;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        #map {
-            height: 500px;
-            width: 100%;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        .last-update {
-            text-align: center;
-            margin-top: 20px;
-            color: #666;
-            font-size: 0.9em;
-        }
-        .leaflet-popup-content {
-            direction: rtl;
-            text-align: right;
-        }
-        .loading {
-            text-align: center;
-            padding: 20px;
-            font-size: 1.2em;
-            color: #666;
-        }
-        .error {
-            text-align: center;
-            padding: 20px;
-            color: #e74c3c;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>מפת פרחים בישראל</h1>
-        <div id="map"></div>
-        <div class="last-update" id="lastUpdate"></div>
+import React, { useState, useEffect } from 'react';
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { Calendar } from "@/components/ui/calendar";
+import { Share2, Calendar as CalendarIcon, Map, BarChart2 } from 'lucide-react';
+import { format } from 'date-fns';
+
+const FlowerMap = () => {
+  const [map, setMap] = useState(null);
+  const [markers, setMarkers] = useState([]);
+  const [markerCluster, setMarkerCluster] = useState(null);
+  const [dateRange, setDateRange] = useState({ from: null, to: null });
+  const [stats, setStats] = useState({
+    totalReports: 0,
+    flowerTypes: {},
+    topLocations: [],
+    recentReports: []
+  });
+  const [logs, setLogs] = useState([]);
+
+  // Logging function
+  const logEvent = (type, message, data = null) => {
+    const logEntry = {
+      timestamp: new Date().toISOString(),
+      type,
+      message,
+      data
+    };
+    console.log(`[${type}] ${message}`, data);
+    setLogs(prev => [logEntry, ...prev].slice(0, 100));
+  };
+
+  useEffect(() => {
+    // Initialize map
+    const mapInstance = L.map('map').setView([32.9, 35.5], 9);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(mapInstance);
+    
+    setMap(mapInstance);
+    
+    // Initialize marker cluster group
+    const cluster = L.markerClusterGroup();
+    setMarkerCluster(cluster);
+    mapInstance.addLayer(cluster);
+
+    logEvent('INFO', 'Map initialized');
+
+    return () => {
+      mapInstance.remove();
+      logEvent('INFO', 'Map cleanup completed');
+    };
+  }, []);
+
+  const loadData = async () => {
+    try {
+      logEvent('INFO', 'Loading flower reports');
+      const response = await fetch('./static/reports.json');
+      if (!response.ok) throw new Error('Failed to load data');
+      
+      const data = await response.json();
+      processData(data);
+      logEvent('SUCCESS', 'Data loaded successfully', { count: data.length });
+    } catch (error) {
+      logEvent('ERROR', 'Failed to load data', error);
+      showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
+    }
+  };
+
+  const processData = (reports) => {
+    if (!markerCluster) return;
+    
+    markerCluster.clearLayers();
+    
+    // Filter reports based on date range if set
+    const filteredReports = reports.filter(report => {
+      if (!dateRange.from || !dateRange.to) return true;
+      const reportDate = new Date(report.date);
+      return reportDate >= dateRange.from && reportDate <= dateRange.to;
+    });
+
+    // Add markers to cluster
+    filteredReports.forEach(report => {
+      const marker = L.marker([report.lat, report.lon]);
+      const popupContent = `
+        <div class="p-4">
+          <h3 class="font-bold mb-2">${report.flowers}</h3>
+          <p><strong>מיקום:</strong> ${report.locations}</p>
+          <p><strong>תאריך:</strong> ${format(new Date(report.date), 'dd/MM/yyyy')}</p>
+          <p><strong>דיווח מקורי:</strong> ${report.original_report}</p>
+          <button class="share-button bg-blue-500 text-white px-4 py-2 rounded mt-2" 
+            onclick="shareLocation(${report.lat}, ${report.lon}, '${report.flowers}')">
+            שתף מיקום
+          </button>
+        </div>
+      `;
+      
+      marker.bindPopup(popupContent);
+      markerCluster.addLayer(marker);
+    });
+
+    // Calculate statistics
+    const stats = calculateStats(filteredReports);
+    setStats(stats);
+    
+    logEvent('INFO', 'Markers and stats updated', { 
+      markerCount: filteredReports.length,
+      dateRange: dateRange 
+    });
+  };
+
+  const calculateStats = (reports) => {
+    const flowerTypes = {};
+    const locations = {};
+    
+    reports.forEach(report => {
+      // Count flower types
+      flowerTypes[report.flowers] = (flowerTypes[report.flowers] || 0) + 1;
+      
+      // Count locations
+      locations[report.locations] = (locations[report.locations] || 0) + 1;
+    });
+
+    return {
+      totalReports: reports.length,
+      flowerTypes,
+      topLocations: Object.entries(locations)
+        .sort(([,a], [,b]) => b - a)
+        .slice(0, 5),
+      recentReports: reports
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
+        .slice(0, 5)
+    };
+  };
+
+  return (
+    <div className="max-w-6xl mx-auto p-4">
+      <Tabs defaultValue="map" className="w-full">
+        <TabsList className="grid w-full grid-cols-2">
+          <TabsTrigger value="map" className="flex items-center gap-2">
+            <Map className="w-4 h-4" />
+            מפה
+          </TabsTrigger>
+          <TabsTrigger value="stats" className="flex items-center gap-2">
+            <BarChart2 className="w-4 h-4" />
+            סטטיסטיקה
+          </TabsTrigger>
+        </TabsList>
+
+        <TabsContent value="map">
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex justify-between items-center">
+                <span>דיווחי פריחה בישראל</span>
+                <div className="flex items-center gap-4">
+                  <button
+                    onClick={() => setDateRange({ from: null, to: null })}
+                    className="text-sm text-gray-500 hover:text-gray-700"
+                  >
+                    נקה תאריכים
+                  </button>
+                  <div className="relative">
+                    <button
+                      className="flex items-center gap-2 bg-white px-3 py-2 rounded border"
+                      onClick={() => setShowCalendar(!showCalendar)}
+                    >
+                      <CalendarIcon className="w-4 h-4" />
+                      {dateRange.from ? format(dateRange.from, 'dd/MM/yyyy') : 'בחר תאריכים'}
+                    </button>
+                    {showCalendar && (
+                      <div className="absolute top-full right-0 mt-2 bg-white rounded-lg shadow-lg z-10">
+                        <Calendar
+                          mode="range"
+                          selected={{ from: dateRange.from, to: dateRange.to }}
+                          onSelect={range => {
+                            setDateRange(range);
+                            setShowCalendar(false);
+                          }}
+                        />
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div id="map" className="h-[600px] rounded-lg" />
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="stats">
+          <Card>
+            <CardHeader>
+              <CardTitle>סטטיסטיקה</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <h3 className="text-lg font-semibold mb-3">סיכום כללי</h3>
+                  <p>סה"כ דיווחים: {stats.totalReports}</p>
+                  <p>סוגי פרחים: {Object.keys(stats.flowerTypes).length}</p>
+                </div>
+                
+                <div>
+                  <h3 className="text-lg font-semibold mb-3">מיקומים מובילים</h3>
+                  <ul>
+                    {stats.topLocations.map(([location, count]) => (
+                      <li key={location} className="mb-2">
+                        {location}: {count} דיווחים
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                <div>
+                  <h3 className="text-lg font-semibold mb-3">דיווחים אחרונים</h3>
+                  <ul>
+                    {stats.recentReports.map(report => (
+                      <li key={report.date} className="mb-2">
+                        {report.flowers} - {format(new Date(report.date), 'dd/MM/yyyy')}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        </TabsContent>
+      </Tabs>
     </div>
+  );
+};
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
-    <script>
-        // Initialize the map
-        const map = L.map('map').setView([32.9, 35.5], 9);
+// Share location function (add to window object)
+window.shareLocation = (lat, lon, flowerName) => {
+  const url = `https://www.google.com/maps?q=${lat},${lon}`;
+  const text = `מצאתי ${flowerName} במיקום הזה!`;
+  
+  if (navigator.share) {
+    navigator.share({
+      title: 'שיתוף מיקום פריחה',
+      text: text,
+      url: url
+    }).catch(error => console.error('Error sharing:', error));
+  } else {
+    // Fallback for browsers that don't support Web Share API
+    const dummy = document.createElement('textarea');
+    document.body.appendChild(dummy);
+    dummy.value = `${text}\n${url}`;
+    dummy.select();
+    document.execCommand('copy');
+    document.body.removeChild(dummy);
+    alert('הקישור הועתק ללוח!');
+  }
+};
 
-        // Add OpenStreetMap tiles
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors'
-        }).addTo(map);
-
-        // Function to add markers to the map
-        function addMarkersToMap(reports) {
-            reports.forEach(report => {
-                const marker = L.marker([report.lat, report.lon]).addTo(map);
-                marker.bindPopup(`
-                    <div>
-                        <strong>פרח:</strong> ${report.flowers}<br>
-                        <strong>מיקום:</strong> ${report.locations}<br>
-                        <strong>תאריך:</strong> ${report.date}<br>
-                        <strong>דיווח מקורי:</strong> ${report.original_report}
-                    </div>
-                `);
-            });
-
-            // Update the last update text
-            const mostRecentDate = Math.max(...reports.map(report => parseInt(report.date)));
-            document.getElementById('lastUpdate').textContent = `עדכון אחרון: ${mostRecentDate}`;
-        }
-
-        // Function to handle errors
-        function showError(message) {
-            const errorDiv = document.createElement('div');
-            errorDiv.className = 'error';
-            errorDiv.textContent = `שגיאה: ${message}`;
-            document.querySelector('.container').appendChild(errorDiv);
-        }
-
-        // Load the data from the JSON file
-        fetch('./static/reports.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to load data');
-                }
-                return response.json();
-            })
-            .then(data => {
-                addMarkersToMap(data);
-            })
-            .catch(error => {
-                console.error('Error loading data:', error);
-                showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
-            });
-    </script>
-</body>
-</html>
+export default FlowerMap;
