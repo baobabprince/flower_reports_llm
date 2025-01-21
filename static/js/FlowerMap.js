@@ -73,7 +73,7 @@ class FlowerMap {
     }
     
     async loadData() {
-        try {
+         try {
             flowerMapUtils.logger.info('Loading flower reports');
             const response = await fetch('./static/reports.json');
             
@@ -82,6 +82,7 @@ class FlowerMap {
             }
             
             const data = await response.json();
+            console.log("Loaded data:", data); // Added this line
             this.processData(data);
             this.statistics.updateStatistics(data, this.dateRange);
             
@@ -93,6 +94,7 @@ class FlowerMap {
     }
     
     processData(reports) {
+        console.log("Processing data", reports); // Added this line
         this.markerCluster.clearLayers();
         this.currentMarkers = [];
         
@@ -100,6 +102,8 @@ class FlowerMap {
             return flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange);
         });
         
+        console.log("Filtered reports", filteredReports); // Added this line
+
         filteredReports.forEach(report => {
             const marker = this.createMarker(report);
             this.currentMarkers.push(marker);
