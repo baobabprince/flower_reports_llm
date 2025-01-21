@@ -5,6 +5,8 @@ class FlowerMap {
         this.dateRange = { from: null, to: null };
         this.currentMarkers = [];
         this.statistics = new FlowerStatistics();
+        this.calendarVisible = false;
+        this.currentCalendarDate = new Date(); // default to today's date for the calendar
         
         // Initialize the map
         this.initializeMap();
@@ -20,10 +22,13 @@ class FlowerMap {
         
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
         
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors'
-        }).addTo(this.map);
-        
+        // Replace the OpenStreetMap tile layer with TopPlusOpen_Color
+        var TopPlusOpen_Color = L.tileLayer('http://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web/default/WEBMERCATOR/{z}/{y}/{x}.png', {
+            maxZoom: 18,
+            attribution: 'Map data: © <a href="http://www.govdata.de/dl-de/by-2-0">dl-de/by-2-0</a>'
+        });
+        TopPlusOpen_Color.addTo(this.map);
+
         // Initialize marker cluster group
         this.markerCluster = L.markerClusterGroup({
             maxClusterRadius: 50,
@@ -35,43 +40,99 @@ class FlowerMap {
         this.map.addLayer(this.markerCluster);
     }
     
-    initializeDatePicker() {
+     initializeDatePicker() {
         const datePickerButton = document.getElementById('datePickerButton');
         const calendar = document.getElementById('calendar');
         const clearDates = document.getElementById('clearDates');
-        
-        // Initialize date picker library
-        const picker = new Pikaday({
-            field: datePickerButton,
-            container: calendar,
-            bound: false,
-            format: 'DD/MM/YYYY',
-            i18n: {
-                previousMonth: 'חודש קודם',
-                nextMonth: 'חודש הבא',
-                months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
-                weekdays: ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'],
-                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ש']
-            },
-            onSelect: (date) => {
-                this.handleDateSelect(date);
-            }
-        });
-        
-        clearDates.addEventListener('click', () => this.clearDateFilter());
-        
+
         datePickerButton.addEventListener('click', () => {
-            calendar.classList.toggle('hidden');
+          this.calendarVisible = !this.calendarVisible;
+          this.updateCalendar();
+          calendar.classList.toggle('hidden', !this.calendarVisible);
         });
-        
-        // Close calendar when clicking outside
-        document.addEventListener('click', (e) => {
+
+        clearDates.addEventListener('click', () => this.clearDateFilter());
+
+          document.addEventListener('click', (e) => {
             if (!calendar.contains(e.target) && e.target !== datePickerButton) {
+                this.calendarVisible = false;
                 calendar.classList.add('hidden');
             }
         });
     }
+     updateCalendar() {
+      const calendarDiv = document.getElementById('calendar');
+      calendarDiv.innerHTML = ''; // Clear the previous calendar
+
+      const headerDiv = document.createElement('div');
+      headerDiv.className = 'calendar-header';
+        
+      // Previous Month Button
+        const prevMonthButton = document.createElement('button');
+        prevMonthButton.textContent = '❮';
+        prevMonthButton.className = 'month-button';
+        prevMonthButton.onclick = () => {
+            this.currentCalendarDate.setMonth(this.currentCalendarDate.getMonth() - 1);
+            this.updateCalendar();
+        };
+        headerDiv.appendChild(prevMonthButton);
+
+
+    // Display Current Month and Year
+      const monthYearSpan = document.createElement('span');
+      monthYearSpan.textContent = new Intl.DateTimeFormat('he-IL', { month: 'long', year: 'numeric' }).format(this.currentCalendarDate);
+      headerDiv.appendChild(monthYearSpan);
+
+       // Next Month Button
+        const nextMonthButton = document.createElement('button');
+        nextMonthButton.textContent = '❯';
+        nextMonthButton.className = 'month-button';
+         nextMonthButton.onclick = () => {
+             this.currentCalendarDate.setMonth(this.currentCalendarDate.getMonth() + 1);
+             this.updateCalendar();
+        };
+        headerDiv.appendChild(nextMonthButton);
+      calendarDiv.appendChild(headerDiv);
     
+      const dayNames = ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ש'];
+        dayNames.forEach(day => {
+            const dayNameDiv = document.createElement('div');
+            dayNameDiv.textContent = day;
+            calendarDiv.appendChild(dayNameDiv);
+      });
+    
+      const firstDayOfMonth = new Date(this.currentCalendarDate.getFullYear(), this.currentCalendarDate.getMonth(), 1);
+        const lastDayOfMonth = new Date(this.currentCalendarDate.getFullYear(), this.currentCalendarDate.getMonth() + 1, 0);
+
+        const daysInMonth = lastDayOfMonth.getDate();
+        let dayOfWeek = firstDayOfMonth.getDay();
+
+      for (let i = 0; i < dayOfWeek; i++) {
+          const emptyDiv = document.createElement('div');
+          calendarDiv.appendChild(emptyDiv);
+      }
+
+      for (let day = 1; day <= daysInMonth; day++) {
+        const dayButton = document.createElement('button');
+        dayButton.textContent = day;
+        dayButton.className = 'day-button';
+          const currentDate = new Date(this.currentCalendarDate.getFullYear(), this.currentCalendarDate.getMonth(), day);
+          
+          if (this.dateRange.from && this.dateRange.to) {
+              if (currentDate >= this.dateRange.from && currentDate <= this.dateRange.to)
+                dayButton.classList.add('selected');
+          } else if (this.dateRange.from &&
+                     currentDate.getDate() == this.dateRange.from.getDate() &&
+                     currentDate.getMonth() == this.dateRange.from.getMonth() &&
+                     currentDate.getFullYear() == this.dateRange.from.getFullYear()) {
+            dayButton.classList.add('selected');
+        }
+           
+        dayButton.onclick = () => this.handleDateSelect(currentDate);
+        calendarDiv.appendChild(dayButton);
+      }
+    }
+
     async loadData() {
          try {
             flowerMapUtils.logger.info('Loading flower reports');
@@ -84,12 +145,38 @@ class FlowerMap {
             const data = await response.json();
             console.log("Loaded data:", data); // Added this line
             this.processData(data);
+             this.updateLastReportDates();
             this.statistics.updateStatistics(data, this.dateRange);
             
             flowerMapUtils.logger.info('Data loaded successfully', { count: data.length });
         } catch (error) {
             flowerMapUtils.logger.error('Failed to load data', error);
             this.showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
+        }
+    }
+
+    async updateLastReportDates() {
+        const files = [
+            { path: './static/reports.json', elementId: 'lastReportDateReports' }
+        ];
+
+        for (const fileInfo of files) {
+          try {
+              const response = await fetch(fileInfo.path);
+              if (response.ok) {
+                const data = await response.json();
+                  const lastReport = data.reduce((max, current) => {
+                      return new Date(current.date) > new Date(max.date) ? current : max;
+                  });
+                  const formattedDate = lastReport ? flowerMapUtils.dateUtils.formatDate(lastReport.date) : 'N/A';
+                document.getElementById(fileInfo.elementId).textContent = `עדכון אחרון: ${formattedDate}`;
+            } else {
+                document.getElementById(fileInfo.elementId).textContent = "לא ניתן לטעון נתונים";
+            }
+          } catch (error) {
+            flowerMapUtils.logger.error(`Failed to load data for ${fileInfo.path}`, error);
+                document.getElementById(fileInfo.elementId).textContent = "לא ניתן לטעון נתונים";
+          }
         }
     }
     
@@ -159,15 +246,18 @@ class FlowerMap {
             document.getElementById('selectedDateRange').textContent = 
                 `${flowerMapUtils.dateUtils.formatDate(this.dateRange.from)} - ${flowerMapUtils.dateUtils.formatDate(this.dateRange.to)}`;
             
+             this.calendarVisible = false;
             document.getElementById('calendar').classList.add('hidden');
             this.loadData(); // Reload data with new date range
         }
+         this.updateCalendar();
     }
     
     clearDateFilter() {
         this.dateRange = { from: null, to: null };
         document.getElementById('selectedDateRange').textContent = 'בחר תאריכים';
         this.loadData();
+         this.updateCalendar();
         flowerMapUtils.logger.info('Date filter cleared');
     }
     
