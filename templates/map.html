@@ -1,69 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-         integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-         crossorigin=""/>
-
-     <!-- Make sure you put this AFTER Leaflet's CSS -->
-     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-         integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-         crossorigin=""></script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css'>
-
-    <!-- use the stamen maps ( http://maps.stamen.com/ ) -->
-    <!-- <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script> -->
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+        crossorigin=""/>
+     <link rel="stylesheet" href="/static/css/styles.css">
+     <link rel="icon" href="data:,">
 </head>
-
 <body>
-    <h1>
-        FlowerTest
-    </h1>
-    <div id="map" style="width: 100%; height: 1200px;"></div>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <div class="date-filter">
+                    <button class="button-secondary" id="datePickerButton">
+                        <span id="selectedDateRange">בחר תאריכים</span>
+                    </button>
+                    <div class="date-picker-container">
+                        <div id="calendar" class="calendar-dropdown hidden"></div>
+                    </div>
+                    <button class="button-secondary" id="clearDates">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                         נקה
+                    </button>
+                </div>
+            </div>
+            <div id="map"></div>
+        </div>
 
-    <script type="text/javascript">
-        var flower_coords = {{ coords_list }};
-        var flower_ids = {{ flower_ids | safe }};
-        var descriptions = {{ descriptions | safe }};
-        console.log(flower_coords);
+        <div class="tabs">
+            <button class="tab-button active" data-tab="map">
+                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 2v20M2 12h20"></path>
+                </svg>
+                מפה
+            </button>
+            <button class="tab-button" data-tab="stats">
+                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M2 3h20v6H2V3z"></path>
+                    <path d="M2 13h20v8H2v-8z"></path>
+                    <path d="M12 13v8"></path>
+                </svg>
+                סטטיסטיקות
+            </button>
+            <button class="tab-button" data-tab="reports">
+                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                    <line x1="9" y1="3" x2="9" y2="21"></line>
+                    <line x1="15" y1="3" x2="15" y2="21"></line>
+                </svg>
+                דיווחים
+            </button>
+        </div>
 
-        var map = L.map('map').setView([31.771959, 35.217018], 7);
-
-        var layer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19});
-
-        // var layer = new L.StamenTileLayer("toner");
-        console.log('layer  ok');
-        map.addLayer(layer);
-
-        // function onMarkerClick(e) {
-        //     var marker = e.target;
-        //     marker.bindPopup(marker.description).openPopup();
-        // }
-
-        console.log('mepin');
-
-        var i;
-        for (i=0;i<flower_coords.length; i++) {
-            console.log(flower_coords[i]);
-    
-            // marker = mePin(flower_coords[i]);
-            // marker.flower_id = flower_ids[i];
-            var marker = L.marker([flower_coords[i][0], flower_coords[i][1]])
-            marker.description = descriptions[i];
-            marker.title = flower_ids[i];
-            marker.addTo(map);
-            marker.bindPopup('<b>' + flower_ids[i] + '</b><br><a href="#" onclick="showDescription(' + i + ')">Show Description</a>');
-            // marker.on('click', onMarkerClick);
-        }
-
-        function showDescription(index) {
-          alert(descriptions[index]);
-        }
-
-</script>
+        <div id="map-tab" class="tab-content"></div>
+        <div id="stats-tab" class="tab-content hidden">
+             <div class="stats-grid">
+                <div class="stats-card">
+                    <h2>סטטיסטיקות כלליות</h2>
+                    <div id="generalStats"></div>
+                </div>
+                <div class="stats-card">
+                    <h2>מיקומים פופולריים</h2>
+                    <div id="topLocations"></div>
+                </div>
+                <div class="stats-card">
+                    <h2>דיווחים אחרונים</h2>
+                    <div id="recentReports"></div>
+                </div>
+                <div class="stats-card">
+                    <h2>מגמות חודשיות</h2>
+                    <canvas id="monthlyTrendsChart"></canvas>
+                </div>
+            </div>
+        </div>
+        <div id="reports-tab" class="tab-content hidden">
+            <h2>דיווחים</h2>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.2/pikaday.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/static/js/utils.js"></script>
+    <script src="/static/js/statistics.js"></script>
+    <script src="/static/js/FlowerMap.js"></script>
 </body>
 </html>
