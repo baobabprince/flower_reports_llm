@@ -34,17 +34,20 @@
                 <div class="card-header">
                     <h1>דיווחי פריחה בישראל</h1>
                     <div class="date-filter">
-                        <button id="clearDates" class="button-secondary">נקה תאריכים</button>
+                         <button id="clearDates" class="button-secondary">נקה תאריכים</button>
                         <div class="date-picker-container">
                             <button id="datePickerButton" class="button-primary">
                                 <span class="calendar-icon">📅</span>
                                 <span id="selectedDateRange">בחר תאריכים</span>
                             </button>
-                            <div id="calendar" class="calendar-dropdown hidden"></div>
+                             <div id="calendar" class="calendar-dropdown hidden"></div>
                         </div>
                     </div>
                 </div>
                 <div id="map"></div>
+                    <div class="last-report-dates">
+                       <span id="lastReportDateReports"></span>
+                   </div>
             </div>
         </div>
 
@@ -75,9 +78,9 @@
     <!-- JavaScript Dependencies -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-    
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+
     <!-- Application Scripts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.2/pikaday.min.js"></script>
     <script src="static/js/utils.js"></script>
     <script src="static/js/statistics.js"></script>
     <script src="static/js/FlowerMap.js"></script>
