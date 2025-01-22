@@ -43,7 +43,7 @@ class FlowerMap {
     }
 
     displayLastUpdateDate() {
-        fetch('/static/reports.json')
+        fetch('./static/reports.json')
             .then(response => response.json())
             .then(data => {
                 const dates = data.map(report => new Date(report.date));
