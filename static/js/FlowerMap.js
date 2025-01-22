@@ -15,6 +15,23 @@ class FlowerMap {
         this.loadData();
     }
     
+    function formatDate(dateString) {
+        try {
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) {
+                throw new Error('Invalid date');
+            }
+            return date.toLocaleDateString('en-HE', {
+                day: '2-digit',
+                month: '2-digit',
+                year: 'numeric'
+            });
+        } catch (error) {
+            console.error('Error formatting date:', error);
+            return 'Invalid date';
+        }
+    }
+    
     initializeMap() {
         flowerMapUtils.logger.info('Initializing map');
         
