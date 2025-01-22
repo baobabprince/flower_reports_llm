@@ -35,13 +35,32 @@ const logger = {
 // Date formatting utility
 const dateUtils = {
     formatDate: function(date) {
-        return new Intl.DateTimeFormat('he-IL').format(new Date(date));
+        try {
+            // Handle both string dates and Date objects
+            const dateObj = date instanceof Date ? date : new Date(date);
+            
+            // Check if date is valid
+            if (isNaN(dateObj.getTime())) {
+                console.warn(`Invalid date value: ${date}`);
+                return 'Invalid date';
+            }
+            
+            return new Intl.DateTimeFormat('he-IL').format(dateObj);
+        } catch (error) {
+            console.warn(`Error formatting date: ${date}`, error);
+            return 'Invalid date';
+        }
     },
     
     isDateInRange: function(date, range) {
         if (!range.from || !range.to) return true;
-        const checkDate = new Date(date);
-        return checkDate >= range.from && checkDate <= range.to;
+        try {
+            const checkDate = new Date(date);
+            if (isNaN(checkDate.getTime())) return false;
+            return checkDate >= range.from && checkDate <= range.to;
+        } catch (error) {
+            return false;
+        }
     }
 };
 

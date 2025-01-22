@@ -119,25 +119,37 @@ class FlowerMap {
     }
     
     processData(reports) {
-        console.log("Processing data", reports); // Added this line
+        console.log("Processing data", reports);
         this.markerCluster.clearLayers();
         this.currentMarkers = [];
         
         const filteredReports = reports.filter(report => {
-            return flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange);
+            try {
+                const date = new Date(report.date);
+                if (isNaN(date.getTime())) {
+                    flowerMapUtils.logger.warn('Invalid date in report', { report });
+                    return false;
+                }
+                return flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange);
+            } catch (error) {
+                flowerMapUtils.logger.error('Error processing report date', { report, error });
+                return false;
+            }
         });
         
-        console.log("Filtered reports", filteredReports); // Added this line
-
+        console.log("Filtered reports", filteredReports);
+    
         filteredReports.forEach(report => {
-            // Loop through each geocoded location and create a marker
             for (const locationName in report.geocoded_locations) {
                 if (report.geocoded_locations.hasOwnProperty(locationName)) {
                     const locationData = report.geocoded_locations[locationName];
-                    // Create a marker for each location
-                    const marker = this.createMarker(report, locationData, locationName);
-                    this.currentMarkers.push(marker);
-                    this.markerCluster.addLayer(marker);
+                    try {
+                        const marker = this.createMarker(report, locationData, locationName);
+                        this.currentMarkers.push(marker);
+                        this.markerCluster.addLayer(marker);
+                    } catch (error) {
+                        flowerMapUtils.logger.error('Error creating marker', { report, locationName, error });
+                    }
                 }
             }
         });
@@ -152,11 +164,20 @@ class FlowerMap {
         // Use the locationData to get lat and lon
         const marker = L.marker([locationData.latitude, locationData.longitude]);
         
-         const popupContent = `
+        // Format date safely
+        let formattedDate;
+        try {
+            formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+        } catch (error) {
+            formattedDate = 'Date unavailable';
+            flowerMapUtils.logger.error('Error formatting date', { date: report.date, error });
+        }
+        
+        const popupContent = `
             <div class="popup-content">
                  <h3 class="popup-title">${report.flowers.join(", ")}</h3> 
                 <p><strong>מיקום:</strong> ${locationName}</p>
-                <p><strong>תאריך:</strong> ${flowerMapUtils.dateUtils.formatDate(report.date)}</p>
+                <p><strong>תאריך:</strong> ${formattedDate}</p>
                 <p><strong>דיווח מקורי:</strong> ${report.original_report}</p>
                 <button onclick="flowerMapUtils.shareUtils.shareLocation(${locationData.latitude}, ${locationData.longitude}, '${report.flowers.join(", ")}')" 
                         class="share-button">
