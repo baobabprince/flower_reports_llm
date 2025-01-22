@@ -21,7 +21,7 @@ class FlowerMap {
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
         
         // Replace the OpenStreetMap tile layer with a custom styled layer
-        var customStyledLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        var customStyledLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
             attribution: 'Map data: © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             className: 'openstreetmap' // Add your custom style class here
