@@ -20,10 +20,14 @@ class FlowerMap {
         
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
         
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors'
-        }).addTo(this.map);
-        
+        // Replace the OpenStreetMap tile layer with a custom styled layer
+        var customStyledLayer = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: 'Map data: © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            className: 'openstreetmap' // Add your custom style class here
+        });
+        customStyledLayer.addTo(this.map);
+
         // Initialize marker cluster group
         this.markerCluster = L.markerClusterGroup({
             maxClusterRadius: 50,
@@ -33,6 +37,27 @@ class FlowerMap {
         });
         
         this.map.addLayer(this.markerCluster);
+
+        // Fetch and display the last update date
+        this.displayLastUpdateDate();
+    }
+
+    displayLastUpdateDate() {
+        fetch('/static/reports.json')
+            .then(response => response.json())
+            .then(data => {
+                const dates = data.map(report => new Date(report.date));
+                const latestDate = new Date(Math.max.apply(null, dates));
+                const formattedDate = latestDate.toLocaleDateString('en-HE', {
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric'
+                });
+                document.getElementById('last-update').innerText = `Last update: ${formattedDate}`;
+            })
+            .catch(error => {
+                console.error('Error fetching the last update date:', error);
+            });
     }
     
     initializeDatePicker() {
@@ -105,9 +130,16 @@ class FlowerMap {
         console.log("Filtered reports", filteredReports); // Added this line
 
         filteredReports.forEach(report => {
-            const marker = this.createMarker(report);
-            this.currentMarkers.push(marker);
-            this.markerCluster.addLayer(marker);
+            // Loop through each geocoded location and create a marker
+            for (const locationName in report.geocoded_locations) {
+                if (report.geocoded_locations.hasOwnProperty(locationName)) {
+                    const locationData = report.geocoded_locations[locationName];
+                    // Create a marker for each location
+                    const marker = this.createMarker(report, locationData, locationName);
+                    this.currentMarkers.push(marker);
+                    this.markerCluster.addLayer(marker);
+                }
+            }
         });
         
         flowerMapUtils.logger.info('Markers updated', {
@@ -116,16 +148,17 @@ class FlowerMap {
         });
     }
     
-    createMarker(report) {
-        const marker = L.marker([report.lat, report.lon]);
+    createMarker(report, locationData, locationName) {
+        // Use the locationData to get lat and lon
+        const marker = L.marker([locationData.latitude, locationData.longitude]);
         
-        const popupContent = `
+         const popupContent = `
             <div class="popup-content">
-                <h3 class="popup-title">${report.flowers}</h3>
-                <p><strong>מיקום:</strong> ${report.locations}</p>
+                 <h3 class="popup-title">${report.flowers.join(", ")}</h3> 
+                <p><strong>מיקום:</strong> ${locationName}</p>
                 <p><strong>תאריך:</strong> ${flowerMapUtils.dateUtils.formatDate(report.date)}</p>
                 <p><strong>דיווח מקורי:</strong> ${report.original_report}</p>
-                <button onclick="flowerMapUtils.shareUtils.shareLocation(${report.lat}, ${report.lon}, '${report.flowers}')" 
+                <button onclick="flowerMapUtils.shareUtils.shareLocation(${locationData.latitude}, ${locationData.longitude}, '${report.flowers.join(", ")}')" 
                         class="share-button">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" 
                          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
