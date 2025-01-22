@@ -1,3 +1,68 @@
+const flowerMapUtils = {
+    dateUtils: {
+        formatDate(dateString, locale = 'en-HE') {
+            try {
+                const date = new Date(dateString);
+                if (isNaN(date.getTime())) {
+                    throw new Error('Invalid date');
+                }
+                return date.toLocaleDateString(locale, {
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric'
+                });
+            } catch (error) {
+                flowerMapUtils.logger.error('Error formatting date:', error);
+                return 'Invalid date';
+            }
+        },
+
+        isDateInRange(dateString, dateRange) {
+            if (!dateRange.from && !dateRange.to) return true;
+            
+            const date = new Date(dateString);
+            date.setHours(0, 0, 0, 0);  // Normalize time to start of day
+            
+            if (dateRange.from) {
+                const fromDate = new Date(dateRange.from);
+                fromDate.setHours(0, 0, 0, 0);
+                if (date < fromDate) return false;
+            }
+            
+            if (dateRange.to) {
+                const toDate = new Date(dateRange.to);
+                toDate.setHours(23, 59, 59, 999);  // End of day
+                if (date > toDate) return false;
+            }
+            
+            return true;
+        },
+
+        compareDates(date1, date2) {
+            const d1 = new Date(date1);
+            const d2 = new Date(date2);
+            d1.setHours(0, 0, 0, 0);
+            d2.setHours(0, 0, 0, 0);
+            return d1.getTime() - d2.getTime();
+        }
+    },
+    logger: {
+        info: (message, data) => console.log(message, data || ''),
+        error: (message, error) => console.error(message, error),
+        warn: (message, data) => console.warn(message, data || '')
+    },
+    tabUtils: {
+        initialize: () => {
+            // Tab initialization logic here
+        }
+    },
+    shareUtils: {
+        shareLocation: (lat, lon, flowers) => {
+            // Share location logic here
+        }
+    }
+};
+
 class FlowerMap {
     constructor() {
         this.map = null;
@@ -5,40 +70,38 @@ class FlowerMap {
         this.dateRange = { from: null, to: null };
         this.currentMarkers = [];
         this.statistics = new FlowerStatistics();
-        
+        this.pikaday = null;
+
         // Initialize the map
         this.initializeMap();
         this.initializeDatePicker();
         flowerMapUtils.tabUtils.initialize();
-        
+
         // Load initial data
         this.loadData();
     }
 
     initializeMap() {
         flowerMapUtils.logger.info('Initializing map');
-        
+
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
-        
-        // Replace the OpenStreetMap tile layer with a custom styled layer
+
         var customStyledLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
             attribution: 'Map data: © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            className: 'openstreetmap' // Add your custom style class here
+            className: 'openstreetmap'
         });
         customStyledLayer.addTo(this.map);
 
-        // Initialize marker cluster group
         this.markerCluster = L.markerClusterGroup({
             maxClusterRadius: 50,
             spiderfyOnMaxZoom: true,
             showCoverageOnHover: false,
             zoomToBoundsOnClick: true
         });
-        
+
         this.map.addLayer(this.markerCluster);
 
-        // Fetch and display the last update date
         this.displayLastUpdateDate();
     }
 
@@ -48,25 +111,20 @@ class FlowerMap {
             .then(data => {
                 const dates = data.map(report => new Date(report.date));
                 const latestDate = new Date(Math.max.apply(null, dates));
-                const formattedDate = latestDate.toLocaleDateString('en-HE', {
-                    day: '2-digit',
-                    month: '2-digit',
-                    year: 'numeric'
-                });
+                const formattedDate = flowerMapUtils.dateUtils.formatDate(latestDate);
                 document.getElementById('last-update').innerText = `Last update: ${formattedDate}`;
             })
             .catch(error => {
                 console.error('Error fetching the last update date:', error);
             });
     }
-    
+
     initializeDatePicker() {
         const datePickerButton = document.getElementById('datePickerButton');
         const calendar = document.getElementById('calendar');
         const clearDates = document.getElementById('clearDates');
-        
-        // Initialize date picker library
-        const picker = new Pikaday({
+
+        this.pikaday = new Pikaday({
             field: datePickerButton,
             container: calendar,
             bound: false,
@@ -82,47 +140,44 @@ class FlowerMap {
                 this.handleDateSelect(date);
             }
         });
-        
+
         clearDates.addEventListener('click', () => this.clearDateFilter());
-        
+
         datePickerButton.addEventListener('click', () => {
             calendar.classList.toggle('hidden');
         });
-        
-        // Close calendar when clicking outside
+
         document.addEventListener('click', (e) => {
             if (!calendar.contains(e.target) && e.target !== datePickerButton) {
                 calendar.classList.add('hidden');
             }
         });
     }
-    
+
     async loadData() {
-         try {
+        try {
             flowerMapUtils.logger.info('Loading flower reports');
             const response = await fetch('./static/reports.json');
-            
+
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            
+
             const data = await response.json();
-            console.log("Loaded data:", data); // Added this line
             this.processData(data);
             this.statistics.updateStatistics(data, this.dateRange);
-            
+
             flowerMapUtils.logger.info('Data loaded successfully', { count: data.length });
         } catch (error) {
             flowerMapUtils.logger.error('Failed to load data', error);
             this.showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
         }
     }
-    
+
     processData(reports) {
-        console.log("Processing data", reports);
         this.markerCluster.clearLayers();
         this.currentMarkers = [];
-        
+
         const filteredReports = reports.filter(report => {
             try {
                 const date = new Date(report.date);
@@ -136,9 +191,7 @@ class FlowerMap {
                 return false;
             }
         });
-        
-        console.log("Filtered reports", filteredReports);
-    
+
         filteredReports.forEach(report => {
             for (const locationName in report.geocoded_locations) {
                 if (report.geocoded_locations.hasOwnProperty(locationName)) {
@@ -153,29 +206,20 @@ class FlowerMap {
                 }
             }
         });
-        
+
         flowerMapUtils.logger.info('Markers updated', {
             total: reports.length,
             filtered: filteredReports.length
         });
     }
-    
+
     createMarker(report, locationData, locationName) {
-        // Use the locationData to get lat and lon
         const marker = L.marker([locationData.latitude, locationData.longitude]);
-        
-        // Format date safely
-        let formattedDate;
-        try {
-            formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-        } catch (error) {
-            formattedDate = 'Date unavailable';
-            flowerMapUtils.logger.error('Error formatting date', { date: report.date, error });
-        }
-        
+        const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+
         const popupContent = `
             <div class="popup-content">
-                 <h3 class="popup-title">${report.flowers.join(", ")}</h3> 
+                <h3 class="popup-title">${report.flowers.join(", ")}</h3> 
                 <p><strong>מיקום:</strong> ${locationName}</p>
                 <p><strong>תאריך:</strong> ${formattedDate}</p>
                 <p><strong>דיווח מקורי:</strong> ${report.original_report}</p>
@@ -191,70 +235,76 @@ class FlowerMap {
                 </button>
             </div>
         `;
-        
+
         marker.bindPopup(popupContent);
         return marker;
     }
-    
+
     handleDateSelect(date) {
         if (!this.dateRange.from || this.dateRange.to) {
             // Start new range
-            this.dateRange = { from: date, to: null };
+            this.dateRange = { 
+                from: new Date(date),
+                to: null 
+            };
             document.getElementById('selectedDateRange').textContent = 
                 flowerMapUtils.dateUtils.formatDate(date);
         } else {
             // Complete the range
-            if (date < this.dateRange.from) {
-                this.dateRange = { from: date, to: this.dateRange.from };
-            } else {
-                this.dateRange.to = date;
-            }
+            const selectedDate = new Date(date);
+            const currentFromDate = new Date(this.dateRange.from);
             
+            if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) < 0) {
+                this.dateRange = { 
+                    from: selectedDate,
+                    to: currentFromDate
+                };
+            } else {
+                this.dateRange.to = selectedDate;
+            }
+
             document.getElementById('selectedDateRange').textContent = 
                 `${flowerMapUtils.dateUtils.formatDate(this.dateRange.from)} - ${flowerMapUtils.dateUtils.formatDate(this.dateRange.to)}`;
-            
+
             document.getElementById('calendar').classList.add('hidden');
-            this.loadData(); // Reload data with new date range
+            this.loadData();
         }
     }
-    
+
     clearDateFilter() {
         this.dateRange = { from: null, to: null };
         document.getElementById('selectedDateRange').textContent = 'בחר תאריכים';
         this.loadData();
         flowerMapUtils.logger.info('Date filter cleared');
     }
-    
+
     showError(message) {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'error-message';
         errorDiv.textContent = message;
         document.querySelector('.card-header').appendChild(errorDiv);
-        
+
         setTimeout(() => {
             errorDiv.remove();
         }, 5000);
     }
-}
 
-function formatDate(dateString) {
-    try {
-        const date = new Date(dateString);
-        if (isNaN(date.getTime())) {
-            throw new Error('Invalid date');
+    cleanup() {
+        if (this.map) {
+            this.map.remove();
         }
-        return date.toLocaleDateString('en-HE', {
-            day: '2-digit',
-            month: '2-digit',
-            year: 'numeric'
-        });
-    } catch (error) {
-        console.error('Error formatting date:', error);
-        return 'Invalid date';
+        if (this.pikaday) {
+            this.pikaday.destroy();
+        }
+        this.markerCluster.clearLayers();
+        this.currentMarkers = [];
     }
 }
 
 // Initialize the map when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
+    if (window.flowerMap) {
+        window.flowerMap.cleanup();
+    }
     window.flowerMap = new FlowerMap();
 });
