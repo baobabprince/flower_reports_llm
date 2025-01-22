@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
     <link rel="stylesheet" href="static/css/styles.css" />
+    <link rel="stylesheet" href="static/css/openstreetmap.css" />
 </head>
 <body>
     <div class="container">
@@ -47,6 +48,13 @@
                 <div id="map"></div>
             </div>
         </div>
+        
+        <div class="card-header">
+            <div id="last-update" class="last-update"></div>
+            <div class="date-filter">
+                <!-- existing date filter content -->
+            </div>
+        </div>
 
         <!-- Statistics Tab Content -->
         <div class="tab-content hidden" id="stats-tab">
@@ -71,6 +79,9 @@
             </div>
         </div>
     </div>
+    
+    <div id="last-update" style="margin-top: 10px;">Last update: </div>
+
 
     <!-- JavaScript Dependencies -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
