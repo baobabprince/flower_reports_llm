@@ -288,16 +288,34 @@ class FlowerMap {
             errorDiv.remove();
         }, 5000);
     }
+}
 
-    cleanup() {
-        if (this.map) {
-            this.map.remove();
+
+formatDate(dateString, locale = 'en-HE') {
+    try {
+        if (!dateString || dateString.trim() === '') {
+            throw new Error('Empty or invalid date string');
         }
-        if (this.pikaday) {
-            this.pikaday.destroy();
+
+        // Split the date string into day, month, and year
+        const [day, month, year] = dateString.split('/');
+
+        // Create a new Date object using the correct format (YYYY-MM-DD)
+        const date = new Date(`${year}-${month}-${day}`);
+
+        if (isNaN(date.getTime())) {
+            throw new Error('Invalid date');
         }
-        this.markerCluster.clearLayers();
-        this.currentMarkers = [];
+
+        // Format the date according to the locale
+        return date.toLocaleDateString(locale, {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric'
+        });
+    } catch (error) {
+        flowerMapUtils.logger.error('Error formatting date:', error);
+        return 'Invalid date';
     }
 }
 
