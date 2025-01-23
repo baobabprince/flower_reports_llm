@@ -40,11 +40,11 @@ class FlowerStatistics {
             // Count flower types (handling arrays of flowers)
             if (Array.isArray(report.flowers)) {
                 report.flowers.forEach(flower => {
-                    this.stats.flowerTypes[flower] = 
+                    this.stats.flowerTypes[flower] =
                         (this.stats.flowerTypes[flower] || 0) + 1;
                 });
             } else {
-                this.stats.flowerTypes[report.flowers] = 
+                this.stats.flowerTypes[report.flowers] =
                     (this.stats.flowerTypes[report.flowers] || 0) + 1;
             }
 
@@ -84,16 +84,19 @@ class FlowerStatistics {
     updateUI() {
         // Update general stats
         const generalStats = document.getElementById('generalStats');
-        generalStats.innerHTML = `
-            <div class="stat-item">
-                <span class="stat-label">סה"כ דיווחים:</span>
-                <span class="stat-value">${this.stats.totalReports}</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-label">סוגי פרחים:</span>
-                <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
-            </div>
-        `;
+        if (generalStats){
+           generalStats.innerHTML = `
+                <div class="stat-item">
+                    <span class="stat-label">סה"כ דיווחים:</span>
+                    <span class="stat-value">${this.stats.totalReports}</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">סוגי פרחים:</span>
+                    <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
+                </div>
+            `;
+        }
+
 
         // Update most common flowers card
         const commonFlowers = document.getElementById('commonFlowers');
@@ -118,27 +121,31 @@ class FlowerStatistics {
 
         // Update top locations
         const topLocations = document.getElementById('topLocations');
-        topLocations.innerHTML = this.stats.topLocations
-            .map(([location, count]) => `
-                <div class="stat-item">
-                    <span class="location-name">${location}</span>
-                    <span class="location-count">${count} דיווחים</span>
-                </div>
-            `)
-            .join('');
+         if (topLocations){
+               topLocations.innerHTML = this.stats.topLocations
+                .map(([location, count]) => `
+                    <div class="stat-item">
+                        <span class="location-name">${location}</span>
+                        <span class="location-count">${count} דיווחים</span>
+                    </div>
+                `)
+                .join('');
+         }
+
 
         // Update recent reports with properly formatted dates
         const recentReports = document.getElementById('recentReports');
-        recentReports.innerHTML = this.stats.recentReports
-            .map(report => `
-                <div class="recent-report">
-                    <span class="flower-name">${Array.isArray(report.flowers) ? report.flowers.join(', ') : report.flowers}</span>
-                    <span class="report-date">${flowerMapUtils.dateUtils.formatDate(report.date)}</span>
-                    <span class="report-location">${report.locations}</span>
-                </div>
-            `)
-            .join('');
-
+         if (recentReports) {
+            recentReports.innerHTML = this.stats.recentReports
+                .map(report => `
+                    <div class="recent-report">
+                        <span class="flower-name">${Array.isArray(report.flowers) ? report.flowers.join(', ') : report.flowers}</span>
+                        <span class="report-date">${flowerMapUtils.dateUtils.formatDate(report.date)}</span>
+                        <span class="report-location">${report.locations}</span>
+                    </div>
+                `)
+                .join('');
+        }
         // Create monthly trends chart if Chart.js is available
         if (window.Chart && document.getElementById('monthlyTrendsChart')) {
             this.updateMonthlyTrendsChart();
@@ -147,7 +154,7 @@ class FlowerStatistics {
 
     updateMonthlyTrendsChart() {
         const ctx = document.getElementById('monthlyTrendsChart').getContext('2d');
-        
+
         // Sort months chronologically
         const sortedMonths = Object.entries(this.stats.monthlyTrends)
             .sort(([a], [b]) => {
