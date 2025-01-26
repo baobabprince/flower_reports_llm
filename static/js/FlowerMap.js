@@ -2,10 +2,15 @@ const flowerMapUtils = {
     dateUtils: {
         formatDate(dateString, locale = 'en-HE') {
             try {
+                if (!dateString || dateString.trim() === '') {
+                    return 'Invalid date';
+                }
+
                 const date = new Date(dateString);
                 if (isNaN(date.getTime())) {
-                    throw new Error('Invalid date');
+                  throw new Error('Invalid date');
                 }
+                  
                 return date.toLocaleDateString(locale, {
                     day: '2-digit',
                     month: '2-digit',
@@ -19,31 +24,64 @@ const flowerMapUtils = {
 
         isDateInRange(dateString, dateRange) {
             if (!dateRange.from && !dateRange.to) return true;
-            
-            const date = new Date(dateString);
-            date.setHours(0, 0, 0, 0);  // Normalize time to start of day
-            
-            if (dateRange.from) {
-                const fromDate = new Date(dateRange.from);
-                fromDate.setHours(0, 0, 0, 0);
-                if (date < fromDate) return false;
+
+            try {
+                const date = new Date(dateString);
+                if (isNaN(date.getTime())) {
+                    flowerMapUtils.logger.warn('Invalid date string passed to isDateInRange', { dateString });
+                    return false;
+                }
+                date.setHours(0, 0, 0, 0);  // Normalize time to start of day
+
+                if (dateRange.from) {
+                    const fromDate = new Date(dateRange.from);
+                     if (isNaN(fromDate.getTime())) {
+                        flowerMapUtils.logger.error('Invalid fromDate in dateRange', { dateRange });
+                        return false;
+                    }
+                    fromDate.setHours(0, 0, 0, 0);
+                    if (date < fromDate) return false;
+                }
+
+                if (dateRange.to) {
+                    const toDate = new Date(dateRange.to);
+                    if (isNaN(toDate.getTime())) {
+                        flowerMapUtils.logger.error('Invalid toDate in dateRange', { dateRange });
+                        return false;
+                    }
+
+                    toDate.setHours(23, 59, 59, 999);  // End of day
+                    if (date > toDate) return false;
+                }
+
+                return true;
+            } catch (error) {
+                flowerMapUtils.logger.error('Error in isDateInRange:', error);
+                return false;
             }
-            
-            if (dateRange.to) {
-                const toDate = new Date(dateRange.to);
-                toDate.setHours(23, 59, 59, 999);  // End of day
-                if (date > toDate) return false;
-            }
-            
-            return true;
         },
 
         compareDates(date1, date2) {
-            const d1 = new Date(date1);
-            const d2 = new Date(date2);
-            d1.setHours(0, 0, 0, 0);
-            d2.setHours(0, 0, 0, 0);
-            return d1.getTime() - d2.getTime();
+             try {
+                const d1 = new Date(date1);
+                const d2 = new Date(date2);
+
+                 if (isNaN(d1.getTime())) {
+                    flowerMapUtils.logger.warn('Invalid date1 passed to compareDates', { date1 });
+                    return NaN; // Or throw an error, depending on desired behavior
+                }
+
+                 if (isNaN(d2.getTime())) {
+                    flowerMapUtils.logger.warn('Invalid date2 passed to compareDates', { date2 });
+                    return NaN; // Or throw an error, depending on desired behavior
+                }
+                d1.setHours(0, 0, 0, 0);
+                d2.setHours(0, 0, 0, 0);
+                return d1.getTime() - d2.getTime();
+            } catch (error) {
+                flowerMapUtils.logger.error('Error in compareDates:', error);
+                return NaN; // Or throw, depending on your needs
+            }
         }
     },
     logger: {
@@ -71,6 +109,7 @@ class FlowerMap {
         this.currentMarkers = [];
         this.statistics = new FlowerStatistics();
         this.pikaday = null;
+        this.errorDiv = null;
 
         // Initialize the map
         this.initializeMap();
@@ -241,29 +280,31 @@ class FlowerMap {
     }
 
     handleDateSelect(date) {
+        const selectedDate = new Date(date);
         if (!this.dateRange.from || this.dateRange.to) {
             // Start new range
-            this.dateRange = { 
-                from: new Date(date),
-                to: null 
+            this.dateRange = {
+                from: selectedDate,
+                to: null
             };
-            document.getElementById('selectedDateRange').textContent = 
+            document.getElementById('selectedDateRange').textContent =
                 flowerMapUtils.dateUtils.formatDate(date);
         } else {
-            // Complete the range
-            const selectedDate = new Date(date);
+             // Complete the range
             const currentFromDate = new Date(this.dateRange.from);
-            
-            if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) < 0) {
-                this.dateRange = { 
-                    from: selectedDate,
-                    to: currentFromDate
+             if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) < 0) {
+                this.dateRange = {
+                  from: selectedDate,
+                  to: currentFromDate,
                 };
-            } else {
-                this.dateRange.to = selectedDate;
             }
+             else if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) === 0) {
+                this.dateRange.to = selectedDate
+            } else {
+                 this.dateRange.to = selectedDate;
+             }
 
-            document.getElementById('selectedDateRange').textContent = 
+            document.getElementById('selectedDateRange').textContent =
                 `${flowerMapUtils.dateUtils.formatDate(this.dateRange.from)} - ${flowerMapUtils.dateUtils.formatDate(this.dateRange.to)}`;
 
             document.getElementById('calendar').classList.add('hidden');
@@ -279,50 +320,33 @@ class FlowerMap {
     }
 
     showError(message) {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'error-message';
-        errorDiv.textContent = message;
-        document.querySelector('.card-header').appendChild(errorDiv);
+        if (this.errorDiv) {
+          this.errorDiv.remove();
+        }
+        this.errorDiv = document.createElement('div');
+        this.errorDiv.className = 'error-message';
+        this.errorDiv.textContent = message;
+        document.querySelector('.card-header').appendChild(this.errorDiv);
 
         setTimeout(() => {
-            errorDiv.remove();
+            if(this.errorDiv){
+                this.errorDiv.remove();
+            }
         }, 5000);
     }
-}
+};
 
-
-formatDate(dateString, locale = 'en-HE') {
-    try {
-        if (!dateString || dateString.trim() === '') {
-            throw new Error('Empty or invalid date string');
-        }
-
-        // Split the date string into day, month, and year
-        const [day, month, year] = dateString.split('/');
-
-        // Create a new Date object using the correct format (YYYY-MM-DD)
-        const date = new Date(`${year}-${month}-${day}`);
-
-        if (isNaN(date.getTime())) {
-            throw new Error('Invalid date');
-        }
-
-        // Format the date according to the locale
-        return date.toLocaleDateString(locale, {
-            day: '2-digit',
-            month: '2-digit',
-            year: 'numeric'
-        });
-    } catch (error) {
-        flowerMapUtils.logger.error('Error formatting date:', error);
-        return 'Invalid date';
-    }
-}
 
 // Initialize the map when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    if (window.flowerMap) {
-        window.flowerMap.cleanup();
+    // Check if FlowerStatistics is defined before using it
+    if (typeof FlowerStatistics !== 'undefined') {
+        if (window.flowerMap) {
+            // Add a cleanup method to FlowerMap if needed, or simply clear existing data
+            window.flowerMap = null; // Or window.flowerMap.clearData() if you add such a method
+        }
+        window.flowerMap = new FlowerMap();
+    } else {
+        console.error('FlowerStatistics is not defined. Ensure it is loaded before FlowerMap.');
     }
-    window.flowerMap = new FlowerMap();
 });
