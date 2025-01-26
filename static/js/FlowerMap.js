@@ -126,7 +126,23 @@ const flowerMapUtils = {
     },
     tabUtils: {
         initialize: () => {
-            // Tab initialization logic here
+              const tabButtons = document.querySelectorAll('.tab-button');
+              const tabContents = document.querySelectorAll('.tab-content');
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                   const tabId = button.getAttribute('data-tab') + '-tab';
+                    tabButtons.forEach(btn => btn.classList.remove('active'));
+                    tabContents.forEach(content => content.classList.add('hidden'));
+
+
+                     button.classList.add('active');
+                    document.getElementById(tabId).classList.remove('hidden');
+                    if (tabId === 'stats-tab') {
+                      window.flowerMap.loadData()
+                     }
+                });
+            });
         }
     },
     shareUtils: {
@@ -150,6 +166,7 @@ class FlowerMap {
         this.initializeMap();
         this.initializeDatePicker();
         flowerMapUtils.tabUtils.initialize();
+
 
         // Load initial data
         this.loadData();
@@ -227,11 +244,8 @@ class FlowerMap {
             calendar.classList.toggle('hidden');
         });
 
-        document.addEventListener('click', (e) => {
-            if (!calendar.contains(e.target) && e.target !== datePickerButton) {
-                calendar.classList.add('hidden');
-            }
-        });
+      //Removed the `document.addEventListener` from here
+
     }
 
     async loadData() {
