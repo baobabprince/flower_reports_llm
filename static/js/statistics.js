@@ -180,7 +180,8 @@ class FlowerStatistics {
     updateUI() {
         // Update general stats
         const generalStats = document.getElementById('generalStats');
-        generalStats.innerHTML = `
+          if (generalStats) {
+            generalStats.innerHTML = `
                 <div class="stat-item">
                     <span class="stat-label">סה"כ דיווחים:</span>
                     <span class="stat-value">${this.stats.totalReports}</span>
@@ -190,12 +191,13 @@ class FlowerStatistics {
                     <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
                 </div>
             `;
-
+         }
 
 
         // Update most common flowers card
         const commonFlowers = document.getElementById('commonFlowers');
-       commonFlowers.innerHTML = `
+        if (commonFlowers) {
+            commonFlowers.innerHTML = `
                 <div class="card shadow-sm">
                     <div class="card-header">
                         <h3 class="text-lg font-semibold">פרחים נפוצים</h3>
@@ -211,11 +213,12 @@ class FlowerStatistics {
                     </div>
                 </div>
             `;
-
+        }
 
         // Update top locations
         const topLocations = document.getElementById('topLocations');
-         topLocations.innerHTML = this.stats.topLocations
+        if (topLocations) {
+            topLocations.innerHTML = this.stats.topLocations
                 .map(([location, count]) => `
                     <div class="stat-item">
                         <span class="location-name">${location}</span>
@@ -223,23 +226,25 @@ class FlowerStatistics {
                     </div>
                 `)
                 .join('');
-
+        }
 
 
         // Update recent reports with properly formatted dates
-         const recentReports = document.getElementById('recentReports');
-          recentReports.innerHTML = this.stats.recentReports
+        const recentReports = document.getElementById('recentReports');
+       if (recentReports) {
+           recentReports.innerHTML = this.stats.recentReports
                 .map(report => {
-                   let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-                    return`
-                        <div class="recent-report">
-                            <span class="flower-name">${Array.isArray(report.flowers) ? report.flowers.join(', ') : report.flowers}</span>
-                             <span class="report-date">${formattedDate}</span>
-                            <span class="report-location">${Object.keys(report.geocoded_locations).join(', ')}</span>
-                        </div>
-                    `})
+                  let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+                  return`
+                     <div class="recent-report">
+                        <span class="flower-name">${Array.isArray(report.flowers) ? report.flowers.join(', ') : report.flowers}</span>
+                        <span class="report-date">${formattedDate}</span>
+                        <span class="report-location">${Object.keys(report.geocoded_locations).join(', ')}</span>
+                   </div>
+                   `
+             })
                 .join('');
-
+        }
 
          // Create monthly trends chart if Chart.js is available
          if (window.Chart && document.getElementById('monthlyTrendsChart')) {
