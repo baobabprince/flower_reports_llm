@@ -1,16 +1,25 @@
 const flowerMapUtils = {
     dateUtils: {
         formatDate(dateString, locale = 'en-HE') {
-            try {
-                if (!dateString || dateString.trim() === '') {
+             try {
+                if (!dateString || (typeof dateString === 'string' && dateString.trim() === '')) {
                     return 'Invalid date';
                 }
-
-                const date = new Date(dateString);
-                if (isNaN(date.getTime())) {
-                  throw new Error('Invalid date');
+                let date;
+                if (typeof dateString === 'string' && dateString.includes('/')) {
+                  // Assuming DD/MM/YYYY format
+                  const [day, month, year] = dateString.split('/');
+                  date = new Date(`${year}-${month}-${day}`);
+                } else {
+                    // Try parsing as a standard date string
+                    date = new Date(dateString);
                 }
-                  
+
+
+                if (isNaN(date.getTime())) {
+                    throw new Error('Invalid date');
+                }
+
                 return date.toLocaleDateString(locale, {
                     day: '2-digit',
                     month: '2-digit',
@@ -26,7 +35,15 @@ const flowerMapUtils = {
             if (!dateRange.from && !dateRange.to) return true;
 
             try {
-                const date = new Date(dateString);
+                let date;
+                if (typeof dateString === 'string' && dateString.includes('/')) {
+                  // Assuming DD/MM/YYYY format
+                  const [day, month, year] = dateString.split('/');
+                  date = new Date(`${year}-${month}-${day}`);
+                } else {
+                    // Try parsing as a standard date string
+                    date = new Date(dateString);
+                }
                 if (isNaN(date.getTime())) {
                     flowerMapUtils.logger.warn('Invalid date string passed to isDateInRange', { dateString });
                     return false;
@@ -63,8 +80,26 @@ const flowerMapUtils = {
 
         compareDates(date1, date2) {
              try {
-                const d1 = new Date(date1);
-                const d2 = new Date(date2);
+                let d1;
+                 if (typeof date1 === 'string' && date1.includes('/')) {
+                  // Assuming DD/MM/YYYY format
+                    const [day, month, year] = date1.split('/');
+                     d1 = new Date(`${year}-${month}-${day}`);
+                } else {
+                  // Try parsing as a standard date string
+                    d1 = new Date(date1);
+                }
+
+
+                let d2;
+                  if (typeof date2 === 'string' && date2.includes('/')) {
+                  // Assuming DD/MM/YYYY format
+                    const [day, month, year] = date2.split('/');
+                    d2 = new Date(`${year}-${month}-${day}`);
+                } else {
+                  // Try parsing as a standard date string
+                    d2 = new Date(date2);
+                }
 
                  if (isNaN(d1.getTime())) {
                     flowerMapUtils.logger.warn('Invalid date1 passed to compareDates', { date1 });
@@ -148,7 +183,13 @@ class FlowerMap {
         fetch('./static/reports.json')
             .then(response => response.json())
             .then(data => {
-                const dates = data.map(report => new Date(report.date));
+                 const dates = data.map(report => {
+                    if(typeof report.date === 'string' && report.date.includes('/')){
+                        const [day, month, year] = report.date.split('/');
+                        return new Date(`${year}-${month}-${day}`);
+                    }
+                    return new Date(report.date);
+                });
                 const latestDate = new Date(Math.max.apply(null, dates));
                 const formattedDate = flowerMapUtils.dateUtils.formatDate(latestDate);
                 document.getElementById('last-update').innerText = `Last update: ${formattedDate}`;
@@ -219,8 +260,16 @@ class FlowerMap {
 
         const filteredReports = reports.filter(report => {
             try {
-                const date = new Date(report.date);
-                if (isNaN(date.getTime())) {
+                let date;
+                if (typeof report.date === 'string' && report.date.includes('/')) {
+                  // Assuming DD/MM/YYYY format
+                    const [day, month, year] = report.date.split('/');
+                     date = new Date(`${year}-${month}-${day}`);
+                } else {
+                  // Try parsing as a standard date string
+                    date = new Date(report.date);
+                }
+                 if (isNaN(date.getTime())) {
                     flowerMapUtils.logger.warn('Invalid date in report', { report });
                     return false;
                 }
