@@ -1,10 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-    <circle cx="50" cy="50" r="30" fill="#8bc34a"/> <!-- Green center -->
-    <path d="M50 10 L60 40 A40 40 0 0 1 40 40 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-    <path d="M50 10 L80 30 A40 40 0 0 0 70 60 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-    <path d="M50 10 L90 70 A40 40 0 0 0 50 90 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-    <path d="M50 10 L70 90 A40 40 0 0 0 30 90 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-    <path d="M50 10 L30 70 A40 40 0 0 0 10 70 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-     <path d="M50 10 L10 30 A40 40 0 0 0 30 60 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
-      <path d="M50 10 L20 10 A40 40 0 0 0 40 40 Z" fill="#ffeb3b"/> <!-- Yellow petal -->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- רקע עדין -->
+  <rect width="64" height="64" fill="#f0f8ff" />
+
+  <!-- עלי כותרת עם גרדיאנט -->
+  <defs>
+    <radialGradient id="petalGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ff7f50" />
+      <stop offset="100%" stop-color="#ff4500" />
+    </radialGradient>
+  </defs>
+
+  <!-- עלי כותרת -->
+  <circle cx="32" cy="32" r="15" fill="url(#petalGradient)" />
+  <circle cx="18" cy="32" r="15" fill="url(#petalGradient)" />
+  <circle cx="46" cy="32" r="15" fill="url(#petalGradient)" />
+  <circle cx="32" cy="18" r="15" fill="url(#petalGradient)" />
+  <circle cx="32" cy="46" r="15" fill="url(#petalGradient)" />
+
+  <!-- מרכז הפרח עם גרדיאנט -->
+  <defs>
+    <radialGradient id="centerGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="100%" stop-color="#ffa500" />
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="10" fill="url(#centerGradient)" />
+
+  <!-- גבעול עם גרדיאנט -->
+  <defs>
+    <linearGradient id="stemGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#228b22" />
+      <stop offset="100%" stop-color="#006400" />
+    </linearGradient>
+  </defs>
+  <rect x="30" y="46" width="4" height="18" fill="url(#stemGradient)" rx="2" />
+
+  <!-- עלה קטן -->
+  <path d="M 34 54 Q 38 50, 42 54" fill="none" stroke="#228b22" stroke-width="2" />
+  <path d="M 34 54 Q 38 58, 42 54" fill="none" stroke="#228b22" stroke-width="2" />
 </svg>
