@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/07/2019",
+      "observer": null,
+      "original_text": "ליד קיבוץ מבוא חמה : גם פרט בודד של סולנום זיתני ופרט בודד של סולנום המקור והרבה לכיד קוצני",
+      "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": [
+            "Solanum elaeagnifolium",
+             "Solanum rostratum",
+            "Echinops viscosus"
+          ],
+          "maps_query_location": "Mevo Hama"
+        }
+      ]
+    },
+    {
+      "date": "27/07/2019",
+      "observer": "ארז רפאלי",
+      "original_text": "מהירידה של כביש 4 לאזור התעשייה, והמשך השביל עד חוף הים. מלא חמניות",
+      "locations": [
+        {
+          "location_name": "אזור תעשייה מעין צבי",
+           "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Mei Zvi Industrial Area"
+        },
+         {
+          "location_name": "חוף הים",
+           "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Coastline"
+        }
+        
+      ]
+    },
+    {
+      "date": "22/07/2019",
+       "observer": "איילה ארביב",
+      "original_text": "דיווח על חניה בר בצידי הדרך כביש מקיבוץ הזורע לצומת התישבי מערבה",
+       "locations": [
+         {
+          "location_name": "הזורע",
+          "flowers": [
+             "Helianthus annuus"
+          ],
+          "maps_query_location": "Hazorea"
+         },
+        {
+          "location_name": "צומת התישבי",
+           "flowers": [
+              "Helianthus annuus"
+          ],
+          "maps_query_location": "Tishbi Junction"
+        }
+      ]
+    },
+    {
+      "date": "20/07/2019",
+       "observer": "איילה ארביב",
+      "original_text": "חמניות בר בצידי הדרך\nביקנעם ליד הבריכה העירונית",
+      "locations": [
+        {
+          "location_name": "יקנעם",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Yokneam"
+        }
+      ]
+    },
+    {
+      "date": "20/07/2019",
+       "observer": "איילה ארביב",
+       "original_text": "חמניות בר בצידי הדרך\nבכביש 71 מתל יוסף מערבה",
+       "locations": [
+         {
+           "location_name": "תל יוסף",
+          "flowers": [
+             "Helianthus annuus"
+          ],
+          "maps_query_location": "Tel Yosef"
+         }
+      ]
+    },
+    {
+      "date": "19/07/2019",
+      "observer": null,
+      "original_text": "לאורך חוף הים",
+       "locations": [
+        {
+          "location_name": "חוף הים",
+           "flowers": [
+              "Pancratium maritimum"
+          ],
+          "maps_query_location": "Coastline"
+        }
+      ]
+    },
+    {
+      "date": "17/07/2019",
+      "observer": "אור בן-דור",
+      "original_text": "פורחים עכשיו: ציפורן הלבנון, סביון החרמון, חרחבינה חרמונית, פרגה קרחת, חד עד הלבנון, דבקה משחירה, קדד אדום פרחים, מרווה בוצינית, נפית קיליקית, חד אבקן, אכילאה, קוסיניה",
+      "locations": [
+        {
+          "location_name": "חרמון עליון",
+          "flowers": [
+            "Dianthus libanotis",
+            "Senecio hermonis",
+            "Eryngium hermoneum",
+            "Onosma echinatum",
+             "Juniperus cedrus",
+            "Galium nigricans",
+            "Astragalus cruciatus",
+            "Salvia viscosa",
+            "Nepeta cilicia",
+            "Helianthemum vesicarium",
+            "Achillea",
+            "Cousinia"
+          ],
+          "maps_query_location": "Mount Hermon Upper"
+        }
+      ]
+    },
+    {
+       "date":"16/07/2019",
+       "observer": null,
+       "original_text": "חמניות בר בכפר תבור",
+       "locations": [
+         {
+           "location_name": "כפר תבור",
+           "flowers": [
+             "Helianthus annuus"
+            ],
+          "maps_query_location": "Kfar Tavor"
+         }
+      ]
+    },
+    {
+      "date": "15/07/2019",
+      "observer": null,
+      "original_text": "לפופית החיצים  חבלבליים   בריכות מעגן-מיכאל  10.7.19\nמלוח קטן-פרי  סלקיים  בריכות מעגן-מיכאל  10.7.19 (1)\nחוף-דור נחשולים : עדעד רותמי, קריתמון ימי\nחוף-הבונים :  מלחית אשלגנית, נר-הלילה החופי , ערר כרתי , צלקנית נאכלת , קצח השדה , שום  לבנבן במצב קשה.., שלמון יפואי, אגמון הכדורים, חלבלוב הים , חבלבל החוף, ינבוט השדה, לפופית החוף, הגא מצויה   \nבריכות-המלח עתלית : ערבז משובל, פרעושית סיצילית, רופיית הים, אוכם חופי, אשבל ארץ-ישראלי\nאחו בנימינה : קחוונית מצויה, אדמדמית פלישתית, חלבלוב קטן-פרי\nצומת שפיה: חלבלוב מחורץ, אמברוסיה גריי\nבית-עלמין נוה-ים : ליבן משולש",
+      "locations": [
+         {
+          "location_name": "בריכות מעגן מיכאל",
+           "flowers": [
+             "Ipomoea sagittata",
+              "Halocnemum strobilaceum"
+           ],
+           "maps_query_location":"Ma'agan Michael Ponds"
+         },
+        {
+          "location_name": "חוף דור נחשולים",
+          "flowers":[
+             "Limoniastrum monopetalum",
+             "Crithmum maritimum"
+            ],
+          "maps_query_location":"Dor Beach Nachsholim"
+        },
+        {
+           "location_name":"חוף הבונים",
+           "flowers":[
+              "Suaeda aegyptiaca",
+              "Oenothera drummondii",
+             "Juniperus phoenicea",
+              "Sarcocornia perennis",
+             "Nigella arvensis",
+              "Allium neapolitanum",
+             "Polygonum equisetiforme",
+             "Scirpoides holoschoenus",
+             "Euphorbia paralias",
+             "Convolvulus lanatus",
+             "Frankenia pulverulenta",
+              "Ipomoea imperati",
+               "Lythrum hyssopifolia"
+             ],
+            "maps_query_location": "Hof HaBonim"
+        },
+         {
+          "location_name": "בריכות המלח עתלית",
+           "flowers": [
+              "Lycium shawii",
+              "Pulicaria sicula",
+               "Ruppia maritima",
+              "Halimione portulacoides",
+               "Ballota philistaea"
+             ],
+          "maps_query_location":"Atlit Salt Ponds"
+        },
+         {
+           "location_name":"אחו בנימינה",
+           "flowers":[
+              "Anthemis cotula",
+               "Glaucium arabicum",
+                "Euphorbia exigua"
+             ],
+          "maps_query_location": "Binyamina Meadow"
+         },
+        {
+           "location_name": "צומת שפיה",
+           "flowers":[
+               "Euphorbia sulcata",
+               "Ambrosia grayi"
+             ],
+          "maps_query_location": "Shafiya Junction"
+        },
+         {
+          "location_name":"בית עלמין נוה ים",
+           "flowers":[
+              "Paronychia argentea"
+              ],
+           "maps_query_location":"Neve Yam Cemetery"
+        }
+      ]
+    },
+        {
+      "date": "13/07/2019",
+      "observer": "עומרי קרני",
+      "original_text": "חמניית בר בחניון של הזקן והים ביפו מול הים",
+      "locations": [
+        {
+          "location_name": "יפו",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Jaffa"
+        }
+      ]
+    }
+  ]
+}
+```

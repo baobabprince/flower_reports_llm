@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/01/2021",
+      "observer": null,
+      "original_text": "כרמלית נאה, בן-חצב החורש, דבורנית שחומה, ולריינית איטלקית חשפונית עדינה",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "כרמלית נאה",
+            "בן-חצב החורש",
+            "דבורנית שחומה",
+            "לריינית איטלקית"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2021",
+      "observer": null,
+      "original_text": "סחלב השקיק פרטים בפריחה מלאה, איריס א\"י מפוזר בכל השטח (לקראת סוף פריחה), שמשון סגלגל, כלניות בשפע, לופית מצויה",
+      "locations": [
+        {
+          "location_name": "גבעות זס ציונה",
+          "flowers": [
+            "סחלב השקיק",
+            "איריס ארץ-ישראלי",
+            "שמשון סגלגל",
+            "כלנית",
+            "לופית מצויה"
+          ],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2021",
+       "observer": null,
+      "original_text": "נורית המים קטנות עדיין לא בשיא, מסרק מזרחי, הרבה כלניות והרבה רקפות עירית גדולה בפרחה יפה, זמזומית מצויה, קידה שעירה, אפון מצוי, טופח, תלתן חקלאי, בצעוני מצוי ( צ'רטה) כף-צפרדע ( יבשה- בבריכת ברקת) זוטה מעורקת",
+      "locations": [
+        {
+          "location_name": "בריכת צ'רטה",
+            "flowers": [
+            "נורית המים",
+             "מסרק מזרחי",
+            "כלנית",
+            "רקפת",
+             "עירית",
+            "זמזומית מצויה",
+            "קידה שעירה",
+            "אפון מצוי",
+             "טופח",
+            "תלתן חקלאי",
+            "בצעוני מצוי",
+            "זוטה מעורקת"
+          ],
+           "maps_query_location": "Charte Pond"
+
+        },
+         {
+           "location_name": "בריכת ברקת",
+             "flowers": [
+                "כף-צפרדע"
+               ],
+            "maps_query_location": "Bareket Pond"
+          }
+      ]
+    },
+    {
+      "date": "24/01/2021",
+      "observer": "נורית שטיינהרט",
+      "original_text": "תחילת הפריחה של איריס הארגמן. מופעים בודדים",
+      "locations": [
+        {
+          "location_name": "שמורת חומרה",
+          "flowers": [
+            "איריס ארגמן"
+          ],
+          "maps_query_location": "Homra Reserve"
+        }
+      ]
+    },
+     {
+      "date": "24/01/2021",
+      "observer": null,
+      "original_text": "עירית בחורש ממזרח לכפר גליקסון",
+      "locations": [
+        {
+          "location_name": "כפר גליקסון",
+          "flowers": [
+             "עירית"
+          ],
+          "maps_query_location":"Kfar Glikson"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2021",
+      "observer": null,
+      "original_text": "אכסף מבריק ורומולאה צידונית",
+      "locations": [
+        {
+           "location_name": "כרמל",
+          "flowers": [
+            "אכסף מבריק",
+            "רומולאה צידונית"
+          ],
+          "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+      "date": "23/01/2021",
+      "observer": null,
+       "original_text": "איריס ארגמן בודדים, רותם המדבר, אזוביון דגול, קידה שעירה",
+      "locations": [
+         {
+          "location_name": "גבעות הכורכר בנס-ציונה",
+          "flowers": [
+            "איריס ארגמן",
+            "רותם המדבר",
+            "אזוביון דגול",
+            "קידה שעירה"
+          ],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2021",
+       "observer": null,
+      "original_text": "דווחו לנו לכאן על פריחת שקדיות ( שקד מצוי)",
+      "locations": [
+        {
+          "location_name": "סטף",
+          "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location":"Staf"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2021",
+       "observer": null,
+      "original_text": "בליפתא ישנה פריחה  יפה  של שקדיות",
+      "locations": [
+        {
+          "location_name": "ליפתא",
+          "flowers": [
+            "שקד מצוי"
+          ],
+           "maps_query_location":"Lifta"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2021",
+       "observer": null,
+      "original_text": "מרווה מצרית, שכרכך ריחני, דבקת יריחו , חלביב רותמי, דו-קרן מדברית, דרדר מצוי וזוג חסידות בקן על עמוד חשמל",
+      "locations": [
+        {
+           "location_name": "בקעה",
+          "flowers": [
+            "מרווה מצרית",
+            "שכרכך ריחני",
+            "דבקת יריחו",
+            "חלביב רותמי",
+            "דו-קרן מדברית",
+            "דרדר מצוי"
+           ],
+           "maps_query_location": "בקעה"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,217 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/09/2018",
+      "observer": "דוד פורת",
+      "original_text": "חורבת מנחה -  (מאגרון תפעולי מי נחל תבור):   מלוכיה נאכלת  -  אוכלוסיה  (מעורבת) מקסימה פורחת . מיעוט הפרטים מלוכיה משולשת.  אינני יודע לאמר מקור האוכלוסייה.  בניגוד לדיווחים לא מעטים ועל פי נסיוני,  2 המינים נדירים ביותר באזור אם בכלל.    כן פורחים שם אל ציצית לבנה וליפיה זוחלת. 2 מינים ראשונים כדאי לעדכן מפות תפוצה.",
+      "locations": [
+        {
+          "location_name": "חורבת מנחה",
+           "flowers": ["Corchorus olitorius", "Corchorus trilocularis", "Alyssum homalocarpum", "Lippia nodiflora"],
+           "maps_query_location": "Khorbat Minha"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2018",
+      "observer": null,
+      "original_text": "עוקץ עקרב ארם צובא בכרמל",
+       "locations": [
+        {
+          "location_name": "ארם צובא",
+          "flowers": ["Heliotropium europaeum"],
+           "maps_query_location": "Aram Tzova"
+        },
+         {
+          "location_name": "כרמל",
+           "flowers": ["Heliotropium europaeum"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+     "date": "28/09/2018",
+     "observer": null,
+     "original_text": "פרח מצוקים חביב בנחל מערות",
+      "locations": [
+       {
+          "location_name": "נחל מערות",
+          "flowers": ["Dianthus pendulus"],
+          "maps_query_location": "Nahal Mearot"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2018",
+      "observer": null,
+      "original_text": "יד-בנימין : אבוטילון תיאופרסטוס, אנודה מצוייצת   כביש-171 מערבית לבור-חמת\nבוצין סיני \nממשית : בן חצב מדברי, חבצלת הנגב, לוניאה מחודדת , פיגמית מגובששת   \nבתרונות-רוחמה: חצב גלוני\nמערבית לבור חמת: מרמר הנגב  \nסתוונית הקליפות:    מול כלא-נפחא, בהד 1  \nחניון הרועה: ציפורן סיני  ציפורניים",
+      "locations": [
+        {
+          "location_name": "יד בנימין",
+            "flowers": ["Abutilon theophrasti", "Anoda cristata"],
+          "maps_query_location": "Yad Binyamin"
+        },
+          {
+          "location_name": "כביש 171",
+            "flowers": ["Abutilon theophrasti", "Anoda cristata", "Verbascum sinaiticum"],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "בור חמת",
+           "flowers": ["Abutilon theophrasti", "Anoda cristata", "Verbascum sinaiticum", "Helianthemum vesicarium"],
+          "maps_query_location": "Bor Hamat"
+        },
+        {
+          "location_name": "ממשית",
+           "flowers": ["Prospero autumnale", "Pancratium sickenbergeri", "Loniaea mucronata", "Fagonia bruguieri"],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "בתרונות רוחמה",
+           "flowers": ["Prospero hierosolymitanum"],
+          "maps_query_location": "Batronot Ruhama"
+        },
+         {
+          "location_name": "כלא נפחא",
+           "flowers": ["Colchicum tunicatum"],
+          "maps_query_location": "Nafha Prison"
+         },
+         {
+          "location_name": "בהד 1",
+           "flowers": ["Colchicum tunicatum"],
+          "maps_query_location": null
+         },
+         {
+          "location_name": "חניון הרועה",
+          "flowers": ["Dianthus sinaicus", "Dianthus"],
+          "maps_query_location": "Hanion Haroeh"
+        }
+      ]
+    },
+    {
+      "date": "27/09/2018",
+      "observer": null,
+      "original_text": "קוצן קיפח , שום סתווי וחורשף מצוייץ",
+      "locations": [
+        {
+          "location_name": "גבעת ההגנה",
+           "flowers": ["Echinops polyceras", "Allium autumnale", "Cynara syriaca"],
+          "maps_query_location": "Givat Hahagana"
+        },
+          {
+           "location_name": "כרמל",
+           "flowers": ["Echinops polyceras", "Allium autumnale", "Cynara syriaca"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "27/09/2018",
+      "observer": null,
+      "original_text": "פורח בבורות לוץ",
+     "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["Chaerophyllum maculatum"],
+          "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+     {
+      "date": "26/09/2018",
+      "observer": null,
+      "original_text": "בהר חוזק",
+       "locations": [
+        {
+          "location_name": "הר חוזק",
+          "flowers": ["Colchicum bifolium"],
+           "maps_query_location": "Har Hozek"
+        }
+      ]
+    },
+    {
+      "date": "26/09/2018",
+      "observer": null,
+       "original_text": "חוף הכרמל, עתלית, פיסגת הר תבור, בכניסה למושב בית חנניה, יודפת ( כ 300 אלף חצבים פורחים שם בערך) , בדרך מנחל שניר הבניאס, גבעת התנ\"ך בירושלים",
+       "locations": [
+        {
+          "location_name": "חוף הכרמל",
+          "flowers": ["Prospero autumnale"],
+           "maps_query_location": "Hof HaCarmel"
+        },
+        {
+          "location_name": "עתלית",
+          "flowers": ["Prospero autumnale"],
+          "maps_query_location": "Atlit"
+        },
+         {
+          "location_name": "פיסגת הר תבור",
+          "flowers": ["Prospero autumnale"],
+          "maps_query_location": "Mount Tabor Summit"
+        },
+          {
+          "location_name":"בית חנניה",
+          "flowers": ["Prospero autumnale"],
+           "maps_query_location": "Beit Hananya"
+          },
+           {
+          "location_name": "יודפת",
+          "flowers": ["Prospero autumnale"],
+          "maps_query_location": "Yodfat"
+        },
+          {
+          "location_name":"נחל שניר",
+           "flowers": ["Prospero autumnale"],
+           "maps_query_location": "Nahal Snir"
+           },
+            {
+          "location_name":"בניאס",
+           "flowers": ["Prospero autumnale"],
+           "maps_query_location":"Banias"
+           },
+            {
+          "location_name": "גבעת התנ\"ך",
+           "flowers": ["Prospero autumnale"],
+          "maps_query_location": "Givat HaTanakh"
+        },
+           {
+          "location_name": "ירושלים",
+           "flowers": ["Prospero autumnale"],
+          "maps_query_location":"Jerusalem"
+          }
+
+      ]
+    },
+     {
+      "date": "25/09/2018",
+      "observer": null,
+      "original_text": "המקום מקסים כמו קפיצה קטנה לחו\"ל",
+         "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [],
+          "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2018",
+      "observer": "רון פרומקין",
+      "original_text": "פורח ב-23/9 בעכו, בחוף העיר העתיקה. ראוי לעדכן את עונת הפריחה באתר",
+       "locations": [
+        {
+          "location_name": "עכו",
+          "flowers": ["Heliotropium supinum"],
+          "maps_query_location": "Akko"
+        },
+         {
+          "location_name": "חוף העיר העתיקה",
+           "flowers": ["Heliotropium supinum"],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

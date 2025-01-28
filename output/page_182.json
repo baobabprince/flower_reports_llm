@@ -1,0 +1,257 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/05/2021",
+      "observer": "דרור בר-ניר",
+      "original_text": "שום קצר - הרבה פרטים.. עוד פרחו: אלמוות הכסף, שרביטן ריסני, דרדר, עכנאי,  לשון-שור מגובבת, פרג נחות, ועוד...",
+      "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": [
+            "Allium stamineum",
+            "Helichrysum sanguineum",
+            "Echium",
+            "Onosma",
+             "Cynoglossum",
+            "Papaver syriacum"
+          ],
+          "maps_query_location": "Givat Humra"
+        }
+      ]
+    },
+    {
+      "date": "10/05/2021",
+      "observer": "דרור בר-ניר",
+       "original_text": "עוד פורחים:  אשבל מופסק, אשבל מוערק, מוצית קוצנית, עולש מצוי, חרחבינה מכחילה, מרוות ירושלים, לוטם שעיר, לוטם מרווני, נפית כפופה, שלהבית דביקה, בוצין, כלך, געדה מפושקת, פרג נחות, דל קרניים כרמלי, חבלבלים שונים ועוד....",
+      "locations": [
+        {
+          "location_name": "נחל כלח",
+          "flowers": [
+            "Salvia dominica",
+            "Salvia viscosa",
+            "Paliurus spina-christi",
+             "Cichorium intybus",
+             "Eryngium creticum",
+             "Salvia hierosolymitana",
+             "Cistus incanus",
+             "Cistus salviifolius",
+              "Nepeta curviflora",
+              "Phlomis viscosa",
+               "Verbascum",
+               "Tordylium aegyptiacum",
+               "Teucrium divaricatum",
+             "Papaver syriacum",
+               "Cerastium hieronymi",
+                "Convolvulus"
+          ],
+          "maps_query_location": "Nahal Kallah"
+        }
+      ]
+    },
+     {
+      "date": "09/05/2021",
+      "observer": null,
+      "original_text": "פשתת המכבד, שברק מלבין, חלבלוב משונשן, חפורית הבולבוסין, מעוג אפיל , מקור-חסידה גזור, מרבה-חלב מונפוליני , מרווה מנוצה, מרווה יהודה, מרוות אייג, נוציץ מנוצה, נץ-חלב חום, נירית הקמה, אספסת קעורה , אספסת ריסנית, גלימה גלילנית , דרדר קיפח, חוח עקוד",
+      "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": [
+              "Linum corymbulosum",
+            "Cephalaria syriaca",
+            "Euphorbia denticulata",
+             "Geocaryum syriacum",
+             "Anacyclus apetalus",
+            "Erodium gruinum",
+             "Polygonum monopellii",
+              "Salvia pinnata",
+               "Salvia judaeorum",
+              "Salvia aegyptiaca",
+               "Gagea reticulata",
+              "Ornithogalum narbonense",
+               "Filago germanica",
+               "Medicago turbinata",
+               "Medicago ciliaris",
+               "Gladiolus galileensis",
+              "Centaurea iberica",
+               "Scolymus maculatus"
+          ],
+          "maps_query_location": "Golan Junction"
+        }
+      ]
+    },
+     {
+      "date": "09/05/2021",
+        "observer": null,
+        "original_text":"יער אודם: חומעת החורש , חיננית חד-שנתית , בן-חורש רחב-עלים , נזמית קטועה , חיננית חד-שנתית, שנק החורש טלטל חרמון: קרנונית שבירה, תכלתן מזרחי , חלמית זנוחה, טופח זקוף, לשון-כלב הררית, עריר הלבנון, עשנן רפואי, פקעון פסטלוצ'י , עדשת אודם,  ארביס אושה , גרניון הררי ,  דובדבן שרוע , ולריינית מאוצבעת מחנה ערער: ציפורנית עבת-עוקץ, קיפודית הקרקפות, שום שעיר, תלתן הדור, תלתן חדוד, חלבלוב עב-זרע, חריריים מצויים, מגנונית פקטורי, מלעניאל הנוצות, עדשה מזרחית , אחיגזר ההרים, אחיגזר ההרים, אריסימון גלוני, גביעול אשון, ולריינה איטלקית",
+      "locations": [
+          {
+              "location_name":"יער אודם",
+             "flowers": [
+                  "Rumex obtusifolius",
+                 "Bellis annua",
+                  "Cyclamen coum",
+                 "Ajuga orientalis",
+                  "Bellis annua",
+                  "Thesium bergeri"
+             ],
+              "maps_query_location":"Ya'ar Odem"
+          },
+          {
+             "location_name":"טלטל חרמון",
+             "flowers": [
+                  "Cerastium fragillimum",
+                  "Anchusa orientalis",
+                   "Malva neglecta",
+                  "Antirrhinum orontium",
+                  "Cynoglossum montanum",
+                  "Juniperus drupacea",
+                   "Fumaria officinalis",
+                   "Gladiolus pastellaceus",
+                   "Lens odemensis",
+                  "Arabis aucheri",
+                   "Geranium tuberosum",
+                  "Prunus prostrata",
+                  "Valeriana italica"
+               ],
+             "maps_query_location":"Tel Tal Hermon"
+         },
+        {
+          "location_name":"מחנה ערער",
+           "flowers": [
+                  "Dianthus crinitus",
+                  "Echinops gaillardotii",
+                  "Allium hirsutum",
+                 "Trifolium speciosum",
+                  "Trifolium billardieri",
+                   "Euphorbia macrocarpa",
+                   "Bupleurum nodiflorum",
+                  "Phlomis pctorii",
+                  "Silene longipetala",
+                 "Lens orientalis",
+                   "Lappula barbata",
+                    "Lappula barbata",
+                    "Erysimum goniocaulon",
+                   "Gagea dayana",
+                   "Valeriana tuberosa"
+              ],
+            "maps_query_location":"Machane Arar"
+        }
+      ]
+    },
+    {
+      "date": "07/05/2021",
+      "observer": null,
+      "original_text": "‏‏הר קטע: תורמוס שעיר, לחך כרתי ,  לוטוס ריסני, כריך מרוחק , כף-עוף פחוסה, מצילות מצוייצות, חומעה משוננת, ולריינית קוטשי , נב-כלב דוקרני ,   ולריינית עטורה ,  הרדופנין צר-עלים , הרדופנין סורי,  אספסת קטנה , אשבל כרתי , אאירה נימית, אבובית הקרקפות´ אזוביון דגול´ איטן ההרים, אלמוות שיכני ,  סחלב אנטולי, חלוק שעיר , שפתן מצוי, ציפורנית צרפתית , שמשונית הטיפין",
+      "locations": [
+        {
+          "location_name": "הר קטע",
+          "flowers": [
+            "Lupinus pilosus",
+            "Onosma kretensis",
+            "Lotus halophilus",
+             "Lachnoloma aegyptiacum",
+             "Ornithopus compressus",
+             "Zosimia absinthifolia",
+             "Rumex dentatus",
+            "Valeriana kotschyi",
+              "Paracaryum rugulosum",
+            "Valeriana coronata",
+            "Nerium angustifolium",
+            "Nerium oleander",
+            "Medicago minima",
+            "Salvia cretica",
+            "Aira capillaris",
+           "Echinophora orientalis",
+            "Micromeria myrtifolia",
+              "Asperula daphneola",
+               "Orchis anatolica",
+            "Galium setaceum",
+            "Ajuga chamaepitys",
+            "Dianthus tripunctatus",
+             "Helianthemum stipulatum"
+          ],
+          "maps_query_location": "Har Kata"
+        }
+      ]
+    },
+      {
+      "date": "07/05/2021",
+      "observer": null,
+      "original_text": "כדורן ענף פורח עכשיו בשמורת החולה - רשות הטבע והגנים ובשלולית חורף ביער חדרה",
+      "locations": [
+          {
+          "location_name": "שמורת החולה",
+           "flowers": [
+            "Echinophora platyloba"
+          ],
+          "maps_query_location": "Hula Nature Reserve"
+        },
+          {
+           "location_name": "יער חדרה",
+           "flowers": [
+            "Echinophora platyloba"
+           ],
+          "maps_query_location":"Hadera Forest"
+       }
+      ]
+    },
+    {
+      "date": "07/05/2021",
+      "observer": "אמתי טל אור",
+      "original_text": "בנבי סמואל מצאתי  ב 5/5 וצילמתי מה שהתברר כשכרון לבן",
+      "locations": [
+        {
+          "location_name": "נבי סמואל",
+           "flowers": [
+             "Hyoscyamus albus"
+           ],
+          "maps_query_location": "Nebi Samuel"
+        }
+      ]
+    },
+      {
+      "date": "06/05/2021",
+      "observer": "אסף",
+      "original_text": "בפארק הסלעים בכיסרא, ממש בתחילת המסלול השחור, כ - 3 עמודי תפרחת של דורבנית התבור",
+      "locations": [
+        {
+          "location_name": "פארק הסלעים בכיסרא",
+           "flowers": [
+             "Delphinium peregrinum"
+           ],
+          "maps_query_location": "Kisra Rock Park"
+        }
+      ]
+    },
+    {
+      "date": "05/05/2021",
+      "observer": null,
+      "original_text": "מסלול נעים, רובו בצל , כולל פריחות רבות . ראו בקישור למטה",
+       "locations": [
+        {
+          "location_name": "קרן ברתות",
+           "flowers": [
+             "Lilium candidum"
+           ],
+          "maps_query_location": "Keren Bartot"
+        }
+      ]
+    },
+     {
+      "date": "05/05/2021",
+      "observer": "שלמה גולדברג",
+      "original_text": "נחל כלח פריחה יפה",
+      "locations": [
+        {
+          "location_name": "נחל כלח",
+           "flowers": [
+             "Lilium candidum"
+           ],
+          "maps_query_location": "Nahal Kallah"
+        }
+      ]
+    }
+  ]
+}
+```

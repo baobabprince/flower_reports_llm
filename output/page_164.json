@@ -1,0 +1,170 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/12/2021",
+      "observer": null,
+      "original_text": "נרקיס סתווי, סיתוונוןת ועוד ראו בקישור למטה",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "נרקיס סתווי",
+            "סתוונית"
+          ],
+          "maps_query_location": "Khirbet Milh"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2021",
+      "observer": null,
+      "original_text": "כדן קטן פרחים, סיתווניות, גבעות ירקרקות ועוד",
+       "locations": [
+        {
+          "location_name": "בארי",
+          "flowers": [
+            "כדן קטן-פרחים",
+             "סתוונית"
+          ],
+           "maps_query_location": "Be'eri"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2021",
+      "observer": "שרון",
+      "original_text": "מוריקה מבירקה (שיטה)",
+       "locations": [
+        {
+         "location_name": "נחל בוטם",
+         "flowers": [
+            "שיטה"
+          ],
+          "maps_query_location": "Nahal Botem"
+         }
+         ,
+         {
+          "location_name": "הרי אילת",
+          "flowers": [
+            "שיטה"
+          ],
+          "maps_query_location": "Eilat Mountains"
+         }
+      ]
+     },
+    {
+      "date": "04/12/2021",
+      "observer": "אלינור רום",
+      "original_text": "בהר ברקן, במסלול מעגלי קצר ומקסים בראש ההר, פורחים כרכומים, רקפות וסיתווניות היורה. ובלי קשר לפרחים, הנוף מקסים. המסלול נמצא בחניון של מצפור הר ברקן ומסומן  בצבע אדום (כקילומטר).",
+       "locations": [
+        {
+          "location_name": "הר ברקן",
+          "flowers": [
+            "כרכום",
+            "רקפת",
+            "סתוונית"
+          ],
+          "maps_query_location": "Har Barkan"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2021",
+      "observer": "אלינור רום",
+      "original_text": "ביער נחשונים כ300 מטרים אחרי הכניסה ישנה פריחה מקסימה של נרקיסים (בעיקר בצד ימין של ערוץ הנחל הקטן).",
+       "locations": [
+        {
+          "location_name": "יער נחשונים",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nakhshonim Forest"
+        }
+      ]
+    },
+     {
+      "date": "04/12/2021",
+      "observer": "ענת טל",
+      "original_text": "בחניון היערנים בנשר התחלת פריחת  הכרכום בבודדים עם התחלה של מישטחים.",
+       "locations": [
+        {
+          "location_name": "נשר",
+           "flowers": [
+             "כרכום"
+          ],
+          "maps_query_location": "Nesher"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2021",
+      "observer": "יובל כפיר",
+      "original_text": "סתוונית - סוף פריחה. כרכומים - בשיא. רקפות ונרקיסים - תחילת פריחה.\nליד שביל היערן (מעבר לכביש מחורבת חנות) המוני נרקיסים בתחילת פריחה.",
+        "locations": [
+         {
+          "location_name": "חורבת חנות",
+          "flowers": [
+            "סתוונית",
+            "כרכום",
+            "רקפת",
+             "נרקיס"
+          ],
+           "maps_query_location": "Khurvat Hanot"
+         },
+         {
+            "location_name": "שביל היערן",
+            "flowers": [
+              "נרקיס"
+            ],
+            "maps_query_location": "Yaaran Trail"
+         }
+      ]
+    },
+     {
+      "date": "01/12/2021",
+      "observer": null,
+      "original_text": "המוני נרקיס סתווי, בן-חצב סיתווני, כדן קטן-פרחים",
+       "locations": [
+        {
+           "location_name": "שמורת נחל תנינים",
+          "flowers": [
+            "נרקיס סתווי",
+            "בן-חצב סתווני",
+             "כדן קטן-פרחים"
+           ],
+          "maps_query_location": "Nahal Taninim Reserve"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2021",
+      "observer": "הדס תדהר",
+      "original_text": "הסתיימה פריחת החלמוניות ברכס בוקר",
+       "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Boker Ridge"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2021",
+      "observer": null,
+      "original_text": "בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

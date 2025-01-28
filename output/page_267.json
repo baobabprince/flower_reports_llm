@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/02/2020",
+      "observer": "גניה ויהודה קדם",
+      "original_text": "פריחה יפה מאד של כלניות בביתרונות רוחמה. ישנם ריכוזים של איריס ארצישראלי",
+      "locations": [
+        {
+          "location_name": "ביתרונות רוחמה",
+          "flowers": [
+            "כלנית",
+            "איריס ארצישראלי"
+          ],
+            "maps_query_location": "Ruhama Badlands"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2020",
+      "observer": null,
+      "original_text": "ראו בקישור",
+       "locations": [
+        {
+            "location_name": "נס ציונה",
+            "flowers": [],
+            "maps_query_location": "Ness Ziona"
+        }
+    ]
+    },
+    {
+      "date": "03/02/2020",
+      "observer": "עידו מגן",
+       "original_text": "המון רקפות נצפו ביער שמדרום לטל שחר ב-1.2.20",
+      "locations": [
+        {
+            "location_name": "טל שחר",
+            "flowers": [
+              "רקפת"
+            ],
+             "maps_query_location":"Tel Shahar"
+        }
+      ]
+    },
+      {
+      "date": "02/02/2020",
+      "observer": null,
+      "original_text": "אחרי הסיתווניות  צובעות בקיבוץ יסעור הכלניות הלבנות את הגבעה הקטנה.",
+      "locations": [
+        {
+          "location_name": "יסעור",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Yas'ur"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2020",
+      "observer": null,
+      "original_text": "בגבעת חומרה, בכורכרי נס ציונה, בפולג, הדסים,",
+      "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": [
+            "איריס הארגמן"
+          ],
+           "maps_query_location": "Givat Humra"
+        },
+         {
+          "location_name": "נס ציונה",
+            "flowers": [
+             "איריס הארגמן"
+            ],
+             "maps_query_location": "Ness Ziona"
+        },
+        {
+          "location_name": "פולג",
+            "flowers": [
+             "איריס הארגמן"
+            ],
+            "maps_query_location": "Poleg"
+        },
+        {
+            "location_name":"הדסים",
+             "flowers": [
+              "איריס הארגמן"
+            ],
+             "maps_query_location":"Hadassim"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2020",
+      "observer": "מהרש\"ק שרי",
+        "original_text": "מנחת מגידו כלמחןת סגולות וורודות שמורת אלונים ורמןת מנשה כלניות בשלל צבעים ורקפות.",
+      "locations": [
+         {
+          "location_name": "מנחת מגידו",
+          "flowers": [
+            "כלנית",
+             "רקפת"
+          ],
+          "maps_query_location": "Megiddo Airfield"
+        },
+         {
+          "location_name": "שמורת אלונים",
+          "flowers": [
+            "כלנית",
+            "רקפת"
+          ],
+            "maps_query_location": "Alonim Reserve"
+        },
+        {
+            "location_name":"רמות מנשה",
+            "flowers":[
+              "כלנית",
+              "רקפת"
+            ],
+            "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2020",
+      "observer": null,
+      "original_text": "יקינתונית מעורקת, מיני זהביות, בצלציה א\"י נוף מהמם",
+      "locations": [
+        {
+          "location_name": "סרטבה",
+           "flowers": [
+            "יקינתונית מעורקת",
+            "זהבית",
+            "בצלציה"
+          ],
+           "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+        {
+      "date": "31/01/2020",
+      "observer": "אורית רוזנבוים",
+      "original_text": "זרים של נרקיסים פורחים באחו נוב :) מדהיםםםם",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Nahal Nov"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2020",
+      "observer": "אורנה ניסן",
+        "original_text": "פריחת כלניות צבעוניות בפארק עמק השלום יקנעם עילית. הן מפוזרות במרווחים, אבל המראה מקסים! הכניסה מכיכר המדענים בפינת רח' עמק השלום ( מצד ימין , רואים את יער עמק השלום).",
+      "locations": [
+        {
+          "location_name": "פארק עמק השלום יקנעם עילית",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Yokneam Illit Peace Valley Park"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2020",
+      "observer": "אירית לוי",
+      "original_text": "יער שוקדה החלה פריחת כלניות",
+      "locations": [
+        {
+          "location_name": "יער שוקדה",
+          "flowers": [
+             "כלנית"
+          ],
+           "maps_query_location": "Shokeda Forest"
+        }
+      ]
+    }
+  ]
+}
+```

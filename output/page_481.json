@@ -1,0 +1,225 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/02/2016",
+      "observer": null,
+      "original_text": "המוני חלבלוב מגובשש, וקדד גדול פרי פורחים בארבל",
+      "locations": [
+        {
+          "location_name": "ארבל",
+          "flowers": [
+            "חלבלוב מגובשש",
+            "קדד גדול-פרי"
+          ],
+           "maps_query_location": "Arbel"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2016",
+      "observer": null,
+      "original_text": "יקינתון מזרחי - סוף פריחה, שיכרון זהוב,  מציץ סורי, עיריוני צהוב, שום משולש,  דבקה ?, משקפיים מצויות, ולריינית איטלקית,",
+      "locations": [
+        {
+          "location_name": "ארבל",
+          "flowers": [
+            "יקינתון מזרחי",
+            "שיכרון זהוב",
+            "מציץ סורי",
+            "עיריוני צהוב",
+            "שום משולש",
+            "דבקה",
+              "משקפיים מצויות",
+            "לריינית איטלקית"
+          ],
+           "maps_query_location": "Arbel"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2016",
+      "observer": null,
+      "original_text": "רומולאה צידונית ובן-חצב החורש פורחים במקומות הידועים...",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+             "רומולאה צידונית",
+             "בן-חצב החורש"
+           ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2016",
+      "observer": null,
+      "original_text": "יקינתונית מעורקת פורחת בייט\"ב  במלחת נערן פורחים  אזנן ובת מדבר",
+      "locations": [
+       {
+          "location_name": "יט\"ב",
+           "flowers": [
+             "יקינתונית מעורקת"
+           ],
+            "maps_query_location": null
+        },
+        {
+           "location_name": "מלחת נערן",
+           "flowers": [
+             "אזנן",
+             "בת מדבר"
+           ],
+           "maps_query_location": "Malhat Na'aran"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2016",
+      "observer": "עינת כהן",
+      "original_text": "היום פריחה מרשימה של אירוס ארגמן בשמורה בקדימה",
+      "locations": [
+        {
+          "location_name": "קדימה",
+          "flowers": [
+            "אירוס ארגמן"
+          ],
+           "maps_query_location": "Kadima"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2016",
+      "observer": null,
+      "original_text": "להגיע לגבעת הרקפות בגלעד. להמשיך עם הכביש מערבה ודרומה (לכיוון באח גולני. לנסוע בכביש הנ\"ל עד חציית נחל נילי (מים זורמים על הכביש...) לאחר כמה מאות מטרים ירידת דרך עפר מהכביש לתוך חורשת אלוני התבור. לחנות את הרכב בצד ולהיכנס לשטח עם פריחות יפות. נכון להבוקר כולל פריחות של סחלב אנטולי ומרבדי כלניות בשלל צבעים.",
+       "locations": [
+        {
+          "location_name": "גבעת הרקפות",
+          "flowers": [
+            "סחלב אנטולי",
+            "כלנית"
+          ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "באח גולני",
+          "flowers": [
+             "סחלב אנטולי",
+             "כלנית"
+           ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "נחל נילי",
+          "flowers": [
+             "סחלב אנטולי",
+             "כלנית"
+           ],
+             "maps_query_location": null
+          }
+      ]
+    },
+    {
+      "date": "16/02/2016",
+      "observer": null,
+      "original_text": "1. להיכנס בדיוק מול הכניסה למושב עין העמק (500 מ' מערבה) בתוך חלקת זיתים מרבד יפהפה של ציפורנית מצרית. אם ממשיכים קצת על הדרך אפשר לפגוש תורמוסים ראשונים.\n2. להגיע ליקנעם עילית (מתחם ביג) לחנות בחניון האחורי ולרדת לערוץ מדרום - מרבדי כלניות מדהימים בשלל צבעים!\n3. פגשתי סחלבים פרפרניים על דרך העולה ביער עופר. - להגיע לכניסה של \"מרכז מירב\" לעלות לכיוון מצפור עופר לרדת מהרכב אחרי 300מ' (פיתול שמאלה של 90 מעלות לכיוון המצפור ) וללכת בדרך עפר כמה עשרות מטרים בשולי היער... סחלבים!\n4. להיכנס לנחל השופט דרך הזורע ולהמשיך לכיוון עמק השלום. מרבדי כלניות (כמו מתחת יקנעם...) אלה היילטים... כמובן שהכל פורח , אם תמשיכו לכיוון מצפור עופר ותחנו באחד החניונים פריחות יפות לכל אורך דרך הנוף הפונה מזרחה. בשטחים הפתוחים ובין העצים....",
+        "locations": [
+        {
+          "location_name": "עין העמק",
+          "flowers": [
+            "ציפורנית מצרית",
+             "תורמוס"
+          ],
+           "maps_query_location":"Ein HaEmek"
+        },
+         {
+          "location_name": "יקנעם עילית",
+          "flowers": [
+             "כלנית"
+           ],
+           "maps_query_location":"Yokneam Illit"
+        },
+         {
+          "location_name": "יער עופר",
+           "flowers": [
+             "סחלב פרפרני"
+           ],
+           "maps_query_location": "Ofer Forest"
+        },
+         {
+          "location_name": "מצפור עופר",
+          "flowers": [
+           "סחלב פרפרני"
+          ],
+          "maps_query_location":"Mitzpor Ofer"
+        },
+        {
+          "location_name": "נחל השופט",
+           "flowers": [
+             "כלנית"
+           ],
+           "maps_query_location": "Nahal HaShofet"
+        },
+          {
+          "location_name": "הזורע",
+          "flowers": [
+            "כלנית"
+           ],
+          "maps_query_location":"HaZorea"
+        },
+        {
+          "location_name": "עמק השלום",
+          "flowers": [
+            "כלנית"
+           ],
+           "maps_query_location": "Emek HaShalom"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2016",
+       "observer": null,
+      "original_text": "בשיא היום !!!",
+       "locations": [
+        {
+           "location_name": "ראש פינה",
+          "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Rosh Pinna"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2016",
+      "observer": null,
+      "original_text": "לצד הכביש המוריד מכביש 6 לכיוון פורדיס",
+       "locations": [
+        {
+          "location_name": "פורדיס",
+          "flowers": [
+            "בקיית הביצות"
+          ],
+            "maps_query_location": "Pardes Hana-Karkur"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2016",
+       "observer": null,
+      "original_text": "לצד כביש 6 בירידה במחלף תות: \nפורחים עריוני, שיחי קידה שעירה, כלניות",
+      "locations": [
+          {
+            "location_name": "מחלף תות",
+           "flowers": [
+               "עריוני",
+                "קידה שעירה",
+              "כלנית"
+           ],
+             "maps_query_location": null
+          }
+      ]
+    }
+  ]
+}
+```

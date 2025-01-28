@@ -1,0 +1,167 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/01/2016",
+      "observer": null,
+      "original_text": "עכשיו שמורת אירוס הביצות נוב בשיא הפריחה של הנרקיסים",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס הביצות נוב",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Neve"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2016",
+      "observer": "נביל סלים אבושקארה",
+      "original_text": "בקר מצוין לכל  אלה שאוהבים את היופה של ארצינו במיוחד הפריחה אז הנה לכם דגימה יפה. אתמול בצהרים ניצלנו את מזג האויר הנפלא ויצאנו ( אשתי ואני למסלול ההליכה היומי). שהדגש על הפריחה היפה . מה לא ראינו  חצבים בשיא הפריחה .כלניות פרגים רקפות נרקיסים אפילו המרווה פורחת . סביון שזה נפלא שיש שתי פרחים אחת בצבע צהוב והשניה לבנה  וכולם יודעים שעכשיו הזמן לפריחתה של צפורנית ארץ ישראל שהם ביחד הסביון ממש כמו מפה יפה לכל אלה שרוצים פריחה LIVE יכולים להצטרף אלינו ולהתקשר אלי לנייד 0525771874 .אנחנו גרים בכפר מגאר . אז יום טוב ומבורך לכווווולם",
+      "locations": [
+        {
+          "location_name": "כפר מגאר",
+          "flowers": [
+            "חצב",
+            "כלנית",
+            "פרג",
+            "רקפת",
+            "נרקיס",
+             "מרווה",
+            "סביון",
+             "צפורנית ארץ ישראל"
+          ],
+          "maps_query_location": "Maghar"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2016",
+       "observer": null,
+      "original_text": "שפע של פריחה מהממת - ראו בקישור",
+     "locations": [
+        {
+          "location_name": "תמנע",
+          "flowers": [],
+             "maps_query_location": "Timna"
+        },
+        {
+           "location_name": "הרי אילת",
+            "flowers": [],
+              "maps_query_location": "Eilat Mountains"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2016",
+       "observer": null,
+      "original_text": "ברמות מנשה דליה , ראו קישור",
+        "locations": [
+        {
+          "location_name": "רמות מנשה",
+           "flowers": [
+              "כלנית"
+           ],
+           "maps_query_location": "Ramat Menashe"
+        },
+        {
+           "location_name": "דליה",
+            "flowers": [
+              "כלנית"
+           ],
+              "maps_query_location": "Dalia"
+        }
+      ]
+    },
+     {
+      "date": "30/01/2016",
+      "observer": null,
+      "original_text": "באחו נוב",
+       "locations": [
+        {
+          "location_name": "אחו נוב",
+           "flowers": [
+              "נרקיס"
+           ],
+          "maps_query_location": "Neve"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2016",
+       "observer": null,
+      "original_text": "בגבעת הכורכר בנס ציונה. הזהרו לא לרמוס... באילנות אין עדיין פריחת איריס הארגמן",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר בנס ציונה",
+           "flowers": [
+              "איריס הארגמן"
+           ],
+            "maps_query_location": "Nes Ziona"
+        },
+         {
+          "location_name": "אילנות",
+           "flowers": [
+              "איריס הארגמן"
+           ],
+            "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+     {
+      "date": "28/01/2016",
+      "observer": null,
+        "original_text": "עם דרור בר-ניר, פרטים בגלירה בקישור מצורף",
+         "locations": [
+        {
+          "location_name": "מדבר יהודה",
+           "flowers": [],
+            "maps_query_location": "Judean Desert"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2016",
+      "observer": null,
+         "original_text": "מדבר יהודה עם דרור בר-ניר",
+          "locations": [
+        {
+          "location_name": "מדבר יהודה",
+           "flowers": [],
+            "maps_query_location": "Judean Desert"
+        }
+      ]
+    },
+        {
+      "date": "26/01/2016",
+      "observer": null,
+      "original_text": "שבת 23 לינואר תל בית שמש נפלא!!! הכל מכוסה כלניות אדומות. בית ג'מאל גם כן מקום עם נוף מדהים כנסיה ולאורך השביל קצת רקפות, כלניות ואירוס ארץ ישראל",
+       "locations": [
+        {
+          "location_name": "תל בית שמש",
+           "flowers": [
+            "כלנית אדומה"
+          ],
+            "maps_query_location": "Beit Shemesh"
+        },
+        {
+          "location_name": "בית ג'מאל",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+            "אירוס ארץ ישראל"
+          ],
+           "maps_query_location": "Beit Jamal"
+         }
+      ]
+    },
+    {
+      "date": "25/01/2016",
+      "observer": "רועי קן-תור",
+      "original_text": "התבוננות בסופה מעיני ציפור",
+      "locations": []
+    }
+  ]
+}
+```

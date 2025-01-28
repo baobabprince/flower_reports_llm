@@ -1,0 +1,295 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/04/2017",
+      "observer": null,
+      "original_text": "ליד גן השומרון בשדות מול הכניסה לעין שמר חבוי מרבד יפיהפה של שדה תלתן ופריחת הפרג. ממליצה בחום להגיע",
+      "locations": [
+        {
+          "location_name": "גן השומרון",
+          "flowers": [
+            "Papaver rhoeas",
+            "Trifolium"
+           ],
+          "maps_query_location": "Gan HaShomron"
+        },
+         {
+          "location_name": "עין שמר",
+          "flowers": [
+             "Papaver rhoeas",
+            "Trifolium"
+           ],
+           "maps_query_location": "Ein Shemer"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": "דוד פורת",
+       "original_text": "מרוות ירושלים פורחת גם  בתל קשיש  -  זן ירוק גביע .   כדאי  לעדכן מפות תפוצה.",
+      "locations": [
+        {
+          "location_name": "תל קשיש",
+          "flowers": [
+            "Phlomis viscosa"
+          ],
+          "maps_query_location": "Tel Qashish"
+        },
+        {
+            "location_name": "עמק יזרעאל",
+            "flowers": [
+              "Phlomis viscosa"
+            ],
+            "maps_query_location": "Jezreel Valley"
+          }
+      ]
+    },
+    {
+      "date": "30/03/2017",
+      "observer": "אריאל חיים רועה",
+      "original_text": "שפע פריחה של איריס הגולן. ליד מחנה ברק על גגו של קבר השייח",
+      "locations": [
+        {
+          "location_name": "מחנה ברק",
+          "flowers": [
+            "Iris hermona"
+          ],
+          "maps_query_location": "Mahane Barak"
+        }
+      ]
+    },
+    {
+      "date": "29/03/2017",
+      "observer": "טליה אלקיים",
+      "original_text": "בשביל הכחול (המסלול הבוטני): \nסייפן התבואה, צבעוני ההרים, צהרון מצוי, בן חצב יקינתוני, נורית אסיה, דמומית קטנת פרי, שפתן מצוי, דרדר כחול, מרגנית השדה, פשתה שעירה, לפופית כפנית, נץ חלב צרפתי, שום משולש, תלתן הארגמן, כרמלית נאה, שפרירה קשקשנית, קחוון מצוי, חרצית עטורה, פעמונית קיפחת.\nלאחר השלמת רוב העלייה בשביל הכחול, ישנו שביל לא מסומן (אך מאד נוח ומזמין), שפונה ימינה ומוביל לתצפית לכיוון חוף הכרמל ולכמות נאה של פרחי דבורנית דינסמור ושל סחלב שלוש השיניים.",
+      "locations": [
+        {
+          "location_name": "נחל מערות",
+           "flowers": [
+              "Gladiolus italicus",
+              "Tulipa montana",
+              "Anemone coronaria",
+              "Scilla hyacinthoides",
+              "Ranunculus asiaticus",
+              "Adonis microcarpa",
+              "Ajuga chamaepitys",
+               "Centaurea cyanoides",
+              "Bellis sylvestris",
+              "Linum pubescens",
+              "Convolvulus tricolor",
+              "Ornithogalum narbonense",
+               "Allium triquetrum",
+               "Trifolium purpureum",
+              "Glandularia pulchella",
+               "Anisantha sterilis",
+               "Matricaria chamomilla",
+              "Chrysanthemum coronarium",
+              "Campanula strigosa",
+              "Ophrys dinsmorei",
+              "Orchis tridentata"
+            ],
+          "maps_query_location": "Nahal Mearot"
+        },
+          {
+          "location_name": "חוף הכרמל",
+           "flowers": [
+               "Ophrys dinsmorei",
+              "Orchis tridentata"
+            ],
+          "maps_query_location": "Hof HaCarmel"
+        }
+
+      ]
+    },
+    {
+      "date": "29/03/2017",
+      "observer": "יהל, ליעד, נחמה ודוד פורת",
+      "original_text": "רבים רבים נחשפו מזה כחודש  לפריחה המרהיבה  של שדות הפרגים של הכפר נין.  אני קורא לזה צפון אדום  כיוון שהתופעה השנה חובקת שדות חקלאיים רבים, למשל בקעת יבנאל - שדות פוריה וממליץ לרבים נוספים לטייל ולהתרשם שם טרם העלמם ועל סף הפיכתם  לחלום תרתי משמע...אני ממליץ להתחיל רגלית ממגרש החנייה של  מסעדת מקדולנד במסעף הכניסה לכפר נין.  במרחב הסמוך מעל  10 שדות ששרים אדום עד האופק  ואת הלוהט  והמדליק ביותר ניתן לראות כבר מהמגרש  כמציץ בינות  ומעבר לזיתים.  בהזדמנות זו:  כל השטחים נחרשים שם  בלהב מחרשה של  30  ס\"מ בלבד  ולכן  שרדו מאות סייפני התבואה בעיקר מסביב לזיתים.",
+      "locations": [
+        {
+          "location_name": "נין",
+          "flowers": [
+            "Papaver rhoeas",
+              "Gladiolus italicus"
+           ],
+          "maps_query_location": "Naim"
+        },
+         {
+          "location_name": "בקעת יבנאל",
+             "flowers": [
+            "Papaver rhoeas"
+              ],
+          "maps_query_location": "Yavne'el Valley"
+        },
+         {
+          "location_name": "פוריה",
+             "flowers": [
+            "Papaver rhoeas"
+              ],
+           "maps_query_location": "Poriya"
+        }
+
+      ]
+    },
+    {
+      "date": "28/03/2017",
+       "observer": null,
+       "original_text": "איריס החרמון ( הגולן) , מספר מיני תלתנים, תורמוס ההרים, תורמוס צר-עלים,  נוריות המים בבריכה משמאל לכניס הלאיזור האיריסים, כלך מצוי , מרבדי צנון פגיוני, כניות , נוריות, רקפות, איסטיס,",
+      "locations": [
+        {
+           "location_name": "צומת המפלים",
+            "flowers": [
+             "Iris hermona",
+             "Trifolium",
+              "Lupinus pilosus",
+              "Lupinus angustifolius",
+              "Ranunculus aquatilis",
+               "Cerinthe major",
+               "Raphanus raphanistrum",
+              "Anemone coronaria",
+               "Ranunculus",
+              "Cyclamen",
+               "Isatis"
+            ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "28/03/2017",
+      "observer": null,
+      "original_text":"סחלב סורי, כלניות, חיננית רב שנתית , דודא רפואי, מק\"ח רומאי, זיכריני , סחלב פרפרני,  ארביס אביבי,  אצבעית רומאית",
+      "locations": [
+         {
+          "location_name": "נמרוד",
+          "flowers": [
+             "Orchis syriaca",
+              "Anemone coronaria",
+             "Bellis perennis",
+              "Mandragora autumnalis",
+              "Parentucellia latifolia",
+               "Myosotis",
+               "Anacamptis papilionacea",
+                "Arabis verna",
+              "Dactylorhiza romana"
+           ],
+          "maps_query_location": "Nimrod"
+        },
+        {
+          "location_name": "הר קטע",
+          "flowers": [
+             "Orchis syriaca",
+              "Anemone coronaria",
+             "Bellis perennis",
+              "Mandragora autumnalis",
+              "Parentucellia latifolia",
+               "Myosotis",
+               "Anacamptis papilionacea",
+                "Arabis verna",
+              "Dactylorhiza romana"
+           ],
+          "maps_query_location": null
+        }
+
+      ]
+    },
+     {
+      "date": "28/03/2017",
+      "observer": null,
+      "original_text": "סיגל עטוי, כדן סגול ( הרבה), מגלית גדולה, מק\"ח רומאי, בר נורית חרמשי ( המונים) זמזומית החרמון סוף פריחה, אליסון חרוטי, סכיכון משונן, גביעונית עבת פרי וגלעינית זעירת פרחים",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "Viola libanotica",
+            "Globularia cordifolia",
+             "Megaleia syriaca",
+              "Parentucellia latifolia",
+            "Ranunculus arvensis",
+            "Ziziphora clinopodioides",
+             "Alyssum strigosum",
+             "Notobasis syriaca",
+             "Gagea graeca",
+             "Erophila verna"
+           ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+       {
+      "date": "28/03/2017",
+      "observer": null,
+        "original_text":"סיבוב איציק : מטפסים למעלה \nקורדיליית הסלעים, מגלית גדולה, רומוליאת השלג, כדן סגול, יקינתון מזרחי, זהבית שעירה",
+      "locations": [
+          {
+          "location_name": "חרמון",
+          "flowers": [
+              "Corydalis solida",
+               "Megaleia syriaca",
+            "Romulea nivalis",
+             "Globularia cordifolia",
+             "Hyacinthus orientalis",
+             "Gagea reticulata"
+           ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2017",
+      "observer": "שרה סלפק",
+       "original_text": "28,3,17 ח, עמודים-וירידה בשביל השחור, לנחל ומצוקי הארבל עד המצפור למעלה,,שפע של פריחות של-נורית אסיה,שום משולש,דמומיות אי,כלניות לבנות,בן-חצב יקינטוני,פשתה שעירה,תגית מצויה,עכנאי יהודה,סיפן התבואה,זקן הסב המצוי,קוציץ סורי, חרציות,חרדלים,חטוטרנים, בקבוקונים,קחוונים,חבלבל סיצילי וקטן,על מצוקי הר ניתאי שפונים לואדי חמם,מאות פרגים משתלבים ביחד עם חרציות על המדרון,בעליה לארבל למעלה בנוסף אשבל מעורק,שפתן תורמוס ההרים,ארביס אביבי כרמלית נאה,שפרירה קשקשנית ושכחתי את ורוניקת המים,איזה שילוב של צבעים",
+      "locations": [
+        {
+          "location_name": "הר ארבל",
+          "flowers": [
+            "Ranunculus asiaticus",
+            "Allium triquetrum",
+             "Adonis aleppica",
+            "Anemone coronaria",
+             "Scilla hyacinthoides",
+             "Linum pubescens",
+            "Tagetes minuta",
+             "Echium judaeum",
+             "Gladiolus italicus",
+             "Eremopoa altaica",
+            "Carduus syriacus",
+               "Chrysanthemum",
+                "Sinapis",
+               "Hypecoum",
+             "Erodium cicutarium",
+              "Matricaria chamomilla",
+              "Convolvulus siculus",
+               "Papaver rhoeas",
+               "Ballota undulata",
+               "Ajuga chamaepitys",
+                "Lupinus pilosus",
+               "Arabis verna",
+               "Glandularia pulchella",
+               "Anisantha sterilis",
+                 "Veronica anagallis-aquatica"
+            ],
+          "maps_query_location": "Mount Arbel"
+        },
+       {
+          "location_name": "הר ניתאי",
+         "flowers": [
+             "Papaver rhoeas",
+               "Chrysanthemum"
+            ],
+          "maps_query_location": "Har Nitai"
+        },
+          {
+          "location_name": "ואדי חמם",
+         "flowers": [
+             "Papaver rhoeas",
+               "Chrysanthemum"
+            ],
+           "maps_query_location": "Wadi Hamam"
+        }
+      ]
+    }
+  ]
+}
+```

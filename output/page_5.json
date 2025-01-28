@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/01/2025",
+      "observer": "אהד",
+      "original_text": "10.1.2025 פריחת הנרקיסים בשיאה",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2025",
+      "observer": "רוני גבע",
+      "original_text": "3 כלניות מפתיעות מול הכניסה לשביל המערות בכרמל",
+      "locations": [
+         {
+          "location_name": "שביל המערות",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Cave Path, Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2025",
+      "observer": "עידו מגן",
+      "original_text": "ברחוב חבצלת השרון בשכונת עין הים בחדרה ובחורבת מלח באור עקיבא פריחת כלניות אדומות. בחורבת מלח גם מרבדי אירוס ארצישראלי. מדרום לתיכון כרמים ליד בנימינה יש שדה ובו המון כלניות בכל הצבעים, בעיקר לבנות ומעט אדומות וסגולות. ממערב לשדה יש חלק הררי שכדי להגיע אליו יש לחצות מעבר בקר בקצה הדרומי של השדה ואז ללכת בשביל העולה למעלה בצמוד לגדר. שם הפריחה אפילו עשירה יותר ויש גם שפע רקפות.",
+      "locations": [
+        {
+          "location_name": "חדרה",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Hadera"
+        },
+         {
+          "location_name": "אור עקיבא",
+          "flowers": ["כלנית אדומה", "אירוס ארצישראלי"],
+           "maps_query_location": "Or Akiva"
+        },
+          {
+            "location_name": "בנימינה",
+            "flowers": ["כלנית", "רקפת"],
+             "maps_query_location": "Binyamina"
+          }
+      ]
+    },
+    {
+      "date": "05/01/2025",
+      "observer": "דומיניק ניצן",
+      "original_text": "אירוס הסרגל",
+       "locations": [
+        {
+          "location_name": null,
+          "flowers": ["אירוס הסרגל"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "05/01/2025",
+      "observer": "הדס יקיר",
+      "original_text": "תחילת פריחת רותם המדבר בגבעות נ\"צ",
+        "locations": [
+        {
+          "location_name": "גבעות נ\"צ",
+          "flowers": ["רותם המדבר"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "04/01/2025",
+      "observer": "שלומית מייזל",
+      "original_text": "בתל חדיד משטחים של נץ החלב . ראינו 2 כלניות פורחות . פה ושם סתוונית .",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": ["נץ החלב", "כלנית", "סתוונית"],
+           "maps_query_location":"Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2025",
+      "observer": "רחל",
+      "original_text": "פריחה מפוזרת ברחבי שמורת חירבת חנות",
+       "locations": [
+        {
+          "location_name": "שמורת חירבת חנות",
+          "flowers": ["כרכום צהבהב"],
+           "maps_query_location": "Khirbet Hanot Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "03/01/2025",
+      "observer": "רחל ויצן",
+      "original_text": "קרוב לכיסלון ליד האנדרטה עמוד האש הרבה פריטים מפוזרים של אירוס צהוב",
+        "locations": [
+        {
+          "location_name": "כיסלון",
+           "flowers": ["אירוס צהוב"],
+           "maps_query_location":"Ksalon"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2025",
+      "observer": null,
+      "original_text": "נץ-חלב הררי, כתמה עבת שורשים, מעט רקפות, ומעט סתוונית היורה",
+       "locations": [
+          {
+          "location_name": "יער בן שמן",
+           "flowers": ["נץ-חלב הררי", "כתמה עבת שורשים", "רקפת", "סתוונית היורה"],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2025",
+      "observer": "יואל רובין",
+      "original_text": "בשביל הר שוקף בכרמל, לא נמצאו אירוסי הסרגל כלל (לא יודע אם נגמר או לא התחיל) מצאנו פריט אחד של רומוליאה צידונית. כמה נרקיסים בודדים",
+      "locations": [
+         {
+          "location_name": "שביל הר שוקף",
+          "flowers": ["רומוליאה צידונית", "נרקיס"],
+          "maps_query_location": "Mount Shokef Trail, Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

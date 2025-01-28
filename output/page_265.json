@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/02/2020",
+      "observer": null,
+      "original_text": "פורחו ע כשיו : בחורשת טל, בקיבוץ דליה, בבניאס \nלעומת זאת במנחת מגידו \nהכמויות הולכות ומדלדלות מידי שנה",
+      "locations": [
+        {
+          "location_name": "חורשת טל",
+          "flowers": ["כלנית צבעונית"],
+          "maps_query_location": "Hurshat Tal"
+        },
+        {
+          "location_name": "קיבוץ דליה",
+           "flowers": ["כלנית צבעונית"],
+          "maps_query_location": "Dalia"
+        },
+         {
+          "location_name": "בניאס",
+          "flowers": ["כלנית צבעונית"],
+          "maps_query_location": "Banias"
+        },
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": [],
+          "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2020",
+      "observer": "יעל צוק",
+      "original_text": "11.2  הרבה מאוד אירוסים בגבעות הכורכר נס ציונה. ן יש עוד הרבה אירוסים שלא נפתחו.  כמו כן, פריחה יפה של רותם, חמציצים, כלניות.",
+      "locations": [
+        {
+          "location_name": "גבעות הכורכר נס ציונה",
+          "flowers": ["אירוס", "רותם", "חמציץ", "כלנית"],
+          "maps_query_location": "Nes Tziona"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2020",
+       "observer": null,
+      "original_text": "עצי השקד ברחבי ראש פינה התחילו לפרוח. בוואדי ראשית פריחה. הרוב עדיין בניצנים אבל בהחלט כבר רואים עצים פורחים.",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": ["שקד"],
+           "maps_query_location": "Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2020",
+      "observer": "שחר בן נעים",
+       "original_text": "בבקעת הירדן יש פריחה מטורפת של רותם בצידי הכביש.",
+      "locations": [
+        {
+          "location_name": "בקעת הירדן",
+          "flowers": ["רותם המדבר"],
+          "maps_query_location": "Jordan Valley"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2020",
+      "observer": "יוסי ישורון",
+       "original_text": "לנוסעים ברכבות, מצפון לתחנת להבים-רהט אפשר לראות ממש קרוב ממזרח לפסים מצבורי נרקיסים על גבעה ירוקה.\nלנוסעים דרומה, קצת לפני להבים רהט להסתכל שמאלה.\nלנוסעים צפונה, קצת אחרי להבים-רהט להסתכל ימינה.",
+      "locations": [
+         {
+          "location_name": "להבים",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Lehavim"
+        },
+        {
+          "location_name": "רהט",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Rahat"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2020",
+       "observer": "גרטמן יואב",
+      "original_text": "פריחה מדהימה של שקד קטן עלים לאורך גדר המערכת בין אןחמה למיצר.בחורבת אל עויון שם פורחת כבר בשיא גביעונית הלבנון. 05.02.20",
+      "locations": [
+         {
+          "location_name": "אוןחמה",
+           "flowers": ["שקד קטן עלים"],
+           "maps_query_location": "Onahma"
+        },
+        {
+          "location_name": "מיצר",
+           "flowers": ["שקד קטן עלים"],
+          "maps_query_location": "Meitzar"
+        },
+         {
+          "location_name": "חורבת אל עויון",
+           "flowers": ["גביעונית הלבנון"],
+          "maps_query_location": "Khirbet al A'yun"
+        }
+      ]
+    },
+     {
+      "date": "08/02/2020",
+      "observer": "עפרה פרידמן",
+      "original_text": "באיזורים רבים בבקעה באיזור החווה של עומר, באיזור ייטב,  בסרטבה עד פיראן תלכיד ניתן לראות את היקינתונית המעורקת בשיא פריחה .\nכמו כן פורחות בצלציה א\"י  .",
+      "locations": [
+         {
+          "location_name": "בקעה",
+          "flowers": ["יקינתון מעורק"],
+          "maps_query_location": "Beqa'a"
+        },
+         {
+          "location_name": "החווה של עומר",
+          "flowers": ["יקינתון מעורק"],
+          "maps_query_location": "Omer Farm"
+        },
+        {
+          "location_name": "ייטב",
+           "flowers": ["יקינתון מעורק"],
+          "maps_query_location": "Yitav"
+        },
+        {
+          "location_name": "סרטבה",
+          "flowers": ["יקינתון מעורק"],
+          "maps_query_location": "Sartaba"
+        },
+        {
+          "location_name": "פיראן תלכיד",
+           "flowers": ["יקינתון מעורק"],
+          "maps_query_location": "Piran Telkhid"
+        },
+         {
+          "location_name": "בצלציה א\"י",
+           "flowers": [],
+          "maps_query_location": "Betzal'el"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2020",
+       "observer": "דרור בר-ניר",
+      "original_text": "איריסי ארגמן - בודדים, הרבה ניצנים. כרוב החוף, לשון-שור מגובבת, שברק מצוי, עכנאי, רותם המדבר, צפורנית מגוונת, צנון מצוי, מקור החסידה התל-אביבי, מקור החסידה, סביון אביבי. נרקיס קונסטנטינופול  (פליט תרבות). מרקולית מצויה",
+       "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": ["אירוס ארגמן","כרוב החוף", "לשון-שור מגובבת", "שברק מצוי", "עכנאי", "רותם המדבר", "צפורנית מגוונת", "צנון מצוי", "מקור החסידה התל אביבי", "מקור החסידה", "סביון אביבי", "נרקיס קונסטנטינופול", "מרקולית מצויה"],
+           "maps_query_location": "Giv'at Humra"
+        }
+      ]
+    },
+   {
+      "date": "08/02/2020",
+      "observer": "בתיה פריד",
+       "original_text": "מרבדי רקפות ביער בלפור מגדל העמק. מהמצפור יורדים ימינה ומיד שמאלה",
+      "locations": [
+        {
+          "location_name": "יער בלפור",
+           "flowers": ["רקפת"],
+          "maps_query_location": "Balfour Forest"
+        },
+        {
+           "location_name": "מגדל העמק",
+           "flowers": ["רקפת"],
+          "maps_query_location": "Migdal HaEmek"
+         }
+      ]
+    },
+    {
+      "date": "08/02/2020",
+      "observer": "בתיה פריד",
+      "original_text": "יער בלפור. מתחת למצפור. יורדים בשביל ימיה ומיד שמאלה. מרבדים עצומים משני צידי הדרך",
+      "locations": [
+        {
+          "location_name": "יער בלפור",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Balfour Forest"
+        }
+      ]
+    }
+  ]
+}
+```

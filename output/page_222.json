@@ -1,0 +1,222 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/12/2020",
+      "observer": "לאה כרמי",
+      "original_text": "פריחה מרהיבה של כרכומים, סיתווניות ונרקיסים ונראה שעוד היד נטויה....",
+      "locations": [
+        {
+          "location_name": "חרבת חנות",
+          "flowers": [
+            "כרכום",
+            "סתוונית",
+            "נרקיס"
+          ],
+           "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2020",
+      "observer": null,
+      "original_text": "באנדרטת חטיבת הנגב  התחלת פריחה - בהירות וחמודות",
+      "locations": [
+        {
+          "location_name": "אנדרטת חטיבת הנגב",
+          "flowers": ["סתוונית טוביה"],
+          "maps_query_location": "Negev Brigade Memorial"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+      "observer": "אודי וסר",
+      "original_text": "שפע נרקיסים בשמורת הטבע נחל מערות. כמו כן נצפו מעט רקפות.",
+      "locations": [
+        {
+          "location_name": "שמורת הטבע נחל מערות",
+           "flowers": [
+            "נרקיס",
+            "רקפת"
+          ],
+          "maps_query_location": "Nahal Me'arot Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "29/11/2020",
+      "observer": null,
+      "original_text": "שמורת בריכת-בראון :אברנית הנשר,  אספרג חד, כרכום נאה \nעמק מן חרמון: חלמונית גדולה , כרכום גיארדו , כרכום החרמון , כרכום צהבהב , כרכום נאה, עוזרר קוצני  בשלב הפרי, סתוונית קצרת-עלים \nעמק-יעפורי:  דבשה לבנה,  טגטס קטנה  \nכרכום השבכה   תל-אביטל  \nבוקעתה  : עוזרר חד-גלעיני בשלב הפרי , שינן עב-שורש , כרכום נאה , כרכום השבכה",
+      "locations": [
+         {
+          "location_name": "שמורת בריכת בראון",
+           "flowers": [
+            "אברנית הנשר",
+            "אספרג חד",
+             "כרכום נאה"
+          ],
+          "maps_query_location":"Birket Braun Nature Reserve"
+        },
+        {
+          "location_name": "עמק מן חרמון",
+           "flowers": [
+            "חלמונית גדולה",
+             "כרכום גיארדו",
+            "כרכום החרמון",
+             "כרכום צהבהב",
+              "כרכום נאה",
+              "עוזרר קוצני",
+             "סתוונית קצרת-עלים"
+          ],
+          "maps_query_location": "Man Valley Hermon"
+        },
+        {
+            "location_name":"עמק יעפורי",
+           "flowers":[
+                "דבשה לבנה",
+                "טגטס קטנה"
+                ],
+            "maps_query_location":"Ya'afuri Valley"
+         },
+         {
+          "location_name": "תל אביטל",
+          "flowers": [
+           "כרכום השבכה"
+          ],
+          "maps_query_location":"Tel Avital"
+         },
+           {
+          "location_name": "בוקעתה",
+           "flowers":[
+              "עוזרר חד-גלעיני",
+              "שינן עב-שורש",
+              "כרכום נאה",
+              "כרכום השבכה"
+             ],
+          "maps_query_location":"Buq'ata"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+      "observer": null,
+      "original_text": "בכניס הלפסגות: כרכום החרמון תת מין א\"י, סיתוונית  היורה. \nבכניסה לעו  תות בשומרון: \nגושי פריחה נהדרים של סיתווניות ירושלים \nגבעת הראל :\nהמוני חלמוניות בגודל ענק בשיא פריחה +++ \nדנדנה רפואית, סיתווניות היורה",
+      "locations": [
+        {
+          "location_name": "כניס הלפסגות",
+          "flowers": [
+            "כרכום החרמון",
+            "סתוונית היורה"
+          ],
+            "maps_query_location":"Knis Hapsagot"
+        },
+        {
+          "location_name": "עו תות בשומרון",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location":"Uzz Toth Samaria"
+        },
+         {
+           "location_name":"גבעת הראל",
+            "flowers":[
+             "חלמונית",
+              "דנדנה רפואית",
+             "סתוונית היורה"
+           ],
+             "maps_query_location":"Givat Harel"
+          }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+       "observer": "נעמי יצהר",
+      "original_text": "גוש נרקיסים בסלע על שפת הכביש מצומת אליקים לדליית- אל- כרמל,\nבצד ימין, כ-100 מטר לפני דוכן הפיתות הדרוזיות הראשון",
+        "locations": [
+        {
+          "location_name": "צומת אליקים",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Elyakim Junction"
+        },
+         {
+          "location_name": "דליית אל כרמל",
+            "flowers":[
+            "נרקיס"
+            ],
+             "maps_query_location":"Daliyat al-Karmel"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+       "observer": "נעמי יצהר",
+      "original_text": "משטחי כרכומים לפני העלייה למוחרקה, משמאל",
+       "locations": [
+        {
+          "location_name": "מוחרקה",
+          "flowers": [
+            "כרכום"
+          ],
+           "maps_query_location":"Muhraqa"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+      "observer": "נעם שכטר",
+      "original_text": "ריכוז גדול בפריחה מלאה, על גבעה מזרחית לחרבת כרך.\nרשת ישראל החדשה:\n207.103 (X) | 731.405 (Y)",
+      "locations": [
+        {
+          "location_name": "חרבת כרך",
+           "flowers": [
+            "איריס הסרגל"
+          ],
+           "maps_query_location": "Khirbet Karak"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2020",
+      "observer": "miri",
+      "original_text": "בחירבת חנות נצפו כרכומים סתווניות ונרקיסים",
+       "locations": [
+        {
+          "location_name": "חירבת חנות",
+           "flowers":[
+            "כרכום",
+            "סתוונית",
+            "נרקיס"
+           ],
+            "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2020",
+      "observer": null,
+      "original_text": "בפארק קנדה , קצת לפני תצפית יאלו פריחת מרבדי נרקיסים . \nפריחה שופעת גם של סיתווניות",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": [
+            "נרקיס",
+            "סתוונית"
+          ],
+          "maps_query_location":"Canada Park"
+         },
+        {
+           "location_name": "תצפית יאלו",
+             "flowers":[
+                "נרקיס",
+                "סתוונית"
+            ],
+            "maps_query_location":"Yalo Lookout"
+        }
+      ]
+    }
+  ]
+}
+```

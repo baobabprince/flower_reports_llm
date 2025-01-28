@@ -1,0 +1,175 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/04/2024",
+      "observer": null,
+      "original_text": "איריס הגולן , גרגיר הנחלים , חלוק שעיר, לוענית גדולה , כריך מחולק, עכנאי נאה , צללית הדורה, תלתן דל-פרחים, תלתן הביצות , תלתן ווילוב, תלתן נאה , חרצית משוננת, יינית בינונית ,",
+      "locations": [
+        {
+          "location_name": "צומת המפלים",
+          "flowers": [
+            "איריס הגולן",
+            "גרגיר הנחלים",
+            "חלוק שעיר",
+            "לוענית גדולה",
+            "כריך מחולק",
+            "עכנאי נאה",
+            "צללית הדורה",
+            "תלתן דל-פרחים",
+            "תלתן הביצות",
+            "תלתן ווילוב",
+            "תלתן נאה",
+            "חרצית משוננת",
+            "יינית בינונית"
+          ],
+          "maps_query_location": "Tzomet HaMefalim"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2024",
+      "observer": null,
+      "original_text": "פריחת סחלב הגולן(חרמון), צפונית לצומת המפלים לקראת סוף הפריחה בגלל החום,כמו כן קבר שיח אבו מרזוק פניה צפונה לפני הכניסה לעוצבת ברק רמת הגולן",
+      "locations": [
+        {
+          "location_name": "צומת המפלים",
+           "flowers": ["סחלב הגולן"],
+           "maps_query_location": "Tzomet HaMefalim"
+        },
+         {
+          "location_name": "קבר שיח אבו מרזוק",
+           "flowers": [],
+           "maps_query_location": "Kever Sheich Abu Marzuk"
+        },
+        {
+          "location_name":"רמת הגולן",
+          "flowers":[],
+          "maps_query_location":"Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "31/03/2024",
+      "observer": "רותי רן",
+      "original_text": "אצבעית רומאית - פרחים אחרונים, תחילת סחלבנים, שיא של איטלקים ואנטוליים או סחלב סורי, לא בטוחים.",
+      "locations": [
+        {
+          "location_name": "הר קטע",
+          "flowers": ["אצבעית רומאית", "סחלב סורי"],
+           "maps_query_location": "Har Keta"
+        }
+      ]
+    },
+    {
+      "date": "29/03/2024",
+      "observer": "בלהה גת",
+      "original_text": "פריחת אירוס הדור (או אולי זה אירוס החרמון) בצומת המפלים, רמת הגולן.",
+      "locations": [
+        {
+          "location_name": "צומת המפלים",
+          "flowers": ["אירוס הדור", "אירוס החרמון"],
+           "maps_query_location": "Tzomet HaMefalim"
+        },
+         {
+           "location_name": "רמת הגולן",
+           "flowers": [],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2024",
+      "observer": "רוני גבע",
+      "original_text": "מאות סייפנים ונוריות בשיא פריחה בפניה מכביש בית אורן לכיוון יערות הכרמל",
+      "locations": [
+        {
+          "location_name": "יערות הכרמל",
+          "flowers": ["סייפן", "נורית"],
+           "maps_query_location": "Carmel Forest"
+        }
+      ]
+    },
+    {
+      "date": "27/03/2024",
+       "observer": "אביטל טביב",
+      "original_text": "בגבעת אלון התבור הנמצא ליד צומת בני דרור, קיימת פריחה של תורמוס ארץ ישראלי, בן חצב יקינתוני, קחוונים, מעט פרגים ועוד.",
+      "locations": [
+        {
+          "location_name": "גבעת אלון התבור",
+          "flowers": ["תורמוס ארץ ישראלי", "בן חצב יקינתוני", "קחוון", "פרג"],
+           "maps_query_location": "Givat Alon HaTavor"
+        },
+        {
+           "location_name":"צומת בני דרור",
+           "flowers":[],
+           "maps_query_location":"Bnei Dror Junction"
+        }
+      ]
+    },
+     {
+      "date": "27/03/2024",
+      "observer": "אביטל טביב",
+      "original_text": "בשביל האירוסים שנמצא ביער אילנות, כבר אין אירוסים, אך קיימת פריחה אחרת יפהפיה: כמויות גדולות של בן-חצב יקינתוני, שפתן מצוי, תורמוס צהוב ,מרבדים גדולים של תורמוס ארץ ישראלי ועוד.",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+           "flowers": ["בן-חצב יקינתוני", "שפתן מצוי", "תורמוס צהוב", "תורמוס ארץ ישראלי"],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+     {
+      "date": "27/03/2024",
+      "observer": "אביטל טביב",
+      "original_text": "בשביל האירוסים שנמצא ביער אילנות, כבר אין אירוסים, אך קיימת פריחה אחרת יפהפיה: כמויות גדולות של בן-חצב יקינתוני, שפתן מצוי, תורמוס צהוב ,מרבדים גדולים של תורמוס ארץ ישראלי ועוד.",
+      "locations": [
+        {
+           "location_name": "יער אילנות",
+           "flowers": ["בן-חצב יקינתוני", "שפתן מצוי", "תורמוס צהוב", "תורמוס ארץ ישראלי"],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+      "date": "26/03/2024",
+      "observer": "עידו מגן",
+      "original_text": "בהר ברקן בגלבוע אירוסים ונוריות בשיא פריחה, בפארק רמות מנשה כלילי חורש ונוריות ובכניסה לרמות מנשה מצד שמאל שפע תורמוסים.",
+      "locations": [
+        {
+          "location_name": "הר ברקן",
+          "flowers": ["אירוס", "נורית"],
+           "maps_query_location": "Har Barken"
+        },
+         {
+           "location_name": "פארק רמות מנשה",
+           "flowers": ["כליל חורש", "נורית"],
+           "maps_query_location": "Ramat Menashe Park"
+        },
+        {
+          "location_name": "רמות מנשה",
+          "flowers": ["תורמוס"],
+           "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "25/03/2024",
+      "observer": "ניב בראל",
+      "original_text": "טופל אדום פורח 300 לפני הפניה שמאלה לגולן בכביש לחמת גדר. לחנות בחלק דרומי. הפרחים בצד הצפוני",
+       "locations": [
+        {
+          "location_name": "כביש לחמת גדר",
+          "flowers": ["טופל אדום"],
+          "maps_query_location": "Hamat Gader Road"
+        },
+         {
+          "location_name": "גולן",
+          "flowers": [],
+          "maps_query_location": "Golan Heights"
+         }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/10/2015",
+      "observer": "דרור בר-ניר",
+      "original_text": "חלמונית גדולה, נרקיס מצוי, פטל קדוש, טיון דביק, עופרית אירופית, חיננית הבתה, בן חצב סתווני,  סתוונית היורה, ציפורן נקוד, חרוב מצוי, חורשף מצויץ, ארכובית שבטבטית",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+           "flowers": [
+            "חלמונית גדולה",
+            "נרקיס מצוי",
+            "פטל קדוש",
+            "טיון דביק",
+            "עופרית אירופית",
+            "חיננית הבתה",
+            "בן חצב סתווני",
+            "סתוונית היורה",
+            "ציפורן נקוד",
+            "חרוב מצוי",
+            "חורשף מצויץ",
+            "ארכובית שבטבטית"
+          ],
+           "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2015",
+      "observer": "אורית דשא-ינאי-ברנר",
+       "original_text": "השמש זרחה והכרמל החל לפרוח לאחר (הגשמים הלא מרובים מדי) ובין השיחים (לוטם, קידות וכו') והעצים (חרובים, אורנים, קטלבים) פורחים בסגלגל-ורוד על הקרקע הסתווניות ובני החצב היקינטוניים.",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "סתוונית",
+            "בן חצב יקינטוני"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2015",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+            "חלמונית צהובה"
+          ],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "27/10/2015",
+      "observer": null,
+       "original_text": "פורחות בגלבוע",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+           "flowers": [
+            "רקפת"
+          ],
+            "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "27/10/2015",
+      "observer": null,
+      "original_text": "פורחת בעמק המצלבה",
+       "locations": [
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+            "maps_query_location": "Valley of the Cross"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2015",
+      "observer": null,
+      "original_text": "ראו אלבום מצורף",
+       "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": [
+            "כרכום דמשקאי"
+          ],
+            "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2015",
+       "observer": null,
+       "original_text": "פריחה שופעת",
+      "locations": [
+        {
+          "location_name": "הרכס",
+          "flowers": [
+             "חלמונית"
+           ],
+            "maps_query_location": null
+        }
+      ]
+    },
+        {
+      "date": "24/10/2015",
+      "observer": "עמיר פז",
+       "original_text": "בן חצב סתווני + מדברי, וחלמונית זעירה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+            "בן חצב סתווני",
+             "בן חצב מדברי",
+              "חלמונית זעירה"
+           ],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+        {
+      "date": "22/10/2015",
+       "observer": null,
+       "original_text": "בחדרה - ראו אלבום מצורף",
+      "locations": [
+        {
+          "location_name": "חדרה",
+           "flowers": [
+            "אחילוף צר עלים"
+          ],
+            "maps_query_location": "Hadera"
+        }
+      ]
+    },
+    {
+      "date": "19/10/2015",
+      "observer": "הגר בן נון",
+      "original_text": "פריחת החלמוניות בחזקה מאוד חלשה.\nהרבה נבולות,מעט ניצנים,\nהמון סיתוניות התשבץ ,אין ניצנים.",
+       "locations": [
+        {
+          "location_name": "חזקה",
+           "flowers": [
+            "חלמונית",
+             "סתוונית התשבץ"
+          ],
+            "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

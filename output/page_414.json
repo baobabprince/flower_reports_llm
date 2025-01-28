@@ -1,0 +1,131 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/04/2017",
+      "observer": "עדנה מוסל",
+      "original_text": "פריחת ליבנה רפואי בבקעת נטופה 31.03.17\nממליצה להוסיף את חודש מרץ לחודשי הפריחה",
+      "locations": [
+        {
+          "location_name": "בקעת נטופה",
+          "flowers": ["ליבנה רפואי"],
+           "maps_query_location": "Netofa Valley"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2017",
+      "observer": null,
+      "original_text": "כבר אין כמעט איריסים פורחים אבל יש הרבה כחלית ההרים פורחות",
+      "locations": [
+        {
+          "location_name": "שמורת איריס ירוחם",
+           "flowers": ["אירוס","כחלית ההרים"],
+          "maps_query_location": "Iris Yeruham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2017",
+      "observer": null,
+      "original_text": "חרצית דביקה, דק זנב מכונף, גומא שרוני,  ומרווה צמירה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+           "flowers": ["חרצית דביקה", "דק זנב מכונף", "גומא שרוני", "מרווה צמירה"],
+          "maps_query_location": "HaSharon Coast National Park"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": "עזרי",
+      "original_text": "פריחת פרגים מרהיבה. נראה במצב שיא. בתוך השדה בין הפרגים ניתן למצוא גם מקור החסידה, ותלתן הארגמני (שלפי דעתי הולך לעשות בקרוב החלפות עם הפרג ולמלא את כל השדה),",
+      "locations": [
+        {
+          "location_name": "צומת נחושה",
+          "flowers": ["פרג", "מקור החסידה", "תלתן הארגמני"],
+           "maps_query_location": "Nehusha Junction"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": null,
+      "original_text": "מעל עין ג'היר , ראו בקישור",
+       "locations": [
+        {
+          "location_name": "עין ג'היר",
+          "flowers": ["איריס שומרוני"],
+          "maps_query_location": "Ein Jahir"
+        }
+       ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": "גלעד",
+      "original_text": "שמורת אירוס ירוחם יש עדיין אירוסים אבל לא המון. עושה רושם שעד היום 5 באפריל כבר לא ישארו.",
+       "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+          "flowers": ["אירוס"],
+           "maps_query_location": "Iris Yeruham Reserve"
+        }
+      ]
+    },
+     {
+      "date": "01/04/2017",
+      "observer": null,
+      "original_text": "3 אירוסים בלבד (1 במצב טוב והשניים האחרים  במצב כאפוט) לרגלי אנדרטת הנגב. הסתיימה העונה.",
+      "locations": [
+        {
+          "location_name": "אנדרטת הנגב",
+          "flowers": ["אירוס שחום"],
+          "maps_query_location": "Negev Monument"
+        }
+      ]
+    },
+    {
+       "date": "01/04/2017",
+      "observer": null,
+      "original_text": "הסתיימה העונה של אירוסים שחומים. יש אחד רק בשמורת להב צפון.",
+      "locations": [
+        {
+          "location_name": "שמורת להב צפון",
+           "flowers": ["אירוס שחום"],
+          "maps_query_location": "Lahav North Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": null,
+      "original_text": "מעט אירוסי ירוחם ובמצב של סיום בשמורת האירוסים שם. יש הרבה כחלית ההרים.",
+      "locations": [
+        {
+          "location_name": "שמורת האירוסים",
+          "flowers": ["אירוס ירוחם", "כחלית ההרים"],
+          "maps_query_location": "Iris Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/04/2017",
+      "observer": null,
+      "original_text": "שטיחים צפופים ומדהימים של פרגים מול יער חולדה- מעבר לכביש לכיוון רחובות",
+      "locations": [
+        {
+           "location_name": "יער חולדה",
+           "flowers": ["פרג"],
+           "maps_query_location": "Hulda Forest"
+        },
+        {
+          "location_name": "רחובות",
+           "flowers": ["פרג"],
+           "maps_query_location": "Rehovot"
+        }
+      ]
+    }
+  ]
+}
+```

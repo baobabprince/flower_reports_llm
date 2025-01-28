@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/02/2023",
+      "observer": "עידו מגן",
+      "original_text": "בעין מסילה ליד מסילת ציון כמה עשרות כלניות צבעוניות. בתל בית שמש ליד מושב ישעי ובתל כסלון שביער הקדושים מאות כלניות אדומות. בתל כסלון גם הרבה רקפות. בכבישים שעולים להרי ירושלים (395 ו-3866) אפשר לראות די הרבה רקפות וכלניות בצידי הדרך. יש גם כמה שקדיות שפורחות אבל הן לא בשיאן",
+      "locations": [
+        {
+          "location_name": "עין מסילה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Ein Mesila"
+        },
+        {
+           "location_name": "מסילת ציון",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Mesilat Zion"
+        },
+         {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית אדומה"],
+           "maps_query_location": "Tel Beit Shemesh"
+        },
+         {
+          "location_name": "מושב ישעי",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Moshav Yesha'i"
+        },
+         {
+          "location_name": "תל כסלון",
+          "flowers": ["כלנית אדומה", "רקפת"],
+          "maps_query_location": "Tel Ksalon"
+        },
+          {
+          "location_name": "יער הקדושים",
+          "flowers": ["כלנית אדומה", "רקפת"],
+           "maps_query_location": "Ya'ar HaKdoshim"
+        },
+         {
+           "location_name": "הרי ירושלים",
+           "flowers": ["רקפת", "כלנית"],
+           "maps_query_location": "Jerusalem Mountains"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2023",
+      "observer": "עמיר פז",
+      "original_text": "כלנית מצויה, דוחנן קיפח, רקפת מצויה, שרוכנית החוף, ושפע איריס ארגמן פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+          "flowers": ["כלנית מצויה", "דוחנן קיפח", "רקפת מצויה", "שרוכנית החוף", "איריס ארגמן"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/02/2023",
+      "observer": "רוני בראונר",
+      "original_text": "רוני בראונר מזמין אותנו לצפון לצפות בסחלבים , ראו בקישור למטה",
+      "locations": [
+        {
+          "location_name": "צפון",
+          "flowers": ["סחלב"],
+          "maps_query_location": "North of Israel"
+        }
+      ]
+    },
+     {
+      "date": "09/02/2023",
+       "observer": null,
+      "original_text": "גביעונית הלבנון ועוד ועוד, ראו בקישור למטה",
+       "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": ["גביעונית הלבנון"],
+           "maps_query_location": "Ya'ar Beit Keshet"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2023",
+      "observer": null,
+      "original_text": "יקינתון מזרחי וכלניות \nראו באלבום בקישור",
+      "locations": [
+        {
+          "location_name": "יער בריה",
+          "flowers": ["יקינתון מזרחי", "כלנית"],
+          "maps_query_location": "Ya'ar Biriya"
+        }
+      ]
+    },
+     {
+      "date": "09/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "פריחה ראשונה של לוטם מרווני בגבעת הפרחים במעגן מיכאל. פרח בודד אומנם אך סובב בהרבה ניצני פרחים.",
+      "locations": [
+        {
+          "location_name": "גבעת הפרחים",
+          "flowers": ["לוטם מרווני"],
+          "maps_query_location": "Giv'at HaPrahim"
+        },
+         {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["לוטם מרווני"],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+     {
+      "date": "09/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "פריחה של צבעונים בגבעת הפרחים שבמעגן מיכאל. בנוסף לרקפות בשפע.",
+        "locations": [
+        {
+          "location_name": "גבעת הפרחים",
+          "flowers": ["צבעוני", "רקפת"],
+            "maps_query_location": "Giv'at HaPrahim"
+        },
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["צבעוני", "רקפת"],
+           "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2023",
+       "observer": "שרית ליבוביץ זלץ",
+      "original_text": "\"טוֹב אֲרֻחַת יָרָק וְאַהֲבָה שָׁם...\" (משלי טו יז) את יום העיון תשפ\"ג נקדיש הפעם ל... ירקות!\nבסיורים נכיר את צמחי הבר שמהם התפתחו הירקות הקדומים ונשווה אותם למצוי היום, נבקר בחלקת הירקות של הגן הבוטני ונפגוש ישן וגם חדש.",
+       "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": [],
+          "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+       {
+      "date": "09/02/2023",
+      "observer": "menahcem pinto",
+      "original_text": "אתמול 8/2 כלניות ורקפות ביער עופר",
+        "locations": [
+        {
+          "location_name": "יער עופר",
+           "flowers": ["כלנית", "רקפת"],
+           "maps_query_location": "Ya'ar Ofer"
+        }
+      ]
+    },
+    {
+        "date": "06/02/2023",
+        "observer": null,
+        "original_text": "בשאלות פנו בבקשה לאימייל שלנו ואנחנו נענה !!!\nתודה רבה",
+        "locations": []
+    }
+  ]
+}
+```

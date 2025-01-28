@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/11/2015",
+      "observer": "יריב שיזף",
+      "original_text": "ביום 6.11.2015 צפינו בקבוצת חבצלות נגב במכתש רמון, מדרום להר ארדון. שתי חבצלות כבר פרחו והשאר (כ-20 צמחים) נשאו ניצנים. כלומר השיא הוא כנראה סביב 10.11.2015",
+      "locations": [
+        {
+          "location_name": "מכתש רמון",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Makhtesh Ramon"
+        },
+          {
+          "location_name": "הר ארדון",
+           "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Har Ardon"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2015",
+       "observer": null,
+      "original_text": "שום ארדל, שכנראה נדהם מכמות הגשם האדירה שלה זכה, פורח בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["שום ארדל"],
+           "maps_query_location": "Ga'ash"
+         }
+      ]
+    },
+    {
+      "date": "07/11/2015",
+      "observer": "אורון יעקב",
+      "original_text": "שלל פריחות כרכומים סיתווניות חלמוניות ועוד באלבום נהדר של אורון יעקב",
+      "locations": [
+        {
+          "location_name": "גולן",
+          "flowers": ["כרכום סתווני","חלמונית"],
+          "maps_query_location": "Golan Heights"
+        },
+         {
+          "location_name": "חרמון",
+          "flowers": ["כרכום סתווני","חלמונית"],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2015",
+      "observer": null,
+      "original_text": "ביער המגינים בפארק קנדה, מצוק ה 40 ובנחל קטלב, דווחו על פריחות של נרקיסים",
+      "locations": [
+        {
+          "location_name": "יער המגינים",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Yar HaMeginim"
+        },
+          {
+           "location_name": "פארק קנדה",
+            "flowers": ["נרקיס"],
+            "maps_query_location": "Canada Park"
+          },
+           {
+          "location_name": "מצוק ה 40",
+           "flowers": ["נרקיס"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "נחל קטלב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Katlav"
+         }
+       ]
+    },
+     {
+      "date": "06/11/2015",
+       "observer": "אריאל חיים רועה",
+      "original_text": "אצנו בחצר במושב נוב שברמת הגולן הפתיעה אותנו השה חלמונית זעירה כנראה בגלל שהדשא עזב את המקום",
+       "locations": [
+        {
+          "location_name": "נוב",
+           "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Nov"
+        },
+         {
+          "location_name": "רמת הגולן",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Golan Heights"
+         }
+      ]
+    },
+    {
+      "date": "05/11/2015",
+       "observer": "רובי שי",
+      "original_text": "פריחת חלמונית זעירה מצפון לקיבוץ דליה .עשרות פרחים במקבצים של בין 1 ל 7 פרחים על שטח ברדיוס של כ 50 מ. חגיגה לעיניים",
+       "locations": [
+        {
+          "location_name": "קיבוץ דליה",
+          "flowers": ["חלמונית זעירה"],
+          "maps_query_location": "Kibbutz Dalia"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2015",
+       "observer": null,
+      "original_text": "ישרוע מאוגד, ובן חילף הביצות פורחים בגן בגעש. לשניהם עונת פריחה ארוכה במיוחד - כ 8 חודשים",
+       "locations": [
+         {
+          "location_name": "געש",
+           "flowers": ["ישרוע מאוגד","בן חילף הביצות"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2015",
+      "observer": "אורון מכרכור",
+      "original_text": "צולם 3.11.15 תודה לאיש יקר וחובב טבע אמיתי בעל יידע אורון מכרכור הסביר לי כייצד להגיע לגבעת אולגה מצורפ קישורית",
+       "locations": [
+        {
+          "location_name": "גבעת אולגה",
+          "flowers": ["אחילוף צר עלים"],
+           "maps_query_location": "Givat Olga"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2015",
+      "observer": null,
+      "original_text": "נרקיסים, בן-חצב סיתווני, כדן קטן פרחים ועוד",
+       "locations": [
+        {
+           "location_name": "יער כוכב יאיר",
+           "flowers": ["נרקיס","בן-חצב סתווני","כדן קטן פרחים"],
+           "maps_query_location": "Yar Kokhav Yair"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2015",
+       "observer": "אבנר",
+      "original_text": "פריחת סתו  בעיקר חלמונית זעירה אחילוף כדן ובן חצב סיתוני מצורפת קישורית שצולמה בשטח צלם אבנר 052 3351549",
+       "locations": [
+        {
+          "location_name": "גן המיסדים גבעת עדה",
+          "flowers": ["חלמונית זעירה","אחילוף","כדן","בן חצב סתווני"],
+          "maps_query_location": "Givat Ada"
+         }
+      ]
+    }
+  ]
+}
+```

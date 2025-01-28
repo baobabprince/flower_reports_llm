@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/10/2016",
+      "observer": null,
+      "original_text": "ראו קישור טרי מהשטח תצלומים של עירית",
+       "locations": [
+        {
+          "location_name": "ואדי ראש פינה",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Wadi Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2016",
+      "observer": null,
+      "original_text": "בבקעת הנזירים בנחל גמזו ליד מודיעין ביער בן-שמן . ראו מסלול",
+       "locations": [
+         {
+          "location_name": "בקעת הנזירים",
+          "flowers": ["עופרית אירופית"],
+          "maps_query_location": "Bik'at HaNezirim"
+        },
+        {
+          "location_name": "נחל גמזו",
+           "flowers": ["עופרית אירופית"],
+          "maps_query_location": "Nahal Gimzo"
+        },
+         {
+          "location_name": "מודיעין",
+           "flowers": ["עופרית אירופית"],
+          "maps_query_location": "Modi'in"
+         },
+         {
+          "location_name": "יער בן שמן",
+           "flowers": ["עופרית אירופית"],
+          "maps_query_location": "Ben Shemen Forest"
+         }
+      ]
+    },
+     {
+      "date": "24/10/2016",
+      "observer": null,
+      "original_text": "ראו בקישור",
+       "locations": [
+        {
+          "location_name": "יער ביריה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        }
+       ]
+    },
+    {
+      "date": "24/10/2016",
+      "observer": "Yair Hoffman",
+      "original_text": "22.10.2016 בשביל היורד מאתר עליון לעבר נחל מועדון כ-400מטר מתחילת מסלול",
+       "locations": [
+         {
+          "location_name": "החרמון",
+          "flowers": ["פרגת ארם צובא"],
+           "maps_query_location": "Mount Hermon"
+         },
+         {
+           "location_name": "נחל מועדון",
+          "flowers": ["פרגת ארם צובא"],
+          "maps_query_location": "Nahal Moadon"
+         }
+      ]
+    },
+    {
+      "date": "22/10/2016",
+      "observer": null,
+      "original_text": "ביער להב, בשביל הפיסגה במירון, ליד מערת פער, בנחל קטלב (מעטות) , ברכס בוקר ובשמורת החלמוניות בירוחם",
+      "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lahav Forest"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Mount Meron"
+        },
+         {
+          "location_name": "מערת פער",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Me'arat Pa'ar"
+        },
+        {
+          "location_name": "נחל קטלב",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Nahal Katlav"
+        },
+        {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Ramat Boker"
+        },
+        {
+         "location_name": "שמורת החלמוניות בירוחם",
+         "flowers": ["חלמונית"],
+         "maps_query_location": "Yeroham"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2016",
+      "observer": "David Rozenstein",
+       "original_text": "ביקרנו היום 22.10.16 אין עדיין חלמוניות.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [],
+          "maps_query_location": "Mount Tabor"
+        }
+       ]
+    },
+    {
+      "date": "22/10/2016",
+      "observer": "אורון טל",
+      "original_text": "21/10/16, פריחת חלמוניות במירון ,בשביל סובב פיסגה בחלק המזרחי",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2016",
+      "observer": null,
+       "original_text":"בהר ארדון  בנגב",
+       "locations": [
+         {
+          "location_name": "הר ארדון",
+          "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Har Ardon"
+        },
+         {
+           "location_name": "הנגב",
+          "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Negev"
+         }
+       ]
+    },
+    {
+      "date": "20/10/2016",
+      "observer": "תמר",
+       "original_text": "סתוונית בכירה בשביל הגישה למערת פער - מקבצים גדולים. במסלול הממותה בפארק הסלעים בכיסרא - פרחים בודדים.",
+      "locations": [
+        {
+          "location_name": "מערת פער",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Me'arat Pa'ar"
+        },
+         {
+           "location_name": "פארק הסלעים בכיסרא",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Khisra"
+         }
+      ]
+    },
+    {
+      "date": "19/10/2016",
+      "observer": null,
+       "original_text": "נמפיאה תכולה, שנית גדולה, גבסנית ערבית, עדעד הביצות, ומדד זוחל פורחים בגינת הצמחים בסכנת הכחדה. בחממת עין גדי פורח ניל מכסיף",
+      "locations": [
+       {
+         "location_name": "נאות קדומים",
+          "flowers": ["נמפיאה תכולה", "שנית גדולה", "גבסנית ערבית", "עדעד הביצות", "מדד זוחל"],
+          "maps_query_location": "Neot Kedumim"
+        },
+        {
+          "location_name": "חממת עין גדי",
+           "flowers": ["ניל מכסיף"],
+          "maps_query_location":"Ein Gedi"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,211 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/12/2009",
+      "observer": "ליאורה קרת",
+      "original_text": "שפע של נרקיסים, כרכומים (חורפי כמובן) וחיננית הבתה. התחילו לפרוח רקפות והשטח ממש מוצף בעלים שלהן. כמו-כן לופית מצויה גם היא בתחילת פריחה. יסמין שיחני בפריחה מלאה ואוג קוצני בתחילתה.",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+            "Narcissus",
+            "Crocus hyemalis",
+            "Bellis sylvestris",
+            "Cyclamen",
+            "Arisarum vulgare",
+             "Jasminum fruticans",
+             "Rhus tripartita"
+          ],
+            "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2009",
+      "observer": "עתליה ניצן",
+      "original_text": "בפארק איילון (פארק קנדה) בין מודיעין לצומת לטרון, דרך הנוף הצפונית זרועה במאות רבות של נרקיסים בשיא פריחתם.",
+      "locations": [
+        {
+          "location_name": "פארק איילון",
+          "flowers": [
+            "Narcissus"
+          ],
+             "maps_query_location": "Ayalon Park"
+        },
+        {
+          "location_name": "פארק קנדה",
+            "flowers": [
+              "Narcissus"
+            ],
+              "maps_query_location": "Canada Park"
+        },
+        {
+          "location_name": "מודיעין",
+          "flowers": [
+            "Narcissus"
+          ],
+             "maps_query_location": "Modi'in"
+        },
+         {
+          "location_name": "צומת לטרון",
+          "flowers": [
+            "Narcissus"
+          ],
+             "maps_query_location": "Latrun Junction"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2009",
+      "observer": "ליאורה קרת",
+      "original_text": "בצד החיצוני הדרומי של חומת העיר העתיקה. מצפון לעיר העתיקה בחולות שליד אמת המים המזרחית הנמוכה פורח כעת אטד החוף.",
+      "locations": [
+        {
+          "location_name": "קיסריה",
+           "flowers": ["Lycium schweinfurthii"],
+           "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+   {
+      "date": "03/12/2009",
+      "observer": "ליאורה קרת",
+      "original_text": "ביער עופר פריחה מסיבית של נרקיס מצוי וכרכום חורפי וקצת כתמה עבת-שורשים. כמו-כן פורחים פרע קטן-עלים ואלון מצוי. בשולי היער פורח (יחד עם לבלוב של עלים) שקד פליט תרבות.",
+      "locations": [
+        {
+          "location_name": "יער עופר",
+          "flowers": [
+            "Narcissus tazetta",
+            "Crocus hyemalis",
+            "Sternbergia clusiana",
+            "Fumaria parviflora",
+            "Quercus calliprinos",
+            "Prunus dulcis"
+           ],
+            "maps_query_location": "Ofer Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2009",
+      "observer": null,
+      "original_text": "ליד קיבוץ דליה. חונים במגרש החניה ליד מגרש הספורט וממשיכים ישר , חוצים את יובל נחל דליה וממשיכים לאורך שדרת הברושים המתעכלת שמאלה עד לשני עצי חרוב. במקום פורחים גם: זוטה לבנה, נרקיסים, כתמה עבת שורשים, חיננית הבתה והרבה. חגיכה!!!",
+      "locations": [
+         {
+          "location_name": "קיבוץ דליה",
+           "flowers": [
+              "Micromeria fruticosa",
+              "Narcissus",
+              "Sternbergia clusiana",
+              "Bellis sylvestris"
+            ],
+            "maps_query_location": "Dalia"
+        }
+      ]
+    },
+     {
+      "date": "03/12/2009",
+      "observer": null,
+       "original_text": "המוני כרכום חורפי, סיתווניות היורה, ולבלוב אלונים",
+      "locations": [
+        {
+           "location_name": "פסגת התבור",
+           "flowers": [
+             "Crocus hyemalis",
+             "Colchicum",
+             "Quercus"
+            ],
+             "maps_query_location": "Mount Tabor"
+         }
+       ]
+    },
+    {
+      "date": "03/12/2009",
+      "observer": null,
+      "original_text": "בשביל היורד ממתלול אבינדב לנחל צביה,התחילו לפרוח דודאים,בנוסף פריחת שיא של נרקיסים,רקפות וכרכומים.",
+      "locations": [
+        {
+          "location_name": "מתלול אבינדב",
+          "flowers": [
+             "Mandragora autumnalis",
+            "Narcissus",
+             "Cyclamen",
+            "Crocus"
+          ],
+            "maps_query_location": "Avinadav Cliff"
+        },
+         {
+          "location_name": "נחל צביה",
+            "flowers": [
+              "Mandragora autumnalis",
+               "Narcissus",
+             "Cyclamen",
+              "Crocus"
+            ],
+              "maps_query_location": "Zvia Stream"
+         }
+      ]
+    },
+    {
+      "date": "30/11/2009",
+      "observer": "סאקרה",
+      "original_text": "בנוסף-כרכומים חורפיים,סתווניות,בני חצב סתוי ורקפות.",
+      "locations": [
+        {
+          "location_name": "אנדרטת מגילת האש",
+           "flowers": [
+            "Crocus hyemalis",
+            "Colchicum",
+            "Urginea maritima",
+            "Cyclamen"
+          ],
+           "maps_query_location": "Magilat HaEsh Memorial"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2009",
+      "observer": "אורית",
+      "original_text": "התחלת פריחתן של בנות החן - הלא הן חינניות הבתה, נראית מוורידה בלובנה במורדות הכרמל (פארק הכרמל)",
+      "locations": [
+          {
+           "location_name": "מורדות הכרמל",
+           "flowers": [
+             "Bellis sylvestris"
+           ],
+           "maps_query_location": "Carmel Mountains"
+        },
+        {
+          "location_name": "פארק הכרמל",
+           "flowers": [
+              "Bellis sylvestris"
+            ],
+           "maps_query_location": "Carmel National Park"
+         }
+      ]
+    },
+    {
+      "date": "29/11/2009",
+      "observer": "אילן טל",
+       "original_text": "הצלחתי להנביט את פשתת החוף , קייצנית צמרנית , אשבל זוהרי ועוד . פורחים : חיננית הבתה , כתמה עבת שרשים , אסתר הביצות ( מאות פרחים ) , כרכום צהבהב , סתוונית היורה ועוד .",
+      "locations": [
+          {
+          "location_name": "גן בוטני, כפר יהושע",
+            "flowers": [
+                "Linum littorale",
+                "Filago",
+                "Salvia splendens",
+                 "Bellis sylvestris",
+                "Sternbergia clusiana",
+                "Asteriscus aquaticus",
+                "Crocus flavus",
+                "Colchicum"
+              ],
+            "maps_query_location": "Kfar Yehoshua"
+         }
+       ]
+    }
+  ]
+}
+```

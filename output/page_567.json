@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/03/2014",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["פשתנית משולשת"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2014",
+      "observer": "שמיל קליין",
+      "original_text": "בשביל הפסגה בהר מירון שיא של יקינטון מזרחי יחד עם נזמית מקווות, רומוליאה סגלולית וסחלב פרפרני",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["יקינטון מזרחי","נזמית מקווות", "רומוליאה סגלולית", "סחלב פרפרני"],
+           "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+      {
+      "date": "05/03/2014",
+      "observer": null,
+       "original_text": "שפע פרחים מחוץ לחומה של גן הברון צמוד לחומה הצפונית ישנו מגרש חנייה מסודר",
+        "locations": [
+          {
+            "location_name": "גן הברון",
+             "flowers": [],
+             "maps_query_location": "Gan HaBaron"
+          }
+        ]
+    },
+    {
+      "date": "05/03/2014",
+      "observer": null,
+      "original_text": "המוני שום תל-אביב בשיא פריחה, ריכוזים יפים של צבעוני בשיא פריחה, בן-חצה יקינתוני בתחילת פריחה, תורמוס ארצישראלי, קידה שעירה ועוד",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["שום תל-אביב", "צבעוני", "בן-חצב יקינתוני", "תורמוס ארצישראלי", "קידה שעירה"],
+           "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+        {
+      "date": "05/03/2014",
+      "observer": "רחלי פרמן",
+        "original_text": "בחורשת הסרג׳נטים פורחים בין השאר המון צבעונים ובן חצב יקינטוני",
+       "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים",
+          "flowers": ["צבעוני", "בן חצב יקינטוני"],
+          "maps_query_location": "Horeshat HaSarg'antim"
+        },
+          {
+            "location_name":"נתניה",
+            "flowers":["צבעוני", "בן חצב יקינטוני"],
+            "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2014",
+      "observer": "יהודה מרטה",
+       "original_text": "בדרך נוף יער בית קשת פריחת אביב בשיאה . גביעוניות , משטחי רקפות עצומים , כלניות אדומות וכמה לבנות ,המון עיריונים ,סחלבים לחדי עין כאילו לא היה חורף שחון  . 28.02.14",
+       "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": ["גביעונית", "רקפת", "כלנית אדומה", "כלנית לבנה", "עיריון", "סחלב"],
+           "maps_query_location": "Beit Keshet Forest"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2014",
+      "observer": "קרן קימת לישראל",
+      "original_text": "פריחת תורמוסים החלה פריחת התורמוסים ביער נחל תות בסמוך למחלף אליקים. מומלץ לטייל בשביל סובב חגית – שם הפריחה בעיצומה.",
+      "locations": [
+        {
+          "location_name": "יער נחל תות",
+          "flowers": ["תורמוס"],
+           "maps_query_location": "Nahal Tut Forest"
+        },
+          {
+           "location_name":"מחלף אליקים",
+           "flowers": ["תורמוס"],
+           "maps_query_location":"Eliaqim Interchange"
+          },
+         {
+            "location_name": "שביל סובב חגית",
+             "flowers":["תורמוס"],
+            "maps_query_location": "Sovev Hagit Trail"
+        }
+      ]
+    },
+     {
+      "date": "03/03/2014",
+      "observer": null,
+      "original_text": "ארכובית החוף,סחלב ריחני,וכף עוף מנוצה פורחים בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["ארכובית החוף", "סחלב ריחני", "כף עוף מנוצה"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "02/03/2014",
+      "observer": null,
+       "original_text": "יחנוק המלחות פרץ מהאדמה ופורח במלוא הדרו בסביבות צומת שבטה",
+       "locations": [
+        {
+          "location_name": "צומת שבטה",
+          "flowers": ["יחנוק המלחות"],
+           "maps_query_location": "Shivta Junction"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2014",
+      "observer": "הדס יקיר",
+      "original_text": "בגבעת האירוסים הצמודה לגן הורדים, אירוס הארגמן כמעט גמר לפרוח, אך רותם המדבר והקידה השעירה בשיא פריחתם המבושמת!!",
+       "locations": [
+        {
+          "location_name": "גבעת האירוסים",
+          "flowers": ["אירוס הארגמן", "רותם המדבר", "קידה השעירה"],
+          "maps_query_location": "Givat HaIrusim"
+        },
+         {
+            "location_name":"נס ציונה",
+            "flowers":["אירוס הארגמן", "רותם המדבר", "קידה השעירה"],
+            "maps_query_location": "Ness Ziona"
+        }
+      ]
+    }
+  ]
+}
+```

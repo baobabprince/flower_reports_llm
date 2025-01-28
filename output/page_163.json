@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/12/2021",
+      "observer": "מנדי ונדר",
+      "original_text": "פריחה מהממת של אלפי נרקיסים על יד אנדרטת עוצבת אגרוף ורומח ליד הישוב  אלעד",
+      "locations": [
+        {
+          "location_name": "אנדרטת עוצבת אגרוף ורומח",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+            "maps_query_location": "אנדרטת עוצבת אגרוף ורומח"
+        },
+         {
+          "location_name": "אלעד",
+          "flowers": [
+             "נרקיס מצוי"
+          ],
+           "maps_query_location": "Elad"
+        }
+      ]
+    },
+    {
+      "date": "07/12/2021",
+      "observer": null,
+      "original_text": "נרקיס סתווי - סוף\nכרכום גיארדו הרבה \nנרקיס מצוי רבים ויפים\nאספרג החורש\nצפורן נקוד בדגמים שונים\nכתמה עבת שורשים",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "נרקיס סתווי",
+            "כרכום גיארדו",
+            "נרקיס מצוי",
+            "אספרג החורש",
+             "צפורן נקוד",
+            "כתמה עבת שורשים"
+          ],
+          "maps_query_location": "Khirbat Mlah"
+        }
+      ]
+    },
+     {
+      "date": "07/12/2021",
+      "observer": null,
+      "original_text": "דודא רפואי - התחלה",
+      "locations": [
+        {
+          "location_name": "דרך נוף הכרמל",
+           "flowers": [
+            "דודא רפואי"
+          ],
+           "maps_query_location": "דרך נוף הכרמל"
+         }
+      ]
+    },
+     {
+      "date": "07/12/2021",
+      "observer": null,
+      "original_text": "אין כמעט פריחה \nסיתווניות גמרו לפרוח\nנרקיס סתווי בסוף פריחה \nאין מה ללכת לשם עכשיו.",
+      "locations": [
+        {
+          "location_name": "ג'סר א זרקה",
+           "flowers": [
+            "סתוונית",
+             "נרקיס סתווי"
+           ],
+            "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+        {
+      "date": "07/12/2021",
+      "observer": null,
+       "original_text":"ביום סגריר היו כל הכרכומים סגורים אלפים מהם מקשטים את הכרמל כמו פנינים (כרכום חורפי) \nהמוני נרקיס מצוי  בשיא פריחה\nרקפות החלו לפרוח\nוהמלךאיריס הסרגל עדיין בשיא \nנץ-חלב הררי לא נפתח ביום סגריר",
+      "locations": [
+        {
+          "location_name": "דרך נוף הכרמל",
+           "flowers": [
+             "כרכום חורפי",
+            "נרקיס מצוי",
+             "רקפת",
+             "איריס הסרגל",
+              "נץ-חלב הררי"
+          ],
+           "maps_query_location": "דרך נוף הכרמל"
+         }
+      ]
+    },
+        {
+      "date": "06/12/2021",
+      "observer": null,
+         "original_text":"שמורת -הנעמן:\nאוכם חופי , גומא חלקלק , עדעד הביצות, שרשר שיחני  \nעמק המעיינות:\nשיטה מלבינה , בלוטנית אפריקנית \nמלחת הנעמן:\nאסתר הביצות \nעין טיון:\nמרור ימי , הרנוג השיטים \nהיפודרום בית שאן: זליה מחומשת",
+      "locations": [
+         {
+          "location_name": "שמורת הנעמן",
+          "flowers": [
+            "אוכם חופי",
+            "גומא חלקלק",
+            "עדעד הביצות",
+             "שרשר שיחני"
+          ],
+            "maps_query_location":"Neaman Stream Nature Reserve"
+        },
+        {
+          "location_name": "עמק המעיינות",
+          "flowers": [
+            "שיטה מלבינה",
+             "בלוטנית אפריקנית"
+          ],
+           "maps_query_location":"Beit She'an Valley"
+        },
+         {
+          "location_name": "מלחת הנעמן",
+          "flowers": [
+            "אסתר הביצות"
+          ],
+          "maps_query_location": "מלחת הנעמן"
+        },
+        {
+           "location_name": "עין טיון",
+          "flowers": [
+             "מרור ימי",
+            "הרנוג השיטים"
+          ],
+           "maps_query_location":"Ein Tiyon"
+         },
+        {
+          "location_name": "היפודרום בית שאן",
+          "flowers": [
+            "זליה מחומשת"
+          ],
+            "maps_query_location": "Beit She'an Hippodrome"
+        }
+      ]
+    },
+     {
+      "date": "06/12/2021",
+      "observer": "גדי",
+       "original_text": "בהר העגול, בעמיקם, משטחי כרכומים ורקפות",
+      "locations": [
+        {
+          "location_name": "הר העגול",
+          "flowers": [
+            "כרכום",
+            "רקפת"
+          ],
+            "maps_query_location": "Har HaAgol"
+        },
+         {
+          "location_name": "עמיקם",
+          "flowers": [
+            "כרכום",
+            "רקפת"
+           ],
+             "maps_query_location": "Amikam"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2021",
+       "observer": "עידו מגן",
+        "original_text":"כרכומים פורחים בהמוניהם בפארק בגין בדרך לעין קובי ובחורבת חנות. רקפות בשפע ונרקיסים בתחילת פריחה בחורבת חנות",
+      "locations": [
+         {
+          "location_name": "פארק בגין",
+           "flowers": [
+            "כרכום"
+           ],
+           "maps_query_location": "Begin Park"
+        },
+        {
+           "location_name": "עין קובי",
+            "flowers": [
+            "כרכום"
+            ],
+            "maps_query_location":"Ein Kobi"
+        },
+        {
+           "location_name": "חורבת חנות",
+           "flowers": [
+            "כרכום",
+            "רקפת",
+            "נרקיס מצוי"
+          ],
+           "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2021",
+       "observer": null,
+       "original_text":"מרבדי כרכומים, רקפות, נרקיסים וסיתווניות",
+      "locations": [
+         {
+          "location_name": "חירבת חנות",
+           "flowers": [
+            "כרכום",
+             "רקפת",
+             "נרקיס מצוי",
+            "סתוונית"
+           ],
+           "maps_query_location": "Khirbet Hanut"
+         }
+      ]
+    },
+       {
+      "date": "04/12/2021",
+      "observer": null,
+         "original_text":"איריס הסרגל, נרקיסים, כרכום חורפי ונץ-חלב הררי",
+      "locations": [
+        {
+          "location_name": "דרך נוף הכרמל",
+            "flowers": [
+            "איריס הסרגל",
+              "נרקיס מצוי",
+              "כרכום חורפי",
+              "נץ-חלב הררי"
+             ],
+           "maps_query_location": "דרך נוף הכרמל"
+        },
+         {
+          "location_name": "המצפור",
+           "flowers": [
+             "איריס הסרגל",
+              "נרקיס מצוי",
+              "כרכום חורפי",
+              "נץ-חלב הררי"
+            ],
+            "maps_query_location": "Mitzpor"
+         }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/01/2019",
+      "observer": null,
+      "original_text": "שדות מול צומת עיו השופו\nמול הכניסה לכביש,6953",
+      "locations": [
+        {
+          "location_name": "צומת עיו השופו",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Tzomet Eyu HaShofo"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2019",
+      "observer": "אתר נלך",
+      "original_text": "בבריכת צרטה ישנה התחלת פריחה של נוריות מים",
+       "locations": [
+        {
+          "location_name": "בריכת צרטה",
+          "flowers": ["נורית מים"],
+           "maps_query_location":"Breichat Tzarata"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "ורבורגינה פקטורובסקי פורחת בגן",
+       "locations": [
+        {
+           "location_name": "גן",
+          "flowers": ["ורבורגינה פקטורובסקי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "10/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "הרבה כלניות אך גם לא מעט נבולות.      די הרבה רקפות, פה ושם ריכוזים אך מרבדים עדיין אין.      בחורבת זכריה אחרי השריפה למעלה ובמדרון הצפוני מעט מרווה ריחנית.      בבקעת הנזירים כלניות ומעט אירוסים. בהמשך נחל גימזו כלניות ורקפות.",
+      "locations": [
+        {
+           "location_name": "יער בן שמן",
+          "flowers": ["כלנית","רקפת"],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+         {
+          "location_name": "חורבת זכריה",
+          "flowers": ["מרווה ריחנית"],
+           "maps_query_location":"Hurvat Zakariya"
+        },
+        {
+          "location_name": "בקעת הנזירים",
+          "flowers": ["כלנית", "אירוס"],
+           "maps_query_location": "Bik'at HaNezirim"
+        },
+         {
+          "location_name": "נחל גימזו",
+          "flowers": ["כלנית","רקפת"],
+           "maps_query_location":"Nahal Gimzo"
+        }
+      ]
+    },
+   {
+      "date": "10/01/2019",
+      "observer": "יואב גרטמן",
+       "original_text": "פורחת בהמונים באיזור העליון של שווצריה הקטנה.\nדבורנית שחומה לאורך הכניסה לישובון גבעת וולפסון.",
+        "locations": [
+        {
+            "location_name": "שווצריה הקטנה",
+            "flowers": ["רומוליאה צידונית"],
+           "maps_query_location": "Shveytzaria HaKtana"
+        },
+        {
+          "location_name": "גבעת וולפסון",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location":"Giv'at Wolfson"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "תלתן ישראלי פורח בגן",
+      "locations": [
+        {
+           "location_name": "גן",
+          "flowers": ["תלתן ישראלי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "08/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "לאורך שביל האופניים (והרגל) השחור: הקטע הדרומי: מעט פרחים למעט המון עיריות לקראת פריחה, הרבה עם ניצנים וגם כמה פורחות.      הקטע הצפוני הצופה על עמק איילון: די הרבה כלניות, פה ושם רקפות, אירוסים, מרווה ריחנית, עיריות, פרסיון ורותם אחד ליד מגדל התצפית.      בקטע לאורך כק\"מ מזרחה ממיכל המים והאנטנה יש דרך עפר ושביל בהמשך מקבילים לשביל האופניים עד לדרך הנוף הצפונית. דרך זו יפה יותר עם ריכוז מרווה פורחת ליד המערה עם התאנה.",
+      "locations": [
+        {
+          "location_name": "פארק איילון",
+          "flowers": ["עירית"],
+           "maps_query_location": "Park Ayalon"
+        },
+         {
+          "location_name": "עמק איילון",
+            "flowers": ["כלנית", "רקפת", "אירוס", "מרווה ריחנית", "עירית", "פרסיון", "רותם"],
+            "maps_query_location":"Emek Ayalon"
+        },
+         {
+           "location_name": "דרך הנוף הצפונית",
+          "flowers": ["מרווה ריחנית"],
+          "maps_query_location": "Northern Scenic Route"
+        }
+      ]
+    },
+     {
+      "date": "08/01/2019",
+      "observer": "שחר אלוני",
+       "original_text": "התחילה פריחת כלניות במנחת מגידו",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": ["כלנית"],
+           "maps_query_location":"Megiddo Airfield"
+        }
+      ]
+    },
+     {
+      "date": "08/01/2019",
+      "observer": "עמיר פז",
+       "original_text": "איריס הארגמן החל לפרוח בגן",
+        "locations": [
+        {
+           "location_name": "גן",
+          "flowers": ["איריס הארגמן"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "07/01/2019",
+      "observer": "דורית פייפל",
+       "original_text": "פריחת נרקיסים ברמת אביב",
+       "locations": [
+        {
+           "location_name": "רמת אביב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ramat Aviv"
+        }
+      ]
+    }
+  ]
+}
+```

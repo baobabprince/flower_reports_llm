@@ -1,0 +1,196 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/11/2014",
+      "observer": "אבנר",
+      "original_text": "מזרחית לישוב להבים ישנו חניון פעיל שמים את האוטו ומשוטטים בגבעות יש בעיקר חלמוניות",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2014",
+       "observer": "אבנר",
+      "original_text": "שיא פריחה של החלמוניות ביער יתיר נוסעים על כביש 31 מתחברים לכביש 316 על פי השילוט לשני סוסיא ויתיר נוסעים  בערך 12 קילומטר ורואים שלט שמאלה  שביל שחור נוסעים מס דקות עד החניה ניתן לסוע בכל מכונית מצורפת קישורית מקורית מהשטח",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Yatir Forest"
+        },
+         {
+          "location_name": "סוסיא",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Susya"
+        },
+        {
+          "location_name": "יתיר",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Yatir"
+        }
+      ]
+    },
+    {
+      "date": "06/11/2014",
+      "observer": null,
+      "original_text": "חמנית מצויה בשיא פריחה , קנה מצוי גם הוא בשיא וטיונית החולות",
+        "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "חמנית מצויה",
+            "קנה מצוי",
+             "טיונית החולות"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2014",
+       "observer": "אבנר",
+      "original_text": "שפע פריחה של חלמוניות ביער להב במסלול האדום נוסעים על כביש 325  עוברים את הכניסה לקיבוץ דבירה אחרי 6.5 קילומטר פונים ימינה לשביל אדום מצורפת קישורית מהשטח",
+      "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2014",
+      "observer": null,
+      "original_text": "נרקיס סתווי, בן חצב סיתווני, כדן קטן פרחים סיתוונית היורה",
+      "locations": [
+        {
+           "location_name": "שמורת נחל תנינים",
+          "flowers": [
+            "נרקיס סתווי",
+            "בן-חצב סתווני",
+            "כדן קטן פרחים",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Nahal Taninim Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "05/11/2014",
+      "observer": null,
+       "original_text": "נרקיס סתווי  בשיא בהמוניו, סיתווני היורה, מעט כדנים, בן-חצב סיתווני, קיסוסית קוצנית בפריחה שופעת יחד עם פרחים, עופרית אירופית,שרביטן מצוי,",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+           "flowers": [
+            "נרקיס סתווי",
+            "סתוונית היורה",
+            "כדן",
+             "בן-חצב סתווני",
+              "קיסוסית קוצנית",
+              "עופרית אירופית",
+              "שרביטן מצוי"
+          ],
+          "maps_query_location": "Khirbet Milh"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2014",
+      "observer": null,
+      "original_text": "כרכום נאה, חלמוניות בשיא, אחילוף הגליל ופירות של עוזרר אדום עוזרר קוצני אלה א\"י ועוד",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": [
+            "כרכום נאה",
+            "חלמונית",
+            "אחילוף הגליל",
+            "עוזרר אדום",
+             "עוזרר קוצני"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2014",
+      "observer": "הדס",
+      "original_text": "מושבה של סתווניות ירושלים זקפה ראשים הבוקר ליד בית הקברות הבריטי בהר הצופים.",
+       "locations": [
+        {
+          "location_name": "הר הצופים",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Mount Scopus"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2014",
+      "observer": null,
+      "original_text": "ביער הקדושים ביער בן שמן בכרמל , ביער כוכב יאיר ועוד",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+          "flowers": [
+            "סתוונית היורה"
+           ],
+          "maps_query_location": "Kedoshim Forest"
+        },
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "סתוונית היורה"
+           ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "סתוונית היורה"
+           ],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "יער כוכב יאיר",
+            "flowers": [
+            "סתוונית היורה"
+           ],
+          "maps_query_location": "Kochav Yair Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2014",
+      "observer": null,
+       "original_text":"גם בלהבים החלה פריחת החלמוניות",
+       "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    }
+  ]
+}
+```

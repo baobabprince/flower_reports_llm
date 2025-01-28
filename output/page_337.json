@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/10/2018",
+      "observer": "Dafna Cohen",
+      "original_text": "פריחת חלמוניות וסתווניות בשביל הפסגה במירון",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["חלמונית", "סתוונית"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2018",
+      "observer": "יעל כנען",
+      "original_text": "פריחת חלמוניות בשביל הפיסגה בהר מירון. גם סתווניות",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית", "סתוונית"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2018",
+      "observer": "יענקל'ה סער",
+      "original_text": "בנחל צפית משטח גדול של חבצלות הנגב...",
+       "locations": [
+        {
+          "location_name": "נחל צפית",
+          "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Nahal Tzafit"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2018",
+      "observer": "רמי",
+      "original_text": "בתחילת המסלול מיד לאחר חניון הלילה המון חבצלות במלוא תפארתן",
+        "locations": [
+        {
+           "location_name": "נחל ימין",
+          "flowers": ["חבצלת"],
+          "maps_query_location": "Nahal Yamin"
+        }
+      ]
+    },
+   {
+      "date": "18/10/2018",
+      "observer": null,
+      "original_text": "אנדרטת-הנגב : אינדיה נטויה, אלניה נאה , גרדיולוס מדברי, חצב גלוני  (אחרי פיזור זרעים) , מאירית קצרת-עלים, מלוח מילר  מלוח מאפיר , מלוח קיפח , מלחית אשונה , מלחית חומה חפץ-חיים  : אנודה מצוייצת   כביש 171 :אצבוע אירופי ממשית: בן-חצב מדברי, חורשף צהוב , חבצלת הנגב , מלוח הענבות, פוקה קוצנית בורות לוץ : כרכום דמשקאי נחל-אשלים  : מלחית חומה נחל-אשחרים  :סתוונית הקליפות , יפרוק המדבר , יפרוק תלת-כנפי, דרדר דמשקאי",
+      "locations": [
+        {
+          "location_name": "אנדרטת הנגב",
+          "flowers": ["אינדיה נטויה", "אלניה נאה", "גרדיולוס מדברי", "חצב גלוני", "מאירית קצרת-עלים", "מלוח מילר", "מלוח מאפיר", "מלוח קיפח", "מלחית אשונה", "מלחית חומה"],
+            "maps_query_location": "Andartat Hanegev"
+        },
+         {
+          "location_name": "חפץ חיים",
+           "flowers": ["אנודה מצוייצת"],
+            "maps_query_location": "Hefetz Haim"
+        },
+        {
+          "location_name": "כביש 171",
+           "flowers": ["אצבוע אירופי"],
+            "maps_query_location": null
+        },
+         {
+          "location_name": "ממשית",
+          "flowers": ["בן-חצב מדברי", "חורשף צהוב", "חבצלת הנגב", "מלוח הענבות", "פוקה קוצנית"],
+            "maps_query_location": "Mamshit"
+        },
+        {
+           "location_name": "בורות לוץ",
+          "flowers": ["כרכום דמשקאי"],
+            "maps_query_location": "Borot Lotz"
+        },
+        {
+           "location_name": "נחל אשלים",
+          "flowers": ["מלחית חומה"],
+            "maps_query_location": "Nahal Ashalim"
+        },
+        {
+           "location_name": "נחל אשחרים",
+          "flowers": ["סתוונית הקליפות", "יפרוק המדבר", "יפרוק תלת-כנפי", "דרדר דמשקאי"],
+          "maps_query_location":"Nahal Eshharim"
+        }
+      ]
+    },
+    {
+      "date": "15/10/2018",
+      "observer": "גיל רוזנברג",
+       "original_text": "חלמוניות ראשונות נצפו היום בדרך נוף ביריה !!!! מספר פרטים לא רב אבל בהחלט התחלה מבטיחה",
+      "locations": [
+        {
+           "location_name": "דרך נוף ביריה",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Birya Forest Scenic Route"
+        }
+      ]
+    },
+     {
+      "date": "14/10/2018",
+      "observer": "יענק'לה סער",
+      "original_text": "חלמוניות וחבצלת הנגב: ליד ירוחם החלמוניות פורחות. ... בנחל ימין בין החניון לגבים, יש פריחה של חבצלת הנגב.",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": ["חלמונית", "חבצלת הנגב"],
+           "maps_query_location": "Yeruham"
+        },
+         {
+          "location_name":"נחל ימין",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Nahal Yamin"
+         }
+      ]
+    },
+    {
+      "date": "13/10/2018",
+      "observer": null,
+      "original_text": "סיתוונית ירושלים פורחת בעמק המצלבה בירושלים",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+          "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Emek HaMatzleva"
+        },
+        {
+           "location_name":"ירושלים",
+            "flowers": ["סתוונית ירושלים"],
+            "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+     {
+      "date": "13/10/2018",
+      "observer": null,
+       "original_text":"באתר הפריחה של החלמוניות ליד ירוחם פורחות חלמוניות יפות",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": ["חלמונית"],
+            "maps_query_location":"Yeruham"
+        }
+      ]
+    },
+   {
+      "date": "12/10/2018",
+      "observer": null,
+       "original_text":"שום סתווי, בורהביה זוחלת, קוצן מכונף, זיפן ירוק, וחוטמית מסורטטת שהתבלבלה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": ["שום סתווי", "בורהביה זוחלת", "קוצן מכונף", "זיפן ירוק", "חוטמית מסורטטת"],
+           "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

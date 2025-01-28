@@ -1,0 +1,191 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2024",
+      "observer": "יואב פינסקי",
+      "original_text": "שלום\nזיהיתי פריחה של עירית נבובה לצד הכביש ביישוב. ברור שלא נשתלה שם. לא ברור אם הגיעה מגינה כלשהי או מהיער.\nביער לא ראיתי כאלה מעולם.",
+      "locations": [
+        {
+          "location_name": "בית קשת",
+           "flowers": ["עירית נבובה"],
+          "maps_query_location": "Beit Keshet"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2024",
+       "observer": null,
+      "original_text": "יער מלאכים מרבדים של רקפות וגם כלניות",
+      "locations": [
+        {
+          "location_name": "יער מלאכים",
+           "flowers": ["רקפת", "כלנית"],
+          "maps_query_location": "Ya'ar Mal'akhim"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2024",
+       "observer": null,
+      "original_text": "הרנוג השיטים,   זוגן אדום,  לובד המדבר",
+      "locations": [
+        {
+          "location_name": "נחל נטפים",
+           "flowers": ["הרנוג השיטים", "זוגן אדום", "לובד המדבר"],
+          "maps_query_location": "Nahal Netafim"
+        }
+      ]
+    },
+      {
+      "date": "17/02/2024",
+      "observer": null,
+      "original_text": "בר-לוע סיני , לשנן בובה , מורטיה קטנת-פרחים , צמרורה אפריקנית , צמרורת אהרנברג",
+      "locations": [
+        {
+           "location_name": "אילת",
+           "flowers": ["בר-לוע סיני", "לשנן בובה", "מורטיה קטנת-פרחים", "צמרורה אפריקנית", "צמרורת אהרנברג"],
+           "maps_query_location": "Eilat"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2024",
+      "observer": null,
+      "original_text": "אספסת מפוצלת,   אפיונה מחוספסת, זאוקסין הדשאים , חיעד קנרי , כרבולת אדומית , לחך לופת , לחך סגלגל , מורטיה מלבינה , מררית כחולת-זרעון , פיריינית קרחת , חומעה ורודה",
+       "locations": [
+         {
+           "location_name": "אליפז",
+           "flowers": ["אספסת מפוצלת", "אפיונה מחוספסת", "זאוקסין הדשאים", "חיעד קנרי", "כרבולת אדומית", "לחך לופת", "לחך סגלגל", "מורטיה מלבינה", "מררית כחולת-זרעון", "פיריינית קרחת", "חומעה ורודה"],
+           "maps_query_location": "Elifaz"
+         }
+      ]
+    },
+     {
+      "date": "17/02/2024",
+       "observer": null,
+      "original_text": "אבוטילון קהה, שיכרון מדבר, ציפורנית החולות, פריינית קרחת , מוריקת סיני , לוניאה שרועה , לוטוס אילתי , טפרוסיה נובית , חבלבל משובל",
+      "locations": [
+        {
+          "location_name": "גן-מדבר סמר",
+          "flowers": ["אבוטילון קהה", "שיכרון מדבר", "ציפורנית החולות", "פריינית קרחת", "מוריקת סיני", "לוניאה שרועה", "לוטוס אילתי", "טפרוסיה נובית", "חבלבל משובל"],
+          "maps_query_location": "Gan-Midbar Samar"
+        }
+      ]
+    },
+    {
+       "date": "17/02/2024",
+      "observer": "עידו מגן",
+      "original_text": "בגבעת תיתורה במודיעין פורחות המון שקדיות, כלניות ורקפות. בתל קטרה תורמוסים. בחורבת שרישה עדיין פורחות המון כלניות לבנות, וכן תורמוסים ושקדיות. בדרך לנווה שלום ובפארק קנדה מרבדי כלניות. בדרך למבוא חורון פורחות הרבה שקדיות בר.",
+      "locations": [
+         {
+          "location_name": "גבעת תיתורה",
+          "flowers": ["שקד", "כלנית", "רקפת"],
+          "maps_query_location": "Givat Titora"
+         },
+         {
+          "location_name": "מודיעין",
+           "flowers": ["שקד", "כלנית", "רקפת"],
+          "maps_query_location": "Modi'in"
+        },
+        {
+           "location_name": "תל קטרה",
+           "flowers": ["תורמוס"],
+           "maps_query_location": "Tel Qatra"
+        },
+        {
+           "location_name": "חורבת שרישה",
+           "flowers": ["כלנית", "תורמוס", "שקד"],
+           "maps_query_location": "Khurvat Shrisha"
+        },
+       {
+          "location_name": "נווה שלום",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Neve Shalom"
+        },
+         {
+           "location_name":"פארק קנדה",
+           "flowers": ["כלנית"],
+            "maps_query_location": "Canada Park"
+        },
+       {
+         "location_name": "מבוא חורון",
+         "flowers": ["שקד"],
+         "maps_query_location": "Mevo Horon"
+       }
+      ]
+    },
+    {
+      "date": "17/02/2024",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "שקד מצוי (נחל חלילים ומעלה החמישה), צהרון מצוי (נחל חלילים), דבורנית שחומה (נחל חלילים, ו-2 מקבצים ביער מבשרת ירושלים)",
+      "locations": [
+         {
+          "location_name": "נחל חלילים",
+           "flowers": ["שקד מצוי", "צהרון מצוי", "דבורנית שחומה"],
+          "maps_query_location": "Nahal Halilim"
+        },
+        {
+          "location_name": "מעלה החמישה",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location": "Ma'ale HaHamisha"
+        },
+         {
+          "location_name":"יער מבשרת ירושלים",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Ya'ar Mevaseret Yerushalayim"
+         }
+       ]
+    },
+    {
+      "date": "17/02/2024",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "באזור ירושלים,בטיול עם שמעון כהן, נצפו: ורוניקהמבריקה(יער מבשרת ציון), לוע הארי הגדול,\nאצבוע אירופי (נחל חלילים, ו-אנדרטת פורצי הדרך לירושלים),ורוניקה לבנה ( אזור המוזיאון הבוטני גבעת רם),תורמוס ההרים(מצפה תל).",
+     "locations": [
+        {
+           "location_name": "ירושלים",
+          "flowers": null,
+           "maps_query_location":"Jerusalem"
+        },
+        {
+           "location_name": "יער מבשרת ציון",
+            "flowers": ["ורוניקה מבריקה"],
+           "maps_query_location":"Ya'ar Mevaseret Zion"
+        },
+       {
+           "location_name":"נחל חלילים",
+            "flowers":["אצבוע אירופי"],
+           "maps_query_location":"Nahal Halilim"
+        },
+        {
+          "location_name":"אנדרטת פורצי הדרך לירושלים",
+          "flowers": ["אצבוע אירופי"],
+          "maps_query_location": "Andartat Portzey Haderech Leyerushalayim"
+        },
+        {
+          "location_name":"אזור המוזיאון הבוטני גבעת רם",
+           "flowers": ["ורוניקה לבנה"],
+           "maps_query_location": "The Botanical Garden Givat Ram"
+        },
+        {
+          "location_name":"מצפה תל",
+          "flowers":["תורמוס ההרים"],
+           "maps_query_location": "Mitzpe Tel"
+        }
+      ]
+    },
+    {
+      "date":"17/02/2024",
+      "observer":"אלחנן נוסינסון",
+      "original_text":"לצד תחילת כביש עליה למירון, נראו 2 סחלבים מצוירים  ו-2 פרטים של אירוס הלבנון בסוף פריחה.",
+      "locations": [
+        {
+          "location_name":"מירון",
+           "flowers": ["סחלב מצויר", "אירוס הלבנון"],
+          "maps_query_location": "Meron"
+        }
+      ]
+    }
+  ]
+}
+```

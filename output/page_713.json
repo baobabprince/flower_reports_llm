@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/01/2011",
+      "observer": null,
+      "original_text": "מתנן שעיר,כלנית מצויה,מרסיה יפהפיה,רותם המדבר,שמשון סגלגל,כתמה עבת שורשים,ועירית גדולה פורחים בשמורה",
+      "locations": [
+        {
+          "location_name": "שמורת טבע בני ציון",
+          "flowers": [
+            "מתנן שעיר",
+            "כלנית מצויה",
+            "מרסיה יפהפיה",
+            "רותם המדבר",
+            "שמשון סגלגל",
+            "כתמה עבת שורשים",
+             "עירית גדולה"
+           ],
+           "maps_query_location": "Bnei Zion Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2011",
+      "observer": null,
+      "original_text": "ותתעדכנו אוטומטית בחדשות האתר , כתבות המלצות לטיולים ועוד- הקישור להרשמה למטה",
+       "locations": []
+    },
+    {
+      "date": "26/01/2011",
+      "observer": null,
+      "original_text": "רומולאה צידונית ואיריס א\"י התחילו לפרוח במצפור הצוק.\nדבורנית שחומה בעין אלון. כליל החורש בחניון האגם וכלניות ראשונות במצפור הצוק, ברכס אצבע ועוד.",
+      "locations": [
+        {
+          "location_name": "מצפור הצוק",
+           "flowers": [
+            "רומולאה צידונית",
+            "איריס ארץ ישראל",
+             "כלנית"
+            ],
+          "maps_query_location": "Mitzpor HaZok"
+        },
+        {
+          "location_name": "עין אלון",
+           "flowers": [
+            "דבורנית שחומה"
+            ],
+          "maps_query_location": "Ein Alon"
+        },
+        {
+          "location_name": "חניון האגם",
+           "flowers": [
+             "כליל החורש"
+            ],
+         "maps_query_location": "Lake parking"
+        },
+         {
+          "location_name": "רכס אצבע",
+           "flowers": [
+            "כלנית"
+            ],
+          "maps_query_location": "Ridge Etzba"
+        }
+      ]
+    },
+     {
+      "date": "26/01/2011",
+      "observer": null,
+      "original_text": "מרסיה יפהפיה,מרווה צמירה,ורותם המדבר פורחים בגן",
+       "locations": [
+        {
+           "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+            "מרסיה יפהפיה",
+             "מרווה צמירה",
+             "רותם המדבר"
+           ],
+           "maps_query_location": "HaSharon Beach National Park"
+         }
+       ]
+    },
+    {
+      "date": "26/01/2011",
+      "observer": "נעם עביצל",
+      "original_text": "השאירו את הרכב במגרש החניה המזרחי של  גני הנדיב (ליד זכרון יעקב)  וצאו בדרך העוקפת צפונה שם תוכלו  (עם קצת תשומת לב)  להיתקל בפריחה של רומולאה סגלולית",
+       "locations": [
+         {
+          "location_name": "גני הנדיב",
+          "flowers": [
+            "רומולאה סגלולית"
+           ],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+         {
+          "location_name": "זכרון יעקב",
+          "flowers": [
+             "רומולאה סגלולית"
+           ],
+          "maps_query_location": "Zikhron Ya'akov"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2011",
+      "observer": "מאיר מיקי גולן",
+      "original_text": "רקפות למכביר דדוא רפואי כלניות ותחילת פריחה של עיריות",
+      "locations": [
+       {
+         "location_name": "שמורת אלוני יצחק",
+         "flowers": [
+           "רקפת",
+           "דדוא רפואי",
+            "כלנית",
+            "עירית"
+           ],
+          "maps_query_location":"Alonim Yitzhak Nature Reserve"
+       }
+      ]
+    },
+    {
+     "date": "26/01/2011",
+      "observer": "עמיר פז",
+      "original_text": "מצילות שנהב פורחות בגן הבוטני בגעש -  052-3882069",
+      "locations": [
+        {
+           "location_name": "הגן הבוטני בגעש",
+            "flowers": [
+              "מצילות שנהב"
+            ],
+            "maps_query_location": "Ga'ash Botanical Garden"
+         }
+       ]
+    },
+    {
+      "date": "25/01/2011",
+      "observer": "שרה סלפק",
+       "original_text": "25,1,2010, טיול בבקעה והשומרון-נ,פיראן,רקפות על המצוקים,בירידה מפיראן לתלכיד,על ההר,ובמדרון-מאות אבל מאות של רקפות-נרקיסים סיימו פריחה,וכן שיחי חלביב רותמי,ובצלציה אי,בעליה למבצר בורג אל מליח,שוב בצלציה,ובגומות על הסלעים גדלים ביחד רקפות,כדן סגול וזהביות,בחירבת סמרה מסביב לקשת של הקבר גדלות גביעוניות עדיין ללא פרחים (מתחת למחנה פלס), שרה,",
+      "locations": [
+        {
+           "location_name": "נחל פיראן",
+          "flowers": [
+            "רקפת",
+             "נרקיס",
+             "חלביב רותמי",
+              "בצלציה אי"
+           ],
+           "maps_query_location": "Nahal Firan"
+        },
+        {
+           "location_name": "תלכיד",
+          "flowers": [
+             "רקפת",
+             "נרקיס",
+             "חלביב רותמי",
+              "בצלציה אי",
+              "כדן סגול",
+              "זהבית"
+           ],
+           "maps_query_location": "Telchid"
+         },
+          {
+           "location_name": "מבצר בורג אל מליח",
+            "flowers": [
+             "בצלציה אי",
+              "רקפת",
+               "כדן סגול",
+              "זהבית"
+           ],
+            "maps_query_location": "Burg al Mali"
+         },
+          {
+           "location_name": "חירבת סמרה",
+          "flowers": [
+            "גביעונית"
+           ],
+            "maps_query_location": "Khirbet Samra"
+         }
+      ]
+    },
+     {
+      "date": "25/01/2011",
+      "observer": null,
+      "original_text": "שקדיות ראשונות בשמורת המסרק",
+       "locations": [
+        {
+          "location_name": "שמורת המסרק",
+          "flowers": [
+            "שקד"
+          ],
+           "maps_query_location": "Hamasrek Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2011",
+      "observer": "עירית",
+       "original_text": "בצומת השומרים, בין טבעון לאלונים, מסלול טיול מעגלי קצרצר ויפה מהאלון הגדול. לאורך המסלול אינספור דודאים ונץ החלב. בגן של אילן טל, בנוסף למה שכבר הוזכר כאן, זהבית, עירית וערטנית.",
+      "locations": [
+        {
+          "location_name": "צומת השומרים",
+           "flowers": [
+            "דודא",
+            "נץ חלב הררי",
+            "זהבית",
+             "עירית",
+             "ערטנית"
+            ],
+           "maps_query_location": "Tzomet Hashomrim"
+        },
+         {
+           "location_name": "טבעון",
+             "flowers": [
+            "דודא",
+            "נץ חלב הררי",
+            "זהבית",
+             "עירית",
+             "ערטנית"
+            ],
+           "maps_query_location": "Tivon"
+          },
+           {
+          "location_name": "אלונים",
+             "flowers": [
+            "דודא",
+            "נץ חלב הררי",
+            "זהבית",
+             "עירית",
+             "ערטנית"
+            ],
+            "maps_query_location": "Alonim"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/02/2011",
+      "observer": null,
+      "original_text": "ליד צפוריה\nשפע כלניות אדומות , גביעונית הלבנון , שפע רקפות, עיריות ו...פטריות - פינה מדהימה",
+       "locations": [
+        {
+          "location_name": "צפוריה",
+          "flowers": ["כלנית אדומה", "גביעונית הלבנון", "רקפת", "עירית"],
+          "maps_query_location": "Tzipori"
+        }
+       ]
+    },
+    {
+      "date": "07/02/2011",
+      "observer": "אביחי ברג, בית ספר שדה שער הגיא",
+      "original_text": "תחילת פריחה - כלניות בתל בית שמש,\nזמזומיות ראשונות בנחל כרמילה",
+      "locations": [
+        {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Tel Beit Shemesh"
+        },
+        {
+          "location_name": "נחל כרמילה",
+          "flowers": ["זמזומית"],
+           "maps_query_location": "Nahal Karmila"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2011",
+      "observer": "אילן טל",
+      "original_text": "פורחים : אירוס ירוחם + טוביה + א\"י , בצלציה א\"י , יקינטון מזרחי , יקינטונית , גרניון נאה , ספלול מטפס , קדד גדל פירות , רקפת יוונית + מצויה , כדן סגול , מרווה צמירה , מרסיה יפהפיה , ערטנית השדות , רומוליאה צידונית + סגלולית , גולנית ערב ועוד .",
+        "locations": [
+        {
+          "location_name": "כפר יהושע",
+            "flowers": ["אירוס ירוחם", "אירוס טוביה", "אירוס ארץ ישראלי", "בצלציה ארץ ישראלית", "יקינטון מזרחי", "יקינטונית", "גרניון נאה", "ספלול מטפס", "קדד גדל פירות", "רקפת יוונית", "רקפת מצויה", "כדן סגול", "מרווה צמירה", "מרסיה יפהפיה", "ערטנית השדות", "רומוליאה צידונית", "רומוליאה סגלולית", "גולנית ערב"],
+             "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2011",
+      "observer": "אורית",
+      "original_text": "במורדות הדרום מערביים של הכרמל (מתחת לאוניברסיטת חיפה, בין שפע עלי הרקפות הלבביים, ובתוך שפע העלים הארוכים והמוארים של העיריות, מורידים ניצניהם שעוד מעט קט ויתנוססו ברום ובגאוה... גם נחבאות על פני האדמה הרומיליאה הצידונית מסגילה לה...",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["רקפת", "עירית", "רומוליאה צידונית"],
+          "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+      "date": "05/02/2011",
+      "observer": "עירית",
+      "original_text": "בואדי ראש פינה השקדיות פורחות, הגביעונית כמעט כמעט. צימחה כבר עמודים גבוהים. חלבלוב מגובשש בירקרק זוהר, בשולי הישוב מרבדי רקפות עם עלים גדולים במיוחד. בין צומת עמיעד לאלמגור מרבדי כרמלית נאה.",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": ["שקד", "גביעונית", "חלבלוב מגובשש", "רקפת"],
+          "maps_query_location": "Rosh Pina"
+        },
+          {
+          "location_name":"צומת עמיעד",
+           "flowers": ["כרמלית נאה"],
+          "maps_query_location": "Ami'ad Junction"
+        },
+        {
+          "location_name": "אלמגור",
+          "flowers": ["כרמלית נאה"],
+          "maps_query_location": "Almagor"
+        }
+      ]
+    },
+      {
+      "date": "05/02/2011",
+      "observer": null,
+      "original_text": "סחלב השקיק החל לפרוח בשמורת אלוני יצחק",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני יצחק",
+          "flowers": ["סחלב השקיק"],
+           "maps_query_location": "Aloni Yitzhak Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2011",
+      "observer": "עמיר פז",
+      "original_text": "שרוכנית החוף פורחת בגן הבוטני בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["שרוכנית החוף"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2011",
+      "observer": "חדוה קליין",
+      "original_text": "ברכסי הכורכר במישור החוף מאזור הבונים ודרומה שפע של אירוס ארץ ישראלי בשיא פריחתו",
+      "locations": [
+        {
+          "location_name": "הבונים",
+          "flowers": ["אירוס ארץ ישראלי"],
+          "maps_query_location": "HaBonim"
+        },
+        {
+           "location_name": "מישור החוף",
+           "flowers": ["אירוס ארץ ישראלי"],
+           "maps_query_location": "Coastal Plain"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2011",
+       "observer": null,
+      "original_text": "ישנה עדיין פריחה יפה של יקינטון מזרחי בשולי המכתש במבצר קרני חיטין",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": ["יקינטון מזרחי"],
+          "maps_query_location": "Kornei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2011",
+      "observer": "עירית",
+      "original_text": "ביער אודם, בין מסעדה לבוקעתה, ניצנים רבים של רקפות יווניות למרגלות האלונים. אחדות כבר בפריחה מלאה.",
+        "locations": [
+        {
+           "location_name": "יער אודם",
+           "flowers": ["רקפת יוונית"],
+          "maps_query_location":"Odem Forest"
+        },
+        {
+           "location_name": "מסעדה",
+          "flowers": ["רקפת יוונית"],
+          "maps_query_location":"Mas'ade"
+         },
+          {
+           "location_name": "בוקעתה",
+           "flowers": ["רקפת יוונית"],
+           "maps_query_location":"Buq'ata"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,360 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/04/2013",
+      "observer": null,
+      "original_text": "פורחים בכניסה למושב גמזו\nמשני צידי הכביש",
+      "locations": [
+        {
+          "location_name": "גמזו",
+          "flowers": [
+            "Nepeta curviflora"
+          ],
+           "maps_query_location": "Gamzu"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2013",
+      "observer": "יותם שפירא",
+      "original_text": "בסוף השבוע האחרון טיילנו בשביל הירוק של חורבת שפנים לא רחוק מבית ג'ן והתרשמנו עמוקות ממגוון הפריחות המדהים: פרגים ונוריות באדום, לוטם מרווני ושעיר בקבוצות גדולות ולצידן השמשון בן המשפחה בצהוב, מצילות מצויצות,פעמונית קיפחת, זקן הסב וזקן התיש, כמה פריטים מקסימים של ציפורנית נפוחה, וכן מינים מסוימים של ורוניקה מקור חסידה ומרווה שאיני זוכר במדויק את שמם אך צבעם הסגול בהיר בלט היטב. מלבד כל אלה גם חזינו בארבעה מיני סחלבים: איטלקי, אנטולי, פרפרני, וסחלבן החורש.                                                                                                                לאחר מכן התקדמנו להר הלל כדי לחזות בפריחות האדמונית. ומלבד אדמונית אחת מלכותית ואחרונה נתקלנו באזור גם בדבורנית נאה, דם המכבים, נץ חלב, ומרבדים של אלמוות הכסף. יש להניח שמרבית הפריחות מלבד האדמונית עוד יהיו שם בשבוע הקרוב.",
+      "locations": [
+        {
+           "location_name": "חורבת שפנים",
+           "flowers": [
+            "Papaver",
+            "Ranunculus",
+            "Cistus salviifolius",
+            "Cistus incanus",
+             "Hypericum",
+            "Torilis",
+             "Campanula",
+            "Tragopogon",
+             "Saponaria",
+             "Veronica",
+            "Salvia",
+            "Orchis italica",
+            "Ophrys anatolica",
+            "Anacamptis papilionacea",
+            "Cephalanthera longifolia"
+          ],
+          "maps_query_location": "Khurvat Shafan"
+        },
+          {
+            "location_name": "בית ג'ן",
+            "flowers": [
+            "Papaver",
+             "Ranunculus",
+            "Cistus salviifolius",
+            "Cistus incanus",
+             "Hypericum",
+            "Torilis",
+             "Campanula",
+            "Tragopogon",
+             "Saponaria",
+            "Veronica",
+            "Salvia",
+              "Orchis italica",
+            "Ophrys anatolica",
+            "Anacamptis papilionacea",
+             "Cephalanthera longifolia"
+          ],
+           "maps_query_location": "Beit Jann"
+         },
+        {
+          "location_name": "הר הלל",
+          "flowers": [
+            "Paeonia kesrouanensis",
+            "Ophrys umbilicata",
+            "Adonis",
+            "Ornithogalum",
+            "Helichrysum sanguineum"
+
+          ],
+            "maps_query_location": "Har Hillel"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2013",
+       "observer": null,
+      "original_text": "פורחים: מנתור החוף, עדעד כחול בשיא, עכנאי שרוע, חרצית עטורה, ציפורנית זעירה, פרנקניה שעירה, זנב-ארנבת ביצני, תלתן הארגמן, לוטוס מכסיף, לוטוס קירח,כוכב ננסי, שמשון סגלגל, פרג אגסני .",
+      "locations": [
+        {
+          "location_name": "שמורת דור-הבונים",
+          "flowers": [
+            "Mentha longifolia",
+            "Limonium sinuatum",
+             "Echium humile",
+            "Glebionis coronaria",
+             "Petrorhagia",
+             "Frankenia hirsuta",
+            "Lagurus ovatus",
+              "Trifolium purpureum",
+             "Lotus cytisoides",
+            "Lotus glaber",
+            "Asteriscus",
+             "Hypericum",
+              "Papaver argemone"
+          ],
+            "maps_query_location": "Dor Habonim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2013",
+      "observer": null,
+      "original_text": "איריס ענף,גומא הירקון,מכבד הביצות,ספה המים,זנב שועל ביצתי,מרווה כחולה+הפטל,פשתנית משולשת,כף עוף מנוצה,ערבז החוף,קיטה סוככנית,ושרוכנית החוף שלא מפסיקה לפרוח",
+      "locations": [
+       {
+          "location_name": null,
+          "flowers": [
+            "Iris palaestina",
+            "Cyperus papyrus",
+            "Lythrum salicaria",
+            "Typha domingensis",
+            "Alopecurus myosuroides",
+              "Salvia",
+              "Linaria triornithophora",
+            "Lotus ornithopodioides",
+            "Paronychia argentea",
+             "Echinophora tenuifolia",
+             "Lythrum hyssopifolia"
+
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "14/04/2013",
+       "observer": "עמיר פז",
+      "original_text": "ביער אילנות ראינו סמר קרפתי,\nובשמורת בני ציון ראיתי לראשונה קיטה סוככנית, ומספר פרטים יבשים של שמשונית הטיפין - יש בי חשד שהם נזרעו שם",
+        "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": [
+            "Symphytum creticum"
+          ],
+           "maps_query_location": "Ilanot Forest"
+        },
+       {
+          "location_name": "שמורת בני ציון",
+          "flowers": [
+           "Echinophora tenuifolia",
+            "Hypericum triquetrifolium"
+          ],
+            "maps_query_location": "Bnei Zion Nature Reserve"
+       }
+      ]
+    },
+    {
+      "date": "14/04/2013",
+       "observer": null,
+      "original_text": "כפר מונאש- טל הדר",
+      "locations": [
+         {
+          "location_name": "כפר מונאש",
+          "flowers": [],
+           "maps_query_location": "Kfar Monash"
+        },
+        {
+          "location_name": "טל הדר",
+           "flowers": [],
+           "maps_query_location": "Tal Hadar"
+        }
+      ]
+    },
+    {
+      "date": "13/04/2013",
+      "observer": null,
+      "original_text": "חוגית תמימה, דבורנית גדולה, דבורנית הקטיפה,בן סחלב צריפי, קרצף מבורך,מרווה משולשת, מצילות מצויצות, מורית גדולה(פרי) מורית קלוטה (פרי)לוטם שעיר ומרווני ,צתרה ורודה ,ערבז דק פרחים ועוד",
+      "locations": [
+        {
+           "location_name": "נווה צוף",
+           "flowers": [
+              "Erodium laciniatum",
+              "Ophrys apifera",
+             "Ophrys holoserica",
+              "Serapias vomeracea",
+            "Ononis natrix",
+            "Salvia palaestina",
+              "Torilis",
+            "Globularia",
+            "Cistus incanus",
+               "Cistus salviifolius",
+             "Satureja thymbra",
+             "Paronychia argentea"
+             ],
+           "maps_query_location": "Neve Tzuf"
+        },
+         {
+          "location_name": "נווה יאיר",
+           "flowers": [
+              "Erodium laciniatum",
+              "Ophrys apifera",
+             "Ophrys holoserica",
+              "Serapias vomeracea",
+            "Ononis natrix",
+            "Salvia palaestina",
+              "Torilis",
+            "Globularia",
+            "Cistus incanus",
+               "Cistus salviifolius",
+              "Satureja thymbra",
+            "Paronychia argentea"
+             ],
+            "maps_query_location": "Neve Yair"
+        },
+         {
+          "location_name": "שומרון",
+           "flowers": [
+             "Erodium laciniatum",
+             "Ophrys apifera",
+              "Ophrys holoserica",
+            "Serapias vomeracea",
+            "Ononis natrix",
+             "Salvia palaestina",
+              "Torilis",
+             "Globularia",
+           "Cistus incanus",
+             "Cistus salviifolius",
+              "Satureja thymbra",
+               "Paronychia argentea"
+
+          ],
+            "maps_query_location":"Samaria"
+        }
+      ]
+    },
+      {
+      "date": "13/04/2013",
+      "observer": "פנינה פרנקל",
+       "original_text":"בעליה למצפה אילות:נירית הקמה,חרציות,מרוות יהודה,מרווה ריחנית,עכוב,ברקן, מוצית קוצנית,עכנאי יהודה ועלש, מעין אולם לכ.קיש:גזר קיפח לשון פר סמורה והשליט בשטח חוחן הקנרס.",
+        "locations": [
+           {
+            "location_name": "מצפה אילות",
+              "flowers": [
+                "Anagallis arvensis",
+                "Glebionis coronaria",
+                "Salvia judaica",
+                 "Salvia",
+                 "Gundelia tournefortii",
+                 "Silybum marianum",
+                "Hypecoum",
+                 "Echium judaeum",
+                 "Reseda alba"
+
+            ],
+            "maps_query_location": "Mitzpe Eilot"
+          },
+            {
+             "location_name": "מעין אולם",
+              "flowers": [
+                 "Daucus carota",
+                  "Anchusa undulata",
+                    "Onopordum cynarocephalum"
+             ],
+               "maps_query_location": null
+        },
+           {
+              "location_name": "כפר קיש",
+                "flowers": [
+                  "Daucus carota",
+                   "Anchusa undulata",
+                  "Onopordum cynarocephalum"
+            ],
+            "maps_query_location": "Kfar Kish"
+          },
+          {
+            "location_name": "מדרך יבניאל",
+            "flowers": [],
+             "maps_query_location": null
+          },
+          {
+             "location_name": "מנחמיה",
+               "flowers": [],
+                "maps_query_location": "Menahamya"
+            }
+        ]
+    },
+      {
+      "date": "12/04/2013",
+      "observer": "אילן טל  ,  כפר יהושע",
+       "original_text": "פורחים : געדה כרתית + קפחת , דרדר החרחבינה ( 100 פרחים ) , חמשן נדיר , כנפה חרוקה , קדד אהרנברג , שלהבית הגלגל + זהובה .",
+        "locations": [
+          {
+            "location_name": "גן בוטני",
+            "flowers": [
+              "Teucrium creticum",
+                "Campanula",
+              "Centaurea iberica",
+              "Lotus",
+                "Pterocephalus",
+                "Astragalus",
+                "Phlomis",
+                "Sternbergia"
+            ],
+             "maps_query_location": null
+          }
+           ,
+          {
+              "location_name": "גן איריס",
+               "flowers": [
+                 "Teucrium creticum",
+                "Campanula",
+                "Centaurea iberica",
+                "Lotus",
+                 "Pterocephalus",
+                "Astragalus",
+                 "Phlomis",
+                "Sternbergia"
+            ],
+             "maps_query_location": null
+          }
+         ]
+    },
+    {
+      "date": "12/04/2013",
+      "observer": "ליאורה קרת",
+      "original_text": "הבתה הקבועה שלי באריאל - בפריחה מלאה כעת. פורחים: שלהבית דביקה, מוצית קוצנית, חוטמית זיפנית, מרווה משולשת, קידה שעירה, לוטם שעיר, המון פרטים של בן-סחלב צריפי, לוטמית ערבית, געדה מפושקת, דם-המכבים האדום, סייפן התבואה, שרעול שעיר, חסה כחולת-פרחים, זקן-תיש ארוך, הרדופנין הציצית, עולש כחול, שפרירה קשקשנית, מרוות יהודה, געדה מצוייה, צמרנית הסלעים, לוענית מצוייה, מרוות ירושליים, שבטן לבן, עכנאי שרוע,יסמין שיחני, וממש על סף הפריחה - נפית כפופה וברזילון ענף. יש למה לצפות.",
+       "locations": [
+        {
+            "location_name": "אריאל",
+           "flowers": [
+            "Phlomis viscosa",
+             "Hypecoum",
+            "Alcea setosa",
+            "Salvia palaestina",
+             "Calicotome villosa",
+            "Cistus incanus",
+           "Serapias vomeracea",
+             "Helianthemum aegyptiacum",
+            "Teucrium divaricatum",
+           "Adonis",
+             "Gladiolus italicus",
+            "Ajuga",
+              "Lactuca",
+            "Tragopogon longirostris",
+             "Nerium oleander",
+              "Cichorium pumilum",
+              "Lepidium",
+               "Salvia judaica",
+                "Teucrium polium",
+               "Paronychia argentea",
+               "Antirrhinum",
+               "Salvia hierosolymitana",
+             "Hyparrhenia hirta",
+                "Echium humile",
+                "Jasminum fruticans",
+               "Nepeta curviflora",
+                 "Convolvulus"
+           ],
+            "maps_query_location": "Ariel"
+        }
+      ]
+    }
+  ]
+}
+```

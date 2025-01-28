@@ -1,0 +1,196 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/11/2017",
+      "observer": null,
+      "original_text": "בעליה ממערב בני ברית לכיוון אנדרטת מגילת האש פורחים נרקיסים  וסיתווניות היורה",
+       "locations": [
+        {
+          "location_name": "מערב בני ברית",
+          "flowers": ["Narcissus tazetta", "Colchicum hierosolymitanum"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "אנדרטת מגילת האש",
+           "flowers": ["Narcissus tazetta", "Colchicum hierosolymitanum"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "11/11/2017",
+      "observer": null,
+      "original_text": "פריחת חלמוניות בשמורת ירוחם בתחילתה. יש כ 30 פריטים.",
+       "locations": [
+        {
+          "location_name": "שמורת ירוחם",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Yeroham Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2017",
+      "observer": "איילה זלצמן",
+      "original_text": "פריחה המונית של משטחי סיתוונית היורה, ראו תצלומים נפלאים של איילה זלצמן בקישור",
+      "locations": [
+        {
+           "location_name": "קיבוץ יסעור",
+           "flowers": ["Colchicum hierosolymitanum"],
+           "maps_query_location": "Yassur"
+        }
+       ]
+    },
+    {
+      "date": "11/11/2017",
+      "observer": null,
+      "original_text": "הר תבור (תחילת פריחה ) , ואדי ראש פינה, ואדי תחת מעלה רחבעם, רכס ירוחם, יער יתיר , יער להב, גבעת החלמוניות בדלתון",
+      "locations": [
+         {
+          "location_name": "הר תבור",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Mount Tabor"
+        },
+        {
+           "location_name": "ואדי ראש פינה",
+           "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Rosh Pina"
+         },
+         {
+          "location_name": "ואדי תחת מעלה רחבעם",
+           "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "רכס ירוחם",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Yeroham Ridge"
+        },
+         {
+          "location_name": "יער יתיר",
+           "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Yatir Forest"
+        },
+         {
+          "location_name": "יער להב",
+           "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Lahav Forest"
+        },
+         {
+          "location_name": "גבעת החלמוניות בדלתון",
+          "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Dalton"
+        }
+      ]
+    },
+     {
+      "date": "11/11/2017",
+      "observer": null,
+       "original_text": "החל לפרוח בכרמל הם פורחים בשביל הכרמל  היוצא מהחניה הנמצאת תחת המוחקרה וכן באיזור קיבוץ דליה  ובהר חורשן - חפשו אותו ...ודווחו לנו בדיוק היכן הפריחה",
+      "locations": [
+         {
+          "location_name": "כרמל",
+           "flowers": ["Iris palaestina"],
+           "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "שביל הכרמל",
+           "flowers": ["Iris palaestina"],
+           "maps_query_location": "Israel National Trail"
+        },
+         {
+           "location_name": "המוחקרה",
+           "flowers": ["Iris palaestina"],
+           "maps_query_location": "Muhraqa"
+        },
+        {
+           "location_name": "קיבוץ דליה",
+            "flowers": ["Iris palaestina"],
+           "maps_query_location":"Dalia"
+        },
+         {
+          "location_name": "הר חורשן",
+           "flowers": ["Iris palaestina"],
+           "maps_query_location": "Har Horeshan"
+        }
+       ]
+    },
+    {
+      "date": "11/11/2017",
+       "observer": "אלכס פלג",
+      "original_text": "נרקיסים סתווניות ואירוסים בשביל הצנירים הכחול לבן מתחת לחורשת הארבעים בכרמל",
+      "locations": [
+         {
+          "location_name": "שביל הצנירים הכחול לבן",
+            "flowers": ["Narcissus tazetta", "Colchicum hierosolymitanum", "Iris"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "חורשת הארבעים",
+            "flowers": ["Narcissus tazetta", "Colchicum hierosolymitanum", "Iris"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "כרמל",
+            "flowers": ["Narcissus tazetta", "Colchicum hierosolymitanum", "Iris"],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2017",
+      "observer": "מאיה שתיל",
+      "original_text": "כדן קטן פרחים בשיא הפריחה , בשולי ערוץ נחל אבטח במרכז השמורה .",
+       "locations": [
+        {
+           "location_name": "שמורת חולות ניצנים",
+           "flowers": ["Centaurea akamantis"],
+            "maps_query_location": "Nitzanim Sands Nature Reserve"
+        },
+        {
+            "location_name": "נחל אבטח",
+            "flowers": ["Centaurea akamantis"],
+             "maps_query_location": "Avtach Stream"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2017",
+      "observer": "מיכה אופיר",
+      "original_text": "פריחה בעיצומה בנחל מחניים . עדיין יש ניצנים סגורים",
+       "locations": [
+        {
+          "location_name": "נחל מחניים",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Nahal Mahanayim"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2017",
+      "observer": "יריב אברהם",
+       "original_text": "חלמוניות בשיאן לכל אורך הערוץ של ואדי קיס",
+      "locations": [
+        {
+          "location_name": "ואדי קיס",
+           "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Wadi Qis"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2017",
+       "observer": "יעקב גנץ",
+       "original_text": "גם בבית צפפה , ראו אלבום של יעקב גנץ",
+      "locations": [
+        {
+           "location_name": "בית צפפה",
+            "flowers": ["Sternbergia clusiana"],
+            "maps_query_location": "Beit Safafa"
+        }
+       ]
+    }
+  ]
+}
+```

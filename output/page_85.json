@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "החל לפרוח בבורות לוץ",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": ["צבעוני ססגוני"],
+          "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": "עמית",
+      "original_text": "פרגים, תורמוס ההרים, רקפות",
+      "locations": [
+        {
+          "location_name": "כפר שמריהו",
+           "flowers": ["פרג","תורמוס ההרים", "רקפת"],
+          "maps_query_location": "Kfar Shmaryahu"
+        }
+      ]
+    },
+     {
+      "date": "18/02/2023",
+      "observer": "עמית",
+       "original_text": "כלניות , אירוס ארגמנן, חלבלוב, חמציץ",
+      "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים",
+           "flowers": ["כלנית","אירוס ארגמני", "חלבלוב","חמציץ"],
+          "maps_query_location": "Horshat HaSarg'entim"
+        },
+         {
+          "location_name": "נתניה",
+           "flowers": ["כלנית","אירוס ארגמני", "חלבלוב","חמציץ"],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": "עמית",
+       "original_text": "יש כלניות אדומות, רקפות, שקדיות",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": ["כלנית אדומה", "רקפת", "שקד"],
+          "maps_query_location": "Canada Park"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "מעל 5 פרטים יפהפיים של סחלב נקוד פורחים מעל עין אלון, ובעין אלון עדיין- פריחה שופעת של בן חצב החורש.",
+      "locations": [
+       {
+          "location_name": "עין אלון",
+           "flowers": ["סחלב נקוד", "בן-חצב החורש"],
+          "maps_query_location": "Ein Allon"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2023",
+      "observer": "עמית",
+      "original_text": "כלניות, רקפות ציפורני חתול",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": ["כלנית", "רקפת", "ציפורני חתול"],
+          "maps_query_location": "Canada Park"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2023",
+      "observer": "פירסט ש",
+      "original_text": "כלניות אדומות ,סגולות לבנות ורודות ממש יפה בכניסה לבית ספר הר מירון",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["כלנית אדומה","כלנית סגולה", "כלנית לבנה", "כלנית ורודה"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2023",
+      "observer": "עמיר פז",
+       "original_text": "פורחת בכמויות גדולות בגדות נחל אלכסנדר ליד קיבוץ מעברות",
+       "locations": [
+        {
+           "location_name": "נחל אלכסנדר",
+            "flowers": ["ניסנית קפחת"],
+           "maps_query_location": "Alexander River"
+         },
+         {
+           "location_name": "קיבוץ מעברות",
+            "flowers": ["ניסנית קפחת"],
+           "maps_query_location": "Kibbutz Ma'abarot"
+         }
+      ]
+    },
+    {
+      "date": "16/02/2023",
+      "observer": "menahcem pinto",
+      "original_text": "כעת יש כלניות, לשון הפר, צחנן, שמשון הדור, עירית גדולה, צפורני חתול, צנון מצוי, קדד הסיף , ערטנית השדות.",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+           "flowers": ["כלנית","לשון הפר", "צחנן", "שמשון הדור", "עירית גדולה", "ציפורני חתול", "צנון מצוי", "קדד הסיף", "ערטנית השדות"],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2023",
+        "observer": null,
+       "original_text": "איריס הביצות , צנון פיגיוני, רומוליאה סגלולית בצבע לבן עם פסים סגולים ועוד",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["אירוס הביצות", "צנון פיגיוני", "רומוליאה סגולית"],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,218 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/01/2012",
+      "observer": null,
+      "original_text": "רומוליאה סגלולית בגבעת ההגנה, דבורניות שחומות ליד בית היערן",
+      "locations": [
+        {
+          "location_name": "גבעת ההגנה",
+          "flowers": [
+            "Romulea bulbocodium",
+             "Ophrys umbilicata"
+          ],
+           "maps_query_location": "Givat HaHagana"
+        },
+        {
+          "location_name": "בית היערן",
+           "flowers": [
+            "Ophrys umbilicata"
+          ],
+          "maps_query_location": "Beit HaYa'aran"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2012",
+      "observer": "אילן טל",
+      "original_text": "פורחים : רומוליאה צידונית + סגלולית , בצלציה א\"י , אירוס א\"י , יקינטון מזרחי , יקינטונית מעורקת , כדן סגול , זמזומית המדבר , הרדופנין יהודה , ורוניקה סורית , קרן יעל סורית , ולריאנה אטלקית , אכסף מבריק , חלבלוב השיח ( יפהפה ) , מגלית גדולת פרחים , גולנית ערב ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "Romulea phoenicia",
+            "Romulea bulbocodium",
+             "Bellevalia eigii",
+            "Iris palaestina",
+            "Hyacinthus orientalis",
+            "Muscari parviflorum",
+            "Globularia cordifolia",
+            "Echium judaeum",
+            "Nerium oleander",
+            "Veronica syriaca",
+            "Clausia syriaca",
+            "Valeriana italica",
+            "Onosma sericeum",
+            "Euphorbia dendroides",
+             "Helianthemum grandiflorum",
+            "Scrophularia xanthoglossa"
+           ],
+          "maps_query_location": "Kfar Yehoshua"
+         }
+      ]
+    },
+    {
+      "date": "15/01/2012",
+      "observer": null,
+      "original_text": "כרמלית נאה פורחת בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Gagea reticulata"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2012",
+      "observer": "ליאורה קרת",
+      "original_text": "בשביל הפריחה וסביבו - אוג קוצני בפריחה מלאה, יסמין שיחני, כלנית מצויה - בעיקר לבנות, רקפת מצויה,לופית מצויה, כתמה עבת-שורשים, טמוס מזרחי, איריס ארץ-ישראלי, חיננית הבתה, עירית גדולה (התחלה), זלזלת הקנוקנות.",
+       "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+              "Rhus spinosa",
+              "Jasminum fruticans",
+              "Anemone coronaria",
+              "Cyclamen persicum",
+              "Arisarum vulgare",
+              "Catananche lutea",
+              "Tamus orientalis",
+              "Iris palaestina",
+              "Bellis sylvestris",
+              "Asphodelus aestivus",
+              "Clematis cirrhosa"
+            ],
+             "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+      {
+      "date": "11/01/2012",
+      "observer": "ליאורה קרת",
+      "original_text": "התחלת פריחה שמתעכבת קצת כנראה בגלל הקור )גשם לא חסר באריאל). עד עתה פרחו: זלזלת הקוקנות (פריחה מלאה), כתמה עבת-שורשים, חיננית הבתה, לופית מצוייה, כלנית מצוייה (כלניות ראשונות ממש) ונותר גם כרכום חורפי בודד.",
+      "locations": [
+        {
+          "location_name": "אריאל",
+           "flowers": [
+             "Clematis cirrhosa",
+             "Catananche lutea",
+            "Bellis sylvestris",
+            "Arisarum vulgare",
+             "Anemone coronaria",
+              "Crocus hyemalis"
+            ],
+            "maps_query_location": "Ariel"
+          }
+        ]
+    },
+    {
+      "date": "10/01/2012",
+      "observer": "אברהם בר",
+      "original_text": "10 ינואר, פה ושם התחילה פריחה, בדרך בין הר כרמילה לשואבה מעל נחל כיסלון",
+        "locations": [
+          {
+            "location_name": "הר כרמילה",
+            "flowers": [
+              "Bellis sylvestris"
+              ],
+              "maps_query_location":"Har Karmila"
+          },
+          {
+            "location_name": "שואבה",
+             "flowers": [
+              "Bellis sylvestris"
+              ],
+            "maps_query_location":"Sho'eva"
+          },
+           {
+            "location_name": "נחל כיסלון",
+             "flowers": [
+              "Bellis sylvestris"
+              ],
+           "maps_query_location": "Nahal Kisalon"
+          }
+        ]
+    },
+     {
+      "date": "10/01/2012",
+      "observer": "כנרת",
+      "original_text": "בשטחים הירוקים בין תל עזקה ותל קייפא יש פריחה יפה של אירוס א\"י, רקפות ונרקיסים. מומלץ לרדת מהשביל הראשי",
+      "locations": [
+         {
+          "location_name": "תל עזקה",
+          "flowers": [
+              "Iris palaestina",
+              "Cyclamen persicum",
+              "Narcissus tazetta"
+            ],
+             "maps_query_location": "Tel Azeka"
+        },
+        {
+          "location_name": "תל קייפא",
+           "flowers": [
+              "Iris palaestina",
+              "Cyclamen persicum",
+              "Narcissus tazetta"
+            ],
+          "maps_query_location": "Tel Qei'afa"
+        }
+      ]
+    },
+     {
+      "date": "10/01/2012",
+      "observer": null,
+      "original_text": "הכלניות כבר התחילו לפרוח. בעיקר לבנות, סגולות וורודות. עדיין לא מרבדים צפופים.",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": [
+              "Anemone coronaria"
+            ],
+          "maps_query_location": "Megiddo Airstrip"
+        }
+      ]
+    },
+     {
+      "date": "09/01/2012",
+      "observer": "עידן גולדווסר",
+      "original_text": "עשרות כלניות פורחים באזור המנחת . קיבלתי דיווח מאומת ומצולם . שווה לבקר!",
+       "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": [
+              "Anemone coronaria"
+            ],
+          "maps_query_location": "Megiddo Airstrip"
+         }
+       ]
+    },
+    {
+      "date": "09/01/2012",
+       "observer": null,
+      "original_text": "ראינו היום בבני ציון את הפרחים הבאים : כלנית מצויה,מרסיה יפהפיה,עכנאי שרוע,אספרג החורש,חיננית הבתה,חמציץ נטוי,צחנן מבאיש,רותם המדבר,מתנן שעיר,ועשרות רבות של פרטים של לשון האפעה הקטנה ללא מנבגים",
+        "locations": [
+          {
+            "location_name": "בני ציון",
+             "flowers": [
+                "Anemone coronaria",
+                "Mercurialis annua",
+                "Echium humile",
+                "Asparagus aphyllus",
+                "Bellis sylvestris",
+                "Oxalis pes-caprae",
+                "Odontites vernus",
+                "Retama raetam",
+                "Paronychia argentea",
+                "Arisarum vulgare"
+              ],
+             "maps_query_location":"Bnei Zion"
+         }
+       ]
+    }
+  ]
+}
+```

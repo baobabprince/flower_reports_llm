@@ -1,0 +1,150 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/07/2020",
+      "observer": null,
+      "original_text": "ירשמו לניוזלטר הנשלח מדי פעם בד\"כ פעם בחודש.\nהמעוניינים בשאלות ישלחו מייל למייל האתר, לא כאן \nתודה",
+      "locations": []
+    },
+    {
+      "date": "18/07/2020",
+      "observer": null,
+      "original_text": "עם קבוצת מטיילי יום ד'",
+       "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [],
+          "maps_query_location": "Mount Hermon"
+        }
+       ]
+    },
+     {
+      "date": "18/07/2020",
+      "observer": null,
+      "original_text": "",
+      "locations": [
+         {
+          "location_name": "עמק בולען",
+           "flowers": [],
+          "maps_query_location": "Emek Bol'an"
+         },
+        {
+           "location_name": "חרמון",
+           "flowers": [],
+           "maps_query_location": "Mount Hermon"
+         }
+      ]
+    },
+    {
+      "date": "18/07/2020",
+      "observer": null,
+      "original_text": "",
+      "locations": [
+         {
+          "location_name": "מצפה שלגים",
+          "flowers": [],
+          "maps_query_location": "Mitzpe Shlagim"
+        },
+         {
+           "location_name": "חרמון",
+           "flowers": [],
+           "maps_query_location": "Mount Hermon"
+         }
+      ]
+    },
+    {
+      "date": "16/07/2020",
+      "observer": "קפלינסקי יפה",
+       "original_text": "",
+      "locations": [
+        {
+          "location_name": "צומת המוביל",
+          "flowers": [],
+          "maps_query_location": "HaMovil Junction"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2020",
+      "observer": "קפלינסקי- אברהם יפה",
+       "original_text": "",
+       "locations": [
+        {
+          "location_name": "צומת המוביל",
+          "flowers": [],
+          "maps_query_location": "HaMovil Junction"
+         }
+       ]
+    },
+    {
+      "date": "14/07/2020",
+     "observer": "קפלינסקי- אברהם יפה",
+      "original_text": "שנית מתפתלת ,כף צפרדע איזמלנית ועוד",
+      "locations": [
+        {
+          "location_name": "צומת המוביל",
+          "flowers": ["שנית מתפתלת", "כף צפרדע איזמלנית"],
+          "maps_query_location": "HaMovil Junction"
+        }
+      ]
+    },
+    {
+      "date": "13/07/2020",
+       "observer": null,
+      "original_text": "תל בנטל: בר-דורבן אשון, געדה כריתית, חרמשית השדות\nבועינה-נוג'דת: אמניה מצרית, ארכובית חד-שנתית,  חבלבל שעיר, חלבלוב ארם-צובא, חלבלוב עגול-עלים, חלבלוב מגלי, ירבוז עדין, לשישית הצבעים, שנית נטופה, קורטם דק, צנינה קוצנית, ערבז משובל, ערבז סוככני, עטיינית ארוכה, עפעפית שרועה     \nעין זיוון: מפריק נפוח\nתל בנטל: צלע-שור בואסייה\n תל יודפת: קיצנית צמרנית\nלביא: סולנום המקור",
+      "locations": [
+         {
+          "location_name": "תל בנטל",
+          "flowers": ["בר-דורבן אשון", "געדה כריתית", "חרמשית השדות","צלע-שור בואסייה"],
+          "maps_query_location": "Tel Bental"
+        },
+        {
+          "location_name": "בועינה-נוג'דת",
+           "flowers": ["אמניה מצרית", "ארכובית חד-שנתית", "חבלבל שעיר", "חלבלוב ארם-צובא", "חלבלוב עגול-עלים", "חלבלוב מגלי", "ירבוז עדין", "לשישית הצבעים", "שנית נטופה", "קורטם דק", "צנינה קוצנית", "ערבז משובל", "ערבז סוככני", "עטיינית ארוכה", "עפעפית שרועה"],
+           "maps_query_location": "Bueina Nujeidat"
+        },
+        {
+           "location_name": "עין זיוון",
+          "flowers": ["מפריק נפוח"],
+           "maps_query_location": "Ein Zivan"
+        },
+          {
+           "location_name": "תל יודפת",
+          "flowers": ["קיצנית צמרנית"],
+           "maps_query_location": "Tel Yodfat"
+         },
+          {
+          "location_name": "לביא",
+          "flowers": ["סולנום המקור"],
+          "maps_query_location": "Lavi"
+        }
+      ]
+    },
+   {
+      "date": "13/07/2020",
+       "observer": null,
+      "original_text": "ראו את עושר הפריחה בקישור",
+      "locations": [
+        {
+          "location_name": "חרמון הגבוה",
+          "flowers": [],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "13/07/2020",
+       "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": [
+        {
+           "location_name": "יער הקדושים",
+          "flowers": [],
+          "maps_query_location": "Ya'ar HaKdoshim"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,298 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/02/2020",
+      "observer": "עידו מגן",
+      "original_text": "בחניון הרב גרשון וחנה הדס (קצת לפני מערת הנטיפים), ביער הקדושים ובכביש 395 מצובה לאשתאול. אני זוכר שלפני שנתיים היו גם צבעונים בחניון הרב גרשון וחנה הדס בתקופה הזו, אבל לא ראיתי אף אחד. כנראה עדיין מוקדם",
+      "locations": [
+        {
+          "location_name": "חניון הרב גרשון וחנה הדס",
+          "flowers": [
+            "רקפת",
+            "עירית",
+             "צבעוני"
+          ],
+          "maps_query_location": "חניון הרב גרשון וחנה הדס"
+        },
+        {
+          "location_name": "יער הקדושים",
+           "flowers": [
+            "רקפת",
+            "עירית"
+          ],
+          "maps_query_location": "יער הקדושים"
+        },
+         {
+          "location_name": "כביש 395",
+          "flowers": [
+            "רקפת",
+            "עירית"
+          ],
+          "maps_query_location": "כביש 395"
+        },
+        {
+           "location_name": "צובה",
+           "flowers": [
+             "רקפת",
+            "עירית"
+           ],
+          "maps_query_location": "Tzuba"
+         },
+         {
+          "location_name": "אשתאול",
+           "flowers": [
+             "רקפת",
+            "עירית"
+           ],
+          "maps_query_location": "Eshtaol"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2020",
+      "observer": "עידו מגן",
+       "original_text": "הגבעה שממערב לאזור התעשייה של מודיעין משופעת בפריחה של שקדיות וכלניות אדומות, גדולות ורעננות. בחלק הצפוני שלה שקרוב לשדרות המלאכות יש גם כמה כלניות לבנות והרבה רקפות.",
+      "locations": [
+        {
+          "location_name": "חורבת נכס",
+          "flowers": [
+            "שקד",
+            "כלנית אדומה",
+             "כלנית לבנה",
+            "רקפת"
+          ],
+          "maps_query_location": "חורבת נכס"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": null,
+       "original_text": "קרני חיטין: דודא רפואי , דנדנה רפואית ´ אליסון מצוי , יקינתון מזרחי , נץ-חלב אזמלני \nמאגר בנטל: רקפת יוונית , איריס הלבנון , ברוניקה קיסוסית \nתל חזקה: איריס הלבנון,  זהבית דמשקאית,  חופניים מצויים,  \nחלמונית גדולה  נרקיסיים (פרי)  תל-חזקה  5.2.20\nאחו נב: נרקיס מצוי קרנונית לקויה  חיספין: קרנונית לקויה",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": [
+            "דודא רפואי",
+             "דנדנה רפואית",
+            "אליסון מצוי",
+            "יקינתון מזרחי",
+            "נץ-חלב אזמלני"
+          ],
+          "maps_query_location": "קרני חיטין"
+        },
+        {
+          "location_name": "מאגר בנטל",
+          "flowers": [
+             "רקפת יוונית",
+            "איריס הלבנון",
+            "ברוניקה קיסוסית"
+          ],
+          "maps_query_location": "מאגר בנטל"
+        },
+        {
+          "location_name": "תל חזקה",
+          "flowers": [
+            "איריס הלבנון",
+            "זהבית דמשקאית",
+            "חופניים מצויים",
+            "חלמונית גדולה",
+             "נרקיס"
+          ],
+           "maps_query_location": "תל חזקה"
+        },
+         {
+          "location_name": "אחו נב",
+          "flowers": [
+            "נרקיס מצוי",
+            "קרנונית לקויה"
+          ],
+           "maps_query_location": "אחו נב"
+        },
+         {
+          "location_name": "חיספין",
+          "flowers": [
+           "קרנונית לקויה"
+          ],
+           "maps_query_location": "חיספין"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": null,
+       "original_text": "הרבה איריסים הארגמן, ביניהם גם מעט ג'ינג'ים, הרבה ניצנים.\nאזוביון דגול רגע לפני פריחה יפרח יפה בעוד שבוע עד 10 ימים \nרותם המדבר בשיא (מהמם)\nסחלב שקיק, כלניות, קידה שעירה \nמקום, מרסיה יפהפיה ועוד . המקום  קסום . ראו אלבום לטיול למקום",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "איריס ארגמן",
+            "אזוביון דגול",
+            "רותם המדבר",
+             "סחלב שקיק",
+              "כלנית",
+               "קידה שעירה",
+               "מרסיה"
+          ],
+           "maps_query_location": "נס ציונה"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": "סמדר פלג",
+       "original_text": "פריחה מדהימה בשמורת תל-גדור וגם בשמורת האירוסים בנתניה",
+      "locations": [
+        {
+          "location_name": "שמורת תל גדור",
+          "flowers": [
+            "רותם המדבר"
+          ],
+          "maps_query_location": "Tel Gador Nature Reserve"
+        },
+         {
+          "location_name": "שמורת האירוסים נתניה",
+            "flowers": [
+            "רותם המדבר"
+          ],
+           "maps_query_location": "Irises Nature Reserve Netanya"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": null,
+       "original_text": "מרבדים יפים של כלניות בארבעה צבעים ברחבי חורשת טל",
+      "locations": [
+        {
+          "location_name": "חורשת טל",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Hurshat Tal"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": null,
+      "original_text": "בבוסתי גמזו, בדרום ישפרו סנטר מודיעין, סבטף, מצידי כביש 1 בין צומת כםר דנירל לכניסה למודיעין",
+      "locations": [
+         {
+           "location_name": "בוסתי גמזו",
+          "flowers": [
+            "שקד"
+          ],
+           "maps_query_location": "Gamzu"
+        },
+        {
+           "location_name": "ישפרו סנטר מודיעין",
+           "flowers": [
+            "שקד"
+          ],
+           "maps_query_location":"Yeshpro Center Modi'in"
+         },
+           {
+          "location_name": "סבטף",
+          "flowers": [
+             "שקד"
+          ],
+            "maps_query_location":"Savtaf"
+        },
+        {
+          "location_name": "כביש 1",
+          "flowers": [
+             "שקד"
+          ],
+           "maps_query_location": "Highway 1"
+         },
+         {
+          "location_name": "צומת כפר דניאל",
+           "flowers": [
+             "שקד"
+           ],
+           "maps_query_location": "Tzomet Kfar Daniel"
+         },
+          {
+          "location_name": "מודיעין",
+           "flowers": [
+             "שקד"
+           ],
+           "maps_query_location": "Modi'in"
+         }
+      ]
+    },
+    {
+      "date": "13/02/2020",
+      "observer": null,
+       "original_text": "בנס ציונה, בפולג, בגבעת חומרה, בבית חנן  וגם החל לפרוח באילנות",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "איריס ארגמן"
+          ],
+          "maps_query_location": "נס ציונה"
+        },
+        {
+           "location_name": "פולג",
+           "flowers": [
+             "איריס ארגמן"
+           ],
+          "maps_query_location": "Poleg"
+         },
+           {
+          "location_name": "גבעת חומרה",
+            "flowers": [
+             "איריס ארגמן"
+           ],
+           "maps_query_location": "Givat Humra"
+        },
+         {
+          "location_name": "בית חנן",
+            "flowers": [
+             "איריס ארגמן"
+           ],
+          "maps_query_location":"Beit Hanan"
+        },
+          {
+          "location_name": "אילנות",
+            "flowers": [
+             "איריס ארגמן"
+           ],
+           "maps_query_location":"Ilanot"
+        }
+      ]
+    },
+    {
+       "date": "11/02/2020",
+      "observer": null,
+       "original_text": "פורח בין סלעי הבזלת בחורבת עמודים, בקעת בית נטופה גליל התחתון.",
+      "locations": [
+        {
+          "location_name": "חורבת עמודים",
+          "flowers": [
+            "יקינתון מזרחי"
+          ],
+          "maps_query_location": "Hurvat Amudim"
+        },
+        {
+          "location_name": "בקעת בית נטופה",
+           "flowers": [
+            "יקינתון מזרחי"
+          ],
+           "maps_query_location": "Beit Netofa Valley"
+        },
+           {
+          "location_name": "גליל התחתון",
+            "flowers": [
+            "יקינתון מזרחי"
+          ],
+           "maps_query_location": "Lower Galilee"
+        }
+      ]
+    }
+  ]
+}
+```

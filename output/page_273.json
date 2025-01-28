@@ -1,0 +1,384 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/01/2020",
+      "observer": "יורם קדרון",
+      "original_text": "נרקיסים, רקפות בתחילתן, ליד  מערת בני ברית, חיננית הבתה, זלזלת הקנוקנות, נץ החלב, עירית גדולה, ואפילו שקדיה אחת- החלו לפרוח במעלה המסלול האדום בנחל כסלון בין הכניסה ליער קדושים מכביש 38( מול אשתאול) ובין הישוב עין רפא",
+      "locations": [
+        {
+          "location_name": "מערת בני ברית",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+			"Bellis sylvestris",
+            "Clematis cirrhosa",
+            "Ornithogalum",
+            "Asphodelus",
+			"Prunus dulcis"
+          ],
+          "maps_query_location": "Mearat Bnei Brit"
+        },
+        {
+          "location_name": "נחל כסלון",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+			"Bellis sylvestris",
+            "Clematis cirrhosa",
+            "Ornithogalum",
+            "Asphodelus",
+			"Prunus dulcis"
+          ],
+          "maps_query_location": "Nahal Kisalon"
+        },
+        {
+          "location_name": "יער קדושים",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+			"Bellis sylvestris",
+            "Clematis cirrhosa",
+            "Ornithogalum",
+            "Asphodelus",
+			"Prunus dulcis"
+          ],
+          "maps_query_location": "Ya'ar Kedoshim"
+        },
+        {
+          "location_name": "אשתאול",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+			"Bellis sylvestris",
+            "Clematis cirrhosa",
+            "Ornithogalum",
+            "Asphodelus",
+			"Prunus dulcis"
+          ],
+           "maps_query_location": "Eshtaol"
+        },
+		{
+          "location_name": "עין רפא",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+			"Bellis sylvestris",
+            "Clematis cirrhosa",
+            "Ornithogalum",
+            "Asphodelus",
+			"Prunus dulcis"
+          ],
+           "maps_query_location": "Ein Rafa"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2019",
+      "observer": null,
+      "original_text": "נצפו באתר כרכום חורפי. נץ חלב אזמלני. רקפת מצויה לופית מצויה. אין פריחה של יקינתון",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": [
+            "Crocus hyemalis",
+            "Ornithogalum narbonense",
+            "Cyclamen persicum",
+            "Arisarum vulgare"
+          ],
+          "maps_query_location": "Kornei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2019",
+      "observer": "גינסבורג חנניה",
+      "original_text": "זרי נרקיסים רבים ומרהיבים בנחלי דימונה,אשלון ואשלון הקטן.",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+           "flowers": ["Narcissus"],
+          "maps_query_location": "Nahal Dimona"
+        },
+        {
+          "location_name": "נחל אשלון",
+          "flowers": ["Narcissus"],
+          "maps_query_location": "Nahal Eshelon"
+        },
+		{
+          "location_name": "נחל אשלון הקטן",
+          "flowers": ["Narcissus"],
+          "maps_query_location": "Nahal Eshelon Hakatan"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2019",
+      "observer": null,
+      "original_text": "המון נרקיסים בשיא",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+           "flowers": ["Narcissus"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+ {
+      "date": "23/12/2019",
+      "observer": null,
+       "original_text": "כביש מחנה רמון: אצבוע אירופי, כוכב ריחני , לוטוס מדברי, זיפנוצה ריסני , בלוטנית מפורצת  , בוצין שיחני, לועית ארוכת-גביע, לשון-פר מדברית, וקץ-העקרב המדברי , פרעושית מסולסלת, שיטה סלילנית, ששן מאפיר , שמשון הנגב, קדד הנגב, ערטל המדבר, לפית שיכנית, דרדר מצרי, אצבוע אירופי\nמכתש רמון: בר-עכנאי שיחני , זוגן השיח, זמזומית המדבר, טוריים מדבריים,  מלענן ריסני , מרווה צמירה, סילון קוצני, פגוניה דביקה, פרסטיה מצרית, רכפה דקת-שיבולת, תמריר מרוקאי, לוניאה שרועה\nנחל ברק: זיפנוצה ריסני \nנחל פראן: זוגן פשוט, עפעפית גדולת פרחים\nנחל יחם: לוטוס מדברי",
+      "locations": [
+        {
+          "location_name": "כביש מחנה רמון",
+          "flowers": [
+            "Neatostema apulum",
+            "Ixiolirion tataricum",
+            "Lotus deserti",
+            "Echiochilon arenarium",
+            "Glandularia pulchella",
+            "Verbascum sinuatum",
+            "Anarrhinum forskaohlii",
+            "Echium rauwolfii",
+            "Heliotropium bacciferum",
+            "Pulicaria crispa",
+            "Acacia tortilis",
+             "Glossonema nubicum",
+            "Neurada procumbens",
+            "Astragalus spinosus",
+            "Gymnarrhena micrantha",
+            "Cistanche tubulosa",
+             "Centaurea aegyptiaca",
+            "Neatostema apulum"
+          ],
+          "maps_query_location": "Machane Ramon Road"
+        },
+        {
+          "location_name": "מכתש רמון",
+          "flowers": [
+            "Echium aculeatum",
+             "Zygophyllum dumosum",
+            "Reaumuria hirtella",
+            "Anabasis articulata",
+             "Leontice leontopetalum",
+            "Salvia lanigera",
+            "Citrullus colocynthis",
+            "Peganum harmala",
+             "Farsetia aegyptia",
+            "Aeluropus lagopoides",
+            "Anastatica hierochuntica",
+            "Loniaea nudicaulis"
+          ],
+           "maps_query_location": "Makhtesh Ramon"
+        },
+		{
+          "location_name": "נחל ברק",
+          "flowers": [
+             "Echiochilon arenarium"
+          ],
+           "maps_query_location":"Nahal Barak"
+        },
+		{
+          "location_name": "נחל פראן",
+          "flowers": [
+             "Zygophyllum simplex",
+			 "Morettia philaeana"
+          ],
+          "maps_query_location": "Nahal Paran"
+        },
+		{
+           "location_name": "נחל יחם",
+           "flowers": [
+            "Lotus deserti"
+          ],
+          "maps_query_location": "Nahal Yaham"
+        }
+      ]
+    },
+	 {
+      "date": "21/12/2019",
+      "observer": "עידו מגן",
+      "original_text": "המוני רקפות וכרכומים ימינה מהחניה של יער הקדושים (שביל לכיוון מזרח); בשביל שפונה צפונה לאורך נחל כסלון בעיקר רקפות ונרקיסים במצוקים שלמעלה",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+          "flowers": [
+            "Cyclamen persicum",
+            "Crocus"
+          ],
+          "maps_query_location": "Ya'ar Kedoshim"
+        },
+        {
+          "location_name": "נחל כסלון",
+          "flowers": [
+            "Cyclamen persicum",
+             "Narcissus"
+          ],
+          "maps_query_location": "Nahal Kisalon"
+        }
+      ]
+    },
+ {
+      "date": "20/12/2019",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד'",
+      "locations": [
+        {
+           "location_name": "הר הנגב",
+          "flowers": [],
+           "maps_query_location": "Har Hanegev"
+         }
+       ]
+    },
+    {
+      "date": "16/12/2019",
+      "observer": null,
+      "original_text": "ברכת-רם  : ארכובית הכתמים, בוצין שונה-עלים,   בן-חילף שעיר, ברוניקת המים,  זיפן כחלחל  , ירבוז הגדות, כשות השדות , לוענית גדולת-עלים, עבדקן הדורים,  עוקץ-עקרב שרוע \nיער-אודם : כרכום גיארדו , כרכום נאה , כרכום צהבהב, שינן עבה-שורש \nתל אביטל: כרכום השבכה \nבוקעתה: כרכום השבכה, שינן עב-שורש  \nמאגר בנטל: לבדנית הביצות",
+      "locations": [
+        {
+           "location_name": "ברכת רם",
+          "flowers": [
+             "Polygonum maculatum",
+            "Verbascum lychnitis",
+            "Andrachne aspera",
+            "Veronica anagallis-aquatica",
+            "Echium glomeratum",
+            "Lythrum hyssopifolia",
+            "Humulus lupulus",
+            "Misopates orontium",
+            "Sanguisorba minor",
+            "Heliotropium supinum"
+          ],
+          "maps_query_location": "Birkat Ram"
+        },
+        {
+           "location_name": "יער אודם",
+          "flowers": [
+            "Crocus gargaricus",
+            "Crocus cancellatus",
+            "Crocus flavus",
+            "Taraxacum craspedum"
+          ],
+           "maps_query_location": "Ya'ar Odem"
+        },
+        {
+           "location_name": "תל אביטל",
+          "flowers": [
+             "Crocus reticulatus"
+          ],
+           "maps_query_location":"Tel Avital"
+        },
+        {
+           "location_name": "בוקעתה",
+          "flowers": [
+              "Crocus reticulatus",
+              "Taraxacum craspedum"
+           ],
+           "maps_query_location": "Buq'ata"
+        },
+		{
+          "location_name": "מאגר בנטל",
+           "flowers": [
+             "Limonium meyeri"
+          ],
+           "maps_query_location": "Ma'agar Bental"
+        }
+      ]
+    },
+    {
+      "date": "15/12/2019",
+      "observer": null,
+      "original_text": "פריחה באנדרטה. נצפו בשביל המוביל אליה: דרדר הקורים. סתוונית היורה. עכנאי שרוע. שמשון סגלגל. בן חצב מדברי. ציפורני חתול מצויות. מתנן שעיר. סביון אביבי. כתמה עבת שורשים.\nצמוד לקיר הבונקר נצפו 3 פריטים של אירוס ארץ ישראלי. \nבמדרגות עץ נראו מרסיה ננסית. שן ארי שעירה. לוטוס לא מזוהה.\nבשביל חול היורד כיוון עזה פרחו שברק מצוי ופריחה דלילה של אלקנה סמורה.",
+      "locations": [
+        {
+          "location_name": "אנדרטת אסף שמחוני",
+          "flowers": [
+            "Centaurea hyalolepis",
+             "Colchicum hierosolymitanum",
+            "Echium diffusum",
+            "Neurada procumbens",
+			"Drimia maritima",
+			"Calendula arvensis",
+            "Convolvulus hirsutus",
+            "Senecio vernalis",
+            "Anagyris foetida",
+			"Iris palaestina",
+			"Marsilea minuta",
+			"Taraxacum",
+			"Anabasis articulata",
+			"Alkanna tinctoria"
+
+          ],
+          "maps_query_location": "Asaf Simchoni Memorial"
+        }
+      ]
+    },
+    {
+      "date": "15/12/2019",
+      "observer": "דרור בר-ניר",
+      "original_text": "סתוונית היורה, כרכום חורפי, חיננית הבתה, דבורנית שחומה, שומר פשוט, גזר קיפח, לוע הארי הגדול, פואנית איטלקית, טיון דביק, ארכובית שבטבטית, חד-אבקן, כתמה עבת שורשים, נרקיס מצוי. \nפירות בולטים - קיסוסית קוצנית, ורד הכלב",
+      "locations": [
+        {
+          "location_name": "נחל שורק",
+          "flowers": [
+             "Colchicum hierosolymitanum",
+            "Crocus hyemalis",
+			"Bellis sylvestris",
+            "Ophrys umbrose",
+			"Foeniculum vulgare",
+			"Daucus carota",
+            "Antirrhinum majus",
+			"Psoralea bituminosa",
+			"Inula viscosa",
+			"Polygonum equisetiforme",
+			"Monadenium guentheri",
+			"Anagyris foetida",
+            "Narcissus tazetta"
+
+          ],
+           "maps_query_location":"Nahal Sorek"
+        },
+		{
+          "location_name": "מסטאף",
+           "flowers": [
+             "Colchicum hierosolymitanum",
+            "Crocus hyemalis",
+			"Bellis sylvestris",
+            "Ophrys umbrose",
+			"Foeniculum vulgare",
+			"Daucus carota",
+            "Antirrhinum majus",
+			"Psoralea bituminosa",
+			"Inula viscosa",
+			"Polygonum equisetiforme",
+			"Monadenium guentheri",
+			"Anagyris foetida",
+            "Narcissus tazetta"
+
+          ],
+           "maps_query_location": "Mastaaf"
+        },
+		{
+           "location_name": "עין כרם",
+           "flowers": [
+             "Colchicum hierosolymitanum",
+            "Crocus hyemalis",
+			"Bellis sylvestris",
+            "Ophrys umbrose",
+			"Foeniculum vulgare",
+			"Daucus carota",
+            "Antirrhinum majus",
+			"Psoralea bituminosa",
+			"Inula viscosa",
+			"Polygonum equisetiforme",
+			"Monadenium guentheri",
+			"Anagyris foetida",
+            "Narcissus tazetta"
+          ],
+            "maps_query_location":"Ein Kerem"
+        }
+      ]
+    }
+  ]
+}
+```

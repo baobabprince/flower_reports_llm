@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/02/2021",
+      "observer": "יורם קדרון",
+      "original_text": "הכלניותבבאר מרווה, שוקדה ויער בארי- פחותות מאדתקד, וכבר אחרי שיאן",
+      "locations": [
+        {
+          "location_name": "באר מרווה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Be'er Marva"
+        },
+        {
+          "location_name": "שוקדה",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Shokeda"
+        },
+         {
+          "location_name": "יער בארי",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Be'eri Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2021",
+      "observer": "יעל קולט",
+      "original_text": "הפריחה בתחילתה",
+        "locations": [
+        {
+          "location_name": "שמורת חוף הבונים",
+          "flowers": ["צבעוני"],
+          "maps_query_location": "Hof HaBonim Nature Reserve"
+        }
+        ]
+    },
+    {
+      "date": "10/02/2021",
+      "observer": "אברהם נסלרוט",
+      "original_text": "צבעונים בודדים פורחים כבר. וכמובן כלניות אדומות ולבנות ומשטחי רקפות",
+       "locations": [
+        {
+          "location_name": "יער ראש העין",
+           "flowers": ["צבעוני", "כלנית אדומה", "כלנית לבנה", "רקפת"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "סללב מצויר ויקינטון מזרחי פורחים בשולי דרך הנוף הכחולה ומעליה.",
+       "locations": [
+        {
+         "location_name": "הר טורען",
+          "flowers": ["סלסליל מצויר", "יקינטון מזרחי"],
+          "maps_query_location": "Mount Tur'an"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2021",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "מספר פרטים של אלקנה סמורה\nבצד הצפוני של הגבעה , ו- 2 פרטים קטנים של פשתנית יפו במרכז דרום הגבעה, כמובן בנוסף לאירוס האממ",
+      "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": ["אלקנת הסמורים", "פשתנית יפו", "אירוס"],
+          "maps_query_location": "Giv'at Humra"
+        }
+      ]
+    },
+     {
+      "date": "09/02/2021",
+      "observer": "נטע טלמור",
+      "original_text": "האם החלה פריחת התורמוסים בנחל תבור?",
+      "locations": [
+        {
+          "location_name": "נחל תבור",
+           "flowers": ["תורמוס"],
+          "maps_query_location": "Nahal Tavor"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2021",
+      "observer": "קפלינסקי יפה",
+      "original_text": "חרצית השדות בצומת אלומות בשולי שדה חיטה בוצין מזרחי בכפר עבודה מזרח ועוד...",
+      "locations": [
+         {
+          "location_name": "צומת אלומות",
+           "flowers": ["חרצית השדות"],
+          "maps_query_location": "Alumot Junction"
+        },
+        {
+          "location_name": "כפר עבודה מזרח",
+            "flowers": ["בוצין מזרחי"],
+          "maps_query_location": "Kfar Avoda Mizrah"
+         }
+      ]
+    },
+    {
+      "date": "09/02/2021",
+      "observer": "סמדר פרוידנברג",
+      "original_text": "300 מטרים דרומית לאנדרטה של חיילי אוסטרליה וניוזילנד., בין השביל לתלולית עפר השניה ועל התלולית",
+      "locations": [
+        {
+          "location_name": "מזל בארי",
+          "flowers": ["דבורנית דינסמור"],
+           "maps_query_location": "Mazal Be'eri"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2021",
+       "observer": null,
+      "original_text":"באחו נוב פורחים:\nרומוליאה סגלולית ואיריס הביצות \nברכס חזקה : רקפת יוונית",
+       "locations": [
+         {
+           "location_name": "אחו נוב",
+           "flowers": ["רומוליאה סגלולית", "אירוס הביצות"],
+           "maps_query_location": "Ahu Nov"
+         },
+         {
+          "location_name": "רכס חזקה",
+            "flowers": ["רקפת יוונית"],
+          "maps_query_location": "Har Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2021",
+       "observer": null,
+      "original_text": "כמונות של כלניות לבנות , אדומות , דבורנית צהובה, סחלב פרפרני, לשון פר מצרית והמוני רקפות",
+        "locations": [
+        {
+          "location_name": "יער דרומיתמזרחית למושב גמזו",
+           "flowers": ["כלנית לבנה", "כלנית אדומה", "דבורנית צהובה", "סחלב פרפרני", "לשון-פר מצרית", "רקפת"],
+          "maps_query_location": "Gimzo"
+         }
+        ]
+    }
+  ]
+}
+```

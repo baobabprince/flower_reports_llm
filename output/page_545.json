@@ -1,0 +1,214 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/10/2014",
+      "observer": null,
+      "original_text": "אחילוף צר עלים, ציפורן משתלשל,וכדן קטן פרחים פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "אחילוף צר-עלים",
+            "ציפורן משתלשל",
+            "כדן קטן-פרחים"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2014",
+      "observer": null,
+      "original_text": "פורחת עכשיו בנחל משמרות",
+        "locations": [
+        {
+          "location_name": "נחל משמרות",
+           "flowers": [
+            "ספליליה טבורית"
+            ],
+          "maps_query_location": "Nahal Mishmarot"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2014",
+      "observer": null,
+      "original_text": "בריכוז החלמוניות  הישן, מתחת לשביל על גדת הנחל, כ- 50 מטר  לפני המפגש עם הצינור. (השביל המסומן כחול היוצא מעין קטלב),  הגישה לחלמוניות קשה !",
+       "locations": [
+        {
+          "location_name": "נחל קטלב",
+           "flowers": [
+              "חלמונית"
+            ],
+           "maps_query_location":"Nahal Katlav"
+        },
+        {
+         "location_name":"עין קטלב",
+         "flowers": [
+              "חלמונית"
+            ],
+          "maps_query_location":"Ein Katlav"
+        }
+      ]
+    },
+   {
+      "date": "26/10/2014",
+      "observer": null,
+      "original_text": "פריחת שיא של חלמונית גדולה וסתונית היורה במדרון הצפוני של חרבת סנסן, מערבית לצור הדסה על דרך הפטרולים הישנה, החלמוניות פרוסות לאורך מדרגת סלע  כ- 50 מטר מתחת לדרך,  אפשר להגיע ברגל כ- 4,5 קמ.  או באופני הרים, או ברכב . 4x4  לפתיחת השער בגדר בצור הדסה צריך להזעיק את השומר. מספרי הטלפון על השער.",
+      "locations": [
+        {
+          "location_name": "הרי יהודה",
+          "flowers": [
+            "חלמונית גדולה",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Judean Mountains"
+        },
+         {
+          "location_name": "חרבת סנסן",
+          "flowers": [
+            "חלמונית גדולה",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Khirbet Sansan"
+        },
+        {
+          "location_name": "צור הדסה",
+          "flowers": [
+           "חלמונית גדולה",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Tzur Hadassah"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2014",
+      "observer": null,
+      "original_text": "1 \nברכס בוקר- פריחה יפה באמצע השבוע זה שטח אש!!!\n2\nבשמורת חלמוניות ירוחם ישנם שני ריכוזים של פריחת חלמוניות, המצויים בחלקו העליון של נחל רביבים- הפריחה החלה !!!",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Boker Range"
+        },
+        {
+          "location_name": "שמורת חלמוניות ירוחם",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location":"Yeroham"
+        },
+          {
+          "location_name": "נחל רביבים",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Nahal Revivim"
+        }
+      ]
+    },
+     {
+      "date": "25/10/2014",
+      "observer": null,
+      "original_text": "חלמונית גדולה+צהובה+זעירה פורחות בגן",
+       "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "חלמונית גדולה",
+              "חלמונית צהובה",
+              "חלמונית זעירה"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2014",
+       "observer": null,
+      "original_text": "ברכס חזקה ובשביל הפיסגה במירון . למעוניינים להתעדכן עקבו אחרי דיווחי הפריחה . עד כמה שידוע אין עדיין פריחת חלמוניות באתרים האחרים",
+        "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Har Hazakah"
+        },
+         {
+          "location_name": "מירון",
+          "flowers": [
+              "חלמונית"
+           ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2014",
+      "observer": null,
+      "original_text": "כרכום צבהבה פורח במערת פער",
+       "locations": [
+        {
+          "location_name": "מערת פער",
+           "flowers": [
+             "כרכום צהבהב"
+            ],
+          "maps_query_location": "Me'arat Pe'er"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים :סתוונית התשבץ + ירושלים + בכירה , כרכום השבכה , חלמונית צהובה + גדולה , שנית גדולה , אזובית המדבר , רכפתן מדברי ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס, כפר יהושע",
+          "flowers": [
+            "סתוונית התשבץ",
+            "סתוונית ירושלים",
+             "סתוונית בכירה",
+            "כרכום השבכה",
+              "חלמונית צהובה",
+             "חלמונית גדולה",
+             "שנית גדולה",
+             "אזובית המדבר",
+             "רכפתן מדברי"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+      {
+      "date": "22/10/2014",
+      "observer": null,
+      "original_text": "חלמוניות זעירות רבות, אספרג, בן-חצב סיתווני המוני פרחים , כדן  קטן-פרחים , אחילוף בצבוץ של שני פרטים. ביער האלונים נצפה פרט בוגר",
+       "locations": [
+        {
+          "location_name": "גן המייסדים גבעת עדה",
+          "flowers": [
+            "חלמונית זעירה",
+            "אספרג",
+             "בן-חצב סתווני",
+            "כדן קטן-פרחים",
+            "אחילוף"
+          ],
+          "maps_query_location":"Giv'at Ada"
+        },
+         {
+           "location_name":"יער האלונים",
+           "flowers":[
+              "אחילוף"
+            ],
+            "maps_query_location": null
+         }
+      ]
+    }
+  ]
+}
+```

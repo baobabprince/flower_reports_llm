@@ -1,0 +1,189 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2012",
+      "observer": null,
+      "original_text": "פורחת לצידי שביל ישראל באזור בן שמן",
+      "locations": [
+        {
+          "location_name": "בן שמן",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+           "maps_query_location": "Ben Shemen"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2012",
+      "observer": "יוסי חיים",
+      "original_text": "חצב פורח בשמורת ביצת זיתא  שבחדרה",
+      "locations": [
+        {
+          "location_name": "שמורת ביצת זיתא",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Beizat Zita Nature Reserve"
+        },
+         {
+          "location_name": "חדרה",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Hadera"
+        }
+      ]
+    },
+     {
+      "date": "10/09/2012",
+      "observer": null,
+      "original_text": "ניצני חצבים ליד בית אורן \nהקיץ בורח בין האצבעות...",
+      "locations": [
+        {
+          "location_name": "בית אורן",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Beit Oren"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2012",
+       "observer": null,
+      "original_text": "סעו בשביל הטבעת לכיוון התל \nלכיוון כביש 6 צפון מתחילה פריחת חצבים ומדהימה נממשכת זמן רב - תהנו סתיו בעיצומו\nושנה טובה",
+      "locations": [
+        {
+           "location_name": "תל חדיד",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2012",
+      "observer": null,
+      "original_text": "פורחים: פרע קטן-עלים, זוטה לבנה, אזוב מצוי, קיצנית כרתית, בוצין, קוצן קיפח\nוניצנים של שום סתווי.",
+      "locations": [
+         {
+          "location_name": "כרמל",
+            "flowers": [
+              "פרע קטן-עלים",
+              "זוטה לבנה",
+              "אזוב מצוי",
+              "קיצנית כרתית",
+              "בוצין",
+             "קוצן קיפח",
+             "שום סתווי"
+            ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "05/09/2012",
+      "observer": null,
+      "original_text": "חצבים (הולכים לכיוון תל דור וצפונה) וחבצלות החוף",
+      "locations": [
+        {
+          "location_name": "חוף דור",
+          "flowers": [
+            "חצב",
+            "חבצלת החוף"
+          ],
+          "maps_query_location": "Dor Beach"
+        },
+         {
+          "location_name": "תל דור",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    },
+     {
+      "date": "05/09/2012",
+      "observer": null,
+      "original_text": "חורשף מצויץ",
+      "locations": [
+        {
+          "location_name": "אפרת",
+           "flowers": [
+            "חורשף מצויץ"
+          ],
+            "maps_query_location": "Efrat"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2012",
+      "observer": "עידן גולדווסר",
+      "original_text": "בביקור בעמק חפר ,שבועיים לאחר שהיה ריק כמעט מחצבים ,שמחתי לגלות מאות חצבים בפריחה יפייפיה ! מומלץ מאוד . בבקשה להסתכל על הקרקע ולהיזהר לא לדרוך על ניצני החצבים הרבים. הפריחה במצב של בין התחלה לשיא",
+      "locations": [
+        {
+          "location_name": "תל חפר",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Tel Hefer"
+        },
+         {
+           "location_name": "עמק חפר",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location":"Hefer Valley"
+         }
+      ]
+    },
+    {
+       "date": "01/09/2012",
+       "observer": null,
+      "original_text": "ובשדות מושב גמזו\nאמנם חם והסתיו כבר כאן ....",
+        "locations": [
+        {
+            "location_name": "יער בן שמן",
+             "flowers": [
+              "חצב"
+            ],
+             "maps_query_location": "Ben Shemen Forest"
+           },
+            {
+              "location_name": "מושב גמזו",
+               "flowers": [
+                "חצב"
+              ],
+               "maps_query_location":"Gimzo"
+           }
+      ]
+    },
+    {
+      "date": "30/08/2012",
+      "observer": "אילן טל",
+      "original_text": "פורחים : חצב מצוי + גלוני , חבצלת החוף , חלביב יווני , אזובית המדבר , סולנום החדק , פשטה שרועה , אשבל א\"י , פרע מסולסל ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "חצב מצוי",
+            "חצב גלוני",
+            "חבצלת החוף",
+            "חלביב יווני",
+            "אזובית המדבר",
+             "סולנום החדק",
+             "פשטה שרועה",
+             "אשבל א\"י",
+            "פרע מסולסל"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

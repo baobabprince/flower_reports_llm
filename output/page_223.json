@@ -1,0 +1,232 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/11/2020",
+      "observer": "איריס בר",
+      "original_text": "דרך נוף כרמל, קצת מעל  הכביש, לא רחוק מחניון היערנים",
+      "locations": [
+        {
+          "location_name": "דרך נוף כרמל",
+          "flowers": [
+            "Iris palaestina"
+          ],
+           "maps_query_location": "Carmel National Park"
+        },
+          {
+          "location_name": "חניון היערנים",
+          "flowers": [
+            "Iris palaestina"
+           ],
+           "maps_query_location": "Hayeranim Parking"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2020",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד' 25.11.20",
+      "locations": [
+          {
+          "location_name": "חרמון",
+           "flowers": [],
+           "maps_query_location": "Mount Hermon"
+        },
+        {
+          "location_name": "צפון רמת הגולן",
+            "flowers": [],
+            "maps_query_location": "Northern Golan Heights"
+         }
+      ]
+    },
+    {
+      "date": "28/11/2020",
+      "observer": "עידו מגן",
+      "original_text": "המון נרקיסים, כרכומים וסתווניות. נרקיסים אפשר לראות בעיקר על דרך כחולה המובילה מהחניון הראשון של יער החמישה (מעט אחרי הפניה מכביש אבו גוש - הר אדר) אל חניון יהדות פולין, וקצת פחות על דרך אדומה מחניון יהדות פולין אל הכביש הראשי. כרכומים וסתווניות בעיקר בחניון יהדות פולין ולאורך שביל נחל יתלה.",
+      "locations": [
+        {
+          "location_name": "הר הרוח",
+           "flowers": [
+              "Narcissus",
+              "Crocus",
+              "Colchicum"
+           ],
+           "maps_query_location": "Har Haruach"
+        },
+        {
+           "location_name": "יער החמישה",
+           "flowers": [
+              "Narcissus"
+             ],
+            "maps_query_location": "Ya'ar HaHamisha"
+        },
+          {
+           "location_name": "חניון יהדות פולין",
+            "flowers": [
+              "Narcissus",
+              "Crocus",
+              "Colchicum"
+              ],
+           "maps_query_location":"Yehadut Polin parking"
+        },
+        {
+          "location_name": "נחל יתלה",
+           "flowers": [
+              "Crocus",
+              "Colchicum"
+              ],
+           "maps_query_location": "Nahal Yitla"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2020",
+      "observer": "אביטל פולונסקי",
+      "original_text": "חנינו בכניסה לגבעת הראל אחרי השער פנינו שמאלה עד המסעדה. מימין למצפור יש סימון שבילים אדום.ירידה קצת תלולה ומאתגרת,אבל כמות החלמוניות מרהיבה, בייחוד ליד הסלע  ,שומר החלמוניות.",
+      "locations": [
+        {
+          "location_name": "גבעת הראל",
+          "flowers": [
+            "Sternbergia"
+          ],
+          "maps_query_location": "Givat Harel"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2020",
+      "observer": null,
+      "original_text": "סיור ברכס חזקה, אחו נוב, בריכת בררון ומבוא חמה:\nסיתווניות ירושלים , חלמוניות,  כרכומים וסתווניות התשבץ",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+            "flowers": [
+                "Colchicum hierosolymitanum",
+                "Sternbergia",
+                "Crocus",
+                 "Colchicum tesse"
+               ],
+             "maps_query_location": "Har Hazeka"
+        },
+        {
+          "location_name": "אחו נוב",
+           "flowers": [
+                "Colchicum hierosolymitanum",
+                "Sternbergia",
+                "Crocus",
+                 "Colchicum tesse"
+               ],
+            "maps_query_location": "Ahu Nov"
+        },
+        {
+          "location_name": "בריכת בררון",
+            "flowers": [
+                "Colchicum hierosolymitanum",
+                "Sternbergia",
+                "Crocus",
+                 "Colchicum tesse"
+               ],
+            "maps_query_location": "Brechat Bar'on"
+        },
+          {
+          "location_name": "מבוא חמה",
+            "flowers": [
+                "Colchicum hierosolymitanum",
+                "Sternbergia",
+                "Crocus",
+                "Colchicum tesse"
+                ],
+           "maps_query_location":"Mevo Hama"
+         }
+      ]
+    },
+    {
+      "date": "24/11/2020",
+      "observer": "אלירז דרורי",
+      "original_text": "נכנסים מכביש 60 לישוב גבעת הראל, ומשם לתחילת המסלול של נחל שילה. פריחה נהדרת של חלימוניות. מרחק הליכה קצרצר מהחניה. מתאים לכל המשפחה.",
+      "locations": [
+        {
+          "location_name": "גבעת הראל",
+          "flowers": [
+            "Sternbergia"
+          ],
+           "maps_query_location":"Givat Harel"
+        },
+        {
+          "location_name": "נחל שילה",
+          "flowers": [
+            "Sternbergia"
+          ],
+            "maps_query_location":"Nahal Shilo"
+        }
+      ]
+    },
+        {
+      "date": "24/11/2020",
+      "observer": "מרגלית בלייברג",
+      "original_text": "פארק ראש העין נרקיסים יפהפיים במלוא הדרם וריחם",
+      "locations": [
+        {
+          "location_name": "פארק ראש העין",
+          "flowers": [
+            "Narcissus"
+          ],
+           "maps_query_location": "Rosh HaAyin Park"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2020",
+      "observer": "מהרש\"ק שרי",
+       "original_text": "בבר בהר נופים נפלאים סיתווניות פורחות.בחירבת חנות סיתווניות כרכומים ודי הרבה רקפות יפות.",
+      "locations": [
+       {
+          "location_name": "בר בהר",
+          "flowers": [
+            "Colchicum"
+          ],
+           "maps_query_location":"Bar BeHar"
+        },
+          {
+          "location_name":"חירבת חנות",
+          "flowers":[
+                "Colchicum",
+                "Crocus",
+                "Cyclamen"
+                ],
+           "maps_query_location":"Khirbet Hanut"
+        }
+      ]
+    },
+      {
+      "date": "22/11/2020",
+      "observer": null,
+      "original_text": "שיא פריחה, מרבד מדהים של כרכומים. פרח בודד של חלמונית זעירה",
+      "locations": [
+        {
+          "location_name": "מערת פער",
+          "flowers": [
+            "Crocus",
+            "Sternbergia"
+          ],
+           "maps_query_location":"Me'arat Pa'ar"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2020",
+      "observer": null,
+      "original_text": "פורח ברמת  הנדיב",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": [
+            "Gladiolus italicus"
+          ],
+           "maps_query_location":"Ramat Hanadiv"
+        }
+      ]
+    }
+  ]
+}
+```

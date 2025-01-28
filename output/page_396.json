@@ -1,0 +1,131 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/09/2017",
+      "observer": null,
+      "original_text": "יש כ 15 פריטי חצב מצוי ושנית גדולה בכמויות בנוף מדהים",
+      "locations": [
+        {
+          "location_name": "שמורת הטבע ביצת אודים",
+           "flowers": ["חצב מצוי", "שנית גדולה"],
+           "maps_query_location": "Beizat Udim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2017",
+      "observer": "יוסי ריגלר",
+      "original_text": "תל יודפת כמויות קטנות מאוד לעומת שנים עברו",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+           "flowers": ["חצב מצוי"],
+           "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+        {
+      "date": "13/09/2017",
+      "observer": "רועי קן-תור",
+      "original_text": "על יצירת גינה במראה טבעי ארץ-ישראלי, על-ידי שימוש בצמחים ממשפחת הדגניים. השפעת אור השמש על הדגניים, התחזוקה הקלה, המראה הטבעי והזורם ועוד. בקישור המצורף:",
+      "locations": [],
+      "flowers":[]
+    },
+    {
+      "date": "12/09/2017",
+      "observer": null,
+      "original_text": "בנאות קדומים פורחים המוני חצבים בכניסה וכשמטיילים בצד המזרחי מרהיב",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": ["חצב מצוי"],
+            "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2017",
+      "observer": null,
+        "original_text": "פורחים דרומית למחלף דניאל",
+      "locations": [
+        {
+          "location_name": "מחלף דניאל",
+           "flowers": ["חצב מצוי"],
+           "maps_query_location": "Daniel Interchange"
+         }
+      ]
+    },
+    {
+      "date": "11/09/2017",
+      "observer": null,
+      "original_text": "בהר רמון ( צילום אלברט קשת בקישור) ",
+      "locations": [
+        {
+          "location_name": "הר רמון",
+          "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Mount Ramon"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2017",
+      "observer": null,
+      "original_text": "סמוך לשמורה בגבעה של המצפור יש כ 15 פריטי חצב מצוי. כמו כן באזור יש שיחי אברהם, חבלבול.",
+      "locations": [
+        {
+          "location_name": "שמורת גיבתון",
+          "flowers": ["חצב מצוי", "שיח אברהם", "חבלבול"],
+          "maps_query_location":"Givaton Nature Reserve"
+        },
+        {
+           "location_name": "מזכרת בתיה",
+          "flowers": ["חצב מצוי", "שיח אברהם", "חבלבול"],
+           "maps_query_location":"Mazkeret Batya"
+        }
+      ]
+    },
+   {
+      "date": "10/09/2017",
+      "observer": null,
+      "original_text":"ליד האלון הגדול בטבעון, ובקרבתו - בחורש בצידי רחוב רמז היורד אליו.\nפריחה יפה וניצנים.",
+       "locations": [
+        {
+          "location_name": "טבעון",
+           "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "Tivon"
+        },
+        {
+          "location_name": "רחוב רמז",
+           "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "Rehov Remez"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2017",
+      "observer": null,
+      "original_text": "סיתווני הקליפות ובןחצב מדברי כבר פורחים בהר הנגב ",
+       "locations": [
+        {
+          "location_name": "הר הנגב",
+           "flowers": ["סתוונית הקליפות", "בן-חצב מדברי"],
+            "maps_query_location": "Negev Highlands"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2017",
+      "observer": "ליאורה קרת",
+      "original_text": "בחולות מדרום לחוף הצוק פורחים כעת חבצלת החוף ועדעד רותמי. וכמובן, נר הלילה בהמוניו.",
+      "locations": [
+        {
+          "location_name": "חוף הצוק",
+          "flowers": ["חבצלת החוף", "עדעד רותמי", "נר הלילה"],
+          "maps_query_location": "Hof HaTzuk"
+        }
+      ]
+    }
+  ]
+}
+```

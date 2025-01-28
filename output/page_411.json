@@ -1,0 +1,131 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/04/2017",
+      "observer": null,
+      "original_text": "הר מירון.מדהים",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["צבעוני ההרים", "סחלב", "דבורנית"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "12/04/2017",
+      "observer": "אלי ז",
+      "original_text": "בשמורת הר הלל ניצפו היום ניצנים בלבד",
+       "locations": [
+        {
+          "location_name": "שמורת הר הלל",
+           "flowers": ["אדמונית החורש"],
+          "maps_query_location": "Mount Hillel Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "12/04/2017",
+      "observer": null,
+       "original_text": "דבורנית בהר דבורה",
+        "locations": [
+        {
+          "location_name": "הר דבורה",
+          "flowers": ["דבורנית"],
+           "maps_query_location": "Har Devora"
+        }
+      ]
+    },
+    {
+      "date": "12/04/2017",
+      "observer": null,
+       "original_text": "הר מירון שביל הפסגה",
+        "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["צבעוני", "רקפת", "סחלב שלוש שינים", "סחלבן החורש"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+     {
+      "date": "11/04/2017",
+      "observer": "neomi izhar",
+      "original_text": "רגע לפני פריחה בעליה למגדל ברעם (קק\"ל)",
+       "locations": [
+        {
+          "location_name": "מגדל ברעם",
+           "flowers": ["דם המכבים"],
+          "maps_query_location": "Migdal Baram"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2017",
+      "observer": "neomi izhar",
+      "original_text": "קבוצות יפהיפיות בעליה למגדל ברעם (קק\"ל)",
+        "locations": [
+        {
+          "location_name": "מגדל ברעם",
+           "flowers": ["בן סחלב צריפי"],
+          "maps_query_location": "Migdal Baram"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2017",
+      "observer": null,
+      "original_text": "מגוון עשיר של צמחים פורח עכשיו צילום בקישור : רון חרמוני -להט",
+       "locations": [
+        {
+          "location_name": "נחל כסלון",
+           "flowers": [],
+          "maps_query_location": "Nahal Ksalon"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2017",
+      "observer": null,
+      "original_text": "כבר פורחת בגולן במרוודים",
+      "locations": [
+        {
+          "location_name": "גולן",
+           "flowers": ["מרווה כחולה"],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "10/04/2017",
+       "observer": null,
+       "original_text": "ארוס שומרוני בין צומת תפוח וצומת מגדלים מדהים",
+      "locations": [
+         {
+          "location_name": "צומת תפוח",
+          "flowers": ["איריס שומרוני"],
+           "maps_query_location": "Tapuah Junction"
+        },
+        {
+           "location_name": "צומת מגדלים",
+           "flowers": ["איריס שומרוני"],
+            "maps_query_location":"Migdalim Junction"
+        }
+      ]
+    },
+    {
+      "date": "09/04/2017",
+      "observer": "רונית פליסטנט שפיק",
+      "original_text": "בשמורת איריס הדור איילת השחר ראו קישור . צילום רונית פליסטנט שפיק",
+       "locations": [
+        {
+          "location_name": "שמורת איריס הדור איילת השחר",
+           "flowers": ["איריס הדור"],
+          "maps_query_location": "Iris HaDor Nature Reserve Ayelet HaShahar"
+        }
+      ]
+    }
+  ]
+}
+```

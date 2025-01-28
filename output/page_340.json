@@ -1,0 +1,248 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/09/2018",
+      "observer": "יהודה מרטה",
+      "original_text": "חבצלת קטנת פרחים תמיד ניקשרת אצלי עם חג הסוכות , מניסיון . גם הפעם לא הכזיבה . האתר החביב עלי , שהוא גם הקרוב לביתי הןא ליד מעון הנוער ״ גילעם ״  בכיכר ממנו עולה הכביש ל ״גילעם״ פורחת עכשיו 25.09.18 החבצלת בחורש משני צידי הכביש . אפשר להבחין בה גם תוך כדי נסיעה , ביחוד מצד ימין , מעלה הגיבעה .",
+      "locations": [
+        {
+          "location_name": "מעון הנוער גילעם",
+          "flowers": [
+            "Pancratium parviflorum"
+          ],
+          "maps_query_location": "Gil'am"
+        },
+         {
+          "location_name": "גילעם",
+          "flowers": [
+            "Pancratium parviflorum"
+          ],
+          "maps_query_location": "Gil'am"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2018",
+      "observer": "יהודה מרטה",
+       "original_text": "בתל עכו החצבים פורחים בשיא . עמודי פריחה רבים שעדיין לא פרחו . הייתי היום 25.09.18 מחזה מרשים , פריחה מובטחת בשבועיים -שלושה הבאים . באתר חצבים ״ראס עלי-נחל ציפורי״ החצבים בסוף פריחה . לבקר שם בתחילת ספטמבר . לרוצים להגיע : נוסעים לראס עלי בכביש מחודש ופונים ימינה בדרך כורכר , היכן שהכביש פונה שמאלה . שם במידרון הגבעה החצבים .",
+      "locations": [
+        {
+          "location_name": "תל עכו",
+          "flowers": [
+            "Urginea maritima"
+          ],
+           "maps_query_location": "Tel Akko"
+        },
+         {
+          "location_name": "ראס עלי",
+           "flowers": [
+            "Urginea maritima"
+          ],
+          "maps_query_location": "Ras Ali"
+        },
+         {
+          "location_name": "נחל ציפורי",
+           "flowers": [
+            "Urginea maritima"
+          ],
+          "maps_query_location": "Nahal Tzipori"
+        }
+      ]
+    },
+    {
+      "date": "21/09/2018",
+      "observer": null,
+       "original_text": "פורח בפאתי יער בן שמן",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "Echinops adenocaulos"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+     {
+      "date": "20/09/2018",
+      "observer": null,
+      "original_text": "פורחת כבר בחרמון וגם במורדות הר מירון",
+      "locations": [
+         {
+          "location_name": "חרמון",
+           "flowers": [
+            "Colchicum stevenii"
+          ],
+          "maps_query_location": "Mount Hermon"
+        },
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+             "Colchicum stevenii"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2018",
+      "observer": null,
+      "original_text": "החלה פריחה יפה בגבעת התנ\"ך , לכבוד יום כיפור וחגי תשרי",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": [
+            "Urginea maritima"
+          ],
+          "maps_query_location": "Givat HaTanakh"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2018",
+       "observer": "פאני ק.",
+        "original_text": "שיא הפריחה בפארק הסלעים בכסרא-סמיע ב'שביל היערון'.",
+      "locations": [
+        {
+          "location_name": "פארק הסלעים כסרא-סמיע",
+          "flowers": [
+            "Pancratium tenifolium"
+          ],
+           "maps_query_location": "Kisra-Sumei"
+        }
+      ]
+    },
+   {
+      "date": "17/09/2018",
+      "observer": null,
+       "original_text":"עכשיו פריחת אלפי חצביפ, חבצלת החוף, קריתמון ימי ועוד . ראו קישור",
+      "locations": [
+        {
+           "location_name": "חוף דור",
+          "flowers": [
+             "Urginea maritima",
+             "Pancratium maritimum",
+            "Cynanchum acutum"
+          ],
+            "maps_query_location": "Dor Beach"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2018",
+      "observer": null,
+      "original_text": "ברכת-רם  \nאצבען מאדים, בוצין שונה-עלים , בן-חילף  גדול-שיבולית , בן-חילף קטן, בן-חילף שעיר   , זיפן כחלחל, ירבוז הגדול   \nשמורת נחל-שניר  \nפרעושית משלשלת, שבטבט גדול  , עבדקן הדורים , ליסימכיה מסופקת , גומא צהבהב, אשבל נאה, אשבל ארך-שיבולת, נהרונית קרומית, עליעב מדוקרן     \nשמורת תל-דן\nקיסוסית קוצנית, ספה המים, גפית הביצה, לוענית גדולת-עלים , פרע ריחני",
+      "locations": [
+         {
+          "location_name": "ברכת רם",
+          "flowers": [
+            "Arnebia decumbens",
+            "Verbascum gaillardotii",
+            "Trifolium grandiflorum",
+            "Trifolium parviflorum",
+             "Trifolium tomentosum",
+            "Echium cyaneum",
+            "Cephalaria syriaca"
+            
+          ],
+            "maps_query_location": "Berekhat Ram"
+          },
+           {
+          "location_name": "שמורת נחל שניר",
+          "flowers": [
+             "Pulicaria dysenterica",
+              "Tribulus terrestris",
+             "Cymbopogon commutatus",
+            "Lysimachia dubia",
+             "Cyperus flavescens",
+            "Ajuga orientalis",
+            "Ajuga vestita",
+             "Didiplis diandra",
+             "Cynoglossum creticum"
+          ],
+            "maps_query_location":"Nahal Snir Nature Reserve"
+        },
+         {
+          "location_name":"שמורת תל דן",
+          "flowers": [
+              "Smilax aspera",
+              "Ranunculus aquatilis",
+            "Glinus lotoides",
+             "Kickxia macilenta",
+             "Erodium moschatum"
+          ],
+            "maps_query_location":"Tel Dan Nature Reserve"
+        }
+      ]
+    },
+    {
+       "date":"15/09/2018",
+      "observer":"ZVI AVNI",
+      "original_text": "היום 15 בספטמבר יצאתי לפריחת לראות סתוונית הנגב.\nבהר נפחה פרחו סתווניות בודדות. מלבדן היו עמודי חצב שסיימו פריחה, עמודים של כלך דנין שפרחו באביב.\nבמעלה נחל צין לכיוון הר אריכא פרחו גבסנית ערבית, בן חצב מדברי, סתוונית הקליפות, חרחבינה מגובבת, מתנן שעיר, קזוח תלת קרני, ציפורן נקוד, יפרוק תלת כנפי.\nבמישור שמתחת הר אריכא פורח הריכוז הגדול בישראל של סתוונית הקליפות. ריכוז זה נפגע ברוב שטחו בעבודות פילוס ויישור של הרחבת שטח חנייה/מסדרים של בה\"ד 1 - פעולה שנעשתה לפני יותר משנה. \nבבור חמת פרח בודד אחרון של ציפורן סיני, לא מצאתי את הגולנית הערבית שהייתה במקום - כנראה כוסתה בעבודות הרחבת שוליים וחנייה של שלצד הכביש.",
+      "locations":[
+        {
+          "location_name":"הר נפחה",
+          "flowers":[
+            "Colchicum deserti",
+            "Urginea maritima",
+            "Eryngium creticum"
+           ],
+           "maps_query_location":"Har Nafha"
+         },
+        {
+         "location_name":"נחל צין",
+          "flowers":[
+            "Gypsophila arabica",
+             "Prospero autumnale",
+             "Colchicum tunicatum",
+            "Notobasis syriaca",
+             "Anabasis articulata",
+            "Nigella arvensis",
+            "Dianthus strictus",
+            "Fagonia tristis"
+          ],
+            "maps_query_location":"Nahal Zin"
+         },
+         {
+           "location_name":"הר אריכא",
+           "flowers":[
+              "Gypsophila arabica",
+             "Prospero autumnale",
+             "Colchicum tunicatum",
+             "Notobasis syriaca",
+              "Anabasis articulata",
+            "Nigella arvensis",
+             "Dianthus strictus",
+             "Fagonia tristis"
+
+          ],
+           "maps_query_location":"Har Arikha"
+           
+         },
+         {
+         "location_name":"בור חמת",
+           "flowers":[
+             "Dianthus sinaicus"
+          ],
+           "maps_query_location":"Bor Hamat"
+        }
+      ]
+   },
+    {
+      "date": "15/09/2018",
+      "observer": "הדס סרפתי",
+       "original_text": "מאות חצבים פורחים עכשיו בתל דור.",
+      "locations": [
+        {
+          "location_name": "תל דור",
+           "flowers": [
+            "Urginea maritima"
+          ],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    }
+  ]
+}
+```

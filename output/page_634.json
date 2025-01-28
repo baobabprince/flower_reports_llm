@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/08/2012",
+      "observer": "אילן טל",
+      "original_text": "פורחים : חבצלת החוף , חלביב יווני ,פשטה שרועה , גומא צפוף , אשבל א\"י ועוד ",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": ["חבצלת החוף", "חלביב יווני", "פשטה שרועה", "גומא צפוף", "אשבל א\"י"],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "11/08/2012",
+      "observer": null,
+      "original_text": "אצל אביבה בר-נר בקיבוץ הזורע, אצל אלישע בקיבוץ כפר החורש ואצלי במושב גמזו",
+      "locations": [
+         {
+          "location_name": "קיבוץ הזורע",
+          "flowers": ["חצב"],
+           "maps_query_location": "Hazorea"
+        },
+        {
+          "location_name": "קיבוץ כפר החורש",
+           "flowers": ["חצב"],
+           "maps_query_location": "Kfar HaHoresh"
+        },
+         {
+          "location_name": "מושב גמזו",
+           "flowers": ["חצב"],
+           "maps_query_location": "Gimzo"
+        }
+      ]
+    },
+    {
+      "date": "07/08/2012",
+      "observer": null,
+       "original_text": "בשעה טובה נראה סופסוף הפרח הראשון של חבצלת החוף בגן הלאומי חוף השרון",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "05/08/2012",
+      "observer": "אורי שטיין , עוז גולן, איתן שגב ואלי ליבנה",
+       "original_text": "קיבוץ לביא- סולנום המקור, סולנום זיתני, ירבוז מופשל, ירבוז לבן. מזרח צפון הכנרת - בלוטנית אפריקנית, עוקץ עקרב עגול עלים,. חוף כורסי - פלגית שיכנית, מתקה טובענית, מדד זוחל, ארכובית צמירה, ארכובית מחודדת, פשטה שרועה, גומא דל שיבלים, אגמון הכדורים, אמניה מצרית, אליאב זקוף, אליאב חלוד, גומא תרבותי, סוף צר עלים. דרום הגולן: גומא פפירוס. עין אורחה: נענע משובלת, גומא ארוך. מאגר בוטומיה : כף אוז לחכית. ברכת רם מפנה צפוני: ארנין קוצני ( עד עכשיו היה ידוע רק מהחרמון) אברנית הנשר בכמויות. קיפודן גיירדו, כונדרילה סמרנית, ערברבה מרובעת, איטן ההרים, מלענת ארוכת מלענים, קורטם מכחיל, קחוון הצבעים, עכנאי מגובב, בריכה מדרום לברכת רם: עטיינית דקה, עוקץ עקרב אירופי, בוצין שונה עלים, אשבל.",
+      "locations": [
+        {
+          "location_name": "קיבוץ לביא",
+           "flowers": ["סולנום המקור", "סולנום זיתני", "ירבוז מופשל", "ירבוז לבן"],
+           "maps_query_location": "Lavi"
+        },
+          {
+          "location_name": "מזרח צפון הכנרת",
+           "flowers": ["בלוטנית אפריקנית", "עוקץ עקרב עגול עלים"],
+            "maps_query_location": "Sea of Galilee"
+        },
+        {
+          "location_name": "חוף כורסי",
+            "flowers": ["פלגית שיכנית", "מתקה טובענית", "מדד זוחל", "ארכובית צמירה", "ארכובית מחודדת", "פשטה שרועה", "גומא דל שיבלים", "אגמון הכדורים", "אמניה מצרית", "אליאב זקוף", "אליאב חלוד", "גומא תרבותי", "סוף צר עלים"],
+             "maps_query_location": "Kursi Beach"
+         },
+          {
+           "location_name": "דרום הגולן",
+           "flowers": ["גומא פפירוס"],
+           "maps_query_location": "Southern Golan Heights"
+        },
+         {
+           "location_name": "עין אורחה",
+           "flowers": ["נענע משובלת", "גומא ארוך"],
+            "maps_query_location": "Ein Urha"
+        },
+         {
+           "location_name":"מאגר בוטומיה",
+           "flowers": ["כף אוז לחכית"],
+            "maps_query_location": "Butmiya Reservoir"
+        },
+         {
+            "location_name": "ברכת רם מפנה צפוני",
+            "flowers": ["ארנין קוצני", "אברנית הנשר", "קיפודן גיירדו", "כונדרילה סמרנית", "ערברבה מרובעת", "איטן ההרים", "מלענת ארוכת מלענים", "קורטם מכחיל", "קחוון הצבעים", "עכנאי מגובב"],
+            "maps_query_location":"Birket Ram"
+        },
+        {
+          "location_name":"בריכה מדרום לברכת רם",
+           "flowers": ["עטיינית דקה", "עוקץ עקרב אירופי", "בוצין שונה עלים", "אשבל"],
+             "maps_query_location":"Birket Ram"
+        }
+      ]
+    },
+    {
+      "date": "03/08/2012",
+      "observer": null,
+      "original_text": "נצפו בפארק אפק עשרות פרטים פורחים, כמו כן בבריכת הנופרים פורחים נופר צהוב ופטל קדוש.",
+       "locations": [
+        {
+          "location_name": "פארק אפק",
+          "flowers": ["גה מצויה", "שברק קוצני"],
+           "maps_query_location": "Afek Park"
+        },
+        {
+          "location_name": "בריכת הנופרים",
+           "flowers": ["נופר צהוב", "פטל קדוש"],
+            "maps_query_location": "Afek Park"
+        }
+      ]
+    },
+    {
+      "date": "29/07/2012",
+       "observer": "רבקה כהן",
+       "original_text":"גוש עציון, 22.7.12 שומר פשוט קיפודן מצוי קיצנית עטופה -התחלה",
+      "locations": [
+        {
+          "location_name": "גוש עציון",
+           "flowers": ["שומר פשוט", "קיפודן מצוי", "קיצנית עטופה"],
+           "maps_query_location": "Gush Etzion"
+        }
+      ]
+    },
+    {
+      "date": "27/07/2012",
+       "observer": null,
+       "original_text": "באיזור עמק החולה, באגמון ובשמורת החולה פורח סוף מצוי ",
+      "locations": [
+          {
+           "location_name": "עמק החולה",
+           "flowers": ["סוף מצוי"],
+            "maps_query_location": "Hula Valley"
+          },
+        {
+          "location_name": "אגמון החולה",
+           "flowers": ["סוף מצוי"],
+            "maps_query_location": "Agmon Hula"
+        },
+         {
+            "location_name": "שמורת החולה",
+            "flowers": ["סוף מצוי"],
+             "maps_query_location": "Hula Nature Reserve"
+         }
+      ]
+    },
+    {
+      "date": "25/07/2012",
+       "observer": "מיכאל בועז",
+       "original_text": "ישנה כבר פריחה מעטה של קייצנית אשכולית בשמורת אחו בניימינה, לצד הדרך המובילה מערבה מהכביש הראשי",
+      "locations": [
+        {
+          "location_name": "שמורת אחו בנימינה",
+          "flowers": ["קייצנית אשכולית"],
+           "maps_query_location": "Ahu Binyamina Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "24/07/2012",
+      "observer": "עירית",
+       "original_text": "עדין ודקיק עם פרחים קטנטנים דומים לציפורנית. כל כך שמחתי לפגוש אותו בפעם הראשונה! ראיתי רק פרט אחד אבל אולי היו יותר, קשה להבחין בו...",
+       "locations": [
+        {
+          "location_name": "נחל גילבון",
+            "flowers": ["עוגנן נימי"],
+             "maps_query_location":"Gilbon Stream"
+          }
+        ]
+    },
+    {
+      "date": "24/07/2012",
+       "observer": null,
+       "original_text": "שיחי הצלף הרותמי ביער הולנד, אילת בגל פריחה נוסף, יולי 2012",
+      "locations": [
+        {
+           "location_name": "יער הולנד, אילת",
+           "flowers": ["צלף רותמי"],
+            "maps_query_location":"Holland Forest, Eilat"
+        }
+      ]
+    }
+  ]
+}
+```

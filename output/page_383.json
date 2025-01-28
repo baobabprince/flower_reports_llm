@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/12/2017",
+      "observer": null,
+      "original_text": "סיתוונית קצרת עלים, סיתוונית החרמון נץ חלב איזמלני עוזרר סיני בשלב הפירות האדומים",
+      "locations": [
+        {
+          "location_name": "עמק מאן",
+          "flowers": ["סתוונית קצרת עלים", "סתוונית החרמון", "נץ חלב איזמלני", "עוזרר סיני"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "17/12/2017",
+      "observer": null,
+      "original_text": "פריחה של נרקיסים בנחל חצץ, עוד לא השיא. אני בעד שמי שמגיע ישקה אותם קצת במים.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+     {
+      "date":"17/12/2017",
+       "observer":null,
+       "original_text":"החלה לפרוח בכרמל",
+        "locations":[
+           {
+             "location_name":"כרמל",
+             "flowers":["רומוליאה צידונית"],
+             "maps_query_location":"Carmel"
+            }
+          ]
+    },
+    {
+      "date": "13/12/2017",
+      "observer": null,
+      "original_text": "החלה לפרוח בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["דבורנית שחומה"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2017",
+      "observer": null,
+      "original_text": "פריחת נרקיס סתווי בנחל תנינים קרוב לגדר המפרידה מבריחות הדגים.",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+          "flowers": ["נרקיס סתווי"],
+           "maps_query_location": "Nahal Taninim"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2017",
+      "observer": null,
+      "original_text": "דבורנית שחומה ואיריס א\"י כבר פורחים בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["דבורנית שחומה", "איריס ארץ ישראלי"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "10/12/2017",
+      "observer": null,
+       "original_text": "כרכומם חרמוני תת מין אי פורח בפסגות, פורחים ,אצבוע אירופי פורח ברימונים, וסיתוונית טוביה  פורחת במישור אדומים",
+      "locations": [
+        {
+          "location_name": "פסגות",
+          "flowers": ["כרכום חרמוני"],
+          "maps_query_location": "Pisgot"
+         },
+        {
+          "location_name": "רימונים",
+          "flowers": ["אצבוע אירופי"],
+          "maps_query_location": "Rimonim"
+        },
+         {
+          "location_name":"מישור אדומים",
+          "flowers":["סתוונית טוביה"],
+           "maps_query_location":"Mishor Adumim"
+          }
+       ]
+    },
+    {
+      "date": "09/12/2017",
+      "observer": null,
+      "original_text": "איריס הסרגל בשיא פריחתו ברמת מנשה(כל הגבעות סביב קיבוץ דליה...) גם הדבורים נהנות...",
+      "locations": [
+        {
+          "location_name": "רמת מנשה",
+          "flowers": ["איריס הסרגל"],
+           "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2017",
+      "observer": null,
+       "original_text": "מקבץ רקופת השביל ישראל בין מצפור ליפא גל לחניון יפתח",
+      "locations": [
+         {
+          "location_name": "מצפור ליפא גל",
+          "flowers": ["רקפת"],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "חניון יפתח",
+          "flowers": ["רקפת"],
+           "maps_query_location": null
+         }
+       ]
+    },
+    {
+      "date": "07/12/2017",
+      "observer": "אוקנין יחיאל",
+      "original_text": "החלה פריחת כלניות במורדות הכרמל חניון תחתון מול כלא 6.צפורנית מגוונת גם",
+      "locations": [
+        {
+          "location_name": "מורדות הכרמל",
+           "flowers": ["כלנית", "צפורנית מגוונת"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

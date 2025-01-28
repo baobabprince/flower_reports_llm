@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/12/2023",
+      "observer": "חגי מלר",
+      "original_text": "נרקיסים בכמות יפה, עכשיו בשיא",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": ["נרקיס"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "25/12/2023",
+      "observer": "גל מגלי",
+      "original_text": "יער מיתר - שפע של סתונית טוביה. מסומן בעמוד ענן המיקום\nחורשת הנופלים באר שבע פריחה של סתוונית הנגב\nמורדות הדרומיים של דרך העפר גישה לשמורת אירוס ירוחם - פריחה מרשימה של סתוונית הנגב\nערוץ נחל המתחיל 400 מטר מזרחית לכניסה לבורות לוץ פריחה בשיאה של סתוונית הרמון . מסומן בעמוד ענן\nנחל דימונה - פריחת הנרקיסים בשיא",
+      "locations": [
+        {
+          "location_name": "יער מיתר",
+          "flowers": ["סתוונית טוביה"],
+           "maps_query_location": "Yar Mitar"
+        },
+        {
+           "location_name": "חורשת הנופלים באר שבע",
+           "flowers": ["סתוונית הנגב"],
+           "maps_query_location": "Be'er Sheva"
+        },
+          {
+           "location_name": "שמורת אירוס ירוחם",
+           "flowers": ["סתוונית הנגב"],
+           "maps_query_location": "Yeroham"
+        },
+         {
+          "location_name": "בורות לוץ",
+          "flowers": ["סתוונית הרמון"],
+           "maps_query_location": "Borot Lotz"
+        },
+         {
+          "location_name": "נחל דימונה",
+          "flowers": ["נרקיס"],
+          "maps_query_location":"Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2023",
+      "observer": null,
+      "original_text": "כרכום גיארדו, פקטורית אשרסון , קורנית מקורקפת",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+          "flowers": ["כרכום גיארדו", "פקטורית אשרסון", "קורנית מקורקפת"],
+          "maps_query_location": "Nahal Taninim"
+        },
+        {
+           "location_name": "ג'יסר",
+           "flowers": ["כרכום גיארדו", "פקטורית אשרסון", "קורנית מקורקפת"],
+           "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+     {
+      "date": "24/12/2023",
+       "observer": null,
+      "original_text": "פרע קטן-עלים, טבורית הזית",
+       "locations": [
+        {
+          "location_name": "עין אלון",
+           "flowers": ["פרע קטן-עלים", "טבורית הזית"],
+          "maps_query_location": "Ein Alon"
+         }
+       ]
+     },
+     {
+      "date": "24/12/2023",
+      "observer": null,
+      "original_text": "זלזלת הקנוקנות, איריס הסרגל , נרקיס מצוי, כרכום חורפי",
+       "locations": [
+        {
+          "location_name": "דלית אל כרמל",
+           "flowers": ["זלזלת הקנוקנות", "איריס הסרגל", "נרקיס מצוי", "כרכום חורפי"],
+           "maps_query_location": "Daliyat al-Karmel"
+         }
+       ]
+     },
+     {
+      "date": "24/12/2023",
+       "observer": null,
+       "original_text": "מרבדי נרקיסים , דודא רפואי ,  נרקיס מצו",
+        "locations": [
+         {
+            "location_name": "שלוחת לובים",
+            "flowers": ["נרקיס", "דודא רפואי","נרקיס מצוי"],
+           "maps_query_location": null
+           },
+         {
+            "location_name": "בית אורן",
+           "flowers": ["נרקיס", "דודא רפואי","נרקיס מצוי"],
+            "maps_query_location": "Beit Oren"
+          }
+        ]
+    },
+     {
+      "date": "24/12/2023",
+       "observer": null,
+      "original_text": "סתוונית היורה, כלנית מצויה, כתמה עבת-שורשים (המונים) , מקור-חסידה מצוי , קורנית מקורקפת",
+        "locations": [
+          {
+            "location_name":"גבעת האשחרים",
+            "flowers": ["סתוונית היורה", "כלנית מצויה", "כתמה עבת-שורשים", "מקור-חסידה מצוי", "קורנית מקורקפת"],
+           "maps_query_location": null
+           },
+         {
+            "location_name":"מעגן מיכאל",
+           "flowers": ["סתוונית היורה", "כלנית מצויה", "כתמה עבת-שורשים", "מקור-חסידה מצוי", "קורנית מקורקפת"],
+            "maps_query_location": "Ma'agan Mikha'el"
+           }
+         ]
+    },
+     {
+      "date": "24/12/2023",
+       "observer": null,
+      "original_text": "ירבוז הגדות,  כרכום גיארדו , חלבלוב הדגניים, דוחן קיפח, גומא ננסי, בוען מצולע, ארכובית הכתמים, אצבען ריסני , אפרורית מצויה , תלתן אלכסנדרוני , עשנן מטפס , נרקיס סתווי",
+       "locations": [
+         {
+           "location_name": "מעגן מיכאל",
+            "flowers": ["ירבוז הגדות", "כרכום גיארדו", "חלבלוב הדגניים", "דוחן קיפח", "גומא ננסי", "בוען מצולע", "ארכובית הכתמים", "אצבען ריסני", "אפרורית מצויה", "תלתן אלכסנדרוני", "עשנן מטפס", "נרקיס סתווי"],
+           "maps_query_location": "Ma'agan Mikha'el"
+         },
+        {
+           "location_name":"אחו מעגן מיכאל",
+           "flowers": ["ירבוז הגדות", "כרכום גיארדו", "חלבלוב הדגניים", "דוחן קיפח", "גומא ננסי", "בוען מצולע", "ארכובית הכתמים", "אצבען ריסני", "אפרורית מצויה", "תלתן אלכסנדרוני", "עשנן מטפס", "נרקיס סתווי"],
+          "maps_query_location":  "Ma'agan Mikha'el"
+        }
+       ]
+    },
+    {
+      "date": "22/12/2023",
+      "observer": null,
+      "original_text": "נרקיסים וכרכומים חורפיים רבים פורחים בין בית אורן לחורבת לובים, בשביל מהכניסה לבית אורן לכיוון חורבת לובים. כבר בדרך ניתן לראות משטחי נרקיסים בכל פינה ופשוט תנו לרגליים לקחת אתכם מסביב לחורבה ועד לעצי הזית שמצידו השני של הגבעה.",
+      "locations": [
+        {
+           "location_name": "בית אורן",
+           "flowers": ["נרקיס", "כרכום חורפי"],
+          "maps_query_location": "Beit Oren"
+         },
+        {
+          "location_name":"חורבת לובים",
+          "flowers": ["נרקיס", "כרכום חורפי"],
+          "maps_query_location":"Hurvat Lubim"
+        }
+      ]
+    },
+     {
+      "date": "22/12/2023",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "נרקיסים רקפות ועוד החלו לפרוח",
+      "locations": [
+        {
+          "location_name": "חורשת צה\"ל בכרמיאל",
+           "flowers": ["נרקיס", "רקפת"],
+            "maps_query_location": "Karmiel"
+        }
+      ]
+    }
+  ]
+}
+```

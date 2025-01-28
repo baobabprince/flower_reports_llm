@@ -1,0 +1,148 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/01/2017",
+      "observer": null,
+      "original_text": "מחרוזת קשתית, סביון הוגר, זהבית שרונית, פשתנית משולשת, וארכובית צמיגה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+          "flowers": [
+            "מחרוזת קשתית",
+            "סביון הוגר",
+            "זהבית שרונית",
+            "פשתנית משולשת",
+            "ארכובית צמיגה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "25/01/2017",
+      "observer": null,
+      "original_text": "ביער אודם - ראו בקישור",
+       "locations": [
+        {
+          "location_name": "יער אודם",
+           "flowers": ["רקפת יוונית"],
+          "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2017",
+      "observer": "עלוית",
+      "original_text": "פריחת נרקיסים בשיא בפי גלילות.",
+      "locations": [
+        {
+          "location_name": "פי גלילות",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Pi Glilot"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2017",
+       "observer": "גניה ויהודה קדם",
+      "original_text": "אלפי נרקיסים במקבצים צפופים, פרושים על שטחים גדולים. מרהיב.",
+      "locations": [
+        {
+          "location_name": "שמורת אחו נוב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ahu Nov Reserve"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2017",
+      "observer": "גניה ויהודה קדם",
+      "original_text": "מקבצים בודדים. אחרונים בהחלט.",
+       "locations": [
+        {
+          "location_name": "תל אנפה",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Tel Anafa"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2017",
+      "observer": null,
+      "original_text": "שקדיות החלו לפרוח , נץ-חלב כנראה הררי, והרבה איריס א\"י במיוחד ליד האנדרטה של ההגנה שליד שביל ישראל",
+      "locations": [
+        {
+          "location_name": "בוסתני גמוז",
+          "flowers": [
+            "שקד",
+            "נץ-חלב הררי",
+              "איריס ארץ ישראלי"
+          ],
+          "maps_query_location": "Bostanei Gamuz"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2017",
+      "observer": "עזרי",
+      "original_text": "רקפות פריחה כמעט מלאה בנחל נחושה",
+      "locations": [
+        {
+          "location_name": "נחל נחושה",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Nahal Nahusha"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2017",
+      "observer": "עזרי",
+      "original_text": "פריחת שקדיות החלה בסמוך לרבדים",
+      "locations": [
+         {
+          "location_name": "רבדים",
+           "flowers": ["שקד"],
+           "maps_query_location": "Revadim"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2017",
+      "observer": null,
+      "original_text": "איריס א\"י, כלניות רקפות, טוריים מצויות, עירית גדולה, חיננית הבתה, כתמה, טמוס מזרחי, דודא רפואי, ציפורנית מצרית (התחלה) בחלקת החוף שופםעת מרסיה יפהפיה",
+      "locations": [
+        {
+           "location_name": "נאות קדומים",
+          "flowers": [
+            "איריס ארץ ישראלי",
+            "כלנית",
+            "רקפת",
+             "טוריים מצויים",
+             "עירית גדולה",
+            "חיננית הבתה",
+            "כתמה",
+            "טמוס מזרחי",
+            "דודא רפואי",
+             "ציפורנית מצרית",
+             "מרסיה"
+          ],
+           "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2017",
+      "observer": "גניה ויהודה קדם",
+      "original_text": "כלניות ראשונות נצפו היום במנחת מגידו. מעטות ומפוזרות",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/08/2023",
+      "observer": null,
+      "original_text": "באודים",
+      "locations": [
+        {
+          "location_name": "אודים",
+          "flowers": ["חצב"],
+           "maps_query_location": "Udim"
+        }
+      ]
+    },
+    {
+      "date": "25/08/2023",
+      "observer": null,
+      "original_text": "לאורך כביש 6",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+          "maps_query_location": "Highway 6, Israel"
+        }
+      ]
+    },
+    {
+      "date": "22/08/2023",
+      "observer": null,
+      "original_text": "בנאות קדומים וברוב המקומות הידועים . ראו בקישור למטה רשימת אתרים שבהם פורחים חצבים רבים",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+          "flowers": ["חצב"],
+          "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "21/08/2023",
+      "observer": "ז'ק",
+        "original_text": "פריחת חצבים במורדות הצפוניים של גבעת הזית- תל זייתון בבני- ברק. תועד ושותף באתר weather2day.",
+      "locations": [
+        {
+          "location_name": "גבעת הזית",
+          "flowers": ["חצב"],
+           "maps_query_location": "Giv'at HaZayit"
+        },
+         {
+          "location_name": "תל זייתון",
+          "flowers": ["חצב"],
+           "maps_query_location": "Tel Zeiton"
+        },
+        {
+          "location_name": "בני ברק",
+           "flowers": ["חצב"],
+          "maps_query_location": "Bnei Brak"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2023",
+      "observer": "אביטל טביב",
+      "original_text": "בתחילת שביל החצבים (בסמוך לחניון ליד בריכות השכשוך) ניתן למצוא כ60 חצבים בשלבים שונים של גדילה. רובם עדיין לא פרחו. ישנם 3 חצבים שהחלו לפרוח.",
+      "locations": [
+        {
+           "location_name": "תל אפק",
+          "flowers": ["חצב"],
+           "maps_query_location": "Tel Afek"
+        }
+      ]
+    },
+    {
+      "date": "19/08/2023",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "ערבז משובל גם פורח באחו בינימינה, במקום בו נמצאו פרחי געדת הביצות ,הליסמיכינ, והשנית הגדולה. (ממזרח לפסי הרכבת).",
+      "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": ["ערבז משובל", "געדת הביצות", "ליסמיכיה", "שנית גדולה"],
+           "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+     {
+      "date": "19/08/2023",
+      "observer": "אלחנן נוסינסון",
+        "original_text": "געדת הביצות (2 גבעולי פריחה עם למעלה מ-5 פרחים), ליסמיכיה מסופקת-מעט פרחים, שנית גדולה,שנית מתפתלת,לוטוס הביצות,  אספסת זעירה, סולניום שעיר, ליפיה זוחלת, פטל קדוש.",
+       "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": ["געדת הביצות", "ליסמיכיה מסופקת", "שנית גדולה", "שנית מתפתלת", "לוטוס הביצות", "אספסת זעירה", "סולניום שעיר", "ליפיה זוחלת", "פטל קדוש"],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "19/08/2023",
+      "observer": "שמעון זיגמונד",
+      "original_text": "על רווח גבעה מדרום לישוב נירית כמה וכמה פרטים של  חצבים בשלבי פריחה שונים",
+        "locations": [
+        {
+          "location_name": "נירית",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nirit"
+        }
+      ]
+    },
+      {
+      "date": "13/08/2023",
+      "observer": null,
+        "original_text": "בוצין שונה-עלים, בן-חילף הביצות, בן-קוצן-מאפיר  דמסון כוכבני, חרמשית השדות, כף-צפרדע דגנית, מלוח פושט, ספלילה מצויה, עדשת-מים גיבנת וכדרורית המים, קוצן קיפח, אצבען ריסני",
+         "locations": [
+        {
+          "location_name": "צפון",
+          "flowers": ["בוצין שונה-עלים", "בן-חילף הביצות", "בן-קוצן-מאפיר", "דמסון כוכבני", "חרמשית השדות", "כף-צפרדע דגנית", "מלוח פושט", "ספלילה מצויה", "עדשת-מים גיבנת", "כדרורית המים", "קוצן קיפח", "אצבען ריסני"],
+          "maps_query_location": "North Israel"
+        }
+      ]
+    },
+      {
+      "date": "13/08/2023",
+      "observer": null,
+       "original_text": "לשישית מקומטת, עטיינית קצרה ומגובבת פורחות במאגר געש הצמוד לשמורה מדרום. חבצלת החוף החלה לפרוח בגן הלאומי חוף השרון",
+       "locations": [
+        {
+          "location_name": "מאגר געש",
+          "flowers": ["לשישית מקומטת", "עטיינית קצרה", "מגובבת"],
+           "maps_query_location": "Ga'ash Reservoir"
+        },
+         {
+          "location_name": "גן לאומי חוף השרון",
+           "flowers": ["חבצלת החוף"],
+          "maps_query_location":"Hof HaSharon National Park"
+        }
+      ]
+    }
+  ]
+}
+```

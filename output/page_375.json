@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/02/2018",
+      "observer": "איתן",
+      "original_text": "יער שוקדה ואזור באר מרווה, מרבדים של כלניות חגיגה לעיינים... לא לפספס",
+      "locations": [
+        {
+          "location_name": "יער שוקדה",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Yar Shokeda"
+        },
+        {
+          "location_name": "באר מרווה",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Be'er Marva"
+        }
+      ]
+    },
+     {
+      "date": "01/02/2018",
+      "observer": null,
+      "original_text": "באחו נוב שימו לב\" פורחת רומוליאות סגלוליות . ראו אלבום של שרון בן-צור",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+           "flowers": ["רומוליאה סגולית"],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2018",
+      "observer": "איתן",
+      "original_text": "גבעת הרקפות  בטל שחר נמצאת בשיא שיא הפריחה מרשים ביותר אלפי רקפות דיווח מ31.1.18",
+      "locations": [
+        {
+          "location_name": "גבעת הרקפות",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Givat HaRikfot"
+         },
+         {
+            "location_name": "טל שחר",
+             "flowers": ["רקפת"],
+            "maps_query_location": "Tel Shahar"
+         }
+      ]
+    },
+    {
+      "date": "01/02/2018",
+      "observer": null,
+      "original_text": "ואדי מלחה : אטד רב פרחים,  ימלוח פגום מלחת נירן\nנחל תלכיד: בצלציה א\"י, שרכרך הסלעים , חלביב רותמי, לשון פר איטלקית , לשון פר מצרית ובסרטבא : המוני יקינתונית מעורקת.",
+      "locations": [
+        {
+          "location_name": "ואדי מלחה",
+           "flowers": ["אטד רב פרחים", "ימלוח פגום"],
+          "maps_query_location": "Wadi Malha"
+        },
+        {
+          "location_name": "מלחת נירן",
+           "flowers": ["אטד רב פרחים", "ימלוח פגום"],
+          "maps_query_location": "Malkhat Niran"
+        },
+        {
+          "location_name": "נחל תלכיד",
+          "flowers": ["בצלציה א\"י", "שרכרך הסלעים", "חלביב רותמי", "לשון פר איטלקית", "לשון פר מצרית"],
+           "maps_query_location": "Nahal Talkid"
+        },
+         {
+          "location_name": "סרטבא",
+           "flowers": ["יקינתונית מעורקת"],
+           "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2018",
+       "observer": null,
+      "original_text": "הכלנוות בשיא יפיין בחודש זה וממש עכשו . ראו קישו רלמטה \nהיכן הן פורחות? בשולי יער בן שמן \nליד אולגה ועוד ראו קישור ודווחו לנו על מיקומי פריחה מסיבית ופריחות בכלל.",
+        "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Yar Ben Shemen"
+        },
+          {
+          "location_name": "אולגה",
+            "flowers": ["כלנית"],
+          "maps_query_location": "Olga"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2018",
+       "observer": null,
+      "original_text": "התחילה עונת האיריסים , עדיין אל שיא: בתל חנן, בגבעת חומרה, בנס ציונה, קדימה וגם גני הנדיב",
+        "locations": [
+        {
+          "location_name": "תל חנן",
+          "flowers": ["איריס הארגמן"],
+           "maps_query_location": "Tel Hanan"
+        },
+        {
+          "location_name": "גבעת חומרה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Givat Humra"
+        },
+        {
+          "location_name": "נס ציונה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Ness Ziona"
+        },
+         {
+          "location_name": "קדימה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Kadima"
+        },
+        {
+         "location_name": "גני הנדיב",
+          "flowers": ["איריס הארגמן"],
+         "maps_query_location": "Ganei HaNadiv"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2018",
+       "observer": null,
+      "original_text":"עפ האלבום המקסים של אביטל גיל \nראו בקישור",
+      "locations": [
+        {
+          "location_name": "אלוני יצחק",
+           "flowers": [],
+          "maps_query_location": "Aloney Yitzhak"
+        }
+      ]
+    },
+      {
+      "date": "30/01/2018",
+      "observer": null,
+      "original_text": "שקדיות רבות פורחות בגל ראשון של פריחה. יהיה גם גל שני גדול.  \nשני מיני זהביות . טבורית נטויה, רקפות כלניות, ירוקת החמור, אשחר רחב עלים ואשחר א\"י,  סביון אביבי, זלזלת הקנוקנות, דודא רפואי, מציץ סורי ועוד. רשימת כל הצמחים שיפרחו שם וגדלים שם בהמשך בכתבה שתהיה בדף הבית .",
+      "locations": [
+        {
+          "location_name": "ליפתא",
+           "flowers": ["שקד", "זהבית", "טבורית נטויה", "רקפת", "כלנית", "ירוקת החמור", "אשחר רחב עלים", "אשחר א\"י", "סביון אביבי", "זלזלת הקנוקנות", "דודא רפואי", "מציץ סורי"],
+          "maps_query_location": "Lifta"
+        }
+      ]
+    },
+     {
+      "date": "30/01/2018",
+      "observer": null,
+      "original_text": "אירוס ארץ ישראלי ברהט, איפשהו בואדי שהנ.צ 31.395286, 34.747133 נמצא בו, ממש על השביל.",
+       "locations": [
+         {
+           "location_name": "רהט",
+            "flowers": ["אירוס ארץ ישראלי"],
+           "maps_query_location": "Rahat"
+         },
+         {
+            "location_name": "ואדי שה",
+             "flowers": ["אירוס ארץ ישראלי"],
+           "maps_query_location": null
+          }
+        ]
+    },
+    {
+      "date": "29/01/2018",
+      "observer": null,
+       "original_text": "פריחה של אירוס ארץ ישראלי, רקפות, קצת כלנית, שקדיה, עירית",
+      "locations": [
+        {
+          "location_name": "גבעת התיתורה מודיעין",
+           "flowers": ["אירוס ארץ ישראלי", "רקפת", "כלנית", "שקד", "עירית"],
+          "maps_query_location": "Givat ha-Titora Modi'in"
+        }
+      ]
+    }
+  ]
+}
+```

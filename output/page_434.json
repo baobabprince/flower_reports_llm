@@ -1,0 +1,216 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/02/2017",
+      "observer": "שרון בן צור",
+      "original_text": "בקעת מן מפשירה. מבחינת פריחה ניתן למצוא בחרמון התחתון נץ חלב איזמלני ואיריס הלבנון. יש גם מעט כלניות בצבע מיוחד בירידה למן",
+      "locations": [
+        {
+          "location_name": "חרמון תחתון",
+          "flowers": [
+            "נץ חלב איזמלני",
+            "איריס הלבנון",
+            "כלנית"
+          ],
+          "maps_query_location": "Lower Hermon"
+        },
+         {
+          "location_name": "בקעת מן",
+          "flowers": [
+              "כלנית"
+             ],
+          "maps_query_location": "Man Valley"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+      "observer": "שרון בן צור",
+      "original_text": "בנוסף ניתן לראות בשמורה: כלניות, אלקנת הצבעים, מרסיה יפיפיה, סביונים, טיונית החולות ועוד. צבעונים עדיין אין",
+      "locations": [
+        {
+          "location_name": "שמורת הבונים",
+          "flowers": [
+            "סחלב פרפרני",
+            "כלנית",
+            "אלקנת הצבעים",
+             "מרסיה יפיפיה",
+            "סביון",
+            "טיונית החולות"
+          ],
+          "maps_query_location": "Habonim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+       "observer": "שרית גוטמן",
+      "original_text": "פריחת כלניות ליד פסי הרכבת בבני ציון",
+      "locations": [
+        {
+          "location_name": "בני ציון",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Bnei Zion"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+       "observer": "מהרש\"ק שרי",
+      "original_text": "גבעת הרקפות בבית שמש פורחת בשלל כלניות אדומות, נהדר!!! יער יהדות תימן רקפות רבות מאוד.",
+      "locations": [
+        {
+          "location_name": "גבעת הרקפות",
+           "flowers": [
+            "רקפת",
+            "כלנית אדומה"
+          ],
+          "maps_query_location": "Giv'at HaRakafot"
+        },
+         {
+          "location_name": "בית שמש",
+           "flowers": [
+              "רקפת",
+            "כלנית אדומה"
+          ],
+          "maps_query_location": "Beit Shemesh"
+        },
+        {
+          "location_name": "יער יהדות תימן",
+          "flowers": [
+            "רקפת"
+           ],
+          "maps_query_location": "Yehudut Teiman Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+       "observer": "מהרש\"ק שרי",
+      "original_text": "גני הנדיב זכרון יעקב מקום קסום. בשבילים יש הרבה רקפות לתפארת מרבד סביונים, כלניות אדומות ושתים סגולות וגם שקדיה בכניסה. נפלא!!!",
+      "locations": [
+        {
+          "location_name": "גני הנדיב",
+          "flowers": [
+            "רקפת",
+            "סביון",
+            "כלנית אדומה",
+             "כלנית",
+              "שקד"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+        {
+          "location_name":"זכרון יעקב",
+            "flowers":[
+               "רקפת",
+            "סביון",
+            "כלנית אדומה",
+             "כלנית",
+              "שקד"
+            ],
+          "maps_query_location":"Zichron Ya'akov"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+       "observer": "הדס יקיר",
+      "original_text": "דבורנית דינסמור, כלניות, קדד פינברון, המוני עיריות, לשון הבר הגדולה, דודא רפואי . ועוד.",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": [
+            "דבורנית דינסמור",
+             "כלנית",
+            "קדד פינברון",
+            "עירית",
+            "לשון-הפר הגדולה",
+            "דודא רפואי"
+          ],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+      "observer": null,
+      "original_text": "החלו לפרוח ביער ראש העין - עשרות או מאות ( ציטוט מעוז גולן)",
+       "locations": [
+        {
+           "location_name": "יער ראש העין",
+          "flowers": [
+            "גביעונית הלבנון"
+          ],
+           "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+      "observer": null,
+       "original_text": "ים של שקדיות פורחות, איריס הארגמן בפריחה ועוד ועוד",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": [
+              "שקד",
+              "איריס הארגמן"
+          ],
+          "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2017",
+      "observer": "גלעד",
+      "original_text": "סמוך לערוץ נחל תנינים. כחצי ק\"מ מזרחית למפגש עם נחל רז. נורית אסיה אחת ועמוד פריחה עם ניצנים של עיריוני צהוב",
+        "locations": [
+        {
+          "location_name": "נחל תנינים",
+           "flowers": [
+              "נורית אסיה",
+             "עירית צהובה"
+          ],
+          "maps_query_location": "Nahal Taninim"
+        },
+        {
+          "location_name":"נחל רז",
+          "flowers":[
+              "נורית אסיה",
+             "עירית צהובה"
+            ],
+          "maps_query_location":"Nahal Raz"
+        }
+      ]
+    },
+    {
+       "date": "08/02/2017",
+        "observer": null,
+       "original_text": "מקור חסידה תמים, מיאגרון אזון, כרוב כרתי, דו פרית מכורבלת, שרוכנית החוף, זהבית שרונית, סביון הוגר, אשבל השדה, מושיובית הגליל, בצלציה א\"י, ורומוליאה צידונית פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "מקור חסידה תמים",
+            "מיאגרון אזון",
+            "כרוב כרתי",
+            "דו-פרית מכורבלת",
+            "שרוכנית החוף",
+             "זהבית שרונית",
+             "סביון הוגר",
+             "אשבל השדה",
+              "מושיובית הגליל",
+            "בצלציה א\"י",
+             "ורומוליאה צידונית"
+          ],
+           "maps_query_location": "Gan HaNedarim"
+        }
+      ]
+    }
+  ]
+}
+```

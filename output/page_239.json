@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/08/2020",
+      "observer": "קפלינסקי יפה",
+      "original_text": "פורחים  בשדה חקלאי בצומת פוריה-המשך",
+      "locations": [
+        {
+          "location_name": "צומת פוריה",
+          "flowers": [],
+          "maps_query_location": "Poriya Junction"
+        }
+      ]
+    },
+    {
+      "date": "15/08/2020",
+      "observer": null,
+      "original_text": "קייצנית אשכולית פורחת באחו בנימינה",
+       "locations": [
+        {
+          "location_name": "בנימינה",
+          "flowers": ["קייצנית אשכולית"],
+           "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "14/08/2020",
+      "observer": "קפלינסקי יפה",
+      "original_text": "פורחים  בשדה חקלאי בצומת פוריה לפופית הקיסוס ,לפופית משולשת וסולנום המקור",
+      "locations": [
+        {
+          "location_name": "צומת פוריה",
+          "flowers": ["לפופית הקיסוס", "לפופית משולשת", "סולנום המקור"],
+          "maps_query_location": "Poriya Junction"
+         }
+       ]
+     },
+     {
+      "date": "13/08/2020",
+      "observer": null,
+      "original_text": "מסילים ומקווי מים ברמת הגולן 10.8.20 עם מטיילי יום ד'",
+       "locations": [
+        {
+          "location_name": "רמת הגולן",
+          "flowers": [],
+          "maps_query_location": "Golan Heights"
+         }
+       ]
+     },
+    {
+      "date": "12/08/2020",
+      "observer": null,
+      "original_text": "פרעושית סיצילית נצפתה במאגרי מים בגולן נצפו המון פרטים של פרעושית סיצילית, בכל מאגרי המים בגולן שבהם ביקרנו (מאגר בוטמיה, ברכת פארג' ומסיל עסניה).",
+      "locations": [
+        {
+          "location_name": "גולן",
+           "flowers": ["פרעושית סיצילית"],
+          "maps_query_location": "Golan"
+        },
+         {
+           "location_name": "מאגר בוטמיה",
+           "flowers": ["פרעושית סיצילית"],
+           "maps_query_location": "Butmiya Reservoir"
+         },
+        {
+           "location_name":"ברכת פארג'",
+           "flowers": ["פרעושית סיצילית"],
+           "maps_query_location": "Parag Pool"
+        },
+        {
+           "location_name":"מסיל עסניה",
+           "flowers": ["פרעושית סיצילית"],
+           "maps_query_location": "Esanya Stream"
+        }
+      ]
+    },
+    {
+      "date": "10/08/2020",
+      "observer": null,
+      "original_text": "חבצלות לא פורחות בטנטורא בטנטורא באי שהיה תמיד מלא בפריחת חבצלת החוף אין פריחה כלל , עקב שריפה שהשתוללה שם לפני זמן . עצוב מאוד",
+     "locations": [
+        {
+          "location_name": "טנטורא",
+          "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Tantura"
+        }
+      ]
+    },
+    {
+      "date": "05/08/2020",
+       "observer": null,
+      "original_text": "החצבים כבר כאן בחוף נתניה בשקיעה,",
+      "locations": [
+       {
+          "location_name": "נתניה",
+          "flowers": ["חצב"],
+           "maps_query_location": "Netanya"
+        }
+      ]
+    },
+     {
+      "date": "05/08/2020",
+      "observer": null,
+      "original_text": "פריחות בתל אפק ( אנטיפטרוס) שנית מתפתלת, פטל קדוש, נופר צהוב, נהרונית צפה, קרנן טבוע, סוף מצוי, לוביה מצאית ממלאת משטחים ליד האגם ופורחת יפה",
+      "locations": [
+        {
+          "location_name": "תל אפק",
+          "flowers": ["שנית מתפתלת", "פטל קדוש", "נופר צהוב", "נהרונית צפה", "קרנן טבוע", "סוף מצוי", "לוביה מצאית"],
+           "maps_query_location":"Tel Afek"
+        }
+      ]
+    },
+    {
+      "date": "01/08/2020",
+      "observer": null,
+      "original_text": "בורהביה זוחלת בפריחה מלאה מרחבי מנחמיה",
+      "locations": [
+        {
+          "location_name": "מנחמיה",
+          "flowers": ["בורהביה זוחלת"],
+           "maps_query_location": "Menahamiya"
+        }
+      ]
+    },
+    {
+      "date": "28/07/2020",
+      "observer": null,
+      "original_text": "פריחות במצפה שלגים בחרמון ב 20 ליולי 2020 ניסנית מעוצה , פעמונית הצלצל , ציפורנית שנונת-כותרת , קדד קיפודי , שום החרמון , שיננית צהובה , אכיליאה גפורה , בולנתוס שעיר , בן-חרצית צפוף , דבקת הלבנון, דרדר הלבנון , חסת השבטים , כלכלך שעיר-פרי, שום ההרים, דובדבן שרוע  בשלב פרי, הילל חרמוני , זיברה ננסית",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": ["ניסנית מעוצה", "פעמונית הצלצל", "ציפורנית שנונת-כותרת", "קדד קיפודי", "שום החרמון", "שיננית צהובה", "אכיליאה גפורה", "בולנתוס שעיר", "בן-חרצית צפוף", "דבקת הלבנון", "דרדר הלבנון", "חסת השבטים", "כלכלך שעיר-פרי", "שום ההרים", "דובדבן שרוע", "הילל חרמוני", "זיברה ננסית"],
+          "maps_query_location": "Mount Hermon"
+         }
+       ]
+    }
+  ]
+}
+```

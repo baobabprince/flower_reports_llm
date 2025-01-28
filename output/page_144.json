@@ -1,0 +1,207 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2022",
+      "observer": null,
+      "original_text": "כלניות , רקפות, סחלב השקיק, צבעונים , דבורניות",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "כלנית מצויה",
+            "רקפת מצויה",
+            "סחלב השקיק",
+            "צבעוני ההרים",
+             "דבורנית"
+          ],
+          "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "חוף הכרמל",
+           "flowers": [
+            "כלנית מצויה",
+            "רקפת מצויה",
+            "סחלב השקיק",
+            "צבעוני ההרים",
+             "דבורנית"
+          ],
+          "maps_query_location": "Hof HaCarmel"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2022",
+      "observer": null,
+      "original_text": "גביעונית הלבנון, זהביות, נונאה כהה, מרווה דגולה, דלעת-נחש סורית, כלניות , לוענית גדולה, צנון פיגיוני",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+             "גביעונית לבנון",
+            "זהבית",
+             "נונאה כהה",
+            "מרווה דגולה",
+            "דלעת נחש סורית",
+            "כלנית מצויה",
+            "לוענית גדולה",
+             "צנון פיגיוני"
+          ],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2022",
+      "observer": null,
+        "original_text": "בחוף הכרמל- ראו קישור לזר ענק",
+      "locations": [
+        {
+          "location_name": "חוף הכרמל",
+          "flowers": [
+            "אירוס הארגמן"
+           ],
+          "maps_query_location": "Hof HaCarmel"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2022",
+      "observer": null,
+      "original_text": "איריס ארגמן פרטים רבים, תורמוס צר עלים, חומעה עטויה, ועוד",
+      "locations": [
+        {
+          "location_name": "שמורת שיטה מלבינה",
+          "flowers": [
+            "אירוס הארגמן",
+            "תורמוס צר-עלים",
+             "חומעה עטויה"
+           ],
+             "maps_query_location": "Shikma Dune Nature Reserve"
+        },
+         {
+          "location_name": "אשדוד",
+           "flowers": [
+            "אירוס הארגמן",
+            "תורמוס צר-עלים",
+             "חומעה עטויה"
+           ],
+          "maps_query_location": "Ashdod"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2022",
+       "observer": "איריס",
+      "original_text": "בבארות לוץ פריחת שקד רמון,אירוס טוביה,שמשון,שכרון סיני.",
+      "locations": [
+        {
+          "location_name": "בארות לוץ",
+          "flowers": [
+            "שקד רמון",
+             "אירוס טוביה",
+             "שמשון",
+            "שכרון סיני"
+          ],
+          "maps_query_location": "Be'erot Lutz"
+        }
+      ]
+    },
+     {
+      "date": "18/02/2022",
+      "observer": "יוסי ריגלר",
+       "original_text": "פריחת איריס הארגמן, פריחה רבה, עדיין לא בשיא הפריחה - שמורת האירוסים נתניה",
+      "locations": [
+        {
+          "location_name": "שמורת האירוסים נתניה",
+          "flowers": [
+             "אירוס הארגמן"
+          ],
+          "maps_query_location": "Irises Nature Reserve Netanya"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2022",
+       "observer": "יוהאנה וויטה",
+      "original_text": "קבוצה ביישנית של אירוס ארגמן צפונית מזרחית למתחם דני היי",
+      "locations": [
+        {
+          "location_name": "תל זומרה",
+          "flowers": [
+             "אירוס הארגמן"
+           ],
+          "maps_query_location": "Tel Zomra"
+        },
+        {
+            "location_name": "מתחם דני היי",
+            "flowers": [
+             "אירוס הארגמן"
+           ],
+          "maps_query_location": "Dani Hey complex"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2022",
+      "observer": "יואב קהת",
+      "original_text": "כלניות ואירוס א\"י פורחים בכמויות גדולות בשדה מול בית חולים קפלן ברחובות",
+      "locations": [
+        {
+          "location_name": "גבעות שכונת חבצלת",
+           "flowers": [
+             "כלנית מצויה",
+             "אירוס ארץ-ישראלי"
+          ],
+          "maps_query_location": "Givat Havazelet"
+         },
+        {
+          "location_name": "רחובות",
+            "flowers": [
+             "כלנית מצויה",
+             "אירוס ארץ-ישראלי"
+           ],
+            "maps_query_location": "Rehovot"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2022",
+       "observer": "נפתלי מימון",
+      "original_text": "תחילת פריחת הצבעונים בגבעת הפרחים במעגן מיכאל.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "צבעוני ההרים"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2022",
+       "observer": "בתיה פריד כספין",
+      "original_text": "בעליה מכורסי לכוון מצפה אופיר. הפריחה בשיאה. שקדיות. במצפה אופים מארזי ענק של רקפות.",
+      "locations": [
+        {
+          "location_name": "מצפה אופיר",
+           "flowers": [
+            "שקד מצוי",
+             "רקפת מצויה"
+          ],
+          "maps_query_location": "Mitzpe Ofir"
+        },
+         {
+          "location_name": "כורסי",
+           "flowers": [
+            "שקד מצוי",
+             "רקפת מצויה"
+          ],
+          "maps_query_location": "Korsi"
+        }
+      ]
+    }
+  ]
+}
+```

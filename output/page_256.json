@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/03/2020",
+      "observer": null,
+      "original_text": "גרניון הפקעות, דבורנית דינסמור הרבה מהן, סחלב פרפרני, איריס צהרון, זערורית קטנת-פרי, מיני חבלבל, רקפות במרבדים, כלניות לקראת סופן, מסרק מזרחי, תחילת פריחת עיריות, אפון קיפח, אלה א\"י",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "גרניון הפקעות",
+            "דבורנית דינסמור",
+             "סחלב פרפרני",
+            "איריס צהרון",
+             "זערורית קטנת-פרי",
+            "חבלבל",
+            "רקפת",
+            "כלנית",
+            "מסרק מזרחי",
+            "עירית",
+             "אפון קיפח",
+             "אלה ארצישראלית"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "11/03/2020",
+      "observer": "מרים שלום",
+      "original_text": "בשביל הירוק להר ברקן - אין פריחה. בדרך המסומנת בשחור מדרום למלכישוע - הרבה צמחים שאינם פורחים. אחרי הפניה ימינה - מספר מקבצים של פריחה. בהצלבות פונים שמאלה, וכחמישים מטר לאחר המנע בקר - ריכוז של גביעונית הלבנון משמאל לדרך.",
+       "locations": [
+        {
+          "location_name": "הר ברקן",
+          "flowers": [],
+          "maps_query_location": "Har Barkan"
+         },
+         {
+           "location_name": "מלכישוע",
+           "flowers": [],
+            "maps_query_location": "Malkishua"
+         },
+         {
+           "location_name": "גביעונית הלבנון",
+           "flowers": ["גביעונית הלבנון"],
+            "maps_query_location": null
+        }
+       ]
+    },
+    {
+      "date": "11/03/2020",
+      "observer": null,
+      "original_text": "גביעוניות הלבנון , קדד קדוש, ערטנית השדה, קדד פייברון , שום מזרחי, אלקנה סמורה ועוד",
+      "locations": [
+        {
+          "location_name": "תל קריות",
+          "flowers": [
+            "גביעונית הלבנון",
+            "קדד קדוש",
+            "ערטנית השדה",
+             "קדד פייברון",
+             "שום מזרחי",
+            "אלקנה סמורה"
+          ],
+          "maps_query_location": "Tel Krayot"
+        }
+      ]
+    },
+    {
+      "date": "11/03/2020",
+      "observer": null,
+      "original_text": "ממזרח ליער אילנות בשרון",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["אירוס האגמן"],
+           "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+      "date": "11/03/2020",
+       "observer": null,
+      "original_text": "ממזרח ליער אילנות בשרון",
+       "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["צבעוני השרון"],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+     {
+      "date": "11/03/2020",
+       "observer": null,
+      "original_text": "מזרחית ליער אילנות בשרון",
+       "locations": [
+        {
+          "location_name": "יער אילנות",
+           "flowers": ["תורמוס ארץ ישראלי"],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+       "date": "11/03/2020",
+       "observer": null,
+      "original_text": "בגבעות גורל, באנדרטת הנגב",
+      "locations": [
+        {
+          "location_name": "גבעות גורל",
+          "flowers": ["איריס שחום"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "אנדרטת הנגב",
+          "flowers": ["איריס שחום"],
+           "maps_query_location": "Negev Monument"
+        }
+      ]
+    },
+    {
+      "date": "11/03/2020",
+      "observer": null,
+      "original_text": "שמורת נחל תקוע תמצאו פריחה של האירוס השחום. בשנה שעברה נחנך שביל לנקודת הפריחה לשו מעל הואדי.",
+      "locations": [
+        {
+          "location_name": "שמורת נחל תקוע",
+           "flowers": ["איריס שחום"],
+          "maps_query_location": "Nahal Tekoa Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2020",
+      "observer": "יורם קדרון",
+      "original_text": "כלניות בכל הגוונים במנחת מגידו",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2020",
+      "observer": "יורם קדרון",
+      "original_text": "ב 7/3/20 כלניות בגושים שונים ביער להב",
+       "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Lahav Forest"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,167 @@
+```json
+{
+  "reports": [
+    {
+      "date": "22/11/2020",
+      "observer": null,
+      "original_text": "נרקייסים, רקפות, כרכומים ותחילת פריחה של איריס הסרגל",
+      "locations": [
+        {
+          "location_name": "דרך נוף הכרמל",
+           "flowers": ["Narcissus", "Cyclamen persicum", "Crocus", "Iris palaestina"],
+           "maps_query_location": "כרמל"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2020",
+      "observer": null,
+      "original_text": "כרכומים, נרקיסים, בשפע . ראו קישור למטה",
+      "locations": [
+        {
+           "location_name": "חירבת חנות",
+           "flowers": ["Crocus", "Narcissus"],
+            "maps_query_location": "חירבת חנות"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2020",
+       "observer": "עננת",
+      "original_text": "קיראו בקישור המצורף, שבו מסבירה עננת את ההבדלים בצורה ידידותית",
+       "locations": [],
+       "flowers": ["Scolymus maculatus", "Crocus", "Sternbergia clusiana"]
+    },
+    {
+      "date": "22/11/2020",
+      "observer": null,
+      "original_text": "סיור רותם נחל ערוגות עליון : אשבל ארץ-ישראלי , בוצין הירדן,  בן-חצב סתווני , ,דבקה אפורה, פיגמית מגובששת , חלמונית גדולה , כלך שומרוני , כרכום חורפי, כתלה חריפה , נואית קוצנית, סתוונית היורה , סתוונית טוביה, עוקץ-עקרב עגול-עלים, ציפורן נקוד , ציפורןנית אפורה,  קדד בית-הלחמי , קורנית מקורקפת , רקפת מצויה, שינן עב שורש, שרכרך הסלעים , שרכרך ריחני",
+      "locations": [
+        {
+          "location_name": "נחל ערוגות עליון",
+          "flowers": [
+            "Salvia hierosolymitana",
+            "Verbascum",
+            "Scilla autumnalis",
+            "Galium canum",
+            "Anagallis arvensis",
+           "Sternbergia clusiana",
+            "Echinophora syriaca",
+             "Crocus hyemalis",
+            "Thlaspi",
+            "Noaea mucronata",
+            "Colchicum hierosolymitanum",
+             "Colchicum tschihatchi",
+           "Heliotropium rotundifolium",
+             "Dianthus tripunctatus",
+            "Petrorhagia cretica",
+            "Astragalus bethlemiticus",
+            "Thymbra capitata",
+           "Cyclamen persicum",
+             "Taraxacum",
+            "Paronychia argentea",
+            "Paronychia fragrantissima"
+          ],
+          "maps_query_location": "נחל ערוגות"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2020",
+      "observer": null,
+        "original_text": "עמק המצלבה:סתוונית היורה  , סתוונית ירושלים, חורשף מצוייץ , דבקון הזית",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+          "flowers": ["Colchicum hierosolymitanum", "Colchicum", "Silybum marianum", "Loranthus europaeus"],
+           "maps_query_location": "עמק המצלבה"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2020",
+      "observer": null,
+       "original_text": "איבי הנחל\" סתוונית היורה",
+       "locations": [
+        {
+          "location_name": "איבי הנחל",
+           "flowers": ["Colchicum hierosolymitanum"],
+          "maps_query_location": "איבי הנחל"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2020",
+      "observer": "ישראל שדה",
+      "original_text": "לאורך המצוק",
+      "locations": [
+        {
+          "location_name": "הר נמרון",
+           "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "הר נמרון"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2020",
+      "observer": "רועי הורביץ",
+        "original_text": "21/11/2020 מצאנו מקבצי פריחה בודדים של חלמוניות בשביל החלמוניות בהר תבור. יפות! אבל מעטות",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+            "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "הר תבור"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2020",
+        "observer": "אולה",
+      "original_text": "חלמניות מדהימות והרבה.",
+      "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "להבים"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": "עוז גולן ואחרים",
+        "original_text": "נראתה  פריחה שניה של חלמוניות בגן המייסדים בגבעת עדה - דיווחו  עוז גולן ואחרים",
+      "locations": [
+        {
+          "location_name": "גבעת עדה",
+            "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "גבעת עדה"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": null,
+        "original_text": "כבר פורח ביער בן שמן",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+            "flowers": ["Crocus hyemalis"],
+          "maps_query_location": "יער בן שמן"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": null,
+       "original_text": "בחולות ממשית פריחה רבה של אחילוף הנגב",
+      "locations": [
+        {
+          "location_name": "ממשית",
+            "flowers": ["Echium sabulicola"],
+          "maps_query_location": "ממשית"
+        }
+      ]
+    }
+  ]
+}
+```

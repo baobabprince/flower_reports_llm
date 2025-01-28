@@ -1,0 +1,283 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "מסלול ירוק + גבעות הקרב. כף אווז רבת עלים, פרי, אליסון, גפוף החרמון, דרדר ססגוני, ציפורן הלבנון, מרווה ריחנית, חמשן נדיר, חד אבקן אדום, נפית קיליקית, קדד האורנים, קדד מפורץ, קחוון הצבעים, צפורן נקוד, קדד אדום פרחים, קערורית נאדית, שום, שושנתית הלבנון, קדד מפורץ.",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "Chenopodium foliosum",
+            "Prunus",
+            "Alyssum",
+            "Erysimum hermonis",
+            "Centaurea cyanoides",
+            "Dianthus libanotis",
+            "Salvia dominica",
+             "Erodium subintegrum",
+            "Anemone coronaria",
+            "Nepeta cilicia",
+            "Astragalus pinetorum",
+            "Astragalus cruciatus",
+            "Anthemis tinctoria",
+            "Dianthus punctatus",
+            "Astragalus coccineus",
+           "Sphaerophysa kotschyana",
+           "Allium",
+           "Bellevalia nivalis",
+            "Astragalus cruciatus"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "אזובית הרמון, דרדר החרחבינה, בן-חרצית גזור",
+       "locations": [
+        {
+          "location_name": "מצפה רמון",
+           "flowers": [
+             "Micromeria serbaliana",
+            "Centaurea pallescens",
+            "Chrysanthemum coronarium"
+          ],
+          "maps_query_location": "Mitzpe Ramon"
+        }
+      ]
+    },
+     {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "מסמור סיני הרדופיים כביש 12 , מרבה-חלב נגבי, וחורשף חום-קשקשים בקעת-סיירים, לובד המדבר נחל-צומח אילת, טפרוסיה נאה אילת, חלבלוב מגורגר",
+      "locations": [
+        {
+          "location_name": "אילת",
+           "flowers": [
+             "Tamarix aphylla",
+             "Nerium oleander",
+             "Ornithogalum arabicum",
+              "Cynara syriaca",
+              "Ochradenus baccatus",
+              "Tephrosia apollinea",
+              "Euphorbia granulata"
+           ],
+           "maps_query_location": "Eilat"
+        },
+       {
+         "location_name": "בקעת סיירים",
+           "flowers": [
+             "Ornithogalum arabicum",
+             "Cynara syriaca"
+           ],
+           "maps_query_location": "Sayarim Valley"
+        }
+      ]
+    },
+     {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "לוטוס אילתי , חלבלוב קהירי , זקנצית הגממות, דרדר המכבד, געדה מלבינה, אפיונה מחוספסת, אזוביון מדברי, תלת-מלען פעוט, שמשון קהירי, שמשון ליפי, שושנת-יריחו האמיתית , רב-זקן קרח, קוטב דו-זיזי , פרעושית גלונית, פגוניה דביקה, עוקץ-עקרב מדברי, סנא מדברי, סהרון משתלשל, מקור-חסידה קרח , מלענן יפה-שיער, מלוח ספוגי, מכנפיים מדבריים, לוטוס אילתי, לוניאה מחודדת",
+      "locations": [
+        {
+          "location_name": "נחל גשרון",
+           "flowers": [
+             "Lotus aegaeus",
+              "Euphorbia cuneata",
+              "Hyparrhenia hirta",
+              "Centaurea procurrens",
+              "Gaeda fruticulosa",
+               "Iphiona mucronata",
+               "Lavandula coronopifolia",
+              "Aristida parvula",
+              "Blepharis ciliaris",
+              "Blepharis linariifolia",
+               "Anastatica hierochuntica",
+               "Polycarpaea repens",
+               "Fagonia bruguieri",
+               "Pulicaria glutinosa",
+              "Fagonia viscosa",
+               "Heliotropium bacciferum",
+              "Senna italica",
+             "Zygophyllum dumosum",
+               "Erodium glaucophyllum",
+             "Lycium shawii",
+            "Halothamnus bottae",
+            "Aizoon canariense",
+            "Lotus aegaeus",
+              "Lonia spinosa"
+           ],
+           "maps_query_location": "Nahal Geshron"
+        },
+        {
+           "location_name": "הר גשרון",
+          "flowers": [
+              "Lotus aegaeus",
+              "Euphorbia cuneata",
+              "Hyparrhenia hirta",
+              "Centaurea procurrens",
+              "Gaeda fruticulosa",
+              "Iphiona mucronata",
+              "Lavandula coronopifolia",
+              "Aristida parvula",
+              "Blepharis ciliaris",
+              "Blepharis linariifolia",
+              "Anastatica hierochuntica",
+              "Polycarpaea repens",
+              "Fagonia bruguieri",
+               "Pulicaria glutinosa",
+              "Fagonia viscosa",
+              "Heliotropium bacciferum",
+              "Senna italica",
+             "Zygophyllum dumosum",
+              "Erodium glaucophyllum",
+            "Lycium shawii",
+            "Halothamnus bottae",
+             "Aizoon canariense",
+            "Lotus aegaeus",
+              "Lonia spinosa"
+           ],
+           "maps_query_location": "Har Geshron"
+        }
+      ]
+    },
+        {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "ריסן דק , פתילת-המדבר הגדולה, פיגמית מגובששת , פגוניה ערבית, מרווה מצרית, מרווה מצרית, מורטיה קטנת-פרחים, דמיה לבידה, באשן זהוב-פרחים, אנטיכריס בלוטי",
+      "locations": [
+        {
+          "location_name": "נחל צפחות",
+          "flowers": [
+             "Gymnarrhena micrantha",
+             "Cistanche tubulosa",
+             "Fagonia indica",
+              "Fagonia arabica",
+              "Salvia aegyptiaca",
+              "Salvia aegyptiaca",
+             "Morettia philaeana",
+              "Helianthemum kahiricum",
+               "Ochradenus baccatus",
+               "Anticharis glandulosa"
+           ],
+            "maps_query_location": "Nahal Tzfahot"
+        },
+         {
+          "location_name": "אילת",
+           "flowers": [
+            "Gymnarrhena micrantha",
+             "Cistanche tubulosa",
+             "Fagonia indica",
+              "Fagonia arabica",
+              "Salvia aegyptiaca",
+              "Salvia aegyptiaca",
+             "Morettia philaeana",
+              "Helianthemum kahiricum",
+               "Ochradenus baccatus",
+                "Anticharis glandulosa"
+           ],
+           "maps_query_location": "Eilat"
+        }
+      ]
+    },
+      {
+      "date": "11/06/2018",
+      "observer": null,
+       "original_text": "ציפורנית דקיקה, ציפורנית מדברית, פרסטיה מצרית, עפעפית רבת-פרחים, עכנאי זיפני , לחך סגלגל, ישומון נימי, אהרונסוניית פקטורי, ארנבית שרועה, בטנונית שעירה, גיפסנית ערבית, הילל מקומט",
+      "locations": [
+        {
+           "location_name": "המישר כביש 40",
+          "flowers": [
+            "Dianthus strictus",
+            "Dianthus deserti",
+            "Farsetia aegyptia",
+            "Helianthemum stipulatum",
+            "Echium setosum",
+            "Arnebia decumbens",
+           "Neurada procumbens",
+            "Aehronosonia factorovskyi",
+            "Helianthemum lippii",
+            "Citrullus colocynthis",
+            "Gypsophila arabica",
+            "Heliotropium crispa"
+          ],
+           "maps_query_location": "HaMishar Road 40"
+        }
+      ]
+    },
+     {
+      "date": "11/06/2018",
+      "observer": null,
+      "original_text": "שבר לבן, ששן מאפיר, פרעושית מסולסלת, פרגה ערבית, קיפודן בלאנש",
+      "locations": [
+        {
+          "location_name": "נחל צין",
+          "flowers": [
+              "Eremopyrum distans",
+              "Astragalus tribuloides",
+               "Pulicaria crispa",
+               "Paragaea arabica",
+              "Echinops blancheanus"
+           ],
+           "maps_query_location": "Nahal Zin"
+        }
+      ]
+    },
+    {
+      "date": "10/06/2018",
+      "observer": "שרון בן-צור",
+      "original_text": "שפע פריחות ראו באלבום של שרון בן-צור",
+       "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [],
+           "maps_query_location": "Mount Hermon"
+        }
+       ]
+     },
+     {
+      "date": "10/06/2018",
+      "observer": null,
+      "original_text": "יצאנו מוקדם בבוקר לחוף הבונים: פריחה עשירה של: המוני פרחי קצח השדה, קורנית מקורקפת כריות עצומות בשיא פריחה, חבלבל שעיר חבלבל השדה, חבלבל החוף בפריחה שופעת ולפופית החוף. דו-פרק חופי, מעוג מנוקד, צלף קוצני, דרדר הקורים, שמשון, לוטוס מכסיף, והעיקר נעצוצית סבוכה : פורחת בשפע כ 100 מטר מדרום לאי ליד הדרך הראשית",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+           "flowers": [
+             "Nigella arvensis",
+              "Thymbra capitata",
+              "Convolvulus lanatus",
+               "Convolvulus arvensis",
+               "Convolvulus scammonia",
+              "Ipomoea imperati",
+              "Sarcopoterium spinosum",
+              "Glaucium flavum",
+              "Capparis spinosa",
+              "Centaurea hyalolepis",
+               "Blepharis ciliaris",
+                "Lotus argenteus",
+               "Reichardia tingitana"
+            ],
+            "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+    {
+      "date": "07/06/2018",
+      "observer": null,
+       "original_text": "בשיא פריחה בחוף הבונים",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+           "flowers": [
+            "Reichardia tingitana"
+           ],
+           "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    }
+  ]
+}
+```

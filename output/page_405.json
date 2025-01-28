@@ -1,0 +1,199 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/05/2017",
+      "observer": "רפי סהר",
+      "original_text": "צלף קוצני בפריחה ביער פרו. ק. הרוכבים",
+      "locations": [
+        {
+          "location_name": "יער פרו",
+          "flowers": [
+            "צלף קוצני"
+          ],
+          "maps_query_location": "Ya'ar Pro"
+        },
+        {
+          "location_name": "ק. הרוכבים",
+           "flowers": [
+            "צלף קוצני"
+          ],
+          "maps_query_location": "Kiryat Harokvim"
+        }
+      ]
+    },
+    {
+      "date": "06/05/2017",
+       "observer": "משה קופרברג",
+      "original_text": "סוף סוף הצלחתי למצוא אותו בנחל כלח. לא ניתן להגיע אליו, רק בעזרת עדשת ZOOM טובה. מצ\"ב דף הפייסבוק שלי:",
+      "locations": [
+        {
+          "location_name": "נחל כלח",
+          "flowers": [
+            "שושן צחור"
+          ],
+          "maps_query_location": "Nahal Kalakh"
+        }
+      ]
+    },
+    {
+       "date": "06/05/2017",
+       "observer": null,
+       "original_text": "בקרן ברתות וגם שושן צחור",
+       "locations": [
+        {
+          "location_name": "קרן ברתות",
+          "flowers": [
+            "משויה פעמונית",
+             "שושן צחור"
+          ],
+          "maps_query_location": "Keran Bartot"
+        }
+      ]
+    },
+     {
+      "date": "06/05/2017",
+      "observer": null,
+      "original_text": "פורחים בגן: בוצין בירותי הגליל וקיסריון. חוחן קרדני, קיפודן דביק, זנב שועל ביצתי, חבלבל מצרי, צנינה קוצנית, בן חרצית נגבי, והפתעה בלתי צפויה בדמות גל פריחה שני של כרוב כרתי",
+       "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+             "בוצין בירותי הגליל",
+             "קיסריון",
+              "חוחן קרדני",
+              "קיפודן דביק",
+              "זנב שועל ביצתי",
+              "חבלבל מצרי",
+              "צנינה קוצנית",
+              "בן חרצית נגבי",
+              "כרוב כרתי"
+           ],
+          "maps_query_location": "Gan Hanedirim"
+        }
+      ]
+    },
+    {
+      "date": "05/05/2017",
+      "observer": null,
+      "original_text": "סחלה קדוש ( מאות) פעמונית גפורה (רבים), שום קצר (מאות), שום גבוה ,  גזר החוף, חרחבינה מכחילה, זעזועית, דגניים נוספים, פיורת רבים של בן-חצב יקינתוני , צבעוני השרון ועוד",
+       "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים נתניה",
+          "flowers": [
+             "סחלה קדוש",
+             "פעמונית גפורה",
+             "שום קצר",
+             "שום גבוה",
+             "גזר החוף",
+             "חרחבינה מכחילה",
+             "זעזועית",
+             "בן-חצב יקינתוני",
+             "צבעוני השרון"
+          ],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "05/05/2017",
+      "observer": null,
+       "original_text":"שום האבקנים רבים, מעוג אפיל ( סוף) מעוד מנוקד , חבלבל רפואי , פיגם מצוי, פיגמית מצויה, דגניים רבים, אשבל מעורק, פשתה מצוי,ה,  חרחבינה מכחילה,  עולש מצוי שפרירה קשקשנית",
+      "locations": [
+        {
+          "location_name": "גני הנדיב",
+           "flowers": [
+            "שום האבקנים",
+              "מעוג אפיל",
+              "מעוג מנוקד",
+              "חבלבל רפואי",
+              "פיגם מצוי",
+              "פיגמית מצויה",
+               "אשבל מעורק",
+               "פשתה מצויה",
+               "חרחבינה מכחילה",
+               "עולש מצוי",
+               "שפרירה קשקשנית"
+          ],
+          "maps_query_location": "Ganei Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "03/05/2017",
+      "observer": null,
+      "original_text": "פריחה יפה בדרום הכרמל (נחל שימרי וליד מערת הפעמון)",
+      "locations": [
+         {
+          "location_name": "נחל שימרי",
+          "flowers": [
+            "איריס ארם-נהריים"
+          ],
+            "maps_query_location": "Nahal Shimri"
+        },
+        {
+          "location_name": "מערת הפעמון",
+          "flowers": [
+            "איריס ארם-נהריים"
+          ],
+          "maps_query_location": "Me'arat Hapa'amon"
+        }
+      ]
+    },
+     {
+      "date": "03/05/2017",
+      "observer": "עדה גרוס",
+      "original_text": "איריס ארם נהרים פורח על הגבעה בצד שמאל של הכביש הפונה מערבה מכביש 4 לבית חנניה וג'אסר א זרקא.",
+       "locations": [
+        {
+          "location_name": "בית חנניה",
+           "flowers": [
+            "איריס ארם נהריים"
+          ],
+          "maps_query_location": "Beit Hanania"
+        },
+         {
+          "location_name": "ג'אסר א זרקא",
+           "flowers": [
+            "איריס ארם נהריים"
+          ],
+          "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "02/05/2017",
+      "observer": "רועי קן-תור",
+      "original_text": "פינת הישיבה, איננה עוד חלק מן המסלול ומן הגן. כאן אנו יושבים ומתבוננים. כאן אנו כותבים את המחשבות.",
+      "locations": [
+        {
+          "location_name": null,
+           "flowers": [],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/05/2017",
+      "observer": "אוהד גור",
+      "original_text": "פרט בודד ליד חירבת א'שייח במסלול הירוק של נחל קטלב - הפתעה נעימה!",
+      "locations": [
+        {
+           "location_name": "חירבת א'שייח",
+          "flowers": [
+            "איריס ארם נהריים"
+          ],
+          "maps_query_location": "Khirbet a-Sheikh"
+        },
+        {
+          "location_name": "נחל קטלב",
+           "flowers": [
+            "איריס ארם נהריים"
+          ],
+          "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    }
+  ]
+}
+```

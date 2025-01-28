@@ -1,0 +1,183 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/02/2020",
+      "observer": "דורית קליגר",
+      "original_text": "ים של רקפות ביער מסריק ליד קיבוץ שריד. ביער גם מרבדי ציפורניות מנוקדים בכלניות.",
+      "locations": [
+        {
+          "location_name": "יער מסריק",
+          "flowers": [
+            "Cyclamen persicum",
+            "Dianthus" ,
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Ya'ar Masaryk"
+        },
+         {
+          "location_name": "קיבוץ שריד",
+          "flowers": [
+            "Cyclamen persicum",
+             "Dianthus",
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Sarid"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2020",
+      "observer": null,
+      "original_text": "המון תורמוסים ומרבדים של עירית גדולה, בתל קטרה, בגדרה.",
+        "locations": [
+        {
+          "location_name": "תל קטרה",
+           "flowers": [
+            "Lupinus",
+             "Asphodelus aestivus"
+          ],
+           "maps_query_location": "Tel Qatra"
+        },
+        {
+          "location_name": "גדרה",
+           "flowers": [
+             "Lupinus",
+             "Asphodelus aestivus"
+          ],
+           "maps_query_location": "Gedera"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2020",
+      "observer": "אבי כליל החורש",
+      "original_text": "ביער אודם אחרי מסעדה בכביש 98 לפנות ימינה. בצמוד לכביש המרכזי ביער מאות רקפות יווניות.",
+         "locations": [
+         {
+            "location_name": "יער אודם",
+            "flowers": [
+              "Cyclamen graecum"
+            ],
+            "maps_query_location": "Ya'ar Odem"
+          }
+        ]
+    },
+       {
+      "date": "21/02/2020",
+      "observer": null,
+        "original_text": "מטע שקדיות פורחות בפארק איילון קנדה",
+        "locations": [
+          {
+            "location_name": "פארק איילון קנדה",
+            "flowers": [
+              "Prunus dulcis"
+            ],
+             "maps_query_location":"Ayalon Canada Park"
+          }
+        ]
+    },
+    {
+      "date": "20/02/2020",
+      "observer": null,
+      "original_text": "רק התחילו לפרוח . חכו לסוף שבוע הבא וצאו לשם. דווחו לנו מה מצב הפריחה",
+      "locations": [
+          {
+            "location_name": "חוף הבונים",
+             "flowers": [
+               "Tulipa"
+            ],
+            "maps_query_location": "Hof HaBonim"
+          }
+       ]
+    },
+    {
+      "date": "20/02/2020",
+      "observer": "צילה",
+     "original_text":"שיא הפריחה של אירוס הארגמן - מצד ימין של שר בן גוריון - נתניה דרום. שבילים נוחים י לטיול משפחות עם עגלות  לאורך.השביל המעגלי ולראות  בכמות יפה של פרחים.",
+      "locations": [
+         {
+            "location_name": "נתניה",
+           "flowers": [
+            "Iris atropurpurea"
+           ],
+             "maps_query_location": "Netanya"
+          }
+      ]
+    },
+    {
+       "date": "20/02/2020",
+      "observer": null,
+        "original_text":"אתמול יום רביעי 19/2 ראינו מקבצים של בן חצב החורש מול עין אלון בכרמל",
+         "locations": [
+          {
+            "location_name":"עין אלון",
+             "flowers": [
+               "Scilla cilicica"
+            ],
+             "maps_query_location": "Ein Alon"
+          },
+             {
+            "location_name":"כרמל",
+             "flowers": [
+               "Scilla cilicica"
+            ],
+            "maps_query_location": "Carmel"
+          }
+        ]
+    },
+    {
+      "date": "20/02/2020",
+      "observer": "עמיר פז",
+      "original_text": "איריס הארגמן בשיאו, רומוליאה זעירה, זהבית שרונית לקראת הסוף, מקור חסידה תמים, דוחנן קיפח, שרוכנית החוף, זמזומית ורבורג, וכלנית ורקפת מצויות פורחים בגן",
+      "locations": [
+          {
+            "location_name": "גן מקלט שרוני",
+            "flowers": [
+              "Iris atropurpurea",
+              "Romulea",
+               "Sternbergia scharonensis",
+              "Erodium telavivense",
+              "Cerinthe major",
+              "Sarcopoterium spinosum",
+              "Ziziphus spina-christi",
+              "Anemone coronaria",
+              "Cyclamen persicum"
+            ],
+            "maps_query_location": "null"
+         }
+      ]
+    },
+    {
+      "date": "19/02/2020",
+      "observer": "גברי שיאון",
+      "original_text": "גברי שיאון צילם השבוע מרבדים של גרגיון ערבי ושל שלחלח האלה",
+      "locations": [
+        {
+          "location_name":"נחל צין",
+            "flowers": [
+              "Reboudia pinnata",
+              "Eremostachys laciniata"
+             ],
+             "maps_query_location": "Nahal Zin"
+          }
+        ]
+    },
+    {
+      "date": "19/02/2020",
+      "observer": "נילי",
+      "original_text": "מרבדי רקפות מאשימים ביער לביא, בינהם מפוזרות כלניות בודדות.",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+          "flowers": [
+            "Cyclamen persicum",
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Ya'ar Lavi"
+        }
+      ]
+    }
+  ]
+}
+```

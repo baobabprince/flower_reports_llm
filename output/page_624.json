@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/12/2012",
+      "observer": null,
+      "original_text": "בשבת 24.11 ראינו פריחת חלמונית גדולה בדרך החלמוניות ביער יתיר. יומיים קודם ירד גשם וחלקן נפגעו אך היו גם טריות ויפות. כמו כן ראינו סיתווניות לבנות.",
+       "locations": [
+        {
+          "location_name": "יער יתיר",
+           "flowers": ["חלמונית", "סתוונית לבנה"],
+          "maps_query_location": "Ya'ar Yatir"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2012",
+      "observer": "הדס יקיר",
+      "original_text": "ביום ו' ביקרנו באתר ההנצחה להרוגי אסון הכרמל וראינו הרבה נרקיסים בשיא פריחה.",
+       "locations": [
+        {
+          "location_name": "בית אורן",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Beit Oren"
+        }
+      ]
+    },
+    {
+      "date": "02/12/2012",
+      "observer": "יצחק זוהר",
+       "original_text":"בכביש הכניסה לקיבוץ אור מול הכניסה לחוות הסוסים יש חורשה מלאה כרומים חורפיים  יפיפיים",
+       "locations": [
+         {
+           "location_name": "קיבוץ אורן",
+            "flowers": ["כרכום חורפי"],
+            "maps_query_location": "Kibbutz Oren"
+         }
+       ]
+    },
+     {
+      "date": "01/12/2012",
+       "observer": null,
+       "original_text": "פריחת כדן קטן פרחים ,זלזלת הקנוקנות, כרכום חורפי ,סתוונית ירושלים , סתוונית היורה.",
+      "locations": [
+        {
+          "location_name": "עפרה",
+           "flowers": ["כדן קטן-פרחים", "זלזלת הקנוקנות", "כרכום חורפי", "סתוונית ירושלים", "סתוונית היורה"],
+          "maps_query_location": "Ofra"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2012",
+      "observer": null,
+       "original_text":"כתוצאה מגשמים מאוחרים, הפריחה באזור הרי יהודה, ושפלת יהודה מתאחרת השנה. היום התחילה פריחת הנרקיסים על הרכסים  של הר צרעה, באזורי הנארי, כמו כן יש פריחת סתוניות היורה  וכרכום חורפי. גם באזור כסלון על הר יהודה נראו נרקיסים ראשונים.",
+      "locations": [
+         {
+           "location_name": "הרי יהודה",
+            "flowers": ["נרקיס", "סתוונית היורה", "כרכום חורפי"],
+            "maps_query_location": "Judean Mountains"
+         },
+        {
+           "location_name": "שפלת יהודה",
+             "flowers": ["נרקיס", "סתוונית היורה", "כרכום חורפי"],
+           "maps_query_location": "Shfela"
+         },
+         {
+           "location_name": "הר צרעה",
+            "flowers": ["נרקיס", "סתוונית היורה", "כרכום חורפי"],
+            "maps_query_location": "Har Tzor'a"
+          },
+          {
+            "location_name": "כסלון",
+             "flowers": ["נרקיס"],
+              "maps_query_location": "Kesalon"
+          }
+      ]
+    },
+    {
+      "date": "27/11/2012",
+      "observer": "דותן רותם",
+       "original_text":"נרקיס אפיל - מאות עדין פורחים אלפים כבר סיימו\nכרכום גיירדו - שיא פריחה\nסתוונית היורה, בן חצב סתווני.",
+      "locations": [
+          {
+            "location_name": "מעגן מיכאל",
+            "flowers": ["נרקיס אפיל", "כרכום גיירדו", "סתוונית היורה", "בן חצב סתווני"],
+            "maps_query_location": "Ma'agan Mikha'el"
+          }
+        ]
+    },
+     {
+      "date": "26/11/2012",
+      "observer": null,
+      "original_text": "החלמוניות בתבור בשיא פריחה.פרחים גדולים במקבצים.",
+       "locations": [
+        {
+          "location_name": "תבור",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Tabor"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2012",
+      "observer": null,
+      "original_text":"פורחים: כרכום חורפי צחנן מבאיש - לבלוב ותחילת פריחה",
+      "locations": [
+         {
+           "location_name": "אפרת",
+            "flowers": ["כרכום חורפי צחנן מבאיש"],
+            "maps_query_location": "Efrat"
+         },
+         {
+           "location_name": "ואדי ביאר",
+            "flowers": ["כרכום חורפי צחנן מבאיש"],
+            "maps_query_location": "Wadi Biar"
+          }
+      ]
+    },
+    {
+      "date": "24/11/2012",
+      "observer": null,
+      "original_text": "כמות אדירה של סתווניות, מעט כרכומים, בן-חצב סתווני, נרקיסים, \nורקפות בודדות, \nהכול צומח וגם פורח :)",
+      "locations": [
+         {
+            "location_name": "ואדי אזוב",
+            "flowers": ["סתוונית", "כרכום", "בן חצב סתווני", "נרקיס", "רקפת"],
+             "maps_query_location": "Wadi Azov"
+          },
+          {
+             "location_name": "חיפה",
+             "flowers": ["סתוונית", "כרכום", "בן חצב סתווני", "נרקיס", "רקפת"],
+             "maps_query_location": "Haifa"
+          }
+       ]
+    },
+    {
+      "date": "22/11/2012",
+      "observer": null,
+      "original_text":"צילום שקיבלתי מארגנטינה, \nחיילים וחיילת מתלהבים מחלמונית בדרום, מעולה ליחסי ציבור ל\"עמוד ענן\" ולישראל",
+       "locations": [
+        {
+          "location_name": "דרום",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Negev"
+        }
+      ]
+    }
+  ]
+}
+```

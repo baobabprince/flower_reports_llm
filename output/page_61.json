@@ -1,0 +1,299 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/08/2023",
+      "observer": null,
+      "original_text": "דורבנית סגולה, ורבנה שרועה , פרע מסולסל\nחרמשית השדות , בוצין שונה עלה , טופח עדשתי \nכונדרילה סמרנית , אבטיח , אל ציצית לבנה , אלמוות הקרקפות , אפרורית מצויה , \nאצבען ריסני,  בן חילף הביצות, בן קוצן מאפיר , עופרית אירופית, עוקץ עקרב שרוע, עטיינית דקה, \nערברבה מרובעת, ערברבה שעירה, צנינה קוצנית , קוצן קיפח, אלף עלה (מאגר בנטל) , שנית שוות שיניים (מאגר קונייטרה)",
+      "locations": [
+        {
+          "location_name": "בנטל",
+          "flowers": [
+            "Delphinium peregrinum",
+            "Verbena supina",
+            "Phalacrocarpum oppositifolium",
+             "Falcaria vulgaris",
+            "Verbascum sinuatum",
+            "Torilis arvensis",
+            "Chondrilla juncea",
+            "Citrullus colocynthis",
+            "Logfia gallica",
+             "Helichrysum sanguineum",
+             "Tephroseris cinerea",
+            "Digitalis cilicica",
+            "Lythrum hyssopifolia",
+            "Echinops adenocaulos",
+            "Plumbago europaea",
+             "Scorpiurus muricatus",
+            "Odontites aucheri",
+            "Epilobium tetragonum",
+            "Epilobium hirsutum",
+            "Carduus pycnocephalus",
+            "Cousinia carduiformis",
+             "Achillea millefolium",
+             "Odontites cyprius"
+          ],
+          "maps_query_location": "Mount Bental"
+        },
+        {
+          "location_name": "קונייטרה",
+          "flowers": [
+            "Delphinium peregrinum",
+            "Verbena supina",
+            "Phalacrocarpum oppositifolium",
+             "Falcaria vulgaris",
+            "Verbascum sinuatum",
+            "Torilis arvensis",
+            "Chondrilla juncea",
+            "Citrullus colocynthis",
+             "Logfia gallica",
+             "Helichrysum sanguineum",
+             "Tephroseris cinerea",
+            "Digitalis cilicica",
+            "Lythrum hyssopifolia",
+            "Echinops adenocaulos",
+            "Plumbago europaea",
+             "Scorpiurus muricatus",
+            "Odontites aucheri",
+             "Epilobium tetragonum",
+            "Epilobium hirsutum",
+            "Carduus pycnocephalus",
+            "Cousinia carduiformis",
+             "Achillea millefolium",
+            "Odontites cyprius"
+          ],
+          "maps_query_location": "Quneitra"
+        },
+		{
+          "location_name": "בני צפת",
+           "flowers": [
+            "Delphinium peregrinum",
+            "Verbena supina",
+            "Phalacrocarpum oppositifolium",
+             "Falcaria vulgaris",
+            "Verbascum sinuatum",
+            "Torilis arvensis",
+            "Chondrilla juncea",
+            "Citrullus colocynthis",
+            "Logfia gallica",
+             "Helichrysum sanguineum",
+             "Tephroseris cinerea",
+            "Digitalis cilicica",
+            "Lythrum hyssopifolia",
+            "Echinops adenocaulos",
+            "Plumbago europaea",
+             "Scorpiurus muricatus",
+            "Odontites aucheri",
+            "Epilobium tetragonum",
+            "Epilobium hirsutum",
+             "Carduus pycnocephalus",
+            "Cousinia carduiformis",
+             "Achillea millefolium",
+            "Odontites cyprius"
+          ],
+          "maps_query_location": "Bnei Tsfat"
+        }
+      ]
+    },
+    {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "סביון ההרים וחוטמית קרחת  בתרנגול חרמון, ארנין קוצני  בטלטל חרמון",
+      "locations": [
+        {
+          "location_name": "תרנגול חרמון",
+           "flowers": [
+              "Senecio aucheri",
+              "Alcea callirhoides",
+              "Eryngium falcatum"
+             ],
+          "maps_query_location": "Mount Hermon"
+        },
+        {
+         "location_name": "טלטל חרמון",
+           "flowers": [
+             "Senecio aucheri",
+              "Alcea callirhoides",
+             "Eryngium falcatum"
+            ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+      {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "הררית שעירה, שום נטוי, קיצנית צפופת-עלים, עוגית חרמונית, ספלול מחוספס",
+      "locations": [
+        {
+          "location_name": "בושרי חרמון",
+         "flowers": [
+            "Helianthemum syriacum",
+            "Allium obliquum",
+            "Erysimum crassicaule",
+             "Cyclotrichium niveum",
+             "Paracaryum rugulosum"
+             ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "סיסנית האחו, פרגה קרחת , דבקה משחירה , כשות קוטשי",
+      "locations": [
+        {
+          "location_name": "צומת דובדבן חרמון",
+           "flowers": [
+            "Seseli libanoticum",
+             "Papaver glabrum",
+            "Galium nigricans",
+             "Humulus lupulus"
+             ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "עלקת כפופת-חפים (החרמון ), ציפורנית הלבנון, שום סנין (פרי), בן-חרצית  דק-עלה ,  ברוניקה מזרחית, דרכנית קרחת , הררית שונת-גלומות, חרחבינה חרמונית, לוטוס מקרין, שום הסלעים",
+      "locations": [
+        {
+          "location_name": "עמק בולען חרמון",
+           "flowers": [
+             "Cuscuta reflexa",
+            "Dianthus libanotis",
+             "Allium sannine",
+             "Bellis gracilis",
+            "Veronica orientalis",
+             "Dorema glabrum",
+             "Helianthemum vesicarium",
+            "Echinops hermonis",
+             "Lotus corniculatus",
+             "Allium rupestre"
+           ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "נואית קוצנית, ניסנית מעוצה, פעמונית הצלצל  (לקראת סוף פריחה) , כף-אווז רבת-עלים (פרי), חדעד הלבנון, בן-חרצית צפוף , אשחר הלבנון (פרי), אלקנה מזרחית, \nשיננית צהובה, שינן סורי, שום החרמון, ציפורן הלבנון, פרע לבנוני, כלכלך שעיר-פרי",
+       "locations": [
+        {
+          "location_name": "מצפה שלגים בחרמון",
+          "flowers": [
+            "Astracantha echinus",
+             "Nitraria retusa",
+            "Campanula bellidifolia",
+            "Chenopodium chenopodioides",
+             "Laserpitium libanoticum",
+            "Bellis densa",
+            "Rhamnus libanoticus",
+            "Alkanna orientalis",
+            "Thesium kotschyanum",
+            "Taraxacum syriacum",
+             "Allium hermoneum",
+            "Dianthus libanotis",
+             "Phalacrocarpum libanoticum",
+             "Thesium syriacum"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "07/08/2023",
+      "observer": null,
+      "original_text": "לוטוס מקרין, מלחית אפורה, שלמון כוכבני, אריסימון ארגמני (פרי), דובדבן שרוע, טלפיון חרמוני, ארכובית הארזים, איסם קטן-פרחים",
+      "locations": [
+       {
+          "location_name": "דולינת איסם בחרמון",
+           "flowers": [
+             "Lotus corniculatus",
+            "Atriplex cana",
+             "Tragopogon stellatus",
+            "Erysimum purpureum",
+            "Prunus prostrata",
+             "Telephium hermonis",
+            "Polygonum cedrorum",
+             "Isatis microcarpa"
+           ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "27/07/2023",
+      "observer": null,
+        "original_text": "קדד השרף (רכבל תחתון) דורבנית סגולה , חרמשית השדות (תל בנטל) ,  הררית שעירה , מחנה ערער חרמון,  כונדרילה סמרנית   עמק-יעפורי",
+      "locations": [
+        {
+          "location_name": "רכבל תחתון",
+           "flowers": [
+             "Astragalus gummifer",
+            "Delphinium peregrinum"
+           ],
+          "maps_query_location": "Mount Hermon"
+        },
+         {
+          "location_name": "תל בנטל",
+            "flowers": [
+            "Falcaria vulgaris"
+           ],
+          "maps_query_location": "Mount Bental"
+        },
+        {
+          "location_name": "מחנה ערער חרמון",
+            "flowers": [
+            "Helianthemum syriacum",
+             "Chondrilla juncea"
+            ],
+          "maps_query_location": "Mount Hermon"
+        },
+         {
+          "location_name": "עמק-יעפורי",
+           "flowers": [
+            "Helianthemum syriacum",
+            "Chondrilla juncea"
+            ],
+          "maps_query_location": "Ya'afuri Valley"
+        }
+      ]
+    },
+   {
+      "date": "27/07/2023",
+      "observer": null,
+      "original_text":"געדה מצויה,  עוגית חרמונית",
+       "locations": [
+        {
+          "location_name": "בושרי חרמון",
+          "flowers": [
+             "Teucrium chamaedrys",
+             "Cyclotrichium niveum"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+       ]
+   },
+    {
+      "date": "27/07/2023",
+      "observer": null,
+        "original_text": "אכילאה גפורה , דובדבן שרוע",
+      "locations": [
+        {
+          "location_name": "רכבל עליון",
+          "flowers": [
+             "Achillea gypsicola",
+            "Prunus prostrata"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    }
+  ]
+}
+```

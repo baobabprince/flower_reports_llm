@@ -1,0 +1,220 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/09/2018",
+      "observer": "דוד פורת",
+      "original_text": "26.08.18  שמורות הדן והשניר:   אברנית הנשר (מובא?),  גפית הביצה,  שבטבט גדול,   פורחים:  גדותן הביצות, דבקת הירדן,  נענע משובלת, פרע מחודד, קוצן גייארדו (אוכלוסייה זעירה בת 8 פרטים  בתוכם 2 צעירים ליד הטחנה כולם נפגעו עקב עבודות פתוח במקום),  קיסוסית קוצנית עם פירות, קנה סוכר גבוה, אשבל ארוך שיבולת, חוטמית קרחת, \nלפופית כפנית לאורך השניר.\nבריכת הנופרים ביפתח – אוכלוסייה קטנה של כף אווז לא מזוהה.  אצבען ריסני בסמוך.",
+      "locations": [
+        {
+          "location_name": "שמורת הדן",
+           "flowers": ["אברנית הנשר", "גפית הביצה", "שבטבט גדול", "גדותן הביצות", "דבקת הירדן", "נענע משובלת", "פרע מחודד", "קוצן גייארדו", "קיסוסית קוצנית", "קנה סוכר", "אשבל ארוך שיבולת", "חוטמית קרחת", "לפופית כפנית"],
+          "maps_query_location": "Dan Nature Reserve"
+        },
+        {
+          "location_name": "שמורת שניר",
+           "flowers": ["אברנית הנשר", "גפית הביצה", "שבטבט גדול", "גדותן הביצות", "דבקת הירדן", "נענע משובלת", "פרע מחודד", "קוצן גייארדו", "קיסוסית קוצנית", "קנה סוכר", "אשבל ארוך שיבולת", "חוטמית קרחת", "לפופית כפנית"],
+          "maps_query_location": "Snir Nature Reserve"
+        },
+           {
+          "location_name": "הטחנה",
+          "flowers": ["קוצן גייארדו"],
+          "maps_query_location": null
+        },
+        {
+           "location_name": "בריכת הנופרים ביפתח",
+           "flowers": ["כף אווז", "אצבען ריסני"],
+           "maps_query_location": "Yiftah"
+         }
+      ]
+    },
+     {
+      "date": "01/09/2018",
+      "observer": null,
+      "original_text": "היא כבר פורחת במצפה רמון , בבאר חמת ובורות לוץ",
+      "locations": [
+        {
+          "location_name": "מצפה רמון",
+          "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Mitzpe Ramon"
+        },
+        {
+          "location_name": "באר חמת",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Be'er Hamat"
+        },
+         {
+          "location_name": "בורות לוץ",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "31/08/2018",
+      "observer": null,
+      "original_text": "בצידי כביש 6 ובין פסי ההפרדה",
+       "locations": [
+        {
+          "location_name": "כביש 6",
+           "flowers": ["חצב"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+       "date": "30/08/2018",
+      "observer": null,
+       "original_text": "ראו בקישור",
+       "locations": []
+    },
+      {
+      "date": "30/08/2018",
+      "observer": null,
+       "original_text": "פורחים כבר בחי-בר בכרמל",
+      "locations": [
+        {
+          "location_name": "חי-בר בכרמל",
+          "flowers": ["חצב"],
+          "maps_query_location": "Hai-Bar Carmel"
+        }
+      ]
+    },
+    {
+      "date": "30/08/2018",
+      "observer": null,
+      "original_text": "חצבים בודדים לפני פריחה בחירבת מלח",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+           "flowers": ["חצב"],
+          "maps_query_location": "Khirbet Mlah"
+        }
+      ]
+    },
+    {
+      "date": "29/08/2018",
+      "observer": null,
+      "original_text": "נטופית רפואית, קייצנית אשכולית , שנית גדולה, חנק מחודד ארכוביות ועוד",
+      "locations": [
+          {
+          "location_name": "אחו בנימינה",
+          "flowers": ["נטופית רפואית", "קייצנית אשכולית", "שנית גדולה", "חנק מחודד"],
+           "maps_query_location": "Binyamina"
+         }
+      ]
+    },
+       {
+      "date": "28/08/2018",
+      "observer": null,
+      "original_text": "פורחים בכמות ליד מאוזוליאום מזור  בכביש  444 , לאיזור הכרמים של מושב גמזו, תל חייא, איתמר , הר הקפיצה ,  עין קדם בכרמל, גבעת התנ\"ך , אלפי מנשה, מצפה רמון, יערקולה , תל חפר, צור יגאל, חוף הכרמל, בעמק חפר, פארק ךאומי אפולוניה , ועוד ועו ד. דווחו על פריחות",
+      "locations": [
+        {
+          "location_name": "מאוזוליאום מזור",
+          "flowers": ["חצב"],
+          "maps_query_location": "Mazor Mausoleum"
+        },
+        {
+          "location_name": "כביש 444",
+           "flowers": ["חצב"],
+          "maps_query_location": null
+        },
+          {
+          "location_name": "כרמי מושב גמזו",
+           "flowers": ["חצב"],
+          "maps_query_location": "Gimzo"
+        },
+           {
+          "location_name": "תל חייא",
+            "flowers": ["חצב"],
+          "maps_query_location": "Tel Haya"
+        },
+         {
+          "location_name": "איתמר",
+           "flowers": ["חצב"],
+          "maps_query_location": "Itamar"
+        },
+         {
+           "location_name": "הר הקפיצה",
+            "flowers": ["חצב"],
+          "maps_query_location": "Mount Kedumim"
+        },
+          {
+           "location_name": "עין קדם בכרמל",
+            "flowers": ["חצב"],
+           "maps_query_location": "Ein Kedem"
+        },
+         {
+           "location_name": "גבעת התנ\"ך",
+            "flowers": ["חצב"],
+          "maps_query_location": "Givat HaTanakh"
+        },
+          {
+           "location_name": "אלפי מנשה",
+             "flowers": ["חצב"],
+          "maps_query_location": "Alfei Menashe"
+         },
+        {
+          "location_name": "מצפה רמון",
+           "flowers": ["חצב"],
+          "maps_query_location": "Mitzpe Ramon"
+        },
+         {
+           "location_name": "יערקולה",
+            "flowers": ["חצב"],
+          "maps_query_location": "Yarqa"
+        },
+         {
+          "location_name": "תל חפר",
+          "flowers": ["חצב"],
+          "maps_query_location": "Tel Hefer"
+        },
+           {
+           "location_name": "צור יגאל",
+             "flowers": ["חצב"],
+          "maps_query_location": "Tzur Yigal"
+         },
+        {
+          "location_name": "חוף הכרמל",
+           "flowers": ["חצב"],
+          "maps_query_location": "Hof HaCarmel"
+        },
+        {
+          "location_name": "עמק חפר",
+           "flowers": ["חצב"],
+          "maps_query_location": "Emek Hefer"
+        },
+        {
+            "location_name": "פארק לאומי אפולוניה",
+             "flowers": ["חצב"],
+             "maps_query_location": "Apollonia National Park"
+        }
+      ]
+    },
+      {
+      "date": "28/08/2018",
+      "observer": null,
+      "original_text": "וכבר בשיא פריחה בגליל כפי שניתן לראות בקישור",
+      "locations": [
+         {
+          "location_name": "גליל",
+            "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Galilee"
+        }
+      ]
+    },
+     {
+      "date": "25/08/2018",
+      "observer": null,
+      "original_text": "חצבים רבים פורחים בהר הקפיצה",
+      "locations": [
+        {
+          "location_name": "הר הקפיצה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Mount Kedumim"
+        }
+      ]
+    }
+  ]
+}
+```

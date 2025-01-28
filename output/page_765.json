@@ -1,0 +1,172 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/10/2009",
+      "observer": null,
+      "original_text": "בעמק מן, צהבהב, נאה והחרמון.",
+      "locations": [
+        {
+          "location_name": "עמק מן",
+          "flowers": ["כרכום"],
+           "maps_query_location": "Emeq Man"
+        },
+         {
+          "location_name": "חרמון",
+          "flowers": ["כרכום"],
+           "maps_query_location": "Hermon"
+        }
+      ]
+    },
+    {
+      "date": "30/10/2009",
+      "observer": null,
+      "original_text": "כחצי קילומטר מהכביש - ליד השלט המפנה לחלמוניות - התחלת פריחה של מס' חלמוניות בודדות.",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2009",
+      "observer": "אילן טל",
+      "original_text": "פורחים : ציפורן משתלשל , סתוונית התשבץ + ירושלים , אחילוף החורן , בן טיון בשרני , אסתר הביצות , כרכום השבכה , חלמונית גדולה ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+            "ציפורן משתלשל",
+            "סתוונית התשבץ",
+            "אחילוף החורן",
+            "בן טיון בשרני",
+             "אסתר הביצות",
+            "כרכום השבכה",
+            "חלמונית גדולה"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+       "date": "28/10/2009",
+      "observer": "עירית",
+      "original_text": "רקפות בשיא פריחה בעלייה  מנחל עמוד לשייך כווייס ומעל נחל שכווי לכיוון צפת ליד קבר רבי חוצפית.",
+      "locations": [
+         {
+           "location_name": "נחל עמוד",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Nahal Amud"
+         },
+        {
+          "location_name": "שייך כווייס",
+            "flowers": ["רקפת"],
+             "maps_query_location": "Sheikh Khuways"
+         },
+        {
+          "location_name": "נחל שכווי",
+           "flowers": ["רקפת"],
+            "maps_query_location": "Nahal Shkhvi"
+         },
+         {
+           "location_name": "צפת",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Safed"
+         }
+       ]
+    },
+    {
+      "date": "14/10/2009",
+      "observer": null,
+      "original_text": "בחוף הבונים",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+          "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2009",
+       "observer": "עירית",
+      "original_text": "בהר שזור פורחים נרקיסים ראשונים, חננית הבתה והרבה מאד סתווניות בכירות.",
+      "locations": [
+        {
+          "location_name": "הר שזור",
+          "flowers": [
+            "נרקיס",
+             "חננית הבתה",
+            "סתוונית"
+          ],
+           "maps_query_location": "Har Shazor"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2009",
+       "observer": "עירית",
+      "original_text": "בהר שזיף פורחים חלמונית זעירה, כרכום נאה, סתוונית בכירה.",
+      "locations": [
+        {
+          "location_name": "הר שזיף",
+           "flowers": [
+            "חלמונית זעירה",
+            "כרכום נאה",
+            "סתוונית"
+          ],
+           "maps_query_location": "Har Shzif"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2009",
+       "observer": "עירית",
+      "original_text": "חלמוניות נראו פורחות בשביל פסגה 10.10.09",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+           "maps_query_location":"Har Meron"
+        }
+      ]
+    },
+    {
+        "date": "11/10/2009",
+        "observer": null,
+      "original_text": "פורחים : חלמונית גדולה, וסיתוונית התשבץ",
+        "locations": [
+        {
+          "location_name": "גבעת רם",
+           "flowers": ["חלמונית גדולה", "סתוונית התשבץ"],
+            "maps_query_location": "Givat Ram"
+        },
+         {
+          "location_name": "ירושלים",
+           "flowers": ["חלמונית גדולה", "סתוונית התשבץ"],
+            "maps_query_location": "Jerusalem"
+        }
+       ]
+     },
+    {
+      "date": "08/10/2009",
+      "observer": "נעה סניפליסקי",
+      "original_text": "אלפי חצבים פורחים בנחל אל על ברמת הגולן. כמו כן יש שם כבר נביטה של תורמוסים .",
+      "locations": [
+         {
+          "location_name": "נחל אל על",
+          "flowers": ["חצב", "תורמוס"],
+           "maps_query_location": "Nahal El Al"
+        },
+        {
+          "location_name": "רמת הגולן",
+          "flowers": ["חצב", "תורמוס"],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    }
+  ]
+}
+```

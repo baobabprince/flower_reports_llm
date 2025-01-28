@@ -1,0 +1,342 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/07/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בדרך למנזר סנטה קתרינה:פרעושית גלונית, אכילאה,בוצין סיני,שלהבת קצרת שיניים,קיפודן בלנש,פגוניה ערבית.\nואדי שרייג:אשבל מצרי,מסמור סיני,אזוב.בואדי שאג:פרע מסולסל.\nב״מעיין המטפטף״: מסמור סיני,סמר מרצעני?,ברוניקת המים, שכרון סיני,אבטיח הפקועה,נוציץ. באזור פארש רומנה:ציפורן שימפר. יורניאה טרשית,בואדי ג׳בל: נענע משובלת (חבק), פרגה ערבית-3פרטים.ליד בריכת שאג הגדולה :שומר. נצפתה גם לוטמיה דביקה. וצלף.",
+      "locations": [
+        {
+          "location_name": "מנזר סנטה קתרינה",
+           "flowers": [
+              "Pulicaria glutinosa",
+              "Achillea",
+              "Verbascum sinaiticum",
+              "Echium longifolium",
+              "Echinops blancheanus",
+              "Fagonia arabica"
+            ],
+          "maps_query_location": "Saint Catherine Monastery"
+        },
+          {
+            "location_name": "ואדי שרייג",
+             "flowers": [
+                "Teucrium polium",
+                "Helianthemum sinaicum",
+                 "Hyssopus officinalis"
+             ],
+            "maps_query_location": "Wadi Shreig"
+        },
+         {
+            "location_name": "ואדי שאג",
+             "flowers": [
+               "Glaucium arabicum"
+                ],
+            "maps_query_location": "Wadi Shag"
+        },
+        {
+          "location_name": "מעיין המטפטף",
+          "flowers": [
+             "Helianthemum sinaicum",
+             "Sarcopoterium spinosum",
+              "Veronica anagallis-aquatica",
+              "Hyoscyamus muticus",
+              "Citrullus colocynthis",
+             "Paronychia arabica"
+              ],
+          "maps_query_location": "null"
+        },
+         {
+          "location_name": "פארש רומנה",
+            "flowers": [
+              "Dianthus shimperi",
+               "Jurinea mollis"
+           ],
+          "maps_query_location": "Farsh Romana"
+        },
+         {
+           "location_name":"ואדי ג׳בל",
+            "flowers": [
+              "Mentha longifolia",
+               "Moltkiopsis ciliata"
+            ],
+           "maps_query_location":"Wadi Jebel"
+         },
+        {
+           "location_name":"בריכת שאג הגדולה",
+            "flowers": [
+               "Foeniculum vulgare"
+           ],
+            "maps_query_location":"Birkat Shag"
+        }
+      ]
+    },
+    {
+      "date": "10/07/2021",
+      "observer": null,
+       "original_text":"אטד, חורשף, חבצלת החוף וחוויות כולל החצב שהקדים לפרוח... \nראו באלבום",
+      "locations": [
+        {
+          "location_name": "אפולוניה",
+           "flowers": [
+              "Lycium",
+              "Scolymus maculatus",
+              "Pancratium maritimum",
+               "Urginea maritima"
+           ],
+           "maps_query_location": "Apollonia"
+         }
+      ]
+    },
+    {
+       "date": "07/07/2021",
+      "observer": "עמיר פז",
+       "original_text":"פורחת אצלי בגן",
+      "locations": [
+         {
+           "location_name": "גן",
+          "flowers": [
+              "Mantisalca deserti"
+            ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/07/2021",
+      "observer": null,
+       "original_text":"חוף אשקלון\nאהל מצוי , חבלבל החוף,  חורשף צהוב , עדעד רותמי , קיפודן פלישתי ,\nשלולית רוברטס  מדרום לאשדוד \nשנית שוות-שיניים , קצח השדה , קורטם דק , פיקוס השקמה , ורבנה שרועה , עטיינית מגובבת , עפעפית שרועה\nאיבי הנחל ומצוקי נחל ערוגות עליון\nאכילאה ריחנית,  אספרג החורש  בולנטוס דק-גבעול , בר-דורבן הסירה,  גיפסנית ערבית,   דבקה אפורה, ציפורנית אפורה , קדד בית-הלחמי , נרדורית מזרחית",
+      "locations": [
+        {
+          "location_name": "אשקלון",
+          "flowers": [
+             "Tamarix aphylla",
+              "Convolvulus scammonia",
+              "Scolymus maculatus",
+              "Limoniastrum monopetalum",
+              "Echinops philistaeus"
+           ],
+          "maps_query_location": "Ashkelon"
+        },
+         {
+            "location_name": "שלולית רוברטס",
+            "flowers":[
+              "Teucrium capitatum",
+               "Nigella arvensis",
+               "Carthamus tenuis",
+               "Ficus sycomorus",
+               "Verbena supina",
+                "Anabasis articulata",
+               "Blepharis ciliaris"
+              ],
+            "maps_query_location": "Roberts Pool"
+         },
+          {
+            "location_name": "אשדוד",
+           "flowers":[
+               "Teucrium capitatum",
+               "Nigella arvensis",
+               "Carthamus tenuis",
+               "Ficus sycomorus",
+               "Verbena supina",
+                "Anabasis articulata",
+               "Blepharis ciliaris"
+              ],
+           "maps_query_location":"Ashdod"
+          },
+         {
+           "location_name": "איבי הנחל",
+          "flowers": [
+             "Achillea fragrantissima",
+             "Asparagus aphyllus",
+             "Bolanthus minuartioides",
+             "Ononis natrix",
+              "Gypsophila arabica",
+               "Galium canum",
+               "Petrorhagia aegyptia",
+               "Astragalus bethlemiticus",
+               "Heliotropium europaeum"
+             ],
+           "maps_query_location":"Ibei HaNahal"
+         },
+          {
+            "location_name":"נחל ערוגות עליון",
+           "flowers":[
+            "Achillea fragrantissima",
+             "Asparagus aphyllus",
+             "Bolanthus minuartioides",
+             "Ononis natrix",
+              "Gypsophila arabica",
+               "Galium canum",
+               "Petrorhagia aegyptia",
+               "Astragalus bethlemiticus",
+               "Heliotropium europaeum"
+              ],
+           "maps_query_location": "Nahal Arugot"
+        }
+      ]
+    },
+    {
+      "date": "02/07/2021",
+      "observer": "קובי שפר",
+       "original_text":"פריחת חבצלת החוף החלה ב- 23.6.2021. לפופית החוף",
+      "locations": [
+        {
+          "location_name": "קרית ים",
+            "flowers": [
+              "Pancratium maritimum",
+               "Ipomoea imperati"
+            ],
+          "maps_query_location": "Kiryat Yam"
+        }
+      ]
+    },
+      {
+      "date": "26/06/2021",
+      "observer": null,
+       "original_text":"פרע לבנוני,  צורית דקת-עלים,   ציפונית מפושקת,  ציפורן הלבנון,  ציפורנית הלבנון , ציפורנית צרת-עלים,  ,ציפורנית שנונת-כותרת,  קדד אדום פרחים,  ,קדד האורנים , \nקדד קיפודי , קדד קרקשי,  קוסיניה חרמונית,  ,קחוון דל-אונות , ,קיפודן גיארדו  מורכבים,  קערורית נאדית,  קערורית סגולה,  ,קרקש קיליקי,  ,רפונטיקון זוחל , שום החרמון , שום הררי,  שום פיינברג, שושנתית הלבנון ,  שזיף הדובדבן,  ,שיפון ההרים ,\nשלהבית הררית , הרקלאון נמוך,  הררית שונת-גלומות , ורד דביק \\ זיברה ננסית, חבלבל הלבנון , חד-אבקן",
+      "locations": [
+         {
+           "location_name":"חרמון",
+           "flowers": [
+             "Glaucium acutidentatum",
+             "Cerastium parvifolium",
+             "Minuartia meyeri",
+              "Dianthus libanotis",
+              "Petrorhagia libanotica",
+              "Petrorhagia angustifolia",
+               "Petrorhagia crenulata",
+              "Astragalus callichrous",
+               "Astragalus pinetorum",
+               "Astragalus echinus",
+               "Astragalus cruciatus",
+               "Cousinia hermonis",
+               "Anthemis pauciloba",
+               "Echinops gaillardotii",
+               "Erysimum gallaecicum",
+               "Erysimum purpureum",
+              "Sanguisorba kiliensis",
+               "Rhaponticum repens",
+               "Allium hermoneum",
+               "Allium montanum",
+               "Allium feinbergii",
+                "Bellevalia hermonis",
+               "Prunus cerasifera",
+               "Secale montanum",
+               "Echium italicum",
+                "Heracleum humile",
+               "Bistorta macrophylla",
+               "Rosa glutinosa",
+               "Convolvulus libanoticus",
+               "Haplophyllum buxbaumii"
+             ],
+             "maps_query_location":"Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "26/06/2021",
+      "observer": null,
+       "original_text":"חלבלוב קוצני,  חמשן נדיר , טלפיון חרמוני ,  כף-אווז רבת-עלים,  כרבולת מקרינה,  לשון-כלב הררית , מרווה בוצינית , נפית איטלקית, נפית קיליקית,  סביון ההרים,  ספלול מחוספס, עוגית חרמונית,  פעמונית אמיתית,  פעמונית הצלצל , אבובית החרטומים,  אחישבת מדולדל,  אכילאה גפורה,  אליסון חרמוני , ארכובית הררית,  ארנריה לבנונית  ,ארנריית הסלעים, אשבל הארזים,  בולנתוס שעיר, בן-חרצית צפוף , ברברית הלבנון  ברומית ת-מלענים,  ברוניקה אפרפרה , געדה מזרחית, דבקה משחירה, דבקנית עטורה,  דרדר הלבנון, הילל חרמוני ,  הרדופנין אשון",
+      "locations": [
+          {
+           "location_name":"חרמון",
+           "flowers": [
+              "Euphorbia spinosa",
+              "Potentilla rhenana",
+              "Telephium hermonis",
+               "Chenopodium multifidum",
+               "Celosia cristata",
+               "Cynoglossum montanum",
+               "Salvia viscosa",
+               "Nepeta italica",
+               "Nepeta cilicia",
+               "Senecio ovatus",
+               "Micromeria crinata",
+               "Cyclotrichium hermonis",
+               "Campanula aucheri",
+              "Campanula lyrata",
+               "Siphonostegia syriaca",
+               "Paracaryum lithospermifolium",
+               "Achillea giffensis",
+               "Alyssum hermonis",
+              "Polygonum alpinum",
+                "Arenaria libanotica",
+                "Arenaria serpyllifolia",
+                "Teucrium cedrorum",
+                "Bolanthus hirsutus",
+                "Bellis sylvestris",
+                "Berberis libanotica",
+               "Bromus lanceolatus",
+               "Veronica cinerea",
+               "Teucrium orientale",
+                "Galium nigricans",
+                "Cruciata coronata",
+                "Cirsium libanoticum",
+               "Helianthemum vesicarium",
+               "Nerium oleander"
+             ],
+             "maps_query_location":"Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "24/06/2021",
+      "observer": null,
+       "original_text": "ראו אלבום תמונות",
+      "locations": [
+        {
+          "location_name": "חרמון הגבוה",
+          "flowers": [],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "22/06/2021",
+      "observer": null,
+      "original_text":"ליד ג'יסר א זרקה ובחוף הבונים -דור",
+      "locations": [
+        {
+          "location_name":"ג'יסר א זרקה",
+           "flowers": [
+              "Ononis viscosa"
+             ],
+           "maps_query_location":"Jisr az-Zarqa"
+        },
+         {
+           "location_name": "חוף הבונים",
+            "flowers": [
+               "Ononis viscosa"
+              ],
+          "maps_query_location":"Hof HaBonim"
+        },
+        {
+          "location_name": "דור",
+           "flowers": [
+               "Ononis viscosa"
+              ],
+          "maps_query_location": "Dor Beach"
+        }
+       ]
+    },
+    {
+      "date": "20/06/2021",
+       "observer": null,
+      "original_text": null,
+      "locations": [
+        {
+          "location_name": "בצת",
+          "flowers": [],
+           "maps_query_location":"Bezet"
+          },
+        {
+            "location_name":"גליל מערבי",
+            "flowers": [],
+            "maps_query_location":"Western Galilee"
+        }
+      ]
+    }
+  ]
+}
+```

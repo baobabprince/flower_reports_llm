@@ -1,0 +1,239 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/09/2022",
+      "observer": "דורוןאור",
+      "original_text": "בריכות הדגים של מעגן מיכאל ומעיין צבי, שמורת שפך נחל דליה וחוף הים:\nבשמורה: לפופית החיצים פרטים רבים יחסית, חנק מחודד, לוטוס צר עלים (פריחה מוקדמת מאד). בחוף מעגן מיכאל: חבצלת החוף, לפופית החוף, דו פרק חופי ומלחית אשלגנית (טרם פריחה).",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "Ipomoea sagittata",
+            "Salsola inermis",
+             "Lotus angustissimus",
+             "Pancratium maritimum",
+             "Ipomoea imperati",
+              "Crithmum maritimum",
+              "Suaeda vera"
+          ],
+          "maps_query_location": "Ma'agan Mikhael"
+        },
+        {
+          "location_name": "מעיין צבי",
+             "flowers": [
+            "Ipomoea sagittata",
+            "Salsola inermis",
+             "Lotus angustissimus"
+          ],
+          "maps_query_location": "Ma'ayan Zvi"
+        },
+         {
+          "location_name": "שמורת שפך נחל דליה",
+             "flowers": [
+            "Ipomoea sagittata",
+            "Salsola inermis",
+             "Lotus angustissimus"
+          ],
+          "maps_query_location": "Nahal Daliyya Estuary Nature Reserve"
+        },
+         {
+          "location_name": "חוף הים",
+              "flowers": [
+            "Ipomoea sagittata",
+            "Salsola inermis",
+             "Lotus angustissimus",
+               "Pancratium maritimum",
+             "Ipomoea imperati",
+              "Crithmum maritimum",
+              "Suaeda vera"
+          ],
+          "maps_query_location": "Mediterranean Sea Coast"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2022",
+      "observer": null,
+      "original_text": "כבר החלו לפרוח החלמוניות הראשונות וכן סתווניות התשבץ , עדיין לא השיא",
+       "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "Sternbergia clusiana",
+            "Colchicum tessellatum"
+          ],
+          "maps_query_location": "Har Hazakah"
+        }
+      ]
+    },
+      {
+      "date": "24/09/2022",
+      "observer": null,
+       "original_text": "בחוף גדור מול גבעת אולגה",
+      "locations": [
+         {
+          "location_name": "חוף גדור",
+          "flowers": [
+            "Pancratium maritimum"
+          ],
+           "maps_query_location":"Gdor Beach"
+        },
+         {
+          "location_name": "גבעת אולגה",
+          "flowers": [
+           "Pancratium maritimum"
+          ],
+          "maps_query_location":"Givat Olga"
+        }
+      ]
+    },
+     {
+      "date": "24/09/2022",
+       "observer": "דורוןאור",
+      "original_text": "שיטת הנילוס במכון איילון בפריחה, תרמילי זרעים ופיזור זרעים,  ענפים חדשים וקוצניים  הצומחים מתוך הגזע, ושרף  הנוזל מתוך הגזע . כל המאפיינים המגדירים את המין",
+      "locations": [
+        {
+          "location_name": "מכון איילון",
+           "flowers": [
+            "Acacia nilotica"
+          ],
+          "maps_query_location": "Ayalon Institute"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2022",
+       "observer": null,
+      "original_text": "ראו אלבום בקישור למטה :\nבוען מצולע, מלפפון משולש, ועוד נדירים",
+      "locations": [
+         {
+          "location_name": "השרון",
+          "flowers": [
+             "Echinophora tournefortii",
+            "Cucumis prophetarum"
+          ],
+           "maps_query_location": "Sharon"
+        },
+          {
+          "location_name": "חוף הכרמל",
+            "flowers": [
+            "Echinophora tournefortii",
+            "Cucumis prophetarum"
+          ],
+          "maps_query_location": "Carmel Coast"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2022",
+      "observer": null,
+        "original_text":"בהר מירון בשביל הפיסגה , בפריחה יפה",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "Colchicum autumnale"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2022",
+      "observer": null,
+      "original_text": "המעפיל:\nמלפפון משולש \nתל מונד: \nשעונית התות \nבכרמל: \nשום סתווי\nעין המפרץ: \nבוען משולש, דוחן תרבותי",
+       "locations": [
+          {
+          "location_name": "המעפיל",
+             "flowers": [
+            "Cucumis prophetarum"
+          ],
+          "maps_query_location": "HaMa'apil"
+        },
+          {
+          "location_name": "תל מונד",
+             "flowers": [
+            "Passiflora edulis"
+          ],
+          "maps_query_location": "Tel Mond"
+        },
+        {
+          "location_name": "הכרמל",
+           "flowers": [
+            "Allium autumnale"
+          ],
+          "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "עין המפרץ",
+             "flowers": [
+             "Echinophora trichophylla",
+              "Panicum miliaceum"
+          ],
+          "maps_query_location": "Ein HaMifratz"
+        }
+      ]
+    },
+    {
+      "date": "21/09/2022",
+      "observer": null,
+      "original_text": "סתוונית בכירה וגם סתוונית התשבץ כבר החלו לפרוח סבר בנטל",
+      "locations": [
+        {
+          "location_name": "הר בנטל",
+          "flowers": [
+             "Colchicum autumnale",
+             "Colchicum tessellatum"
+          ],
+          "maps_query_location": "Mount Bental"
+        }
+      ]
+    },
+    {
+      "date": "20/09/2022",
+      "observer": null,
+      "original_text": "חוף האקוודוקט בקיסריה פורחות המוני חבצלות וגם דו-פרק חופי",
+      "locations": [
+        {
+          "location_name": "חוף האקוודוקט",
+          "flowers": [
+            "Pancratium maritimum",
+             "Crithmum maritimum"
+          ],
+          "maps_query_location": "Aqueduct Beach"
+        },
+         {
+          "location_name": "קיסריה",
+          "flowers": [
+             "Pancratium maritimum",
+              "Crithmum maritimum"
+          ],
+          "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+    {
+      "date": "20/09/2022",
+      "observer": null,
+      "original_text": "מקבצים יפים פורחים בשולי סינגל ענבה מדרום למושב גמזו",
+      "locations": [
+        {
+          "location_name": "סינגל ענבה",
+          "flowers": [
+            "Sternbergia lutea"
+          ],
+            "maps_query_location": "Inaba Trail"
+        },
+        {
+           "location_name": "גמזו",
+            "flowers": [
+               "Sternbergia lutea"
+            ],
+            "maps_query_location":"Gamzu"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,202 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/01/2022",
+      "observer": "דרור בר-ניר",
+      "original_text": "פריחה יפה.",
+      "locations": [
+        {
+          "location_name": "חומות ירושלים",
+          "flowers": [
+            "לוע הארי הסיצילי"
+          ],
+           "maps_query_location": "Jerusalem Walls"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2022",
+      "observer": null,
+       "original_text": "נרקיסים בפריחה משגעת באחו נוב. עלי אירוס הביצות רק מציצים.",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "נרקיס",
+             "אירוס הביצות"
+          ],
+          "maps_query_location":"Ahuzat Nov"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2022",
+      "observer": "יעקב ירון",
+       "original_text": "כלניות לבנות בפארק שוהם מיד בכניסה מצד שמאל לפני העליה מכוסות בקוצים בהמשך סביונים במקבץ ונץ החלב בשביל הפריחה ליד נחשונים אירוס ארץ ישראל ופריחת רקפות",
+      "locations": [
+        {
+          "location_name": "פארק שוהם",
+          "flowers": [
+            "כלנית לבנה",
+            "סביון",
+            "נץ החלב"
+          ],
+          "maps_query_location": "Shoham Park"
+        },
+        {
+          "location_name": "נחשונים",
+            "flowers": [
+              "אירוס ארץ ישראל",
+              "רקפת"
+             ],
+         "maps_query_location": "Nahshonim"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2022",
+      "observer": "גלעד שטראוס",
+       "original_text": "כלניות ראשונות בשמות אלוני יצחק וגם בחורשה שמצפון לכפר הנוער",
+      "locations": [
+        {
+           "location_name": "אלוני יצחק",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Allonei Yitzhak"
+        },
+        {
+          "location_name": "חורשה שמצפון לכפר הנוער",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/01/2022",
+      "observer": "קובי שפר",
+       "original_text": "דבורניות שחומות פורחות מעבר לאלון הגדול, בצד ימין בירידה אל באר הארבעים בכרמל.",
+       "locations": [
+        {
+          "location_name": "באר הארבעים",
+            "flowers": [
+              "דבורנית שחומה"
+            ],
+          "maps_query_location": "Beer HaArba'im"
+        },
+          {
+          "location_name": "כרמל",
+           "flowers": [
+              "דבורנית שחומה"
+            ],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "05/01/2022",
+      "observer": null,
+       "original_text":"ומוליאות רקפות  ונרקיסים בכרמל, בגבעת העיזית ליד חיפה",
+      "locations": [
+       {
+         "location_name": "כרמל",
+         "flowers": [
+           "רמוליאה צידונית",
+           "רקפת",
+           "נרקיס"
+          ],
+          "maps_query_location": "Carmel"
+        },
+        {
+         "location_name":"גבעת העיזית",
+         "flowers":[
+          "רמוליאה צידונית",
+          "רקפת",
+          "נרקיס"
+         ],
+          "maps_query_location": "Givat Ha'ezit"
+        },
+          {
+         "location_name":"חיפה",
+          "flowers":[
+          "רמוליאה צידונית",
+          "רקפת",
+          "נרקיס"
+         ],
+         "maps_query_location": "Haifa"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2022",
+      "observer": null,
+       "original_text": "כלניות בשלל צבעים ,כרכום חורפי, דודא רפואי, חיננית הבתה , פטריות ועוד",
+      "locations": [
+        {
+          "location_name": "יערות מנשה",
+          "flowers": [
+            "כלנית",
+            "כרכום חורפי",
+            "דודא רפואי",
+            "חיננית הבתה"
+          ],
+            "maps_query_location": "Menashe Forests"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2022",
+      "observer": "יחזקאל רבינוביץ",
+       "original_text":"למרגלות המצפה ביישוב כמון פורח נץ חלב איזמלני (אולי אני טועה וזה נץ חלב הררי)",
+      "locations": [
+         {
+          "location_name": "כמון",
+          "flowers": [
+            "נץ חלב איזמלני",
+            "נץ חלב הררי"
+          ],
+           "maps_query_location": "Kamon"
+        }
+      ]
+    },
+      {
+      "date": "05/01/2022",
+      "observer": "מרדכי ליברמן",
+       "original_text":"פרט בודד של איריס ארץ ישראלי בכביש המוליך לכניסה לחורשת הארבעים בכרמל אתמול 4.1.2022",
+        "locations": [
+          {
+            "location_name": "חורשת הארבעים",
+            "flowers": [
+              "איריס ארץ ישראלי"
+             ],
+            "maps_query_location": "Horeshat Ha'Arba'im"
+          },
+           {
+            "location_name": "כרמל",
+            "flowers": [
+              "איריס ארץ ישראלי"
+             ],
+            "maps_query_location": "Carmel"
+          }
+        ]
+    },
+     {
+      "date": "03/01/2022",
+      "observer": "דנה רוזינר",
+      "original_text":"פריחת נרקיסים באחו נוב. עוד לא השיא",
+        "locations": [
+          {
+            "location_name": "אחו נוב",
+             "flowers": [
+               "נרקיס"
+             ],
+            "maps_query_location": "Ahuzat Nov"
+          }
+        ]
+    }
+  ]
+}
+```

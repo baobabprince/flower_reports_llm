@@ -1,0 +1,307 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/03/2017",
+      "observer": null,
+      "original_text": "ביער שליד כפר מלכישוע קיימות כמויות גדולות של אירוס הגלבוע.",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+          "maps_query_location": "Malkishua"
+        }
+      ]
+    },
+    {
+      "date": "25/03/2017",
+      "observer": null,
+      "original_text": "כמויות גדולות של אירוס נצרתי ביער הר יונה, כמו כן יש מצבעוני ההרים, אירוס אחה\"צ ורקפות.",
+      "locations": [
+        {
+          "location_name": "הר יונה",
+          "flowers": [
+            "אירוס נצרתי",
+            "צבעוני ההרים",
+            "אירוס אחה\"צ",
+            "רקפת"
+          ],
+           "maps_query_location": "Har Yona"
+        }
+      ]
+    },
+        {
+      "date": "24/03/2017",
+      "observer": "מאיה שתיל",
+      "original_text": "פריחה בשמורת אירוס ירוחם : אירוס ירוחם בשיא הפריחה . פרטים בודדים של כחלית ההרים ושל צבעוני המדבר , וכן מקור חסידה שעיר , צמר מפוצל , חלמית גדולה ונורית אסיה . באנדרטת חטיבת הנגב אירוס שחום בשיא הפריחה וכן שמשון הדור , שמשון סגלגל צבעוני המדבר ומרווה צמירה . שמורת להב צפון : אירוס שחום בשיא הפריחה , מרווה ריחנית , לשון פר סמורה , לשון כלב כרתית וכמויות עצומות של עירית גדולה בשיא פריחה .",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+          "flowers": [
+            "אירוס ירוחם",
+            "כחלית ההרים",
+            "צבעוני המדבר",
+            "מקור חסידה שעיר",
+              "צמר מפוצל",
+              "חלמית גדולה",
+              "נורית אסיה"
+          ],
+          "maps_query_location": "Yeruham Iris Reserve"
+        },
+        {
+          "location_name": "אנדרטת חטיבת הנגב",
+           "flowers": [
+            "אירוס שחום",
+               "שמשון הדור",
+              "שמשון סגלגל",
+              "צבעוני המדבר",
+               "מרווה צמירה"
+          ],
+            "maps_query_location": "Negev Brigade Memorial"
+        },
+         {
+          "location_name": "שמורת להב צפון",
+            "flowers": [
+            "אירוס שחום",
+              "מרווה ריחנית",
+                "לשון פר סמורה",
+               "לשון כלב כרתית",
+               "עירית גדולה"
+          ],
+           "maps_query_location": "Lahav North Reserve"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2017",
+      "observer": null,
+      "original_text": "איריס הביצות פורח באחו נוב",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "איריס הביצות"
+          ],
+          "maps_query_location": "Ahau Nov"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2017",
+       "observer": "חנוך גלר",
+      "original_text": "בהר יונה האירוס והצבעונים בשיאם",
+      "locations": [
+        {
+          "location_name": "הר יונה",
+          "flowers": [
+            "אירוס נצרתי",
+            "צבעוני"
+          ],
+           "maps_query_location": "Har Yona"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2017",
+      "observer": null,
+      "original_text": "איריס הגלבוע: בבקעה ובגולן,  בגלבוע ובמלכישוע איריס נצרתי: בגבעת המורה ובהר יונה איריס הגולן בנחל אל-על, צומת המפלים ובקבר אבו מרזוק איריס שחום : באנדרטת הנגב ליד תל ערד איריס  ארם נהריים בחרמון וליד קברים בבתי קברות ערבים צהרון בכל רחבי הארץ מהצהריים איריס  הנגב: רביבים ותל יצחק לקראת סוף איריס ירוחם :  בשמורת הטבע ירוחם",
+      "locations": [
+        {
+          "location_name": "בקעה",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+            "maps_query_location": "בקעה"
+        },
+         {
+          "location_name": "גולן",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+           "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name": "הגלבוע",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+          "maps_query_location":"Gilboa"
+        },
+        {
+          "location_name": "מלכישוע",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+            "maps_query_location": "Malkishua"
+        },
+        {
+           "location_name": "גבעת המורה",
+           "flowers": [
+             "אירוס נצרתי"
+           ],
+           "maps_query_location": "Giv'at HaMoreh"
+        },
+         {
+          "location_name": "הר יונה",
+          "flowers": [
+            "אירוס נצרתי"
+          ],
+           "maps_query_location": "Har Yona"
+        },
+        {
+          "location_name": "נחל אל-על",
+          "flowers": [
+            "איריס הגולן"
+          ],
+             "maps_query_location":"Nahal El Al"
+        },
+        {
+          "location_name": "צומת המפלים",
+          "flowers": [
+             "איריס הגולן"
+           ],
+           "maps_query_location": "Tzomet Hamifalim"
+        },
+        {
+          "location_name": "קבר אבו מרזוק",
+          "flowers": [
+            "איריס הגולן"
+          ],
+            "maps_query_location": "Kever Abu Marzuk"
+        },
+         {
+          "location_name": "אנדרטת הנגב",
+           "flowers": [
+            "אירוס שחום"
+          ],
+            "maps_query_location": "Negev Brigade Memorial"
+        },
+          {
+          "location_name": "תל ערד",
+          "flowers": [
+            "אירוס שחום"
+          ],
+          "maps_query_location":"Tel Arad"
+        },
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "אירוס ארם נהריים"
+          ],
+          "maps_query_location":"Hermon"
+        },
+        {
+           "location_name": "בתי קברות ערבים",
+            "flowers": [
+            "אירוס ארם נהריים"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "רביבים",
+          "flowers": [
+            "איריס הנגב"
+          ],
+          "maps_query_location": "Revivim"
+        },
+         {
+          "location_name": "תל יצחק",
+          "flowers": [
+            "איריס הנגב"
+          ],
+           "maps_query_location": "Tel Yitzhak"
+        },
+         {
+          "location_name": "שמורת הטבע ירוחם",
+          "flowers": [
+            "איריס ירוחם"
+          ],
+           "maps_query_location": "Yeruham Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2017",
+      "observer": null,
+      "original_text": "בתבור, בתל קריות , ובגלבוע",
+      "locations": [
+        {
+          "location_name": "תבור",
+          "flowers": [
+             "גביעונית הלבנון"
+          ],
+          "maps_query_location": "Mount Tabor"
+        },
+           {
+          "location_name": "תל קריות",
+          "flowers": [
+              "גביעונית הלבנון"
+          ],
+          "maps_query_location": "Tel Keriot"
+        },
+           {
+          "location_name": "הגלבוע",
+             "flowers": [
+               "גביעונית הלבנון"
+           ],
+           "maps_query_location":"Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2017",
+       "observer": null,
+      "original_text": "פורח בהרודיון",
+      "locations": [
+        {
+          "location_name": "הרודיון",
+          "flowers": [
+            "בן פרג סגול"
+          ],
+          "maps_query_location":"Herodion"
+        }
+      ]
+    },
+    {
+      "date": "22/03/2017",
+       "observer": "נריה",
+      "original_text": "ארוס הגולן פורח בשיא הכח יש כמות יפה בצומת במפלים לכוון בריכת הארוסים.נצפו בתאריך 21/3/17",
+      "locations": [
+         {
+          "location_name": "צומת המפלים",
+          "flowers": [
+            "אירוס הגולן"
+          ],
+            "maps_query_location": "Tzomet Hamifalim"
+        },
+        {
+           "location_name":"בריכת הארוסים",
+           "flowers": [
+                "אירוס הגולן"
+            ],
+            "maps_query_location": "Breichat HaIrusim"
+         }
+      ]
+    },
+        {
+      "date": "22/03/2017",
+       "observer": "נעמי דגוני",
+      "original_text": "ביער קולה סחלבים : שפתן , פרפרני, דבורנית נאה  עדיין יש צבעונים.. נכון ל21.3",
+      "locations": [
+        {
+          "location_name": "יער קולה",
+          "flowers": [
+            "שפתן",
+            "פרפרני",
+            "דבורנית נאה",
+            "צבעוני"
+          ],
+          "maps_query_location": "Kula Forest"
+        }
+      ]
+    }
+  ]
+}
+```

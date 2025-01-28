@@ -1,0 +1,211 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/09/2023",
+      "observer": null,
+      "original_text": "פורחים לצידי ובפס ההפרדה בכביש 6, סעו ותהנו",
+       "locations": [
+        {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+          "maps_query_location": "Highway 6, Israel"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2023",
+      "observer": null,
+      "original_text": "אפזרית מלוחה ,  חצב גלוני , סמר ערבי, עוננן נימי , ערבז משובל",
+      "locations": [
+        {
+          "location_name": "נחל הבשור",
+          "flowers": ["אפזרית מלוחה", "חצב גלוני", "סמר ערבי", "עוננן נימי", "ערבז משובל"],
+           "maps_query_location": "Nahal HaBesor"
+        }
+      ]
+    },
+     {
+      "date": "10/09/2023",
+      "observer": null,
+      "original_text": "אטד אדומי , מלוח מילר, פרעושית גלונית , קרקש צהוב  (פרי)",
+       "locations": [
+        {
+           "location_name": "חניון הרועה",
+          "flowers": ["אטד אדומי", "מלוח מילר", "פרעושית גלונית", "קרקש צהוב"],
+          "maps_query_location": "Hanyon Haro'eh"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2023",
+      "observer": null,
+      "original_text": "חבצלת הנגב וחצב גלוני - התחלת פריחה בהחלט",
+        "locations": [
+        {
+         "location_name": "חולות ממשית",
+          "flowers": ["חבצלת הנגב", "חצב גלוני"],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2023",
+      "observer": null,
+       "original_text": "בתל מבורך",
+        "locations": [
+        {
+          "location_name": "תל מבורך",
+           "flowers": ["חצב"],
+           "maps_query_location": "Tel Mevorakh"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2023",
+      "observer": "אופיר טל",
+       "original_text": "סיבוב ארוך באתרי הפריחה מעלה את התמונה העגומה הבאה:\nגבעת התנ\"ך - פרט בודד וראשית התחלה של פריחה בצד המזרחי.\nמורדות ארמון הנציב - עוד לא התחיל.\nגבעת הארבעה - בודדים והתחלת פריחה.\nגבעת המטוס - התחלת פריחה (אולי אחרונה בהתחשב בעבודות הבנייה).\nעמק המצלבה - כמעט כלום.",
+        "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+           "flowers": ["חצב"],
+          "maps_query_location": "Givat HaTanakh, Jerusalem"
+        },
+        {
+          "location_name": "מורדות ארמון הנציב",
+          "flowers": ["חצב"],
+          "maps_query_location": "Armon Hanatziv Promenade, Jerusalem"
+        },
+         {
+          "location_name": "גבעת הארבעה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Givat HaArba'a, Jerusalem"
+        },
+        {
+          "location_name": "גבעת המטוס",
+          "flowers": ["חצב"],
+          "maps_query_location": "Givat Hamatos, Jerusalem"
+        },
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Emek HaMatzleva, Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2023",
+      "observer": "שמשון ולוטקר",
+       "original_text": "גלדן מוארך נחשב לנכחד בשרון (כך מצוין בערך שלו באתר האדום). לאחרונה מצא שמשון ולוטקר ריכוז נאה של כמה עשרות פרטים בגן הלאומי נחל אלכסנדר. דרור מלמד ואנוכי ביקרנו שם היום והתפעלנו",
+       "locations": [
+        {
+          "location_name": "השרון",
+          "flowers": ["גלדן מוארך"],
+           "maps_query_location": "Sharon region"
+        },
+         {
+           "location_name": "גן לאומי נחל אלכסנדר",
+           "flowers": ["גלדן מוארך"],
+           "maps_query_location": "Nahal Alexander National Park"
+        }
+      ]
+    },
+    {
+      "date": "27/08/2023",
+      "observer": null,
+      "original_text": "אתר הנצחה לחללי סיירת אגוז נבי חזור, בנווה צוף, בשביל הפסלים ביער צרעה, בקרני שומרון, החלה פריחת החצבים בתל ידפת, ביער קפלן , בשלולית החורף בנתניה , בשמורת פולג, בנווה צוף, במושב גמזו, בבריכת חורף עין שריד, בבית העלמין ביד חנה, בית הקברות המוסלמי כפר סבא מזרח, בשמורת פולג",
+       "locations": [
+        {
+          "location_name": "נבי חזור",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nabi Hazur"
+        },
+        {
+          "location_name": "נווה צוף",
+          "flowers": ["חצב"],
+          "maps_query_location": "Neve Tzuf"
+        },
+         {
+          "location_name": "יער צרעה",
+          "flowers": ["חצב"],
+           "maps_query_location":"Tzora Forest"
+        },
+         {
+           "location_name": "קרני שומרון",
+           "flowers": ["חצב"],
+           "maps_query_location": "Karnei Shomron"
+        },
+        {
+         "location_name": "תל ידפת",
+          "flowers": ["חצב"],
+           "maps_query_location": "Tel Yodfat"
+        },
+        {
+           "location_name": "יער קפלן",
+           "flowers": ["חצב"],
+           "maps_query_location": "Kaplan Forest"
+        },
+        {
+           "location_name": "נתניה",
+            "flowers": ["חצב"],
+            "maps_query_location": "Netanya"
+        },
+       {
+          "location_name": "שמורת פולג",
+          "flowers": ["חצב"],
+           "maps_query_location":"Poleg Nature Reserve"
+        },
+         {
+          "location_name": "מושב גמזו",
+           "flowers": ["חצב"],
+           "maps_query_location": "Gimzo"
+        },
+        {
+          "location_name":"עין שריד",
+          "flowers": ["חצב"],
+          "maps_query_location": "Ein Sarid"
+         },
+         {
+           "location_name": "יד חנה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Yad Hana"
+         },
+         {
+            "location_name":"כפר סבא מזרח",
+            "flowers": ["חצב"],
+            "maps_query_location": "Kfar Saba"
+          }
+       ]
+    },
+    {
+      "date": "27/08/2023",
+      "observer": null,
+      "original_text": "התחלת פריחת החצב הגלוני וניצנים רבים בדרך הבשור בנגב המערבי",
+       "locations": [
+         {
+           "location_name":"דרך הבשור",
+           "flowers": ["חצב גלוני"],
+            "maps_query_location": "Derech HaBesor"
+        },
+         {
+          "location_name":"הנגב המערבי",
+          "flowers": ["חצב גלוני"],
+            "maps_query_location":"Western Negev"
+         }
+      ]
+    },
+    {
+      "date": "27/08/2023",
+      "observer": null,
+      "original_text": "באנדרטת חטיבת הנגב באר-שבע",
+       "locations": [
+        {
+          "location_name": "באר שבע",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Beersheba"
+        }
+      ]
+    }
+  ]
+}
+```

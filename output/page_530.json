@@ -1,0 +1,137 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/02/2015",
+      "observer": null,
+      "original_text": "המונ יכלניות בשיא פריחה,  מרווה דגולה, מרווה ריחנית, אלקנה סמורה, שמשון הדור בעיקר ורוד ועוד.",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": [
+            "כלנית",
+            "מרווה דגולה",
+            "מרווה ריחנית",
+            "אלקנה סמורה",
+            "שמשון הדור"
+           ],
+           "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2015",
+       "observer": "אורי רוזנברג",
+      "original_text": "בבלוג נושנות של אורי רוזנברג - ראו קישור",
+       "locations": [],
+      "flowers": []
+    },
+    {
+      "date": "03/02/2015",
+      "observer": null,
+      "original_text": "מדהים אבל אחרי השיא. מי שרוצה להגיע מחר או מחרתיים מוקדם בבוקר.",
+      "locations": [
+        {
+          "location_name": "שוקדה",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Shokeda"
+        }
+      ]
+     },
+     {
+      "date": "03/02/2015",
+      "observer": null,
+      "original_text": "פריחת הרקפות ביער טל שחר בעיצומה - מומלץ!!!{",
+      "locations": [
+        {
+           "location_name": "טל שחר",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Tal Shachar"
+        }
+      ]
+     },
+    {
+      "date": "03/02/2015",
+      "observer": null,
+      "original_text": "בפארק אלונה עי' מושב עמיקם .כבר פורחים ביכורי סחלבים",
+      "locations": [
+        {
+          "location_name": "פארק אלונה",
+          "flowers": ["דבורנית שחומה", "סחלב"],
+           "maps_query_location": "Alona Park"
+        },
+        {
+           "location_name": "עמיקם",
+           "flowers": ["דבורנית שחומה", "סחלב"],
+           "maps_query_location": "Amikam"
+         }
+      ]
+    },
+    {
+      "date": "01/02/2015",
+      "observer": null,
+      "original_text": "בוצין מזרחי , צמרורת בואסיה וצמחים בים מיוחדים אחרים - ראו בקישור  המצורף",
+      "locations": [
+        {
+           "location_name": "נחל תלכיד",
+           "flowers": ["בוצין מזרחי", "צמרורת בואסיה"],
+           "maps_query_location": "Nahal Tahlid"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2015",
+      "observer": "איתי צמח",
+      "original_text": "בין מרבדי הכלניות האדומות המרהיבים מתחבאות זוג כלניות ורודות יפיפיות. המעוניינים יכולים לתור אחריהן בכניסה לשמורה בשיא גובה",
+      "locations": [
+         {
+           "location_name": "שמורת פורה",
+           "flowers": ["כלנית אדומה", "כלנית ורודה"],
+           "maps_query_location": "Pura Nature Reserve"
+         }
+      ]
+    },
+    {
+      "date": "31/01/2015",
+      "observer": "גיורא פנחסי",
+      "original_text": "הרבה תורמוס ארצישראלי (והמון ניצנים) בשוליים הדרומיות של \"גבעת הכלניות\", סמוך ל\"הר הזבל\" הישן שבדרום הוד-השרון. נכנסים ב\"דרך-הים\" ונוסעים ישר/מערבה - בהתחלה זה כביש, אח\"כ דרך עפר.",
+      "locations": [
+        {
+          "location_name": "הוד השרון",
+          "flowers": ["תורמוס ארצישראלי"],
+          "maps_query_location":"Hod Hasharon"
+        }
+       ]
+    },
+    {
+      "date": "31/01/2015",
+      "observer": "גיורא פנחסי",
+       "original_text": "אירוסים ראשונים, מרהיבים, בשולי \"שביל האירוסים\" שביער אילנות. יוצאים מהשער האחורי/מזרחי של מתחם קק\"ל (הארבורטום), עוקבים אחרי סימון שבילים כחול, עוצרים ומחפשים (בזהירות...) בסביבת הכוורת.",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["אירוס הארגמן"],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2015",
+      "observer": null,
+      "original_text": "מרבדי כלניות, ציפורני חתול מצויות, איריס ארצישראלי , רקפות שקד מצוי בפריחה  ועוד.",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["כלנית", "ציפורני חתול מצויה", "איריס ארצישראלי", "רקפת", "שקד מצוי"],
+           "maps_query_location": "Ben Shemen Forest"
+        },
+          {
+           "location_name": "בוסתני גמזו",
+           "flowers": ["כלנית", "ציפורני חתול מצויה", "איריס ארצישראלי", "רקפת", "שקד מצוי"],
+           "maps_query_location":"Gimzo"
+         }
+      ]
+    }
+  ]
+}
+```

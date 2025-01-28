@@ -1,0 +1,235 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/12/2020",
+      "observer": "חוה גליקשטיין",
+      "original_text": "השנה פעם ראשונה ראיתי פריחת כליל חורש בעץ בגינת הבנין הציונות ירושליים.  ראיתי דיווח על פריחת חורף כזאת גם בעץ בהר גילה  השנה אבל לפני כחודש.",
+      "locations": [
+        {
+          "location_name": "גינת הבנין הציונות",
+          "flowers": [
+            "כליל החורש"
+           ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "הר גילה",
+          "flowers": [
+            "כליל החורש"
+          ],
+           "maps_query_location": "Har Gilo"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2020",
+       "observer": null,
+      "original_text":"עם מטיילי יום ד' 9.12.20",
+      "locations": [
+        {
+          "location_name": "חוף הכרמל",
+          "flowers": [],
+           "maps_query_location": "Hof HaCarmel"
+        },
+        {
+          "location_name": "קרן הכרמל",
+          "flowers": [],
+           "maps_query_location":"Keren HaCarmel"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2020",
+      "observer": "רענן חורש",
+      "original_text": "באזור מעלה החמישה - נטף, בדרך העפר העולה לפסגת חרבת בית תול , ממש קרוב לפסגת התל, יש מקבץ יפה של נרקסים בפריחה.",
+      "locations": [
+        {
+          "location_name": "מעלה החמישה",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Ma'ale HaHamisha"
+        },
+        {
+          "location_name": "נטף",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Nataf"
+        },
+        {
+         "location_name": "חרבת בית תול",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "11/12/2020",
+      "observer": "צחי שרף",
+      "original_text": "תחילת פריחת הנרקיסים באח נוב",
+       "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "10/12/2020",
+       "observer": null,
+      "original_text": "תחילת פריחה, כקילומטר מתחילת המסלול הכחול",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2020",
+      "observer": "דוד פורת",
+     "original_text": "מי יעשה סדר בפריחת ציפורנית איטלקית (?) ומועדה כעת סמוך לשביל החלמוניות (אשר מהן, החלמוניות, מאות מאות פורחות בחלקים החשופים יותר, ראש מדרון מפנה דרומי נחל מחניים) יער ביריה גליל עליון מזרחי מעל חצור הגלילית – אונות כותרת כל לבן, ללא ציור ו/או עורקים צבעוניים כלשהם ??  \nכמו כן אחילוף הגליל עשרות עשרות בפריחה מרשימה בחלקים הקרחים  בנחל התכלת צפת.  בברכה דוד פורת אפיקים  06.12.20",
+      "locations": [
+       {
+          "location_name": "שביל החלמוניות",
+          "flowers": [
+            "ציפורנית איטלקית",
+            "חלמונית"
+          ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "נחל מחניים",
+          "flowers": [
+            "ציפורנית איטלקית",
+            "חלמונית"
+          ],
+           "maps_query_location": "Nahal Mahanayim"
+        },
+         {
+          "location_name": "יער ביריה",
+           "flowers": [
+            "ציפורנית איטלקית",
+            "חלמונית"
+            ],
+           "maps_query_location": "Ya'ar Biriya"
+        },
+         {
+          "location_name": "חצור הגלילית",
+          "flowers": [
+             "ציפורנית איטלקית",
+            "חלמונית"
+           ],
+            "maps_query_location":"Hatzor HaGlilit"
+        },
+         {
+           "location_name": "אחילוף הגליל",
+           "flowers": [
+            "אחילוף"
+            ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "נחל התכלת",
+          "flowers": [
+            "אחילוף"
+           ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "צפת",
+          "flowers": [
+             "אחילוף"
+           ],
+            "maps_query_location": "Tzfat"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2020",
+      "observer": "קפלינסקי יפה",
+      "original_text": "נרקיסים כרכומים ופירות של מלוח קטן פרחים בצומת מחנה שמשון",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+           "flowers": [
+            "נרקיס",
+            "כרכום",
+             "מלוח קטן"
+           ],
+           "maps_query_location": "Ya'ar Beit Keshet"
+        },
+         {
+          "location_name": "צומת מחנה שמשון",
+           "flowers": [
+            "נרקיס",
+            "כרכום",
+            "מלוח קטן"
+           ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "08/12/2020",
+       "observer": null,
+      "original_text": "במצוק מול ביתר - אתר חדש",
+        "locations": [
+        {
+          "location_name": "ביתר",
+          "flowers": [
+            "אצבוע אירופי"
+           ],
+           "maps_query_location":"Betar Illit"
+        }
+      ]
+    },
+    {
+      "date": "07/12/2020",
+      "observer": "אורלי אורדן",
+       "original_text":"צועדים מחניון החלמוניות של יער ביריה כלפי מטה ועולים על שביל סימון אדום בצד שמאל של הכביש. צועדים מעל הגדה הצפונית של הקניון. כל המדרון פורח  עם מאות חלמוניות",
+     "locations": [
+         {
+          "location_name": "חניון החלמוניות",
+          "flowers": [
+            "חלמונית"
+           ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "יער ביריה",
+           "flowers": [
+             "חלמונית"
+            ],
+           "maps_query_location": "Ya'ar Biriya"
+        }
+      ]
+    },
+    {
+      "date": "07/12/2020",
+      "observer": "אריה אורנן",
+      "original_text": "פריחת כרכומים וסתווניות לאורך השביל האדום בסינגל כפר החורש.",
+      "locations": [
+        {
+          "location_name": "כפר החורש",
+          "flowers": [
+            "כרכום",
+            "סתוונית"
+           ],
+           "maps_query_location":"Kfar HaHoresh"
+        }
+      ]
+    }
+  ]
+}
+```

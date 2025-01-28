@@ -1,0 +1,216 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/11/2009",
+      "observer": null,
+      "original_text": "כרכום חרמוני, כרכום נאה, סיתוונית החרמון, זקן תיש צהוב ונפיות שהתבלבלו",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "כרכום חרמוני",
+            "כרכום נאה",
+            "סיתוונית החרמון",
+              "זקן תיש צהוב",
+              "נפיות"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2009",
+      "observer": null,
+      "original_text": "ליד הישוב כחל",
+      "locations": [
+        {
+          "location_name": "כחל",
+          "flowers": [
+            "חלמונית זעירה"
+          ],
+           "maps_query_location": "Kahal"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2009",
+      "observer": null,
+      "original_text": "בנחל תנינים ובבית חנניה",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+          "flowers": [
+            "נרקיס אפיל"
+          ],
+           "maps_query_location": "Nahal Taninim"
+        },
+        {
+          "location_name": "בית חנניה",
+           "flowers": [
+            "נרקיס אפיל"
+          ],
+           "maps_query_location": "Beit Hananya"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2009",
+       "observer": null,
+      "original_text": "המון פרטים פורחים של חלמונית זעירה בגליל התחתון בתחילת נחל כמון",
+       "locations": [
+        {
+          "location_name": "גליל התחתון",
+          "flowers": [
+            "חלמונית זעירה"
+          ],
+           "maps_query_location": "Lower Galilee"
+         },
+         {
+           "location_name": "נחל כמון",
+           "flowers": [
+             "חלמונית זעירה"
+           ],
+           "maps_query_location": "Nahal Kamon"
+         }
+       ]
+    },
+    {
+      "date": "07/11/2009",
+      "observer": "אלישע פורת",
+      "original_text": "על הדשאים הזנוחים בעין החורש, עמק חפר, פורחים טלאים כחלחלים של כדן קטן פרחים - הלא הם פעמוני הגשם! מקסים!",
+      "locations": [
+        {
+          "location_name": "עין החורש",
+          "flowers": [
+            "כדן קטן פרחים"
+          ],
+           "maps_query_location": "Ein HaHoresh"
+        },
+        {
+          "location_name": "עמק חפר",
+          "flowers": [
+            "כדן קטן פרחים"
+          ],
+          "maps_query_location": "Hefer Valley"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2009",
+      "observer": "מיכל אביגדור",
+       "original_text": "ברמת הנדיב, באיזור עין צור פורחים: סיתוונית, כדן, בן חצב ובאותו מקום בחירבת עקב, פורחות גם רקפות.",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+            "סיתוונית",
+            "כדן",
+             "בן חצב"
+          ],
+           "maps_query_location": "Ramat Hanadiv"
+        },
+        {
+          "location_name": "עין צור",
+           "flowers": [
+            "סיתוונית",
+            "כדן",
+             "בן חצב"
+          ],
+           "maps_query_location": "Ein Tzur"
+        },
+         {
+          "location_name": "חירבת עקב",
+          "flowers": [
+            "רקפת"
+           ],
+           "maps_query_location": "Khirbet Ekev"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2009",
+      "observer": "עירית",
+      "original_text": "בתל יודפת ובהר עצמון מרבדים של סתווניות היורה. נראו גם בן חצב סתווני וכדן.",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+            "flowers": [
+            "סתוונית היורה",
+             "בן חצב סתווני",
+              "כדן"
+          ],
+           "maps_query_location":"Tel Yodfat"
+        },
+        {
+          "location_name": "הר עצמון",
+            "flowers": [
+            "סתוונית היורה",
+             "בן חצב סתווני",
+              "כדן"
+          ],
+           "maps_query_location":"Har Atzmon"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2009",
+      "observer": "עמיר פז",
+       "original_text": "חוטמית זיפנית,עדעד רותמי,אחילוף החורן+הגליל,סתוונית התשבץ+היורה,כדן קטן פרחים,בוצין סיני,מוריקה מבריקה, ועולש מצוי פורחים בגני",
+      "locations": [
+        {
+          "location_name": "גני",
+           "flowers": [
+            "חוטמית זיפנית",
+             "עדעד רותמי",
+              "אחילוף החורן",
+               "אחילוף הגליל",
+            "סתוונית התשבץ",
+             "סתוונית היורה",
+             "כדן קטן פרחים",
+            "בוצין סיני",
+            "מוריקה מבריקה",
+             "עולש מצוי"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+        {
+      "date": "02/11/2009",
+      "observer": "אורי ניסני",
+        "original_text":"ב- 31/10/2009: פריחת סתוונית התשבץ בהר חזק ברכס בשנית. הפריחה לקראת סיום.",
+       "locations": [
+        {
+           "location_name": "הר חזק",
+            "flowers": [
+            "סתוונית התשבץ"
+           ],
+           "maps_query_location": "Har Hazak"
+        },
+        {
+          "location_name": "רכס בשנית",
+            "flowers": [
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location":"Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2009",
+      "observer": null,
+      "original_text": "בשיא פריחה בנחל עמוד",
+      "locations": [
+        {
+          "location_name": "נחל עמוד",
+          "flowers": [
+            "צפורן משתלשל"
+          ],
+           "maps_query_location":"Nahal Amud"
+        }
+      ]
+    }
+  ]
+}
+```

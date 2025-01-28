@@ -1,0 +1,159 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/09/2016",
+      "observer": null,
+      "original_text": "מלפפון משולש החל לעשות פירות בבריכות קיבוץ העוגן",
+      "locations": [
+        {
+          "location_name": "קיבוץ העוגן",
+          "flowers": [
+            "מלפפון משולש"
+          ],
+          "maps_query_location": "HaOgen"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2016",
+      "observer": "נועם עביצל",
+      "original_text": "נטופית רפואית נמצאה מחדש באחו בנימינה ע\"י נועם עביצל ואביו  שכבר מצאו שם עוד מציאות.",
+       "locations": [
+         {
+          "location_name": "אחו בנימינה",
+          "flowers": [
+            "נטופית רפואית"
+          ],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2016",
+      "observer": null,
+      "original_text": "בשביל הפיסגה בהר מירון",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+            "סיתוונית בכירה"
+          ],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "07/09/2016",
+      "observer": null,
+      "original_text": "פורחת ליד ממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2016",
+      "observer": null,
+        "original_text": "הררים של חצבים , אלפים... פורחים בתל יודפת , ובתל דור",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Tel Yodfat"
+        },
+        {
+          "location_name": "תל דור",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    },
+     {
+      "date": "04/09/2016",
+      "observer": null,
+      "original_text": "באזור מושב גמזו ו(בכניס הלמושב וגם באזור הכרמים, ביער בן-שמן פריחה יפה של חצבים",
+      "locations": [
+        {
+          "location_name": "מושב גמזו",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Gimzo"
+        },
+         {
+          "location_name": "יער בן-שמן",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+     {
+      "date": "02/09/2016",
+      "observer": null,
+      "original_text": "ריכוזי חצבים בשיא הפריחה מתחת למצפה צרעה ובעליה לדרך נוף צרעה.",
+      "locations": [
+        {
+          "location_name": "מצפה צרעה",
+           "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Mitzpe Zora"
+        },
+         {
+          "location_name": "דרך נוף צרעה",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Derech Nof Zora"
+        }
+      ]
+    },
+       {
+      "date": "01/09/2016",
+      "observer": null,
+      "original_text": "צמחי היבשה - 403,911 מינים\n מהם, צמחי רקמת ההובלה - 383,671 מינים\n מהם, צמחי הזרעים - 370,492 מינים\nמהם, צמחי הפרחים - 369,434 מינים",
+      "locations": []
+    },
+     {
+      "date": "01/09/2016",
+      "observer": null,
+      "original_text": "בנחל חזורי",
+      "locations": [
+        {
+          "location_name": "נחל חזורי",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+          "maps_query_location": "Nahal Hazuri"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2016",
+      "observer": null,
+      "original_text": "המסלול הכחול בגינת הצבעים",
+      "locations": [
+         {
+          "location_name": "נאות קדומים",
+          "flowers": [
+            "כופר"
+          ],
+          "maps_query_location":"Neot Kedumim"
+        }
+      ]
+    }
+  ]
+}
+```

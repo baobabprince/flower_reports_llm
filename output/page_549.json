@@ -1,0 +1,190 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : חבצלת קטנת פרחים + החוף , חצב גלוני ( מגיע לגובה של 70 ס\"מ ) , נימפיה תכולה , פרע ריחני , שום סתווי , קוצן קפח , אזובית המדבר , פשטה שרועה , חצב מצוי ( עוד יומיים ) , געדת הסלעים ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "חבצלת קטנת פרחים",
+            "חבצלת החוף",
+            "חצב גלוני",
+            "נימפיה תכולה",
+             "פרע ריחני",
+             "שום סתווי",
+             "קוצן קפח",
+            "אזובית המדבר",
+            "פשטה שרועה",
+            "חצב מצוי",
+            "געדת הסלעים"
+          ],
+          "maps_query_location": "גן איריס"
+        },
+          {
+          "location_name": "גן בוטני",
+          "flowers": [
+             "חבצלת קטנת פרחים",
+            "חבצלת החוף",
+            "חצב גלוני",
+            "נימפיה תכולה",
+             "פרע ריחני",
+             "שום סתווי",
+             "קוצן קפח",
+            "אזובית המדבר",
+            "פשטה שרועה",
+            "חצב מצוי",
+            "געדת הסלעים"
+          ],
+          "maps_query_location": "גן בוטני"
+        },
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "חבצלת קטנת פרחים",
+            "חבצלת החוף",
+            "חצב גלוני",
+            "נימפיה תכולה",
+             "פרע ריחני",
+             "שום סתווי",
+             "קוצן קפח",
+            "אזובית המדבר",
+            "פשטה שרועה",
+            "חצב מצוי",
+            "געדת הסלעים"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2014",
+      "observer": null,
+      "original_text": "בכל שנה המראה מיוחד במינו, הפריחה עדיין לא בשיא .",
+        "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Tel Yodfat"
+         }
+       ]
+    },
+    {
+      "date": "08/09/2014",
+      "observer": null,
+      "original_text": "ברחבי הארץ  במקומות המוכרים",
+      "locations": [
+        {
+          "location_name": "ברחבי הארץ",
+          "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "Israel"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2014",
+      "observer": null,
+      "original_text": "נענת המים,בן חצב סתווני,חצב מצוי,חבצלת החוף,גומא הירקון,בוציץ סוככני,וישרוע מאוגד פורחים בגן",
+       "locations": [
+         {
+           "location_name": "גן בוטני געש",
+            "flowers": [
+              "נענת המים",
+              "בן חצב סתווני",
+              "חצב מצוי",
+              "חבצלת החוף",
+              "גומא הירקון",
+              "בוציץ סוככני",
+              "וישרוע מאוגד"
+            ],
+           "maps_query_location": "Ga'ash"
+         }
+      ]
+    },
+     {
+      "date": "05/09/2014",
+      "observer": null,
+      "original_text": "פורחת בבריכת יער",
+      "locations": [
+        {
+          "location_name": "בריכת יער",
+           "flowers": ["עטיינית עטופה"],
+           "maps_query_location": "בריכת יער"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2014",
+      "observer": null,
+      "original_text": "פורח באגם הנעלם ליד תלמי אלעזר",
+       "locations": [
+        {
+          "location_name": "תלמי אלעזר",
+          "flowers": ["בן חילף הביצות"],
+          "maps_query_location": "Talmei El'azar"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2014",
+      "observer": null,
+      "original_text": "הרבה ניצנים וראשית פריחה.",
+       "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["שום סתווי"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+        {
+      "date": "27/08/2014",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "26/08/2014",
+      "observer": null,
+      "original_text": "בואו לבקר בשמורה - ותהנו מפריחת המוני חצבים בה",
+       "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "23/08/2014",
+      "observer": null,
+      "original_text": "בשדות מושב גמזו , יער בן שמן בגליל, ובמקומות הידועים , ראו קישור",
+      "locations": [
+        {
+          "location_name": "מושב גמזו",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Gimzo"
+        },
+        {
+           "location_name": "יער בן שמן",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Ben Shemen Forest"
+         },
+         {
+          "location_name": "גליל",
+           "flowers": ["חצב מצוי"],
+           "maps_query_location": "Galilee"
+         }
+      ]
+    }
+  ]
+}
+```

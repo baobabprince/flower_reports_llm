@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/12/2021",
+      "observer": "שלומי ריזמן",
+      "original_text": "שיא פריחה של הנרקיסים. בערוץ הואדי. שביל שחור. וגם צפע באורך מטר. פריחה נהדרת",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"] ,
+          "maps_query_location": "Nahal Hatsez"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "במסלול כחול (דרך נוף דרומית): ממערת בני ברית ועד קרוב לגבעת יערים: שפע נרקיסים מצויים, רקפות, ומעט חינניות הבתה. בשביל האדום עירית גדולה בודדת, וגם נרקיסים וכרכומים סמוך לאזור השרוף.",
+      "locations": [
+         {
+          "location_name": "נחל כסלון",
+          "flowers": ["נרקיס מצוי", "רקפת", "חיננית הבתה", "עירית גדולה", "כרכום"],
+          "maps_query_location": "Nahal Ksalon"
+         },
+        {
+          "location_name": "מערת בני ברית",
+            "flowers": ["נרקיס מצוי", "רקפת", "חיננית הבתה"],
+            "maps_query_location": "Me'arat Bnei Brit"
+        },
+         {
+          "location_name": "גבעת יערים",
+          "flowers": ["נרקיס מצוי", "רקפת", "חיננית הבתה"],
+           "maps_query_location": "Givat Yearim"
+        },
+          {
+          "location_name": "אזור השרוף",
+          "flowers": ["נרקיס", "כרכום"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "27/12/2021",
+      "observer": "טובה ודרור בר-ניר",
+       "original_text": "נרקיס מצוי בהמונים, כך גם רקפת מצויה. איריס ארץ-ישראלי, דודא רפואי, כרכום חורפי, כתמה עבת-שורשים. ניצנים של עירית גדולה וחיננית הבתה.",
+      "locations": [
+        {
+           "location_name": "שביל הקיסר",
+           "flowers": ["נרקיס מצוי", "רקפת מצויה", "איריס ארץ-ישראלי", "דודא רפואי", "כרכום חורפי", "כתמה עבת-שורשים", "עירית גדולה", "חיננית הבתה"],
+           "maps_query_location": "Derech HaKeisar"
+        },
+        {
+            "location_name":"חורבת חנות",
+            "flowers": ["נרקיס מצוי", "רקפת מצויה", "איריס ארץ-ישראלי", "דודא רפואי", "כרכום חורפי", "כתמה עבת-שורשים", "עירית גדולה", "חיננית הבתה"],
+            "maps_query_location": "Hurvat Hanut"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2021",
+      "observer": null,
+      "original_text": "איריס הסרגל במקבצים יפים בצבע בהיר",
+       "locations": [
+        {
+          "location_name": "מצפה נפתוח",
+          "flowers": ["איריס הסרגל"],
+          "maps_query_location": "Mitzpe Naftoach"
+        }
+      ]
+    },
+     {
+      "date": "26/12/2021",
+      "observer": "גל מגלי",
+      "original_text": "הפריחה רק התחילה\nהשיא עוד שבועיים\nהגבים יבשים",
+       "locations": [
+        {
+          "location_name": "נחל אשלון",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Eshalon"
+         }
+      ]
+    },
+        {
+      "date": "26/12/2021",
+      "observer": "אורי ז'",
+      "original_text": "בגבעת אבימור מקבצים גדולים של כרכום חורפי וסיתווניות. (ליד נוה שלום)",
+      "locations": [
+        {
+           "location_name": "גבעת אבימור",
+            "flowers": ["כרכום חורפי", "סתוונית"],
+           "maps_query_location": "Givat Avimor"
+        },
+          {
+           "location_name": "נוה שלום",
+           "flowers": ["כרכום חורפי", "סתוונית"],
+            "maps_query_location":"Neve Shalom"
+        }
+      ]
+    },
+     {
+      "date": "25/12/2021",
+       "observer": null,
+      "original_text": "ממשית\nאחילוף זעיר,   איריס הנגב (עלים ראשונים, יפרוק המדבר), סתוונית הנגב , נחל סתוונית\nמוריקה מבריקה,  סתוונית הרמון",
+      "locations": [
+        {
+            "location_name": "ממשית",
+            "flowers": ["אחילוף זעיר",  "איריס הנגב", "יפרוק המדבר", "סתוונית הנגב", "מוריקה מבריקה", "סתוונית הרמון"],
+            "maps_query_location": "Mamshit"
+        },
+        {
+            "location_name": "נחל סתוונית",
+             "flowers": ["אחילוף זעיר",  "איריס הנגב", "יפרוק המדבר", "סתוונית הנגב", "מוריקה מבריקה", "סתוונית הרמון"],
+             "maps_query_location": "Nahal Sitvanit"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2021",
+       "observer": "שלמה רוטשילד",
+      "original_text": "פריחה מרהיבה מימין לדרך היורדת ממצפור יהונתן !!!",
+      "locations": [
+        {
+          "location_name": "יער חרובית",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Yar Hrubit"
+        },
+        {
+          "location_name": "מצפור יהונתן",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Mitzpor Yehonatan"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2021",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "ליד חורבת חנות, אירוס ארץ ישראלי פורח ב״זרים״ מרשימים ויפים. בדרך הקיסר מקבצים גדולים ויפים של נרקיסים. בעמק הברכה מעט כרכום ארץ ישראלי (חרמוני) וכרכום גייארדו.",
+      "locations": [
+        {
+           "location_name": "ירושלים",
+            "flowers": ["אירוס ארץ ישראלי", "נרקיס", "כרכום ארץ ישראלי", "כרכום גייארדו"],
+            "maps_query_location": "Jerusalem"
+        },
+         {
+           "location_name": "שומרון",
+            "flowers": ["אירוס ארץ ישראלי", "נרקיס", "כרכום ארץ ישראלי", "כרכום גייארדו"],
+           "maps_query_location": "Shomron"
+        },
+        {
+          "location_name": "חורבת חנות",
+           "flowers": ["אירוס ארץ ישראלי"],
+           "maps_query_location":"Hurvat Hanut"
+        },
+         {
+           "location_name": "דרך הקיסר",
+           "flowers": ["נרקיס"],
+           "maps_query_location":"Derech HaKeisar"
+        },
+        {
+            "location_name": "עמק הברכה",
+            "flowers": ["כרכום ארץ ישראלי", "כרכום גייארדו"],
+            "maps_query_location":"Emek HaBracha"
+        }
+      ]
+    },
+     {
+      "date": "23/12/2021",
+      "observer": "ענת טל",
+      "original_text": "התחילה בחניון של מיצפור המונפורט פריחה של נרקיסים, רקפות, חיננית הבתה וכליל החורש.",
+       "locations": [
+        {
+          "location_name": "מיצפור המונפורט",
+          "flowers": ["נרקיס", "רקפת", "חיננית הבתה", "כליל החורש"],
+           "maps_query_location": "Mitzpor haMonfort"
+        },
+        {
+           "location_name":"פארק גורן",
+           "flowers": ["נרקיס", "רקפת", "חיננית הבתה", "כליל החורש"],
+          "maps_query_location": "Goren Park"
+        }
+      ]
+    }
+  ]
+}
+```

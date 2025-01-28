@@ -1,0 +1,226 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/01/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בשמורת האירוסים נתניה: אלקנת הצבעים, אטד החוף, נרקיס ניירי, מרסיה יפהפיה,רותם המדבר. בשמורת חרוצים בני ציון , החלו לפרוח כלניות אדומות.",
+      "locations": [
+        {
+          "location_name": "שמורת האירוסים נתניה",
+          "flowers": [
+            "אלקנת הצבעים",
+            "אטד החוף",
+            "נרקיס ניירי",
+            "מרסיה יפהפיה",
+             "רותם המדבר"
+          ],
+          "maps_query_location": "Netanya Iris Reserve"
+        },
+         {
+          "location_name": "שמורת חרוצים בני ציון",
+          "flowers": [
+            "כלנית אדומה"
+          ],
+           "maps_query_location": "Harutzim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2022",
+      "observer": "תאיר ישראלי",
+      "original_text": "פריחה של אירוס ארץ ישראלי בתל חדיד",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": [
+            "אירוס ארץ ישראלי"
+          ],
+           "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+     {
+      "date": "09/01/2022",
+      "observer": "גדי נבו",
+      "original_text": "יקינטון מזרחי פורח בשיאו -ומשכר בריחו-בגבעה שמאחורי חירבת עמודים",
+      "locations": [
+        {
+          "location_name": "חירבת עמודים",
+           "flowers": [
+            "יקינטון מזרחי"
+          ],
+           "maps_query_location": "Khirbet Amudim"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2022",
+       "observer": "גל מגלי",
+      "original_text": "מחלפון מפעל נשר - פריחת הנקיסים בשיא\nיסעור - פריחת כלניות לבנות בשיא\nשביל מחניון דליות למפל גמלא - פריחת בצלציה בשיא. הכדנים בהתחלה.\nאחו נוב - השיא בעוד מספר ימים. הפריחה מרוכזת השנה קרוב לחיספין. השטח יבש ואין רומוליאות",
+      "locations": [
+        {
+           "location_name": "מחלפון מפעל נשר",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location":"Nesher"
+        },
+        {
+          "location_name": "יסעור",
+           "flowers": [
+            "כלנית לבנה"
+          ],
+           "maps_query_location": "Yis'ur"
+        },
+        {
+           "location_name":"מפל גמלא",
+           "flowers": [
+            "בצלציה"
+           ],
+            "maps_query_location": "Gamla Waterfall"
+         },
+           {
+           "location_name": "אחו נוב",
+          "flowers": [],
+             "maps_query_location":"Ahu Nov"
+        },
+        {
+           "location_name": "חיספין",
+          "flowers": [],
+            "maps_query_location": "Hispin"
+        }
+      ]
+    },
+   {
+      "date": "08/01/2022",
+      "observer": null,
+      "original_text": "חורבת-עמודים :\nאחילוף הגליל - שלב גידול עלים, יקינתון מזרחי\nיער לביא\nמשטחי רקפות, דודא רפואי\nעליה לסוסיתא\nבצלציה א\"י\nקרני חיטין\nיקינתון מזרחי\nאחו נב:\nנרקיס מצוי",
+      "locations": [
+       {
+          "location_name": "חורבת עמודים",
+          "flowers": [
+              "אחילוף הגליל",
+              "יקינתון מזרחי"
+          ],
+           "maps_query_location": "Khirbet Amudim"
+        },
+        {
+          "location_name": "יער לביא",
+          "flowers": [
+               "רקפת",
+               "דודא רפואי"
+          ],
+            "maps_query_location": "Lavi Forest"
+        },
+           {
+          "location_name": "סוסיתא",
+          "flowers": [
+             "בצלציה א\"י"
+          ],
+           "maps_query_location": "Sussita"
+        },
+         {
+          "location_name": "קרני חיטין",
+           "flowers": [
+             "יקינתון מזרחי"
+          ],
+            "maps_query_location": "Keren Hittin"
+        },
+         {
+           "location_name": "אחו נב",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+             "maps_query_location":"Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2022",
+        "observer": null,
+      "original_text": "בכניסה רותם בתחילת פריחתו שסימן אופק, אירוס ארץ ישראלי שיצר מרבדי לובן, מרסיה יפיפיה וסביון גם , רקפות ,כלניות , עירית , דודא מתבודד,",
+      "locations": [
+         {
+          "location_name":"חירבת מלח",
+          "flowers": [
+            "רותם",
+            "אירוס ארץ ישראלי",
+            "מרסיה יפהפיה",
+             "סביון",
+             "רקפת",
+              "כלנית",
+              "עירית",
+             "דודא מתבודד"
+          ],
+           "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2022",
+      "observer": null,
+      "original_text": "החלה לפרוח בסרטבה",
+      "locations": [
+        {
+          "location_name": "סרטבה",
+          "flowers": [
+            "יקינתונית מעורקת"
+          ],
+           "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+        {
+      "date": "08/01/2022",
+      "observer": null,
+      "original_text": "פורחת ברמת הנדיב",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+            "flowers": [
+            "רומוליאה סגלולית"
+          ],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2022",
+      "observer": "יורם קדרון",
+       "original_text": "רקפות רבות, ותחילת פריחת עיריות, בחרבת חנות, ואירוס ארצישראלי רבים ליד עין סיפלה",
+      "locations": [
+          {
+          "location_name": "חרבת חנות",
+            "flowers": [
+            "רקפת",
+             "עירית"
+          ],
+           "maps_query_location": "Khirbet Hanut"
+        },
+          {
+           "location_name": "עין סיפלה",
+           "flowers": [
+            "אירוס ארצישראלי"
+           ],
+            "maps_query_location":"Ein Sifla"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2022",
+      "observer": "שי מוזס",
+      "original_text": "עשרות פרטים פורחים. יש מים בגבים",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+             "נרקיס"
+          ],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/02/2022",
+      "observer": "Etty Zilbershtein",
+      "original_text": "יער חורשים שופע רקפות . מראה מקסים . יש גם כלניות",
+      "locations": [
+        {
+          "location_name": "יער חורשים",
+          "flowers": [
+            "רקפת מצויה",
+            "כלנית מצויה"
+          ],
+          "maps_query_location": "Ya'ar Horeshim"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בשביל המגילות: ישימונית דו גונית, זוגן השיח, מנתור המדבר, פגוניה רכה, בצלצליה ארץ ישראלית, אהרונסונית פקטורי, וחומעה ורודה.",
+      "locations": [
+        {
+          "location_name": "שביל המגילות",
+           "flowers": [
+              "ישימונית דו-גונית",
+              "זוגן השיח",
+              "מנתור המדבר",
+               "פגוניה רכה",
+              "בצלצליה ארץ-ישראלית",
+              "אהרונסונית פקטורי",
+             "חומעה ורודה"
+            ],
+          "maps_query_location": "Nahal Qumran Trail"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2022",
+      "observer": "שמואל",
+      "original_text": "באריאל. פריחה רבה ב\"שמורה\", ליד הגדר הצפונית.",
+      "locations": [
+        {
+          "location_name": "אריאל",
+           "flowers": [
+              "זלזלת הקנוקנות"
+            ],
+          "maps_query_location": "Ariel"
+        }
+      ]
+    },
+      {
+      "date": "01/02/2022",
+      "observer": null,
+      "original_text": "בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+              "ולריינית איטלקית"
+            ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "31/01/2022",
+      "observer": "Etty Zilbershtein",
+      "original_text": "בתחילת השביל ביער ראש העין פריחה יפה של רקפות וכלניות אדומות . בהמשך השביל פריחה מדהימה של כלניות . בעיקר לבנות מעט ורודות ואדומות. ובהר הרבה רקפות",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+            "רקפת מצויה",
+            "כלנית אדומה",
+            "כלנית מצויה"
+          ],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2022",
+      "observer": null,
+       "original_text": "בכרמל בהר אלון בחניון מול צומת דמון",
+      "locations": [
+         {
+            "location_name": "כרמל",
+            "flowers": [
+               "רומוליאה צידונית",
+                "עירית גדולה",
+              "חיננית הבתה"
+                ],
+            "maps_query_location": "Carmel"
+           },
+        {
+          "location_name": "הר אלון",
+           "flowers": [
+               "רומוליאה צידונית",
+               "עירית גדולה",
+              "חיננית הבתה"
+            ],
+          "maps_query_location": "Har Alon"
+        },
+          {
+          "location_name": "חניון מול צומת דמון",
+           "flowers": [
+                "רומוליאה צידונית",
+                "עירית גדולה",
+                "חיננית הבתה"
+            ],
+          "maps_query_location": "Hammon Interchange Parking Lot"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2022",
+      "observer": "הדס יקיר",
+      "original_text": "פורחים: כלניות (לבן, ורוד, סגול, אדום).\nרקפות, צחנן מבאיש, דודא רפואי, ציפורני חתול.\nהשקדיות לא פורחות. לא במטע הסמוך ולא על הגבעה.",
+      "locations": [
+        {
+          "location_name": "חירבת שרישה",
+          "flowers": [
+            "כלנית מצויה",
+              "רקפת מצויה",
+            "צחנן מבאיש",
+            "דודא רפואי",
+              "ציפורני חתול"
+          ],
+          "maps_query_location": "Khirbet Shurisha"
+        }
+      ]
+    },
+        {
+      "date": "30/01/2022",
+      "observer": null,
+      "original_text": "הגבעוניות החלו לפרוח והשקדיות מתמהמהות",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+           "flowers": [
+              "גבעונית הלבנון"
+            ],
+          "maps_query_location": "Rosh Pinna"
+        }
+      ]
+    },
+      {
+      "date": "29/01/2022",
+      "observer": "יורם קדרון",
+       "original_text": "שדה נרקיסים בביצת שדה חנן ( ליד שלולית החורף), בנקודת החיתוך בין תל חנן, לבין שמורת אירוס הארגמן לבין גן שורק.",
+      "locations": [
+        {
+           "location_name": "שדה חנן",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Sde Hanan"
+          },
+           {
+          "location_name": "תל חנן",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+           "maps_query_location": "Tel Hanan"
+        },
+          {
+          "location_name": "שמורת אירוס הארגמן",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+           "maps_query_location": "Iris Argaman Reserve"
+           },
+        {
+           "location_name": "גן שורק",
+            "flowers": [
+              "נרקיס מצוי"
+            ],
+          "maps_query_location": "Gan Soreq"
+        }
+      ]
+    }
+  ]
+}
+```

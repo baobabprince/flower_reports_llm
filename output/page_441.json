@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "22/01/2017",
+      "observer": null,
+      "original_text": "איריס א\"י ( ריחני) , שמשון הדור , לשון פר סמורה, דודא רפואי, וקדד פייברון. לקראת פריחה : עירית גדולה , וינקה עשבונית , כלניות (עדיין לא פורחות) ועוד",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+           "flowers": ["איריס ריחני", "שמשון הדור", "לשון-פר סמורה", "דודא רפואי", "קדד פייברון", "עירית גדולה", "וינקה עשבונית", "כלנית"] ,
+          "maps_query_location": "Pura Nature Reserve"
+        }
+       ]
+    },
+    {
+      "date": "22/01/2017",
+       "observer": null,
+      "original_text": "החלה פריחה  של שקדיות ( שקד מצוי) . גם אצלי בחצר במושב גמזו השקדיה פורחת בשפע פרחים ...",
+      "locations": [
+        {
+          "location_name": "כביש 38",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Highway 38"
+        },
+         {
+          "location_name": "בית שמש",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location": "Beit Shemesh"
+        },
+         {
+          "location_name": "קרית גת",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location": "Kiryat Gat"
+        },
+        {
+          "location_name": "גמזו",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Gamzo"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2017",
+      "observer": "דרור בר-ניר",
+      "original_text": "בצלציה ארצישראלית - המונים, זמזומית המדבר - הרבה, רכפתן מדברי, ויתניה משכרת, זמזומית מצויה, אזוביון שעיר, אלקנה סמורה, שכרון זהוב, מציץ סורי, ועוד....",
+      "locations": [
+        {
+           "location_name": "נחל פרת",
+          "flowers": ["בצלציה ארצישראלית", "זמזומית המדבר", "רכפתן מדברי", "ויתניה משכרת", "זמזומית מצויה", "אזוביון שעיר", "אלקנה סמורה", "שכרון זהוב", "מציץ סורי"],
+          "maps_query_location": "Nahal Prat"
+        }
+      ]
+    },
+     {
+      "date": "21/01/2017",
+      "observer": null,
+      "original_text": "איריס ישראלי  פורח בשמורת חוף הבונים, ובהמוניו ליד האנדרטה שליד שביל ישראל ביער בן-שמן",
+      "locations": [
+        {
+          "location_name": "שמורת חוף הבונים",
+          "flowers": ["איריס ארץ ישראלי"],
+          "maps_query_location": "Hof HaBonim Nature Reserve"
+        },
+         {
+          "location_name": "יער בן-שמן",
+          "flowers": ["איריס ארץ ישראלי"],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2017",
+      "observer": "רותי סולומון",
+       "original_text": "פריחת דודאים, נץ חלב איזמלני,  אירוס ארצישראלי, רקפות והתחלה של כלניות.",
+      "locations": [
+        {
+           "location_name": "רמת הנדיב",
+          "flowers": ["דודא רפואי","נץ חלב איזמלני", "איריס ארץ ישראלי", "רקפת", "כלנית"],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2017",
+      "observer": "עמרי כהן",
+      "original_text": "פריחה אחרי השיא בנחל חצ,ץ שביל גישה מסומן שחור עד פתח הנחל ל 4x4.",
+      "locations": [
+        {
+           "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2017",
+      "observer": "אורי שטיין",
+      "original_text": "היום נצפו: כלנית מצויה אדומה, איריס ארצישראלי, אלקנת הצבעים, מתנן שעיר, צחנן מבאיש, זהבית דמשקאית, רקפת מצויה",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": ["כלנית מצויה", "איריס ארץ ישראלי", "אלקנת הצבעים", "מתנן שעיר", "צחנן מבאיש", "זהבית דמשקאית", "רקפת מצויה"],
+          "maps_query_location": "Udim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2017",
+      "observer": "מאיה שתיל",
+       "original_text": "הרקפות בראשית פריחתן ודודא רפואי בשיא פריחתו ניצנים ראשונים של עירית גדולה ונרקיסים בסוף פריחתם .",
+      "locations": [
+        {
+           "location_name": "גבעת הרקפות",
+          "flowers": ["רקפת", "דודא רפואי", "עירית גדולה", "נרקיס"],
+          "maps_query_location": null
+        },
+        {
+           "location_name": "טל שחר",
+          "flowers": ["רקפת", "דודא רפואי", "עירית גדולה", "נרקיס"],
+          "maps_query_location": "Tel Shahar"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2017",
+      "observer": "מאיה שתיל",
+      "original_text": "הרקפות בראשית פריחתן ודודא רפואי בשיא פריחתו ניצנים ראשונים של עירית גדולה ונרקיסים בסוף פריחתם .",
+      "locations": [
+        {
+            "location_name": "גבעת הרקפות",
+          "flowers": ["רקפת", "דודא רפואי", "עירית גדולה", "נרקיס"],
+          "maps_query_location": null
+        },
+         {
+           "location_name": "טל שחר",
+          "flowers": ["רקפת", "דודא רפואי", "עירית גדולה", "נרקיס"],
+          "maps_query_location": "Tel Shahar"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2017",
+      "observer": null,
+       "original_text": "בתל חדיד ובריכת צ'רטה",
+      "locations": [
+        {
+           "location_name": "תל חדיד",
+          "flowers": ["איריס ארץ ישראלי"],
+           "maps_query_location": "Tel Hadid"
+        },
+        {
+          "location_name": "בריכת צ'רטה",
+           "flowers": ["איריס ארץ ישראלי"],
+           "maps_query_location": "Charte Pool"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,178 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/05/2017",
+      "observer": "איתמר מגד",
+      "original_text": "פורח במלוא הדרו בחברת דרבן, מערבית למושב בר  גיורא.",
+      "locations": [
+        {
+          "location_name": "בר גיורא",
+          "flowers": [
+            "אירוס ארם נהריים"
+          ],
+           "maps_query_location": "Bar Giora"
+        }
+      ]
+    },
+    {
+      "date": "01/05/2017",
+      "observer": null,
+      "original_text": "גם בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "שושן צחור"
+          ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "30/04/2017",
+      "observer": null,
+      "original_text": "בנחל כזיב",
+       "locations": [
+        {
+          "location_name": "נחל כזיב",
+          "flowers": [
+            "שושן צחור"
+          ],
+           "maps_query_location": "Nahal Kziv"
+        }
+      ]
+    },
+    {
+      "date": "30/04/2017",
+      "observer": null,
+      "original_text": "דרבנית התבור, סחלב קדוש ועוד ראו אלבום בקישור",
+      "locations": [
+        {
+          "location_name": "מצפה נטופה",
+          "flowers": [
+             "דרבנית התבור",
+            "סחלב קדוש"
+          ],
+           "maps_query_location": "Mitzpe Netofa"
+        }
+      ]
+    },
+     {
+      "date": "29/04/2017",
+      "observer": null,
+        "original_text": "פורחים: בוצין קיסריון, הגליל, ובירותי. חוחן גדול ראשים, קיטה סוככנית, גומא שרוני, אשבל השדה, מחרוזת קשתית, דרדר גלדני, חולית חופית, צנינה קוצנית, ושום לבן קליפות",
+      "locations": [
+        {
+         "location_name": "הגליל",
+          "flowers": [
+              "בוצין קיסריון",
+              "חוחן גדול ראשים",
+              "קיטה סוככנית",
+              "גומא שרוני",
+             "אשבל השדה",
+            "מחרוזת קשתית",
+              "דרדר גלדני",
+              "חולית חופית",
+             "צנינה קוצנית",
+             "שום לבן קליפות"
+          ],
+           "maps_query_location": "Galilee"
+        }
+      ]
+    },
+     {
+      "date": "29/04/2017",
+      "observer": null,
+      "original_text": "פורח בגן הלאומי חוף השרון",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+             "חוחן קרדני"
+          ],
+           "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "28/04/2017",
+      "observer": null,
+      "original_text": "שום האבקנים, מוצית קוצנית,, דרדר גדול פרחים , דך קרניים כרמלי, המוני שטחים כחולים עם נפית כפופה",
+       "locations": [
+        {
+           "location_name": "יער בן שמן",
+          "flowers": [
+              "שום האבקנים",
+              "מוצית קוצנית",
+              "דרדר גדול פרחים",
+               "דך קרניים כרמלי",
+              "נפית כפופה"
+          ],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/04/2017",
+      "observer": null,
+      "original_text": "בהר יבנאל (פאתי רמת סירין).",
+      "locations": [
+        {
+          "location_name": "הר יבנאל",
+           "flowers": [
+             "שלהבית הגלגל"
+           ],
+           "maps_query_location": "Mount Yavneel"
+        },
+         {
+          "location_name": "רמת סירין",
+           "flowers": [
+             "שלהבית הגלגל"
+           ],
+           "maps_query_location": "Sirin Plateau"
+        }
+      ]
+    },
+    {
+      "date": "25/04/2017",
+       "observer": "יוסף סלעי",
+       "original_text":"שביל האדמוניות 24.4 ספרנו כ - 10 פרחים לקראת סוף הפריחה ורק ניצן אחד",
+      "locations": [
+        {
+          "location_name": "שביל האדמוניות",
+           "flowers": [
+              "אדמונית"
+           ],
+            "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "24/04/2017",
+      "observer": "אסתר איזנרייך",
+      "original_text": "מרווה כחולה, קערורית שיחנית ודורבנית התבור ברוגם גנים, ירושלים.",
+      "locations": [
+        {
+          "location_name": "רוגם גנים",
+           "flowers": [
+            "מרווה כחולה",
+             "קערורית שיחנית",
+             "דורבנית התבור"
+           ],
+           "maps_query_location": "Roggem Ganim"
+        },
+       {
+          "location_name": "ירושלים",
+           "flowers": [
+            "מרווה כחולה",
+             "קערורית שיחנית",
+             "דורבנית התבור"
+           ],
+            "maps_query_location": "Jerusalem"
+        }
+      ]
+    }
+  ]
+}
+```

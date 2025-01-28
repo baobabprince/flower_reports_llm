@@ -1,0 +1,304 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text": "קרית ארבע: קדד זעיר, ריכפה צהובה, שלחופן עטוי, צהרון מצוי , עדשה מזרחית, סחלב אנטולי , לוטוס יהודה, לוטמית ערבית, סחלב פרפרני, נורית ירושלים",
+      "locations": [
+        {
+          "location_name": "קרית ארבע",
+          "flowers": [
+            "Astragalus trimestris",
+            "Reseda lutea",
+            "Erodium crassifolium",
+            "Hippocrepis unisiliquosa",
+             "Lens orientalis",
+            "Orchis anatolica",
+            "Lotus dorycnium",
+            "Helianthemum stipulatum",
+            "Anacamptis papilionacea",
+            "Ranunculus palaestinus"
+          ],
+           "maps_query_location": "Kiryat Arba"
+        }
+      ]
+    },
+    {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text": "נחל תקוע: קדד משולחף,  קדד ארץ-ישראלי ,  נץ-חלב הרודיאני, מרור שנהבי (תקוע ד') , מלקולמיה הררית , לוף ארץ-ישראלי , תלתן תריסני , תלתן נאה, תלתן הנביאים, תלתן הכדורים, שרדיניה מוצנית , שום ארץ-ישראלי, שלהבית המדבר, שמשון הדור, עלקלוק צהוב-פרחים,",
+      "locations": [
+        {
+          "location_name": "נחל תקוע",
+          "flowers": [
+            "Astragalus tribuloides",
+             "Astragalus palaestinus",
+             "Ornithogalum rothii",
+            "Reichardia tingitana",
+            "Malcolmia pygmaea",
+             "Arisarum vulgare",
+             "Trifolium scutatum",
+             "Trifolium pulchellum",
+              "Trifolium clypeatum",
+               "Trifolium glomeratum",
+            "Sardinia muricata",
+             "Allium telavivense",
+            "Echium judaeum",
+            "Ononis natrix",
+            "Hypecoum pendulum"
+          ],
+          "maps_query_location":"Nahal Tekoa"
+        }
+      ]
+    },
+     {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text": "תל קריות: סירה קוצנית, כתרון עקרבי, שעמון מצולע, ריכפת הצבעים, ציפורנית מקופחת",
+       "locations": [
+        {
+          "location_name": "תל קריות",
+          "flowers": [
+             "Sarcopoterium spinosum",
+             "Coronilla scorpioides",
+             "Echinophora spinosa",
+            "Reseda arabica",
+            "Dianthus strictus"
+          ],
+           "maps_query_location": "Tel Keriot"
+        }
+       ]
+    },
+     {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text":"מצפב יאיר: קדד נאה,  שום מזרחי,  מלקולמיה חרוקה, סיגל עטוי , פילגון קפוץ, ציפורנית אלכסנדרונית",
+        "locations": [
+        {
+          "location_name": "מצפב יאיר",
+           "flowers": [
+              "Astragalus callichrous",
+               "Allium orientale",
+               "Malcolmia chia",
+               "Viola modesta",
+               "Filago spathulata",
+              "Dianthus alexandrinus"
+             ],
+            "maps_query_location":"Mitzpe Yair"
+        }
+      ]
+    },
+    {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text": "תל ערד: קדד באר-שבע",
+      "locations": [
+        {
+          "location_name": "תל ערד",
+          "flowers": [
+            "Astragalus beershebensis"
+          ],
+          "maps_query_location": "Tel Arad"
+        }
+      ]
+    },
+    {
+      "date": "16/03/2021",
+      "observer": null,
+      "original_text": "יפית: לחך שסוע, עדעד המדבר",
+       "locations": [
+        {
+          "location_name": "יפית",
+          "flowers": [
+            "Onosma sinuatum",
+            "Limonium nabataea"
+           ],
+           "maps_query_location":"Yafit"
+         }
+      ]
+    },
+    {
+      "date": "16/03/2021",
+      "observer": "גדעון וייס",
+      "original_text": "בתאריך 11.3.2021 מצאתי 5 צבעונים ססגוניים בבורות לוץ. ישנם הרבה מאוד עלים של צבעונים ססגוניים, כך שאולי בהמשך העונה היבול יגדל.",
+       "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+             "Tulipa agenensis"
+           ],
+           "maps_query_location": "Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "15/03/2021",
+      "observer": null,
+      "original_text": "ישנן שמועות שהאדמונית כבר הדרך להיפתח ולפרוח. בשבוע הבא תתיכן כב רפריחה . דווחו לנו כשתפרח",
+      "locations": [],
+       "flowers": [
+            "Paeonia coriacea"
+          ]
+    },
+     {
+      "date": "14/03/2021",
+       "observer": "עמי",
+      "original_text": "מיקבצים יפים של אירוס הנגב בדרך השדות ,חבל אשכול,עוטף עזה. שיא הפריחה בימים אלו . פריחות נוספות של אירוס הנגב על הכביש בין צאלים לרביבים מצד ימין של הכביש ממול שלט הקילומטר 163דרך עפר היורדתו מצידה השמאלי מספר קטן של מיקבצים ומספר בודדים ,לא הכמויות שהיו בשנים עברו.באתרים אחרים אנו לאחר הפריחה",
+       "locations": [
+        {
+          "location_name": "דרך השדות",
+           "flowers": [
+            "Iris mariae"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "חבל אשכול",
+           "flowers": [
+            "Iris mariae"
+          ],
+           "maps_query_location": "Eshkol Regional Council"
+        },
+         {
+          "location_name": "עוטף עזה",
+           "flowers": [
+            "Iris mariae"
+          ],
+           "maps_query_location": "Gaza Envelope"
+        },
+           {
+          "location_name":"צאלים",
+           "flowers":[
+                "Iris mariae"
+              ],
+              "maps_query_location": "Tze'elim"
+         },
+          {
+          "location_name": "רביבים",
+           "flowers": [
+                "Iris mariae"
+              ],
+            "maps_query_location":"Revivim"
+          }
+       ]
+    },
+    {
+      "date": "14/03/2021",
+      "observer": null,
+      "original_text": "שפע של סחלב הגליל,, פרפרני, אנטולי, הרבה סחלבי הגליל, התחילו סחלב איטלקי, דבורניות: דינסמור, קטיפה וצהובה",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+           "flowers": [
+            "Orchis galilaea",
+            "Anacamptis papilionacea",
+             "Orchis anatolica",
+              "Orchis galilaea",
+               "Orchis italica",
+               "Ophrys dinsmorei",
+               "Ophrys umbilicata",
+             "Ophrys flavomarginata"
+          ],
+         "maps_query_location": "Birya Forest"
+        }
+      ]
+    },
+    {
+      "date": "14/03/2021",
+      "observer": "עמיר פז",
+      "original_text": "תורמוס צהוב+א\"י+ שעיר, סמר קרקפתי, בת חול א\"י, זמזומית ורבורג, איריס הארגמן (סוף), אשבל השדה, קוטנדיה חופית, מצדית מגובששת, חומעת האווירון, קחוון קצר פירות וקטום מוצים, שרוכנית א\"י והחוף, אגרוסטמת השדות, ועוקץ עקרב ביצני פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "Lupinus luteus",
+            "Lupinus palaestinus",
+            "Lupinus pilosus",
+            "Symphytum palaestinum",
+            "Alkanna tinctoria",
+            "Echium judaeum",
+            "Iris atropurpurea",
+             "Salvia viridis",
+              "Cotula coronopifolia",
+               "Hymenocarpos circinnatus",
+               "Rumex acetosella",
+             "Anthemis palaestina",
+            "Silene apetala",
+            "Agrostemma githago",
+              "Heliotropium europaeum"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "13/03/2021",
+      "observer": "עליזה",
+      "original_text": "החלה פריחה קטנה של אירוס ירוחם. המון עלים בשטח רחב והתחלה של פרח יפהפה וניצנים",
+        "locations": [
+        {
+          "location_name": "ירוחם",
+            "flowers": [
+            "Iris yerochamenis"
+          ],
+           "maps_query_location":"Yeruham"
+        }
+      ]
+    },
+    {
+      "date": "13/03/2021",
+      "observer": null,
+      "original_text": "איריס הביצות עדיין פורח בעשרות פרחים, עריוני צהוב, צנון פגיונ י בכניסה לשמורה, עכנאי נאה, כלניות בצבע פוקסיה המיוחד לצפון",
+       "locations": [
+        {
+          "location_name": "אחו נב",
+           "flowers": [
+            "Iris palaestina",
+             "Gagea fibrosa",
+              "Raphanus raphanistrum",
+              "Echium plantagineum",
+               "Anemone coronaria"
+          ],
+           "maps_query_location": "Ahu Nev"
+        }
+      ]
+    },
+    {
+      "date": "13/03/2021",
+      "observer": null,
+      "original_text": "יקינתון מזרחי, רומוליאה סגלולית ועוד",
+       "locations": [
+        {
+          "location_name": "שביל הפיסגה במירון",
+          "flowers": [
+              "Hyacinthus orientalis",
+            "Romulea lilacina"
+           ],
+          "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "13/03/2021",
+       "observer": "עידו מגן",
+      "original_text": "מאות צבעונים משני צידי הכביש המוביל לאנדרטה. גם סחלבים פרפרני ואנטולי, כלניות, רקפות, נוריות ולוטם שעיר",
+      "locations": [
+        {
+          "location_name": "אנדרטת מגילת האש",
+             "flowers": [
+            "Tulipa agenensis",
+             "Anacamptis papilionacea",
+            "Orchis anatolica",
+            "Anemone coronaria",
+             "Cyclamen persicum",
+            "Ranunculus asiaticus",
+             "Cistus villosus"
+          ],
+           "maps_query_location": "Magilat HaEsh Monument"
+        }
+      ]
+    }
+  ]
+}
+```

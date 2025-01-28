@@ -1,0 +1,172 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/10/2017",
+      "observer": null,
+      "original_text": "פורחת בשמורת אלוני הבשן",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני הבשן",
+          "flowers": [
+            "סתוונית התשבץ"
+          ],
+          "maps_query_location": "Aloney HaBashan Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2017",
+      "observer": "חמד חרב",
+       "original_text": "הפריחה של סתוונית בכירה..מבשרי הסתיו",
+      "locations": [
+        {
+          "location_name": null,
+           "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "30/09/2017",
+      "observer": "חמד חרב",
+       "original_text": "פריחת סתוונית בכירה",
+      "locations": [
+         {
+          "location_name": null,
+           "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "30/09/2017",
+      "observer": null,
+      "original_text": "בתל חזקה ברמת הגולן , עוד מעט יגיעו החלמוניות...",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": [
+            "סתוונית התשבץ"
+          ],
+          "maps_query_location": "Tel Hazeka"
+        },
+         {
+          "location_name": "רמת הגולן",
+          "flowers": [
+            "סתוונית התשבץ"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2017",
+      "observer": "רועי קן-תור",
+      "original_text": "אל תטעו... התקופה היפה של ארצנו היא כעת- סוף הקיץ. אוסף תמונות עדינות בהן משתקפות פניה הזהובות של ארץ-ישראל. בקישור המצורף",
+       "locations": [
+         {
+           "location_name": null,
+           "flowers": [],
+           "maps_query_location": null
+         }
+       ]
+    },
+    {
+      "date": "28/09/2017",
+      "observer": "משה קומוב",
+      "original_text": "בשדרת בת גלים השנה (פעם ראשונה) יש נר הלילה בתוך הדשא בדרך כלל פורח בסוף החורף ... שנוי אקלים ? פייק ניוז ?",
+      "locations": [
+        {
+          "location_name": "שדרת בת גלים",
+          "flowers": [
+            "נר הליל"
+          ],
+          "maps_query_location": "Bat Galim"
+        }
+      ]
+    },
+       {
+      "date": "27/09/2017",
+      "observer": null,
+      "original_text": "חבצלת הנגב פורחת בממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "27/09/2017",
+      "observer": null,
+      "original_text": "אשבל ארך שיבולת ואשבל נאה פורחים בגן",
+      "locations": [
+         {
+          "location_name": "גן",
+          "flowers": [
+            "אשבל ארך שיבולת", "אשבל נאה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "26/09/2017",
+      "observer": null,
+      "original_text": "חבצלת הנגב החלה לפרוח בממשית. בן-חצב מדברי בשיא הפריחה גם באתרים נוספים. סתוונית הקליפות בשיא הפריחה בבור חמת, ערד, ועוד. ציפורן סיני בבור חמת, אכילאה ריחנית, עוקץ-עקרב עגול-עלים, מלוח ספוגי והמוני חצב מצוי במיוחד בערד ובסביבתה",
+      "locations": [
+        {
+          "location_name": "ממשית",
+           "flowers": [
+            "חבצלת הנגב", "בן-חצב מדברי"
+          ],
+          "maps_query_location": "Mamshit"
+        },
+        {
+           "location_name": "בור חמת",
+          "flowers": [
+            "סתוונית הקליפות", "ציפורן סיני"
+          ],
+          "maps_query_location": "Bor Hamat"
+         },
+        {
+          "location_name": "ערד",
+          "flowers": [
+            "סתוונית הקליפות", "חצב מצוי", "אכילאה ריחנית", "עוקץ-עקרב עגול-עלים", "מלוח ספוגי"
+          ],
+          "maps_query_location": "Arad"
+        }
+      ]
+    },
+     {
+      "date": "25/09/2017",
+      "observer": null,
+      "original_text": "אלפי חצבים בשיא פריחה על תל דור, בנוסף פורחים גוי פרק יופי, חבצלת החוף על האיים , עדעד רותמי . החצבים בתל על רקע הים והחפירות, חוויה . רוצו לראות",
+      "locations": [
+        {
+          "location_name": "תל דור",
+          "flowers": [
+            "חצב", "גוי פרק יופי", "עדעד רותמי"
+           ],
+          "maps_query_location": "Tel Dor"
+        },
+        {
+          "location_name": "האיים",
+          "flowers": [
+           "חבצלת החוף"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

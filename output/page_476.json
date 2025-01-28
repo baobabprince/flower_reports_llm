@@ -1,0 +1,180 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/03/2016",
+      "observer": null,
+      "original_text": "צמר מפוצל, איריס ירוחם (מעטים) \nנורית אסיה,  מעוג , קחוונים",
+      "locations": [
+        {
+          "location_name": "שמורת איריס ירוחם",
+          "flowers": [
+            "Sarcopoterium spinosum",
+            "Iris hieruchamensis",
+            "Ranunculus asiaticus",
+             "Anagallis arvensis",
+             "Matricaria spp."
+           ],
+           "maps_query_location": "Yeruham Iris Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/03/2016",
+      "observer": null,
+      "original_text": "כדן נאה, רותם המדבר, ערטנית השדות,  גביעונית  הלבנון שני הזנים הבהיר והכהה, כרבולתן השדות, קדד פייברון,  קדד קדוש ,  קדד יפה , מתנן שעיר, שמשון הדור, גרניון הפקעות",
+      "locations": [
+        {
+          "location_name": "תל קריות",
+           "flowers": [
+             "Arisarum vulgare",
+             "Retama raetam",
+             "Erodium cicutarium",
+              "Gladiolus libanoticus",
+             "Cephalaria syriaca",
+             "Astragalus peregrinus",
+             "Astragalus sanctus",
+             "Astragalus callichrous",
+             "Ononis natrix",
+             "Helianthemum vesicarium",
+              "Geranium tuberosum"
+            ],
+           "maps_query_location": "Tel Krayot"
+        }
+      ]
+    },
+    {
+      "date": "01/03/2016",
+      "observer": null,
+      "original_text": "בשיא פריחה בשבוע זה",
+      "locations": [
+         {
+          "location_name": "אחו נב",
+          "flowers": ["Iris palaestina"],
+           "maps_query_location": "Nahal Nov"
+        }
+      ]
+    },
+     {
+      "date": "01/03/2016",
+      "observer": null,
+       "original_text":"כבר פורחים בגבעת המורה",
+      "locations": [
+        {
+          "location_name": "גבעת המורה",
+          "flowers": ["Iris nazarena"],
+          "maps_query_location":"Givat Hamoreh"
+        }
+      ]
+    },
+    {
+      "date": "01/03/2016",
+      "observer": "אודי כרמיאל",
+      "original_text": "מהיישוב נטוף לחניון עין קשתות.\nמשם דרך השטח-שביל מסומן- לנחל אל על.מרבדי פריחה של עריוני צהוב.וגם של אירוס צהרון והמון כלניות.\nאירוס הביצות במלא הדרו ב\"אחו נוב\"",
+      "locations": [
+        {
+          "location_name": "נטוף",
+           "flowers": [
+             "Anthemis pseudocotula",
+              "Iris lortetii",
+             "Anemone coronaria"
+           ],
+          "maps_query_location": "Netof"
+        },
+         {
+          "location_name": "חניון עין קשתות",
+           "flowers": [
+             "Anthemis pseudocotula",
+              "Iris lortetii",
+             "Anemone coronaria"
+           ],
+          "maps_query_location": "Ein Keshatot parking"
+        },
+        {
+          "location_name":"נחל אל על",
+           "flowers": [
+             "Anthemis pseudocotula",
+              "Iris lortetii",
+             "Anemone coronaria"
+           ],
+           "maps_query_location": "Nahal El Al"
+        },
+        {
+          "location_name": "אחו נוב",
+           "flowers": ["Iris palaestina"],
+           "maps_query_location":"Nahal Nov"
+        }
+      ]
+    },
+    {
+      "date": "29/02/2016",
+      "observer": null,
+      "original_text": "איריס הנגב , עיירת נבובה , מרווה צמירה,  צמר מפוצל",
+      "locations": [
+        {
+          "location_name": "ניר יצחק",
+          "flowers": [
+            "Iris mariae",
+            "Bellardia trixago",
+             "Salvia lanigera",
+            "Sarcopoterium spinosum"
+           ],
+           "maps_query_location": "Nir Yitzhak"
+        }
+      ]
+    },
+    {
+      "date": "29/02/2016",
+      "observer": "יוסף סקופל",
+      "original_text": "היום טילתי בהר יונה   ראיתי 3 אירוסים נצרתיים בפריחה מלאה   היו  לידם גם   ניצנים",
+     "locations": [
+       {
+         "location_name": "הר יונה",
+         "flowers": ["Iris nazarena"],
+          "maps_query_location": "Har Yona"
+        }
+      ]
+    },
+     {
+      "date": "29/02/2016",
+      "observer": null,
+      "original_text":"פריחת אירוס שחום צמוד לצומת גורל,\nמספר פרטים בודדים.",
+      "locations": [
+        {
+         "location_name":"צומת גורל",
+          "flowers": ["Iris atrofusca"],
+           "maps_query_location":"Goral Junction"
+        }
+       ]
+    },
+    {
+      "date": "29/02/2016",
+       "observer": null,
+      "original_text": "שום תל אביב, פרגים, איריס הארגמן ועוד",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": [
+            "Allium telavivense",
+             "Papaver spp.",
+            "Iris palaestina"
+           ],
+           "maps_query_location": "Ilanot Forest"
+         }
+        ]
+     },
+    {
+      "date":"29/02/2016",
+      "observer": "יעקב גנץ",
+      "original_text": "הצלם: יעקב גנץ - ראו אלבום",
+        "locations": [
+        {
+          "location_name": "תל-קריות",
+          "flowers": ["Gladiolus libanoticus"],
+            "maps_query_location": "Tel Krayot"
+        }
+      ]
+    }
+  ]
+}
+```

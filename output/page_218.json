@@ -1,0 +1,217 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/12/2020",
+      "observer": null,
+      "original_text": "כרכומים ביער הסוללים",
+      "locations": [
+        {
+          "location_name": "יער הסוללים",
+          "flowers": [
+            "כרכום"
+          ],
+           "maps_query_location": "Yar HaSolelim"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2020",
+       "observer": "יונית",
+      "original_text": "בנחל חצץ אין בכלל נרקיסים. גם לא עלים. בנחל דימונה עלים ללא גבעולי פריחה.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס"
+           ],
+           "maps_query_location": "Nahal Hatzatz"
+        },
+         {
+          "location_name": "נחל דימונה",
+          "flowers": [
+             "נרקיס"
+          ],
+          "maps_query_location":"Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "17/12/2020",
+      "observer": null,
+      "original_text": "כבר פורחות כלניות צבעוניות",
+       "locations": [
+        {
+          "location_name": "רמת מנשה",
+          "flowers": [
+             "כלנית"
+          ],
+           "maps_query_location": "Ramat Menashe"
+         }
+        ]
+    },
+    {
+      "date": "17/12/2020",
+      "observer": null,
+      "original_text": "איריס ארץ-ישראלי, נרקיס מצוי, כתמה עבת-שורשים, חיננית הבתה, זלזלת הקנוקנות",
+      "locations": [
+         {
+          "location_name": "מגילות האש",
+          "flowers": [
+              "איריס ארץ-ישראלי",
+              "נרקיס מצוי",
+              "כתמה עבת-שורשים",
+              "חיננית הבתה",
+              "זלזלת הקנוקנות"
+            ],
+             "maps_query_location": "Megilot HaEsh"
+         },
+         {
+           "location_name": "כסלון",
+           "flowers": [
+              "איריס ארץ-ישראלי",
+              "נרקיס מצוי",
+              "כתמה עבת-שורשים",
+              "חיננית הבתה",
+              "זלזלת הקנוקנות"
+            ],
+           "maps_query_location":"Kesalon"
+         }
+      ]
+    },
+    {
+      "date": "17/12/2020",
+       "observer": "אפרת ז",
+      "original_text": "נחל פרוד",
+      "locations": [
+        {
+          "location_name": "נחל פרוד",
+          "flowers": [
+            "נץ חלב אזמלני"
+          ],
+           "maps_query_location": "Nahal Parod"
+        }
+      ]
+    },
+    {
+      "date": "17/12/2020",
+       "observer": "אפרת ז",
+      "original_text": "17/12 פריחה מרהיבה באיזור שפר וחמדת הימים",
+      "locations": [
+        {
+           "location_name": "שפר",
+           "flowers": [
+             "נרקיס"
+           ],
+            "maps_query_location": "Shafar"
+         },
+         {
+           "location_name": "חמדת הימים",
+           "flowers": [
+              "נרקיס"
+           ],
+             "maps_query_location":"Hamdat Hayamim"
+         }
+      ]
+    },
+    {
+      "date": "16/12/2020",
+       "observer": "יריב",
+      "original_text": "כלניות לבנות פורחות בשדה ליד הזולה שבדרך העפר מצפון מערב שהם לטירת יהודה",
+      "locations": [
+        {
+          "location_name": "שהם",
+          "flowers": [
+            "כלנית לבנה"
+          ],
+          "maps_query_location": "Shoham"
+        },
+        {
+          "location_name": "טירת יהודה",
+           "flowers": [
+             "כלנית לבנה"
+           ],
+             "maps_query_location":"Tirat Yehuda"
+         }
+      ]
+    },
+    {
+      "date": "15/12/2020",
+       "observer": null,
+      "original_text": "בחירבת מלח , באודים ועוד.",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+           "flowers": [
+             "כלנית אדומה"
+           ],
+            "maps_query_location": "Hirbet Melach"
+        },
+         {
+          "location_name": "אודים",
+           "flowers": [
+             "כלנית אדומה"
+           ],
+             "maps_query_location": "Udim"
+         }
+      ]
+    },
+    {
+      "date": "15/12/2020",
+      "observer": null,
+      "original_text": "בדרך נוף כרמל -  אזור מצפור טייסת העמק",
+       "locations": [
+        {
+          "location_name": "דרך נוף כרמל",
+           "flowers": [
+             "איריס הסרגל"
+           ],
+            "maps_query_location": "Derech Nof Carmel"
+          },
+          {
+            "location_name":"מצפור טייסת העמק",
+             "flowers":[
+               "איריס הסרגל"
+             ],
+             "maps_query_location":"Mitzpor Tayeset HaEmek"
+          }
+      ]
+    },
+      {
+      "date": "15/12/2020",
+       "observer": null,
+      "original_text": "שימו לב לעצי כליל החורש פורחים די יפה בצומת 443 ו 444 לכיוון שוהם וכביש 6",
+        "locations": [
+        {
+          "location_name": "צומת 443",
+           "flowers": [
+            "כליל החורש"
+           ],
+             "maps_query_location": "Tzomet 443"
+        },
+         {
+          "location_name": "צומת 444",
+           "flowers": [
+             "כליל החורש"
+           ],
+            "maps_query_location": "Tzomet 444"
+        },
+         {
+          "location_name": "שוהם",
+           "flowers": [
+             "כליל החורש"
+           ],
+            "maps_query_location": "Shoham"
+         },
+         {
+           "location_name": "כביש 6",
+           "flowers":[
+             "כליל החורש"
+             ],
+             "maps_query_location":"Kvish 6"
+         }
+      ]
+    }
+  ]
+}
+```

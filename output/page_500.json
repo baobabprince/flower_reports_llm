@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/10/2015",
+      "observer": null,
+      "original_text": "התקבלו מספר דיווחי גולשים על פריחת חלמוניות בשביל הפיסגה במירון",
+      "locations": [
+        {
+          "location_name": "שביל הפיסגה",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Shvil HaPisga"
+        },
+        {
+          "location_name": "מירון",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Meron"
+        }
+      ]
+    },
+    {
+      "date": "18/10/2015",
+      "observer": null,
+      "original_text": "פורחים עכשיו -כדן קטן פרחים, סתוונית ירושלים- התחלה,",
+       "locations": [
+        {
+          "location_name": "עפרה",
+          "flowers": ["כדן קטן פרחים", "סתוונית ירושלים"],
+          "maps_query_location": "Ofra"
+        }
+       ]
+    },
+     {
+      "date": "17/10/2015",
+      "observer": "דרור בר-ניר",
+      "original_text": "החלה הפריחה ברכס בוקר - נצפו כ-50 פרטים",
+      "locations": [
+         {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית גדולה"],
+          "maps_query_location": "Ramat Boker"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2015",
+      "observer": "דרור בר-ניר",
+      "original_text": "כמויות גדולות של חבצלות משני צידי כביש הגישה לממשית",
+      "locations": [
+         {
+          "location_name": "כביש הגישה לממשית",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Mamshit access road"
+        }
+      ]
+    },
+     {
+      "date": "11/10/2015",
+      "observer": "דרור בר-ניר",
+      "original_text": "בן-חצב סתווני - ששה פרטים ראשונים, קורטם דק, שיח אברהם מצוי, טיון דביק, סולנום שחור, ארכובית שבטבטית, לוע הארי הגדול (פרט בודד כפול פרחים), פואנית איטלקית (פריחה פה ושם) חד אבקן אדום - (לא כמו בשיא, אבל בהחלט מרשים). כלמינתה אפורה. חורשף מצוייץ, פטל קדוש, קיסוסית קוצנית, בוצין מפורץ, שומר פשוט, שברק קוצני\nפירות בלבד - ורד הכלב, זלזלת מנוצה, אשחר א\"י, מיש דרומי, אלה ארצישראלית, אלון מצוי, כליל החורש, שבטן לבן\nניצנים - אספרג החורש\nוהמון פרפרים",
+      "locations": [
+         {
+          "location_name": "נחל שורק",
+          "flowers": ["בן-חצב סתווני", "קורטם דק", "שיח אברהם מצוי", "טיון דביק", "סולנום שחור", "ארכובית שבטבטית", "לוע הארי הגדול", "פואנית איטלקית", "חד אבקן אדום", "כלמינתה אפורה", "חורשף מצוייץ", "פטל קדוש", "קיסוסית קוצנית", "בוצין מפורץ", "שומר פשוט", "שברק קוצני"],
+          "maps_query_location": "Nahal Sorek"
+        }
+      ]
+    },
+    {
+      "date": "05/10/2015",
+      "observer": null,
+       "original_text": "בשיא פריחה ליד האלון הגדול בטבעון, ובתחילת פריחה בירידה לנחל אורן (כרמל) מכיוון נחל ספונים (שביל אדום)",
+       "locations": [
+        {
+          "location_name": "טבעון",
+           "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Tivon"
+        },
+         {
+          "location_name": "נחל אורן",
+           "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Nahal Oren"
+        },
+        {
+           "location_name": "נחל ספונים",
+            "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Nahal Sfunim"
+        }
+      ]
+    },
+    {
+      "date": "04/10/2015",
+       "observer": null,
+      "original_text": "פורח בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["בן חצב סתווני"],
+          "maps_query_location": "Ga'ash"
+        }
+       ]
+    },
+    {
+      "date": "03/10/2015",
+       "observer": null,
+      "original_text": "הפריחה החלה",
+       "locations": [
+        {
+           "location_name": "רכס חזקה",
+          "flowers": ["סיתווניות תשבץ"],
+          "maps_query_location": "Har Hazakah"
+         }
+       ]
+    },
+    {
+      "date":"02/10/2015",
+       "observer": "אלעד 1975",
+      "original_text":"בדרך לגן הלאומי, 200 מ' מדרום לפניה לחוות הגמלים משני צידי הכביש איתרתי 2 מקבצים, כ\"א עם 2-3 פרחים ועוד מספר כפול של ניצנים.",
+        "locations": [
+          {
+             "location_name": "ממשית",
+             "flowers": ["חבצלת הנגב"],
+            "maps_query_location": "Mamshit"
+          }
+      ]
+    },
+     {
+      "date": "28/09/2015",
+       "observer": null,
+      "original_text": "זמן החבצלות : פורחות בהמונים בנחל יגור ושמורת אודים",
+      "locations": [
+        {
+          "location_name": "נחל יגור",
+           "flowers": ["חבצלות קטנת פרחים"],
+          "maps_query_location": "Nahal Yagur"
+        },
+        {
+          "location_name": "שמורת אודים",
+           "flowers": ["חבצלות קטנת פרחים"],
+          "maps_query_location": "Udim Reserve"
+        }
+      ]
+    }
+  ]
+}
+```

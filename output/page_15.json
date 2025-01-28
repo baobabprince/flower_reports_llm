@@ -1,0 +1,201 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/09/2024",
+      "observer": null,
+      "original_text": "לפופית משולשת,  לשישית הבוצין , מלחית אשונה,  נואית קוצנית, אבטיח הפקועה, חצב גלוני, מלחית אשונה",
+      "locations": [
+        {
+          "location_name": "פארק הבשור",
+           "flowers": [
+            "לפופית משולשת",
+            "לשישית הבוצין",
+            "מלחית אשונה",
+            "נואית קוצנית",
+            "אבטיח הפקועה",
+            "חצב גלוני"
+          ],
+          "maps_query_location": "Park HaBesor"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2024",
+      "observer": null,
+      "original_text": "חורשף מצוייץ ( תחילת פריחה) , בת- חבצלת קטנת-פרחים , שומר פשוט, זוטה לבנה",
+        "locations": [
+        {
+          "location_name": "סינגל ענבה",
+           "flowers": [
+            "חורשף מצוייץ",
+            "בת-חבצלת קטנת-פרחים",
+            "שומר פשוט",
+             "זוטה לבנה"
+          ],
+          "maps_query_location": "Inaba Trail"
+        }
+      ]
+    },
+     {
+      "date": "04/09/2024",
+      "observer": null,
+      "original_text": "ברחבי הארץ פורחים החצבים מהמכתשים עד לגולן , צאו למקומות המותרים ותהנו",
+      "locations": [
+         {
+          "location_name": "המכתשים",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "HaMakhteshim"
+        },
+         {
+          "location_name": "גולן",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location":"Golan Heights"
+         }
+      ]
+    },
+    {
+      "date": "03/09/2024",
+      "observer": null,
+       "original_text": "בשבוע הבא תתקיים שיא הפריהח של המוני חצבים- מומלץ להגיע. מצורף מסלול בקישור למטה",
+      "locations": [
+       {
+          "location_name": "יער צרעה",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Tzora Forest"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2024",
+      "observer": "דוד",
+      "original_text": "לצידו הצפוני של כביש 31 בפיתולי הכביש (כחצי קילומטר מהיציאה מערד לכיוון ים המלח) החלה פריחה מרהיבה של חצבים, חלקם רק בתחילת הפריחה.",
+      "locations": [
+       {
+          "location_name": "ערד",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location":"Arad"
+        }
+      ]
+    },
+     {
+      "date": "02/09/2024",
+      "observer": "דוד",
+      "original_text": "לצידו הצפוני של כביש 2499 (המוביל לנאות הכיכר ועין תמר) פריחה של קנה מצוי. בנוסף לנוף המרהיב של אזור זה ניתן גם למצוא מעיין ניסתר (עין פלוטית) המתחבא בין עצי תמר מרהיבים וצפופים.",
+       "locations": [
+         {
+            "location_name":"נאות הכיכר",
+            "flowers": [
+              "קנה מצוי"
+             ],
+            "maps_query_location":"Neot HaKikar"
+        },
+        {
+           "location_name": "עין תמר",
+           "flowers": [
+              "קנה מצוי"
+            ],
+           "maps_query_location": "Ein Tamar"
+        },
+         {
+            "location_name":"עין פלוטית",
+             "flowers": null,
+            "maps_query_location": "Ein Pelutot"
+           }
+      ]
+    },
+    {
+      "date": "31/08/2024",
+      "observer": null,
+       "original_text": "שמורת פורה, יער צרעה ( התחלה) , גבעת התנך בירושלים, תל ידפת בצפון . מי יספר לנו אם גם מצפון לנחשולים כב רישנה פריחת חצבים יפה?",
+      "locations": [
+         {
+          "location_name": "שמורת פורה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location":"Pura Nature Reserve"
+         },
+        {
+          "location_name": "יער צרעה",
+           "flowers": [
+            "חצב"
+          ],
+            "maps_query_location":"Tzora Forest"
+        },
+         {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Givat HaTanakh"
+         },
+        {
+           "location_name": "תל ידפת",
+           "flowers":[
+             "חצב"
+           ],
+           "maps_query_location": "Tel Yodfat"
+        },
+         {
+           "location_name":"נחשולים",
+           "flowers": [
+             "חצב"
+             ],
+           "maps_query_location":"Nahsholim"
+         }
+      ]
+    },
+     {
+      "date": "31/08/2024",
+      "observer": null,
+      "original_text": "בגבעות הכורכר בנס ציונה",
+      "locations": [
+         {
+            "location_name":"נס ציונה",
+            "flowers": [
+            "חצב"
+           ],
+           "maps_query_location":"Ness Ziona"
+         }
+      ]
+    },
+    {
+      "date": "28/08/2024",
+      "observer": null,
+      "original_text": "מול מנזר מר אליאס",
+      "locations": [
+        {
+          "location_name": "מנזר מר אליאס",
+          "flowers": [
+            "חצב"
+            ],
+          "maps_query_location":"Mar Elias Monastery"
+        }
+      ]
+    },
+   {
+      "date": "26/08/2024",
+      "observer": "שרית ליבוביץ זלץ",
+      "original_text": "מוזמנים לפגוש את החצבים בסיורים הקרובים:",
+       "locations": [
+         {
+           "location_name": null,
+           "flowers": [
+             "חצב"
+             ],
+            "maps_query_location": null
+         }
+      ]
+    }
+  ]
+}
+```

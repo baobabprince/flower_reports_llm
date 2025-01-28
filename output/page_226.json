@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/11/2020",
+      "observer": null,
+      "original_text": "ביער ביריה , להבים ועדיין לא בתבור",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Biriya Forest"
+        },
+        {
+          "location_name": "להבים",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+        },
+         {
+          "location_name": "תבור",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "18/11/2020",
+      "observer": null,
+      "original_text": "חלמוניות בשיא פריחה. גם סתוונית היורה. לא נצפו כרכומים",
+      "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": ["חלמונית", "סתוונית היורה"],
+          "maps_query_location": "Me'o Hama"
+        }
+      ]
+    },
+    {
+      "date": "18/11/2020",
+      "observer": "גד נבו",
+      "original_text": "אין עדיין פריחת חלמוניות בהר תבור . כמו רבים אחרים הגענו היום 17 לחודש לשביל החלמוניות המפורסם בהר תבור . הלכנו לכל אורכו והיקפו ואין אפילו סימנים ראשונים של פריחה . המתינו בהגעתכם למקום לפחות עוד שבועיים",
+      "locations": [
+         {
+          "location_name": "תבור",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+      {
+      "date": "18/11/2020",
+      "observer": "אמנון ב",
+       "original_text": "מצוקי הארבעים - בן חצב סתיוני",
+      "locations": [
+        {
+          "location_name": "מצוקי הארבעים",
+          "flowers": ["בן חצב סתווני"],
+           "maps_query_location": "Mitzukei Ha'arba'im"
+        }
+      ]
+    },
+    {
+      "date": "18/11/2020",
+      "observer": "אמנון",
+      "original_text": "הנרקיסים החלו לפרוח במצוקי הארבעין  לצד הרקפות כרכומים סתווניות (לא מצאתי עדיין את אירוס הסרגל )",
+      "locations": [
+        {
+          "location_name": "מצוקי הארבעין",
+          "flowers": ["נרקיס", "רקפת", "כרכום", "סתוונית"],
+           "maps_query_location": "Mitzukei Ha'arba'im"
+        }
+      ]
+    },
+    {
+      "date": "18/11/2020",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "כרכום חורפי.בן חצב סתווני.סתווניות היורה.כדן קטן פרחים.",
+       "locations": [
+        {
+          "location_name": "הר חלוץ",
+          "flowers": ["כרכום חורפי", "בן חצב סתווני", "סתוונית היורה", "כדן קטן פרחים"],
+           "maps_query_location": "Har Halutz"
+         }
+       ]
+    },
+    {
+      "date": "18/11/2020",
+      "observer": "יעל צוק",
+      "original_text": "הרבה חלמוניות בלהבים",
+       "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+         }
+       ]
+    },
+    {
+      "date": "17/11/2020",
+      "observer": "נעמי דגוני",
+      "original_text": "16.11.20 נצפו פרטים בודדים של כרכום חורפי התחלת הפריחה בנחל קטלב השביל הכחול. במרכז דרך הקיסר התחילו לפרוח נרקיסים",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": ["כרכום חורפי"],
+          "maps_query_location": "Nahal Katlav"
+        },
+         {
+          "location_name": "דרך הקיסר",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Derech HaKesar"
+        }
+      ]
+    },
+     {
+      "date": "17/11/2020",
+      "observer": "עידו מגן",
+       "original_text": "ראשית פריחה של נרקיסים ופריחה של סתווניות בשיאה. הסתווניות בשדה ליד מפגש דרך פארק ירוקה עם דרך כחולה, הנרקיסים מעט לפני כן מימין לדרך הירוקה",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+           "flowers": ["נרקיס", "סתוונית"],
+          "maps_query_location": "Canada Park"
+         }
+      ]
+    },
+     {
+      "date": "17/11/2020",
+      "observer": "מנדי ונדר",
+      "original_text": "בתל אילון  בפארק קנדה פריחת סתווניות לאורך כל הדרך. וכן על יד מצפור אילון תחילת פריחת נרקיסים",
+      "locations": [
+          {
+           "location_name": "תל אילון",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Tel Ayalon"
+          },
+        {
+          "location_name": "פארק קנדה",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Canada Park"
+        },
+        {
+          "location_name": "מצפור אילון",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Mitzpor Ayalon"
+        }
+      ]
+    }
+  ]
+}
+```

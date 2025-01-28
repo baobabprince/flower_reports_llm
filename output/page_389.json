@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/10/2017",
+      "observer": null,
+      "original_text": "קנה סוכר גבוה, גופנו בשלב פרי, צלף רותמי פריחה שופעת וסביבו עשרות פרפרי  כחלחל הסלבדורה, פלגית שיחנית ליד המפל הראשון , עבקנה שכיח .",
+      "locations": [
+        {
+          "location_name": "נחל דוד",
+          "flowers": ["קנה סוכר","צלף רותמי","סלבדורה כחלחלה","פלגית שיחנית","עבקנה שכיח"],
+            "maps_query_location": "Nahal David"
+        },
+         {
+          "location_name":"עין גדי",
+          "flowers": ["קנה סוכר","צלף רותמי","סלבדורה כחלחלה","פלגית שיחנית","עבקנה שכיח"],
+          "maps_query_location":"Ein Gedi"
+          }
+      ]
+    },
+    {
+      "date": "30/10/2017",
+      "observer": "יעל בוכמן",
+      "original_text": "חלמוניות פורחות בחרבת סנסן - אמצע פריחה",
+       "locations": [
+        {
+          "location_name": "חרבת סנסן",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Khirbet Sansan"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2017",
+      "observer": null,
+      "original_text": "אחילוף צר עלים בחורשה בין טבעון לאלונים בתאריך 28.10.17",
+       "locations": [
+         {
+          "location_name": "טבעון",
+            "flowers": ["אחילוף צר עלים"],
+          "maps_query_location": "Tivon"
+        },
+        {
+          "location_name": "אלונים",
+           "flowers": ["אחילוף צר עלים"],
+          "maps_query_location": "Alonim"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2017",
+      "observer": "דרור בר-ניר",
+      "original_text": "מלבד הסתווניות - לשון פר סמורה, ברזילון ריסני, טיון דביק וכתלה חריפה",
+        "locations": [
+        {
+          "location_name": "ירושלים",
+          "flowers": ["סתוונית","לשון-פר סמורה","ברזילון ריסני","טיון דביק","כתלה חריפה"],
+            "maps_query_location":"Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2017",
+      "observer": "דרור בר-ניר",
+      "original_text": "מלבד הסתווניות, המוני בני חצב סתווני, ארכובית שבטבטית, חורשף מצוייץ, טיון דביק. גם החרוב פורח.",
+        "locations": [
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": ["סתוונית","בן-חצב סתווני","ארכובית שבטבטית","חורשף מצוייץ","טיון דביק","חרוב"],
+            "maps_query_location":"Emek HaMatzleva"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2017",
+      "observer": null,
+       "original_text":"ביער יתיר , יער ביריה, יער להב, חירבת סנסן, נחל תקוע מתחת למעלה רחבעם ( התחלה) חרמון,",
+        "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Yatir Forest"
+         },
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["חלמונית"],
+          "maps_query_location":"Biriya Forest"
+        },
+         {
+          "location_name": "יער להב",
+            "flowers": ["חלמונית"],
+          "maps_query_location":"Lahav Forest"
+        },
+           {
+            "location_name": "חרבת סנסן",
+            "flowers": ["חלמונית"],
+               "maps_query_location": "Khirbet Sansan"
+         },
+        {
+          "location_name": "נחל תקוע",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Nahal Tekoa"
+        },
+          {
+            "location_name":"חרמון",
+             "flowers": ["חלמונית"],
+             "maps_query_location": "Mount Hermon"
+           }
+      ]
+    },
+    {
+      "date": "28/10/2017",
+       "observer": "‪marom Carolina",
+      "original_text": "פריחה בעיצומה לאורך מסלול על ההר של השמורה.",
+       "locations": [
+        {
+          "location_name": "שמורת רכס בוקר",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Ramat Boker Nature Reserve"
+        }
+      ]
+    },
+      {
+      "date":"28/10/2017",
+      "observer": "הדס לוגסי גפני",
+      "original_text":"נצפו היום בשמורת רכס בשנית (הר חוזק/תל חזקה)",
+       "locations":[
+          {
+             "location_name":"רמת הגולן",
+             "flowers": ["חלמונית גדולה","סתוונית התשבץ"],
+              "maps_query_location":"Golan Heights"
+           }
+        ]
+    },
+    {
+      "date": "27/10/2017",
+      "observer": null,
+      "original_text": "סיתווניות היורה רבות פורחות ביער גבעת הכ\"ח/ נחשונים",
+      "locations": [
+        {
+          "location_name": "יער גבעת כ\"ח",
+          "flowers": ["סתוונית היורה"],
+          "maps_query_location":"Givat Koah Forest"
+        },
+         {
+          "location_name": "נחשונים",
+          "flowers": ["סתוונית היורה"],
+           "maps_query_location":"Nahshonim"
+        }
+      ]
+    },
+    {
+      "date": "27/10/2017",
+      "observer": null,
+       "original_text": "מספר נרקיסים פורחים ביער כ\"ח/נחשונים",
+      "locations": [
+         {
+          "location_name":"יער גבעת כ\"ח",
+          "flowers":["נרקיס מצוי"],
+          "maps_query_location":"Givat Koah Forest"
+        },
+        {
+          "location_name": "נחשונים",
+          "flowers": ["נרקיס מצוי"],
+            "maps_query_location":"Nahshonim"
+         }
+      ]
+    }
+  ]
+}
+```

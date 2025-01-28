@@ -1,0 +1,201 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/07/2019",
+      "observer": null,
+      "original_text": "חמניות בר בגדר ההקפית של מפעל לוג אשדות יעקב איחוד",
+      "locations": [
+        {
+          "location_name": "אשדות יעקב איחוד",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Ashdot Ya'akov Ihud"
+        }
+      ]
+    },
+    {
+      "date": "04/07/2019",
+      "observer": "גיא ג",
+      "original_text": "חמניות בר מול היציאה מתחנת הדלק במוח זכרון. זכרון יעקב",
+       "locations": [
+        {
+          "location_name": "זכרון יעקב",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Zikhron Ya'akov"
+        }
+      ]
+    },
+    {
+      "date": "04/07/2019",
+      "observer": "עדן וניר צור",
+      "original_text": "בפארק במרכז מושב אחיטוב\nישנם חמניות בר שצמחו",
+      "locations": [
+        {
+          "location_name": "אחיטוב",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Ahituv"
+        }
+      ]
+    },
+    {
+      "date": "03/07/2019",
+      "observer": "אמיר גלעד",
+      "original_text": "חמנית בר גודלת בין כביש החוף  מספר 2 לגידולי הבננות בקיבוץ החותרים.\nיש לי גם תמונה אם תירצו.",
+       "locations": [
+        {
+          "location_name": "החותרים",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+           "maps_query_location": "HaHotrim"
+        }
+      ]
+    },
+    {
+      "date": "02/07/2019",
+       "observer": "פלט אבי",
+      "original_text": "כביש  בית שאן עפולה ליד כפר יחזקל\nהרבה חמנות",
+      "locations": [
+         {
+          "location_name": "כפר יחזקאל",
+           "flowers": [
+             "Helianthus annuus"
+          ],
+         "maps_query_location": "Kfar Yehezkel"
+        }
+      ]
+    },
+    {
+       "date": "02/07/2019",
+       "observer": "ריקי",
+      "original_text": "בישוב עצמון בפינת הגזם נצפתה חמנית גדולה ופורחת",
+      "locations": [
+        {
+          "location_name": "עצמון",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+           "maps_query_location": "Atzmon"
+        }
+      ]
+    },
+     {
+      "date": "02/07/2019",
+      "observer": "אירית",
+      "original_text": "נצפו בקרת טבעון ב1.7.19",
+      "locations": [
+        {
+          "location_name": "קריית טבעון",
+          "flowers": [
+             null
+          ],
+         "maps_query_location": "Kiryat Tiv'on"
+        }
+      ]
+    },
+    {
+      "date": "30/06/2019",
+      "observer": null,
+      "original_text": "חמניות בר ליד השלט עין הוד",
+     "locations": [
+        {
+          "location_name": "עין הוד",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Ein Hod"
+        }
+      ]
+    },
+    {
+      "date": "30/06/2019",
+       "observer": "תהילה שץ",
+      "original_text": "בחצר לידנו בשטח שבונים בו גדלות חמניות בר \nמושב עין עירון",
+      "locations": [
+        {
+          "location_name": "עין עירון",
+          "flowers": [
+            "Helianthus annuus"
+          ],
+          "maps_query_location": "Ein Iron"
+        }
+      ]
+    },
+     {
+      "date": "29/06/2019",
+      "observer": null,
+      "original_text": "חושנייה: כף-אווז מבאישה , לוטוס הביצות, עטיינית ארוכה  , קיפודן מצוי , שנית מתפתלת , סמר מחוייץ \nמאגר בנטל: מלענת גדולת-מלענים, נורית המלל, \nתל אביטל: מלענת גדולת מלענים, פרע מסולסל, צלע-שור בואסייה , קדד קוצני, קוציץ סורי, קחוון הצבעים, שום גבוה , שום נטוי , שומרר בואסיה, תגית ארץ-ישראלית \nשלולית פרג': נורית המים, עוקץ-עקרב שרוע , שנית שוות-שיניים  \nדרום רמת-הגולן: מלוח ההרים  \nאל חמה: עוגנן נימי, ציפורנית , שום הרשת , שום נטוי",
+      "locations": [
+         {
+          "location_name": "חושנייה",
+           "flowers": [
+             "Chenopodium vulvaria",
+              "Lotus uliginosus",
+              "Erodium  gruinum",
+              "Echinops  polyceras",
+              "Sherardia arvensis",
+              "Galium tricornutum"
+            ],
+             "maps_query_location": "Hushniya"
+         },
+         {
+          "location_name": "מאגר בנטל",
+           "flowers": [
+              "Euphorbia macroclada",
+              "Ranunculus asiaticus"
+            ],
+             "maps_query_location": "Bental Reservoir"
+         },
+          {
+          "location_name": "תל אביטל",
+           "flowers": [
+             "Euphorbia macroclada",
+              "Papaver rhoeas",
+              "Echinophora  orientalis",
+             "Astragalus spinosus",
+             "Onopordum  cynarocephalum",
+              "Anthemis  tinctioria",
+              "Allium  aflatunense",
+              "Allium  obliquum",
+             "Smyrnium  olustratum",
+            "Tagetes patula"
+            ],
+             "maps_query_location": "Tel Avital"
+         },
+        {
+           "location_name": "שלולית פרג",
+           "flowers": [
+               "Ranunculus aquatilis",
+              "Heliotropium  supinum",
+               "Sherardia arvensis"
+            ],
+          "maps_query_location": null
+        },
+         {
+           "location_name": "דרום רמת הגולן",
+          "flowers": [
+             "Halimione portulacoides"
+            ],
+             "maps_query_location": "Southern Golan Heights"
+         },
+          {
+           "location_name": "אל חמה",
+            "flowers": [
+              "Ononis natrix",
+              "Dianthus carmelitarum",
+              "Allium  netalense",
+              "Allium  obliquum"
+           ],
+           "maps_query_location": "Al Hamma"
+         }
+       ]
+    }
+  ]
+}
+```

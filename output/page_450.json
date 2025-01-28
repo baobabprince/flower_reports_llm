@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/11/2016",
+      "observer": "רות שקולניק",
+      "original_text": "אחילוף הגליל פורח בחורשת השיטה המלבינה (צומת תמרת)",
+      "locations": [
+        {
+          "location_name": "חורשת השיטה המלבינה",
+          "flowers": ["אחילוף הגליל"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "צומת תמרת",
+          "flowers": ["אחילוף הגליל"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/11/2016",
+      "observer": "שחר גורביץ'",
+      "original_text": "כבר חשבנו שהן לא תפרחנה השנה אך הן לא אכזבו. בואו לראות אותן וגם את הגן המחודש ששוץ בקיץ באופן שיגן על המגוון הבוטאני המיוחד שבו.",
+       "locations": [
+        {
+          "location_name": "גבעת עדה",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2016",
+      "observer": "נעמה עוזרי",
+      "original_text": "נצפו 20 חלמוניות ליד מעלה רחבעם, בואדי אבו מחרב",
+      "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "ואדי אבו מחרב",
+           "flowers": ["חלמונית"],
+            "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "03/11/2016",
+      "observer": null,
+      "original_text": "במעלה רחבעם התחלת פריחה, הר אדמון פריחה המונית , יער ביריה ( כולל אתר חדש שנמצא ביער זה השבוע)",
+      "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "הר אדמון",
+          "flowers": ["חלמונית"],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2016",
+      "observer": "יוסי בוכמן",
+       "original_text": "תחילת פריחת חלמונית גדולה מצפון לחרבת סנסן. נצפו 5 פרטים",
+      "locations": [
+        {
+          "location_name": "חרבת סנסן",
+          "flowers": ["חלמונית גדולה"],
+           "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "01/11/2016",
+      "observer": null,
+      "original_text": "נרקיס מצוי סיתוונית היורה בן חצב סיתוונית רקפת סתווית",
+      "locations": [
+       {
+          "location_name": "מצוק הררבעים",
+          "flowers": ["נרקיס מצוי", "סתוונית היורה","בן חצב סיתוונית", "רקפת סתווית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "01/11/2016",
+      "observer": null,
+      "original_text": "בחורשת ה 40 , וגם רקפות בלי עלים",
+        "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["נרקיס מצוי", "רקפת"],
+           "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "חורשת ה 40",
+          "flowers": ["נרקיס מצוי", "רקפת"],
+           "maps_query_location": null
+        }
+      ]
+    },
+   {
+      "date": "30/10/2016",
+      "observer": null,
+       "original_text": "אוסף מלפני שנתיים בדיוק",
+      "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2016",
+      "observer": "סנופי שחר",
+      "original_text": "בניגוד לשנים קודמות שהיו מאות פרטים, ביקרנו היום ומצאנו חמש חלמוניות פזורות במורד המזרחי של הגיא. לעומת זאת היו הרבה \"עולי רגל\" כמונו שבאו לחפש את החלמוניות והתאכזבו.",
+      "locations": [
+        {
+          "location_name": "גבעות גורל",
+           "flowers": ["חלמונית"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "27/10/2016",
+       "observer": "אוקנין יחיאל",
+      "original_text": "החלה פריחת הרקפות בנחל אלון 26.10.16",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Carmel"
+        },
+        {
+         "location_name": "נחל אלון",
+          "flowers": ["רקפת"],
+          "maps_query_location": null
+         }
+      ]
+    }
+  ]
+}
+```

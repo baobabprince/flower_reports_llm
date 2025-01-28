@@ -1,0 +1,133 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/08/2015",
+      "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": []
+    },
+    {
+      "date": "28/07/2015",
+      "observer": null,
+      "original_text": "ראו תצלום של לוח שולחני בקישור",
+       "locations": []
+    },
+    {
+      "date": "27/07/2015",
+      "observer": "יחיאל אוקנין",
+      "original_text": "פריטים רבים של צורית ספרדית  גם  בטירת כרמל בחודש מאי 2015.שרה יש צילומים בבוטניקה לאוהבים.",
+      "locations": [
+        {
+          "location_name": "טירת כרמל",
+          "flowers": ["צורית ספרדית"],
+          "maps_query_location": "Tirat Carmel"
+        }
+      ]
+    },
+     {
+      "date": "27/07/2015",
+      "observer": "רועי קן-תור",
+      "original_text": "יותר פסטלי, יותר חם, יותר עדין- לא חסר צבע בקיץ. ציורי טבע נפלאים בהם מתערבבים עלי ופרחי הצלף הקוצני עם קוצי דרדר ופירות היערה האטלקית האדומים משחקים עם שפרירה קשקשנית יבשה וגזר קפח זקוף ומרשים. בין הפורחים: ליד הבריכה געדת הביצות, נימפאה תכולה וערברבה קטנת-פרחים. וכן חורשף מצויץ.",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": ["צלף קוצני","דרדר","יערה איטלקית","שפרירה קשקשנית","גזר קפח","געדת הביצות","נימפאה תכולה","ערברבה קטנת-פרחים","חורשף מצויץ"],
+          "maps_query_location": "Neot Kedumim"
+         }
+      ]
+    },
+    {
+      "date": "26/07/2015",
+       "observer": null,
+      "original_text": "אגן השיקוע מנשה בחולות קיסריה",
+      "locations": [
+        {
+          "location_name": "מנשה",
+           "flowers": ["שרוכנית ארץ ישראלית"],
+          "maps_query_location": "Menashe"
+        },
+         {
+          "location_name": "קיסריה",
+           "flowers": ["שרוכנית ארץ ישראלית"],
+          "maps_query_location": "Caesarea"
+         }
+      ]
+    },
+      {
+      "date": "26/07/2015",
+       "observer": null,
+      "original_text": "פורח בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["ישרוע מאוגד"],
+          "maps_query_location": "Ga'ash"
+        }
+       ]
+    },
+     {
+      "date": "22/07/2015",
+      "observer": null,
+      "original_text": "ראו באלבום תצלומים מרהיבים",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": null,
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "20/07/2015",
+      "observer": null,
+       "original_text": "פורחת בגן בגעש",
+      "locations": [
+         {
+          "location_name": "געש",
+           "flowers": ["נטופית רפואית"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "19/07/2015",
+      "observer": null,
+      "original_text": "נמפאות תכולות, ושאר צמחי מים",
+      "locations": [
+        {
+          "location_name": "עין אפק",
+          "flowers":["נימפאה תכולה"],
+          "maps_query_location": "Ein Afek"
+        }
+      ]
+    },
+    {
+      "date": "16/07/2015",
+      "observer": "רועי קן-תור",
+       "original_text": "כפר לבן, תגית קיצית, לפופית החוף, גולנית ערב, ,פרגה צהובה, עדעד רותמי, נר-לילה חופי, קצח השדה, חלבלוב הים, פרע מסולסל, געדה קפחת, נימפאה תכולה ואפילו חצב ראשון כבר עם ניצני פריחה...(החממה הטרופית פורחת להפליא)",
+       "locations": [
+        {
+          "location_name": "אוניברסיטת תל אביב",
+          "flowers": [
+            "כפר לבן",
+            "תגית קיצית",
+            "לפופית החוף",
+            "גולנית ערב",
+            "פרגה צהובה",
+            "עדעד רותמי",
+            "נר-לילה חופי",
+            "קצח השדה",
+            "חלבלוב הים",
+            "פרע מסולסל",
+            "געדה קפחת",
+            "נימפאה תכולה",
+             "חצב"
+           ],
+           "maps_query_location": "Tel Aviv University"
+        }
+      ]
+    }
+  ]
+}
+```

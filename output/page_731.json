@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/07/2010",
+      "observer": "עירית",
+      "original_text": "לא בגלל הפריחה אלא בגלל החורבות ששוות שטוט בנוף הרים וכנרת ובעיקר התות, אבל בינתיים אפשר לראות הרבה פרטים של שום לבנבן וזנב פריחה של קיפודן וקצת ציפורן נקוד ועוד.",
+      "locations": [
+        {
+          "location_name": "חורבת ב\"ק",
+          "flowers": [
+            "Allium neapolitanum",
+            "Echinops",
+            "Dianthus tripunctatus"
+           ],
+          "maps_query_location": "Khorbat Bak"
+        },
+         {
+          "location_name": "הרי הכנרת",
+          "flowers": [
+            "Allium neapolitanum",
+            "Echinops",
+             "Dianthus tripunctatus"
+           ],
+          "maps_query_location": "Sea of Galilee mountains"
+        }
+      ]
+    },
+    {
+      "date": "02/07/2010",
+       "observer": null,
+      "original_text": "חבצלות החוף הראשונות פורחות בחוף געש",
+       "locations": [
+        {
+          "location_name": "חוף געש",
+          "flowers": [
+             "Pancratium maritimum"
+          ],
+          "maps_query_location": "Ga'ash Beach"
+        }
+      ]
+    },
+    {
+      "date": "29/06/2010",
+       "observer": null,
+      "original_text": "בסיור עם מייק בחרמון פרחו הללו: עוגית החרמון, הרבה ציפורן הלבנון היפהפיה, פרע חרמוני, פעמונית אמיתית, קוסיניה חרמונית, לוטוס מקרין, חרחבינה ירוקה ואחרות, כולמון כוכבני, חטמית קרחת באופן כללי הפריחה לקראת סוף.",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "Astragalus hermoneus",
+            "Dianthus libanoticus",
+            "Papaver hermonis",
+            "Campanula hierosolymitana",
+            "Cousinia hermonis",
+             "Lotus corniculatus",
+            "Carlina curetum",
+            "Globularia arabica",
+            "Alcea setosa"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "27/06/2010",
+       "observer": "דרור מלמד",
+      "original_text": "חבלבלן המשוכות בשיא הפריחה על גדת נהר הירדן המערבית, בין שדה נחמיה לכפר בלום.",
+       "locations": [
+        {
+            "location_name": "גדת נהר הירדן המערבית",
+            "flowers": [
+                "Calystegia sepium"
+            ],
+            "maps_query_location": "West bank of Jordan River"
+        },
+        {
+          "location_name": "שדה נחמיה",
+          "flowers": [
+                "Calystegia sepium"
+            ],
+          "maps_query_location": "Sde Nehemia"
+        },
+         {
+          "location_name": "כפר בלום",
+           "flowers": [
+                "Calystegia sepium"
+            ],
+          "maps_query_location": "Kfar Blum"
+        }
+      ]
+    },
+    {
+      "date": "25/06/2010",
+       "observer": "ליאורה קרת",
+      "original_text": "בברכת יער שבפארק השרון עדיין פורחים הוורודים ה\"קלאסיים\", כלומר בוציץ סוככני בהמוניו וכף-צפרדע איזמלני.  הדמסון סיים את חלקו בפריחה וכעת מפזר את זרעיו בהמוניהם (לא מומלץ ללכת יחפים). מתחילים לפרוח: כדורן ענף בקצה הצפון-מזרחי של הברכה ואל-ציצית לבנה.",
+      "locations": [
+         {
+          "location_name": "ברכת יער",
+             "flowers": [
+                "Gladiolus italicus",
+                "Alisma lanceolatum",
+                 "Sphaeranthus suaveolens",
+                  "Filago pyramidata"
+            ],
+          "maps_query_location": "Breikhat Ya'ar"
+        },
+         {
+          "location_name": "פארק השרון",
+             "flowers": [
+                 "Gladiolus italicus",
+                "Alisma lanceolatum",
+                 "Sphaeranthus suaveolens",
+                  "Filago pyramidata"
+            ],
+          "maps_query_location": "Sharon Park"
+        }
+      ]
+    },
+     {
+      "date": "20/06/2010",
+      "observer": null,
+      "original_text": "ירדנו מחניון כפר-שמאי, למרות הקיץ היתה פריחה מגוונת : ורבנה רפואית, שלמון יפואי, שום לבנבן, קיפודן, קערורית שיחנית בסוף פריחה, פטל קדוש, מליסה רפואית, פירות: אשחר רחב עלים בפירות עסיסיים, ער אציל, תאנה, דולב מזרחי, וסוככיים רבים.",
+      "locations": [
+         {
+          "location_name": "כפר שמאי",
+            "flowers": [
+             "Verbena officinalis",
+             "Salvia judaica",
+             "Allium neapolitanum",
+             "Echinops",
+              "Sarcopoterium spinosum",
+              "Rubus sanctus",
+              "Melissa officinalis"
+            ],
+          "maps_query_location": "Kfar Shammai"
+        },
+         {
+          "location_name": "נחל עמוד",
+          "flowers": [
+              "Verbena officinalis",
+             "Salvia judaica",
+             "Allium neapolitanum",
+             "Echinops",
+              "Sarcopoterium spinosum",
+              "Rubus sanctus",
+               "Melissa officinalis"
+            ],
+           "maps_query_location": "Nahal Amud"
+        }
+      ]
+    },
+     {
+      "date": "17/06/2010",
+      "observer": null,
+      "original_text": "בכניס ה לכפר יהשע - מרבדים סגולים וכן בכביש מצומת גולני עד לכפר תבור פריחה של המוני קרקפות לצידי הכביש",
+      "locations": [
+         {
+          "location_name": "כפר יהושע",
+          "flowers": [
+               "Centaurea iberica"
+             ],
+          "maps_query_location": "Kfar Yehoshua"
+        },
+          {
+          "location_name": "צומת גולני",
+          "flowers": [
+               "Centaurea iberica"
+             ],
+           "maps_query_location": "Golani Junction"
+        },
+        {
+           "location_name": "כפר תבור",
+             "flowers": [
+               "Centaurea iberica"
+             ],
+           "maps_query_location": "Kfar Tavor"
+        }
+      ]
+    },
+    {
+      "date": "13/06/2010",
+       "observer": null,
+       "original_text": "שבת חמה בנחל גוש חלב ויער ברעם. ליד ביהכ\"נ העתיק של גוש חלב ריכוז אדיר של חוחני קנרס בשיא פריחתם. לאורך הדרך אגוזי מלך נושאי פרי ירוק בשפע, פריחת קיפודנים,  ביער פורחת המליסה. זלזלת מנוצה מכסה שיחים, בכל חלקי החורש. בנחל צבעון נתקלתי גם בבוצין נמוך יחסית, בעל פריחה צפופה מאוד- קיסריון ?",
+      "locations": [
+         {
+          "location_name": "נחל גוש חלב",
+          "flowers": [
+             "Echinops",
+            "Melissa officinalis",
+             "Clematis cirrhosa",
+             "Verbascum",
+             "Cynara syriaca"
+              ],
+          "maps_query_location": "Nahal Gush Halav"
+        },
+        {
+          "location_name": "יער ברעם",
+             "flowers": [
+                 "Echinops",
+                 "Melissa officinalis",
+                  "Clematis cirrhosa",
+                 "Verbascum",
+                  "Cynara syriaca"
+             ],
+          "maps_query_location": "Bar'am Forest"
+        },
+           {
+          "location_name": "נחל צבעון",
+             "flowers": [
+               "Echinops",
+                 "Melissa officinalis",
+                  "Clematis cirrhosa",
+                 "Verbascum",
+                  "Cynara syriaca"
+            ],
+          "maps_query_location": "Nahal Tzivon"
+        }
+      ]
+    },
+    {
+      "date": "12/06/2010",
+       "observer": null,
+      "original_text": "פורחת ברמת השופט בפריחה יפהפיה",
+      "locations": [
+        {
+          "location_name": "רמת השופט",
+           "flowers": [
+               "Clematis cirrhosa"
+             ],
+          "maps_query_location": "Ramat HaShofet"
+        }
+      ]
+    }
+  ]
+}
+```

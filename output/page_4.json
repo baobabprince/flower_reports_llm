@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/01/2025",
+      "observer": "עידו מגן",
+      "original_text": "שיא פריחת כלניות בגשרון אוהד שליד חוות רונית ובגבעת אלון התבור שליד בני דרור.",
+       "locations": [
+        {
+          "location_name": "גשרון אוהד",
+           "flowers": ["כלנית מצויה"],
+          "maps_query_location": "Gesher Ohad"
+        },
+         {
+          "location_name": "חוות רונית",
+           "flowers": ["כלנית מצויה"],
+          "maps_query_location": "Havat Ronit"
+        },
+        {
+          "location_name": "גבעת אלון התבור",
+          "flowers": ["כלנית מצויה"],
+           "maps_query_location": "Givat Alon HaTavor"
+         },
+         {
+           "location_name": "בני דרור",
+            "flowers": ["כלנית מצויה"],
+          "maps_query_location": "Bnei Dror"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2025",
+       "observer": null,
+      "original_text": "זלזלת הקנוקנות, נרקיסים, נץ-חלב הררי בהמוניו, דודא רפואי, סביונים , כתמה עבת -שורשים, רומוליאה צידונים ( שאנחנו לא ראינו אבל אחרים כן ראו) כלניות ורקפות והרבה עיריות",
+       "locations": [
+        {
+          "location_name": "יער עופר",
+           "flowers": [
+            "זלזלת הקנוקנות",
+            "נרקיס",
+             "נץ חלב הררי",
+            "דודא רפואי",
+             "סביון",
+            "כתמה עבת שורשים",
+             "רומוליאה צידונית",
+             "כלנית מצויה",
+             "רקפת",
+            "עירית"
+          ],
+           "maps_query_location": "Ya'ar Ofer"
+         }
+      ]
+    },
+    {
+      "date": "15/01/2025",
+      "observer": "אורנה ניסן",
+      "original_text": "נכון לאתמול 14 לינואר, התחלת כלניות צבעוניות, בעמק השלום יקנעם עילית. למי שמגיע מרח' עמק השלום ,פינת הגלבוע,יורד לוואדי, יש מקבץ של חמש כלניות,בצד השביל, מצד שמאל, חלקן סגולות, וחלקן לבנות, המשקיפות אל המבנה הארכיאולוגי הישן. צפי לשיא הפריחה,בעמק השלום, בעוד כשבוע עד שבועיים",
+      "locations": [
+        {
+          "location_name": "עמק השלום",
+           "flowers": ["כלנית מצויה"],
+          "maps_query_location": "Emek Hashalom"
+        },
+        {
+         "location_name": "יקנעם עילית",
+          "flowers": ["כלנית מצויה"],
+         "maps_query_location": "Yokneam Illit"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2025",
+      "observer": "שלמה זיו",
+      "original_text": "שפע רקפות במסלול ב\"שבילנפש\" בפארק הטבע, רמת הנדיב, זיכרון יעקב",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+          {
+           "location_name": "זיכרון יעקב",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Zikhron Ya'akov"
+          }
+      ]
+    },
+    {
+      "date": "13/01/2025",
+      "observer": null,
+      "original_text": "כל הפרטים בקישור למטה",
+      "locations": []
+    },
+     {
+      "date": "12/01/2025",
+      "observer": null,
+      "original_text": "פורח במאגר בנטל",
+       "locations": [
+        {
+          "location_name": "מאגר בנטל",
+          "flowers": ["כרכום נאה"],
+           "maps_query_location": "Maagar Bental"
+         }
+       ]
+    },
+    {
+      "date": "12/01/2025",
+      "observer": null,
+      "original_text": "כרכום צהבהב, נץ-חלב אזמלני",
+       "locations": [
+        {
+         "location_name": "יער אודם",
+          "flowers": ["כרכום צהבהב", "נץ חלב אזמלני"],
+           "maps_query_location": "Ya'ar Odem"
+         }
+      ]
+    },
+     {
+      "date": "12/01/2025",
+      "observer": null,
+      "original_text": "ברוניקת המים,  כלנית מצויה,  לוענית גדולת-עלים , תלתן הפוך",
+       "locations": [
+        {
+          "location_name": "נוחיילה",
+          "flowers": [
+           "ברוניקת המים",
+           "כלנית מצויה",
+           "לוענית גדולת עלים",
+            "תלתן הפוך"
+          ],
+         "maps_query_location": "Nukheila"
+        },
+        {
+          "location_name":"גולן",
+          "flowers": [
+           "ברוניקת המים",
+           "כלנית מצויה",
+           "לוענית גדולת עלים",
+            "תלתן הפוך"
+          ],
+          "maps_query_location":"Golan Heights"
+         }
+      ]
+    },
+     {
+      "date": "12/01/2025",
+       "observer": null,
+       "original_text": "רקפת יוונית, כרכום גיירדו,  חלמונית גדולה  ( פרי)",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+           "flowers": ["רקפת יוונית", "כרכום גיירדו", "חלמונית גדולה"],
+          "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2025",
+      "observer": null,
+      "original_text": "ביער לביא",
+      "locations": [
+        {
+           "location_name": "יער לביא",
+          "flowers": ["רקפת"],
+          "maps_query_location":"Ya'ar Lavi"
+        }
+      ]
+    }
+  ]
+}
+```

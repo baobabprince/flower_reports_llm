@@ -1,0 +1,264 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/11/2011",
+      "observer": "עירית",
+      "original_text": "ברמת דלתון שפע כרכומים צהבהבים, כרכום גיירדו והתחלת פריחה של סתוונית קצרת עלים. בגבעת חלב חיננית הבתה וכרכום חורפי בירידה מהגבעה לנחל דישון. בנחל גוש חלב  פריחה של חלמונית גדולה גבוה מעל הואדי.",
+      "locations": [
+        {
+          "location_name": "רמת דלתון",
+          "flowers": [
+            "Crocus ochroleucus",
+             "Crocus pallasii",
+            "Colchicum autumnale"
+          ],
+          "maps_query_location": "Ramat Dalton"
+        },
+        {
+           "location_name": "גבעת חלב",
+           "flowers": [
+             "Bellis sylvestris",
+              "Crocus hyemalis"
+           ],
+          "maps_query_location": "Givat Halav"
+         },
+         {
+          "location_name": "נחל דישון",
+          "flowers": [
+            "Bellis sylvestris",
+              "Crocus hyemalis"
+           ],
+          "maps_query_location": "Nahal Dishon"
+         },
+         {
+           "location_name":"נחל גוש חלב",
+           "flowers":[
+             "Sternbergia clusiana"
+            ],
+            "maps_query_location":"Nahal Gush Halav"
+         }
+      ]
+    },
+    {
+      "date": "23/11/2011",
+      "observer": null,
+      "original_text": "שמעון דדון ואנוכי טיילנו אתמול בצפון והנה פריחותינו : בחורבת מלח שפע נרקי סתווי,סתוונית היורה,וכרכום גיירדו. כנ\"ל ליד מעגן מיכאל. בכחל ראינו חלמונית זעירה,ורקפת סתווית, ובנחל ראש פינה חזינו בחלמוניות ענקיות ובציפורנית מצוירת",
+       "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": [
+            "Narcissus serotinus",
+            "Colchicum hierosolymitanum",
+             "Crocus pallasii"
+            ],
+           "maps_query_location": "Hurvat Melah"
+        },
+         {
+            "location_name":"מעגן מיכאל",
+             "flowers":[
+              "Narcissus serotinus",
+              "Colchicum hierosolymitanum",
+              "Crocus pallasii"
+              ],
+              "maps_query_location":"Ma'agan Mikhael"
+         },
+         {
+           "location_name":"כחל",
+           "flowers":[
+              "Sternbergia colchiciflora",
+              "Cyclamen persicum"
+             ],
+              "maps_query_location":"Kahhal"
+         },
+         {
+           "location_name":"נחל ראש פינה",
+           "flowers":[
+             "Sternbergia clusiana",
+              "Dianthus pictus"
+             ],
+            "maps_query_location":"Nahal Rosh Pina"
+          }
+      ]
+    },
+    {
+      "date": "22/11/2011",
+      "observer": "מיכאל בועז",
+      "original_text": "ישנה פריחה של חלמונית גדולה, עשרות פרטים, בין  הדרדרות מעל וממזרח הכפר דבוריה, מתחת לדרך האש הנמוכה נ.צ. 1862,2323",
+      "locations": [
+        {
+          "location_name": "דבוריה",
+          "flowers": [
+            "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Daburiyya"
+        }
+      ]
+    },
+      {
+      "date": "22/11/2011",
+      "observer": "דוד אייגנר",
+       "original_text":"מרבד יפהפה של סתווניות בכניסה לישוב, באזור העתיקות",
+      "locations": [
+        {
+          "location_name": "הר חרשה",
+          "flowers": [
+            "Colchicum hierosolymitanum"
+           ],
+           "maps_query_location": "Har Horesha"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2011",
+      "observer": "גן בוטני",
+      "original_text": "פורחים : כרכום גייארדו + השבכה + נאה + צהבהב + החרמון + א\"י , סתוונית התשבץ (סיום)           + היורה + טוביה , גולנית ערב , אירוס הסרגל + הלבנון , מרסיה יפהפיה , גומא צפוף , נר הלילה החופי , פרע קטן עלים ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers":[
+            "Crocus pallasii",
+             "Crocus cancellatus",
+             "Crocus pulchellus",
+             "Crocus ochroleucus",
+             "Crocus hermoneus",
+             "Crocus palaestinus",
+             "Colchicum tesseractum",
+             "Colchicum hierosolymitanum",
+              "Colchicum tunicatum",
+              "Echium glomeratum",
+              "Iris regis-uzziae",
+              "Iris libanotica",
+             "Marsilea",
+              "Cyperus congestus",
+              "Oenothera drummondii",
+              "Hypericum hyssopifolium"
+            ],
+            "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2011",
+      "observer": "עפרה פרידמן",
+      "original_text": "בכניסה לישוב בית-אל ,פריחת כרכום א\"י  (שיא), כרכום חורפי (התחלה),סתונית ירושלים, סתונית היורה ,בן חצב סתוי.",
+      "locations": [
+        {
+          "location_name": "בית אל",
+          "flowers": [
+            "Crocus palaestinus",
+            "Crocus hyemalis",
+            "Colchicum hierosolymitanum",
+            "Colchicum stevenii",
+             "Prospero autumnale"
+          ],
+          "maps_query_location": "Beit El"
+        }
+      ]
+    },
+        {
+      "date":"21/11/2011",
+      "observer": null,
+      "original_text": "כרים של סיתווניות היורה בשיפולי היער, לכיוון השדות של כפר דניאל, ומאחורי מושב גמזו. מאחרוי קברות המכבים ממשיכים ומשמאל בשולי היער פורחים נרקיסים",
+      "locations": [
+         {
+          "location_name": "יער בן שמן",
+           "flowers": [
+              "Colchicum hierosolymitanum"
+            ],
+            "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "כפר דניאל",
+           "flowers": [
+              "Colchicum hierosolymitanum"
+             ],
+             "maps_query_location":"Kfar Daniel"
+         },
+           {
+          "location_name":"גמזו",
+           "flowers":[
+              "Colchicum hierosolymitanum"
+           ],
+             "maps_query_location":"Gamzu"
+         },
+         {
+            "location_name": "קברות המכבים",
+             "flowers": [
+             "Narcissus"
+           ],
+            "maps_query_location":"Caves of the Maccabees"
+         }
+      ]
+    },
+        {
+      "date": "21/11/2011",
+      "observer": "עירית",
+      "original_text": "בהר תבור שפע מרהיב של סתוונית היורה, בן חצב סתווני. הרבה כרכום חורפי, בעיקר בצד הצפוני של הפסגה, מעט רקפות, שתי חלמוניות זעירות על הסמ\"ש האדום לקראת סוף העלייה והרבה חלמוניות גדולות מעל דבורייה.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "Colchicum hierosolymitanum",
+            "Prospero autumnale",
+            "Crocus hyemalis",
+            "Cyclamen",
+             "Sternbergia colchiciflora",
+              "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Mount Tabor"
+        },
+         {
+          "location_name": "דבורייה",
+          "flowers": [
+           "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Daburiyya"
+        }
+      ]
+    },
+      {
+      "date": "20/11/2011",
+      "observer": "מיכאל בועז",
+      "original_text": "נעשה סיור במצוק הארבעים בכרמל. נראתה כבר פריחה של איריס הסרגל וכן נרקיסים, רקפות, זוטה לבנה, כרכום חורפי וכדומה",
+       "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+          "flowers": [
+            "Iris regis-uzziae",
+             "Narcissus",
+             "Cyclamen",
+             "Micromeria fruticosa",
+             "Crocus hyemalis"
+             ],
+           "maps_query_location": "Mitzuk Ha'arba'im"
+         }
+      ]
+    },
+    {
+      "date": "20/11/2011",
+      "observer": "פרנקל פנינה",
+        "original_text":"בשישי השמים שם היו בהירים ופגשנו כתלה חריפה, מלחית אשלגנית,פירות של רותם, צפורן נקוד, ארכובית, פורסקליאה שבירה,פגוניה (עלים בלבד), עד עד מאובק, פירות של שבר. מעט אזובית, ו-2 פרטים נהדרים של חבצלת הנגב",
+        "locations": [
+        {
+          "location_name": "נחל צפית",
+          "flowers": [
+            "Zygophyllum dumosum",
+            "Salsola kali",
+            "Retama raetam",
+            "Dianthus tripunctatus",
+            "Polygonum",
+           "Forsskaolea tenacissima",
+            "Peganum harmala",
+            "Limonium meyeri",
+             "Fagonia",
+              "Micromeria",
+            "Pancratium sickenbergeri"
+          ],
+          "maps_query_location": "Nahal Tzafit"
+        }
+      ]
+    }
+  ]
+}
+```

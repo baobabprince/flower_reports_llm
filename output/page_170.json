@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/10/2021",
+      "observer": "שגב אהרון",
+      "original_text": "סיתווניות רבות בשביל הפסגה. חלמוניות משמאל לשביל כ 6 מטר משמאל לשביל 250 מטר. אחרי תצפית לצפת",
+      "locations": [
+        {
+          "location_name": "מירון",
+           "flowers": ["סתוונית", "חלמונית"],
+           "maps_query_location": "Mount Meron"
+         }
+      ]
+    },
+    {
+      "date": "17/10/2021",
+      "observer": null,
+      "original_text": "גבעת אולגה וחוף גדור :\nאחילוף צר-עלים,  אטד החוף , בן-טיון בשרני ,  חבצלת החוף, חורשף מצוייץ , טיונית החולות ,  לוביה מצרית, לפופית החוף , מלחית אשלגנית \nבית יצחק ותל יצחק:\nעדשת-מים גיבנת וכדרורית המים, פטל קדוש, ארכובית צמירה ,  איכהורניה עבת-רגל  \nמושב עדנים:\nגומא שופע,  חסה רותמית,  \nנחל-הדס ליד מושב עדנים:\n קנה-סוכר מצרי  מדד פרואני,  נר-הלילה",
+      "locations": [
+        {
+          "location_name": "גבעת אולגה",
+          "flowers": [ "אחילוף צר-עלים", "אטד החוף", "בן-טיון בשרני", "חבצלת החוף", "חורשף מצוייץ", "טיונית החולות", "לוביה מצרית", "לפופית החוף", "מלחית אשלגנית" ],
+          "maps_query_location": "Givat Olga"
+        },
+        {
+          "location_name": "חוף גדור",
+          "flowers": [ "אחילוף צר-עלים", "אטד החוף", "בן-טיון בשרני", "חבצלת החוף", "חורשף מצוייץ", "טיונית החולות", "לוביה מצרית", "לפופית החוף", "מלחית אשלגנית" ],
+            "maps_query_location": "Hof Gador"
+        },
+        {
+          "location_name": "בית יצחק",
+           "flowers": ["עדשת-מים גיבנת", "כדרורית המים", "פטל קדוש", "ארכובית צמירה", "איכהורניה עבת-רגל"],
+           "maps_query_location": "Beit Yitzhak"
+        },
+         {
+          "location_name": "תל יצחק",
+           "flowers": ["עדשת-מים גיבנת", "כדרורית המים", "פטל קדוש", "ארכובית צמירה", "איכהורניה עבת-רגל"],
+           "maps_query_location": "Tel Yitzhak"
+        },
+        {
+          "location_name": "מושב עדנים",
+          "flowers": ["גומא שופע", "חסה רותמית", "קנה-סוכר מצרי", "מדד פרואני", "נר-הלילה"],
+          "maps_query_location":"Moshav Edenim"
+         },
+         {
+           "location_name":"נחל הדס",
+            "flowers": ["קנה-סוכר מצרי", "מדד פרואני", "נר-הלילה"],
+            "maps_query_location": "Nahal Hadas"
+          }
+       ]
+    },
+    {
+      "date": "16/10/2021",
+      "observer": "מורי חן",
+      "original_text": "תצפיות פריחה בממשית ובבקעת עובדה.",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "בקעת עובדה",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Uvda Valley"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2021",
+      "observer": null,
+      "original_text": "פורחת במנזר מר אליאס ירושלים",
+      "locations": [
+        {
+          "location_name": "מנזר מר אליאס ירושלים",
+            "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Mar Elias Monastery, Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2021",
+       "observer": null,
+      "original_text": "תל-חזקה \nאגס סורי, חלמונית גדולה ,  סתוונית התשבץ \nבריכת-מאן חרמון \nקוצן קיפח , חלמונית גדולה , בן-קוצן מאפיר \nהר מירון ושביל-הפסגה \nקטלב מצוי (פרי) , סתוונית בכירה , חלמונית גדולה, אלה ארץ-ישראלית  (פירות)\nמאגר בנטל: \nסתוונית התשבץ, עופרית אירופית  ציפורן נקוד",
+      "locations": [
+        {
+           "location_name": "תל חזקה",
+            "flowers": ["אגס סורי", "חלמונית גדולה", "סתוונית התשבץ"],
+           "maps_query_location":"Tel Hazeka"
+         },
+        {
+          "location_name": "בריכת מאן חרמון",
+          "flowers": ["קוצן קיפח", "חלמונית גדולה", "בן-קוצן מאפיר"],
+          "maps_query_location": "Birket Man, Hermon"
+         },
+        {
+           "location_name":"הר מירון",
+            "flowers": ["קטלב מצוי", "סתוונית בכירה", "חלמונית גדולה", "אלה ארץ-ישראלית"],
+            "maps_query_location": "Mount Meron"
+        },
+         {
+           "location_name":"שביל הפסגה",
+            "flowers": ["קטלב מצוי", "סתוונית בכירה", "חלמונית גדולה", "אלה ארץ-ישראלית"],
+            "maps_query_location": "Mount Meron Summit Trail"
+          },
+         {
+          "location_name": "מאגר בנטל",
+          "flowers": ["סתוונית התשבץ", "עופרית אירופית", "ציפורן נקוד"],
+          "maps_query_location": "Bental Reservoir"
+        }
+      ]
+    },
+      {
+      "date": "09/10/2021",
+      "observer": null,
+        "original_text": "ראו קישור למטה",
+        "locations": [
+          {
+            "location_name": "אחו בנימינה",
+            "flowers": [],
+           "maps_query_location":"Binyamina Meadow"
+          }
+        ]
+      },
+      {
+      "date": "09/10/2021",
+        "observer": null,
+        "original_text": "סיתוונית הקליפות , אצבוע אירופי ועוד\nראו צילומים נפלאים אל איילה",
+        "locations": [
+          {
+            "location_name": "דרום",
+            "flowers": ["סיתוונית הקליפות", "אצבוע אירופי"],
+            "maps_query_location": "South District, Israel"
+          }
+        ]
+    },
+     {
+      "date": "09/10/2021",
+       "observer": null,
+      "original_text": "פורחת כבר ברכס בוקר וברכס חזקה.",
+        "locations":[
+          {
+            "location_name":"רכס בוקר",
+            "flowers": ["חלמונית גדולה"],
+            "maps_query_location":"Boker Ridge"
+          },
+            {
+            "location_name":"רכס חזקה",
+            "flowers": ["חלמונית גדולה"],
+            "maps_query_location":"Hazeka Ridge"
+          }
+        ]
+    },
+     {
+        "date":"09/10/2021",
+        "observer": "דורית ועדיה",
+        "original_text":"אקליפטה לבנה:\n9.10.2021 בפריחה, בתעלות מים ליד כפר יהושע",
+         "locations": [
+          {
+            "location_name":"כפר יהושע",
+            "flowers": ["אקליפטה לבנה"],
+            "maps_query_location":"Kfar Yehoshua"
+          }
+         ]
+      },
+    {
+      "date": "07/10/2021",
+      "observer": null,
+      "original_text": "ראו קישור",
+        "locations": [
+        {
+          "location_name": "שביל הפיסגה",
+          "flowers": [],
+           "maps_query_location": "Summit Trail"
+        }
+      ]
+    }
+  ]
+}
+```

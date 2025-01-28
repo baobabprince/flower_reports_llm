@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/02/2021",
+      "observer": null,
+      "original_text": "צמרורת בואסיה, פרג זיפני, מרגנית השדה, דמומית משוננת",
+      "locations": [
+        {
+          "location_name": "בקעת הירדן",
+           "flowers": ["צמרורת בואסיה", "פרג זיפני", "מרגנית השדה", "דמומית משוננת"],
+          "maps_query_location": "בקעת הירדן"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2021",
+      "observer": "עידו מגן",
+      "original_text": "מטעי שקדיות בפריחה מול יער שחריה, ממערב לקיבוץ נתיב הל\"ה וליד מיני ישראל; כלניות בפארק הלאומי בית גוברין ומעט מערבה לו, על כביש 35; צבעונים ורקפות בחניון גרשון וחנה הדס, ליד מערת הנטיפים; כלילי חורש בכל האיזור בתחילת הפריחה",
+      "locations": [
+        {
+           "location_name": "יער שחריה",
+            "flowers": ["שקד"],
+           "maps_query_location": "יער שחריה"
+        },
+        {
+           "location_name":"נתיב הל\"ה",
+           "flowers": ["שקד"],
+           "maps_query_location":"Nativ HaLamed-He"
+        },
+         {
+           "location_name": "מיני ישראל",
+            "flowers": ["שקד"],
+           "maps_query_location": "Mini Israel"
+         },
+        {
+           "location_name": "פארק הלאומי בית גוברין",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Beit Guvrin National Park"
+        },
+         {
+          "location_name": "כביש 35",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Road 35, Israel"
+         },
+         {
+           "location_name": "חניון גרשון וחנה הדס",
+           "flowers": ["צבעוני", "רקפת"],
+           "maps_query_location": "חניון גרשון וחנה הדס"
+        },
+        {
+          "location_name": "מערת הנטיפים",
+          "flowers": ["צבעוני", "רקפת"],
+          "maps_query_location": "Soreq Cave"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2021",
+      "observer": "עופר סרנה",
+      "original_text": "פרט בודד ויפה בצומת המפלים",
+      "locations": [
+        {
+          "location_name": "צומת המפלים",
+          "flowers": ["אירוס הגולן"],
+          "maps_query_location": "צומת המפלים"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2021",
+      "observer": "שלמה אשכנזי",
+       "original_text": "רקפות, צבעונים, סחלבים, לוטם שעיר ולוטם מרווני",
+      "locations": [
+        {
+          "location_name": "כיסלון",
+          "flowers": ["רקפת", "צבעוני", "סחלב", "לוטם שעיר", "לוטם מרווני"],
+           "maps_query_location": "Kisalon"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2021",
+      "observer": "זהר ברכה",
+      "original_text": "איריס הארגמן  גבעת האירוסים נס ציונה",
+      "locations": [
+       {
+          "location_name": "גבעת האירוסים נס ציונה",
+           "flowers": ["איריס הארגמן"],
+           "maps_query_location": "Givat Hairusim, Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2021",
+      "observer": "זהר חזן",
+      "original_text": "פריחה מרהיבה של תורמוסים בנחל תבור",
+      "locations": [
+        {
+          "location_name": "נחל תבור",
+          "flowers": ["תורמוס"],
+           "maps_query_location":"Nahal Tavor"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2021",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "ברכסי הכורכר בצד שמאל של דרך העפר, נראו צבעונים רבים וצהרונים מצויים וכלניות לכל אורך הדרך.\nנראו גם דבורניות דינסמור, ביקיה תרבותית ואספסת מצויה.",
+      "locations": [
+        {
+          "location_name": "מעין צבי",
+          "flowers": ["צבעוני", "צהרון מצוי", "כלנית", "דבורנית דינסמור", "ביקיה תרבותית", "אספסת מצויה"],
+           "maps_query_location": "Ma'ayan Zvi"
+        },
+        {
+          "location_name":"מעגן מיכאל",
+          "flowers": ["צבעוני", "צהרון מצוי", "כלנית", "דבורנית דינסמור", "ביקיה תרבותית", "אספסת מצויה"],
+          "maps_query_location":"Ma'agan Michael"
+         }
+      ]
+    },
+    {
+      "date": "26/02/2021",
+      "observer": "קפלינסקי יפה",
+      "original_text": "",
+       "locations": [
+        {
+          "location_name": "צומת אלומות",
+           "flowers": [],
+           "maps_query_location":"Alumot Junction"
+        },
+         {
+          "location_name":"כפר עבודה",
+          "flowers": [],
+           "maps_query_location": "Kfar Avoda"
+        }
+      ]
+    },
+     {
+      "date": "26/02/2021",
+      "observer": "רוני שוייצר",
+      "original_text": "מצבורים נאים של אירוס הארגמן לאורך השביל הירוק בחוף השרון",
+       "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": ["אירוס הארגמן"],
+           "maps_query_location": "HaSharon Coast National Park"
+        }
+      ]
+    },
+     {
+      "date": "26/02/2021",
+       "observer": null,
+      "original_text": "הצבעוניים במלוא פריחתם אתמול",
+        "locations": [
+        {
+          "location_name":"מעגל מיכאל",
+           "flowers": ["צבעוני"],
+           "maps_query_location":"Ma'agal Michael"
+        }
+      ]
+    }
+  ]
+}
+```

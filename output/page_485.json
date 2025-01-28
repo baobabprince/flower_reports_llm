@@ -1,0 +1,196 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/02/2016",
+      "observer": null,
+      "original_text": "שיא הפריחה כעת",
+      "locations": [
+        {
+          "location_name": "שוקדה",
+          "flowers": [],
+          "maps_query_location": "Shokeda"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2016",
+      "observer": null,
+      "original_text": "גם אני הייתי היום בשמורת פורה פורחים שם כל מה שדווח לפני שני דיווחים שלשום. ובנוסף: ערטנית השדות, קדד נוסף כנראה גדול-פרי,  המוני המונים של זהביות נמוכות (השלוחות? דקת עלים?) כלניות , צמחים רבים של וינקה עשבונית, כלניות כמובן ועוד",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": [
+            "ערטנית השדות",
+            "קדד גדול-פרי",
+            "זהבית נמוכה",
+            "כלנית",
+            "וינקה עשבונית"
+          ],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2016",
+      "observer": null,
+      "original_text": "המסלול בקישור",
+       "locations": [
+        {
+          "location_name": "שמורת פורה",
+           "flowers": [],
+          "maps_query_location": "Pura Nature Reserve"
+        },
+        {
+            "location_name": "שוקדה",
+            "flowers": [],
+           "maps_query_location": "Shokeda"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2016",
+      "observer": null,
+      "original_text": "פורחים גד השדה ומסרק מזרחי",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": [
+            "גד השדה",
+            "מסרק מזרחי"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+     {
+      "date": "03/02/2016",
+      "observer": null,
+      "original_text": "כלניות הרבה, וינקה עשבונית,  עירית גדולה , ציפורני חתול, לשון פר איטלקית, זהביות , איריס ארץ ישראלי, קדד פיינברון, שמשון הדור  ועוד",
+      "locations": [
+        {
+          "location_name": "פורה",
+          "flowers": [
+            "כלנית",
+             "וינקה עשבונית",
+            "עירית גדולה",
+            "ציפורני חתול",
+            "לשון-פר איטלקית",
+            "זהבית",
+            "איריס ארץ ישראלי",
+            "קדד פיינברון",
+            "שמשון הדור"
+          ],
+          "maps_query_location": "Pura"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2016",
+      "observer": null,
+      "original_text": "המוני כלניות נצפו פורחות בדרך נוף נחל שקמה, ליד בית העלמין של קיבוץ אור הנר, בתאריך 29.1.16",
+      "locations": [
+        {
+          "location_name": "נחל שקמה",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Nahal Shikma"
+        },
+         {
+          "location_name": "אור הנר",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Or Haner"
+        }
+      ]
+    },
+     {
+      "date": "01/02/2016",
+      "observer": "Moshe Kuperberg",
+      "original_text": "היינו ביער המגינים (ליד כרמי יוסף) יש הרבה ירוק מסביב אבל לא ראינו פרחים...לעומת זאת קבלנו פיצוי מלא ע\"י \"שטיחי רקפות\" בכל היער...הרקפות נראו יחסית קטנות וכאילו עברו כבר שיא...(ראה בפייסבוק)",
+      "locations": [
+        {
+          "location_name": "יער המגינים",
+          "flowers": [
+              "רקפת"
+          ],
+          "maps_query_location": "Maginim Forest"
+        },
+         {
+          "location_name": "כרמי יוסף",
+          "flowers": [],
+           "maps_query_location": "Karmei Yosef"
+        }
+      ]
+    },
+     {
+      "date": "01/02/2016",
+      "observer": null,
+      "original_text": "בצד הצפוני לכיוון מושב גמזו , נכנסים מול המדגרה ונוסעים בשביל: שפע של כלניות, מסרק מזרחי, קחוונים , ועוד רבים. על התל מול פארק הקופים פורחות כלניות רבות .",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "כלנית",
+            "מסרק מזרחי",
+            "קחוון"
+           ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+         {
+           "location_name": "גמזו",
+            "flowers": [],
+          "maps_query_location": "Gamzu"
+        }
+      ]
+    },
+     {
+      "date": "31/01/2016",
+      "observer": null,
+      "original_text": "בכרם מהר\"ל ויער עופר ובכרמל",
+      "locations": [
+         {
+          "location_name": "כרם מהרל",
+          "flowers": ["מרווה משולשת"],
+          "maps_query_location": "Kerem Maharal"
+        },
+        {
+          "location_name": "יער עופר",
+          "flowers": ["מרווה משולשת"],
+           "maps_query_location": "Ofer Forest"
+        },
+        {
+          "location_name": "הכרמל",
+           "flowers": ["מרווה משולשת"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2016",
+      "observer": null,
+      "original_text": "התקבלו דיווחים מ:בפארק קנדה, בנחל הבשור, בגבעת האיריסים בנס ציונה, בגבעת  מע'ר",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+           "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Canada Park"
+        },
+        {
+          "location_name": "נחל הבשור",
+            "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Nahal HaBesor"
+        },
+         {
+          "location_name": "גבעת האיריסים",
+           "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Givat Hairisim Nes Ziona"
+        },
+         {
+          "location_name": "גבעת מע'ר",
+            "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Givat Maar"
+        }
+      ]
+    }
+  ]
+}
+```

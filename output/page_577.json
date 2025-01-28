@@ -1,0 +1,189 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/01/2014",
+      "observer": "יוסי הורוביץ",
+      "original_text": "טיילנו בשבת 25.1.14 בגבעת הרקפות שליד מושב טל שחר. המון רקפות במרבדים. עושה רושם שהשיא עוד לא הגיע, אבל הביקור היה מספק בהחלט.\nהמוני מטיילים, יותר ממספר הרקפות! בשעה 12:00 בצהריים כבר היה בלתי נסבל.",
+      "locations": [
+        {
+          "location_name": "גבעת הרקפות",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Givat Harakafot"
+        },
+        {
+          "location_name": "טל שחר",
+           "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Tal Shachar"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2014",
+      "observer": "רבקה כהן",
+      "original_text": "26.1.14 , שדה בועז\nאיריס הסרגל\nדודא רפואי",
+      "locations": [
+        {
+          "location_name": "שדה בועז",
+          "flowers": [
+            "איריס הסרגל",
+            "דודא רפואי"
+          ],
+          "maps_query_location": "Sde Boaz"
+         }
+      ]
+    },
+    {
+      "date": "26/01/2014",
+       "observer": "צביקה אבני",
+      "original_text": "החלה הפריחה הלבנה של מציץ סורי על קירות הסלע בכניסה למכתש הקטן.",
+      "locations": [
+        {
+          "location_name": "מכתש הקטן",
+          "flowers": [
+            "מציץ סורי"
+          ],
+          "maps_query_location": "Makhtesh Katan"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2014",
+      "observer": null,
+      "original_text": "בכוכב השחר פריחת זמזומית המדבר .   בסרטבה פורחת יקינטונית מעורקת .",
+     "locations": [
+        {
+          "location_name": "כוכב השחר",
+          "flowers": [
+            "זמזומית המדבר"
+          ],
+           "maps_query_location": "Kokhav HaShahar"
+        },
+        {
+          "location_name": "סרטבה",
+          "flowers": [
+            "יקינטונית מעורקת"
+           ],
+           "maps_query_location": "Sartaba"
+         }
+      ]
+    },
+    {
+      "date": "25/01/2014",
+       "observer": "דליה בונס",
+      "original_text": "סחלב השקיק (3 פרטים) נצפה ליד נחל דליה.",
+      "locations": [
+        {
+          "location_name": "נחל דליה",
+          "flowers": [
+            "סחלב השקיק"
+          ],
+          "maps_query_location": "Nahal Dalia"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2014",
+      "observer": null,
+      "original_text": "יקינטונית מעורקת,איריס א\"י והלבנון,מרסיה יפהפיה,זמזומית זוהרי,רומוליאה צידונית וסגלולית פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+           "flowers": [
+            "יקינטונית מעורקת",
+            "איריס ארץ ישראל והלבנון",
+            "מרסיה יפהפיה",
+            "זמזומית זוהרי",
+            "רומוליאה צידונית",
+            "רומוליאה סגלולית"
+          ],
+          "maps_query_location": "Gan"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2014",
+      "observer": "עירית",
+      "original_text": "שפע של עירית גדולה על הגבעה המערבית ומעליה. שפע בצלציות מזרחית לכנסיה שעל הגבעה המזרחית.",
+      "locations": [
+       {
+          "location_name": "הגבעה המערבית",
+          "flowers": [
+            "עירית גדולה"
+          ],
+          "maps_query_location": "The Western Hill"
+        },
+        {
+          "location_name": "הגבעה המזרחית",
+          "flowers": [
+             "בצלצית"
+          ],
+          "maps_query_location": "The Eastern Hill"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2014",
+      "observer": null,
+      "original_text": "זמזומית המדבר,וערטנית השדות פורחות בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+          "flowers": [
+            "זמזומית המדבר",
+            "ערטנית השדות"
+          ],
+          "maps_query_location": "Gan"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2014",
+      "observer": null,
+       "original_text":"מנחת מגידו – כלניות בודדות בלבד, מאד קטנות ומאד מפוזרות. כרגע אין טעם להגיע לשם במיוחד.\nביצות נוב – המוני נרקיסים בשיא הפריחה, רחוק אבל שווה להגיע! נכון לעכשיו אין שום פריחה אחרת.",
+      "locations": [
+        {
+           "location_name": "מנחת מגידו",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Megiddo Airfield"
+        },
+        {
+          "location_name": "ביצות נוב",
+           "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location":"Nov Marshes"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2014",
+      "observer": "שמיל קליין",
+      "original_text": "איריס הלבנון בהמוניו ורקפת יוונית - בתחילת פריחה - ברכס חזקה\nהתפרצות מדהימה של יקינטון בקרני חיטין",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "איריס הלבנון",
+            "רקפת יוונית"
+          ],
+          "maps_query_location": "Hezeka Ridge"
+        },
+         {
+          "location_name": "קרני חיטין",
+          "flowers": [
+            "יקינטון"
+          ],
+          "maps_query_location": "Karei Hittin"
+        }
+      ]
+    }
+  ]
+}
+```

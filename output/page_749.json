@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/02/2010",
+      "observer": null,
+      "original_text": "מסלול פורח ומפלים באתר YNET",
+      "locations": [
+        {
+          "location_name": "רמת הגולן",
+           "flowers": [],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2010",
+      "observer": null,
+      "original_text": "ביער אמציה אוכל לדווח על פריחה מרובה ביותר  של כלניות אדומות וכן כתמה עבת שורשים\nלשון פר איטלקית ולשון הפר המידברית",
+      "locations": [
+        {
+          "location_name": "יער אמציה",
+          "flowers": [
+            "כלנית אדומה",
+             "כתמה עבת שורשים",
+            "לשון הפר האיטלקית",
+            "לשון הפר המדברית"
+          ],
+          "maps_query_location": "Amatsya Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2010",
+      "observer": null,
+      "original_text": "מרבדי רקפות,  באזור  המגדל",
+       "locations": [
+        {
+          "location_name": "המגדל",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Migdal"
+        }
+       ]
+    },
+     {
+      "date": "06/02/2010",
+      "observer": null,
+      "original_text": "בכביש 38 מבית שמש לבית ג'ימל - פריחה מדהימה של עצי שקד",
+      "locations": [
+        {
+         "location_name": "בית שמש",
+          "flowers": [
+            "שקד"
+          ],
+           "maps_query_location": "Beit Shemesh"
+        },
+        {
+          "location_name": "בית ג'ימל",
+          "flowers": [
+             "שקד"
+           ],
+            "maps_query_location": "Beit Jimal"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2010",
+       "observer": "איתי ארד",
+      "original_text": "כל האיזור מלא באירוס הארגמן- חלקם ענקיים. פשוט מדהים. בנוסף: רותם המדבר, מעט פרג אגסני, עיריות, ופרטים ראשונים של: נורית אסיה (אדום וצהוב), וצבעוני ההרים. מומלץ מאוד לקפוץ לביקור.",
+      "locations": [
+        {
+          "location_name": "שמורת פולג",
+          "flowers": [
+            "אירוס הארגמן",
+             "רותם המדבר",
+            "פרג אגסני",
+             "עירית",
+            "נורית אסיה",
+            "צבעוני ההרים"
+          ],
+          "maps_query_location": "Poleg Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "04/02/2010",
+      "observer": "ארן זר",
+      "original_text": "בתל חברון, בין חומות הענקים ואויר הרים צלול, פורחים איריסים ארצישראליים מהממים ביופיים!\nשווה לקפוץ לסיבוב!",
+      "locations": [
+        {
+          "location_name": "תל חברון",
+          "flowers": [
+            "איריס ארצישראלי"
+          ],
+          "maps_query_location": "Tel Hebron"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2010",
+      "observer": null,
+      "original_text": "במידה  ומזג האוויר יהיה לא יהיה סוער - עלו לגולן לצפות המפלים, בקישור טיול מומלץ.\nסעו לתהנו",
+        "locations": [
+        {
+          "location_name": "רמת הגולן",
+          "flowers": [],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "03/02/2010",
+       "observer": null,
+      "original_text": "'יחנוק המלחות' החל לנבוט ולפרוח בכמות מרשימה. המיקום: סמוך לפינה הדרום מזרחית של ''חלקת ירדן'', בשדות יטבתה.",
+       "locations": [
+        {
+           "location_name": "יטבתה",
+           "flowers": [
+             "יחנוק המלחות"
+           ],
+           "maps_query_location": "Yotvata"
+        }
+       ]
+    },
+    {
+      "date": "03/02/2010",
+      "observer": null,
+      "original_text": "פריחה מדהימה של תורמוס ההרים במורדות לנחל תבור. (ליד קיבוץ גזית). כמו כן כלניות אדומות, ומרווה.",
+      "locations": [
+        {
+           "location_name": "נחל תבור",
+          "flowers": [
+            "תורמוס ההרים",
+            "כלנית אדומה",
+            "מרווה"
+           ],
+          "maps_query_location":"Nahal Tavor"
+        },
+         {
+           "location_name": "קיבוץ גזית",
+          "flowers": [
+            "תורמוס ההרים",
+            "כלנית אדומה",
+            "מרווה"
+           ],
+           "maps_query_location":"Gazit"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2010",
+       "observer": null,
+      "original_text": "שיא פריחה של רקפות באתר הרקפות בגלעד ליד דליה. כמו כן פורחים באזור: כלניות, קידה שעירה, תורמוס ההרים, חיננית כרמלית, זמזומית לוטם ועוד רבים וטובים.",
+       "locations": [
+        {
+          "location_name": "גלעד",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+            "קידה שעירה",
+            "תורמוס ההרים",
+            "חיננית כרמלית",
+            "זמזומית לוטם"
+          ],
+           "maps_query_location":"Gilad"
+        },
+        {
+          "location_name": "דליה",
+           "flowers": [
+            "רקפת",
+            "כלנית",
+            "קידה שעירה",
+            "תורמוס ההרים",
+            "חיננית כרמלית",
+            "זמזומית לוטם"
+          ],
+          "maps_query_location":"Dalia"
+        }
+      ]
+    }
+  ]
+}
+```

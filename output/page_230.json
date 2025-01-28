@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/11/2020",
+      "observer": "יעקב מחלב",
+      "original_text": "פריחת חלמוניות היום בשביל החלמוניות ביער יתיר. תחילת פריחה, פרטים בודדים, פריחה מהריבה.",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2020",
+      "observer": "ארז וינברג",
+      "original_text": "ריכוז יפה מאוד של סתוונית ירושלים במטע הזיתים בשכונת גילה. בצומת של רוזמרין ודוגא. להכנס מאחרי תחנת האוטובוס לכיוון דרך המנהרות. לשים לב שיש בפינה בית עלמין עתיק",
+      "locations": [
+        {
+          "location_name": "שכונת גילה",
+          "flowers": ["סתוונית ירושלים"],
+            "maps_query_location": "Gilo"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2020",
+      "observer": "דודי ולדמן",
+      "original_text": "הרבה פרטים של חבצלות בדרך בן הכור לעין יורקעם. 5/11",
+      "locations": [
+        {
+          "location_name": "דרך בן הכור",
+           "flowers": ["חבצלת הנגב"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "עין יורקעם",
+          "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Ein Yorkeam"
+         }
+      ]
+    },
+    {
+      "date": "07/11/2020",
+       "observer": null,
+       "original_text": "הרבה חלמוניות זעירות, בן-חצב סיתווני, אחילוף הגליל אחד",
+      "locations": [
+        {
+          "location_name": "גן המיסדים בגבעת עדה",
+          "flowers": ["חלמונית זעירה", "בן-חצב סיתווני", "אחילוף הגליל"],
+           "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2020",
+      "observer": "שמוליק",
+      "original_text": "סתווניות בחרבת חנות ביער לכיוון עין מטע",
+      "locations": [
+         {
+          "location_name": "חרבת חנות",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Khirbet Hanut"
+        },
+        {
+          "location_name": "עין מטע",
+           "flowers": ["סתוונית"],
+          "maps_query_location": "Ein Mata"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2020",
+      "observer": "חיה מובר",
+      "original_text": "ריסן נאכל נצפה פורח בנחל פרס",
+       "locations": [
+        {
+          "location_name": "נחל פרס",
+          "flowers": ["ריסן צר"],
+           "maps_query_location": "Nahal Peres"
+        }
+      ]
+    },
+     {
+      "date": "07/11/2020",
+       "observer": "אורון טל",
+      "original_text": "חלמונית זעירה הפציעה אתמול בגן המייסדים בגבעת עדה",
+      "locations": [
+        {
+          "location_name": "גן המייסדים בגבעת עדה",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2020",
+       "observer": null,
+      "original_text": "בחירבת חנות שבהרי יהודה ראו אלבום בקישור",
+       "locations": [
+          {
+            "location_name": "חרבת חנות",
+            "flowers": ["נרקיס מצוי"],
+              "maps_query_location": "Khirbet Hanut"
+          },
+           {
+            "location_name": "הרי יהודה",
+            "flowers": ["נרקיס מצוי"],
+            "maps_query_location": "Judean Mountains"
+          }
+        ]
+    },
+    {
+      "date": "05/11/2020",
+      "observer": null,
+      "original_text": "ראו קישור",
+       "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+     {
+      "date": "04/11/2020",
+      "observer": "יעל",
+      "original_text": "תחילת פריחת חלמוניות באבו חוף בשביל שיורד מהקולומבריום",
+       "locations": [
+        {
+          "location_name": "אבו חוף",
+           "flowers": ["חלמונית"],
+           "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

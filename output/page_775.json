@@ -1,0 +1,208 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/04/2009",
+      "observer": null,
+      "original_text": "מרבדי פרגים - הכל אדום, למרגלות הכפר אל-בורג'-בית מרסים (ממערב לגדר ההפרדה, בכביש החדש שומריה-שקף).",
+      "locations": [
+        {
+          "location_name": "אל-בורג'-בית מרסים",
+           "flowers": ["פרג"],
+          "maps_query_location": "Al-Burj-Beit Mirsim"
+        },
+        {
+         "location_name": "שומריה",
+         "flowers": ["פרג"],
+         "maps_query_location": "Shomriya"
+        },
+         {
+         "location_name": "שקף",
+         "flowers": ["פרג"],
+         "maps_query_location": "Shekef"
+        }
+      ]
+    },
+     {
+      "date": "20/04/2009",
+      "observer": null,
+      "original_text": "פריחות שיא אביב באזור להב ! (20-4-2009 לא ייאמן)",
+      "locations": [
+        {
+          "location_name": "להב",
+          "flowers": [],
+           "maps_query_location":"Lahav"
+        }
+      ]
+    },
+    {
+      "date": "20/04/2009",
+      "observer": null,
+      "original_text": "מושב גמזו וסביבתו נחשב לאימפריית הנפית הכפופה. בסביבות המושב , על התל ובאזור שביל ישראל פורחים אלפי צמחי נפית . בנוסף פורחת נירית הקמה,  אמיתה גדולה , עולש ועוד",
+      "locations": [
+        {
+          "location_name": "גמזו",
+          "flowers": ["נפית כפופה", "נירית הקמה", "אמיתה גדולה", "עולש"],
+          "maps_query_location": "Gamzu"
+        },
+        {
+          "location_name": "שביל ישראל",
+           "flowers": ["נפית כפופה", "נירית הקמה", "אמיתה גדולה", "עולש"],
+          "maps_query_location": "Israel National Trail"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2009",
+      "observer": "רפי פז",
+      "original_text": "פריחת האדמוניות בשיאה באזור עין הזקן שבהר הילל",
+      "locations": [
+        {
+          "location_name": "עין הזקן",
+          "flowers": ["אדמונית"],
+          "maps_query_location": "Ein Hazakan"
+         },
+        {
+          "location_name": "הר הילל",
+          "flowers": ["אדמונית"],
+          "maps_query_location": "Har Hilel"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2009",
+      "observer": null,
+      "original_text": "בגני הנדיב -אם נלך לכוון נחל הנדיב פורחים עכשיו: מיני פשתה, סייפן התבואה, מרוות, קוציץ סורי, מעוג אפיל, חוטמית זיפנית, שום הגלגל ועד צמחים נדירים ויפים",
+      "locations": [
+        {
+          "location_name": "גני הנדיב",
+          "flowers": ["פשתה", "סייפן התבואה", "מרווה", "קוציץ סורי", "מעוג אפיל", "חוטמית זיפנית", "שום הגלגל"],
+           "maps_query_location": "Ramat HaNadiv"
+        },
+         {
+          "location_name": "נחל הנדיב",
+          "flowers": ["פשתה", "סייפן התבואה", "מרווה", "קוציץ סורי", "מעוג אפיל", "חוטמית זיפנית", "שום הגלגל"],
+          "maps_query_location": "Nahal HaNadiv"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2009",
+       "observer": "עמית שגיא",
+      "original_text": "סחלב קדוש בכל האיזורים הגבוהים לכל אורך הגבעות",
+      "locations": [
+        {
+          "location_name": "גבעות נס ציונה",
+           "flowers": ["סחלב קדוש"],
+          "maps_query_location":"Nes Ziona Hills"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2009",
+      "observer": null,
+      "original_text": "עדיין יש פריחה יפה של רקפות ונוריות ליד המנזר \"יוחנן במדבר\" ליד המושב אבן ספיר.",
+      "locations": [
+        {
+          "location_name": "אבן ספיר",
+          "flowers": ["רקפת", "נורית"],
+           "maps_query_location": "Even Sapir"
+        },
+        {
+            "location_name": "מנזר יוחנן במדבר",
+           "flowers": ["רקפת", "נורית"],
+            "maps_query_location": "St John in the Wilderness Monastery"
+        }
+      ]
+    },
+     {
+      "date": "16/04/2009",
+      "observer": null,
+      "original_text": "כ 2 ק\"מ מצומת סאסא,  לכוון שלומי, מימין שלולית ובה פריחה מדהימה של אלפי נוריות המים.",
+      "locations": [
+        {
+          "location_name": "צומת סאסא",
+          "flowers": ["נורית המים"],
+          "maps_query_location": "Sasa Junction"
+        },
+           {
+          "location_name": "שלומי",
+          "flowers": ["נורית המים"],
+          "maps_query_location": "Shlomi"
+        }
+      ]
+    },
+    {
+      "date": "14/04/2009",
+      "observer": "שמואל בנטוב",
+      "original_text": "בין חרבת מדרס לחרבת בורגין באיזור מושב אדרת. משטחים אדומים של פרגים משולבים עם  משטחים סגלגלים של שלח ספרדי. כמו כן שדה פרגים ענק (אגסי) מערבית לקיבוץ בית גוברין.",
+       "locations": [
+        {
+          "location_name": "חרבת מדרס",
+           "flowers": ["פרג", "שלח ספרדי"],
+          "maps_query_location": "Khirbet Midras"
+        },
+         {
+          "location_name": "חרבת בורגין",
+           "flowers": ["פרג", "שלח ספרדי"],
+          "maps_query_location": "Khirbet Burgin"
+        },
+         {
+          "location_name": "אדרת",
+           "flowers": ["פרג", "שלח ספרדי"],
+           "maps_query_location": "Adoret"
+        },
+        {
+          "location_name": "בית גוברין",
+           "flowers": ["פרג"],
+          "maps_query_location": "Beit Guvrin"
+        }
+      ]
+    },
+     {
+      "date": "12/04/2009",
+      "observer": null,
+      "original_text": "לאורך הנחל נראים כמה פריטים של סחלבן החורש, פריחה מדהימה של אפון קיפח,טופח ריסני וכן נראים פרחים אחרונים של סייפן התבואה.",
+       "locations": [
+        {
+          "location_name": "נחל בוסתן",
+           "flowers": ["סחלבן החורש", "אפון קיפח", "טופח ריסני", "סייפן התבואה"],
+          "maps_query_location": "Nahal Bustan"
+        },
+         {
+          "location_name": "כרמל",
+            "flowers": ["סחלבן החורש", "אפון קיפח", "טופח ריסני", "סייפן התבואה"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "06/04/2009",
+       "observer": null,
+      "original_text": "רמת הגולן מהממת ביופיה בתקופה הזו עם חרמון לבן ומשטחי ורוניקה סורית אדירים שגדלה יפה בעיקר בשדות המוקשים שמעבר לגדר המערכת.  פה ושם גם הפתעות יפות כמו תורמוס צר עלים וגם חד שפה מזרחי שדווקא לא אמור להופיע בגולן עפ\"י המפה שבאתר אבל פגשתי בו בכל צפון הרמה.\nבעלייה לגולן מכיוון צומת נפח וממזרח להר אביטל ישנם גושים יפהפיים של חלבלוב שלא טרחתי לברר את פישרו  (כנראה מגובשש)",
+      "locations": [
+         {
+          "location_name": "רמת הגולן",
+          "flowers": ["ורוניקה סורית", "תורמוס צר עלים", "חד שפה מזרחי", "חלבלוב"],
+          "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name": "חרמון",
+          "flowers": ["ורוניקה סורית", "תורמוס צר עלים", "חד שפה מזרחי", "חלבלוב"],
+           "maps_query_location": "Mount Hermon"
+        },
+           {
+          "location_name": "צומת נפח",
+             "flowers": ["ורוניקה סורית", "תורמוס צר עלים", "חד שפה מזרחי", "חלבלוב"],
+           "maps_query_location": "Nafakh Junction"
+        },
+         {
+          "location_name": "הר אביטל",
+            "flowers": ["ורוניקה סורית", "תורמוס צר עלים", "חד שפה מזרחי", "חלבלוב"],
+           "maps_query_location": "Mount Avital"
+        }
+      ]
+    }
+  ]
+}
+```

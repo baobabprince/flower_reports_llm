@@ -1,0 +1,324 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/04/2012",
+      "observer": "שרה סלפק",
+      "original_text": "28,4,2012-דרך בורמה ממסילת ציון,משלט 21-ו-16-שמורת המסרק,הר כרמילה,דרדר גדול פרחים,שפרירה קשקשנית,יערה איטלקית,שום האבקנים,לוטם שעיר,צלבית ארוכת שבולת,מוצית קוצנית,תגית קיצית,בשפע,פריחה דלילה פה ושם,פעמונית קפחת וזיפנית,דרדית מצויה,סחלב צריפי,לוטמית ערבית,חוטמית זיפנית, מגנונית כבונה,דבקת ירושלים,לוטוס יהודה אוזן הנדי הצהובה,סיפן החיטה דרדר כחול, שרה בן שמן,",
+      "locations": [
+        {
+          "location_name": "דרך בורמה",
+          "flowers": [
+            "Centaurea grandiflora",
+            "Gagea reticulata",
+            "Lonicera etrusca",
+             "Allium stamineum",
+             "Cistus incanus",
+            "Crucihimalaya lasiocarpa",
+            "Pallenis spinosa",
+            "Tagetes minuta",
+            "Campanula hierosolymitana",
+             "Campanula strigosa",
+            "Crepis palaestina",
+            "Orchis laxiflora",
+            "Malva aegyptia",
+             "Alcea setosa",
+            "Echium angustifolium",
+             "Ballota undulata",
+            "Lotus judaicus",
+             "Aegilops geniculata",
+            "Centaurea cyanus"
+           ],
+          "maps_query_location": "Burma Road"
+        },
+         {
+          "location_name": "מסילת ציון",
+           "flowers": [
+            "Centaurea grandiflora",
+            "Gagea reticulata",
+            "Lonicera etrusca",
+             "Allium stamineum",
+             "Cistus incanus",
+            "Crucihimalaya lasiocarpa",
+            "Pallenis spinosa",
+            "Tagetes minuta",
+            "Campanula hierosolymitana",
+             "Campanula strigosa",
+            "Crepis palaestina",
+            "Orchis laxiflora",
+            "Malva aegyptia",
+             "Alcea setosa",
+            "Echium angustifolium",
+             "Ballota undulata",
+            "Lotus judaicus",
+             "Aegilops geniculata",
+            "Centaurea cyanus"
+           ],
+          "maps_query_location": "Mesilat Zion"
+        },
+           {
+          "location_name": "שמורת המסרק",
+           "flowers": [
+            "Centaurea grandiflora",
+            "Gagea reticulata",
+            "Lonicera etrusca",
+             "Allium stamineum",
+             "Cistus incanus",
+            "Crucihimalaya lasiocarpa",
+            "Pallenis spinosa",
+            "Tagetes minuta",
+            "Campanula hierosolymitana",
+             "Campanula strigosa",
+            "Crepis palaestina",
+            "Orchis laxiflora",
+            "Malva aegyptia",
+             "Alcea setosa",
+            "Echium angustifolium",
+             "Ballota undulata",
+            "Lotus judaicus",
+             "Aegilops geniculata",
+            "Centaurea cyanus"
+           ],
+          "maps_query_location": "HaMaserak Nature Reserve"
+        },
+        {
+          "location_name": "הר כרמילה",
+           "flowers": [
+            "Centaurea grandiflora",
+            "Gagea reticulata",
+            "Lonicera etrusca",
+             "Allium stamineum",
+             "Cistus incanus",
+            "Crucihimalaya lasiocarpa",
+            "Pallenis spinosa",
+            "Tagetes minuta",
+            "Campanula hierosolymitana",
+             "Campanula strigosa",
+            "Crepis palaestina",
+            "Orchis laxiflora",
+            "Malva aegyptia",
+             "Alcea setosa",
+            "Echium angustifolium",
+             "Ballota undulata",
+            "Lotus judaicus",
+             "Aegilops geniculata",
+            "Centaurea cyanus"
+           ],
+          "maps_query_location": "Har Karmila"
+        }
+      ]
+    },
+    {
+      "date": "29/04/2012",
+      "observer": "יאיר אורנשטיין",
+      "original_text": "בשביל הנחש העולה למצדה פורח תפוח סדום/פתילת המדבר הגדולה היפיפה",
+      "locations": [
+        {
+          "location_name": "מצדה",
+           "flowers": [
+            "Calotropis procera"
+          ],
+          "maps_query_location": "Masada"
+        }
+      ]
+    },
+    {
+      "date": "27/04/2012",
+      "observer": "עירית",
+      "original_text": "נוף כללי של קיץ, שבולת שועל ודגנים אחרים מצהיבים, גדילנים מפזרים זרעים אבל בתוך הצהוב הזה, על רקע הכנרת התכולה יש כתמי צבע משמחים את העין- חבלבל השיח בגושים ורודים, עוד מיני חבלבל בלבן ובקרם, נירית הקמה בשפע צהוב זוהר, גזר קיפח ליד קיפודנים בראשית פריחה בצבעי כחול לבן ליום העצמאות, ניסנית, עולש, מעוג, חוטמית- פריחה צפופה ליד עתיקות כורזים עם פרטים אחדים אלבינו.",
+      "locations": [
+        {
+          "location_name": "כורזים",
+          "flowers": [
+            "Convolvulus dorycnium",
+             "Convolvulus",
+            "Helianthemum syriacum",
+            "Daucus carota",
+            "Echinops",
+            "Nisanit",
+             "Cichorium intybus",
+             "Malva",
+             "Gladiolus"
+            ],
+          "maps_query_location": "Korazim"
+        },
+          {
+          "location_name": "הר האושר",
+           "flowers": [
+           "Convolvulus dorycnium",
+             "Convolvulus",
+            "Helianthemum syriacum",
+            "Daucus carota",
+            "Echinops",
+            "Nisanit",
+             "Cichorium intybus",
+             "Malva",
+              "Gladiolus"
+            ],
+          "maps_query_location": "Mount of Beatitudes"
+        }
+      ]
+    },
+    {
+      "date": "26/04/2012",
+       "observer": "מאילן טל",
+      "original_text": "לליאורה קרת , המון תודות על הזכרת שמותיהם של טוביה קושניר , גרשון מושאיוף וגדעון הלוי . שלושה בוטנאים שנפלו בדמי ימיהם .",
+      "locations": [],
+      "flowers": null
+    },
+    {
+      "date": "26/04/2012",
+        "observer": "אילן טל",
+       "original_text": "פורחים ( רשימה שנייה ) : סגולית נאה , דרדר נאה , אקינוס ריחני , עדעד כחול , קדד הקרקפות ( צמח מרשים ) , לוטם שעיר , שום לבן קליפות + עגול , מרוות יהודה , שרעול שעיר ( 2 גוונים ) , חבלבל כפני , פשתה שעירה , נזמית מקווקוות , איריס ענף , מוצית קוצנית , אכילאה קטנת פרחים , נר הלילה החופי , קוצן מכונף , דם המכבים האדום , קחווינה מקרינה , אחירותם החורש , לוע ארי סיצילי + גדול , סומקן ענק , פרסטיה מצרית , אגרוסטמה עדינה , חטמית עין הפרה ועוד .",
+       "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+           "Paracaryum boissieri",
+            "Centaurea speciosa",
+            "Echinops viscosus",
+           "Limonium sinuatum",
+            "Astragalus callichrous",
+           "Cistus incanus",
+            "Allium ampeloprasum",
+            "Salvia hierosolymitana",
+            "Phlomis viscosa",
+            "Convolvulus leiocalycinus",
+             "Linum pubescens",
+            "Ajuga chamaepitys",
+            "Iris palaestina",
+            "Pallenis spinosa",
+            "Achillea santolina",
+            "Oenothera drummondii",
+             "Carduus argentatus",
+            "Adonis palaestina",
+             "Carlina radiata",
+            "Alkanna strigosa",
+             "Antirrhinum siculum",
+             "Gladiolus italicus",
+            "Pistia stratiotes",
+            "Agrostemma githago",
+             "Lavatera trimestris"
+            ],
+            "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+     {
+      "date": "26/04/2012",
+       "observer": null,
+      "original_text": "ארנין ההרים,בוציץ סוככני,גומא הירקון,בוצין טריפולי ומפורץ,מרווה כחולה+משולשת,אשבל הלבנון,עיריוני קצר ןעןד פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "Arnebia decumbens",
+             "Torilis leptophylla",
+            "Cyperus papyrus",
+             "Verbascum tripolitanum",
+             "Verbascum sinuatum",
+            "Salvia dominica",
+             "Salvia multicaulis",
+            "Teucrium libanoticum",
+             "Asphodeline brevicaulis"
+
+            ],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "26/04/2012",
+       "observer": "אילן טל",
+      "original_text": "פורחים : בוצין קיסריון + הגליל + מזרחי , כלך דנין , פעמונית זיפנית + כוכבנית + קפחת + ירושלים , גרניון הלבנון , מרווה כחולה + החפים + פטלית + רחבת גביע + בוצינית , חלביב יווני , עיריוני קצר , חמשן זוחל , כנפה חרוקה , נפית כפופה , צתרה ורודה , שום יריחו + נטוי + קצר  , מעוג קפח , פרגה צהובה + אדומה , דרדר  גדול פרחים + נמוך ( חופית נמוכה ) + קפח , פרסיון מצוי , חוורית חרוזה ועוד ",
+       "locations": [
+          {
+          "location_name": "כפר יהושע",
+          "flowers": [
+          "Verbascum caesareum",
+           "Verbascum galilaeum",
+            "Verbascum orientale",
+            "Eryngium creticum",
+            "Campanula strigosa",
+            "Campanula stellata",
+            "Campanula hierosolymitana",
+            "Geranium libani",
+           "Salvia dominica",
+            "Salvia bracteosa",
+             "Salvia palaestina",
+            "Salvia viscosa",
+            "Salvia lanigera",
+             "Gladiolus gracilis",
+             "Asphodeline brevicaulis",
+             "Potentilla reptans",
+            "Scolymus maculatus",
+            "Nepeta curviflora",
+             "Satureja thymbra",
+             "Allium hierochuntinum",
+             "Allium obtusiflorum",
+            "Allium cupani",
+            "Gladiolus",
+            "Centaurea grandiflora",
+             "Centaurea depressa",
+            "Centaurea procurrens",
+             "Phagnalon rupestre",
+            "Helianthemum vesicarium"
+            ],
+             "maps_query_location": "Kfar Yehoshua"
+          }
+       ]
+    },
+     {
+      "date": "25/04/2012",
+       "observer": null,
+      "original_text": "סיור וירטואלי בתערוכת הפרחים בחיפה, למי שהיה ולמי שרוצה לראות בלי דוחק...",
+       "locations": [
+        {
+          "location_name": "חיפה",
+          "flowers": [],
+          "maps_query_location": "Haifa"
+         }
+      ]
+    },
+       {
+      "date": "24/04/2012",
+        "observer": "עירית",
+      "original_text": "לצד הכביש העולה מכפר גלעדי למרגליות שפע של לוע ארי בשיא פריחה. בדרכי הנוף - הפארק הגיאולוגי נראו שלושה פרטים אחרונים של איריס הדור, דבורנית הדבורה אחת והאוויר מבושם משיחי האחירותם הזוהרים בצהוב.",
+      "locations": [
+         {
+          "location_name": "מרגליות",
+          "flowers": [
+           "Antirrhinum",
+           "Iris histrio",
+           "Ophrys apifera",
+           "Spartium junceum"
+          ],
+          "maps_query_location": "Margaliot"
+        },
+         {
+          "location_name": "כפר גלעדי",
+            "flowers": [
+            "Antirrhinum",
+            "Iris histrio",
+           "Ophrys apifera",
+            "Spartium junceum"
+           ],
+          "maps_query_location": "Kfar Giladi"
+        }
+      ]
+    },
+    {
+      "date": "23/04/2012",
+      "observer": null,
+      "original_text": "רישמו את התאריך, הפירוט הלא סופי בקישור",
+      "locations": [
+        {
+          "location_name": "תל אביב",
+          "flowers": [],
+          "maps_query_location": "Tel Aviv"
+        }
+      ]
+    }
+  ]
+}
+```

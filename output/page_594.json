@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/09/2013",
+      "observer": null,
+      "original_text": "בתל ענבה מודיעין",
+      "locations": [
+        {
+          "location_name": "תל ענבה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Tel Anava"
+        },
+          {
+          "location_name": "מודיעין",
+          "flowers": ["חצב"],
+          "maps_query_location": "Modiin"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2013",
+      "observer": "סיגל שלמה",
+      "original_text": "מגיעים מרח' קיבוץ גלויות פינת נחל רבה, נכנסים ליער ברכב, פונים שמאלה וחונים (יש מחסום לרכב). הולכים ישר וימינה, לפי השילוט, ורואים חצבים בשביל פרחי הבר.",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+           "flowers": ["חצב"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "30/08/2013",
+       "observer": null,
+      "original_text": "פורח בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "29/08/2013",
+       "observer": null,
+      "original_text": "בחוף דור בצפונו של חצי האי מול אתר החפירות פורחוים עשרות פרחים על רקע הים יחד עם קריתמון ימי - מקסים!!!",
+       "locations": [
+        {
+          "location_name": "חוף דור",
+           "flowers": ["חבצלת החוף", "קריתמון ימי"],
+           "maps_query_location":"Dor Beach"
+        }
+      ]
+    },
+    {
+      "date": "26/08/2013",
+       "observer": null,
+      "original_text": "פורח בחוף הרצליה",
+      "locations": [
+        {
+          "location_name": "חוף הרצליה",
+           "flowers": ["קריתמון ימי"],
+           "maps_query_location":"Herzliya Beach"
+        }
+      ]
+    },
+    {
+      "date": "24/08/2013",
+       "observer": null,
+      "original_text": "פורחת בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "23/08/2013",
+       "observer": null,
+      "original_text": "פשטה שרועה,פואת הצבעים,אזוביון שעיר,נענת דע לחכית פורחים בגן",
+       "locations": [
+         {
+          "location_name": "גן בוטני געש",
+            "flowers": ["פשטה שרועה", "פואת הצבעים", "אזוביון שעיר", "נענת דע לחכית"],
+          "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    },
+    {
+      "date": "22/08/2013",
+      "observer": "הדס יקיר",
+      "original_text": "נכון לשבת 17.8.13, חבצלות חוף כמעט בשיא פריחה בחוף פלמחים.\nמי יודע משהו על פריחת חבצלת קטנת פרחים ביער המגינים ליד כרמי יוסף?",
+      "locations": [
+        {
+          "location_name": "חוף פלמחים",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Palmachim Beach"
+        },
+          {
+          "location_name": "יער המגינים",
+           "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "HaMeginim Forest"
+        },
+         {
+          "location_name": "כרמי יוסף",
+          "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Karmei Yosef"
+        }
+      ]
+    },
+     {
+      "date": "22/08/2013",
+      "observer": "אילן טל  ,  0528254968",
+      "original_text": "פורחים : זלזלת מנוצה , חבצלת החוף , נימפיה תכולה , עדעד מאובק + רותמי , פשטה שרועה , צלף סיצילי ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+            "flowers": ["זלזלת מנוצה", "חבצלת החוף", "נימפיה תכולה", "עדעד מאובק", "רותמי", "פשטה שרועה", "צלף סיצילי"],
+          "maps_query_location": "Iris Garden"
+        },
+          {
+          "location_name": "כפר יהושע",
+            "flowers": ["זלזלת מנוצה", "חבצלת החוף", "נימפיה תכולה", "עדעד מאובק", "רותמי", "פשטה שרועה", "צלף סיצילי"],
+          "maps_query_location": "Kfar Yehoshua"
+        },
+        {
+          "location_name": "גן בוטני כפר יהושע",
+            "flowers": ["זלזלת מנוצה", "חבצלת החוף", "נימפיה תכולה", "עדעד מאובק", "רותמי", "פשטה שרועה", "צלף סיצילי"],
+          "maps_query_location": "Kfar Yehoshua Botanical Garden"
+        }
+      ]
+    },
+    {
+      "date": "15/08/2013",
+       "observer": null,
+      "original_text": "בקטע של מרכז הארץ",
+      "locations": [
+          {
+          "location_name": "כביש 6",
+           "flowers": ["חצב"],
+          "maps_query_location": "Highway 6"
+        },
+         {
+          "location_name": "מרכז הארץ",
+          "flowers": ["חצב"],
+           "maps_query_location": "Central Israel"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,247 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/04/2020",
+      "observer": null,
+      "original_text": "סייפן התבואה, נפית כפופה החלה לפרוח, שום האבקנים החל לפרוח, עולש מצוי גם החל לפרוח, נירית הקמה, מרוות יהודה , דמומית קטנת פרי וכל האחרים מהדיווח הקודם",
+      "locations": [
+        {
+          "location_name": "חירבת רגב",
+          "flowers": [
+            "Gladiolus italicus",
+            "Nepeta curviflora",
+             "Allium stamineum",
+            "Cichorium intybus",
+            "Anagallis arvensis",
+             "Salvia judaica",
+             "Papaver umbonatum"
+            ],
+          "maps_query_location": "Khirbet Regev"
+        }
+      ]
+    },
+    {
+      "date": "12/04/2020",
+      "observer": null,
+      "original_text": "מאה מטר אלק... בשדות מדרום למושב גמזו : בכל יום כשצועדים ישנן פריחות נוספות ובכל מסלול עוד ועוד פרחים מרהיבים. בבוקר: זותה מעורקת, ציפורנית ענפה, זקן-תיש ארוךי, זקן סב מצוי, חסה תכולת פרחים, כוכב מצוי, פשתה מצויה , פשתה אשונה, דרדית מצויה, תגית מצויה, אוזן גדי צהובה, נוציץ עטוף, אשבל מעורק, נוצנית כדורית, שברק דביק , שברק משובל, חרצית השדות ועטורה, מוצית קוצנית, קרדה מכסיפה, נירית הקמה התחלה, נץ חלב צרפתי-סוף, דל קרניים כרמלי- התחלה, טופח מצוי, אפון גדול, טופח ירושלים, חפורית קטנה ומצויה, קחוון מצוי, קצח ריסנ הרבה וזו הפתעה עבורי - ממש ליד הבית",
+       "locations": [
+         {
+            "location_name": "גמזו",
+            "flowers": [
+             "Micromeria myrtifolia",
+            "Dianthus pendulus",
+            "Tragopogon longirostris",
+             "Tragopogon sinuatus",
+             "Lactuca tatarica",
+            "Asteriscus pygmaeus",
+             "Linum strictum",
+            "Linum pubescens",
+            "Crepis palaestina",
+            "Chrysanthemum coronarium",
+            "Argyrolobium zanonii",
+            "Echium judaeum",
+            "Valerianella coronata",
+            "Ballota undulata",
+           "Hypecoum procumbens",
+           "Chrysanthemum coronarium",
+           "Pallenis spinosa",
+           "Cardaria draba",
+           "Anagallis arvensis",
+            "Ornithogalum narbonense",
+            "Ceratonia siliqua",
+           "Ononis natrix",
+           "Ononis reuteri",
+           "Torilis arvensis",
+            "Anthemis palaestina",
+             "Nigella arvensis"
+            ],
+             "maps_query_location":"Gamzu"
+          }
+        ]
+    },
+     {
+      "date": "10/04/2020",
+       "observer": null,
+      "original_text": "ארנריה מצויה,  ברומית המטאטא,  ברומית קצרת-שיבולת,  דבקה זיפנית, טופח ירושלים, משיין גלילי , ניסנית קטנת-פרחים, פרסה רבת-תרמילים, שעלב מצוי, תודרה מעובה",
+      "locations": [
+        {
+          "location_name": "עין הנציב",
+          "flowers": [
+            "Arenaria serpyllifolia",
+            "Bromus scoparius",
+            "Bromus brachystachys",
+           "Galium setaceum",
+             "Ononis reuteri",
+            "Asperula galileensis",
+            "Micromeria nervosa",
+            "Biserrula pelecinus",
+            "Psoralea bituminosa",
+            "Thapsia garganica"
+           ],
+           "maps_query_location":"Ein HaNetziv"
+        }
+      ]
+    },
+    {
+     "date": "10/04/2020",
+     "observer": null,
+      "original_text": "חסה כחולת פרחים, פשתה שעירה, זקן-סב מצוי, הרדופנין הציצית, אוזן גדי מצויה",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+             "Lactuca tatarica",
+            "Linum pubescens",
+           "Tragopogon sinuatus",
+            "Aethionema arabicum",
+            "Argyrolobium zanonii"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date":"10/04/2020",
+      "observer": null,
+      "original_text": "ראו את הסרטון על שיבולת השועל  בקישור",
+       "locations": [],
+       "flowers":[]
+    },
+    {
+      "date": "09/04/2020",
+      "observer": null,
+      "original_text": "סחלב צריפי, קצח ריסני, שום גבוה, תלתנים : הארגמן, חקלאי, כוכבני, תריסני,  הכפתורים, הקצף, אלכסנדרוני, האלמוות, אוזן גדי צהובה, שרעול שעיר, פרג אגסני במרבדים, מרוות יהודה, בן-סחלב צריפי, ציפורנית ענפה, צפורנית מגוונת,  גזיר דקיק, כוכב מצוי, מוצית קוצנית, בקיה א\"י, זותה מעורקת, כלך מצוי, אלקנה סמורה, סלסילה מצויה , שפרירה קשקשנית, קחוון מצוי, בקיה א\"י ותרבותית, מסרק מזרחי, נורית אסיה- סוף",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "Orchis coriophora",
+             "Nigella arvensis",
+            "Allium ampeloprasum",
+            "Trifolium purpureum",
+            "Trifolium campestre",
+            "Trifolium stellatum",
+             "Trifolium scutatum",
+             "Trifolium glomeratum",
+            "Trifolium spumosum",
+             "Trifolium alexandrinum",
+             "Helichrysum sanguineum",
+            "Argyrolobium zanonii",
+            "Phlomis lanata",
+            "Papaver glaucum",
+             "Salvia judaica",
+             "Orchis coriophora",
+            "Dianthus pendulus",
+             "Dianthus zonatus",
+             "Torilis leptophylla",
+             "Asteriscus pygmaeus",
+             "Pallenis spinosa",
+             "Vicia palaestina",
+            "Micromeria myrtifolia",
+            "Scolymus maculatus",
+             "Alkanna strigosa",
+            "Corrigiola litoralis",
+             "Anagallis arvensis",
+            "Anthemis palaestina",
+            "Vicia palaestina",
+             "Vicia sativa",
+             "Scandix pecten-veneris",
+             "Ranunculus asiaticus"
+            ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+        {
+      "date": "07/04/2020",
+      "observer": "רועי אסייג",
+      "original_text": "נקודת פריחה משמעותית של אירוס השומרון. בגב ההר בין איתמר לגיתית ציר גלעד סמוך לעין ג'היר",
+      "locations": [
+        {
+          "location_name": "איתמר",
+          "flowers": [
+           "Iris samariae"
+          ],
+          "maps_query_location": "Itamar"
+         },
+        {
+          "location_name": "גיתית",
+           "flowers": [
+           "Iris samariae"
+          ],
+          "maps_query_location": "Gitit"
+        },
+         {
+          "location_name": "עין ג'היר",
+           "flowers": [
+           "Iris samariae"
+          ],
+          "maps_query_location": "Ein Jahir"
+        }
+       ]
+    },
+       {
+      "date":"04/04/2020",
+      "observer": null,
+      "original_text": "ראו סרטון ביוטיוב , מתאים לילדים ולמתחילים",
+      "locations":[],
+      "flowers":[]
+     },
+      {
+      "date": "03/04/2020",
+      "observer": "רבקה כהן",
+      "original_text": "דבורנית נאה, מרוות ירושלים, מרווה כחולה נורית אסיה, קרדריה, תלתן תריסני, ת. הפוך, ת. כוכבני, בקיה צרפתית, נץ חלב הררי, סחלב 3 שניים, פשתה שעירה, אלה א\"י, לוף א\"י,",
+      "locations": [
+        {
+          "location_name": "אפרת",
+          "flowers": [
+            "Ophrys umbilicata",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+            "Ranunculus asiaticus",
+             "Cardaria draba",
+            "Trifolium scutatum",
+            "Trifolium resupinatum",
+             "Trifolium stellatum",
+            "Vicia narbonensis",
+            "Ornithogalum montanum",
+             "Orchis sp.",
+             "Linum pubescens",
+            "Pistacia palaestina",
+            "Arisarum vulgare"
+           ],
+           "maps_query_location": "Efrat"
+        }
+      ]
+    },
+     {
+      "date": "01/04/2020",
+       "observer": null,
+      "original_text": "בקיה צרפתית, סבונית השדה, מרבד פרגים, נוריות אסיה רבות, כלך מצוי, 4 כנפות מצויות, צהרונים, ציפורנית נפוחה, פשתנית ארם-צובא, תלתנים רבים אספסות, צפורנית ענפה, אלקנה סמורה, לשון-פר סמורה ועוד",
+      "locations": [
+        {
+          "location_name": "יער בן-שמן",
+           "flowers": [
+            "Vicia narbonensis",
+            "Saponaria vaccaria",
+            "Papaver rhoeas",
+            "Ranunculus asiaticus",
+            "Scolymus maculatus",
+            "Tetragonolobus palaestinus",
+             "Glaucium flavum",
+            "Silene vulgaris",
+            "Linaria chalepensis",
+             "Trifolium sp.",
+            "Medicago sp.",
+            "Dianthus pendulus",
+            "Alkanna strigosa",
+             "Echium strigosum"
+           ],
+           "maps_query_location":"Ben Shemen Forest"
+        }
+      ]
+    }
+  ]
+}
+```

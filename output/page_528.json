@@ -1,0 +1,207 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/02/2015",
+      "observer": null,
+      "original_text": "בסיור לאורך ים המלח ואזור נבי מוסא פורחים - ארנבית שרועה, חיעד, לחך חום לוע, מקור חסידה מדברי, מסורן, כוכב ננסי, פרעושית גלונית, צמרורה אפריקאית, פגוניה, מנתור, פשתנית ססגונית, פרג, ועוד מצליבים שונים,",
+      "locations": [
+        {
+          "location_name": "ים המלח",
+           "flowers": [
+              "Arnebia decumbens",
+              "Helianthemum",
+              "Verbascum",
+              "Erodium deserti",
+               "Heliotropium",
+               "Asteriscus pygmaeus",
+               "Pulicaria glutinosa",
+               "Heliotropium",
+              "Peganum harmala",
+               "Mentha",
+               "Linaria",
+                "Papaver"
+            ],
+          "maps_query_location": "Dead Sea"
+        },
+        {
+          "location_name": "נבי מוסא",
+           "flowers": [
+              "Arnebia decumbens",
+              "Helianthemum",
+              "Verbascum",
+              "Erodium deserti",
+               "Heliotropium",
+               "Asteriscus pygmaeus",
+               "Pulicaria glutinosa",
+               "Heliotropium",
+              "Peganum harmala",
+               "Mentha",
+               "Linaria",
+                "Papaver"
+            ],
+          "maps_query_location": "Nabi Musa"
+        }
+      ]
+    },
+        {
+      "date": "09/02/2015",
+       "observer": null,
+      "original_text": "סדנת צילום בגן הבוטני ביער אילנות תתקיים ביום שישי, כ״ד בשבט, 13 בפברואר, בשעה 10:00.",
+        "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": [],
+           "maps_query_location": "Ilanot Forest"
+         }
+        ]
+     },
+     {
+      "date": "09/02/2015",
+       "observer": null,
+      "original_text": "על רכס נס הרים. מעט לפני הפניה למערת הנטיפים, פורחים כבר צבוענים ושלל פרחים",
+        "locations": [
+         {
+          "location_name": "נס הרים",
+          "flowers": [
+              "Gladiolus"
+              ],
+           "maps_query_location": "Nes Harim"
+        }
+      ]
+    },
+     {
+      "date": "09/02/2015",
+       "observer": null,
+      "original_text": "פורחת בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["Marsilea"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2015",
+       "observer": null,
+      "original_text": "החל את הפריחה מוקדם השנה , וכן כלניות בצבעים מיוחדים ורוד עמוק, גם הרומוליאה הסגלולית המיוחדת לאחו החלה לפרוח",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "Iris palaestina",
+             "Anemone coronaria",
+              "Romulea"
+            ],
+          "maps_query_location": "Ahun Nov"
+        }
+      ]
+    },
+     {
+      "date": "08/02/2015",
+       "observer": null,
+      "original_text": "פורחות מליוני רקפות",
+       "locations": [
+        {
+          "location_name": "יער גלעד",
+           "flowers": ["Cyclamen persicum"],
+          "maps_query_location": "Gilad Forest"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2015",
+       "observer": null,
+      "original_text": "כבר פורח בבורות לוץ",
+       "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": ["Iris tuberosa"],
+           "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2015",
+       "observer": "יחיאל אוקנין",
+       "original_text": "חורשת הרקפות בכרמל.סחלב פרפרני .ורוניקה סורית דם המכבים רומילאה לשון פג מצויה ועוד שפע של פריחה.",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Cyclamen persicum",
+            "Orchis papilionacea",
+            "Veronica syriaca",
+            "Romulea",
+              "Anchusa"
+            ],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+     "date":"07/02/2015",
+     "observer":"עמיר פז",
+     "original_text":"אלמוות שיכני וא\"י,לועית ארוכת גביע,קוצן מכונף,מרווה רחבת גביע,עדעדית משובלת,שרוכנית החוף,חגווית החומות,אשבל השדה,מקור חסידה תמים,זמזומית זוהרי,מחרוזת קשתית,תלתן ישראלי,וזון מרצעני פורחים בגן",
+     "locations": [
+     {
+        "location_name": "געש",
+        "flowers": [
+          "Helichrysum",
+          "Misopates orontium",
+          "Onopordum",
+          "Salvia",
+          "Paronychia argentea",
+          "Herniaria hemistemon",
+            "Carlina",
+          "Ajuga chamaepitys",
+          "Erodium malacoides",
+            "Echium judaeum",
+          "Arisarum vulgare",
+          "Trifolium palaestinum",
+            "Rumex"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2015",
+      "observer": "אילן טל , 0528254968",
+      "original_text": "פורחים : איריס הנגב + הארגמן , אכסף מבריק , אפון קפח , ארנבית ( פרחים צהובים ) , דמומית עבת שבולת + משוננת + א\"י , דרדר כחול , ורוניקה סורית , חספסנית השדות , טופח ספרדי + אדום , יקינטון מזרחי , כרבולתן השדות , לשון שור מגובבת , מעוג אפיל , נזמית מקווות , ניסנית מיובלת , צבעוני המדבר , קדד גדל פירות , רקפת יוונית , שכרון מרושת ועוד . גביעונית החרמון ( עבת העלים ) מגיחה וגם הספלול הססגוני וספלול השדות .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+            "Iris negevensis",
+            "Iris atropurpurea",
+             "Onosma",
+            "Lathyrus aphaca",
+            "Arnebia",
+            "Adonis",
+             "Centaurea cyanus",
+            "Veronica syriaca",
+            "Buglossoides arvensis",
+             "Gladiolus",
+            "Hyacinthus orientalis",
+            "Cephalaria syriaca",
+            "Anchusa undulata",
+            "Anagallis arvensis",
+            "Lallemantia",
+            "Nigella",
+            "Tulipa agenensis",
+              "Astragalus",
+            "Cyclamen graecum",
+            "Ranunculus asiaticus"
+             ,"Gagea",
+              "Ornithogalum"
+
+           ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

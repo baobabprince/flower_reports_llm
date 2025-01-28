@@ -1,0 +1,188 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2014",
+      "observer": "עירד לייזר",
+      "original_text": "לכבוד ט\"ו בשבט, בשבת האחרונה ראינו את תחילת פריחת שקדיות בתל עזקה, והרקפות נתנו עבודה :-)",
+      "locations": [
+        {
+          "location_name": "תל עזקה",
+          "flowers": [
+            "שקד מצוי",
+            "רקפת מצויה"
+          ],
+          "maps_query_location": "Tel Azeka"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2014",
+      "observer": null,
+      "original_text": "כלניות ראשונות, בינתיים ספורות פורחות בצידי הכביש בין הכניסה לפארק לחורבת עתרי. בחורבה עצמה: עיריות , אירוס א\"י ורקפות לא מעטות.",
+      "locations": [
+         {
+          "location_name": "פארק עדולם",
+           "flowers": [
+              "כלנית מצויה"
+            ],
+          "maps_query_location": "Adullam Park"
+        },
+        {
+            "location_name": "חורבת עתרי",
+            "flowers": [
+               "עירית",
+               "אירוס ארץ-ישראלי",
+              "רקפת מצויה"
+             ],
+            "maps_query_location": "Khirbet Atari"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2014",
+      "observer": "אבנר אברהם",
+      "original_text": "בנחל לימונים הוא רכס עכברה היתה פריחה יפה של אירוס הסרגל+דודאים+כרכום כניראה חורפי",
+      "locations": [
+        {
+          "location_name": "נחל לימונים",
+          "flowers": [
+             "אירוס הסרגל",
+            "דודא רפואי",
+             "כרכום חורפי"
+            ],
+          "maps_query_location": "Nahal Limonim"
+        },
+        {
+          "location_name": "רכס עכברה",
+           "flowers": [
+              "אירוס הסרגל",
+            "דודא רפואי",
+             "כרכום חורפי"
+             ],
+          "maps_query_location": "Akbara Ridge"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2014",
+      "observer": null,
+      "original_text": "חורשה מדרום מזרח לטל שחר. כל רצפת היער מכוסה בעלי רקפות. הפריחה רק החלה. בואו בעוד שבועיים-שלושה (בהתאם למזג האויר שיהיה עד אז..)",
+      "locations": [
+        {
+          "location_name": "טל שחר",
+          "flowers": [
+            "רקפת מצויה"
+          ],
+           "maps_query_location":"Tel Shahar"
+         }
+      ]
+    },
+    {
+      "date": "20/01/2014",
+      "observer": null,
+      "original_text": "על הגבעות מזרחית ממסילת ציון. האיזור משולט כאיזור מחקר של מכון וולקני. רקפות מתחילות , עיריות ודודאים. לשקדיות אין זכר.",
+     "locations": [
+        {
+           "location_name": "מסילת ציון",
+           "flowers": [
+            "רקפת מצויה",
+            "עירית",
+             "דודא רפואי"
+            ],
+           "maps_query_location": "Mesilat Zion"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2014",
+      "observer": "הדס יקיר",
+      "original_text": "מערבית מבית עובד, אחרי חציית כביש 42, ממשיכים בין הפרדסים מערבה כמה שאפשר, חונים וממשיכים מערבה אל קב' עצי פקן ושדות ביניהם. הנרקיסים בשיא פריחה גם בין הפקנים גם בשדות סביבם.",
+     "locations": [
+        {
+           "location_name": "בית עובד",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Beit Oved"
+         }
+       ]
+     },
+    {
+      "date": "19/01/2014",
+      "observer": "מורי חן",
+      "original_text": "נכון להיום - 19.1.14, כלניות בארי-סעד-רעים וכו', לא פורחות. הר הנגב עדיין לא פורח. שקד - הרמון בבורות לוץ, לא פורח.  הריבס מתחיל ללבלב. הצפי, כחודש לפריחה.",
+      "locations": [
+         {
+           "location_name": "בארי",
+           "flowers": ["כלנית מצויה"],
+           "maps_query_location":"Bari"
+          },
+        {
+           "location_name":"סעד",
+           "flowers": ["כלנית מצויה"],
+            "maps_query_location":"Saad"
+         },
+        {
+           "location_name":"רעים",
+           "flowers": ["כלנית מצויה"],
+          "maps_query_location":"Reim"
+        },
+        {
+          "location_name": "הר הנגב",
+          "flowers": null,
+          "maps_query_location": "Negev Mountains"
+        },
+        {
+          "location_name": "בורות לוץ",
+           "flowers": ["שקד מצוי"],
+           "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2014",
+      "observer": null,
+      "original_text": "השקדיה פורחת במצפה הר יעלה\nלעלות במסלול הלבן-ירוק-לבן מחווה היערן ממש עש לתחנת צופי אשץ  - יש שקדיה בפריחה מלאה",
+      "locations": [
+        {
+          "location_name": "מצפה הר יעלה",
+          "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Mitzpe Har Ya'ala"
+        }
+      ]
+    },
+      {
+      "date": "17/01/2014",
+      "observer": null,
+      "original_text": "רוב הנרקיסים בתל אנפה נבלו כבר",
+      "locations": [
+        {
+          "location_name": "תל אנפה",
+            "flowers": [
+               "נרקיס מצוי"
+             ],
+            "maps_query_location": "Tel Anafa"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2014",
+      "observer": null,
+      "original_text": "זהבית שרונית ובצלצייה א\"י פורחים בגן",
+     "locations": [
+        {
+           "location_name": "געש",
+            "flowers": [
+             "זהבית שרונית",
+              "בצלציל א"י"
+            ],
+           "maps_query_location":"Ga'ash"
+         }
+      ]
+    }
+  ]
+}
+```

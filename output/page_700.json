@@ -1,0 +1,390 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/03/2011",
+      "observer": "דוד פורת",
+      "original_text": "ונחמד לראות שבחופי מערב הכנרת - חוף  השיקמים/ברניקי (החוף המשתדרג תרתי משמע) בתוך המים \"חורשות\" של ארכובית סנגלית ובמקביל ברצועה הלחה פורחים: ליפיה זוחלת (מול שיקמת דרום), פשטה שרועה, ביצן מכסיף.  מעט מעליהם משטחי חומעה ורודה משולבים בתילתניים (הארגמן והפוך בין השאר) ועוד למעלה למרגלות הר ברניקי לצידי הבוצין המפורץ (בלב האמפי הרומי) נפגשות פריחות הכלניות עם נוריות אסיה  והפרגים האגסניים.   ניבטים בהן, באנקולי הקדד ובשברק הדביק חבורות המציץ הסורי שבמצוק מולם.  בברכה דוד פורת אפיקים",
+      "locations": [
+        {
+          "location_name": "הכנרת",
+          "flowers": [
+            "Polygonum senegalense",
+            "Lippia nodiflora",
+            "Aizoon hispanicum",
+             "Spergularia media",
+            "Rumex roseus",
+            "Thylacospermum caespitosum",
+            "Verbascum sinuatum",
+            "Ranunculus asiaticus",
+             "Papaver glaucum",
+             "Ononis natrix",
+             "Forsskaolea tenacissima",
+             "Paronychia argentea"
+           ],
+          "maps_query_location": "Sea of Galilee"
+        },
+        {
+            "location_name": "חוף השיקמים",
+            "flowers": [
+              "Polygonum senegalense",
+              "Lippia nodiflora",
+              "Aizoon hispanicum",
+               "Spergularia media",
+              "Rumex roseus",
+              "Thylacospermum caespitosum",
+               "Verbascum sinuatum",
+               "Ranunculus asiaticus",
+               "Papaver glaucum",
+               "Ononis natrix",
+               "Forsskaolea tenacissima",
+               "Paronychia argentea"
+             ],
+            "maps_query_location": "Hof Hashikmim"
+          },
+           {
+            "location_name": "הר ברניקי",
+            "flowers": [
+               "Polygonum senegalense",
+              "Lippia nodiflora",
+              "Aizoon hispanicum",
+               "Spergularia media",
+              "Rumex roseus",
+              "Thylacospermum caespitosum",
+              "Verbascum sinuatum",
+              "Ranunculus asiaticus",
+               "Papaver glaucum",
+               "Ononis natrix",
+               "Forsskaolea tenacissima",
+               "Paronychia argentea"
+             ],
+            "maps_query_location": "Mount Berenice"
+          }
+      ]
+    },
+    {
+      "date": "20/03/2011",
+      "observer": null,
+      "original_text": "מרבדים של כרמלית נאה, פריחת 6 מיני סחלבים בדרך לכיוון יערות הכרמל, שום משולש ושעיר, מרבדי ענק של חבלבל סורי ופשתה שעירה בדרך העולה לבית אורן, סייפן התבואה, נוריות כלניות, ורבים אחרים.",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+            "flowers": [
+                "Gynandriris sisyrinchium",
+                "Allium subhirsutum",
+                "Convolvulus scammonia",
+                "Linum pubescens",
+                "Gladiolus italicus",
+                "Ranunculus asiaticus",
+                "Anemone coronaria"
+
+          ],
+          "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "בית אורן",
+            "flowers": [
+                "Gynandriris sisyrinchium",
+                "Allium subhirsutum",
+                "Convolvulus scammonia",
+                "Linum pubescens",
+                "Gladiolus italicus",
+                 "Ranunculus asiaticus",
+                "Anemone coronaria"
+           ],
+          "maps_query_location": "Beit Oren"
+        }
+      ]
+    },
+    {
+      "date": "19/03/2011",
+      "observer": "שכי לוריא",
+      "original_text": "ברוניקה סורית בשיאה - בצפון הגולן וברמת דלתון . באיזור הכפרים הדרוזים בגולן מרפדת ממרבדת את המטעים..",
+      "locations": [
+        {
+          "location_name": "צפון הגולן",
+           "flowers": [
+              "Veronica syriaca"
+            ],
+          "maps_query_location": "Northern Golan Heights"
+        },
+         {
+          "location_name": "רמת דלתון",
+            "flowers": [
+              "Veronica syriaca"
+            ],
+          "maps_query_location": "Dalton Plateau"
+        },
+        {
+          "location_name": "הגולן",
+            "flowers": [
+              "Veronica syriaca"
+            ],
+          "maps_query_location": "Golan Heights"
+        }
+
+      ]
+    },
+    {
+      "date": "17/03/2011",
+      "observer": "יצחק  פלג",
+      "original_text": "היום ניצפו אירוסים אלה בגבעות גורל, 400 מטר מזרחית לצומת גורל, מצפון לבאר שבע.",
+      "locations": [
+        {
+          "location_name": "גבעות גורל",
+             "flowers": [
+                "Iris atrofusca"
+            ],
+          "maps_query_location": "Goral Hills"
+        },
+         {
+          "location_name": "צומת גורל",
+             "flowers": [
+                 "Iris atrofusca"
+             ],
+           "maps_query_location": "Goral Junction"
+        },
+          {
+          "location_name": "באר שבע",
+             "flowers": [
+                 "Iris atrofusca"
+             ],
+           "maps_query_location": "Beersheba"
+        }
+      ]
+    },
+    {
+      "date": "17/03/2011",
+      "observer": null,
+      "original_text": "לועית ארוכת גביע,סייפן סגול,ואיריס נצרתי פורחים בגן",
+        "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+               "Misopates orontium",
+               "Gladiolus italicus",
+                "Iris palaestina"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "17/03/2011",
+      "observer": "עירית",
+       "original_text": "מרבדי פריחה בצהוב וסגול של חרדל, חטוטרן וצנון פגיוני. עריוני צהוב, תורמוס ההרים, פשתה שעירה, כלך, שעמון, מסרק, קידה שעירה, מרווה ריחנית, מהאדומים: כלניות נורית אסיה דמומית ארם צובא. הקנרס הסורי פורש עלים ענקיים ויפרח בהמשך. מסלול ההליכה קשה אבל אפשר להגיע בקלות לתצפית על מדרונות תורמוס כחולים דרך מושב הזורעים.",
+      "locations": [
+        {
+          "location_name": "נחל אדמי",
+           "flowers": [
+             "Sinapis alba",
+              "Rapistrum rugosum",
+               "Raphanus raphanistrum",
+               "Erodium cicutarium",
+                "Lupinus pilosus",
+                 "Linum pubescens",
+                 "Tordylium aegyptiacum",
+                 "Anemone coronaria",
+                 "Ranunculus asiaticus",
+                "Adonis palaestina",
+                 "Cynara syriaca",
+                  "Salvia fruticosa",
+                   "Scandix pecten-veneris",
+                   "Calicotome villosa",
+                     "Cynara syriaca"
+           ],
+          "maps_query_location": "Nahal Adami"
+        },
+        {
+          "location_name": "מושב הזורעים",
+           "flowers": [
+              "Lupinus pilosus"
+             ],
+          "maps_query_location": "Moshav Hazorim"
+        }
+      ]
+    },
+    {
+      "date": "17/03/2011",
+      "observer": "פנינה פרנקל",
+      "original_text": "כליל החורש החל פורח בשער הגיא מצד ימין בכיוון מירושלים",
+      "locations": [
+        {
+          "location_name": "שער הגיא",
+            "flowers": [
+                "Cercis siliquastrum"
+            ],
+          "maps_query_location": "Sha'ar Hagai"
+        }
+      ]
+    },
+     {
+      "date": "16/03/2011",
+      "observer": "שרה סלפק",
+      "original_text": "תורמס ההרים באלפיו,בתוך הנחל ובמדרונות מסביב,נורית-אסיה,פשתה שעירה,בוצין מזרחי,שום משולש,חרצית עטורה,מרוה דגולה וריחנית,תגית מצויה,חבלבל עדין וסורי,מקור חסידה גדול,כלך,צמר מפוצל,שושנתית משורטטת על הסלעים, טבורית נטויה,לשון הפר המצויה והסמורה,דמומית,לוענית גדולה,קוציץ סורי קינרס סורי, ומצליבים צהובים לבנים וורודים חגיגת פריחה וצבעים,",
+      "locations": [
+        {
+          "location_name": "נ,תבור",
+           "flowers": [
+               "Lupinus pilosus",
+                "Ranunculus asiaticus",
+                "Linum pubescens",
+                "Verbascum orientale",
+                 "Allium subhirsutum",
+                 "Glebionis coronaria",
+                 "Salvia dominica",
+                  "Tagetes minuta",
+                   "Convolvulus arvensis",
+                   "Erodium gruinum",
+                   "Tordylium aegyptiacum",
+                    "Paronychia argentea",
+                     "Sedum sediforme",
+                      "Anchusa strigosa",
+                       "Adonis palaestina",
+                        "Misopates orontium",
+                         "Echinops viscosus",
+                         "Cynara syriaca"
+           ],
+          "maps_query_location": "Mount Tabor"
+        },
+         {
+          "location_name": "כפר קיש",
+            "flowers": [
+                "Lupinus pilosus",
+                "Ranunculus asiaticus",
+                "Linum pubescens",
+                "Verbascum orientale",
+                 "Allium subhirsutum",
+                 "Glebionis coronaria",
+                 "Salvia dominica",
+                  "Tagetes minuta",
+                   "Convolvulus arvensis",
+                   "Erodium gruinum",
+                   "Tordylium aegyptiacum",
+                    "Paronychia argentea",
+                     "Sedum sediforme",
+                      "Anchusa strigosa",
+                       "Adonis palaestina",
+                       "Misopates orontium",
+                        "Echinops viscosus",
+                         "Cynara syriaca"
+           ],
+          "maps_query_location": "Kfar Kish"
+        },
+        {
+          "location_name": "קניון הבזלת",
+           "flowers": [
+                "Lupinus pilosus",
+                "Ranunculus asiaticus",
+                "Linum pubescens",
+                "Verbascum orientale",
+                 "Allium subhirsutum",
+                 "Glebionis coronaria",
+                 "Salvia dominica",
+                  "Tagetes minuta",
+                   "Convolvulus arvensis",
+                   "Erodium gruinum",
+                   "Tordylium aegyptiacum",
+                    "Paronychia argentea",
+                     "Sedum sediforme",
+                      "Anchusa strigosa",
+                       "Adonis palaestina",
+                        "Misopates orontium",
+                        "Echinops viscosus",
+                        "Cynara syriaca"
+           ],
+          "maps_query_location": "Basalt Canyon"
+        }
+      ]
+    },
+    {
+      "date": "16/03/2011",
+      "observer": "עמי זהבי",
+      "original_text": "בהרצליה בגבעת חמרה פורחים המון תורמוס א\"י וחרצית עטורה, פרג, צנון מצוי, מרזיה יפהפיה, אלמוות הכסף, אלקנה הצבעים, שום תל אביב, צבעוני, ונטועים אורן ירושלים, אלון התבור ואלון הגלעין - ברח' יהודה הנשיא פינת רזיאל (מול בית יוליאנה).",
+      "locations": [
+        {
+          "location_name": "הרצליה",
+             "flowers": [
+               "Lupinus palaestinus",
+                "Glebionis coronaria",
+                 "Papaver rhoeas",
+                "Raphanus sativus",
+                "Merremia tridentata",
+                "Helichrysum sanguineum",
+                "Alkanna tinctoria",
+                "Allium telavivense",
+                 "Tulipa agenensis",
+                  "Pinus halepensis",
+                  "Quercus ithaburensis",
+                  "Quercus calliprinos"
+             ],
+          "maps_query_location": "Herzliya"
+        },
+         {
+          "location_name": "גבעת חמרה",
+           "flowers": [
+                "Lupinus palaestinus",
+                "Glebionis coronaria",
+                 "Papaver rhoeas",
+                "Raphanus sativus",
+                "Merremia tridentata",
+                "Helichrysum sanguineum",
+                "Alkanna tinctoria",
+                "Allium telavivense",
+                 "Tulipa agenensis",
+                  "Pinus halepensis",
+                  "Quercus ithaburensis",
+                  "Quercus calliprinos"
+             ],
+          "maps_query_location": "Givat Hamra"
+        }
+      ]
+    },
+    {
+      "date": "16/03/2011",
+      "observer": null,
+      "original_text": "בגבעת שר מודיעין החל לפרוח האגס הסורי - יפרח בשיא בעוד כשבוע. פורחים גם: לוענית, מרות ירושלים, כלח, עוזרר קוצני, אשחר אי,  לוטוס, קדד א\"י, המוני קחוונים, דמומית, לבנה רפואי, שום משולש, צהרון מצוי ועוד.",
+      "locations": [
+        {
+          "location_name": "גבעת שר",
+            "flowers": [
+                 "Pyrus syriaca",
+                  "Misopates orontium",
+                  "Ballota undulata",
+                   "Tordylium aegyptiacum",
+                   "Crataegus aronia",
+                   "Rhamnus lycioides",
+                   "Lotus cytisoides",
+                   "Astragalus palaestinus",
+                   "Anthemis pseudocotula",
+                  "Adonis palaestina",
+                   "Goniolimon collinum",
+                   "Allium subhirsutum",
+                   "Anchusa hybrida"
+               ],
+           "maps_query_location": "Givat Sher"
+        },
+         {
+          "location_name": "מודיעין",
+          "flowers": [
+               "Pyrus syriaca",
+                  "Misopates orontium",
+                  "Ballota undulata",
+                   "Tordylium aegyptiacum",
+                   "Crataegus aronia",
+                   "Rhamnus lycioides",
+                   "Lotus cytisoides",
+                   "Astragalus palaestinus",
+                   "Anthemis pseudocotula",
+                   "Adonis palaestina",
+                   "Goniolimon collinum",
+                    "Allium subhirsutum",
+                    "Anchusa hybrida"
+             ],
+           "maps_query_location": "Modi'in"
+        }
+      ]
+    }
+  ]
+}
+```

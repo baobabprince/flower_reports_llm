@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/01/2021",
+      "observer": null,
+      "original_text": "כלניות אדומות בכל אזור המערות. הכניסה מרחוב דרזנר ת״א",
+      "locations": [
+        {
+          "location_name": "אפקה",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Apheka"
+        }
+      ]
+    },
+    {
+      "date": "01/01/2021",
+      "observer": "עידו מגן",
+      "original_text": "הרבה כלניות אדומות ורעננות לאורך הדרך המובילה לתל חדיד; באיזור התעשיה של שוהם גבעה עם הרבה כלניות לבנות ומעט אדומות - יש לפנות ימינה מכביש 444 לדרך החורש ובסוף לפנות שוב ימינה ולהתעקל עם הכביש מערבה",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+            "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Tel Hadid"
+        },
+        {
+           "location_name": "שוהם",
+            "flowers": ["כלנית לבנה", "כלנית אדומה"],
+           "maps_query_location":"Shoham"
+         }
+      ]
+    },
+    {
+      "date": "31/12/2020",
+      "observer": "גל מגלי",
+      "original_text": "שיא הפריחה של הנרקיסים בצד הכביש המחבר מצמת פורידיס לכביש החוף\nהגישה דרך תחנת הדלק ועל הגשר החקלאי.",
+      "locations": [
+        {
+          "location_name": "פורידיס",
+            "flowers": ["נרקיס"],
+          "maps_query_location": "Fureidis"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2020",
+      "observer": null,
+       "original_text": "טעימות מהרי ירושלים 28.12.20",
+      "locations": [
+        {
+          "location_name": "הרי ירושלים",
+          "flowers": [],
+           "maps_query_location": "Jerusalem Mountains"
+         }
+       ]
+    },
+    {
+      "date": "29/12/2020",
+      "observer": null,
+       "original_text": "הן פורחות - הרבה מהן בהר הנגב",
+       "locations": [
+        {
+           "location_name": "הר הנגב",
+           "flowers": ["סיתוונית הרמון"],
+           "maps_query_location":"Har HaNegev"
+         }
+      ]
+    },
+    {
+      "date": "29/12/2020",
+      "observer": null,
+      "original_text": "פורח עכשיו ביער ביריה, ובשומרון -ליד עופרה",
+       "locations": [
+        {
+           "location_name": "יער ביריה",
+            "flowers": ["איריס הסרגל"],
+           "maps_query_location": "Birya Forest"
+         },
+        {
+           "location_name": "עופרה",
+           "flowers": ["איריס הסרגל"],
+          "maps_query_location": "Ofra"
+         }
+      ]
+    },
+        {
+      "date": "29/12/2020",
+      "observer": "אורי זיתוני",
+      "original_text": "פרח בודד בתל צפית",
+       "locations": [
+        {
+          "location_name": "תל צפית",
+            "flowers": ["כלנית"],
+          "maps_query_location": "Tel Tzafit"
+         }
+      ]
+    },
+    {
+      "date": "27/12/2020",
+      "observer": "מוטי בר-טל",
+      "original_text": "כלניות בשביל השחור בגבעת הכורכר המזרחית מקבצים לא גדולים",
+       "locations": [
+        {
+          "location_name": "שמורת שער פולג",
+            "flowers": ["כלנית"],
+          "maps_query_location": "Sha'ar Poleg"
+         }
+      ]
+    },
+     {
+      "date": "27/12/2020",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "דבורנית שחומה,פרט אחד בתחילת פריחה, ומספר פרטים עם עלים, בירידה בשביל הכחול בחורשת הארבעים(לפני הבאר).",
+         "locations": [
+        {
+           "location_name": "כרמל",
+           "flowers": ["דבורנית שחומה"],
+          "maps_query_location":"Carmel"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2020",
+      "observer": "רינה שרון",
+       "original_text": "חיננית הבתה, זחדץזחת הקנוקנות, כרכום חורפי, רקפות. שפע רקפות לכיוון מערת כברייה.",
+         "locations": [
+        {
+           "location_name": "רמת הנדיב",
+            "flowers": ["חיננית הבתה", "זחדץזחת הקנוקנות", "כרכום חורפי", "רקפת"],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    }
+  ]
+}
+```

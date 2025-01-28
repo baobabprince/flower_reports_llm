@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/09/2023",
+      "observer": null,
+      "original_text": "ליד יער צרעה , הם נזכרו מאוחר לפרוח ...",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Ya'ar Tzora"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2023",
+      "observer": "יאיר חיים",
+      "original_text": "פריחה רבה ומפושטת של חצבים בשלבים שונים בגבעת התנ\"ך בירושלים",
+       "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Givat HaTanakh"
+        },
+         {
+          "location_name": "ירושלים",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2023",
+      "observer": "שמעון אלדור",
+      "original_text": "פריחה נאה בנחל שימרון (נחל החצבים), עדיין לא בשיאה",
+      "locations": [
+        {
+          "location_name": "נחל שימרון",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Nahal Shimron"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2023",
+      "observer": "משה יורמן",
+      "original_text": "הפרחה של החצבים בתל יודפת נראית שהיא כעת בעיצומה . מרבית עמודי התפרחות פורחים בשליש השני של עמודי התפרחת .",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+     {
+      "date": "18/09/2023",
+      "observer": "טובית",
+       "original_text": "סוכות באילנות\nהפנינג לכל המשפחה\n1-5/10/2023\nפרטים באתר סל קק\"ל\nמוזמנים",
+      "locations": [
+         {
+          "location_name": "אילנות",
+           "flowers": [],
+          "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2023",
+      "observer": "אלון הורביץ",
+      "original_text": "אתמול ראיתי בחלק העליון של שביל הפסגה להר,מירון מה שנראה בעיני כסיתוונית. במבט שני התעורר בי ספק אם זה לא משהו אחר (לא נראית עדינה כסיתוונית).",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "17/09/2023",
+      "observer": "שרון פירסט",
+      "original_text": "פריחת חצבים בגבעת הארבעה(אזור רמת רחל -ירושלים).",
+      "locations": [
+         {
+          "location_name": "גבעת הארבעה",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Givat HaArba'a"
+        },
+        {
+          "location_name": "רמת רחל",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Ramat Rachel"
+        },
+         {
+          "location_name": "ירושלים",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2023",
+      "observer": "רוני בארי",
+      "original_text": "אלפי חצבים בשיא הפריחה בתל יודפת",
+       "locations": [
+        {
+          "location_name": "תל יודפת",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+     {
+      "date": "11/09/2023",
+      "observer": null,
+      "original_text": "נר-הלילה החופי, חבצלות החוף רבות, קריתמון ימי בשיא, עדעד רותמי , בן-טיול בשרני, על התל גדלים שיחי לענה-חד זרעית ",
+        "locations": [
+        {
+           "location_name": "דור-נחשולים",
+           "flowers": ["נר-הלילה החופי", "חבצלת החוף", "קריתמון ימי", "עדעד רותמי", "בן-טיול בשרני", "לענה חד-זרעית"],
+           "maps_query_location": "Dor-Nahsholim"
+         }
+      ]
+    },
+    {
+      "date": "11/09/2023",
+      "observer": null,
+      "original_text": "עולים לתל והולכים על השביל המסודר צפונה , משני הצדדים פורחים אלפי חצבים חלקם על רקע הים , נפלא לצילומים ",
+      "locations": [
+          {
+          "location_name": "תל דור",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    }
+  ]
+}
+```

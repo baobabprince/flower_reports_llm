@@ -1,0 +1,255 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/02/2023",
+      "observer": "אורנה ניסן",
+      "original_text": "בנחל פארעם שמעל חצור הגלילית, הרבה שקדיות בשיא פריחתן, וכלניות אדומות ",
+      "locations": [
+        {
+          "location_name": "נחל פארעם",
+          "flowers": [
+            "שקד מצוי",
+             "כלנית אדומה"
+          ],
+          "maps_query_location": "Nahal Pa'ar"
+        },
+        {
+          "location_name": "חצור הגלילית",
+          "flowers": [
+             "שקד מצוי",
+             "כלנית אדומה"
+          ],
+          "maps_query_location": "Hatzor HaGlilit"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2023",
+      "observer": "איתן ואפרת",
+      "original_text": "בירושלים בשכונת ארמון , בסמוך לאנדרטת הסבלנות ישנה גבעה ועליה פריחה של מאות תורמוסים סגולים מרהבים ..מראה נדיר ומיוחד מול נוף משגע הצופה להר הבית ומדבר יהודה.",
+      "locations": [
+        {
+          "location_name": "ירושלים",
+          "flowers": [
+            "תורמוס ההרים"
+          ],
+          "maps_query_location": "Jerusalem"
+        },
+         {
+          "location_name": "ארמון הנציב",
+           "flowers": [
+            "תורמוס ההרים"
+          ],
+          "maps_query_location": "Armon HaNetziv"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2023",
+       "observer": "דוד ח\"צ",
+      "original_text": "האזור שבו מתקיים דרום אדום לא פורח רק באדום!לאורכו של כביש 232 מאנדרטת החץ השחור ועד לכפר עזה יש פריחה יפה של שקדיות.מרביבים לצאלים לאורך כביש 222 יש פריחה מרהיבה בשולי הדרך של חרציות וסביונים. בחלקים מסויימים ניתו לראות גם ציפורני חתול מצויות. מול צאלים ניתן לצפות במרבדים של ציפורני חתול מצויות.",
+      "locations": [
+        {
+           "location_name": "אנדרטת החץ השחור",
+           "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Black Arrow Memorial"
+        },
+        {
+           "location_name": "כפר עזה",
+           "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Kfar Aza"
+        },
+         {
+          "location_name": "רביבים",
+           "flowers": [
+            "חרצית עטורה",
+             "סביון אביבי"
+          ],
+           "maps_query_location": "Revivim"
+         },
+        {
+          "location_name": "צאלים",
+            "flowers": [
+            "חרצית עטורה",
+            "סביון אביבי",
+             "ציפורני-חתול מצויות"
+           ],
+          "maps_query_location": "Tze'elim"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2023",
+      "observer": null,
+      "original_text": "פורח איריס הארגמן גם הג'ינג'ים , תורמוס ארצישראלי ועו דועוד",
+      "locations": [
+        {
+          "location_name": "שמורת קדימה",
+          "flowers": [
+            "אירוס הארגמן",
+             "תורמוס ארצישראלי"
+          ],
+          "maps_query_location": "Kadima Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "25/02/2023",
+      "observer": "עידו מגן",
+       "original_text": "בשדה שבסמוך לרמז פינת שדרות תש\"ח בראשון לציון פורחת שקדיה. בשדה מדרום לשדרות תש\"ח פורחים מאות תורמוסים ארצישראליים (לבנים) וכמה שקדיות בודדות",
+       "locations": [
+         {
+           "location_name": "ראשון לציון",
+           "flowers": [
+            "שקד מצוי",
+            "תורמוס ארצישראלי"
+           ],
+           "maps_query_location": "Rishon LeZion"
+         }
+       ]
+    },
+      {
+      "date": "25/02/2023",
+      "observer": null,
+        "original_text": "איריס הארגמן, תורמוס ישראלי, היסנית, סביונים, כלניות חמציצים, רותם,  נוריות מרגנית ",
+      "locations": [
+        {
+          "location_name": "בית חנן",
+          "flowers": [
+             "אירוס הארגמן",
+             "תורמוס ארצישראלי",
+             "היסנית",
+             "סביון אביבי",
+              "כלנית מצויה",
+             "חמציץ נטוי",
+              "רותם המדבר",
+              "נורית אסיה"
+           ],
+          "maps_query_location": "Beit Hanan"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2023",
+       "observer": "עמית",
+      "original_text": "יש אירוסים בשפע, מעט צבעונים וכלניות, מרגניות, שום, חמציץ, כוכבנים, רותם",
+       "locations": [
+        {
+          "location_name": "גבעת חמרה",
+          "flowers": [
+            "אירוס",
+            "צבעוני",
+              "כלנית מצויה",
+             "נורית אסיה",
+              "שום",
+             "חמציץ נטוי",
+            "כוכבן",
+             "רותם המדבר"
+          ],
+           "maps_query_location": "Givat Hamra"
+        },
+        {
+          "location_name": "פלמחים",
+          "flowers": [
+             "אירוס",
+             "צבעוני",
+             "כלנית מצויה",
+             "נורית אסיה",
+             "שום",
+             "חמציץ נטוי",
+             "כוכבן",
+             "רותם המדבר"
+          ],
+          "maps_query_location": "Palmachim"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2023",
+      "observer": "עמית",
+      "original_text": "אירוסים שיא, בנוסף מרגניות כוכבנים, רותם,",
+      "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": [
+            "אירוס",
+            "נורית אסיה",
+            "כוכבן",
+            "רותם המדבר"
+          ],
+           "maps_query_location": "Givat Humra"
+        }
+      ]
+    },
+     {
+      "date": "24/02/2023",
+       "observer": "Lavi Apfelbaum",
+      "original_text": "2 דרדרים כחולים בגבעות מסביב למודיעין(אזור מיועד לבנייה כנראה)",
+       "locations": [
+        {
+          "location_name": "מודיעין",
+           "flowers": [
+             "דרדר כחול"
+           ],
+           "maps_query_location": "Modi'in"
+        }
+      ]
+    },
+      {
+      "date": "24/02/2023",
+       "observer": "עידו מגן",
+      "original_text": "מטעי השקדיות באיזור בשיא פריחתם: ליד מיני ישראל, קצת לפני הפניה למבוא חורון, מצפון למחלף לטרון (לצד כביש 3 ממערב) וממערב לו (לצד כביש 1 מצפון). כל הדרך מלטרון לכיוון רמלה על כביש 424 ולכיוון מבוא חורון על כביש 3 מלאה גם שקדיות בר. בגבעה שמשקיפה על מאגר מסילת ציון מדרום פורחות כלניות גדולות בשפע.",
+       "locations": [
+         {
+          "location_name": "מיני ישראל",
+           "flowers": [
+            "שקד מצוי"
+          ],
+           "maps_query_location": "Mini Israel"
+         },
+         {
+           "location_name": "מבוא חורון",
+            "flowers": [
+              "שקד מצוי",
+               "שקד בר"
+             ],
+            "maps_query_location": "Mevo Horon"
+         },
+          {
+           "location_name": "מחלף לטרון",
+             "flowers": [
+              "שקד מצוי"
+             ],
+            "maps_query_location": "Latrun Interchange"
+          },
+        {
+           "location_name": "לטרון",
+          "flowers": [
+             "שקד בר"
+           ],
+           "maps_query_location": "Latrun"
+         },
+        {
+          "location_name": "רמלה",
+          "flowers": [
+            "שקד בר"
+           ],
+          "maps_query_location": "Ramla"
+         },
+         {
+           "location_name": "מאגר מסילת ציון",
+           "flowers": [
+            "כלנית מצויה"
+          ],
+           "maps_query_location": "Masilat Zion Reservoir"
+         }
+       ]
+    }
+  ]
+}
+```

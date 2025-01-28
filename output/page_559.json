@@ -1,0 +1,600 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/04/2014",
+      "observer": "נמרוד שילה",
+      "original_text": "בוצין ביירותי, ערבז החוף, קיטה סוככנית, אזוביון דגול ותורמוס צהוב, חגיגה של מינים אדומים בחורשה",
+      "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים",
+          "flowers": [
+            "Verbascum gaillardotii",
+             "Echium judaeum",
+             "Smyrnium olusatrum",
+             "Lavandula stoechas",
+            "Lupinus luteus"
+           ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "14/04/2014",
+      "observer": null,
+      "original_text": "באזור תל גודד, ליד נחושה שבשפלת יהודה.",
+        "locations": [
+        {
+          "location_name": "תל גודד",
+          "flowers": ["Scilla cilicica", "Sarcopoterium spinosum"],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "נחושה",
+           "flowers": ["Scilla cilicica", "Sarcopoterium spinosum"],
+           "maps_query_location": "Nahusha"
+        },
+         {
+           "location_name": "שפלת יהודה",
+           "flowers": ["Scilla cilicica", "Sarcopoterium spinosum"],
+           "maps_query_location": "Shephelah"
+         }
+      ]
+    },
+    {
+      "date": "14/04/2014",
+       "observer": null,
+      "original_text": "פורח בגן בגעש",
+      "locations": [
+        {
+           "location_name":"געש",
+           "flowers": ["Phlomis russeliana"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "13/04/2014",
+       "observer": null,
+      "original_text": "ערבז החוף,זון פרסי,ועיריוני קצר פורחים בגן",
+      "locations": [
+        {
+            "location_name":"געש",
+            "flowers": ["Echium judaeum", "Bellevalia persica", "Gynandriris sisyrinchium"],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+     "date":"10/04/2014",
+      "observer": null,
+      "original_text": "פריחה של פרגים וקחוונים באלפים - מרהיב",
+       "locations": [
+        {
+          "location_name": "רחובות",
+           "flowers": ["Papaver", "Anthemis"],
+            "maps_query_location": "Rehovot"
+         },
+        {
+          "location_name":"צפריה",
+          "flowers": ["Papaver", "Anthemis"],
+           "maps_query_location":"Tzafria"
+        },
+        {
+         "location_name": "אלפים",
+         "flowers": ["Papaver", "Anthemis"],
+          "maps_query_location": null
+        }
+       ]
+     },
+    {
+      "date": "10/04/2014",
+      "observer": "שרה סלפק",
+      "original_text": "9'4'2014-מבת שלמה,עם ליאור,נ-דליה,נ,שלף,עין מחוללים,עין השופט,נ, השופט,עמק השלום,הזורע,פרג אגסני,חסה כחולת פרחים,דרדר כחול,שלמון סורי,סיפן הקמה,פיגם מצוי,זקן הסב והתיש,תלתן הארגמן,נוצנית כדורית,שברק משובל,לפתית מצויה,חרדל לבן והשדה,בקבוקון מקומט,כרבה ספרדית,פשתה שעירה מצויה,ואשונה,חוטמית זיפנית,נוציץ מנוצה,ניסנית אי,נורית אסיה,סלסילה מצויה,ערברבה שעירה,אלה אי, והברוש הצריפי המדהים,קצח ריסני,אירוס ארם נהרים,טמוס מזרחי,כתרון זעיר פרח,פעמונית קפחת,גרגיר הנחלים,צבורת ההרים,דונגית אי,תגית מצויה,בקיה שעירה,חבלבלן המשוכות,אולמוס שעיר בנ, השופט,ולאורך כל הדרך בקית הביצות,חג שמח,",
+      "locations": [
+        {
+          "location_name": "רמות מנשה",
+          "flowers": [
+            "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+          ],
+           "maps_query_location": "Ramot Menashe"
+        },
+          {
+          "location_name": "מבת שלמה",
+           "flowers": [
+             "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+           "maps_query_location": "Mevuot Shlomo"
+        },
+         {
+          "location_name": "דליה",
+           "flowers": [
+             "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+           "maps_query_location": "Dalia"
+        },
+        {
+          "location_name": "שלף",
+           "flowers": [
+            "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+           "maps_query_location": "Shlaf"
+        },
+        {
+          "location_name": "עין מחוללים",
+           "flowers": [
+             "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+           "maps_query_location": "Ein Meholalim"
+        },
+        {
+          "location_name": "עין השופט",
+           "flowers": [
+             "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+            ],
+          "maps_query_location": "Ein HaShofet"
+        },
+          {
+          "location_name": "עמק השלום",
+          "flowers": [
+            "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+          "maps_query_location": "Emek HaShalom"
+        },
+        {
+          "location_name": "הזורע",
+          "flowers": [
+             "Papaver umbonatum",
+            "Lactuca undulata",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+             "Gladiolus italicus",
+             "Ruta chalepensis",
+             "Tragopogon",
+             "Trifolium purpureum",
+             "Globularia",
+             "Acanthus syriacus",
+            "Brassica napus",
+             "Sinapis alba",
+             "Bellardia trixago",
+            "Carthamus lanatus",
+            "Linum pubescens",
+             "Alkanna tinctoria",
+              "Alcea setosa",
+            "Ononis ornithopodioides",
+            "Nigella arvensis",
+            "Ranunculus asiaticus",
+             "Crepis aculeata",
+            "Anchusa strigosa",
+             "Pistacia atlantica",
+             "Cupressus sempervirens",
+              "Nigella ciliaris",
+             "Iris assyriaca",
+             "Tamus orientalis",
+             "Asperula arvensis",
+             "Campanula hierosolyma",
+             "Nasturtium officinale",
+              "Sideritis montana",
+              "Ajuga chamaepitys",
+             "Tagetes minuta",
+              "Vicia villosa",
+             "Convolvulus arvensis",
+              "Ulmus canescens",
+             "Lythrum salicaria"
+           ],
+          "maps_query_location": "HaZorea"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2014",
+      "observer": "אילן טל , 0528254968",
+       "original_text": "פורחים : איריס ענף , אחירותם החורש , מרווה מרושתת+ כחולה + פטלית +מנוצה + אייג + א\"י + קוצנית + שסועה , אבובית מקורקפת + עדינה , ורוניקה קרחת , חוחן א\"י , ספלול ססגוני , דונגית א\"י , ערידת הביצות , פרע צמיר , שלהבית צהובת עלים + מדברית , שום צנוע + יריחו + האבקנים + הבזלת , פרגה אדומה , פשתנית יפו , מנכיה עדינה , שמשון הדור , אגרוסטמה עדינה , חלביב יווני + רותמי ועוד רבים מאד . חג שמח לכולם .",
+       "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "Iris grant-duffii",
+            "Lathyrus clymenum",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+              "Salvia pinnata",
+            "Salvia bracteata",
+             "Salvia judaica",
+             "Salvia viscosa",
+            "Phlomis cephalotes",
+              "Phlomis viscosa",
+             "Veronica chamaedrys",
+            "Carduus argentatus",
+             "Ophrys umbilicata",
+            "Ajuga orientalis",
+            "Lythrum hyssopifolia",
+            "Filago germanica",
+             "Pterocephalus plumosus",
+            "Allium subhirsutum",
+            "Allium hierochuntinum",
+             "Allium neapolitanum",
+            "Papaver rhoeas",
+            "Linaria joppensis",
+            "Menchia clementii",
+            "Onopordum hierosolymitanum",
+            "Agrostemma githago",
+            "Galium verum" ,
+              "Galium aparine"
+           ],
+            "maps_query_location": null
+        },
+         {
+          "location_name":"גן בוטני",
+          "flowers": [
+            "Iris grant-duffii",
+            "Lathyrus clymenum",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+              "Salvia pinnata",
+            "Salvia bracteata",
+             "Salvia judaica",
+             "Salvia viscosa",
+            "Phlomis cephalotes",
+              "Phlomis viscosa",
+             "Veronica chamaedrys",
+            "Carduus argentatus",
+             "Ophrys umbilicata",
+            "Ajuga orientalis",
+            "Lythrum hyssopifolia",
+            "Filago germanica",
+             "Pterocephalus plumosus",
+            "Allium subhirsutum",
+            "Allium hierochuntinum",
+             "Allium neapolitanum",
+            "Papaver rhoeas",
+            "Linaria joppensis",
+            "Menchia clementii",
+            "Onopordum hierosolymitanum",
+            "Agrostemma githago",
+             "Galium verum" ,
+              "Galium aparine"
+           ],
+           "maps_query_location": null
+        },
+        {
+           "location_name":"כפר יהושע",
+          "flowers": [
+            "Iris grant-duffii",
+            "Lathyrus clymenum",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+              "Salvia pinnata",
+            "Salvia bracteata",
+             "Salvia judaica",
+             "Salvia viscosa",
+            "Phlomis cephalotes",
+              "Phlomis viscosa",
+             "Veronica chamaedrys",
+            "Carduus argentatus",
+             "Ophrys umbilicata",
+            "Ajuga orientalis",
+            "Lythrum hyssopifolia",
+            "Filago germanica",
+             "Pterocephalus plumosus",
+            "Allium subhirsutum",
+            "Allium hierochuntinum",
+             "Allium neapolitanum",
+            "Papaver rhoeas",
+            "Linaria joppensis",
+            "Menchia clementii",
+            "Onopordum hierosolymitanum",
+            "Agrostemma githago",
+             "Galium verum" ,
+              "Galium aparine"
+           ],
+            "maps_query_location":"Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+       "date":"10/04/2014",
+       "observer": null,
+      "original_text": "בוצין קיסריון,געדה קיפחת,איריס ענף,דרכמונית סורית,ועדעד הגליל פורחים בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+            "flowers": [
+                "Verbascum caesareum",
+               "Teucrium capitatum",
+               "Iris grant-duffii",
+              "Muscari syriacum",
+              "Limonium narbonense"
+              ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2014",
+      "observer": null,
+      "original_text":"איריס השומרון הוא איריס הדור בפריחה וגם הוצג בחדשות השבוע ראו בקישור",
+       "locations":[
+         {
+           "location_name":"השומרון",
+           "flowers":["Iris haynei"],
+           "maps_query_location":"Shomron"
+        }
+      ]
+    },
+        {
+      "date": "09/04/2014",
+       "observer": null,
+      "original_text":"חסה כחולת פרחים עשרות צמחים בפרחה בשעות הבוקר, בן-סחלב צריפי, דם מכבים רקפות ונוריות סוף פריחה , פשתה שעירה , סלסילה מצויה ושפרירה",
+       "locations":[
+         {
+          "location_name":"יער בן שמן",
+          "flowers":[
+            "Lactuca undulata",
+            "Serapias vomeracea",
+            "Sarcopoterium spinosum",
+             "Cyclamen persicum",
+              "Ranunculus",
+             "Linum pubescens",
+            "Crepis aculeata",
+              "Lathyrus aphaca"
+            ],
+          "maps_query_location":"Ben Shemen Forest"
+        }
+      ]
+    }
+  ]
+}
+```

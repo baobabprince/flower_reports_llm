@@ -1,0 +1,236 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/12/2023",
+      "observer": null,
+      "original_text": "נרקיס סתווי עדיין בפריחה, אולי יתאושש עם הגשמים. \nסתוונית היורה , כרכום גיארדו.",
+      "locations": [
+        {
+          "location_name": "מעיין צבי",
+          "flowers": [
+            "Narcissus serotinus",
+             "Colchicum hierosolymitanum",
+            "Crocus cancellatus"
+          ],
+          "maps_query_location": "Ma'ayan Zevi"
+        },
+         {
+          "location_name": "כורכרי החוף",
+          "flowers": [
+            "Narcissus serotinus",
+             "Colchicum hierosolymitanum",
+            "Crocus cancellatus"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/12/2023",
+      "observer": null,
+      "original_text": "אחילוף קטן",
+      "locations": [
+        {
+          "location_name": "הר אדיר",
+            "flowers": [
+            "Echium parviflorum"
+          ],
+          "maps_query_location": "Har Adir"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2023",
+      "observer": null,
+      "original_text": "אלון תבור- מושב-כחל , חלמונית גדולה – יער ביריה והר תבור, \nחלמונית זעירה , כרכום נאה  - יער-ביריה, ציפורן נקוד ן רקפת מצויה  -  מושב-כחל   - מושב כחל",
+      "locations": [
+        {
+          "location_name": "מושב כחל",
+          "flowers": [
+            "Quercus ithaburensis",
+              "Sternbergia clusiana",
+            "Dianthus tripunctatus",
+              "Cyclamen persicum"
+          ],
+          "maps_query_location": "Kahal"
+        },
+        {
+          "location_name": "יער ביריה",
+             "flowers": [
+               "Sternbergia clusiana",
+              "Sternbergia lutea",
+              "Crocus pulchellus"
+            ],
+          "maps_query_location": "Biriya Forest"
+        },
+        {
+          "location_name": "הר תבור",
+           "flowers": [
+             "Sternbergia clusiana"
+            ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+      {
+      "date": "03/12/2023",
+      "observer": null,
+      "original_text": "אשחר מנוקד(פירות) , ורד הכלב(פירות), כרכום גיארדו, כרכום צהבהב , סתוונית ירושלים   ונץ-חלב אזמלני(מ.עלמה) , פקועה מצויה",
+     "locations": [
+        {
+          "location_name": "מערת עלמה",
+             "flowers": [
+            "Rhamnus punctata",
+             "Rosa canina",
+             "Crocus cancellatus",
+            "Crocus flavus",
+            "Colchicum hierosolymitanum",
+              "Ornithogalum narbonense",
+             "Globularia cordifolia"
+          ],
+          "maps_query_location": "Alma Cave"
+        },
+         {
+          "location_name": "פער",
+             "flowers": [
+             "Rhamnus punctata",
+             "Rosa canina",
+             "Crocus cancellatus",
+            "Crocus flavus",
+             "Colchicum hierosolymitanum",
+              "Ornithogalum narbonense",
+             "Globularia cordifolia"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "דלתון",
+          "flowers": [
+            "Rhamnus punctata",
+             "Rosa canina",
+              "Crocus cancellatus",
+            "Crocus flavus",
+             "Colchicum hierosolymitanum",
+               "Ornithogalum narbonense",
+             "Globularia cordifolia"
+          ],
+          "maps_query_location": "Dalton"
+        },
+         {
+           "location_name": "מערת דלתון",
+             "flowers": [
+               "Rhamnus punctata",
+             "Rosa canina",
+              "Crocus cancellatus",
+            "Crocus flavus",
+             "Colchicum hierosolymitanum",
+              "Ornithogalum narbonense",
+             "Globularia cordifolia"
+            ],
+          "maps_query_location": "Dalton Cave"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2023",
+      "observer": null,
+      "original_text": "אחילוף הגליל, חלמונית זעירה, כדן קטן-פרחים, כרכום חורפי,  סתוונית היורה",
+      "locations": [
+        {
+          "location_name": "חירבת עמודים",
+           "flowers": [
+            "Echium galilaeum",
+             "Sternbergia lutea",
+             "Asphodelus parviflorus",
+            "Crocus hyemalis",
+            "Colchicum hierosolymitanum"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/12/2023",
+      "observer": "גיורא רמות",
+      "original_text": "פריחה יפהפיה של חלמוניות בהר תבור",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2023",
+      "observer": null,
+      "original_text": "שיא פריחה למרגלות התבור",
+      "locations": [
+        {
+          "location_name": "התבור",
+           "flowers": [
+            null
+            ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2023",
+      "observer": "גדי גלקין",
+      "original_text": "כרכומים לרוב, סיווניות, התחלה של רקפות.\nבהר העגול, בעמיקם",
+      "locations": [
+        {
+          "location_name": "הר העגול",
+           "flowers": [
+            "Crocus sp.",
+              "Colchicum sp.",
+            "Cyclamen sp."
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "עמיקם",
+           "flowers": [
+            "Crocus sp.",
+              "Colchicum sp.",
+            "Cyclamen sp."
+          ],
+          "maps_query_location": "Amikam"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2023",
+      "observer": null,
+      "original_text": "פורחת ביער מיתר",
+       "locations": [
+        {
+          "location_name": "יער מיתר",
+           "flowers": [
+            "Colchicum tuviae"
+          ],
+          "maps_query_location": "Meitar Forest"
+        }
+      ]
+    },
+    {
+      "date": "27/11/2023",
+      "observer": null,
+      "original_text": "אצבוע אירופי",
+      "locations": [
+        {
+          "location_name": "בור חמת",
+          "flowers": [
+            "Arisarum vulgare"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

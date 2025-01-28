@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/12/2015",
+      "observer": null,
+      "original_text": "פריחה  בשדות קיבוץ דליה , וברמות מנשה",
+      "locations": [
+        {
+          "location_name": "שדות קיבוץ דליה",
+          "flowers": ["איריס הסרגל"],
+           "maps_query_location": "Kibbutz Dalia Fields"
+        },
+         {
+          "location_name": "רמות מנשה",
+          "flowers": ["איריס הסרגל"],
+           "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2015",
+      "observer": "דורית ועדיה",
+      "original_text": "פריחה של נרקיסים, סתווניות, נץ חלב, קצת כרכומים. התחלת פריחה של דודאים וזלזלת קנוקנות. שיא פריחה של חיננית הבתה. סוף פריחה של בן חצב סתווני. שרביטן בפרי.",
+      "locations": [
+         {
+          "location_name": "רמת הנדיב",
+          "flowers": ["נרקיס", "סתוונית", "נץ חלב", "כרכום", "דודא", "זלזלת קנוקנות", "חיננית הבתה", "בן חצב סתווני","שרביטן"],
+          "maps_query_location":"Ramat Hanadiv"
+         }
+      ]
+    },
+    {
+      "date": "30/11/2015",
+      "observer": "אלעד 1975",
+      "original_text": "בנחל קטלב בשביל השחור פריחה של המוני חינניות הבתה, לא מעט כרכומים ופה ושם גם נרקיסים. כמו כן זלזלת הקנוקנות פורחת, ורקפות בינתיים טרם. רק עלים.",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": ["חיננית הבתה", "כרכום", "נרקיס", "זלזלת קנוקנות", "רקפת"],
+          "maps_query_location":"Nahal Katlav"
+        }
+      ]
+    },
+    {
+       "date": "30/11/2015",
+      "observer": null,
+      "original_text": "נרקיסים רקפות וסתונית היורה לאורך הנחל.",
+       "locations": [
+        {
+          "location_name": "נחל כסלון",
+          "flowers": ["נרקיס", "רקפת", "סתוונית היורה"],
+            "maps_query_location":"Nahal Ksalon"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2015",
+      "observer": null,
+      "original_text": "הרקפות והדודאים במוחרקה, הכלנית ברמות מנשה, האירוסים והנרקיסים בשביל הבנים בדליית אל כרמל, אירוסים ונרקיסים בהמונים...הכל קרה היום",
+      "locations": [
+        {
+          "location_name": "מוחרקה",
+          "flowers": ["רקפת", "דודא"],
+          "maps_query_location": "Muhraqa"
+         },
+         {
+          "location_name": "רמות מנשה",
+            "flowers": ["כלנית"],
+           "maps_query_location":"Ramat Menashe"
+         },
+        {
+          "location_name":"שביל הבנים בדליית אל כרמל",
+          "flowers": ["איריס", "נרקיס"],
+           "maps_query_location":"Shvil HaBanim Daliyat al-Karmel"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2015",
+      "observer": "עופר שטיין",
+      "original_text": "היום נצפו עשרות פריטים של נרקיס ורקפת מעל בריכת המשושים, ופריטים מועטים של נרקיס בשביל הנחל המוביל לבריכה.",
+        "locations": [
+        {
+          "location_name": "בריכת המשושים",
+           "flowers": ["נרקיס", "רקפת"],
+            "maps_query_location":"Hexagonal Pools"
+        },
+        {
+         "location_name": "שביל הנחל המוביל לבריכה",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Stream trail leading to the pool"
+        }
+      ]
+    },
+     {
+      "date": "28/11/2015",
+       "observer": null,
+      "original_text": "פורחת בגן בגעש (מין אדום בסכנת הכחדה)",
+       "locations": [
+         {
+          "location_name": "גן בגעש",
+          "flowers": ["ניסמנית קיפחת"],
+           "maps_query_location":"Ga'ash"
+        }
+       ]
+     },
+     {
+      "date": "26/11/2015",
+       "observer": null,
+      "original_text": "מאות נרקיסים , מאות ואולי אלפים של כרכום חורפי,  כתמה עבת-שורשים ,  וכמות מרשימה של איריס הסרגל בנקודה אחת עשרות פרטים",
+        "locations": [
+         {
+          "location_name": "דרך נוף קרן הכרמל",
+          "flowers": ["נרקיס", "כרכום חורפי", "כתמה עבת-שורשים", "איריס הסרגל"],
+           "maps_query_location": "Keren HaCarmel scenic route"
+         }
+      ]
+    },
+      {
+      "date": "26/11/2015",
+      "observer": null,
+      "original_text": "ממזרח לכביש אחרי צומת קסם לכיוון צפון",
+       "locations": [
+        {
+          "location_name": "כביש 6",
+            "flowers": ["נרקיס"],
+            "maps_query_location":"Highway 6"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2015",
+       "observer": null,
+      "original_text": "בדרך נוף הכרמל(באזור המוחרקה), בחורשת ה 40 ועוד מעט ליד קיבוץ דליה",
+        "locations": [
+         {
+          "location_name": "דרך נוף הכרמל",
+            "flowers": ["איריס הסרגל"],
+           "maps_query_location":"Carmel scenic route"
+         },
+         {
+           "location_name": "מוחרקה",
+           "flowers": ["איריס הסרגל"],
+             "maps_query_location":"Muhraqa"
+           },
+           {
+          "location_name": "חורשת ה 40",
+           "flowers": ["איריס הסרגל"],
+           "maps_query_location":"Grove of the 40"
+        },
+        {
+          "location_name": "קיבוץ דליה",
+            "flowers": ["איריס הסרגל"],
+            "maps_query_location":"Kibbutz Dalia"
+        }
+      ]
+    }
+  ]
+}
+```

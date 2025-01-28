@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/04/2017",
+      "observer": "חנוך אלראי",
+      "original_text": "אירוס הדור בשיא פריחה באיילת השחר - 200 מ' מעל הים - 2017\\4\\6\n\nראש נחל פינה (שביל שחור - ראה עמוד ענן) -840 מ' מעל הים - 207\\4\\20",
+      "locations": [
+        {
+          "location_name": "איילת השחר",
+          "flowers": ["אירוס הדור"],
+           "maps_query_location": "Ayelet HaShahar"
+        },
+         {
+          "location_name": "נחל פינה",
+          "flowers": null,
+           "maps_query_location": "Nahal Pina"
+        }
+      ]
+    },
+    {
+      "date": "19/04/2017",
+      "observer": null,
+       "original_text":"חגיגה של פריחות בהר הטייסים: פשתה אשונה, כנפה חרוקה, פילגון צמיר, אוזן גדי  צהובה, נץ חלב צרפתי, דם מכבים צמחים רבים בפריחה יפה, לוטוס יהודה,  חסרף מזרחי,  מרווה משולשת ף מרוות ירושלים, עוזרר, קטלב סוף פריחה, לוטמית  דביקה, כלך ,",
+      "locations": [
+        {
+          "location_name": "הר הטייסים",
+           "flowers": ["פשתה אשונה", "כנפה חרוקה", "פילגון צמיר", "אוזן גדי צהובה", "נץ חלב צרפתי", "דם מכבים", "לוטוס יהודה", "חסרף מזרחי", "מרווה משולשת", "מרוות ירושלים", "עוזרר", "קטלב", "לוטמית דביקה", "כלך"],
+          "maps_query_location": "Har Hatayasim"
+        }
+      ]
+    },
+    {
+      "date": "19/04/2017",
+      "observer": "רחלי שוורץ-צחור",
+       "original_text":"מאות צמחי שום הגלגל פורחים במלוא הדרם בשדה המשוחזר ברמת הנדיב. השדה נמצא בקרבת השביל האדום. למיקומו המדויק אנא פנו לחנות המידע ברמת הנדיב.",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["שום הגלגל"],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2017",
+      "observer": "ירון פלס",
+       "original_text":"שנק החורש בשביל המטוס סובב איתנים. יפיפיה ומיוחד! פעם ראשונה שנתקלתי בו. 16/4/17",
+      "locations": [
+        {
+           "location_name": "איתנים",
+          "flowers": ["שנק החורש"],
+           "maps_query_location": "Itanim"
+        }
+      ]
+    },
+     {
+      "date": "18/04/2017",
+      "observer": "אסתר איזנרייך",
+       "original_text":"אביב בהרי ירושלים - חניון סטף תחתון 15.4.17",
+      "locations": [
+         {
+          "location_name": "סטף",
+          "flowers": null,
+           "maps_query_location": "Sataf"
+        }
+       ]
+     },
+      {
+      "date": "18/04/2017",
+      "observer": "אסתר איזנרייך",
+      "original_text": "פריחה ביער תרום 15.4.17",
+      "locations": [
+         {
+          "location_name": "יער תרום",
+          "flowers": null,
+           "maps_query_location": "Trom Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2017",
+      "observer": "אסתר איזנרייך",
+       "original_text":"אזור נס הרים ומסלול נופי נחל קטלב עליון 15.4.17",
+      "locations": [
+        {
+          "location_name": "נס הרים",
+          "flowers": null,
+           "maps_query_location": "Nes Harim"
+        },
+        {
+          "location_name": "נחל קטלב",
+          "flowers": null,
+           "maps_query_location": "Nahal Katlav"
+         }
+      ]
+    },
+    {
+     "date": "18/04/2017",
+      "observer": "מלכה אלמלם",
+      "original_text": "יש פריחה של אדמוניות בודדות",
+      "locations": [
+      {
+          "location_name": null,
+          "flowers": ["אדמונית החורש"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "18/04/2017",
+      "observer": null,
+       "original_text":"טופל אדום נצפה פורח במעלה נמר",
+      "locations": [
+        {
+          "location_name": "מעלה נמר",
+          "flowers": ["טופל אדום"],
+           "maps_query_location":"Ma'ale Namer"
+        }
+      ]
+    },
+    {
+     "date": "18/04/2017",
+      "observer": null,
+     "original_text":"סלסילה מצויה, שפרירה מצויה, מוצית קוצנית, דרדר גדול פרחי ם, גזר קיפח, חבלבל השדהף עולש, נפית כפופה חסה כחולת פרחים, פשתה מצויה, מרוות יהודה, געדה מצויה, שרעול שעיר, תגית מצויה, זקניים כפול שיבולת , קצח ריסני ועוד",
+      "locations": [
+        {
+           "location_name":"יער בן שמן",
+          "flowers": ["סלסילה מצויה", "שפרירה מצויה", "מוצית קוצנית", "דרדר גדול", "גזר קיפח", "חבלבל השדה", "עולש", "נפית כפופה", "חסה כחולת פרחים", "פשתה מצויה", "מרוות יהודה", "געדה מצויה", "שרעול שעיר", "תגית מצויה", "זקניים כפול שיבולת", "קצח ריסני"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    }
+  ]
+}
+```

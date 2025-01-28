@@ -1,0 +1,193 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/10/2019",
+      "observer": null,
+      "original_text": "נצפתה בנחל חזורי",
+      "locations": [
+        {
+          "location_name": "נחל חזורי",
+          "flowers": [
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location": "Nahal Hazuri"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2019",
+      "observer": null,
+      "original_text": "בעמק המצלבה בירושלים,   באיזור בית אל  ובגולן",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Emek HaMatzleva"
+        },
+        {
+          "location_name": "בית אל",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+            "maps_query_location": "Beit El"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+            "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "17/10/2019",
+      "observer": null,
+      "original_text": "כרכום החרמון, כרכום נאה וסתוונית החרמון. בקעת מן, חרמון, 16.10.19",
+       "locations": [
+        {
+          "location_name": "בקעת מן",
+          "flowers": [
+            "כרכום החרמון",
+            "כרכום נאה",
+            "סתוונית החרמון"
+          ],
+            "maps_query_location":"Bik'at Man"
+        },
+        {
+          "location_name": "חרמון",
+            "flowers": [
+            "כרכום החרמון",
+            "כרכום נאה",
+             "סתוונית החרמון"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "15/10/2019",
+      "observer": "מלכה אלמלם",
+       "original_text": " פריחה נהדרת בתל חזקה .ניתן לראות בראש ההר ו מסלולכפר גקוזיה",
+      "locations": [
+         {
+          "location_name": "תל חזקה",
+           "flowers": [
+             "חלמונית",
+              "סתוונית התשבץ"
+           ],
+            "maps_query_location": "Tel Hazeka"
+        },
+         {
+          "location_name": "ראש ההר",
+           "flowers": [
+             "חלמונית",
+              "סתוונית התשבץ"
+           ],
+            "maps_query_location": "Rosh HaHar"
+        },
+        {
+          "location_name":"מסלול כפר גקוזיה",
+          "flowers": [
+             "חלמונית",
+              "סתוונית התשבץ"
+           ],
+            "maps_query_location":"Kfar Gakozia Trail"
+        }
+      ]
+    },
+     {
+      "date": "15/10/2019",
+      "observer": null,
+        "original_text": "ישנן תמונות של עצי ארז מרהיבים ביופיים מקיבוץ מעלה החמישה באינטרנט.  \nצריך לכתוב \"ארזים מעלה החמישה\"",
+      "locations": [
+        {
+          "location_name": "מעלה החמישה",
+            "flowers": [],
+            "maps_query_location": "Ma'ale HaHamisha"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2019",
+      "observer": "הדס כהן",
+      "original_text": "נמצא בנחל בוקר",
+      "locations": [
+        {
+          "location_name": "נחל בוקר",
+          "flowers": [
+            "חלמונית"
+          ],
+            "maps_query_location": "Nahal Boker"
+        }
+      ]
+    },
+       {
+      "date": "12/10/2019",
+      "observer": null,
+      "original_text": "פריחה מרהיבה של הבוציץ\n(לא אופייני לאוקטובר)",
+      "locations": [
+        {
+          "location_name": "בריכת יער",
+          "flowers": [
+            "בוציץ סוככני"
+          ],
+            "maps_query_location":"Breichat Yaar"
+        },
+           {
+          "location_name": "חדרה",
+          "flowers": [
+            "בוציץ סוככני"
+          ],
+             "maps_query_location": "Hadera"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2019",
+       "observer": "חגית",
+      "original_text": "",
+      "locations": [
+        {
+          "location_name": "מירון",
+           "flowers": [
+            "חלמונית"
+          ],
+            "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2019",
+      "observer": "Adi Hadar",
+       "original_text": "התחילה הפריחה בשמורה בירוחם. בגבעה מול השלט חלמונית גדולה.",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+             "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2019",
+      "observer": null,
+      "original_text": "בשמורת הרי אילת",
+      "locations": [
+        {
+          "location_name": "שמורת הרי אילת",
+             "flowers": [
+            "כרכום דמשקאי"
+          ],
+            "maps_query_location": "Eilat Mountains Nature Reserve"
+        }
+      ]
+    }
+  ]
+}
+```

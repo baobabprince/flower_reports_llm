@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/04/2022",
+      "observer": null,
+      "original_text": "בן-סחלב צריפי, חסה כחולת פרחים, פעמונית קיפחת, קצח ריסני, דם מכבים אדום, דל קרניים כרמלי , גזר קיפח, שברקים צהובים וורודים",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["בן-סחלב צריפי", "חסה כחולת פרחים", "פעמונית קיפחת", "קצח ריסני", "דם מכבים אדום", "דל קרניים כרמלי", "גזר קיפח", "שברק"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "30/04/2022",
+       "observer": null,
+      "original_text": "משויה פעמונית, קצח ריסני פעמונית דמשקאית ועוד . ראו טיול בקישור למטטה",
+       "locations": [
+        {
+          "location_name": "מונפורט",
+           "flowers": ["משויה פעמונית", "קצח ריסני", "פעמונית דמשקאית"],
+          "maps_query_location": "Montfort"
+        }
+      ]
+    },
+    {
+      "date": "30/04/2022",
+      "observer": null,
+      "original_text": "על גבעה ליד חאן קירה ביקנעם פורחים מאות אירוסים\nככל הנראה אירוס ארם נהריים\nבדרך כלל בתחילת אפריל השנה בסוף אפריל\n2\nבכרמל\n3\nשמורת אלוני יצחק\n4\nמערת הפעמון \n5\nעין חוד\n6\nתל מבורך\n7\nמזרח כפר סבא\nועוד בדיווחים קודמים",
+      "locations": [
+        {
+          "location_name": "יקנעם",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Yokneam"
+        },
+         {
+          "location_name": "הכרמל",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "שמורת אלוני יצחק",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Alonim Nature Reserve"
+        },
+         {
+          "location_name": "מערת הפעמון",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Bell Cave"
+        },
+         {
+          "location_name": "עין חוד",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Ein Hod"
+        },
+         {
+          "location_name": "תל מבורך",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Tel Mevorakh"
+        },
+         {
+          "location_name": "מזרח כפר סבא",
+           "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Kfar Saba"
+        }
+      ]
+    },
+    {
+      "date": "29/04/2022",
+      "observer": null,
+      "original_text": "נוצרו איים קטנים - קחו בחשבון",
+      "locations": [
+        {
+          "location_name": "אדרת",
+          "flowers": ["פרג"],
+          "maps_query_location": "Aderet"
+        }
+      ]
+    },
+    {
+      "date": "28/04/2022",
+      "observer": null,
+      "original_text": "הפריחה בהר הלל נגמרה",
+     "locations": [
+        {
+          "location_name": "הר הלל",
+           "flowers": ["אדמונית"],
+          "maps_query_location": "Har Hilel"
+        }
+      ]
+    },
+    {
+     "date": "28/04/2022",
+      "observer": null,
+      "original_text": "ליד בר גיורא",
+     "locations": [
+        {
+          "location_name": "בר גיורא",
+           "flowers": ["אירוס ארם נהריים"],
+           "maps_query_location": "Bar Giora"
+        }
+      ]
+    },
+    {
+      "date": "26/04/2022",
+      "observer": null,
+      "original_text": "בתל נילי מ.א עמיקם פורחים המוני איריס ארם נהריים",
+      "locations": [
+        {
+          "location_name": "תל נילי",
+           "flowers": ["אירוס ארם נהריים"],
+           "maps_query_location": "Tel Nili"
+        },
+        {
+           "location_name": "עמיקם",
+          "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Amikam"
+         }
+      ]
+    },
+        {
+      "date": "26/04/2022",
+      "observer": null,
+      "original_text": "נפית כפופה בשיא פריחה, מרבדי דל קרניים כרמלי, לפופית כפנית  חסה כחולת פרחים , בן סחלב צריפי, דרדר גדול, ערבזים, קזר קיפח וגז נוסף, עולש , פשתה גדולה, מוצעת קוצנית, חרצית השדות, מרבדי לפתית מצויה, פרד אגסני ונחות,  ועוד ועוד  . אביב מתמזג עם קיץ...",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["נפית כפופה", "דל קרניים כרמלי", "לפופית כפנית", "חסה כחולת פרחים", "בן סחלב צריפי", "דרדר גדול", "ערבז", "גזר קיפח", "עולש", "פשתה גדולה", "מוציץ קוצני", "חרצית השדות", "לפתית מצויה", "פרד אגסני"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+     {
+      "date": "25/04/2022",
+      "observer": null,
+       "original_text": "פורח ליד מושב אדרת בחבל אדולם",
+      "locations": [
+        {
+           "location_name": "אדרת",
+           "flowers": ["פרג"],
+          "maps_query_location": "Aderet"
+        },
+        {
+           "location_name": "חבל אדולם",
+          "flowers": ["פרג"],
+          "maps_query_location": "Adullam"
+        }
+      ]
+    },
+     {
+      "date": "24/04/2022",
+      "observer": null,
+      "original_text": "פורח באילנות, בכורכרי נס ציונה ועוד. עכשיו השיא",
+      "locations": [
+       {
+           "location_name":"אילנות",
+            "flowers": ["סחלב קדוש"],
+            "maps_query_location":"Ilanot"
+        },
+        {
+          "location_name": "נס ציונה",
+          "flowers": ["סחלב קדוש"],
+          "maps_query_location": "Nes Ziona"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,210 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/04/2011",
+      "observer": "אילן טל",
+      "original_text": "פורחים : קדד הקרקפות , טופח הגליל + שעיר + רב עלעלים , סייפן התבואה , בן חצב יקינטוני , אפון קפח , ציפורנית כרסנית + נפוחה , דם המכבים , אזוביון דגול + שעיר , בן פרג סגול , פעמונית גפורה + זיפנית + ירושלים + כוכבנית , מרווה מנוצה + ירושלים + דגולה , דמומית עבת שיבולת + משוננת + א\"י + קטנת פרחים , תורמוס א\"י + צהוב + ההרים + שעיר + צר עלים , צמרורת בואסייה ועוד ועוד . מוזמנים .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "Astragalus cruciatus",
+            "Phlomis galilaea",
+            "Gladiolus italicus",
+            "Scilla hyacinthoides",
+            "Pisum fulvum",
+            "Petrorhagia cretica",
+            "Petrorhagia velutina",
+            "Sarcopoterium spinosum",
+            "Lavandula stoechas",
+            "Papaver umbonatum",
+            "Campanula hierosolymitana",
+            "Campanula strigosa",
+             "Campanula simulans",
+            "Campanula stellaris",
+            "Salvia pinnata",
+            "Salvia hierosolymitana",
+            "Salvia grandiflora",
+            "Roemeria hybrida",
+            "Roemeria latiloba",
+            "Roemeria judaica",
+            "Roemeria micrantha",
+             "Lupinus palaestinus",
+             "Lupinus luteus",
+             "Lupinus pilosus",
+             "Lupinus angustifolius",
+            "Echinops boissieri"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2011",
+      "observer": null,
+      "original_text": "בכל רחבי הגליל והגולן פורחים מטעי הנשירים בצבעים לבן וגוונים של ורוד במראה מרהיב\nעצי כליל החורש מקשטים מכל עבר בורוד עז",
+       "locations": [
+        {
+           "location_name": "הגליל",
+           "flowers": ["Cercis siliquastrum"],
+           "maps_query_location": "Galilee"
+         },
+         {
+          "location_name": "הגולן",
+            "flowers": ["Cercis siliquastrum"],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2011",
+      "observer": null,
+      "original_text": "ביער ביריה נראו אתמול עשרות פריטים של:\nדבורנית צהובה, סחלב פרפרני, סחלב שלוש השיניים וסחלב איטלקי מרהיבים ביופיים",
+       "locations": [
+        {
+          "location_name": "יער ביריה",
+          "flowers": [
+             "Ophrys lutea",
+             "Anacamptis papilionacea",
+             "Neotinea tridentata",
+            "Orchis italica"
+           ],
+          "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+    {
+       "date": "01/04/2011",
+      "observer": null,
+       "original_text": "קחו טיפים מהקישור המצורף",
+      "locations": [],
+      "flowers": []
+    },
+    {
+      "date": "01/04/2011",
+       "observer": null,
+      "original_text": "בדרך נוף הגלבוע - סעו עד למצפה על שם דובי וערן שמיר.\nשם פורחים איריסים יפים.\nבכל המסלול פריחה יפהפיה של מינים רבים כולל צנון פגיוני (מופיע בקישור) .",
+      "locations": [
+        {
+           "location_name": "הגלבוע",
+            "flowers": ["Iris"],
+            "maps_query_location": "Gilboa"
+         }
+      ],
+       "flowers": ["Iris", "Raphanus raphanistrum"]
+    },
+       {
+      "date": "01/04/2011",
+      "observer": "עמיר פז",
+       "original_text":"שלמון סורי וגומא שרוני פורחים בגן",
+       "locations": [
+         {
+            "location_name": "געש",
+             "flowers": [ "Polygonatum orientale", "Cyperus sharonensis"],
+             "maps_query_location": "Ga'ash"
+         }
+       ]
+    },
+    {
+      "date": "31/03/2011",
+       "observer": null,
+      "original_text": "שולי שדות עמק יזרעאל יובל משני של ערוץ נחל עדשים תיכון מרשימים בפריחתם בין השאר חבלבל עדין (רקורד ליואב גרטמן), ציפורנית כרסנית ופרפרניים רבים. דבקת הפטמות בטרם פריחה - זיהוי לא ודאי/וגטטיבית בלבד וכמובן יפים ומושלמים האירוסים הנצרתיים בראש גבעת המורה",
+        "locations": [
+        {
+           "location_name": "עמק יזרעאל",
+           "flowers": ["Convolvulus galaticus", "Petrorhagia cretica", "Iris nazarena"],
+           "maps_query_location": "Jezreel Valley"
+         },
+         {
+           "location_name": "גבעת המורה",
+            "flowers": ["Iris nazarena"],
+            "maps_query_location": "Givat HaMoreh"
+         }
+       ],
+        "flowers": ["Convolvulus galaticus", "Petrorhagia cretica", "Iris nazarena", "Galium"]
+    },
+       {
+      "date": "31/03/2011",
+      "observer": null,
+      "original_text": "דם המכבים החל את פריחתו בכרמל.\nכמו כן נראו פרחים רבים של דרדר כחול בנוסף לכל אותם הפרחים שכבר הוזכרו",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["Sarcopoterium spinosum", "Centaurea cyanoides"],
+           "maps_query_location": "Carmel"
+         }
+      ],
+       "flowers": ["Sarcopoterium spinosum", "Centaurea cyanoides"]
+    },
+        {
+      "date": "31/03/2011",
+       "observer": "שרה סלפק",
+        "original_text": "למרגלות ההרודיון-בבונג זהוב,אכילאה ערבתית,מגלית גדולת פרחים,לוף אי,פקטורית אשרסון,ועל ההרודיון-מרוה ריחנית וצמירה,שברק,נורית אסיה,שום משולש,שכרון זהוב,בן שלח מנוצה,קדד קדוש,שמשון הדור,זהבית דקת עלים,טורים זיפניים,חלמית גדולה,פרגה אדומה,-30,3,2011 בן שמן,",
+        "locations": [
+        {
+          "location_name": "ההרודיון",
+          "flowers": [
+             "Anthemis cotula",
+             "Achillea santolina",
+            "Echium judaeum",
+             "Arisarum vulgare",
+             "Globularia arabica",
+            "Salvia graveolens",
+            "Salvia lanigera",
+            "Anagyris foetida",
+            "Ranunculus asiaticus",
+             "Allium trifoliatum",
+              "Hyoscyamus aureus",
+            "Bituminaria bituminosa",
+            "Astragalus sanctus",
+            "Ononis natrix",
+            "Chrysanthemum coronarium",
+            "Torilis nodosa",
+             "Malva sylvestris",
+            "Papaver rhoeas"
+           ],
+            "maps_query_location": "Herodium"
+        },
+         {
+            "location_name": "בן שמן",
+            "flowers": [
+              "Anthemis cotula",
+              "Achillea santolina",
+              "Echium judaeum",
+               "Arisarum vulgare",
+               "Globularia arabica",
+              "Salvia graveolens",
+              "Salvia lanigera",
+              "Anagyris foetida",
+              "Ranunculus asiaticus",
+               "Allium trifoliatum",
+                "Hyoscyamus aureus",
+              "Bituminaria bituminosa",
+              "Astragalus sanctus",
+              "Ononis natrix",
+              "Chrysanthemum coronarium",
+              "Torilis nodosa",
+               "Malva sylvestris",
+              "Papaver rhoeas"
+            ],
+             "maps_query_location": "Ben Shemen"
+         }
+      ]
+    },
+      {
+       "date": "31/03/2011",
+       "observer": "משה קופרברג",
+        "original_text": "יש שם למעשה כמעט הכל... אם זה כמות יפה של צבעונים, עכובית הגלגל, אפילו היו כמה קבוצות של אירוסים. המון פרחים, חבל על הזמן - רוצו מהר ותביאו איתכם מגדיר פרחים כי יש שם המון.\nלדעתי אחת השמורות היפות בארץ, קטנה עם המון פרחים.",
+        "locations": [
+        {
+          "location_name": "שמורת חרוצים",
+          "flowers": ["Tulipa", "Gundelia tournefortii", "Iris"],
+           "maps_query_location": "Horashim Reserve"
+        }
+      ],
+        "flowers": ["Tulipa", "Gundelia tournefortii", "Iris"]
+    }
+  ]
+}
+```

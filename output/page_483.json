@@ -1,0 +1,158 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/02/2016",
+      "observer": "ליאורה קרת",
+      "original_text": "סיבוב לא גדול המכתש הקטן הניב: ערטל מדברי, לוניאה צרת-עלים, אהרונסוניית פקטורובסקי, דמיה לבידה, ישימונית דו-גונית, קדד הסיף, רכפת ים-המלח, טוריים מדבריים, שלחלח האלה.",
+      "locations": [
+        {
+          "location_name": "המכתש הקטן",
+           "flowers": [
+            "ערטל מדברי",
+             "לוניאה צרת-עלים",
+            "אהרונסוניית פקטורובסקי",
+            "דמיה לבידה",
+            "ישימונית דו-גונית",
+            "קדד הסיף",
+            "רכפת ים-המלח",
+            "טוריים מדבריים",
+            "שלחלח האלה"
+          ],
+          "maps_query_location": "HaMakhtesh HaKatan"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+      "observer": "עפרה פרידמן",
+      "original_text": "עדעדית משובלת ,אביארבע, שן הארי שעירה ,קדד יפה , אוזנן משולשן ,מלקומיה אפריקאית ,זוגן , ימלוח פגום ועוד..",
+      "locations": [
+        {
+          "location_name": "מלחת נירן",
+          "flowers": [
+            "עדעדית משובלת",
+            "אביארבע",
+            "שן הארי שעירה",
+            "קדד יפה",
+            "אוזנן משולשן",
+            "מלקומיה אפריקאית",
+            "זוגן",
+            "ימלוח פגום"
+           ],
+          "maps_query_location": "Ne'ot Hakikar"
+        }
+      ]
+    },
+    {
+       "date": "13/02/2016",
+      "observer": null,
+      "original_text": "ראו אלבום מצורף",
+       "locations": [
+        {
+          "location_name": "גני הנדיב",
+          "flowers": [],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+      "observer": null,
+      "original_text": "ראו אלבום בקישור מצורף",
+       "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["גבואנית שחומה"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+       "observer": null,
+      "original_text": "שדות של איריסים כפי שתיארה זאת בעלת האלבום בגבעות הכורכר בנס ציונה",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date":"13/02/2016",
+      "observer": null,
+      "original_text": "ובגבעות הכורכר במעיין צבי , פריחה מדהימה בעיקר של רקפות וצבעונים , וגם בחוף הבונים (צבעונים)",
+      "locations": [
+          {
+            "location_name": "מעיין צבי",
+            "flowers": ["רקפת", "צבעוני"],
+            "maps_query_location": "Ma'ayan Zvi"
+          },
+         {
+            "location_name":"חוף הבונים",
+            "flowers":["צבעוני"],
+             "maps_query_location": "Hof HaBonim"
+          }
+      ]
+    },
+     {
+      "date": "13/02/2016",
+      "observer": "רות אלון",
+      "original_text": "יופי של פריחת שקדיות ליד קבר עוזיאל ביער ביריה",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["שקד"],
+          "maps_query_location": "Birya Forest"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+      "observer": "מורי חן",
+      "original_text": "תחילת פריחה של גולנית-ערב בהרי אילת.",
+       "locations": [
+        {
+           "location_name": "הרי אילת",
+            "flowers": ["גולנית ערב"],
+           "maps_query_location":"Eilat Mountains"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+       "observer": "רון חרמוני",
+      "original_text": "על איי עפר בשטחי הגופרית ממש: עירית נבובה, דורית השדה, זעזועית גדולה, פרסיון גדול",
+      "locations": [
+        {
+          "location_name": "בארי",
+          "flowers": [
+            "עירית נבובה",
+            "דורית השדה",
+            "זעזועית גדולה",
+            "פרסיון גדול"
+          ],
+          "maps_query_location": "Be'eri"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2016",
+      "observer": null,
+      "original_text": "בן-חצב החורש ודבורניות שחומות לצד פריחות אחרות",
+     "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "בן-חצב החורש",
+            "דבורנית שחומה"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

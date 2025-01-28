@@ -1,0 +1,190 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2018",
+      "observer": "משה קופרברג",
+      "original_text": "אתמול בדקתי מה קורה בשמורה, אז יש בשורות טובות. יש כבר הרבה רקפות, קצת כלניות, קצת דודאים, אירוס א\"י. אז זהו האביב בבדרך...",
+      "locations": [
+        {
+          "location_name": "שמורת עדולם",
+          "flowers": [
+            "רקפת מצויה",
+            "כלנית מצויה",
+             "דודא רפואי",
+            "אירוס ארץ-ישראלי"
+          ],
+          "maps_query_location": "Adullam Grove Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2018",
+      "observer": "בתיה פריד",
+      "original_text": "מאחורי חניון ביג ביקנעם עילית. נחל סנין היורד לעמק השלום. נגיש ברגל וכלי רכב.",
+      "locations": [
+        {
+          "location_name": "יקנעם עילית",
+          "flowers": [
+            "כלנית מצויה"
+          ],
+           "maps_query_location": "Yokneam Illit"
+        },
+         {
+          "location_name": "נחל סנין",
+          "flowers": [
+            "כלנית מצויה"
+          ],
+           "maps_query_location": "Nahal Sanin"
+        },
+         {
+          "location_name": "עמק השלום",
+          "flowers": [
+           "כלנית מצויה"
+          ],
+           "maps_query_location": "Emek HaShalom"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2018",
+      "observer": null,
+      "original_text": "שיא פריחת רקפות בגבעת הרקפות אזור טל שחר",
+      "locations": [
+        {
+          "location_name": "גבעת הרקפות",
+           "flowers": [
+            "רקפת מצויה"
+          ],
+           "maps_query_location": "Givat HaRakafot"
+        },
+         {
+          "location_name": "טל שחר",
+          "flowers": [
+            "רקפת מצויה"
+          ],
+           "maps_query_location": "Tal Shahar"
+        }
+      ]
+    },
+       {
+      "date": "20/01/2018",
+      "observer": "אורי סיתוני",
+      "original_text": "התחלה",
+       "locations": [
+        {
+           "location_name": null,
+          "flowers": [
+              "אירוס הארגמן"
+          ],
+          "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "19/01/2018",
+      "observer": null,
+      "original_text": "פגוניה רכה, פרעושית גלונית, עפעפית אשונה , אזוביון מדברי,  סילון קוצני , ריסן דק, עוקץ-עקרב מדברי",
+        "locations": [
+        {
+           "location_name": "נחל צומח אילת",
+           "flowers": [
+             "פגוניה רכה",
+              "פרעושית גלונית",
+              "עפעפית אשונה",
+              "אזוביון מדברי",
+              "סילון קוצני",
+             "ריסן דק",
+             "עוקץ-עקרב מדברי"
+            ],
+           "maps_query_location": "Nahal Tsomah Eilat"
+          }
+      ]
+    },
+    {
+      "date": "19/01/2018",
+       "observer": null,
+      "original_text": "פורחים עכשיו. המקום נמצא מצפון לרמת אביב ג'  צמוד לנתיבי איילון. מקובצים בשטח די קטן..",
+       "locations": [
+          {
+            "location_name": "מערות אפקה",
+             "flowers": [
+              "כלנית מצויה",
+              "אירוס ארץ-ישראלי"
+            ],
+             "maps_query_location": "Afeqa Caves"
+          },
+         {
+           "location_name": "רמת אביב ג'",
+             "flowers": [
+             "כלנית מצויה",
+             "אירוס ארץ-ישראלי"
+            ],
+              "maps_query_location": "Ramat Aviv Gimmel"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2018",
+      "observer": "יוסי ישורון",
+      "original_text": "המוני נרקיסים בשדה הנרקיסים שליד פי גלילות ( נ.צ. 671427 / 181840 בעמוד ענן)",
+       "locations": [
+        {
+          "location_name": "גלילות",
+           "flowers": [
+              "נרקיס מצוי"
+            ],
+           "maps_query_location": "Glilot"
+        },
+         {
+          "location_name": "פי גלילות",
+           "flowers": [
+              "נרקיס מצוי"
+            ],
+           "maps_query_location": "Pi Glilot"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2018",
+      "observer": "רועי קן-תור",
+      "original_text": "עונתיים של חורף בגינה. רעיונות לעיצוב הגינה בעזרת עונתיים של ארץ-ישראל, שייתנו מראה טבעי לגינה ויזריעו את עצמם לשנים הבאות. כיצד הם משתלבים עם צמחי התרבות שבגינה?",
+         "locations": [
+        {
+          "location_name": null,
+           "flowers": null,
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "18/01/2018",
+      "observer": "רוזנברג גיל",
+      "original_text": "החלה פריחת הנרקיסים בתל אנפה",
+        "locations": [
+        {
+          "location_name": "תל אנפה",
+           "flowers": [
+              "נרקיס מצוי"
+            ],
+           "maps_query_location": "Tel Anafa"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2018",
+      "observer": "גיל רוזנברג",
+      "original_text": "הנרקיסים החלו לפרוח בתל אנפה. הפריחה מרהיבה ויש כמויות יפות",
+       "locations": [
+        {
+          "location_name": "תל אנפה",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+            "maps_query_location": "Tel Anafa"
+        }
+      ]
+    }
+  ]
+}
+```

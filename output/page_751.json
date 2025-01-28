@@ -1,0 +1,149 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/01/2010",
+      "observer": null,
+      "original_text": "באחרו נוב - מאות פרטים פורחים",
+       "locations": [
+        {
+          "location_name": null,
+          "flowers": ["איריס הביצות"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "29/01/2010",
+      "observer": null,
+      "original_text": "מפלי העיט והזויתן מצומת המפלים שוצפים.\nליד פורחים: צנון פגיוני, חלבלוב מגובשש, רקפות, תורמוס צר עלים, ניסניות ועוד",
+      "locations": [
+        {
+          "location_name": "מפלי העיט",
+          "flowers": ["צנון פגיוני", "חלבלוב מגובשש", "רקפת", "תורמוס צר עלים", "ניסנית"],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "מפל הזויתן",
+            "flowers": ["צנון פגיוני", "חלבלוב מגובשש", "רקפת", "תורמוס צר עלים", "ניסנית"],
+           "maps_query_location": null
+         },
+         {
+          "location_name": "צומת המפלים",
+           "flowers": ["צנון פגיוני", "חלבלוב מגובשש", "רקפת", "תורמוס צר עלים", "ניסנית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "28/01/2010",
+      "observer": "עירית",
+      "original_text": "שוטטתי בהר ובואדי. חגיגה צבעונית של בקיה צרפתית, כרמלית נאה, רקפות, כלניות, עיריות, מיני מרכבים צהובים, צמר, מרווה ריחנית, גביעונית, כדן. השקדיות לבשו חג לקראת ט\"ו בשבט- מלבן כלה ועד ורוד עז. הפתעת היום- שעמון מצולע שמזמן לא פגשתי בפריחה!",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": ["בקיה צרפתית", "כרמלית נאה", "רקפת", "כלנית", "עירית", "מרכבים צהובים", "צמר", "מרווה ריחנית", "גביעונית", "כדן", "שעמון מצולע"],
+          "maps_query_location": "Rosh Pinna"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2010",
+      "observer": null,
+       "original_text": "קורידלית ורקפת יוונית בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "מאגר בנטל",
+           "flowers": ["קורידלית", "רקפת יוונית"],
+          "maps_query_location": "Har Bental"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2010",
+      "observer": "אילן טל",
+      "original_text": "פורחים : אירוס  הגלבוע + הביצות + הארגמן , מעוג אפיל , מוריקה מבריקה , אלקנת הצבעים + סמורה , רקפת יוונית , נוניאה קהה , מרווה ריחנית   + צמירה , בן פרג סגול , שרוכנית החוף ועוד רבים . מוזמנים  . לתאום - 0528254968",
+      "locations": [
+        {
+           "location_name": "כפר יהושע",
+           "flowers": ["אירוס הגלבוע", "אירוס הארגמן", "מעוג אפיל", "מוריקה מבריקה", "אלקנת הצבעים", "סמורה", "רקפת יוונית", "נוניאה קהה", "מרווה ריחנית", "צמירה", "בן פרג סגול", "שרוכנית החוף"],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2010",
+      "observer": "אלון דה-פיצ'וטו",
+      "original_text": "פרט גדול יחסית ובריא בנחל ערוגות עם ניצני פריחה - יתחיל לפרוח עוד כחודש\nזו פעם ראשונה שאני מוצא בן-חורש בערוגות",
+      "locations": [
+        {
+          "location_name": "נחל ערוגות",
+          "flowers": ["בן-חורש"],
+          "maps_query_location": "Nahal Arugot"
+        }
+      ]
+    },
+     {
+      "date": "25/01/2010",
+      "observer": "משה קופרברג",
+      "original_text": "בתל בית שמש, המוני כלניות אדומות וגם איריסים. בגלל קרבת הכביש הראשי נא להזהר (אין חניה מסודרת) ולשמור על הילדים. חבל עדולם באיזור גבעת ישעיהו וצפרירים לנסוע לשמורת עדולם, הכל פורח באדום.",
+      "locations": [
+         {
+          "location_name": "תל בית שמש",
+           "flowers": ["כלנית אדומה", "איריס"],
+           "maps_query_location": "Tel Beit Shemesh"
+        },
+       {
+          "location_name": "חבל עדולם",
+          "flowers": [],
+          "maps_query_location":"Adullam region"
+        },
+        {
+           "location_name": "גבעת ישעיהו",
+            "flowers": [],
+            "maps_query_location": "Givat Yeshayahu"
+         },
+         {
+            "location_name": "צפרירים",
+            "flowers": [],
+            "maps_query_location": "Tzafririm"
+         },
+         {
+            "location_name": "שמורת עדולם",
+             "flowers": [],
+            "maps_query_location": "Adullam Nature Reserve"
+          }
+      ]
+    },
+    {
+      "date": "24/01/2010",
+      "observer": null,
+      "original_text": "בשמורה בנתניה.",
+      "locations": [
+        {
+           "location_name": "שמורה בנתניה",
+          "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Netanya"
+         }
+      ]
+    },
+    {
+      "date": "23/01/2010",
+      "observer": "עמרם בר-יעקב",
+      "original_text":"הרקפות היוניות שחוגגות לרגלי האלונים ביער אודם בצפון רמה\"ג נמצאות עוד לפני השיא ואילו האירוס בשיאו ואולי אף מעבר לו.",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": ["רקפת יוונית", "אירוס לבנון"],
+          "maps_query_location":"Odem Forest"
+        },
+        {
+          "location_name": "ג'ובה הגדולה",
+          "flowers": ["רקפת יוונית", "אירוס לבנון"],
+          "maps_query_location": "Jubba el-Kebira"
+       }
+      ]
+    }
+  ]
+}
+```

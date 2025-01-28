@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/10/2017",
+      "observer": "נאוה וברק בן ישר",
+      "original_text": "חלמוניות ראשונות. רואים התחלה של רבות נוספות . מומלץ לשוב בתחילת נובמבר",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2017",
+      "observer": null,
+      "original_text": "סתווניות לאורך כל מסלול הארבל ",
+       "locations": [
+        {
+          "location_name": "הר ארבל",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Mount Arbel"
+        }
+      ]
+    },
+     {
+      "date": "26/10/2017",
+      "observer": "יוסי גולד",
+      "original_text": "החלמוניות בגבעת הראל בשליש פריחה כולן מתרכזות בנקיקים סביב העמוד לאט לאט יתפשטו לצדדים",
+      "locations": [
+        {
+          "location_name": "גבעת הראל",
+           "flowers": ["חלמונית"],
+            "maps_query_location": "Givat Harel"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2017",
+      "observer": "יעל בוכמן",
+      "original_text": "שפע פריחה של סתוונית בכירה ונרקיס מצוי בקרן ברתות",
+      "locations": [
+         {
+          "location_name": "קרן ברתות",
+           "flowers": ["סתוונית בכירה", "נרקיס מצוי"],
+           "maps_query_location": "Keren Bartot"
+        }
+      ]
+    },
+      {
+      "date": "26/10/2017",
+      "observer": null,
+      "original_text": "בג'יסר א זרקה ובאתרים רבים ",
+      "locations": [
+          {
+          "location_name": "ג'יסר א זרקה",
+          "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2017",
+      "observer": null,
+      "original_text": "כבר פורחות בגלבוע ובכרמל . בקישור צילום של יחיאל אוקנין מהכרמל ",
+       "locations": [
+        {
+          "location_name": "גלבוע",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Gilboa"
+        },
+         {
+          "location_name": "כרמל",
+           "flowers": ["רקפת"],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "24/10/2017",
+      "observer": null,
+       "original_text": "מרבדים של בן-חצב סתווני , נרקיס אפיל, אספרג אחילוף צר עלים, כדן קטן-פרחים  ועוד ",
+      "locations": [
+          {
+           "location_name": "מעגן מיכאל",
+           "flowers": ["בן-חצב סתווני", "נרקיס אפיל", "אחילוף צר עלים", "כדן קטן-פרחים"],
+           "maps_query_location": "Ma'agan Michael"
+          },
+        {
+          "location_name": "מעיין צבי",
+            "flowers": ["בן-חצב סתווני", "נרקיס אפיל", "אחילוף צר עלים", "כדן קטן-פרחים"],
+           "maps_query_location": "Ma'ayan Zvi"
+        }
+       ]
+    },
+     {
+      "date": "23/10/2017",
+      "observer": null,
+      "original_text": "אחילוף צר עלים, כדן קטן פרחים, נרקיס סתוי, בן חצב סיתווני, המוני חצבים, סיתוונית היורה וצלף. ראו אלבום ",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": ["אחילוף צר עלים", "כדן קטן פרחים", "נרקיס סתוי", "בן חצב סיתווני", "חצב", "סתוונית היורה", "צלף"],
+          "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+    {
+      "date": "23/10/2017",
+      "observer": null,
+      "original_text": "דווח על פריחת נרקיס מצוי ביער נחשונים - החורף כבר כאן? בקושי סתיו ",
+      "locations": [
+         {
+           "location_name": "יער נחשונים",
+           "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Nakhshonim Forest"
+        }
+      ]
+    },
+    {
+      "date": "21/10/2017",
+      "observer": "מאיה שתיל",
+      "original_text": "פריחת החלמוניות הזעירות הסתיימה . ניתן לראות במקום פריחה רבה של בן חצב סתווני וכדן קטן פרחים , וכן פרטים בודדים של אחילוף הגליל בראשית פריחתו . ",
+       "locations": [
+        {
+           "location_name": "גן המייסדים גבעת עדה",
+            "flowers": ["בן חצב סתווני", "כדן קטן פרחים", "אחילוף הגליל"],
+            "maps_query_location": "Founders Garden Givat Ada"
+        }
+      ]
+    }
+  ]
+}
+```

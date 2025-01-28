@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/10/2018",
+      "observer": null,
+      "original_text": "בן חצב סתווני, כדן קטן פרחים, פשתת החוף, קוצן מכונף, וחוטמית מסורטטת  פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "בן-חצב סתווני",
+             "כדן קטן-פרחים",
+            "פשתה חופית",
+            "קוצן מכונף",
+            "חוטמית מסורטטת"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "26/10/2018",
+      "observer": "עפרה פרידמן",
+       "original_text": "בוואדי קיס הנשפך לעוג'ה ,תחילת פריחה של חלמונית גדולה .כמו כן פורחות רקפות ( ללא עלים)ובן חצב מדברי .",
+      "locations": [
+        {
+          "location_name": "ואדי קיס",
+          "flowers": [
+            "חלמונית גדולה",
+            "רקפת",
+             "בן-חצב מדברי"
+          ],
+           "maps_query_location": "Wadi Qis"
+        },
+		{
+          "location_name": "עוג'ה",
+           "flowers": [
+            "חלמונית גדולה",
+            "רקפת",
+			"בן-חצב מדברי"
+          ],
+          "maps_query_location": "Auja"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2018",
+      "observer": "עפרה פרידמן",
+       "original_text": "פורחים בישוב עפרה\nכדן קטן פרחים\nסיתוונית ירושלים\nדוגון ירושלמי",
+      "locations": [
+        {
+          "location_name": "עפרה",
+          "flowers": [
+            "כדן קטן-פרחים",
+            "סתוונית ירושלים",
+            "דוגון ירושלמי"
+          ],
+          "maps_query_location": "Ofra"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2018",
+      "observer": null,
+      "original_text": "דוד פורת, הפנה את תשומת ליבי לצמיחה שופעת\n(לפחות 15 פרטים) של מלפפון הנביאים הצומחים בין פוריה עלית לכפר עבודה, בשלבי\nפריחה ופרי שונים. גם אני מצאתי בסמיכות, בדרך היורדת מכפר עבודה אל נחל יבנאל עוד\n8 פרטים שלו. פרטים אלו צומחים בתוך שדה קצור (כנראה של חיטה), משום מה, רק סמוך\nלדרך (בין 2 ל- 8 מטר). לא לפי הכתוב באתרי האינטרנט ובספרים...",
+      "locations": [
+        {
+          "location_name": "פוריה עילית",
+          "flowers": [
+            "מלפפון הנביאים"
+          ],
+          "maps_query_location": "Poriya Illit"
+        },
+        {
+          "location_name": "כפר עבודה",
+          "flowers": [
+              "מלפפון הנביאים"
+          ],
+          "maps_query_location": "Kfar Avoda"
+        },
+         {
+          "location_name": "נחל יבנאל",
+          "flowers": [
+            "מלפפון הנביאים"
+          ],
+           "maps_query_location": "Nahal Yavne'el"
+        }
+      ]
+    },
+    {
+      "date": "22/10/2018",
+      "observer": null,
+       "original_text": "ההר יבש וצהוב, מנוקד פה ושם בפריחה סתווית, בפירות בשלים ובשרידים מהעונה הקודמת",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": [],
+           "maps_query_location": "Hermon"
+        }
+      ]
+    },
+      {
+      "date": "22/10/2018",
+      "observer": null,
+       "original_text":"למרגלות הר בנטל, רמת הגולן",
+      "locations": [
+        {
+          "location_name": "הר בנטל",
+           "flowers": [],
+           "maps_query_location":"Har Bental"
+        },
+         {
+          "location_name": "רמת הגולן",
+           "flowers": [],
+           "maps_query_location":"Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2018",
+      "observer": null,
+       "original_text":"וגם בכרמל : אלבום של יחיאל אוקנין",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["רקפת סתווית"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2018",
+      "observer": null,
+       "original_text":"ראו אלבום של מוטי גולדרט",
+       "locations": [
+        {
+          "location_name": "רכס ירוחם",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Yeroham Ridge"
+        }
+      ]
+    },
+    {
+      "date": "22/10/2018",
+      "observer": null,
+      "original_text": "חבצלת הנגב פורחות בג\"בל חופירה-עין יהב",
+      "locations": [
+        {
+          "location_name": "ג'בל חופירה",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+           "maps_query_location": "Jabal Hufira"
+        },
+		{
+          "location_name": "עין יהב",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+           "maps_query_location": "Ein Yahav"
+        }
+      ]
+    },
+    {
+      "date": "21/10/2018",
+       "observer": "הגר בן-נון",
+      "original_text": "במבוא חמה חלמוניות ראשונות.\nבחזקה אחרי השיא אך יש עדין המון חלמוניות וסיתונית התשבץ.\nהר אדמון תחילת פריחה.",
+      "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Meivo Hama"
+        },
+          {
+          "location_name": "הר אדמון",
+           "flowers": ["חלמונית", "סתוונית התשבץ"],
+           "maps_query_location": "Har Admon"
+        }
+      ]
+    }
+  ]
+}
+```

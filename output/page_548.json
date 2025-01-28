@@ -1,0 +1,221 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/10/2014",
+      "observer": "צביקה אבני",
+      "original_text": "בסיור שנערך היום, 1 באוקטובר 2014, נמצאו פורחים מבשרי הגשם בנגב בטרם ירד היורה:\nא. חלמונית גדולה ברכס בוקר - 5 פרחים ראשונים זהו התאריך המוקדם ביותר לחלמוניות באתר זה. \nב. סתוונית הקליפות בבור חמת ובדרך מהר רמון למצפור האסטרונאוטים. מאות פרחים בפיזור רב ובינהן גם הפורחות בצבע לבן.\nג. כרכום השבכה בהר רמון ובדרך מבורות לוץ לאורך מעלה נחל אלות - פרטים בודדים שחלקם בשיא הפריחה. \nד. כלך דו דורי במאות ואלפים לאורך הכביש מבהד 1 לבורות לוץ וכן לאורך הערוצים באזור. \nה. חצב מצוי - במספר מקומות לאורך הכבישים. ריכוז גדול ליד כביש 40 באזור שמצפון לנחל סכר. בראש אלות בסוף פריחה.\nה. בן חצב מדברי באזור הסכר על נחל בוקר. \nו. חבצלת הנגב פורחת בפיזור בחולות שונרה בצד כביש 211 בדרך מצומת טללים לשבטה.\nמלבד אלה, פרחים אחרונים של ציפורן סיני בבור חמת, פרחי ציפורן נקוד במקומות רבים, פריחת אזובית מדבר ברכס בוקר.",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית גדולה","אזובית מדבר"],
+          "maps_query_location": "Ramat Boker"
+        },
+         {
+          "location_name": "בור חמת",
+          "flowers": ["סתוונית הקליפות","ציפורן סיני", "ציפורן נקוד"],
+          "maps_query_location": "Bor Hamat"
+        },
+        {
+          "location_name": "הר רמון",
+           "flowers": ["סתוונית הקליפות", "כרכום השבכה"],
+          "maps_query_location": "Har Ramon"
+        },
+        {
+           "location_name": "מצפור האסטרונאוטים",
+            "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Mitzpe Ramon"
+        },
+         {
+          "location_name": "בורות לוץ",
+          "flowers": ["כרכום השבכה","כלך דו דורי"],
+          "maps_query_location": "Borot Lotz"
+        },
+        {
+          "location_name": "מעלה נחל אלות",
+           "flowers": ["כרכום השבכה"],
+          "maps_query_location": "Nahal Alot"
+         },
+         {
+          "location_name": "בהד 1",
+          "flowers": ["כלך דו דורי"],
+          "maps_query_location": "Bahad 1"
+        },
+        {
+          "location_name": "כביש 40",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Highway 40"
+        },
+         {
+          "location_name": "נחל סכר",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Nahal Sekher"
+        },
+         {
+          "location_name": "ראש אלות",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Rosh Alot"
+        },
+        {
+          "location_name": "הסכר על נחל בוקר",
+           "flowers": ["בן חצב מדברי"],
+          "maps_query_location": "Nahal Boker"
+        },
+        {
+          "location_name": "חולות שונרה",
+          "flowers":["חבצלת הנגב"],
+           "maps_query_location": "Holot Shunera"
+        },
+        {
+           "location_name": "כביש 211",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Highway 211"
+        },
+        {
+          "location_name": "צומת טללים",
+          "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Telalim Junction"
+        },
+         {
+          "location_name": "שבטה",
+          "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Shivta"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2014",
+      "observer": "שמיל קליין",
+      "original_text": "סתונית התשבץ פורחת במורדות הר קטע מתחת לישוב נמרוד ובנחל חזורי",
+      "locations": [
+        {
+          "location_name": "הר קטע",
+          "flowers": ["סתוונית התשבץ"],
+          "maps_query_location": "Har Kata"
+        },
+         {
+          "location_name": "נמרוד",
+           "flowers": ["סתוונית התשבץ"],
+          "maps_query_location": "Nimrod"
+        },
+         {
+          "location_name": "נחל חזורי",
+          "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Nahal Hazuri"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2014",
+        "observer": null,
+      "original_text": "פורח בגן בגעש",
+       "locations": [
+         {
+          "location_name": "געש",
+          "flowers": ["דוחן תרבותי"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "29/09/2014",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "סיור פרחים לנגב ורמון:  חבצלת הנגב, חסה מזרחית, סיתוונית הקליפות, מרווה מצרית, עדעד מאובק, ציפורן נקוד, חרחבינה מגובבת, ויתניה משכרת, שמשון קהירי, דרדר דמשקאי, ציפורן סיני, עוגנו נימי, כלך דודורי, כתלה חריפה. הסיור נערך ב 19 ספטמבר 2014  השתתפו:  רותי טלמור, תמר עמית, אורון יעקב, ירון וול, עוז גולן, יעקב גרזון, שוקי חלד, ואלי ליבנה - ELV",
+       "locations": [
+         {
+            "location_name": "נגב",
+            "flowers": ["חבצלת הנגב", "חסה מזרחית", "סתוונית הקליפות", "מרווה מצרית", "עדעד מאובק", "ציפורן נקוד", "חרחבינה מגובבת", "ויתניה משכרת", "שמשון קהירי", "דרדר דמשקאי", "ציפורן סיני", "עוגנו נימי", "כלך דודורי", "כתלה חריפה"],
+             "maps_query_location": "Negev"
+        },
+          {
+             "location_name": "רמון",
+            "flowers": ["חבצלת הנגב", "חסה מזרחית", "סתוונית הקליפות", "מרווה מצרית", "עדעד מאובק", "ציפורן נקוד", "חרחבינה מגובבת", "ויתניה משכרת", "שמשון קהירי", "דרדר דמשקאי", "ציפורן סיני", "עוגנו נימי", "כלך דודורי", "כתלה חריפה"],
+             "maps_query_location": "Ramon"
+        }
+       ]
+    },
+    {
+      "date": "27/09/2014",
+      "observer": "אילן טל , 0528254968",
+       "original_text": "פורחים : בן חצב מדברי , חורשף מצוייץ , עדעד הביצות ועוד .",
+      "locations": [
+        {
+           "location_name": "כפר יהושע",
+            "flowers": ["בן חצב מדברי", "חורשף מצוייץ", "עדעד הביצות"],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2014",
+      "observer": null,
+      "original_text": "כרכום דמשקאי  ובן-חצב מדברי  פורחים בבורות לוץ . בצומת ממשית פורחת חבצלת הנגב ",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["כרכום דמשקאי", "בן חצב מדברי"],
+          "maps_query_location": "Borot Lotz"
+        },
+        {
+          "location_name": "צומת ממשית",
+           "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Mamshit Junction"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2014",
+      "observer": null,
+       "original_text": "מעל הבודקה בכניסה לישוב, פורחים עשרות חצבים - להנאתכם ",
+      "locations": [
+        {
+          "location_name": "שוהם",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Shoham"
+        }
+      ]
+    },
+    {
+      "date": "19/09/2014",
+       "observer": null,
+      "original_text":"בכניסה לישוב נחשולים ובתל דור בצד מזרח פורחים מאות ואולי אלפי חצבים, חלקם על רקע הים.",
+      "locations": [
+        {
+          "location_name": "נחשולים",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Nechsholim"
+        },
+         {
+          "location_name": "תל דור",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2014",
+      "observer": "נביל אבושקארה",
+      "original_text": "היום במסלול ההליכה דרומית לכפר מגאר פגשנו כמה חצבים מצויים וטני חושב שהשנה הם הקדימו קצת מהמועד הרגיל ממש יפה",
+      "locations": [
+        {
+          "location_name": "מגאר",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Maghar"
+        }
+      ]
+    },
+    {
+      "date": "13/09/2014",
+      "observer": "לינדה נתן",
+      "original_text": "עשרות סיתווניות וכרכומים חורפיים בהר מירון.",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["סתוונית", "כרכום חורפי"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    }
+  ]
+}
+```

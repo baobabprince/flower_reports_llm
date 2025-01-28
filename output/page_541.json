@@ -1,0 +1,258 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/11/2014",
+      "observer": "נביל אבושקאר",
+      "original_text": "זה עתה התחילה לה עונת המסיק .אתמול בטיול בין מטעי הזיתים ראינו סתוויות וגם כמה נרקיסים יפות  תענוג .......",
+      "locations": [
+        {
+          "location_name": "מטעי הזיתים",
+          "flowers": [
+            "סתוונית",
+            "נרקיס"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "19/11/2014",
+      "observer": "אבנר",
+       "original_text": "פריחת סתו  יפה מרחק מהרכב 5 דקות  הליכה .חנייה סוף רחוב האילן באור עקיבא אבנר 052 3351549 לא בשבת מצורפת קישורית מהשטח",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": [
+            "סתוונית"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "אור עקיבא",
+          "flowers": [
+            "סתוונית"
+           ],
+          "maps_query_location": "Or Akiva"
+        }
+       ]
+    },
+    {
+      "date": "19/11/2014",
+      "observer": "אבנר",
+      "original_text": "פריחת סתו נמצאת בשיא בעיקר סתוונית היורה ונרקיס אפיל רוב הפריחה ליד המרפסת הצפונית אבנר 052 3351549 לא בשבת",
+       "locations": [
+        {
+          "location_name": "שמורת הטבע נחל תנינים",
+          "flowers": [
+            "סתוונית היורה",
+            "נרקיס אפיל"
+          ],
+           "maps_query_location": "Nahal Taninim Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "19/11/2014",
+      "observer": "אלקנה ארליך",
+      "original_text": "כדי להגיע לאתר הפריחה עוברים דרך היישוב והוא סגור בשבתות",
+      "locations": [
+        {
+           "location_name": "גבעת הראל",
+            "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location": "Givat Harel"
+          }
+       ]
+     },
+    {
+      "date": "19/11/2014",
+       "observer": "אלקנה ארליך",
+      "original_text": "עשרות רבות של חלמוניות פורחות על גדת נחל שילה סמוך לגבעת הראל שבבנימין. מצב: שיא. האתר לא היה ידוע עד השבוע, והתגלה בידי תושבי המקום ומדריכי ביס\"ש עפרה (יש לי תמונות)",
+      "locations": [
+         {
+            "location_name": "גדת נחל שילה",
+            "flowers": [
+              "חלמונית"
+            ],
+             "maps_query_location": null
+         },
+         {
+          "location_name": "גבעת הראל",
+           "flowers": [
+              "חלמונית"
+            ],
+           "maps_query_location": "Givat Harel"
+          },
+          {
+            "location_name": "בנימין",
+             "flowers": [
+              "חלמונית"
+            ],
+           "maps_query_location": "Binyamin"
+          }
+      ]
+    },
+    {
+      "date": "16/11/2014",
+      "observer": "אריה ורד",
+       "original_text": "נרקיסים, אירוס הסרגל בשביל השחור מנשר יגור לנחל מעפילים 4150 הרבה כרכומים מעט סתווניות בשביל הירוק מנשר ליגור",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+           "flowers": [
+              "נרקיס",
+              "אירוס הסרגל",
+               "כרכום",
+               "סתוונית"
+             ],
+           "maps_query_location": "Carmel"
+         },
+         {
+           "location_name": "נשר",
+           "flowers": [
+               "נרקיס",
+               "אירוס הסרגל",
+               "כרכום",
+               "סתוונית"
+           ],
+          "maps_query_location": "Nesher"
+         },
+        {
+          "location_name": "יגור",
+           "flowers": [
+               "נרקיס",
+               "אירוס הסרגל",
+               "כרכום",
+               "סתוונית"
+           ],
+          "maps_query_location": "Yagur"
+         },
+          {
+          "location_name": "נחל מעפילים",
+           "flowers": [
+              "נרקיס",
+              "אירוס הסרגל",
+              "כרכום",
+               "סתוונית"
+             ],
+           "maps_query_location": "Nahal Ma'apilim"
+         }
+      ]
+    },
+    {
+      "date": "16/11/2014",
+      "observer": "אילן טל",
+       "original_text":"בגן איריס פורחים : סתוונית טוביה , יותר מ - 100 חלמוניות גדולות ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+           "flowers": [
+             "סתוונית טוביה",
+              "חלמונית"
+            ],
+          "maps_query_location": null
+         },
+         {
+           "location_name": "כפר יהושע",
+            "flowers": [
+              "סתוונית טוביה",
+              "חלמונית"
+            ],
+           "maps_query_location": "Kfar Yehoshua"
+         }
+      ]
+    },
+     {
+      "date": "14/11/2014",
+      "observer": null,
+      "original_text": "בכרמל, ביער צרעה, ביער כוכב יאיר, בפארק קנדה . ראיתם עוד דווחו לנו לכאן  שבת שלום",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Carmel"
+         },
+         {
+          "location_name": "יער צרעה",
+          "flowers": [
+             "נרקיס"
+           ],
+          "maps_query_location": "Tzora Forest"
+         },
+         {
+          "location_name": "יער כוכב יאיר",
+          "flowers": [
+            "נרקיס"
+            ],
+          "maps_query_location": "Kokhav Ya'ir Forest"
+         },
+         {
+          "location_name": "פארק קנדה",
+          "flowers": [
+            "נרקיס"
+            ],
+          "maps_query_location": "Canada Park"
+         }
+       ]
+    },
+    {
+      "date": "14/11/2014",
+       "observer": null,
+      "original_text": "המוני נרקיס סתווי כרכומים, אטד החוף ועוד  ? בין הבונים לדור.. על גבעות הכורכר..עי' ואחרי בריכות הדגים.. אחרי בית הקברות,לכיוון צפון.",
+      "locations": [
+        {
+           "location_name": "חוף דור",
+           "flowers": [
+            "נרקיס סתווי",
+            "כרכום",
+            "אטד החוף"
+           ],
+          "maps_query_location": "Dor Beach"
+         },
+         {
+          "location_name": "הבונים",
+          "flowers": [
+            "נרקיס סתווי",
+            "כרכום",
+             "אטד החוף"
+           ],
+           "maps_query_location": "Habonim"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2014",
+       "observer": "עירית",
+      "original_text": "לאורך הכביש מדלתון לגוש חלב כרכומים חורפיים. בנחל גוש חלב חלמונית גדולה.",
+      "locations": [
+        {
+          "location_name": "דלתון",
+           "flowers": [
+            "כרכום חורפי"
+           ],
+           "maps_query_location": "Dalton"
+         },
+         {
+           "location_name": "גוש חלב",
+           "flowers": [
+             "כרכום חורפי",
+              "חלמונית"
+            ],
+          "maps_query_location": "Gush Halav"
+        },
+        {
+          "location_name": "נחל גוש חלב",
+            "flowers": [
+              "חלמונית"
+            ],
+          "maps_query_location": "Nahal Gush Halav"
+        }
+      ]
+    }
+  ]
+}
+```

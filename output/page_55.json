@@ -1,0 +1,164 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/11/2023",
+      "observer": null,
+      "original_text": "ערר כרתי , עטיינית קצרה , עטיינית קצרה , גומא חום , לפופית משולשת , מלוכיה נאכלת , סידה קוצנית , ססבניה מצרית",
+      "locations": [
+        {
+          "location_name": "עין חרוד",
+          "flowers": [
+            "ערר כרתי",
+            "עטיינית קצרה",
+             "גומא חום",
+            "לפופית משולשת",
+            "מלוכיה נאכלת",
+            "סידה קוצנית",
+            "ססבניה מצרית"
+          ],
+          "maps_query_location": "Ein Harod"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2023",
+      "observer": null,
+      "original_text": "כבר פורחים בה נרקיס סתווי ורבים וגם סתווניות היורה.",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+           "flowers": [
+            "נרקיס סתווי",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2023",
+      "observer": null,
+       "original_text": "ביער עמוקה ליד עין זיתים וביער ביריה",
+      "locations": [
+       {
+          "location_name": "יער עמוקה",
+          "flowers": ["חלמונית גדולה"],
+           "maps_query_location": "Amuka Forest"
+        },
+        {
+          "location_name": "עין זיתים",
+           "flowers": ["חלמונית גדולה"],
+          "maps_query_location": "Ein Zaytim"
+        },
+        {
+           "location_name": "יער ביריה",
+            "flowers": ["חלמונית גדולה"],
+          "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+        {
+      "date": "31/10/2023",
+      "observer": null,
+      "original_text": "הכרמל כבר פורחים נרקיסים, רקפות, סתווניות ועוד.",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+            "נרקיס",
+             "רקפת",
+            "סתוונית"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+      {
+      "date": "24/10/2023",
+      "observer": null,
+      "original_text": "התחיל לפרוח בגן המקלט השרוני",
+      "locations": [
+        {
+          "location_name": "גן המקלט השרוני",
+           "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "18/10/2023",
+      "observer": null,
+      "original_text": "בגבעת המטוס ועוד, ראו קישור",
+      "locations": [
+        {
+          "location_name": "גבעת המטוס",
+           "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Givat HaMatos"
+        }
+      ]
+    },
+    {
+      "date": "18/10/2023",
+      "observer": null,
+      "original_text": "בכרמל ובאתרים רבים אחרים",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+           "flowers": ["סתוונית היורה"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "18/10/2023",
+      "observer": null,
+      "original_text": "פריחה מלאה במנזר מר אליאס בירושלים",
+      "locations": [
+        {
+          "location_name": "מנזר מר אליאס",
+          "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Mar Elias Monastery"
+        },
+           {
+          "location_name": "ירושלים",
+          "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+     {
+      "date": "18/10/2023",
+      "observer": null,
+      "original_text": "בגן המייסדים בגבעת עדה, ראו קישור לצמח למטה",
+      "locations": [
+        {
+           "location_name": "גן המייסדים",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Gan Hameyasdim"
+        },
+        {
+           "location_name": "גבעת עדה",
+          "flowers": ["חלמונית זעירה"],
+          "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2023",
+      "observer": null,
+       "original_text": "ברכס חזקה, צאו לטייל, בקישור הצעה לטיול (שכשיירגעו רוחות המלחמה בצפון",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "חלמונית",
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location": "Har Hazeka"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/02/2024",
+      "observer": "גד נבו",
+      "original_text": "ים של רקפות כלניות ומעל לכל פריחה מרהיבה של נורית אסיה",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+           "flowers": ["רקפת", "כלנית", "נורית אסיה"],
+           "maps_query_location": "Khurvat Melakh"
+        },
+         {
+          "location_name": "אור עקיבא",
+           "flowers": ["רקפת", "כלנית", "נורית אסיה"],
+           "maps_query_location": "Or Akiva"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2024",
+      "observer": "אייל",
+      "original_text": "ביער המלאכים (שחריה) על כביש 35, מרבדי רקפות וכלניות - מומלץ לטפס עם הרכב במעלה היער!",
+       "locations": [
+         {
+          "location_name": "יער המלאכים",
+           "flowers": ["רקפת", "כלנית"],
+           "maps_query_location": "Ya'ar HaMalakhim"
+         },
+         {
+          "location_name": "שחריה",
+           "flowers": ["רקפת", "כלנית"],
+           "maps_query_location": "Shaharit"
+         }
+       ]
+    },
+    {
+      "date": "09/02/2024",
+      "observer": "עידו מגן",
+      "original_text": "על גבעה ליד רולדין בשילת פורחות כמה שקדיות, ומקבצים בודדים של כלניות ורקפות. בחלק של יער בן שמן מצפון לכביש 443 (איזור תל חדיד) מרבדי כלניות ורקפות.",
+       "locations": [
+         {
+          "location_name": "שילת",
+           "flowers": ["שקד", "כלנית", "רקפת"],
+           "maps_query_location": "Shilat"
+         },
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["כלנית", "רקפת"],
+            "maps_query_location":"Ben Shemen Forest"
+         },
+         {
+          "location_name":"תל חדיד",
+          "flowers": ["כלנית", "רקפת"],
+          "maps_query_location": "Tel Hadid"
+        }
+       ]
+    },
+   {
+      "date": "09/02/2024",
+      "observer": "אליאב בנימין קידר",
+      "original_text": "ריכוז גבוה של מרווה צמירה פורחת בתוך בסיס חצרים ובשטחי אש של ביסל\"ח 314 :)",
+      "locations": [
+        {
+           "location_name": "בסיס חצרים",
+           "flowers": ["מרווה צמירה"],
+            "maps_query_location": "Hatzerim Airbase"
+        }
+      ]
+    },
+    {
+      "date": "09/02/2024",
+      "observer": "אליאב בנימין קידר",
+       "original_text": "נצפו כמה צמחי נץ חלב דק עלים באיזור חצרים, כולל צמחים הנראים צעירים מאוד ובשנים הראשונות לחייהם.",
+       "locations": [
+         {
+          "location_name": "חצרים",
+           "flowers": ["נץ חלב דק עלים"],
+           "maps_query_location": "Hatzerim"
+         }
+       ]
+    },
+    {
+      "date": "08/02/2024",
+      "observer": "עדית מרקין",
+      "original_text": "במתחם ההר שבפארק אריאל שרון, ישנה פריחה מרהיבה של תורמוס כחול ועירית גדולה. בנוסף ישנה פריחה של רקפת לבנה (מקבצים בודדים).",
+       "locations": [
+         {
+          "location_name": "פארק אריאל שרון",
+          "flowers": ["תורמוס כחול", "עירית גדולה", "רקפת לבנה"],
+          "maps_query_location": "Ariel Sharon Park"
+         }
+       ]
+    },
+    {
+      "date": "08/02/2024",
+      "observer": "מנחם פינטו",
+       "original_text": "ביום 07/2 בכרמל נצפו: ולריאן איטלקי, קידה שעירה, לוטם, עירית,רקפת , כלניות, אירוס ארצישראלי, כתמה, חלבלוב, רמוליאה, עירוני צהוב, קוציץ סורי,",
+        "locations": [
+        {
+           "location_name": "כרמל",
+           "flowers": ["ולריאן איטלקי", "קידה שעירה", "לוטם", "עירית", "רקפת", "כלנית", "אירוס ארצישראלי", "כתמה", "חלבלוב", "רמוליאה", "עירוני צהוב", "קוציץ סורי"],
+           "maps_query_location": "Carmel"
+         }
+       ]
+    },
+    {
+       "date": "07/02/2024",
+        "observer": null,
+        "original_text":"בחירבת פתורה - ראו קישור",
+        "locations":[
+         {
+           "location_name":"חירבת פתורה",
+           "flowers":null,
+           "maps_query_location":"Khurvat Petura"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2024",
+      "observer": "עידו מגן",
+       "original_text": "ביער שחריה פורחות רקפות בשביל בית הבד. בגבעות שממול, מהצד השני של כביש 35 יש מרבדי כלניות.",
+        "locations": [
+        {
+          "location_name": "יער שחריה",
+          "flowers": ["רקפת"],
+           "maps_query_location":"Shaharit Forest"
+        },
+        {
+           "location_name": "שחריה",
+           "flowers":["כלנית"],
+           "maps_query_location": "Shaharit"
+        }
+       ]
+    },
+    {
+      "date": "06/02/2024",
+      "observer": null,
+      "original_text": "בקישור למטה ישנן הצעות ל-4 יערות בהם שפע של פריחת רקפות . צאו לטייל",
+      "locations": [],
+      "flowers": null
+    }
+  ]
+}
+```

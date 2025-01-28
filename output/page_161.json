@@ -1,0 +1,232 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/12/2021",
+      "observer": "אורי אלמוג גבאי",
+      "original_text": "פריחה לקראת הסוף של אירוס הסרגל במורדות הצפוניים של שכונת ההרחבה המזרחית בקיבוץ רמת השופט. כמה עשרות מקבצים. וגם מספר פרחים בודדים מצפון לקיבוץ דליה. בקרבת נחל שלף. דרום מזרחית לעין דמדומית",
+      "locations": [
+        {
+          "location_name": "רמת השופט",
+           "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Ramat HaShofet"
+        },
+         {
+          "location_name": "דליה",
+           "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Dalia"
+        },
+        {
+          "location_name": "נחל שלף",
+          "flowers": ["אירוס הסרגל"],
+           "maps_query_location": "Nahal Shelef"
+        },
+         {
+          "location_name": "עין דמדומית",
+          "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Ein Damdumit"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2021",
+      "observer": null,
+      "original_text": "פורחת בהר הנגב",
+       "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": ["סיתוונית הרמון"],
+          "maps_query_location": "Har HaNegev"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2021",
+      "observer": null,
+       "original_text": "רקפות, דודא רפואי, אלונים עורבני שחור כיפה ועוד . ראו בקישור",
+       "locations": [
+        {
+          "location_name": "אלוני יצחק",
+          "flowers": ["רקפת", "דודא רפואי","אלון עורבני"],
+           "maps_query_location": "Allonei Yitzhak"
+        }
+       ]
+    },
+     {
+      "date": "14/12/2021",
+      "observer": null,
+      "original_text": "באתר הידוע ליודעי חן ושם גם פורחת חיננית הבתה",
+      "locations": [
+       {
+          "location_name": "כרמל",
+          "flowers": ["דבורית שחומה","חיננית הבתה"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2021",
+      "observer": null,
+      "original_text": "מצפור טייסת-העמק  :\nאיריס הסרגל , נרקיס מצוי , נץ-חלב אזמלני, כרכום חורפי   \nשפך הנעמן:\nאסתר הביצות , בן-טיון בשרני ,  סידה מחודדת , שרשר השיח \nכפר יהשע:\nאפון קיפח,   בקיה תרבותית , \nדלית אל כרמל:\nדודא רפואי,  זוטה לבנה , זלזלת הקנוקנות , עצבונית החורש , קיסוסית קוצנית , שרביטן מצוי\nעין הנצי\"ב\nדטורה זקופת-פרי סולניים",
+        "locations": [
+        {
+          "location_name": "מצפור טייסת-העמק",
+          "flowers": ["אירוס הסרגל", "נרקיס מצוי", "נץ-חלב אזמלני", "כרכום חורפי"],
+           "maps_query_location": "Mitzpor Tayeset HaEmek"
+        },
+         {
+          "location_name": "שפך הנעמן",
+          "flowers": ["אסתר הביצות", "בן-טיון בשרני", "סידה מחודדת", "שרשר השיח"],
+           "maps_query_location": "Naman River Estuary"
+        },
+        {
+           "location_name":"כפר יהושע",
+           "flowers": ["אפון קיפח", "בקיה תרבותית"],
+           "maps_query_location": "Kfar Yehoshua"
+        },
+         {
+          "location_name": "דלית אל כרמל",
+          "flowers": ["דודא רפואי", "זוטה לבנה", "זלזלת הקנוקנות", "עצבונית החורש", "קיסוסית קוצנית", "שרביטן מצוי"],
+          "maps_query_location": "Daliyat al-Karmel"
+        },
+        {
+          "location_name": "עין הנצי\"ב",
+          "flowers": ["דטורה זקופת-פרי"],
+           "maps_query_location": "Ein HaNetziv"
+        }
+      ]
+    },
+    {
+     "date": "13/12/2021",
+      "observer": null,
+      "original_text": "מגדל צדק\nחירבת מלח \nשמורת ביתן אהרון",
+        "locations": [
+       {
+          "location_name": "מגדל צדק",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Migdal Tzedek"
+       },
+       {
+           "location_name": "חירבת מלח",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Khirbet Melah"
+        },
+         {
+          "location_name": "שמורת ביתן אהרון",
+           "flowers": ["נרקיס מצוי"],
+            "maps_query_location": "Beitan Aharon Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "13/12/2021",
+      "observer": null,
+       "original_text": "זה חורף הנרקיסים והכרמומים",
+       "locations":[]
+    },
+     {
+      "date": "13/12/2021",
+      "observer": null,
+      "original_text": "אנדרטה בכניסה ליער קולה\nשמורת אודים \nיער שוהם ליד חירבת תנשמת \nיער בן שמן בצפונו ועוד \nברמת הנדיב\nבנחל חצץ \nביער ראש העין\nיער קנדה ( איילון) \nבחירבת חנות \nיער קולה\nבשמורת ביתן אהרון \nבדרך נוף הכרמל",
+       "locations": [
+        {
+          "location_name": "יער קולה",
+           "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Kula Forest"
+        },
+         {
+          "location_name": "שמורת אודים",
+            "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Udim Nature Reserve"
+        },
+         {
+          "location_name": "יער שוהם",
+           "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Shoham Forest"
+         },
+         {
+          "location_name": "חירבת תנשמת",
+           "flowers": ["נרקיס מצוי","כרכום"],
+           "maps_query_location": "Khirbet Tinshemet"
+         },
+          {
+          "location_name": "יער בן שמן",
+           "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Ben Shemen Forest"
+         },
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["נרקיס מצוי","כרכום"],
+           "maps_query_location": "Ramat Hanadiv"
+        },
+        {
+          "location_name": "נחל חצץ",
+            "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Nahal Hatzatz"
+        },
+        {
+          "location_name":"יער ראש העין",
+            "flowers": ["נרקיס מצוי","כרכום"],
+          "maps_query_location": "Rosh HaAyin Forest"
+         },
+         {
+          "location_name":"יער איילון",
+            "flowers": ["נרקיס מצוי","כרכום"],
+           "maps_query_location": "Ayalon Forest"
+        },
+        {
+          "location_name":"חירבת חנות",
+            "flowers": ["נרקיס מצוי","כרכום"],
+            "maps_query_location": "Khirbet Hanut"
+        },
+         {
+          "location_name": "שמורת ביתן אהרון",
+            "flowers": ["נרקיס מצוי","כרכום"],
+           "maps_query_location": "Beitan Aharon Nature Reserve"
+        },
+        {
+            "location_name":"דרך נוף הכרמל",
+             "flowers": ["נרקיס מצוי","כרכום"],
+           "maps_query_location": "Carmel Scenic Route"
+        }
+      ]
+    },
+     {
+      "date": "13/12/2021",
+      "observer": "דרור בר-ניר",
+       "original_text": "עוד פורחים:  עדעד מאובק, אשבל ארץ-ישראלי,  מוריקה מבריקה,  כתלה חריפה,  רכפתן מדברי, מתנן שעיר, ציפורן נקוד\nבולט בפרותיו:  יפרוק המדבר",
+       "locations":[
+        {
+           "location_name": "נחל חצץ",
+            "flowers": ["נרקיס מצוי","עדעד מאובק", "אשבל ארץ-ישראלי", "מוריקה מבריקה", "כתלה חריפה", "רכפתן מדברי", "מתנן שעיר", "ציפורן נקוד", "יפרוק המדבר"],
+           "maps_query_location":"Nahal Hatzatz"
+        }
+       ]
+    },
+    {
+      "date": "13/12/2021",
+      "observer": null,
+      "original_text": "ראו מסלול טיול לנחל חצץ",
+       "locations":[
+        {
+           "location_name": "נחל חצץ",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location":"Nahal Hatzatz"
+        }
+       ]
+    },
+    {
+      "date": "13/12/2021",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "נרקיסים ורקפות פורחות",
+       "locations": [
+         {
+           "location_name": "כרמיאל",
+            "flowers": ["נרקיס מצוי","רקפת"],
+           "maps_query_location": "Karmiel"
+         }
+       ]
+    }
+  ]
+}
+```

@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/11/2011",
+      "observer": null,
+      "original_text": "חניון הרכב מעל \"חווית הרוכבים\" פניה לקיבוץ בית אורן הליכה בשביל הכורכר צפונה משני צידי הדרך המוליכה לחניון קקל הנמצא 300 מטרצפונה נ.צ. (מפת כרמל 1:5000-מס 4 סימון שבילים) 737887/201540",
+      "locations": [
+         {
+          "location_name": "בית אורן",
+           "flowers": ["סתוונית היורה"],
+            "maps_query_location": "Beit Oren"
+        }
+       ]
+    },
+    {
+      "date": "06/11/2011",
+      "observer": null,
+      "original_text": "מזל-טוב אתר חדש לגן הבוטני בהר הצופים!!! פתחו את הקישור המצורף",
+       "locations": [
+        {
+          "location_name": "הר הצופים",
+          "flowers": [],
+           "maps_query_location":"Mount Scopus"
+        }
+      ]
+    },
+    {
+      "date": "06/11/2011",
+      "observer": "עירית",
+      "original_text": "שמחה לבשר שהחלמוניות בראש פינה התחילו לפרוח. מי שבא לראות, כדאי באותה הזדמנות לראות גם את סתווניות ירושלים בשטח שממערב לשדה התעופה.",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Rosh Pinna"
+         },
+        {
+          "location_name": "שדה התעופה",
+          "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/11/2011",
+      "observer": "עידן גולדוסר",
+      "original_text": "ביקרנו אמש (05/11/11) במערות אפקה , צפונית לרמת אביב . פרחו 3 קבוצות של סתוונית היורה , כולן בתחילת פריחה  , יש עוד המון ניצנים. עוד פרחו : מאות פריטים של בן חצב סתווני , 2 פריטים לפחות של כדן - קטן פרחים . ממליץ לבוא לבקר",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+          "flowers": ["סתוונית היורה", "בן חצב סתווני", "כדן קטן פרחים"],
+           "maps_query_location": "Apeka Caves"
+         },
+         {
+           "location_name": "רמת אביב",
+           "flowers": ["סתוונית היורה", "בן חצב סתווני", "כדן קטן פרחים"],
+           "maps_query_location": "Ramat Aviv"
+         }
+      ]
+    },
+     {
+      "date": "05/11/2011",
+      "observer": null,
+      "original_text": "החלה פריחת נרקיס סתווי ומבשרי הגשם הנוספים בשמורת נחל תנינים ובית חנניה",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location":"Nahal Taninim"
+        },
+        {
+          "location_name": "בית חנניה",
+           "flowers": ["נרקיס סתווי"],
+           "maps_query_location": "Beit Hananya"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2011",
+      "observer": null,
+       "original_text": "פורחות :סיתוונית בכירה וירושלים- פריחה יפה",
+      "locations": [
+        {
+          "location_name": "צפון",
+          "flowers": ["סתוונית בכירה", "סתוונית ירושלים"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "04/11/2011",
+      "observer": "עמיר פז",
+       "original_text":"פורחים בגן : סתוונית התשבץ+היורה,חלמונית גדולה+צהובה,גולנית ערב,גומא הפפירוס",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["סתוונית התשבץ", "סתוונית היורה", "חלמונית גדולה", "חלמונית צהובה", "גולנית ערב", "גומא הפפירוס"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2011",
+      "observer": null,
+       "original_text": "מערת פער:פריחה בשיא של: סיתוונית בכירה, סיתוונית ירושלים, וכרכום בנחל יגור : פורחות קבוצות של נרקיס סתוי",
+      "locations": [
+         {
+          "location_name": "מערת פער",
+           "flowers": ["סתוונית בכירה", "סתוונית ירושלים", "כרכום"],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "נחל יגור",
+           "flowers": ["נרקיס סתוי"],
+           "maps_query_location": "Nahal Yagur"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2011",
+      "observer": null,
+      "original_text":"בהר מירון כרגע שיא חלמוניות וסתוונית בכירה, צפויה עוד עונת פריחה יפה, יש הרבה ניצנים",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["חלמונית", "סתוונית בכירה"],
+            "maps_query_location":"Mount Meron"
+         }
+      ]
+    },
+    {
+      "date": "03/11/2011",
+      "observer": "עירית",
+      "original_text": "סתוונית ירושליים החלה לפרוח ליד אתר יד לשמונה, מערבית לשדה התעופה מחניים.",
+       "locations": [
+        {
+         "location_name": "יד לשמונה",
+         "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Yad LaShmona"
+        },
+        {
+          "location_name": "שדה התעופה מחניים",
+           "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": null
+         }
+      ]
+    }
+  ]
+}
+```

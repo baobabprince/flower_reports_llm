@@ -1,0 +1,233 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/01/2023",
+      "observer": "ענת טל",
+      "original_text": "הייתי בשמורה ומאוד היתאכזבתי. ציפיתי לימצוא נרקיסים ומצאתי רק קוצים וכמה סביונים. זאת עונת הנרקיסים לא? יש למישהוא תשובה אולי? תודה.",
+      "locations": [
+        {
+          "location_name": "שמורת אחו נוב",
+          "flowers": [
+            "נרקיס",
+             "סביון"
+          ],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2023",
+       "observer": null,
+      "original_text": "יקינתון מזרחי ועוד, ראו אלבום בקישור",
+      "locations": [
+        {
+          "location_name": "חירבת עמודים",
+           "flowers": [
+            "יקינתון מזרחי"
+          ],
+          "maps_query_location": "Khirbet Amudim"
+        }
+      ]
+    },
+     {
+      "date": "17/01/2023",
+       "observer": null,
+      "original_text": "כבר פורחת ברמת הנדיב,ובלבלוב מגובשש , חיננית הבתה ועוד",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+            "רומוליאה סגלולית",
+             "חיננית הבתה"
+          ],
+           "maps_query_location":"Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2023",
+       "observer": null,
+      "original_text": "פורחת עכשיו בנחל שזיף שרך מיוחד נדיר מאד המצוי ב4 אתרים בלעדיים בארץ שמורת נחל שיזף- חולות סמר- חולות גן לאומי תמנע- מכתש רמון. ילבלב לאחר גשם של יותר מ6 מ\"מ.",
+       "locations": [
+        {
+          "location_name": "נחל שזיף",
+          "flowers": [
+            "לשון-אפעה רבת-עלים"
+          ],
+           "maps_query_location":"Nahal Shzif"
+        },
+         {
+           "location_name": "שמורת נחל שיזף",
+          "flowers": [
+            "לשון-אפעה רבת-עלים"
+           ],
+          "maps_query_location":"Nahal Shizaf Nature Reserve"
+        },
+        {
+          "location_name": "חולות סמר",
+           "flowers": [
+             "לשון-אפעה רבת-עלים"
+          ],
+           "maps_query_location":"Samar Sands"
+        },
+         {
+          "location_name":"גן לאומי תמנע",
+           "flowers": [
+             "לשון-אפעה רבת-עלים"
+          ],
+            "maps_query_location":"Timna National Park"
+        },
+        {
+          "location_name": "מכתש רמון",
+           "flowers": [
+             "לשון-אפעה רבת-עלים"
+          ],
+          "maps_query_location": "Ramon Crater"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2023",
+       "observer": null,
+      "original_text": "רקפת יוונית ואיריס הלבנון",
+      "locations": [
+        {
+          "location_name": "חזקה",
+           "flowers": [
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": "Hazeka"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": [
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": "Golan Heights"
+         }
+      ]
+    },
+    {
+      "date": "17/01/2023",
+      "observer": null,
+      "original_text": "עיירת גדולה, בן-חצב החורש, דבורנית שחומה, דנדנה רפואית, זמזומית מצויה, ציפורנית  מצרית ועוד",
+       "locations": [
+        {
+          "location_name": "חניון האגם בכרמל (עין אלון)",
+          "flowers": [
+            "בן-חצב החורש",
+            "דבורנית שחומה",
+            "דנדנה רפואית",
+            "זמזומית מצויה",
+            "ציפורנית מצרית"
+          ],
+          "maps_query_location": "Ein Alon"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2023",
+       "observer": null,
+       "original_text": "חוף נחשולים אטד החוף , איריס ארץ-ישראלי, כרכום גיארדו  , לשון-אפעה קטנה , מרווה מצויה, מרסיה יפהפיה, שרביטן מצוי , עשנן מטפס + פלמינגו בבריכת נחשולים , בן-טיון בשרני  חניון הצוק רומוליאה  צידונית עין אלון דבורנית שחומה, חיננית הבתה , רב-רגל פשוט שדה עמודים אחילוף הגליל , כרכום חורפי , סתוונית היורה , קורטם דק  בועינה-נוג'דת דנדנה רפואית , יקינתןן מזרחי , כלנית מצויה , לופית מצויה",
+      "locations": [
+        {
+          "location_name": "חוף נחשולים",
+           "flowers": [
+             "אטד החוף",
+            "איריס ארץ-ישראלי",
+            "כרכום גיארדו",
+            "לשון-אפעה קטנה",
+            "מרווה מצויה",
+             "מרסיה יפהפיה",
+            "שרביטן מצוי",
+            "עשנן מטפס",
+            "בן-טיון בשרני"
+          ],
+          "maps_query_location": "Nakhsholim Beach"
+        },
+          {
+          "location_name": "חניון הצוק",
+           "flowers": [
+            "רומוליאה צידונית"
+           ],
+             "maps_query_location": "HaTsuk parking lot"
+        },
+          {
+          "location_name": "עין אלון",
+          "flowers": [
+            "דבורנית שחומה",
+            "חיננית הבתה",
+            "רב-רגל פשוט"
+          ],
+           "maps_query_location":"Ein Alon"
+        },
+        {
+          "location_name": "שדה עמודים",
+          "flowers": [
+           "אחילוף הגליל",
+            "כרכום חורפי",
+            "סתוונית היורה",
+            "קורטם דק"
+          ],
+           "maps_query_location":"Sde Amudim"
+        },
+          {
+          "location_name": "בועינה-נוג'דת",
+          "flowers": [
+           "דנדנה רפואית",
+            "יקינתון מזרחי",
+             "כלנית מצויה",
+             "לופית מצויה"
+          ],
+           "maps_query_location": "Bueina-Nujeidat"
+        }
+      ]
+    },
+    {
+      "date": "14/01/2023",
+      "observer": "איריס זוהר",
+       "original_text":"התחלה של רקפות במסלול האלה בפארק בריטניה",
+      "locations": [
+        {
+          "location_name": "פארק בריטניה",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Britannia Park"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2023",
+       "observer": "שטריך אריה",
+      "original_text": "פורח בתל לכיש",
+      "locations": [
+        {
+           "location_name": "תל לכיש",
+           "flowers": [
+            "דודא רפואי"
+           ],
+            "maps_query_location": "Tel Lachish"
+        }
+      ]
+    },
+    {
+       "date": "11/01/2023",
+       "observer": "יוסף איקש",
+        "original_text": "עשרות פרטים בשיא הפריחה, בעיקר בחלק המזרחי של המכתש",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+           "flowers": [
+            "יקינתון מזרחי"
+          ],
+          "maps_query_location": "Qarnei Hittin"
+        }
+      ]
+    }
+  ]
+}
+```

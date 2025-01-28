@@ -1,0 +1,240 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/11/2018",
+      "observer": null,
+      "original_text": "נרקיסים, רקפות, חיננית הבתה, פרח קטן עלים",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "נרקיס",
+            "רקפת",
+             "חיננית הבתה",
+            "פרח קטן עלים"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2018",
+      "observer": "גל",
+      "original_text": "דמיה לבידה בפריחה בנחל בוקק עליון על השביל הירוק - ניצנים פרחים וגם פירות",
+      "locations": [
+        {
+          "location_name": "נחל בוקק עליון",
+          "flowers": [
+            "דמיה לבידה"
+          ],
+          "maps_query_location": "Nahal Bokek"
+        }
+      ]
+    },
+     {
+      "date": "25/11/2018",
+       "observer": "אודי כרמיאל.",
+      "original_text": "שביל הבנים דלית אל כרמל.\nמהמוחרקה עד הישוב גושי פריחה שלנרקיסים סתווניות ואירוסים לרוב.",
+      "locations": [
+        {
+          "location_name": "דלית אל כרמל",
+          "flowers": [
+            "נרקיס",
+             "סתוונית",
+            "אירוס"
+          ],
+           "maps_query_location": "Daliyat al-Karmel"
+        },
+         {
+          "location_name": "המוחרקה",
+           "flowers": [
+              "נרקיס",
+             "סתוונית",
+            "אירוס"
+          ],
+          "maps_query_location": "Muhraqa"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2018",
+      "observer": "מיכאל לרנר",
+      "original_text": "בשיא הפריחה. יש נבולות, חלק חטפו מהגשם ויש גם הרבה ניצנים.",
+      "locations": [
+         {
+          "location_name": "מצפה רחבעם",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mitzpe Rehavam"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2018",
+      "observer": null,
+       "original_text": "בראש העין. אנא בזהירות רבה , לא לרמוס",
+      "locations": [
+        {
+          "location_name": "ראש העין",
+          "flowers": [
+              "גביעונית"
+          ],
+          "maps_query_location": "Rosh HaAyin"
+        }
+      ]
+    },
+     {
+      "date": "24/11/2018",
+       "observer": "אורית מוספיה",
+      "original_text": "נרקיסים פורחים והמון סיתווניות בהר הרוח.",
+      "locations": [
+        {
+          "location_name": "הר הרוח",
+          "flowers": [
+            "נרקיס",
+            "סתוונית"
+          ],
+          "maps_query_location": "Har HaRuach"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2018",
+       "observer": "עמית מג",
+      "original_text": "באמצע העליה להר תבור מצוי שביל החלמוניות, ניתן להיכנס בשביל עפר בזהירות עם הרכב, או להחנות ולגשת רגלית. הפריחה בעיצומה, מומלץ. רושמים בוויז - החלמונית הגדולה, הר תבור.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+     {
+      "date": "23/11/2018",
+       "observer": "עידו מגן",
+      "original_text": "פארק קנדה: נרקיסים, סתווניות ומעט כרכומים; נחל יתלה והר הרוח: המון נרקיסים וסתווניות ומעט כרכומים; יער הקדושים מול כסלון: רקפות ונרקיסים",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": [
+            "נרקיס",
+            "סתוונית",
+            "כרכום"
+          ],
+          "maps_query_location": "Canada Park"
+        },
+         {
+          "location_name": "נחל יתלה",
+           "flowers": [
+            "נרקיס",
+            "סתוונית",
+            "כרכום"
+          ],
+          "maps_query_location": "Nahal Yitla"
+        },
+          {
+          "location_name": "הר הרוח",
+          "flowers": [
+            "נרקיס",
+            "סתוונית",
+            "כרכום"
+          ],
+          "maps_query_location": "Har HaRuach"
+        },
+        {
+          "location_name": "יער הקדושים",
+           "flowers": [
+              "רקפת",
+              "נרקיס"
+            ],
+          "maps_query_location": "Ya'ar HaKdoshim"
+        },
+        {
+            "location_name": "כסלון",
+             "flowers": [
+              "רקפת",
+              "נרקיס"
+            ],
+            "maps_query_location": "Kesalon"
+        }
+      ]
+    },
+     {
+      "date": "21/11/2018",
+      "observer": null,
+      "original_text": "תחילת פריחה , צאו לתבור",
+      "locations": [
+        {
+          "location_name": "תבור",
+            "flowers": [
+             "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+     {
+      "date": "19/11/2018",
+       "observer": null,
+      "original_text": "ממשית: זיפנוצה מדוקרן , אחילוף הנגב, יפרוק המדבר, נואית קוצנית    \nנחל-אצבוע: אצבוע אירופי , גולנית ערב  \nמישור-ירוחם: יפרוק זיפני  מלחית עדינה  \nנר-הלילה ורוד:  מלונות ים-המלח,  פלומית בובה : נחל-בוקק , \nמאגר-ירוחם: נואית קוצנית  , חומעה משוננת",
+      "locations": [
+         {
+          "location_name": "ממשית",
+          "flowers": [
+            "זיפנוצה מדוקרן",
+            "אחילוף הנגב",
+            "יפרוק המדבר",
+            "נואית קוצנית"
+          ],
+           "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "נחל אצבוע",
+            "flowers": [
+            "אצבוע אירופי",
+             "גולנית ערב"
+          ],
+          "maps_query_location": "Nahal Etzba"
+        },
+        {
+          "location_name": "מישור ירוחם",
+          "flowers": [
+             "יפרוק זיפני",
+            "מלחית עדינה"
+          ],
+           "maps_query_location": "Yeruham Plain"
+        },
+        {
+          "location_name": "מלונות ים המלח",
+           "flowers": [
+              "נר הלילה ורוד",
+             "פלומית בובה"
+          ],
+          "maps_query_location": "Dead Sea Hotels"
+        },
+          {
+          "location_name": "נחל בוקק",
+           "flowers": [
+              "נר הלילה ורוד",
+             "פלומית בובה"
+          ],
+          "maps_query_location": "Nahal Bokek"
+        },
+        {
+          "location_name": "מאגר ירוחם",
+          "flowers": [
+             "נואית קוצנית",
+              "חומעה משוננת"
+          ],
+           "maps_query_location": "Yeruham Reservoir"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/01/2019",
+      "observer": null,
+      "original_text": "הפריחה במלוא הודה.",
+      "locations": [
+        {
+           "location_name": "נחל חצץ",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2019",
+      "observer": "אורית מוספיה",
+      "original_text": "מרבדי רקפות ביער יופ ווסטרויל בפארק רמת מנשה. פריחת דודא רפואי בחורבת בית ראש.",
+      "locations": [
+        {
+          "location_name": "יער יופ ווסטרויל",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Yoav Vestervold Forest"
+        },
+        {
+          "location_name": "פארק רמת מנשה",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Ramat Menashe Park"
+        },
+          {
+            "location_name": "חורבת בית ראש",
+           "flowers": ["דודא רפואי"],
+           "maps_query_location": "Khorbat Beit Rosh"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2019",
+      "observer": "עידו מגן",
+      "original_text": "בחורבת בורגין בחבל עדולם כלניות, רקפות ואירוס ארצישראלי בתחילת פריחה (פרטים בודדים פה ושם, לא ריכוזים); בתל בית שמש ליד ישעי ריכוזים מרשימים של כלניות גדולות ורעננות",
+      "locations": [
+        {
+          "location_name": "חורבת בורגין",
+          "flowers": ["כלנית", "רקפת", "אירוס ארצישראלי"],
+          "maps_query_location": "Khurbet Burgin"
+        },
+        {
+          "location_name": "חבל עדולם",
+          "flowers": ["כלנית", "רקפת", "אירוס ארצישראלי"],
+           "maps_query_location": "Adullam Region"
+        },
+        {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Tel Beit Shemesh"
+        },
+         {
+           "location_name": "ישעי",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Yesha'ay"
+        }
+      ]
+    },
+     {
+      "date": "04/01/2019",
+      "observer": "נעמה מליס",
+      "original_text": "פה ושם קצת כלניות , שן הפר, אירוסים",
+      "locations": [
+       {
+          "location_name": "מדרונות רוחמה",
+          "flowers": ["כלנית", "שן הפר", "אירוס"],
+          "maps_query_location": "Ruhama Slopes"
+        }
+      ]
+    },
+    {
+      "date": "04/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "זמזומית זוהרי, מחרוזת קשתית ומצילות שנהב מתחילות לפרוח בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": ["זמזומית זוהרי", "מחרוזת קשתית", "מצילות שנהב"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "באזור מצפון לחנה וסע ב 443: שפע כלניות ורקפות ולא מעט אירוסים. בעמק מהדיווח ב 25.12 המון כלניות גם במדרון הדרומי ומעט מאד נבולות. עדיין אין מרבדי רקפות אך זה מתחיל.",
+      "locations": [
+         {
+           "location_name": "חנה וסע",
+           "flowers": ["כלנית", "רקפת", "אירוס"],
+           "maps_query_location": "Hana Vesa"
+        },
+         {
+           "location_name": "יער בן שמן",
+          "flowers": ["כלנית", "רקפת", "אירוס"],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+           "location_name": "עמק",
+           "flowers": ["כלנית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "03/01/2019",
+      "observer": "מאיה שתיל",
+      "original_text": "באתר מערות הקבורה השומרוני , מצפון לתל - ברוך , פריחת כלניות , אירוס א״י ( פרטים בודדים ) , עירית גדולה , מקור חסידה מצוי , חמציץ , פטריות כובע גדולות ( לא למאכל !!! ) . בסמוך נרקיס ניירי / נרקיס מלבין פרטים בודדים , ומצפון שדות של נרקיס מצוי בשיא פריחה בשמורת צומת גלילות .",
+       "locations": [
+       {
+          "location_name": "מערות הקבורה השומרוני",
+          "flowers": ["כלנית", "אירוס ארצישראלי", "עירית גדולה", "מקור חסידה מצוי", "חמציץ", "נרקיס ניירי", "נרקיס מלבין"],
+          "maps_query_location": "Shomroni Caves"
+        },
+        {
+           "location_name": "תל ברוך",
+           "flowers": ["כלנית", "אירוס ארצישראלי", "עירית גדולה", "מקור חסידה מצוי", "חמציץ", "נרקיס ניירי", "נרקיס מלבין"],
+           "maps_query_location": "Tel Baruch"
+        },
+        {
+           "location_name": "שמורת צומת גלילות",
+          "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Glilot Junction Reserve"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2019",
+      "observer": null,
+      "original_text": "פריחה היוצרת מרבד של נרקיסים",
+      "locations": [
+        {
+           "location_name": "שמורת נוב",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Nov Nature Reserve"
+         }
+       ]
+    },
+    {
+     "date": "02/01/2019",
+     "observer": "מיכאל לרנר",
+     "original_text": "נחל ענבה: לאורך הערוץ מעט כלניות, יותר גבוה, יותר. באזור חציית הדרך היורדת מתחנת הרכבת ומתחת לחורשת האקליפטוס הרבה כלניות וכן בהמשך אותה דרך עד למעלה לבית ענבה. בחורבה עם הפתח הקשתי ליד הערוץ (דרומית לבית ענבה) עוזרד פורח ורקפות.      בגבעת הזיתים דר מע לבית ענבה הרבה כלניות.      בח. בית ענבה: דומה לדיווח מ 23.12, עם יותר כלניות, כליל החורש באוכף בסיום פריחה, יותר מערבה בפריחה מתפתחת וכן ביכורי אירוס ארץ ישראלי.",
+      "locations": [
+        {
+           "location_name": "מודיעין",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Modiin"
+        },
+        {
+          "location_name": "חורבת בית ענבה",
+           "flowers": ["כלנית", "עוזרד", "רקפת", "כליל החורש", "אירוס ארצישראלי"],
+           "maps_query_location":"Khurvat Beit Inaba"
+        },
+        {
+           "location_name":"נחל ענבה",
+          "flowers": ["כלנית"],
+          "maps_query_location":"Nahal Anava"
+         },
+          {
+            "location_name": "גבעת הזיתים",
+             "flowers": ["כלנית"],
+             "maps_query_location": "Givat Hazetim"
+          }
+      ]
+    },
+     {
+       "date": "01/01/2019",
+       "observer": null,
+       "original_text": "כלניות רקפות, דודא רפואי, זלזלת הקנוקנות וכתמה עבת שורשים",
+      "locations": [
+         {
+           "location_name": "יער אושה",
+           "flowers": ["כלנית", "רקפת", "דודא רפואי", "זלזלת הקנוקנות", "כתמה עבת שורשים"],
+           "maps_query_location":"Usha Forest"
+          }
+        ]
+    }
+  ]
+}
+```

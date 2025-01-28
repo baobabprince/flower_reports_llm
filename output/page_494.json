@@ -1,0 +1,197 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/12/2015",
+      "observer": "עינת בר זיו",
+      "original_text": "יש כעת מקבץ פריחה של אירוס הסרגל במסלול הכחול (המעגלי) של חורשת הארבעים בכרמל",
+      "locations": [
+        {
+          "location_name": "חורשת הארבעים",
+          "flowers": [
+            "אירוס הסרגל"
+           ],
+          "maps_query_location": "H̱oreshet HaArba'im"
+        },
+         {
+          "location_name": "כרמל",
+          "flowers": [
+            "אירוס הסרגל"
+           ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2015",
+      "observer": "אליהו נבון",
+      "original_text": "בשביל הדסה - עין כרם נצפו: עשרות פרחי: כרכום חורפי, חיננית בבתה, סיתוונית היורה!, סביונים וכמאה נרקיסים.",
+      "locations": [
+        {
+          "location_name": "עין כרם",
+          "flowers": [
+            "כרכום חורפי",
+            "חיננית בבתה",
+             "סיתוונית היורה",
+            "סביון",
+            "נרקיס"
+          ],
+           "maps_query_location": "Ein Kerem"
+        }
+      ]
+    },
+        {
+      "date": "11/12/2015",
+      "observer": "אליהו נבון",
+       "original_text": "נצפו עשרות : כרכום חורף, חיננית הבתה, זלזלת הקנוקנות, כתמה עבת שורשים, רקפות. מספר עצי שקדיה בשלבי פריחה שונים.",
+      "locations": [
+        {
+          "location_name": "שלוחת שיירות",
+          "flowers": [
+            "כרכום חורף",
+            "חיננית בבתה",
+            "זלזלת הקנוקנות",
+            "כתמה עבת שורשים",
+            "רקפת"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+        {
+      "date": "10/12/2015",
+      "observer": null,
+      "original_text": "זלמן באומוול הראה לי אתמול בעמק בית שאן צמח שחשוד כקוטולה קחוונית. הצמח נצפה פעם אחת בשנת 1966 ע\"י פרופסור דנין, ולא נראה מאז. הצמח מזכיר בבונג זהוב אך נבדל ממנו בפרטים הבאים : קודקודי הפרחים פחוסים ולא מעוגלים. לעלי הצמח אין כלל ריח בשונה מהבבונג. הצמח קטן בהרבה מהבבונג (5 ס\"מ), ואינו יוצר כרים צפופים. ובבונג אינו פורח בד\"כ בנובמבר",
+      "locations": [
+        {
+          "location_name": "עמק בית שאן",
+          "flowers": [
+            "קוטולה קחוונית"
+          ],
+           "maps_query_location": "Beit She'an Valley"
+        }
+      ]
+    },
+    {
+      "date": "08/12/2015",
+      "observer": null,
+       "original_text": "בנחל דימונה , גלילות וחוף הכרמל",
+      "locations": [
+         {
+          "location_name": "נחל דימונה",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Dimona"
+        },
+        {
+          "location_name": "גלילות",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location":"Gelilot"
+        },
+         {
+          "location_name":"חוף הכרמל",
+            "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location":"Hof HaCarmel"
+         }
+      ]
+    },
+    {
+      "date": "07/12/2015",
+      "observer": "מדרשת ביחד",
+       "original_text":"פריחת סתוונית טוביה בנחל שועלים מדרום לירוחם",
+      "locations": [
+          {
+          "location_name": "נחל שועלים",
+          "flowers": [
+            "סתוונית טוביה"
+          ],
+           "maps_query_location": "Nahal Shu'alim"
+        },
+        {
+            "location_name": "ירוחם",
+           "flowers": [
+            "סתוונית טוביה"
+          ],
+           "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2015",
+      "observer": null,
+      "original_text": "שרוכנית א\"י,ונץ חלב איזמלני פורחים בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "שרוכנית א\"י",
+            "נץ חלב איזמלני"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+        {
+      "date": "05/12/2015",
+      "observer": "גלעד שטראוס",
+       "original_text":"ביום שישי, כלנית אדומה אחת ושתי וורודות באזור המזרחי של הגן. נכנסים מבי\"ס אורט",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+            "כלנית אדומה",
+             "כלנית ורודה"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2015",
+      "observer": null,
+      "original_text": "גולנית ערב,נץ חלב הררי,בן חילף הביצות,ישרוע מאוגד,מיאגרון אזון,שרוכנית החוף,ובצלציה א\"י פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "גולנית ערב",
+            "נץ חלב הררי",
+            "בן חילף הביצות",
+            "ישרוע מאוגד",
+            "מיאגרון אזון",
+             "שרוכנית החוף",
+            "בצלציה א\"י"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+        {
+      "date": "04/12/2015",
+      "observer": null,
+      "original_text": "החלה פריחת הכלניות אומנם בודדים אבל כייף לראות ולצלם את ההתחלה מצורפת קישורית מהשטח כולל פריחה של חרובים",
+      "locations": [
+        {
+          "location_name": "בני ציון",
+           "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Bnei Zion"
+        },
+        {
+          "location_name": "יקום",
+            "flowers": [
+            "כלנית"
+           ],
+          "maps_query_location": "Yakum"
+        }
+      ]
+    }
+  ]
+}
+```

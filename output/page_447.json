@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/12/2016",
+      "observer": "יוסף סלעי",
+      "original_text": "כרכומים, סיתוניות, מעט רקפות במדרונות הדרומיןת לאורך המסלול",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": [
+            "כרכום",
+            "סתוונית",
+            "רקפת"
+          ],
+          "maps_query_location": "Beit Keshet Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2016",
+      "observer": "אורח",
+      "original_text": "פריחת החלמוניות בגבעות גורל מול להבים בשיאה",
+      "locations": [
+        {
+          "location_name": "גבעות גורל",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Giv'ot Goral"
+        },
+		{
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2016",
+      "observer": "משה קופרברג",
+      "original_text": "חברים שכחתי לפרסם כאן על הופעת הנרקיסים באתר \"אבן עזר\". הייתי שם 25.11.2016",
+      "locations": [
+        {
+          "location_name": "אבן עזר",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Even Ezer"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2016",
+      "observer": "רועי קן-תור",
+       "original_text": "פרויקט עונתיים של חורף בשמורת העין. מגוון רחב של צמחי א\"י העונתיים (דגניים, מרוות, מורכבים ועוד) ושילובם עם צמחי התרבות בגינה",
+      "locations": [
+        {
+          "location_name": "שמורת העין",
+          "flowers": [
+            "דגניים",
+            "מרווה",
+            "מורכבים"
+          ],
+          "maps_query_location": "Ein Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2016",
+      "observer": "אורי שטיין",
+       "original_text": "אתמול 30/11/16\nהתחלת פריחה ברמת דלתון כרכומים צהבהב וגיארדו, סתונית קצרת עלים ונץ חלב איזמלני. בברכת קש ורבנה שרועה ארכובית הארזים ושנן עב שורש\nבהר אדמון פריחה רבתי של חלמוניות\nבנחל בזלת חד שפה מזרחי ורוניקת המים  ונענע משובלת\nבשמורת נוב סתונית ירושלים ונענת הכדורים\nליד מבוא חמה פריחת כרכום  הסבכה",
+      "locations": [
+        {
+          "location_name": "רמת דלתון",
+          "flowers": [
+             "כרכום",
+            "גיארדו",
+             "סתוונית קצרת עלים",
+            "נץ חלב איזמלני",
+			"קש ורבנה שרועה",
+			"ארכובית הארזים",
+			"שנן עב שורש"
+          ],
+           "maps_query_location": "Ramat Dalton"
+        },
+         {
+          "location_name": "הר אדמון",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Har Admon"
+        },
+        {
+          "location_name": "נחל בזלת",
+          "flowers": [
+             "ורוניקת המים",
+            "נענע משובלת"
+          ],
+           "maps_query_location": "Nahal Bazalt"
+        },
+        {
+          "location_name": "שמורת נוב",
+           "flowers": [
+            "סתוונית ירושלים",
+			"נענת הכדורים"
+          ],
+           "maps_query_location": "Nove Nature Reserve"
+        },
+        {
+          "location_name": "מבוא חמה",
+          "flowers": [
+             "כרכום"
+          ],
+          "maps_query_location": "Mevo Hama"
+        } ,
+		{
+          "location_name": "גולן",
+          "flowers": [
+             "כרכום",
+            "גיארדו",
+             "סתוונית קצרת עלים",
+            "נץ חלב איזמלני",
+			"קש ורבנה שרועה",
+			"ארכובית הארזים",
+			"שנן עב שורש",
+			"חלמונית",
+			"ורוניקת המים",
+            "נענע משובלת",
+			"סתוונית ירושלים",
+			"נענת הכדורים",
+			"כרכום"
+
+          ],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2016",
+      "observer": "דוד פורת",
+      "original_text": "בין אם עוללות אפרים או כבר ה\"בציר\" שהקדים הוקסמנו  לראות את ורוניקות המים פורחות בעין קמה  (גליל תחתון שדמות  דבורה)    יהל, נחמה ודוד פורת   21.11.16",
+      "locations": [
+        {
+          "location_name": "עין קמה",
+          "flowers": [
+            "ורוניקת המים"
+          ],
+           "maps_query_location": "Ein Kama"
+        },
+		{
+          "location_name": "שדמות דבורה",
+          "flowers": [
+            "ורוניקת המים"
+          ],
+           "maps_query_location": "Sdei Eliyahu"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2016",
+      "observer": "תיקי עוזר",
+      "original_text": "יש פריחה יפהפייה",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2016",
+      "observer": "רועי קן-תור",
+      "original_text": "ריחות וצבעים ממלאים את הארץ ואת גינותינו. כתבה על המגוון הרב של הנרקיסים",
+      "locations": [
+        {
+          "location_name": "שמורת העין",
+          "flowers": [
+            "נרקיס"
+          ],
+            "maps_query_location": "Ein Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2016",
+      "observer": "רועי קן-תור",
+      "original_text": "הגנים בארץ מתמלאים בתקופה זו בצבעי שלכת נפלאים- מתחילים בגני ירושלים ויורדים אל מישור החוף בהמשך. על כך בכתבה בקישור",
+      "locations": [
+         {
+          "location_name": "גני ירושלים",
+		   "flowers": [],
+            "maps_query_location": "Jerusalem Gardens"
+        },
+		{
+          "location_name": "מישור החוף",
+		   "flowers": [],
+            "maps_query_location": "Coastal Plain"
+        }
+      ]
+    },
+	 {
+      "date": "20/11/2016",
+      "observer": null,
+      "original_text": "בדרך נוף הכרמל, בהר  חורשן ובחורשת ה 40 - בכולם תחילת פריחה",
+      "locations": [
+         {
+          "location_name": "דרך נוף הכרמל",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+            "maps_query_location": "Carmel Scenic Route"
+        },
+		{
+          "location_name": "הר חורשן",
+		  "flowers": [
+            "איריס הסרגל"
+          ],
+           "maps_query_location": "Har Horeshan"
+        },
+		{
+          "location_name": "חורשת ה 40",
+		  "flowers": [
+            "איריס הסרגל"
+          ],
+           "maps_query_location": "Horeshat Ha 40"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,199 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/01/2021",
+      "observer": null,
+      "original_text": "רומוליאה צידונים מספר פרטים ולפחות 20 איריס א\"י",
+      "locations": [
+        {
+          "location_name": "חורשת הארבעים",
+           "flowers": [
+            "Romulea cypria",
+            "Iris palaestina"
+          ],
+          "maps_query_location": "חורשת הארבעים"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2021",
+      "observer": null,
+       "original_text": "בצד הדרום מזרחי של היער משדרום למושב גמזו , משטחים של מאות כלניות לבנות ומעט אדומות, איריס א\"י, כתמה עבת שורשים",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "Anemone coronaria",
+            "Iris palaestina",
+            "Helianthemum crassifolium"
+          ],
+          "maps_query_location": "יער בן שמן"
+        },
+        {
+          "location_name": "גמזו",
+          "flowers": [
+            "Anemone coronaria",
+            "Iris palaestina",
+            "Helianthemum crassifolium"
+          ],
+          "maps_query_location":"Gamzu"
+         }
+      ]
+    },
+        {
+      "date": "13/01/2021",
+      "observer": null,
+      "original_text": "עצי שקד החלו לפרוח , כלניות לופית מצויה ועוד",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": [
+            "Prunus dulcis",
+              "Arisarum vulgare"
+          ],
+          "maps_query_location": "עמק המצלבה"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2021",
+      "observer": null,
+      "original_text": null,
+        "locations": [
+        {
+          "location_name": "הר איתן",
+          "flowers": [],
+          "maps_query_location": "הר איתן"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2021",
+      "observer": "מנחם",
+      "original_text": "דבורנית שחומה (מקבץ בשביל עין כרם) חיננית הבתה, רקפות, זמזומית מצויה, כלנית ועוד",
+      "locations": [
+        {
+          "location_name": "יער ירושלים",
+           "flowers": [
+            "Ophrys umbro",
+             "Bellis sylvestris",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Anemone coronaria"
+          ],
+          "maps_query_location": "יער ירושלים"
+        },
+        {
+          "location_name": "הר הרצל",
+           "flowers": [
+            "Ophrys umbro",
+             "Bellis sylvestris",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Anemone coronaria"
+          ],
+          "maps_query_location": "הר הרצל"
+        },
+          {
+          "location_name": "עין כרם",
+           "flowers": [
+            "Ophrys umbro",
+             "Bellis sylvestris",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Anemone coronaria"
+          ],
+          "maps_query_location": "Ein Kerem"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2021",
+      "observer": "מנחם",
+      "original_text": "כדן סגול (סמוך לנחל), בצלציה א\"י, זמזומית המדבר, ועוד הרבה פרחים",
+      "locations": [
+        {
+          "location_name": "נחל פרת",
+          "flowers": [
+            "Ceratocapnos palaestinus",
+             "Biarum davisii",
+            "Erodium deserti"
+          ],
+          "maps_query_location": "Wadi Qelt"
+        }
+      ]
+    },
+     {
+      "date": "10/01/2021",
+       "observer": null,
+      "original_text": "שדה נרקיסים פורח פי גלילות  פריחה מרהיבה - הגעה  דרך רמת אביב ג",
+      "locations": [
+        {
+          "location_name": "פי גלילות",
+           "flowers": [
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Pi Glilot"
+        },
+          {
+          "location_name": "רמת אביב ג",
+           "flowers": [
+            "Narcissus tazetta"
+           ],
+           "maps_query_location": "Ramat Aviv Gimmel"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2021",
+      "observer": "עפרה פרידמן",
+      "original_text": "איזור עפרה,עמונה",
+      "locations": [
+         {
+          "location_name": "עפרה",
+          "flowers": [
+            "Ophrys umbro"
+          ],
+          "maps_query_location": "Ofra"
+        },
+        {
+           "location_name": "עמונה",
+           "flowers": [
+             "Ophrys umbro"
+           ],
+           "maps_query_location": "Amuna"
+        }
+      ]
+    },
+     {
+      "date": "10/01/2021",
+      "observer": null,
+      "original_text": "בתל ערד",
+       "locations": [
+        {
+          "location_name": "תל ערד",
+          "flowers": [
+            "Colchicum negevense"
+           ],
+          "maps_query_location": "Tel Arad"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2021",
+      "observer": null,
+      "original_text": "ביער לביא",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+           "flowers": [
+            "Cyclamen persicum"
+          ],
+          "maps_query_location": "יער לביא"
+        }
+      ]
+    }
+  ]
+}
+```

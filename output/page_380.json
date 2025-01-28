@@ -1,0 +1,212 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/01/2018",
+      "observer": "דורית",
+      "original_text": "הנרקיסים בשיא הפריחה וגם הקור..אבל שווה ביותר",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "04/01/2018",
+      "observer": "מאיה שתיל",
+      "original_text": "הכלניות הראשונות ״מרימות ראש״ בינתיים רק צבעי ורוד ולבן . הכהות - אדומות , כחולות וסגולות , עדיין ״מתביישות״",
+      "locations": [
+         {
+          "location_name": "מנחת מגידו",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2018",
+      "observer": "רועי קן-תור",
+      "original_text": "המלצות לטיול בין הגנים הבוטניים בישראל בתקופה הקרובה לפי צבעי השלכת הממלאים אותם כעת. מגני ירושלים ועד למישור החוף",
+        "locations": [
+        {
+          "location_name": "גני ירושלים",
+          "flowers": [],
+           "maps_query_location": "Jerusalem Botanical Gardens"
+         },
+         {
+           "location_name": "מישור החוף",
+           "flowers": [],
+           "maps_query_location": "Coastal Plain"
+         }
+       ]
+    },
+    {
+      "date": "03/01/2018",
+      "observer": null,
+      "original_text": "אירוס הלבנון ורקפות יווניות פורחות ביער אודם.",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": ["אירוס הלבנון", "רקפת יוונית"],
+            "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2018",
+      "observer": null,
+      "original_text": "כמות גדולה מאד של נרקיסים בשמורת אירוס הביצות נוב שליד הישוב חיסקין.",
+      "locations": [
+        {
+          "location_name": "שמורת נוב",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Nave Reserve"
+        },
+         {
+           "location_name": "חיסקין",
+            "flowers": ["נרקיס"],
+             "maps_query_location": "Hispin"
+         }
+      ]
+    },
+     {
+      "date": "01/01/2018",
+      "observer": null,
+       "original_text": "פריחה במאגר בני צפת בגולן : טופח חכלילי לבדנית הביצות , ניסנית סורית, סתוונית קצרת-עלים, קרנונית לקויה , שינן עב-שורש, שנית שוות שיניים, תלתן זוחל, בן-חילף הביצות, גומא ננסי      \nחיננית רב-שנתית",
+      "locations": [
+        {
+          "location_name": "מאגר בני צפת",
+          "flowers": [
+            "טופח חכלילי",
+            "לבדנית הביצות",
+            "ניסנית סורית",
+             "סתוונית קצרת-עלים",
+             "קרנונית לקויה",
+             "שינן עב-שורש",
+            "שנית שוות שיניים",
+            "תלתן זוחל",
+            "בן-חילף הביצות",
+            "גומא ננסי",
+            "חיננית רב-שנתית"
+          ],
+          "maps_query_location": "Bnei Tzfat Reservoir"
+        },
+        {
+            "location_name": "גולן",
+           "flowers": [
+            "טופח חכלילי",
+            "לבדנית הביצות",
+            "ניסנית סורית",
+             "סתוונית קצרת-עלים",
+             "קרנונית לקויה",
+             "שינן עב-שורש",
+            "שנית שוות שיניים",
+            "תלתן זוחל",
+            "בן-חילף הביצות",
+            "גומא ננסי",
+              "חיננית רב-שנתית"
+            ],
+           "maps_query_location": "Golan Heights"
+         }
+
+      ]
+    },
+     {
+      "date": "01/01/2018",
+      "observer": null,
+      "original_text": "פריחה במרום גולן: פטל קדוש  רקפת יוונית",
+      "locations": [
+         {
+          "location_name": "מרום גולן",
+          "flowers": ["פטל קדוש", "רקפת יוונית"],
+            "maps_query_location": "Merom Golan"
+        }
+      ]
+    },
+    {
+       "date": "01/01/2018",
+      "observer": null,
+        "original_text": "פריחה בתל חזקה  גולן \nרקפת יוונית , איריס הלבנון",
+        "locations": [
+          {
+           "location_name": "תל חזקה",
+             "flowers": ["רקפת יוונית", "איריס הלבנון"],
+            "maps_query_location": "Tel Hazeka"
+          },
+          {
+            "location_name": "גולן",
+           "flowers": ["רקפת יוונית", "איריס הלבנון"],
+             "maps_query_location": "Golan Heights"
+           }
+         ]
+    },
+      {
+      "date": "01/01/2018",
+      "observer": null,
+        "original_text": "הר-נימרון : חבלבל שעיר  חבלבליים",
+       "locations": [
+        {
+          "location_name": "הר נימרון",
+          "flowers": ["חבלבל שעיר", "חבלבליים"],
+           "maps_query_location": "Har Nimron"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2017",
+      "observer": null,
+      "original_text": "בנתניה - מזל טוב , החורף כבר כאן",
+      "locations": [
+        {
+          "location_name": "נתניה",
+          "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Netanya"
+         }
+       ]
+    },
+        {
+      "date": "30/12/2017",
+      "observer": null,
+      "original_text": "פריחת הנרקיסים בנחל חצץ בשיאה, יש עוד ניצנים רבים הפריחה תתרחש עוד שבוע שבועיים.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2017",
+      "observer": "לריסה חייטמן",
+      "original_text": "פריחת כלניות, אירוס ארצישראלי ועוד בגבעות הכורכר בנס ציונה",
+      "locations": [
+        {
+          "location_name": "גבעות הכורכר",
+          "flowers": ["כלנית", "אירוס ארצישראלי"],
+          "maps_query_location": "Kurkar Hills"
+         },
+        {
+          "location_name": "נס ציונה",
+          "flowers": ["כלנית", "אירוס ארצישראלי"],
+          "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2017",
+       "observer": "אורלי עמירם",
+      "original_text": "פריחת רקפות. במעלה היער ישנם פרטים בודדים של נרקיסים בפריחתם ופרט של איריס ארצישראלי.",
+      "locations": [
+        {
+          "location_name": "יער יהדות תימן",
+          "flowers": ["רקפת", "נרקיס", "איריס ארצישראלי"],
+           "maps_query_location": "Yehudut Teiman Forest"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,131 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/10/2024",
+      "observer": null,
+      "original_text": "בתקווה שהחותים לא ירו לשם ראו מסלול למטה בקישור",
+      "locations": [
+        {
+          "location_name": "עיינות צוקים",
+          "flowers": [],
+          "maps_query_location": "Einot Tsukim"
+        }
+      ]
+    },
+    {
+      "date": "18/10/2024",
+      "observer": "גל מגלי",
+      "original_text": "בכרם הזיתים של מר אליאס בירושלים הפריחה במלואה. התחיל המסיק של הזיתים ולכן מי שמעוניין שימהר כי הן נרמסות",
+       "locations": [
+        {
+          "location_name": "ירושלים",
+          "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2024",
+      "observer": "שי כרמל כהני",
+       "original_text": "בן חצב סתווי, חרשף מצויץ, טיון דביק, זוטה לבנה.",
+      "locations": [
+        {
+          "location_name": "יער המורים",
+          "flowers": ["בן-חצב סתווי", "חרשף מצויץ", "טיון דביק", "זוטה לבנה"],
+          "maps_query_location": "Ya'ar HaMorim"
+        }
+      ]
+    },
+     {
+      "date": "14/10/2024",
+      "observer": null,
+       "original_text": "סתוונית התשבץ, ירושלים, וחבצלת הנגב פורחות אצלי",
+      "locations": [
+        {
+           "location_name": "ירושלים",
+          "flowers": ["סתוונית התשבץ", "חבצלת הנגב"],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+       "date": "12/10/2024",
+       "observer": null,
+        "original_text": "אטד אדומי , אצבוע אירופי , מלוח קיפח,",
+       "locations": [
+        {
+          "location_name": "חניון הרועה",
+           "flowers": ["אטד אדומי", "אצבוע אירופי", "מלוח קיפח"],
+           "maps_query_location": "Hanyon HaRoeh"
+         }
+       ]
+    },
+     {
+      "date": "12/10/2024",
+      "observer": null,
+       "original_text": "אכילאה ריחנית,  אשל היאור , מלוח מילר , מלוח ספוגי ,  מלחית מבאישה,",
+      "locations": [
+        {
+           "location_name": "כלא נפחא",
+           "flowers": ["אכילאה ריחנית", "אשל היאור", "מלוח מילר", "מלוח ספוגי", "מלחית מבאישה"],
+            "maps_query_location": "Nafha Prison"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2024",
+      "observer": null,
+      "original_text": "כספסף חד-פרחי, בן-חצב מדברי, גבסנית ערבית ,  חבצלת הנגב, חמד המדבר, פיגמית מגובששת , מלחית חומה",
+      "locations": [
+        {
+           "location_name": "ממשית",
+           "flowers": ["כספסף חד-פרחי", "בן-חצב מדברי", "גבסנית ערבית", "חבצלת הנגב", "חמד המדבר", "פיגמית מגובששת", "מלחית חומה"],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+     {
+       "date": "12/10/2024",
+       "observer": null,
+        "original_text": "בוקיצה קטנת-עלים ,´ אלניה נאה , חצב גלוני (פרי) , לחן לביד , מלוח מילר , מלוח ספוגי ,  מלחית מבאישה,",
+        "locations": [
+        {
+          "location_name": "באר שבע",
+            "flowers": ["בוקיצה קטנת-עלים", "אלניה נאה", "חצב גלוני", "לחן לביד", "מלוח מילר", "מלוח ספוגי", "מלחית מבאישה"],
+            "maps_query_location": "Beersheba"
+        }
+      ]
+    },
+     {
+      "date": "12/10/2024",
+      "observer": null,
+       "original_text": "ליד בהד 1",
+      "locations": [
+        {
+          "location_name": "בהד 1",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Bahad 1"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2024",
+      "observer": null,
+      "original_text": "אספרג החורש, דושן שעיר, קייצת, חורשף מצוייץ, קייצנית כרתית, זוטה לבנה, טיון דביק, כתלה חריפה, שיזף מצוי , עוקץ-עקרב",
+      "locations": [
+        {
+           "location_name": "יער בן שמן",
+            "flowers": ["אספרג החורש", "דושן שעיר", "קייצת", "חורשף מצויץ", "קייצנית כרתית", "זוטה לבנה", "טיון דביק", "כתלה חריפה", "שיזף מצוי", "עוקץ-עקרב"],
+            "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "שולי יער בן שמן",
+          "flowers": ["אספרג החורש", "דושן שעיר", "קייצת", "חורשף מצויץ", "קייצנית כרתית", "זוטה לבנה", "טיון דביק", "כתלה חריפה", "שיזף מצוי", "עוקץ-עקרב"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    }
+  ]
+}
+```

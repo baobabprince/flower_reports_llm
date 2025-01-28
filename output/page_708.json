@@ -1,0 +1,145 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2011",
+      "observer": null,
+      "original_text": "התחלת פריחה",
+       "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": ["אירוס ארגמן"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2011",
+      "observer": "נמרוד שילה",
+      "original_text": "דיווחי פריחה- אירוס הארגמן יער אילנות\nהאירוס הארגמן החל לפרוח בשביל האירוסים ביער אילנות, כ-20 פרטים הקדימו וניצנים רבים מחכים לשבת השימשית הבאה",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["אירוס ארגמן"],
+           "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2011",
+      "observer": "חדוה קליין",
+      "original_text": "צומת גולני לכיוון טבריה. נכנסים מכיוון אתר ההנצחה וממשיכים בדרך הפנימית מזרחה מצפון התחילה פריחה של כלניות אדומות. בעוד כ-10 ימים השיא",
+       "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": ["כלנית אדומה"],
+           "maps_query_location": "Golani Junction"
+        },
+         {
+          "location_name": "טבריה",
+          "flowers": ["כלנית אדומה"],
+           "maps_query_location": "Tiberias"
+         }
+      ]
+    },
+    {
+      "date": "19/02/2011",
+      "observer": "חדוה קליין",
+      "original_text": "כלניות אדומות וצבעוניות פורחות ביער הסוללים. כמו פורחות עירית גדולה, מצליב צהוב ( לא היו עדיין פירות)\nאלוני התבור עדיין עומדים בשלכת אבל חלקם מלבלב ואפילו פורח",
+       "locations": [
+        {
+          "location_name": "יער הסוללים",
+           "flowers": ["כלנית אדומה", "כלנית צבעונית", "עירית גדולה", "מצליב צהוב"],
+           "maps_query_location": "Solelim Forest"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2011",
+      "observer": "בנצי דקל",
+       "original_text": "באיילון דרומה, מחלף לה גווארדיה פורחים: עד עד כחול, רותם המדבר, סביונים.\nבאיילון דרומה ממחלף שבעת הכוכבים   פורחים: לוטם מרווני, פרג, סביון,קידה שעירה.",
+      "locations": [
+          {
+           "location_name": "מחלף לה גווארדיה",
+            "flowers": ["עדעד כחול", "רותם המדבר", "סביון"],
+             "maps_query_location": "La Guardia Interchange"
+          },
+          {
+           "location_name": "מחלף שבעת הכוכבים",
+             "flowers": ["לוטם מרווני", "פרג", "סביון", "קידה שעירה"],
+             "maps_query_location": "Shivat HaKokhavim Interchange"
+          }
+          ]
+    },
+    {
+      "date": "17/02/2011",
+      "observer": null,
+      "original_text": "ממקורות יודעי דב רבשטח נודע לנו שהפריחה הטובה ביותר נמצאת ב: אור הנר ובארז.\nבשבוע הבא וההמשך צפויות פריחות טובות יותר של כלניות בדרום.\nמה שמופיע כאן - זה מה שאנו יודעים מדיווחים מהשטח.",
+       "locations": [
+        {
+          "location_name": "אור הנר",
+          "flowers": [],
+           "maps_query_location": "Or Haner"
+        },
+        {
+          "location_name": "בארז",
+           "flowers": [],
+           "maps_query_location": "Baraaz"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2011",
+      "observer": null,
+      "original_text": "בגן הבוטני האוניברסיטאי בירושלים",
+       "locations": [
+        {
+          "location_name": "הגן הבוטני האוניברסיטאי בירושלים",
+           "flowers": ["דובדבן"],
+            "maps_query_location": "The Botanical Garden, Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2011",
+      "observer": null,
+      "original_text": "טופח רב עלעלים פורח בגן הבוטני בגעש",
+      "locations": [
+        {
+          "location_name": "הגן הבוטני בגעש",
+          "flowers": ["טופח רב עלעלים"],
+           "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    },
+     {
+      "date": "16/02/2011",
+      "observer": null,
+       "original_text": "פורחות עכשיו \nבמנחת מגידו וביער בית קשת.\nמרבדי רקפות מדהימים פורחים ממזרח לכביש 90 בכניסה ליער כרמילה באזור שבו דוללו העצים",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": ["כלנית צבעונית", "רקפת"],
+           "maps_query_location": "Megiddo Airstrip"
+        },
+         {
+          "location_name": "יער בית קשת",
+            "flowers": ["כלנית צבעונית", "רקפת"],
+            "maps_query_location": "Beit Keshet Forest"
+        },
+        {
+            "location_name": "יער כרמילה",
+            "flowers": ["רקפת"],
+             "maps_query_location": "Carmila Forest"
+          }
+      ]
+    },
+    {
+      "date": "16/02/2011",
+      "observer": null,
+       "original_text": "זה מה שנמסר לנו ממקורות יודעי דבר בדרום . מצפים שבשבוע הבא תהיה פריחה אדומה יותר- פרטים כשיהיו.",
+      "locations": []
+    }
+  ]
+}
+```

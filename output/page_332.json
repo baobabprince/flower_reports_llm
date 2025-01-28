@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/11/2018",
+      "observer": "שמעון אלדור",
+      "original_text": "הירידה הצפונית מערבית חסומה. פריחת סתווניות בעיצומה. עדיין פורחים  כרכומים. נרקיסים לרוב בשלבי פריחה שונים.",
+      "locations": [
+        {
+          "location_name": "מצוק חורשת ה-40",
+          "flowers": ["סתוונית", "כרכום", "נרקיס"],
+          "maps_query_location": "Mitzuk Horeshet HaArba'im"
+        },
+        {
+            "location_name": "כרמל",
+            "flowers": ["סתוונית", "כרכום", "נרקיס"],
+           "maps_query_location": "Carmel"
+        }
+       ]
+    },
+    {
+      "date": "18/11/2018",
+       "observer": null,
+       "original_text": "ראו באלבום שבקישור",
+      "locations": [
+       {
+         "location_name": "כרמל",
+          "flowers": ["כרכום"],
+         "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "18/11/2018",
+       "observer": "בתיה פריד",
+       "original_text": "משטחי סתווניות מרהיבים למשוטטים בגבעות אלונים מול מושב אלוני אבא בשמורה",
+      "locations": [
+        {
+          "location_name": "גבעות אלונים",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Giv'ot Alonim"
+        },
+        {
+            "location_name": "אלוני אבא",
+            "flowers": ["סתוונית"],
+            "maps_query_location": "Alonai Abba"
+         }
+      ]
+    },
+    {
+      "date": "18/11/2018",
+       "observer": "עידו מגן",
+       "original_text": "החלמוניות בהר אדמון עדיין בשיא פריחה ובמצפור מלכיה יש סתווניות, נכון לתאריך 17.11.18",
+      "locations": [
+        {
+          "location_name": "הר אדמון",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Har Admon"
+        },
+        {
+          "location_name": "מצפור מלכיה",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Metzpor Malkiya"
+        }
+      ]
+    },
+    {
+      "date": "17/11/2018",
+       "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": []
+    },
+    {
+      "date": "16/11/2018",
+      "observer": "יוסי",
+      "original_text": "אלפי סיתוניות פרחות בגבעת התנך בירושלים.",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Givat HaTanakh"
+        },
+        {
+           "location_name": "ירושלים",
+           "flowers": ["סתוונית"],
+            "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2018",
+      "observer": null,
+      "original_text": "נרקיסים סתווי ומצוי, סיתווניות, כרכום גיארדו , ציפורן נקוד ועוד",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": ["נרקיס", "סתוונית", "כרכום", "ציפורן"],
+          "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+     {
+      "date": "14/11/2018",
+      "observer": "אסתר איזנרייך",
+      "original_text":"טיול אגודת הידידים של הגן הבוטני בגבעת רם, ירושלים, בהדרכת אורי פרגמן-ספיר.",
+      "locations": [
+          {
+            "location_name": "גבעת רם",
+            "flowers": [],
+            "maps_query_location": "Givat Ram"
+          },
+          {
+             "location_name":"ירושלים",
+            "flowers": [],
+            "maps_query_location": "Jerusalem"
+          }
+      ]
+    },
+    {
+      "date": "14/11/2018",
+      "observer": "מאיה שתיל",
+      "original_text": "בשמורה שבאתר מערות הקבורה שבצפון כפר שמריהו, מרבדי סיתווניות, אחרוני בן חצב יקינתוני וניצני רקפות, עיריות ועוד. זהירות לא לדרוך על הפרחים.",
+     "locations": [
+         {
+            "location_name": "כפר שמריהו",
+            "flowers": ["סתוונית", "בן חצב יקינתוני", "רקפת", "עירית"],
+             "maps_query_location": "Kfar Shmaryahu"
+         }
+      ]
+    },
+    {
+      "date": "13/11/2018",
+      "observer": null,
+      "original_text": "חירבת חנות, דרך נוף הכרמל מהמוחרקה, הכרמל, יער שוהם, חורשים, פרק קנדה, אלון שבות, נחל עמוד וביערות רבים אחרים . מאחו נוב טרם התקבל דיווח על פריחת נרקיסים",
+     "locations": [
+       {
+         "location_name": "חירבת חנות",
+         "flowers": ["נרקיס"],
+         "maps_query_location": "Khirbet Hanut"
+        },
+        {
+            "location_name": "דרך נוף הכרמל",
+            "flowers": ["נרקיס"],
+            "maps_query_location": "Derech Nof HaCarmel"
+         },
+        {
+          "location_name": "מוחרקה",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Muhraqa"
+        },
+         {
+           "location_name": "כרמל",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Carmel"
+        },
+        {
+           "location_name": "יער שוהם",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Ya'ar Shoham"
+        },
+         {
+           "location_name": "חורשים",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Horashim"
+        },
+        {
+           "location_name": "פארק קנדה",
+            "flowers": ["נרקיס"],
+           "maps_query_location": "Park Canada"
+        },
+        {
+            "location_name": "אלון שבות",
+            "flowers": ["נרקיס"],
+            "maps_query_location": "Alon Shvut"
+        },
+        {
+           "location_name": "נחל עמוד",
+            "flowers": ["נרקיס"],
+            "maps_query_location": "Nahal Amud"
+        }
+      ]
+    }
+  ]
+}
+```

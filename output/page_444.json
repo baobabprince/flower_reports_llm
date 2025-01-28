@@ -1,0 +1,217 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/01/2017",
+      "observer": null,
+      "original_text": "פורח בנחל פרת ( ואדי קלט) ",
+      "locations": [
+        {
+          "location_name": "נחל פרת",
+          "flowers": [
+            "אוג קוצני"
+          ],
+          "maps_query_location": "Nahal Prat"
+        },
+          {
+          "location_name": "ואדי קלט",
+          "flowers": [
+             "אוג קוצני"
+          ],
+          "maps_query_location": "Wadi Qelt"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2017",
+      "observer": null,
+      "original_text": "נווה שלום, נחל דימונה, תל חדיד ",
+       "locations": [
+        {
+          "location_name": "נווה שלום",
+           "flowers": ["נקיקים"],
+          "maps_query_location": "Neve Shalom"
+        },
+         {
+          "location_name": "נחל דימונה",
+           "flowers": ["נקיקים"],
+          "maps_query_location": "Nahal Dimona"
+        },
+        {
+          "location_name": "תל חדיד",
+           "flowers": ["נקיקים"],
+          "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2017",
+      "observer": null,
+      "original_text": "רקפות יפות ורודות ביער יהדות תימן וגם עלי רקפות רבים. יער הקדושים בני ברית ליד אנדרטת גוילי האש פורחים נרקיסים יפים.",
+      "locations": [
+        {
+          "location_name": "יער יהדות תימן",
+          "flowers": [
+            "רקפת מצויה"
+          ],
+          "maps_query_location": "Yar Yehadut Teiman"
+        },
+         {
+          "location_name": "יער הקדושים בני ברית",
+          "flowers": [
+             "נרקיס מצוי"
+          ],
+          "maps_query_location": "Ya'ar HaKedoshim Bnei Brit"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2017",
+      "observer": null,
+      "original_text": "נרקיסים מצויים רבים בסטף- המסלול הכחול.",
+      "locations": [
+        {
+          "location_name": "סטף",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Sataf"
+         }
+      ]
+    },
+    {
+      "date": "07/01/2017",
+      "observer": "שחר כפרי",
+      "original_text": "מאות נרקיסים בתל ענפה ליד כפר סאלד",
+     "locations": [
+        {
+          "location_name": "תל ענפה",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Tel Anafa"
+        },
+          {
+          "location_name": "כפר סאלד",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Kfar Szold"
+        }
+      ]
+    },
+        {
+      "date": "07/01/2017",
+      "observer": "הדס יקיר",
+      "original_text": "6.1.17 נרקיסים בשיא פריחה בהמוניהם ביער המגינים. משטחי עלי רקפות, מעט פריחה כרגע אך העתיד נראה ורוד מאוד!!",
+       "locations": [
+        {
+          "location_name": "יער המגינים",
+          "flowers": [
+            "נרקיס מצוי",
+            "רקפת מצויה"
+          ],
+          "maps_query_location": "Ya'ar HaMeginim"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2017",
+      "observer": "עמי מורן",
+      "original_text": "לאורך המצוק במפנה הצפוני פריחת הנרקיסים בשיאה ופריחת הרקפות בתחילתה. פה ושם כרכומים בודדים.",
+     "locations": [
+        {
+          "location_name": "חורשת הארבעים",
+          "flowers": [
+            "נרקיס מצוי",
+            "רקפת מצויה",
+              "כרכום"
+          ],
+            "maps_query_location": "Horeshat HaArba'im"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2017",
+       "observer": "אורי שטיין",
+      "original_text": "באזור נחל הצומח עשרות פרטים של בהק עקרבי, לשנן בובה, לובד המדבר קוטב דו זיזי\nמישור סעיפים עשרות פרטים של סתונית שימפר/נגב\nגבעות שחורת עוקץ עקרב מדברי וגלוני, מורטיה קטנת פרחים, אפיונה מחוספסת, פריים בודדים של בהק עקרבי, קדד הסיף, שושנת יריחו אמיתית, צמרורה אפריקאית ועוד\nבתעלה על יד בית הקברות קדד דליל, לוניאה שרועה, עכנאי זיפני ועוד",
+      "locations": [
+        {
+          "location_name": "נחל הצומח",
+          "flowers": [
+            "בהק עקרבי",
+            "לשנן בובה",
+            "לובד המדבר קוטב דו זיזי"
+          ],
+          "maps_query_location": "Nahal HaTzome'ah"
+        },
+           {
+          "location_name": "מישור סעיפים",
+          "flowers": [
+            "סתוונית הנגב"
+          ],
+          "maps_query_location": "Mishor Se'ifim"
+        },
+         {
+          "location_name": "גבעות שחורת",
+          "flowers": [
+            "עוקץ עקרב מדברי",
+              "מורטיה קטנת פרחים",
+              "אפיונה מחוספסת",
+              "בהק עקרבי",
+                "קדד הסיף",
+              "שושנת יריחו",
+                "צמרורה אפריקאית"
+          ],
+           "maps_query_location":"Giv'ot Shahrot"
+        },
+         {
+           "location_name": "בית הקברות",
+           "flowers":[
+               "קדד דליל",
+                "לוניאה שרועה",
+                 "עכנאי זיפני"
+           ],
+             "maps_query_location":null
+         }
+      ]
+    },
+    {
+        "date": "04/01/2017",
+        "observer": null,
+        "original_text": "תצלומים יפים מתל ערד ",
+         "locations": [
+        {
+          "location_name": "תל ערד",
+          "flowers": [
+            "סתוונית הנגב"
+          ],
+          "maps_query_location": "Tel Arad"
+        }
+      ]
+    },
+      {
+      "date": "04/01/2017",
+      "observer": null,
+      "original_text": "מתחת לעמונה ומעל עין עליה , שם יש הרבה  פריחה.\nבשומרון הם פורחים מאוחר מאשר בכרמל.",
+      "locations": [
+        {
+          "location_name": "עמונה",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+          "maps_query_location": "Amona"
+        },
+         {
+          "location_name": "עין עליה",
+             "flowers": [
+                "איריס הסרגל"
+             ],
+          "maps_query_location": "Ein Aliya"
+        },
+           {
+          "location_name": "שומרון",
+             "flowers": [
+                "איריס הסרגל"
+             ],
+          "maps_query_location": "Shomron"
+        }
+      ]
+    }
+  ]
+}
+```

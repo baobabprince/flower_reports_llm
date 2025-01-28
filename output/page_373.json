@@ -1,0 +1,164 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/02/2018",
+      "observer": "Efrat Borenstein",
+      "original_text": "נצפו אירוס הארגמן בגבעות הכורכר בנס ציונה וגבעות חומרה",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "אירוס ארגמן"
+          ],
+          "maps_query_location": "Ness Ziona"
+        },
+        {
+          "location_name": "גבעות חומרה",
+            "flowers": [
+            "אירוס ארגמן"
+          ],
+          "maps_query_location": "Giv'ot Humra"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2018",
+      "observer": "אורי אלמוג גבאי",
+      "original_text": "החלה פריחה של אירוס הביצות במיקום שמדווח בפעם הראשונה.. במקום מתוכננת להיבנות שכונה חדשה של יוקנעם עילית. בואו ונשמור על הפרח היפה והנדיר הזה לדורות הבאים. נ.צ 32.642622,35.100366   וגם: 32.640198,35.101114",
+       "locations": [
+        {
+          "location_name": "יוקנעם",
+          "flowers": [
+            "אירוס הביצות"
+          ],
+           "maps_query_location": "Yokneam"
+        }
+      ]
+    },
+     {
+      "date": "08/02/2018",
+      "observer": null,
+      "original_text": "ראו קישור למטה",
+      "locations": [
+        {
+          "location_name": "כוכב יאיר",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Kokhav Yair"
+        }
+      ]
+    },
+        {
+      "date": "08/02/2018",
+      "observer": null,
+      "original_text": "ראו בקישור כתבה על גילוי חדש של מנגנון ההשרדות  של החמציצים",
+      "locations": [],
+         "flowers": [
+            "חמציץ"
+          ]
+    },
+    {
+      "date": "07/02/2018",
+      "observer": "אורנה ניסן",
+       "original_text": "פריחה צפופה ויפייפיה של שקדיות מאזור לטרון ועד לירושלים.",
+      "locations": [
+        {
+          "location_name": "לטרון",
+           "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Latrun"
+        },
+         {
+          "location_name": "ירושלים",
+           "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2018",
+      "observer": "עליזה מאיר אפשטיין",
+       "original_text": "שקדיות, רקפות, כלניות ועוד",
+      "locations": [
+        {
+          "location_name": "פארק בריטניה",
+          "flowers": [
+            "שקד",
+            "רקפת",
+            "כלנית"
+          ],
+           "maps_query_location": "Britannia Park"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2018",
+      "observer": null,
+       "original_text":"ברזילון כפוף שיניים, מקור חסידה תמים, וחד שפה מזרחי פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "ברזילון כפוף שיניים",
+             "מקור חסידה תמים",
+             "חד שפה מזרחי"
+          ],
+            "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "06/02/2018",
+      "observer": null,
+       "original_text":"כריב כרתי החל לפרוח בגן",
+       "locations": [
+        {
+         "location_name": "גן הנדירים",
+          "flowers": [
+             "כריב כרתי"
+          ],
+           "maps_query_location": null
+        }
+       ]
+    },
+    {
+      "date": "05/02/2018",
+       "observer": "אורנה ניסן",
+      "original_text": "פריחת שקדיות ( לקראת הסוף, אבל עדיין יש כמה עצים הפורחים במלוא הדרם) בנחל ראש פינה.",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "שקד"
+          ],
+            "maps_query_location": "Nahal Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2018",
+      "observer": null,
+      "original_text": "חורבת עתרי: רקפות, כרמלית נאה, ציפורני חתול, סביון אביבי, כלניות וכמובן שקדיות",
+      "locations": [
+        {
+          "location_name": "חורבת עתרי",
+          "flowers": [
+            "רקפת",
+            "כרמלית נאה",
+            "ציפורני חתול",
+            "סביון אביבי",
+            "כלנית",
+             "שקד"
+          ],
+          "maps_query_location": "Hurvat Itri"
+         }
+      ]
+    }
+  ]
+}
+```

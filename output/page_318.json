@@ -1,0 +1,309 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/01/2019",
+      "observer": null,
+      "original_text": "ישנה פריחה של כלניות וקצת שקדיות.",
+      "locations": [
+        {
+          "location_name": "גבעת התיתורה",
+          "flowers": [
+            "כלנית מצויה",
+            "שקד מצוי"
+           ],
+          "maps_query_location": "Givat HaTitora"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "מיאגרון אזון, שרוכנית החוף, מחרוזת קשתית, מצילות שנהב, זמזומית זוהרי, גולנית ערב אזוביון דגול, ואשבל השדה פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "מיאגרו אזון",
+            "שרוכנית החוף",
+            "מחרוזת קשתית",
+             "מצילות שנהב",
+            "זמזומית זוהרי",
+             "גולנית ערב",
+             "אזוביון דגול",
+            "אשבל השדה"
+           ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "25/01/2019",
+      "observer": "מיכאל לרנר",
+       "original_text": "שקדיות: בדרך מערבה מתחנת הדלק, בצפון האגם וליד הבאר מערבה משם ובגבעת הזיתים, חלק פורחות וחלק בתחילת פריחה וחלק מוכות שרביטן.      רתמים באזור מגדל השמירה ובגבעת הזיתים. ובגבעת הזיתים גם קידות. (השטח בכללו חקלאי ומזבלה ומוכה רעייה)",
+      "locations": [
+        {
+          "location_name": "מזרח רחובות",
+          "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": "Rehovot"
+        },
+          {
+          "location_name": "תחנת הדלק",
+           "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "צפון האגם",
+           "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "הבאר",
+           "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "גבעת הזיתים",
+          "flowers": [
+            "שקד מצוי",
+             "רתם",
+             "קידה שעירה"
+          ],
+          "maps_query_location": "Givat Hazeytim"
+        },
+         {
+          "location_name": "מגדל השמירה",
+          "flowers": [
+             "רתם"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "24/01/2019",
+      "observer": "חנוך אלראי",
+      "original_text": "עיריוני אחד בפריחה מלאה והמון ניצנים\n\nכמו כן ולריאנה רפואית בפריחה\n\nכמובן רקפות, כלניות, אירוס א\"י\n\nעיריות בתחילת פריחה",
+      "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+          "flowers": [
+            "עירית צהובה",
+             "ולריאנה רפואית",
+            "רקפת מצויה",
+            "כלנית מצויה",
+            "אירוס ארץ ישראלי",
+            "עירית"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "24/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "מחסיה והחורבה: כמה שקדיות בתחילת פריחה והרוב עם ניצנים קטנים.      הדרך הכחולה ואחכ האדומה מזרחה: כמה שקדיות פורחות, הרבה קידות בפריחה מתפתחת וכל העיריות נאכלו עיי העיזים.      נ. דולב: כמה שקדיות פורחות בתוך הערוץ באזור המצוק, אחת בפתחה וכמה בעמק, רקפות, קידות רק קרוב לפיתחה, ויותר כמה שיותר נמוך, כלניות ואיריסים רק בפתחה ובעמק.",
+      "locations": [
+         {
+          "location_name": "מחסיה",
+           "flowers": [
+            "שקד מצוי"
+           ],
+          "maps_query_location": "Masia"
+        },
+         {
+          "location_name": "החורבה",
+           "flowers": [
+            "שקד מצוי"
+           ],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "נ. דולב",
+           "flowers": [
+             "שקד מצוי",
+             "קידה שעירה",
+               "רקפת מצויה",
+            "כלנית מצויה",
+            "אירוס"
+            ],
+          "maps_query_location": null
+        },
+         {
+           "location_name": "הדרך הכחולה",
+           "flowers": [
+            "שקד מצוי",
+            "קידה שעירה",
+            "עירית"
+            ],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "הדרך האדומה",
+           "flowers": [
+              "שקד מצוי",
+            "קידה שעירה",
+             "עירית"
+            ],
+           "maps_query_location": null
+        },
+         {
+          "location_name":"המצוק",
+           "flowers": [
+               "שקד מצוי"
+           ],
+          "maps_query_location": null
+         },
+        {
+          "location_name":"הערוץ",
+           "flowers": [
+               "שקד מצוי"
+           ],
+          "maps_query_location": null
+         },
+        {
+          "location_name":"הפתח",
+           "flowers": [
+                "שקד מצוי",
+                "רקפת מצויה",
+                "קידה שעירה",
+            "כלנית מצויה",
+            "אירוס"
+             ],
+          "maps_query_location": null
+        },
+          {
+          "location_name":"העמק",
+           "flowers": [
+               "שקד מצוי",
+               "רקפת מצויה",
+            "כלנית מצויה",
+            "אירוס"
+             ],
+          "maps_query_location": null
+         }
+      ]
+    },
+       {
+      "date": "23/01/2019",
+      "observer": "מיכאל לרנר",
+       "original_text":"בפריחה מלאה ממזרח לכביש 38 ולכביש 3855.",
+      "locations": [
+         {
+          "location_name": "בית שמש",
+          "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Beit Shemesh"
+        },
+         {
+          "location_name": "כביש 38",
+           "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": null
+        },
+        {
+           "location_name":"כביש 3855",
+           "flowers": [
+                "שקד מצוי"
+            ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "23/01/2019",
+      "observer": "יוסף איקש",
+      "original_text": "כמחצית הפרחים נפתחו.",
+      "locations": [
+        {
+          "location_name": "שמורת האיריס בנתניה",
+           "flowers": [
+            "אירוס הארגמן"
+           ],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2019",
+      "observer": "מאיה שתיל",
+       "original_text": "באתר הרבה פרטים של אירוס ארץ ישראלי וכלנית מצויה בשיא פריחה , פרטים בודדים של כתמה עבת שורשים ורקפת מצויה , קבוצות גדולות של ציפורנית ארץ ישראלית ומקור חסידה קטן ופרטים בודדים של מקור חסידה גדול ונזמית לופתת .",
+      "locations": [
+        {
+          "location_name": "שמורת הטבע תל חדיד",
+          "flowers": [
+            "אירוס ארץ ישראלי",
+            "כלנית מצויה",
+            "כתמה עבת שורשים",
+            "רקפת מצויה",
+              "ציפורנית ארץ ישראלית",
+              "מקור חסידה קטן",
+            "מקור חסידה גדול",
+            "נזמית לופתת"
+          ],
+          "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+      {
+      "date": "22/01/2019",
+      "observer": "מיכאל לרנר",
+       "original_text": "המון כלניות ובצפון ג. 178 גם לבנות.      שקדיות: כמה פורחות בגבעה הצפונית (רואים מ 431) ולמרגלות ג. 178 צפון. השאר: מעט בתחילת פריחה והרוב עם ניצנים קטנים עם לבן.",
+      "locations": [
+         {
+           "location_name":"פאתי מודיעין",
+           "flowers": [
+               "כלנית מצויה"
+            ],
+           "maps_query_location": "Modi'in"
+         },
+        {
+          "location_name": "ח. נכס",
+          "flowers": [
+            "כלנית מצויה",
+             "שקד מצוי"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "ג. 178",
+           "flowers": [
+               "כלנית מצויה",
+            "שקד מצוי"
+            ],
+          "maps_query_location": null
+        },
+          {
+          "location_name": "הגבעה הצפונית",
+           "flowers": [
+             "שקד מצוי"
+            ],
+          "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date":"21/01/2019",
+      "observer":null,
+       "original_text": "",
+         "locations": [
+          {
+            "location_name":"רמת הגולן",
+            "flowers": [],
+              "maps_query_location":"Golan Heights"
+          }
+        ]
+      }
+  ]
+}
+```

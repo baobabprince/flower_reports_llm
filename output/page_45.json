@@ -1,0 +1,173 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/01/2024",
+      "observer": "עידו מגן",
+      "original_text": "בחורבת נכס שליד איזור התעשיה של מודיעין, בגבעת ברפיליה ובגבעת התיתורה פורחות עכשיו מאות כלניות וגם לא מעט רקפות. בחורבת נכס פורחות גם כלניות לבנות ויש קצת התחלה של שקדיות",
+      "locations": [
+        {
+          "location_name": "חורבת נכס",
+          "flowers": ["כלנית", "רקפת", "שקד"],
+          "maps_query_location": "Khurvat Nekhes"
+        },
+         {
+          "location_name": "אזור התעשייה מודיעין",
+           "flowers": ["כלנית", "רקפת", "שקד"],
+          "maps_query_location": "Modiin Industrial Area"
+         },
+        {
+          "location_name": "גבעת ברפיליה",
+          "flowers": ["כלנית", "רקפת", "שקד"],
+          "maps_query_location": "Givat Barfilya"
+        },
+        {
+          "location_name": "גבעת התיתורה",
+          "flowers": ["כלנית", "רקפת", "שקד"],
+           "maps_query_location": "Givat HaTitora"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2024",
+      "observer": null,
+      "original_text": "פארק איילון\nבעלייה לתל עקד",
+       "locations": [
+        {
+          "location_name": "פארק איילון",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Ayalon Park"
+        },
+         {
+           "location_name": "תל עקד",
+            "flowers": ["כלנית"],
+            "maps_query_location": "Tel Akko"
+         }
+      ]
+    },
+    {
+      "date": "19/01/2024",
+       "observer": "חנה כהן",
+      "original_text": "תל חדיד מכוסה פריחת כלניות אדומות ואירוס ארץ ישראל . מקסים . אלא שבנוסף לפריחות יש שם ערימה ענקית של פסולת בניין . מה שמדאיג זה שאחרי שפעם אחת הצליח לפושע , הוא ימשיך . למי פונים ?",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": ["כלנית אדומה", "אירוס ארץ ישראלי"],
+          "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2024",
+      "observer": "יורם קדרון",
+      "original_text": "בדרך הרומית  בין נווה אילן לאמאוס- אירוס ארץ ישראלי, כלניות ורקפות בתחילת פריחה",
+       "locations": [
+         {
+          "location_name": "נווה אילן",
+          "flowers": ["אירוס ארץ ישראלי", "כלנית", "רקפת"],
+          "maps_query_location": "Neve Ilan"
+          },
+        {
+          "location_name": "אמאוס",
+          "flowers": ["אירוס ארץ ישראלי", "כלנית", "רקפת"],
+          "maps_query_location": "Emmaus"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2024",
+      "observer": null,
+      "original_text": "בגבעת הכורכר שבין קיבוץ.מעגן מיכאל למעיין צבי  למרגלות השביל   מדרום לצפון מרבדים של פרחה יפה אירוס ארץ ישראל ועל הגבעה מקבצים של הרבה רקפות",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר",
+           "flowers": ["אירוס ארץ ישראלי", "רקפת"],
+           "maps_query_location": null
+        },
+        {
+          "location_name":"מעגן מיכאל",
+           "flowers": ["אירוס ארץ ישראלי", "רקפת"],
+            "maps_query_location": "Ma'agan Mikha'el"
+        },
+         {
+           "location_name": "מעיין צבי",
+           "flowers": ["אירוס ארץ ישראלי", "רקפת"],
+           "maps_query_location": "Ma'ayan Zevi"
+         }
+      ]
+    },
+    {
+       "date":"14/01/2024",
+      "observer": null,
+       "original_text": "עין אלון: דבורנית שחומה , זלזלת הקנוקנות",
+       "locations": [
+         {
+           "location_name":"עין אלון",
+           "flowers":["דבורנית שחומה", "זלזלת הקנוקנות"],
+           "maps_query_location":"Ein Alon"
+         }
+       ]
+    },
+   {
+      "date":"14/01/2024",
+      "observer":null,
+      "original_text": "בגבעת ההגנה בכרמל:\nחיננית הבתה , ורמוליאה צידונית",
+      "locations":[
+        {
+          "location_name":"גבעת ההגנה",
+          "flowers":["חיננית הבתה", "ורמוליאה צידונית"],
+          "maps_query_location":"Givat Hahagana"
+        }
+      ]
+    },
+    {
+       "date":"14/01/2024",
+       "observer":null,
+       "original_text":"איריס ארץ-ישראלי , כותלית יהודה , כף-אווז אדומה , לוטם מרווני , לוטם שעיר",
+       "locations":[
+         {
+           "location_name": "חירבת רקית",
+           "flowers": ["אירוס ארץ ישראלי", "כותלית יהודה", "כף-אווז אדומה", "לוטם מרווני", "לוטם שעיר"],
+           "maps_query_location": "Khurvat Rakit"
+         }
+       ]
+    },
+    {
+      "date":"14/01/2024",
+       "observer":null,
+      "original_text":"איריס ארץ-ישראלי , כותלית יהודה , כף-אווז אדומה , לוטם מרווני , לוטם שעיר",
+      "locations":[
+        {
+          "location_name":"מעגן מיכאל",
+           "flowers": ["אירוס ארץ ישראלי", "כותלית יהודה", "כף-אווז אדומה", "לוטם מרווני", "לוטם שעיר"],
+            "maps_query_location": "Ma'agan Mikha'el"
+        }
+      ]
+    },
+    {
+      "date":"14/01/2024",
+      "observer":null,
+      "original_text":"אטד החוף, לשון-אפעה קטנה, מרווה מצוייה,  מרסיה יפהפיה , שרביטן מצוי",
+      "locations":[
+        {
+          "location_name":"חוף נחשולים",
+          "flowers":["אטד החוף", "לשון-אפעה קטנה", "מרווה מצוייה", "מרסיה יפהפיה", "שרביטן מצוי"],
+          "maps_query_location": "Nakhsholim Beach"
+        }
+      ]
+    },
+    {
+      "date":"13/01/2024",
+       "observer":null,
+      "original_text":"ברכס הכורכר בנס ציונה",
+       "locations":[
+         {
+           "location_name":"נס ציונה",
+           "flowers":["איריס הארגמן"],
+           "maps_query_location":"Ness Ziona"
+         }
+       ]
+    }
+  ]
+}
+```

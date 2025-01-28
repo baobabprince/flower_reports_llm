@@ -1,0 +1,219 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/12/2014",
+      "observer": null,
+      "original_text": "מרבדים לבנים של \"טוריים מצויים\"\nמכטים את הנגב הצפוני בעיקר באזור בית קמה",
+      "locations": [
+        {
+          "location_name": "הנגב הצפוני",
+          "flowers": [
+            "טורית מצויה"
+          ],
+          "maps_query_location": "Northern Negev"
+        },
+        {
+          "location_name": "בית קמה",
+          "flowers": [
+            "טורית מצויה"
+          ],
+            "maps_query_location": "Beit Kama"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2014",
+      "observer": null,
+      "original_text": "רומולאה צדונית החלה לפרוח וכן דרדר כחול. חיננית הבתה , זלזלת הקנוקנות כבר מעבר לשיא. חופניים מצויים, דודא רפואי, כתמה עבת-שורשים, סביון אביבי, כלנית מצויה.",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "רומולאה צדונית",
+            "דרדר כחול",
+            "חיננית הבתה",
+            "זלזלת הקנוקנות",
+             "חופניים מצויים",
+            "דודא רפואי",
+            "כתמה עבת-שורשים",
+             "סביון אביבי",
+            "כלנית מצויה"
+          ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "19/12/2014",
+      "observer": null,
+      "original_text": "פורח בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["אכסף מבריק"],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2014",
+      "observer": null,
+      "original_text": "ממבט תוך כדי נסיעה נראים מרבדים לבנים בעמק גלילות. אכן הפריחה שם בעיצומה.",
+        "locations": [
+        {
+          "location_name": "עמק גלילות",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Galilots Valley"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2014",
+       "observer": null,
+      "original_text": "לוטמית ערבית פורחת בתל שחרית ועוד",
+      "locations": [
+         {
+          "location_name": "תל שחרית",
+          "flowers": [
+             "לוטמית ערבית"
+           ],
+          "maps_query_location":"Tel Shaharit"
+         }
+      ]
+    },
+        {
+      "date": "11/12/2014",
+      "observer": "דוד פורת",
+       "original_text": "תל שחרית  גליל תחתון מזרחי   11.12.14  – אוכלוסייה מרשימה של לוטמית ערבית בשיא פריחה.  חלק מהפרטים עם  כפילות תכונות  שני המינים.    ד\"ש מהחלביב הרותמי (מעקב רב שנתי) – גם השנה נוספו 3 פרטים  (נביטות)  חדשים .  וריאביליות פנולוגית מוכרת  ברמת הפרט:  על אותם פרטים תרמילי אשתקד – פתוחים – לאחר הפצה  וכאלו שעדיין סגורים,  פרחים  קמלים, פרחים בשיאם,  נצני פריחה,  לבלוב,  עלים,  עלים שנשרו בצד הצמח.. אבל יש גם תמותה.",
+        "locations": [
+        {
+            "location_name": "תל שחרית",
+            "flowers": [
+                "לוטמית ערבית"
+            ],
+             "maps_query_location": "Tel Shaharit"
+        },
+         {
+            "location_name": "גליל תחתון מזרחי",
+            "flowers": [
+                "לוטמית ערבית"
+            ],
+            "maps_query_location":"Lower Galilee"
+        }
+       ]
+    },
+   {
+      "date": "15/12/2014",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+            "מרווה רחבת גביע"
+           ],
+           "maps_query_location":"Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2014",
+      "observer": "לינדה",
+      "original_text": "אירוס ארץ ישראלי (שישה) בגבעת הכורכר שליד בית ספר שדה חוף הכרמל בקיבוץ מעגן מיכאל",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר ליד בית ספר שדה חוף הכרמל",
+          "flowers": [
+            "אירוס ארץ ישראלי"
+          ],
+             "maps_query_location": "Hof HaCarmel Field School"
+        },
+         {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+              "אירוס ארץ ישראלי"
+          ],
+             "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2014",
+      "observer": "אילן טל , 0528254968",
+      "original_text": "פורחים : אכסף מבריק , סתוונית הנגב , יקינטונית מעורקת , נרקיס מצוי ( מהכרמל ומעמק  יזרעאל ) , כרכום חורפי + חלמוני , בצלציה א\"י ( 150 פרחים לפחות ) , כלנית מצויה ( גם בגוון מג'נטה ) , חיננית הבתה + רב שנתית , זלזלת הקנוקנות ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "אכסף מבריק",
+            "סתוונית הנגב",
+            "יקינטונית מעורקת",
+             "נרקיס מצוי",
+            "כרכום חורפי",
+            "חלמונית",
+            "בצלציה",
+             "כלנית מצויה",
+            "חיננית הבתה",
+            "זלזלת הקנוקנות"
+          ],
+           "maps_query_location":"Kfar Yehoshua"
+        },
+        {
+          "location_name": "כרמל",
+          "flowers": [
+              "נרקיס מצוי"
+          ],
+          "maps_query_location":"Carmel"
+        },
+           {
+          "location_name": "עמק יזרעאל",
+          "flowers": [
+             "נרקיס מצוי"
+          ],
+            "maps_query_location":"Jezreel Valley"
+        }
+      ]
+    },
+       {
+      "date": "14/12/2014",
+      "observer": "אבנר לא בשבת 052 3351549",
+      "original_text": "האזור ירוק ויפה החלה פריחת הכלניות והרקפות+מגוון פריחה שנמצא בקישורית שצולמה 12.12.14\nאירוס ארץ ישראלי טרם פורח צפיה מהנה אבנר לא בשבת 052 3351549",
+        "locations": [
+        {
+          "location_name": "שמורת טבע שער פולג",
+           "flowers": [
+            "כלנית",
+            "רקפת"
+             ],
+           "maps_query_location":"Sha'ar Poleg nature reserve"
+        },
+          {
+            "location_name": "יקום",
+             "flowers": [
+              "כלנית",
+              "רקפת"
+                ],
+             "maps_query_location": "Yakum"
+        }
+      ]
+    },
+     {
+      "date": "13/12/2014",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "יקינטונית מעורקת"
+          ],
+             "maps_query_location":"Ga'ash"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,283 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/06/2013",
+      "observer": null,
+      "original_text": "נר הלילה החופי,שמשון סגלגל,צלבית החוף,דרדר הקורים,חורשף צהוב,לבנונית ימית,ציפורנית בשרנית,ודו פרק חופי פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+           "flowers": [
+              "Oenothera drummondii",
+              "Paronychia argentea",
+              "Cakile maritima",
+              "Centaurea procurrens",
+               "Scolymus maculatus",
+              "Reichardia tingitana",
+              "Dianthus strictus",
+              "Limonium narbonense"
+            ],
+          "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "01/06/2013",
+      "observer": "המתולתל המטורלל",
+      "original_text": "שחליים עדינים, בחצר ביתי אשר בחיפה שכונת שמבור. מפתיע לא?",
+      "locations": [
+        {
+          "location_name": "חיפה",
+          "flowers": ["Malva parviflora"],
+           "maps_query_location": "Haifa"
+        },
+        {
+          "location_name": "שכונת שמבור",
+          "flowers": ["Malva parviflora"],
+          "maps_query_location": "Shambur neighborhood"
+        }
+      ]
+    },
+    {
+      "date": "29/05/2013",
+      "observer": null,
+      "original_text": "במסיל עסניה פורחים חודיים מנוצים ונורית קושטא (סוף פריחה),זנב שועל ביצתי,ואנטינוריית האיים. ליד מאגר בנטל פורח טופח עדשתי.\nובנחל ראש פינה פורחת חומעת הפקעת - תודה רבה לעירית על ההדרכה הנהדרת.",
+       "locations": [
+        {
+          "location_name": "מסיל עסניה",
+            "flowers": [
+              "Erodium acaule",
+               "Ranunculus asiaticus",
+               "Alopecurus aequalis",
+              "Antinoron insulare"
+            ],
+           "maps_query_location": "Mas'ade"
+        },
+          {
+           "location_name": "מאגר בנטל",
+            "flowers": ["Lens culinaris"],
+            "maps_query_location": "Bental Reservoir"
+          },
+         {
+           "location_name": "נחל ראש פינה",
+            "flowers": ["Rumex tuberosus"],
+            "maps_query_location":"Nahal Rosh Pina"
+         }
+      ]
+    },
+    {
+      "date": "29/05/2013",
+      "observer": null,
+      "original_text": "מישוייה פעמונית פורחת בנחל צלמון",
+       "locations": [
+        {
+          "location_name": "נחל צלמון",
+           "flowers": ["Campanula peregrina"],
+            "maps_query_location":"Nahal Tzalmon"
+        }
+      ]
+    },
+     {
+      "date": "28/05/2013",
+      "observer": null,
+      "original_text": "חוחן הקינרס , ארנריית הסלעים צפורנית אפורה , קערורית סגולה , געדת הסלעים , ארכובית הכתמים.",
+       "locations": [
+        {
+          "location_name": "ואדי שיבן",
+           "flowers": [
+              "Silybum marianum",
+              "Arenaria serpyllifolia",
+              "Dianthus pallens",
+              "Cyclamen persicum",
+              "Phagnalon rupestre",
+               "Polygonum maculosum"
+            ],
+            "maps_query_location": "Wadi Shibin"
+        }
+      ]
+    },
+     {
+      "date": "28/05/2013",
+      "observer": "דוד פורת",
+       "original_text":"פריחת  פעמונית משוננת  עינות חסידה,   עינות רומבוס,  אספסת תרבותית,  עלקת א\"י  ועוד -  ארץ ישראל יפה   ארץ ישראליות פורחות (עדיין) מאת דוד פורת.\n08.05.13   עמק המעיינות/עמק בית שאן - אספסת תרבותית  פורחת  (בבקשה להוסיף/להכניס לגלילה ולעדכן מפת התפוצה – בקעת בית שאן/עמקים):  מפגש סיל  אל מנשיה (נחל איתן) עם המסיל ללא שם החובר לו ממערב ליד תל  דבא.   1 גוש גבוה  במיוחד (1 מטר) לא צפוף  במיוחד עם צבע פרחים סגול  מרהיב.\n\nפעמונית משוננת  - אוכלוסיות קטנות אבל מקסימות  פורחות בעינות חסידה,  עינות רומבוס (שם שלי – ד.פ – 4 מעיינות  סמוכים זה לזה,   ללא שם,  על אפיק נחל חרוד שסימונם במפה יוצר אשליית מעויין),   עין עפרוני ומעיינות נוספים ללא שם  על גדת  נחל חרוד תחתון.\nעלקת חרוקה מסיימת לפרוח בשדות צפונית ובצמוד לעינות חוגה.\nעדשת מים גיבנת  צובעת בירוק לוהט את פני  עינות חסידה  (בבקשה להכניס לגלילה ולעדכן מפת התפוצה – בקעת בית שאן/עמקים).\nשנית מתפתלת -  עשרות פרטים פורחים בעינות חסידה, גדות אפיק נחל חרוד קניון הבזלת ועוד אתרים לאורך חלקו התחתון. \nאספרג א\"י   בפרחים ופירות  ממש שליט באתרי נחלים,  ביצות וגופי מים אחרים  (אבל לאו דווקא)  במרחב שבין  נחל דשן לתל סהרון.\nכרבלת התרנגול -  פרחים ופירות  של מספר פרטים בשטחים חשופים בין עינות חסידה לעין חוגה (בבקשה להוסיף/להכניס לגלילה ולעדכן מפת התפוצה – בקעת בית שאן/עמקים וכן עונת הפריחה – גם מאי).\nכמו כן   בראשית אפריל  כבר פרחה   עלקת ארץ ישראלית  בגבעת סוד  גליל תחתון מזרחי (להוסיף את הערך לאתר כולל מפת תפוצה).",
+        "locations": [
+          {
+              "location_name": "עינות חסידה",
+               "flowers": [
+                  "Campanula hierosolymitana",
+                  "Medicago sativa",
+                 "Orobanche aegyptiaca",
+                  "Lemna gibba",
+                  "Convolvulus dorycnium",
+                 "Asparagus aphyllus",
+                 "Celosia cristata"
+                ],
+                "maps_query_location":"Einot Hasida"
+          },
+           {
+                "location_name": "עינות רומבוס",
+                 "flowers": [
+                  "Campanula hierosolymitana",
+                    "Medicago sativa",
+                   "Orobanche aegyptiaca",
+                  "Lemna gibba",
+                   "Convolvulus dorycnium",
+                   "Asparagus aphyllus",
+                   "Celosia cristata"
+                ],
+                "maps_query_location": "Einot Rombos"
+           },
+           {
+               "location_name": "עמק המעיינות",
+                "flowers": ["Medicago sativa"],
+                "maps_query_location": "Valley of Springs"
+            },
+             {
+                "location_name": "עמק בית שאן",
+                "flowers": ["Medicago sativa"],
+                "maps_query_location": "Beit She'an Valley"
+           },
+           {
+              "location_name": "מפגש סיל אל מנשיה (נחל איתן)",
+              "flowers": ["Medicago sativa"],
+              "maps_query_location": "Sil El Manshiyya (Nahal Eitan)"
+           },
+          {
+            "location_name": "תל דבא",
+             "flowers": ["Medicago sativa"],
+              "maps_query_location":"Tel Daba"
+          },
+          {
+            "location_name": "נחל חרוד",
+            "flowers": [
+              "Campanula hierosolymitana",
+              "Orobanche ramosa",
+               "Lemna gibba",
+                "Convolvulus dorycnium"
+            ],
+             "maps_query_location": "Nahal Harod"
+          },
+           {
+             "location_name": "עינות חוגה",
+              "flowers": ["Orobanche ramosa","Celosia cristata"],
+              "maps_query_location":"Einot Hugga"
+           },
+            {
+                "location_name": "עין עפרוני",
+                "flowers": ["Campanula hierosolymitana"],
+                 "maps_query_location":"Ein Efroni"
+           },
+           {
+            "location_name": "נחל דשן",
+             "flowers": ["Asparagus aphyllus"],
+            "maps_query_location": "Nahal Dashen"
+          },
+           {
+            "location_name": "תל סהרון",
+            "flowers": ["Asparagus aphyllus"],
+             "maps_query_location": "Tel Saharon"
+          },
+          {
+           "location_name": "גבעת סוד",
+           "flowers": ["Orobanche aegyptiaca"],
+           "maps_query_location": "Giv'at Sod"
+          },
+           {
+            "location_name": "גליל תחתון מזרחי",
+            "flowers": ["Orobanche aegyptiaca"],
+            "maps_query_location": "Eastern Lower Galilee"
+          }
+        ]
+    },
+    {
+      "date": "25/05/2013",
+      "observer": null,
+      "original_text": "עין תות - כביש לפסגות\nפרחו- גרגר הנחלים , ערידת הביצות , ערבז משובל ,נורית הזיזים ,כלורה חרוזה ,זעזועית זעירה - פרי.",
+       "locations": [
+        {
+          "location_name": "עין תות",
+           "flowers": [
+              "Nasturtium officinale",
+              "Lythrum salicaria",
+              "Iberis umbellata",
+              "Ranunculus muricatus",
+              "Coronopus squamatus",
+              "Zannichellia palustris"
+            ],
+            "maps_query_location": "Ein Tut"
+        }
+      ]
+    },
+    {
+      "date": "24/05/2013",
+      "observer": "צלה וחנן",
+       "original_text": "23 מאי 2013, רכס פקיעין, כ 10 פרחי\nשושן צחור מקסימים, בשיא הפריחה.\nשביל כחול, ליד מלון פקיעין (סבוב חד של הכביש, גשר), טיפוס בדרגת קושי בינונית, כ 1.15 שעות, עד שביל ירוק המגיע מבית ג'אן (מצד ימין).\nממשיכים עוד כ 100 מטר עד תחילת הירידה, עוד כ 50 מטר, מצד ימין  - סבך מאוד צפוף.",
+      "locations": [
+        {
+          "location_name": "רכס פקיעין",
+           "flowers": ["Lilium candidum"],
+            "maps_query_location": "Peki'in Ridge"
+        },
+        {
+         "location_name": "פקיעין",
+          "flowers": ["Lilium candidum"],
+          "maps_query_location": "Peki'in"
+        },
+          {
+         "location_name": "בית ג'אן",
+          "flowers": ["Lilium candidum"],
+          "maps_query_location": "Beit Jann"
+        }
+      ]
+    },
+    {
+      "date": "23/05/2013",
+      "observer": null,
+      "original_text": "קוצן מכונף פורח כ-15-10 פרטים פורחים . עוד פורחים צלף סיצלי ,ערידת הביצות ,סמר ערבי וחד סוף צר עלים כרפס הביצות גומא דל שיבולים ועוד",
+       "locations": [
+        {
+          "location_name": "עין טיון",
+          "flowers": [
+            "Carduus argentatus",
+             "Capparis sicula",
+             "Lythrum salicaria",
+            "Gladiolus italicus",
+              "Cyperus difformis",
+            "Apium nodiflorum",
+            "Cyperus laevigatus"
+              ],
+            "maps_query_location": "Ein Tiyun"
+        }
+      ]
+    },
+    {
+      "date": "22/05/2013",
+      "observer": null,
+      "original_text": "פורחים: מעוג אפיל, מעוג נקוד, חוח עקוד, אכילאה קטנת-פרחים, ורבנה רפואית, שלמון יפואי, קורטם דק, ערבז סוככני, עפעפית הקנוקנות, חבלבל א\"י, חבלבל סיצילי, מרווהמנוצה, לוטוס מצוי, עולש מצוי ועוד.",
+       "locations": [
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+              "Echium italicum",
+              "Echium maculatum",
+              "Carlina hispanica",
+              "Achillea santolina",
+              "Verbena officinalis",
+              "Salvia palaestina",
+              "Carthamus tenuis",
+              "Iberis odorata",
+             "Celsia heterotricha",
+              "Convolvulus lanatus",
+              "Convolvulus siculus",
+              "Salvia pinnata",
+              "Lotus ornithopodioides",
+              "Cichorium intybus"
+            ],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    }
+  ]
+}
+```

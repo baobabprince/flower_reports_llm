@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "ובסטף - %(5-10) פורחות.",
+      "locations": [
+        {
+          "location_name": "סטף",
+          "flowers": ["שקד"],
+          "maps_query_location": "Staf"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "בודדים פורחים, הרבה ניצנים, כלניות בודדדות והרתמים חוגגים.",
+       "locations": [
+        {
+          "location_name": "בית חנן",
+           "flowers": ["איריס ארגמן","כלנית","רתמה"],
+          "maps_query_location": "Beit Hanan"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "שקדיה ענקית בחניה, רקפות, כלניות, עיריות, זמזומיות וקידות בהתחלת פריחה.",
+      "locations": [
+        {
+          "location_name": "בית שמש",
+          "flowers": ["שקד","רקפת","כלנית","עירית","זמזומית","קידה"],
+           "maps_query_location": "Beit Shemesh"
+         },
+          {
+          "location_name": "נחל מערת התאומים",
+          "flowers": ["שקד","רקפת","כלנית","עירית","זמזומית","קידה"],
+           "maps_query_location": "Nahal Ma'arat HaTe'omim"
+        }
+       ]
+    },
+    {
+      "date": "28/01/2019",
+      "observer": "תהילה",
+       "original_text": "כלניות בשלל צבעים מלבן עד סגול וורוד במשטחים מרהיבים. ניתן ללכת על שבילים מסומנים. מנחת מגידו סמוך לעפולה. מומלץ",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo Airfield"
+        },
+         {
+          "location_name": "עפולה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Afula"
+        }
+      ]
+    },
+     {
+      "date": "27/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "מקור חסידה תמים, ואיריס הארגמן פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["מקור חסידה","איריס ארגמן"],
+          "maps_query_location": "null"
+         }
+       ]
+    },
+    {
+      "date": "26/01/2019",
+      "observer": "חנן קרן",
+      "original_text": "בתל בית שמש סמוך לכניסה למושב ישעי יש פריחה מרשימה של כלניות על כל התל. מומלץ.",
+      "locations": [
+        {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Tel Beit Shemesh"
+        },
+        {
+          "location_name": "ישעי",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Yesha'ay"
+        }
+      ]
+    },
+       {
+      "date": "26/01/2019",
+       "observer": null,
+      "original_text": "אביטל גיל מגלה לנו את הסוד על הקשר בין מטעי הזיתים וציפורנית מצרית: סוהיל זיידן איש יעור בקק\"ל כותב כי משנת 1995 החליטו לזרוע ציפורנית מצרית במטעי זתים וחרובים בגליל המערבי כאטרקציה למטיילים ולנוסעים בכבישים הסמוכים. הקילטור בין השבילים מפזר את הזרעים. במקומות אחרים זרעו תורמוס מאותה סיבה",
+      "locations": [
+        {
+           "location_name": "יער בית קשת",
+           "flowers": ["ציפורנית מצרית", "תורמוס"],
+           "maps_query_location": "Beit Keshet Forest"
+          },
+        {
+          "location_name": "הגליל המערבי",
+          "flowers": ["ציפורנית מצרית", "תורמוס"],
+          "maps_query_location": "Western Galilee"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2019",
+        "observer": null,
+      "original_text": "בגבעות הכורכר בנס-ציונה . ראו מסלול ותיאור בקישור",
+       "locations": [
+        {
+          "location_name": "גבעות הכורכר",
+          "flowers": ["איריס ארגמן"],
+          "maps_query_location": "Giv'ot HaKurkar"
+        },
+         {
+          "location_name": "נס ציונה",
+          "flowers": ["איריס ארגמן"],
+         "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+      {
+      "date": "26/01/2019",
+       "observer": "עידו מגן",
+      "original_text": "עשרות אם לא מאות פרחי אירוס ארגמן כבר פורחים בגבעת הכורכר בנס ציונה, ויש עוד פוטנציאל. הכלניות כבר בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר",
+           "flowers": ["איריס ארגמן","כלנית"],
+           "maps_query_location": "Giv'at HaKurkar"
+        },
+         {
+           "location_name": "נס ציונה",
+           "flowers": ["איריס ארגמן","כלנית"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2019",
+       "observer": "עידו מגן",
+       "original_text": "עשרות שקדיות פורחות בנחל חלילים ובליפתא, ועוד הרבה צפויות לפרוח בימים הקרובים. גם הכלניות והרקפות החלו לפרוח",
+        "locations": [
+        {
+           "location_name": "נחל חלילים",
+            "flowers": ["שקד","כלנית","רקפת"],
+           "maps_query_location": "Nahal Halilim"
+        },
+        {
+          "location_name": "ליפתא",
+          "flowers": ["שקד","כלנית","רקפת"],
+           "maps_query_location": "Lifta"
+        },
+         {
+           "location_name": "ירושלים",
+           "flowers": ["שקד","כלנית","רקפת"],
+           "maps_query_location": "Jerusalem"
+         }
+      ]
+    }
+  ]
+}
+```

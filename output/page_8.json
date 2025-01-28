@@ -1,0 +1,163 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/12/2024",
+      "observer": "בומי אהרון",
+      "original_text": "שמורת ביתן אהרון פריחת נרקיסים",
+       "locations": [
+        {
+          "location_name": "שמורת ביתן אהרון",
+          "flowers": ["Narcissus"],
+          "maps_query_location": "Beit Aaron Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2024",
+      "observer": null,
+      "original_text": "בקצה רחוב ליסבון בדלית אל כרמל , \nלהמשיך עד  לעץ (כנראה אלון גדול) ומתחתיו ישנם זרים) \nגם במצפה הטייסים פורחים איריס הסרגל\nבדרך הנוף פורחים גם כרכומים ונרקיסים",
+      "locations": [
+         {
+          "location_name": "דלית אל כרמל",
+          "flowers": ["Iris planifolia"],
+          "maps_query_location": "Daliyat al-Karmel"
+        },
+        {
+           "location_name": "מצפה הטייסים",
+           "flowers": ["Iris planifolia"],
+           "maps_query_location": "Mitzpe Hatayasim"
+         },
+         {
+           "location_name": "דרך הנוף",
+           "flowers": ["Crocus", "Narcissus"],
+           "maps_query_location": "Derech Hanof"
+         }
+      ]
+    },
+    {
+      "date": "01/12/2024",
+      "observer": null,
+      "original_text": "בתבור, הן בשיא הפריחה",
+      "locations": [
+        {
+          "location_name": "תבור",
+           "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2024",
+      "observer": "יובל בוקר",
+      "original_text": "כדן סגול בגעת הפרחים מצפון למעגן מיכאל. כמו כן, שיא של נרקיס אפיל, מרבדים....",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["Colchicum"],
+            "maps_query_location": "Ma'agan Michael"
+        }
+      ,
+          {
+          "location_name": "געת הפרחים",
+          "flowers": ["Colchicum","Narcissus tazetta"],
+            "maps_query_location": null
+        }
+
+      ]
+    },
+    {
+      "date": "30/11/2024",
+      "observer": "שמואל שחר",
+      "original_text": "מלא פריחות בוואדי, להגיע כמו שמתואר איך להגיע באתר. יפה מאוד. כדאי גם  ללכת למצפור אסרף .",
+        "locations": [
+        {
+          "location_name": "מצפור אסרף",
+           "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Mitzpor Esref"
+        }
+          ]
+    },
+        {
+      "date": "29/11/2024",
+      "observer": "מיקי פינטו",
+      "original_text": "3 חלמוניות גדולות באתר ירוחם בתאריך 27/11",
+          "locations": [
+        {
+           "location_name": "ירוחם",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Yeruham"
+        }
+            ]
+    },
+    {
+      "date": "29/11/2024",
+      "observer": "עידו מגן",
+      "original_text": "בשמורת אודים מאות נרקיסים ומעט סתווניות. סתווניות פורחות גם בשמורת שער פולג הסמוכה ליקום. כל האיזור מוריק בעקבות הגשמים האחרונים.",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": ["Narcissus", "Colchicum"],
+          "maps_query_location": "Udim Nature Reserve"
+        },
+         {
+          "location_name": "שמורת שער פולג",
+           "flowers": ["Colchicum"],
+          "maps_query_location": "Sha'ar Poleg Nature Reserve"
+        },
+          {
+           "location_name": "יקום",
+           "flowers": ["Colchicum"],
+           "maps_query_location": "Yakum"
+          }
+      ]
+    },
+    {
+      "date": "28/11/2024",
+      "observer": null,
+        "original_text":"אספרג ארץ-ישראלי , שיטת המשוכות",
+      "locations": [
+        {
+          "location_name": "עין הנציב",
+          "flowers": ["Asparagus palaestinus", "Acacia"],
+          "maps_query_location": "Ein Hanatziv"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2024",
+      "observer": null,
+      "original_text": "באנדרטת חטיבת-הנגב פורחים:\nמאירית קיצרת-עלים , סתוונית טוביה   \n\nבשדה בוקר ומטווח שדה בוקר פורחים\nאכילאה ריחנית , אשבל מצרי , חמד המדבר",
+     "locations": [
+        {
+          "location_name": "אנדרטת חטיבת הנגב",
+          "flowers": ["Iris subbiflora", "Colchicum"],
+          "maps_query_location": "Negev Brigade memorial"
+        },
+         {
+           "location_name": "שדה בוקר",
+          "flowers": ["Achillea fragrantissima", "Salvia aegyptiaca", "Helianthemum"],
+           "maps_query_location": "Sde Boker"
+         },
+          {
+             "location_name": "מטווח שדה בוקר",
+              "flowers": ["Achillea fragrantissima", "Salvia aegyptiaca", "Helianthemum"],
+              "maps_query_location": null
+          }
+      ]
+    },
+        {
+      "date": "28/11/2024",
+      "observer": null,
+      "original_text": "לוביה מצרית , מלוח הענבות",
+         "locations": [
+        {
+          "location_name": "אגם ירוחם",
+          "flowers": ["Dolichos lablab", "Atriplex halimus"],
+          "maps_query_location": "Yeruham Lake"
+        }
+      ]
+    }
+  ]
+}
+```

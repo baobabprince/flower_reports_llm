@@ -1,0 +1,165 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/01/2020",
+      "observer": "אביטל גיל",
+      "original_text": "מרסיה יפהפיה, כלניות, צחנן מבאיש ועוד ראו באלבום שצילמה אביטל גיל",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "מרסיה יפהפיה",
+            "כלנית",
+            "צחנן מבאיש"
+          ],
+          "maps_query_location": "Khirbet Milh"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2020",
+      "observer": null,
+      "original_text": "פורחת בסרטבה בעליה לסוסיא בוואדי קלט ועוד",
+        "locations": [
+        {
+          "location_name": "סרטבה",
+          "flowers": [
+            "בצלציה ארצישראלית"
+          ],
+          "maps_query_location": "Sartaba"
+        },
+        {
+          "location_name": "סוסיא",
+           "flowers": [
+            "בצלציה ארצישראלית"
+          ],
+          "maps_query_location": "Susya"
+        },
+          {
+          "location_name": "ואדי קלט",
+          "flowers": [
+            "בצלציה ארצישראלית"
+          ],
+          "maps_query_location": "Wadi Qelt"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2020",
+      "observer": null,
+       "original_text": "החל לפרוח בבורות לוץ",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "איריס טוביה"
+          ],
+          "maps_query_location": "Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2020",
+      "observer": "גלעד שטראוס",
+      "original_text": "בתחום הגן שמדרום מערב לבי\"ס אורט",
+       "locations": [
+        {
+          "location_name": "רמת הנדיב",
+            "flowers": [
+            "עירית"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2020",
+      "observer": "אריה גייר",
+       "original_text": "פריחה משמעותית של יקינחון מזרחי בקרני חיטין",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+           "flowers": [
+            "יקינתון מזרחי"
+          ],
+          "maps_query_location": "Kfar Hittim"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2020",
+      "observer": null,
+       "original_text": "דודא רפואי, נץ חלב , נרקיס מצוי",
+      "locations": [
+        {
+          "location_name": "מלי פרוד",
+          "flowers": [
+            "דודא רפואי",
+            "נץ חלב",
+             "נרקיס מצוי"
+          ],
+          "maps_query_location": "Mlei Prud"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2020",
+      "observer": null,
+       "original_text": "החלו לפרוח רקפת יוונית ואיריס הלבנון",
+      "locations": [
+        {
+          "location_name": "חזקה",
+          "flowers": [
+             "רקפת יוונית",
+             "איריס הלבנון"
+          ],
+          "maps_query_location": "Hazeka"
+         }
+      ]
+    },
+    {
+      "date": "26/01/2020",
+      "observer": null,
+       "original_text": "פורח במיטבו בעופרה",
+      "locations": [
+        {
+          "location_name": "עופרה",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+          "maps_query_location": "Ofra"
+        }
+      ]
+    },
+     {
+      "date": "26/01/2020",
+      "observer": "חוה אלטמן",
+        "original_text": "בצלצייה- בעליה לסוסיתא מימין, בשליש העליה לאתר העתיק. 25.1.120",
+     "locations": [
+        {
+          "location_name": "סוסיתא",
+            "flowers": [
+            "בצלציה"
+          ],
+          "maps_query_location": "Susita"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2020",
+      "observer": null,
+       "original_text": "בוואדי קלט",
+      "locations": [
+        {
+          "location_name": "ואדי קלט",
+           "flowers": [
+            "בצלציה ארצישראלית"
+          ],
+          "maps_query_location": "Wadi Qelt"
+        }
+      ]
+    }
+  ]
+}
+```

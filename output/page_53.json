@@ -1,0 +1,172 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/11/2023",
+      "observer": null,
+      "original_text": "אטד אדומי , יפרוק תלת-כנפי ,",
+      "locations": [
+        {
+          "location_name": "חניון הרועה",
+          "flowers": [
+            "אטד אדומי",
+            "יפרוק תלת-כנפי"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "27/11/2023",
+       "observer": null,
+      "original_text": "ינבוט לבן, לחן לביד , מאירית קיצרת-עלים , מלחית אשונה , מרמר הנגב , קזוח עקום",
+      "locations": [
+        {
+          "location_name": "אנדרטת הנגב",
+          "flowers": [
+            "ינבוט לבן",
+            "לחן לביד",
+            "מאירית קיצרת-עלים",
+            "מלחית אשונה",
+             "מרמר הנגב",
+            "קזוח עקום"
+           ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "27/11/2023",
+      "observer": null,
+      "original_text": "אחילוף הנגב , חבצלת הנגב  (פרי) , חמד המדבר ,  יפרוק המדבר, כספסף חד-פרחי , לוניאה מחודדת , מחטנית משובלת , מלענן מנוצה , פגוניה דביקה , פיגמית מגובששת , פשתנית ססגונית ,",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "אחילוף הנגב",
+            "חבצלת הנגב",
+              "חמד המדבר",
+            "יפרוק המדבר",
+            "כספסף חד-פרחי",
+            "לוניאה מחודדת",
+             "מחטנית משובלת",
+              "מלענן מנוצה",
+            "פגוניה דביקה",
+            "פיגמית מגובששת",
+             "פשתנית ססגונית"
+           ],
+          "maps_query_location": "Mampsis"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2023",
+       "observer": "שלמה גולדברג",
+      "original_text": "מצפון לגבעת הפריחה בשמורת הבונים .סתוניות באלפים ברכס הכורכר המערבי ליד מפרצים של צדפים",
+       "locations": [
+         {
+            "location_name": "שמורת הבונים",
+             "flowers": [
+                "סתוונית"
+             ],
+            "maps_query_location": "Habonim Nature Reserve"
+         },
+         {
+             "location_name": "רכס הכורכר המערבי",
+              "flowers": [
+                "סתוונית"
+            ],
+             "maps_query_location": null
+          }
+        ]
+    },
+        {
+      "date": "21/11/2023",
+       "observer": "אלון מאיר",
+       "original_text": "צילם אלון מאיר המדהים, ראו קישור למטה",
+        "locations": [
+          {
+            "location_name": "יסעור",
+              "flowers": [
+                "סתוונית"
+            ],
+            "maps_query_location": "Yis'ur"
+          }
+        ]
+    },
+     {
+      "date": "21/11/2023",
+       "observer": null,
+      "original_text": "(ראו בקישור למטה)רקפות, סתוונית היורה, חיננית הבתה, איריס הסרגל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "רקפת",
+            "סתוונית היורה",
+            "חיננית הבתה",
+              "איריס הסרגל"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2023",
+      "observer": null,
+       "original_text":"החל לפרוח בגן המקלט השרוני",
+      "locations": [
+        {
+          "location_name": "גן המקלט השרוני",
+          "flowers": [
+            "כרכום גיארדו חופי"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "19/11/2023",
+       "observer": null,
+        "original_text": "ביער יתיר , ראו קישור למטה",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+     {
+      "date":"19/11/2023",
+      "observer": "דורית",
+      "original_text": "פריחה יפה של חלמוניות 17.11.23",
+        "locations": [
+        {
+          "location_name": "יער דודאים-להבים",
+          "flowers": [
+             "חלמונית"
+            ],
+            "maps_query_location": null
+        }
+     ]
+   },
+    {
+      "date": "17/11/2023",
+       "observer": "ז'ק",
+      "original_text": "פריחת רקפות במיסלעות באיזור גני יהושע בת''א, במיוחד במיסלעות שבתוך גן הסלעים והגן הטרופי.",
+      "locations": [
+        {
+          "location_name": "גני יהושע",
+          "flowers": [
+            "רקפת"
+          ],
+           "maps_query_location": "Ganei Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

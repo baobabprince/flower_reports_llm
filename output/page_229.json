@@ -1,0 +1,176 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/11/2020",
+      "observer": null,
+      "original_text": "מאות ואולי אלפי חלמונית זעירה וסיתווניות",
+      "locations": [
+        {
+          "location_name": "נוב",
+           "flowers": ["חלמונית זעירה","סתוונית"],
+            "maps_query_location": "Nov"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2020",
+      "observer": null,
+      "original_text": "חלמוניות זעירה בנוב, וליד מערת קשת \nאחילוף החורן \nכרכום צהבהב בג'ובה",
+      "locations": [
+         {
+          "location_name": "נוב",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Nov"
+        },
+        {
+          "location_name": "מערת קשת",
+          "flowers": ["חלמונית זעירה", "אחילוף החורן"],
+          "maps_query_location": "Keshet Cave"
+         },
+         {
+          "location_name": "ג'ובה",
+           "flowers": ["כרכום צהבהב"],
+           "maps_query_location": "Juba"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2020",
+      "observer": null,
+      "original_text": "הרבה חלמוניות זעירות , מסםר אחילוף הגליל, בן-חצב סיתווני \nביער אלוני יצחק: \nהרבה סיתווניות היורה ואחילוף הגליל",
+      "locations": [
+       {
+          "location_name": "גן המייסדים גבעת עדה",
+          "flowers": ["חלמונית זעירה", "אחילוף הגליל", "בן-חצב סיתווני"],
+          "maps_query_location": "Giv'at Ada"
+        },
+        {
+         "location_name":"יער אלוני יצחק",
+         "flowers": ["סתוונית היורה", "אחילוף הגליל"],
+         "maps_query_location": "Alonim forest"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2020",
+      "observer": "איילת גלעד",
+      "original_text": "שפע פריחה במסלול הכחול, משמאל לכניסה לוואדי, מפנה צפוני.",
+       "locations": [
+        {
+         "location_name": "ירוחם",
+         "flowers": ["חלמונית"],
+         "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+        {
+      "date": "10/11/2020",
+      "observer": "שגב אביב",
+      "original_text": "מרבדים של סתווניות ביער יתיר חמודות וסגולות",
+        "locations": [
+        {
+          "location_name": "יער יתיר",
+           "flowers": ["סתוונית"],
+            "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+      {
+      "date": "10/11/2020",
+      "observer": "קפלינסקי יפה",
+      "original_text": "חלמונית אחת ,סתווניות וכרכומים הרבה...",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["חלמונית", "סתוונית", "כרכום"],
+            "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2020",
+      "observer": "הגר בן נון",
+      "original_text": "08/11/2020:ק.ק.ל. ביער ביריה ע'י דלתון: התחלת פריחה ,מאות בהצצה..הר אדמון: התחלה,השטח מכוסה בסירה קוצנית.\nשביל הפסגה:הרבה פריחה צעירה.",
+       "locations": [
+         {
+          "location_name": "יער ביריה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        },
+         {
+          "location_name": "הר אדמון",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Har Admon"
+        } ,
+        {
+          "location_name": "שביל הפסגה",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Piska Trail"
+        }
+       ]
+    },
+     {
+      "date": "08/11/2020",
+      "observer": null,
+        "original_text": "חוות הגמלים ממשית וממשית  : אחילוף הנגב , גיפסנית ערבית, חבצלת הנגב, חצב גלוני (פיזור זרעים), לוניאה מחודדת, מלוח הענבות, לשון שור נגבית , מלחית אשונה, מלענן מנוצה, פוקה קוצנית, פיגמית מגובששת  \nנחל-אצבועים : אצבוע אירופי, גולנית ערב, חצב מצוי, כתלה חריפה\nירוחם: חלמונית גדולה, אזובית המדבר,  בוצין שיחני , קזוח עקום \nמטווחים שדה -בוקר: סתוונית הקליפות, אשבל מצרי , בן-חצב מדברי\nכלא נפחא: שלוחית קרחת, מרמר מצוי, פרעושית מסולסלת",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": ["אחילוף הנגב", "גיפסנית ערבית", "חבצלת הנגב", "חצב גלוני", "לוניאה מחודדת", "מלוח הענבות", "לשון שור נגבית", "מלחית אשונה", "מלענן מנוצה", "פוקה קוצנית", "פיגמית מגובששת"],
+           "maps_query_location": "Mamshit"
+         },
+        {
+         "location_name": "נחל אצבועים",
+          "flowers": ["אצבוע אירופי", "גולנית ערב", "חצב מצוי", "כתלה חריפה"],
+           "maps_query_location": "Nahal Atzboim"
+        },
+         {
+          "location_name": "ירוחם",
+           "flowers": ["חלמונית גדולה", "אזובית המדבר", "בוצין שיחני", "קזוח עקום"],
+           "maps_query_location": "Yeruham"
+         },
+         {
+          "location_name": "שדה בוקר",
+          "flowers": ["סתוונית הקליפות", "אשבל מצרי", "בן-חצב מדברי"],
+          "maps_query_location": "Sde Boker"
+        },
+         {
+           "location_name":"כלא נפחא",
+          "flowers": ["שלוחית קרחת", "מרמר מצוי", "פרעושית מסולסלת"],
+          "maps_query_location": "Nafha Prison"
+          }
+       ]
+    },
+     {
+      "date": "08/11/2020",
+      "observer": "יעקב סער",
+      "original_text": "ביער יתיר בדרך החלמוניות וכן ביער להב החלמונית פורחות",
+       "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Yatir Forest"
+          },
+          {
+          "location_name":"יער להב",
+          "flowers":["חלמונית"],
+          "maps_query_location":"Lahav Forest"
+           }
+      ]
+    },
+     {
+      "date": "07/11/2020",
+      "observer": "גניה ויהודה קדם",
+       "original_text":"היום 07/11/20, ראינו כרכומים ביער אודם. כמות קטנה. התחלת פריחה",
+       "locations": [
+          {
+            "location_name": "יער אודם",
+            "flowers": ["כרכום"],
+             "maps_query_location": "Odem Forest"
+        }
+       ]
+    }
+  ]
+}
+```

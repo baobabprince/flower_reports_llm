@@ -1,0 +1,178 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/03/2017",
+      "observer": null,
+      "original_text": "איריס הגלבוע בשיא המונים, גביוענית הלבנון בשיא, יסמין שיחני ואחרים שלא בשבילם הגענו לכאן ...",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+           "flowers": ["איריס הגלבוע", "גביוענית הלבנון", "יסמין שיחני"],
+            "maps_query_location": "Malkishua"
+        }
+      ]
+    },
+    {
+      "date": "13/03/2017",
+      "observer": null,
+      "original_text": "נוריות מים ( לא רבות), חד שפה מצוי, טופח מצוי וריסני ואולי עוד מינים, תלתנים, עכנאי יהודה, שום משולש מרווה דגולה, חבלבל סיצילי, דגניים שונים, מרווה משולשת, קיקיון פורח, טבק השיח, קחוונים , שמשון מצוי, ועוד רבים. השיא: מספר שיחים של יסמין שיחני פורחים בעשרות פרחים צהובים מצפון מערב לבריכה",
+      "locations": [
+         {
+            "location_name": "בריכת צ'רטה",
+            "flowers": [
+              "נורית מים",
+              "חד שפה מצוי",
+              "טופח מצוי",
+               "טופח ריסני",
+              "תלתן",
+              "עכנאי יהודה",
+               "שום משולש",
+               "מרווה דגולה",
+               "חבלבל סיצילי",
+              "דגניים",
+              "מרווה משולשת",
+               "קיקיון",
+              "טבק השיח",
+              "קחוון",
+              "שמשון מצוי",
+               "יסמין שיחני"
+            ],
+            "maps_query_location": "Birket Charta"
+         }
+      ]
+    },
+     {
+      "date": "13/03/2017",
+      "observer": null,
+      "original_text": "שיא הפריחה מצורפת קישורית מקורית מהשטח",
+        "locations": [
+        {
+            "location_name": null,
+            "flowers": ["סחלב הביצות"],
+             "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "13/03/2017",
+      "observer": null,
+      "original_text": "הייתי השמורה ב11.3.\nמגיעים לשלושת האנטנות דרך הכפר -דחי.\nמהאנטנות יורדים דרום מזרח כ-150-200 מטר.אין שביל מסודר.\nמקבץ של כ-20 פרטים של אירוס נצרתי בשיא הפריחה.",
+      "locations": [
+          {
+            "location_name": "שמורת גבעת המורה",
+            "flowers": ["אירוס נצרתי"],
+              "maps_query_location": "Givat Hamore"
+          },
+           {
+             "location_name": "דחי",
+             "flowers": ["אירוס נצרתי"],
+              "maps_query_location": "Dahi"
+           }
+      ]
+    },
+    {
+      "date": "12/03/2017",
+      "observer": null,
+      "original_text": "בנווה עמל הרצליה",
+       "locations": [
+          {
+            "location_name": "נווה עמל",
+            "flowers": ["תורמוס צהוב"],
+              "maps_query_location": "Neve Amal"
+          },
+           {
+              "location_name": "הרצליה",
+              "flowers": ["תורמוס צהוב"],
+               "maps_query_location": "Herzliya"
+           }
+       ]
+    },
+     {
+      "date": "12/03/2017",
+      "observer": null,
+      "original_text": "ביער  המגינים, ביער בן שמן בחלקים מסויימים,  בגלעד, בצלפון ועוד",
+      "locations": [
+        {
+            "location_name": "יער המגינים",
+            "flowers": ["רקפת"],
+             "maps_query_location": "Yar HaMaginim"
+        },
+        {
+            "location_name": "יער בן שמן",
+             "flowers": ["רקפת"],
+              "maps_query_location":"Ben Shemen Forest"
+         },
+         {
+            "location_name": "גלעד",
+             "flowers": ["רקפת"],
+              "maps_query_location": "Gilad"
+         },
+         {
+             "location_name": "צלפון",
+             "flowers": ["רקפת"],
+              "maps_query_location": "Tzalafon"
+          }
+      ]
+    },
+    {
+      "date": "12/03/2017",
+      "observer": "עמי מורן",
+       "original_text": "ריכוזי אירוס שחום, תחילת הפריחה, בצמוד לאנדרטת הנגב, מצפון ומצפון מערב, ליד השביל המקיף את האנדרטה.",
+      "locations": [
+          {
+            "location_name": "אנדרטת חטיבת הנגב",
+            "flowers": ["אירוס שחום"],
+              "maps_query_location": "Negev Brigade Memorial"
+         }
+      ]
+    },
+    {
+      "date": "12/03/2017",
+      "observer": null,
+       "original_text":"בקית יזרעאל, ציפורנית גדולת שיניים, וגרניום mascatense (מין חדש בארץ שנתון מהודו ופקיסטן שנמצא ע\"י דניאל לוי ביער חולדה) פורחים בגן",
+      "locations": [
+        {
+            "location_name": "גן הנדירים",
+            "flowers": ["בקית יזרעאל", "ציפורנית גדולת שיניים", "גרניום mascatense"],
+             "maps_query_location": null
+         },
+         {
+            "location_name": "יער חולדה",
+             "flowers": ["בקית יזרעאל", "ציפורנית גדולת שיניים", "גרניום mascatense"],
+              "maps_query_location": "Hulda Forest"
+         }
+      ]
+    },
+    {
+      "date": "11/03/2017",
+      "observer": null,
+       "original_text":"נמסרו דיווחים על פרטים רבים של איריס הגלבוע הפורחים במלכישוע שליד הגלבוע",
+      "locations": [
+         {
+            "location_name": "מלכישוע",
+            "flowers": ["איריס הגלבוע"],
+             "maps_query_location": "Malkishua"
+         },
+        {
+            "location_name": "הגלבוע",
+            "flowers": ["איריס הגלבוע"],
+            "maps_query_location": "Gilboa"
+         }
+      ]
+    },
+    {
+      "date": "11/03/2017",
+      "observer": null,
+       "original_text":"המוני גביעוניות בגוונים שונים , ועוד רבים אחרים",
+      "locations": [
+         {
+            "location_name": "תל קריות",
+            "flowers": ["גביעונית"],
+             "maps_query_location": "Tel Kariyot"
+          }
+      ]
+    }
+  ]
+}
+```

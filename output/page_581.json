@@ -1,0 +1,221 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/01/2014",
+      "observer": "עירית",
+      "original_text": "שפע של נרקיסים לאורך דרך נוף יער בית קשת מכיוון נצרת עלית להר דבורה ובנחל ברק בן אבינעם. פורחים גם רקפות, עיריות ראשונות, כרכומים חורפיים אחרונים וכתמה. עלים של עריוני בירידה מפסגת הר דבורה דרך סימון שבילים כחול.",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+             "Asphodelus",
+            "Crocus hyemalis",
+            "Sternbergia clusiana"
+          ],
+           "maps_query_location": "Beit Keshet Forest"
+        },
+        {
+          "location_name": "נצרת עילית",
+             "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+             "Asphodelus",
+            "Crocus hyemalis",
+             "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Nazareth Illit"
+        },
+        {
+          "location_name": "הר דבורה",
+             "flowers": [
+             "Narcissus",
+             "Cyclamen persicum",
+              "Asphodelus",
+             "Crocus hyemalis",
+             "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Mount Tabor"
+        },
+          {
+          "location_name": "נחל ברק בן אבינעם",
+           "flowers": [
+             "Narcissus",
+             "Cyclamen persicum",
+             "Asphodelus",
+              "Crocus hyemalis",
+              "Sternbergia clusiana"
+            ],
+          "maps_query_location": "Nahal Barak Ben Avinoam"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2014",
+      "observer": null,
+      "original_text": "סתוונית הנגב,קרן יעל סורית,אגרוסטמת כרכום חורפי,יקינטון מזרחי,ואסתר הביצות פורחים בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Colchicum deserti",
+            "Hypecoum pendulum",
+            "Agrostemma githago",
+             "Crocus hyemalis",
+            "Hyacinthus orientalis",
+            "Limonium sinuatum"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2014",
+      "observer": "אורית",
+      "original_text": "בגבעת שמרון מאחורי תמרת ובית הקברות האזורי, הכרכומים מלבינים ומדיפים ריחם העדין.",
+       "locations": [
+        {
+          "location_name": "גבעת שמרון",
+           "flowers": [
+            "Crocus"
+          ],
+          "maps_query_location": "Giv'at Shomron"
+        },
+         {
+          "location_name": "תמרת",
+          "flowers": [
+             "Crocus"
+          ],
+          "maps_query_location": "Timrat"
+        }
+      ]
+    },
+     {
+      "date": "08/01/2014",
+      "observer": "אילן טל , 0528254968",
+      "original_text": "3 בני שיח של אכסף מבריק מתחילים לפרוח ( יפהפיים ) . האכסף עבר את חום יולי אוגוסט בגאון והם היו מלאי עלים וירוקים . כמו האנדרוסקי , גם בר נורית חרמשי שזרעתי באוקטובר 2012 , נבט לפני שבוע . סתוונית הנגב פורחת בלבן ובורוד , הנרקיס המצוי פורח ונראה יפה ( האם הקור משפיע ? ) וגם הבצלציה הא\"י פורחת .",
+      "locations": [
+       {
+          "location_name": "כפר יהושע",
+          "flowers": [
+             "Osyris alba",
+             "Ranunculus arvensis",
+             "Colchicum deserti",
+             "Narcissus tazetta",
+             "Prospero autumnale"
+          ],
+          "maps_query_location":"Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "08/01/2014",
+      "observer": "צביקה אבני",
+      "original_text": "לפני ארבעה ימים פרחה קבוצה ראשונה ובודדת עדיין בנחל אשלון. בנחל דימונה לא היו פרחים כלל.",
+        "locations": [
+           {
+            "location_name": "נחל אשלון",
+             "flowers": [
+                "Narcissus"
+            ],
+              "maps_query_location": "Nahal Ashalon"
+          },
+          {
+            "location_name": "נחל דימונה",
+            "flowers": [],
+            "maps_query_location": "Nahal Dimona"
+          }
+      ]
+    },
+    {
+      "date": "08/01/2014",
+      "observer": "צביקה אבני",
+       "original_text": "מספר עצום של פרחי סתוונית הנגב בשטח שבין המאגר שעל נחל בתרים ואזור התעשייה עומר.\nגם בין שורות עצי היער וגם במישורי לס בשוליהם.\nזו הפריחה הרבה ביותר בכל השנים שאני צופה בשטח זה.\nחבל שאני לא יכול לצרף תמונות לדיווח זה",
+      "locations": [
+        {
+          "location_name": "נחל בתרים",
+           "flowers": [
+              "Colchicum deserti"
+            ],
+           "maps_query_location": "Nahal Batarim"
+        },
+        {
+            "location_name": "אזור תעשייה עומר",
+             "flowers": [
+              "Colchicum deserti"
+            ],
+              "maps_query_location": "Omer Industrial Zone"
+        }
+      ]
+    },
+     {
+      "date": "08/01/2014",
+      "observer": "נביל אבושקארה",
+      "original_text": "אתמול אחרי הצהריים בזמן ההליכה לפני הצומת של דיר חנא בצד שמאל של הכביש בין מטעי  הזיתים מאות זרי נרקיס צומחים להם בקיף מדהים ביופיה",
+         "locations": [
+           {
+            "location_name": "דיר חנא",
+             "flowers": [
+                "Narcissus"
+             ],
+             "maps_query_location": "Deir Hanna"
+            }
+         ]
+    },
+   {
+      "date": "08/01/2014",
+      "observer": "דוד פורת",
+       "original_text": "אשכולית  תלויה  עדיין    בין  החורף  והקיץ  (טהר לב): ועוד מעלילות  מזג  האוויר השנה?      ביער שמשית  עצבוניות החורש עם פרחים ופירות – שלהי דקייטא (אשתקד)  או השתא?   רמזורי \"עצור\" מיניאטוריים בינות מחטני החורש.  עוד פורחים שם : כרכום חורפי – רבבות, בעיקר בחלקות אלוני התבור, דודא רפואי, רקפת מצויה, שרביטן מצוי (פרחים ופירות), חיננית הבתה ואחרים. בקטע נחל ציפורי  הסמוך הזורם חזק – ורוניקת המים.  כל המסלולים שם ראויים לרבות מסלולי האופניים, הנכים, הרגליים ושבילי הביניים.  שנה אזרחית טובה ומטויילת.  דוד פורת אפיקים  04.01.14",
+      "locations": [
+        {
+          "location_name": "יער שמשית",
+          "flowers": [
+            "Crocus hyemalis",
+             "Mandragora autumnalis",
+            "Cyclamen persicum",
+            "Ephedra",
+             "Bellis sylvestris",
+             "Veronica anagallis-aquatica"
+          ],
+            "maps_query_location": "Shimshit Forest"
+        },
+         {
+          "location_name": "נחל ציפורי",
+           "flowers": [
+            "Veronica anagallis-aquatica"
+          ],
+           "maps_query_location": "Nahal Tzipori"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2014",
+       "observer": null,
+      "original_text": "נרקיסים רבים כבר פורחים ומפיצים ריח ... נראה שבסוף השבוע הקרוב (10/1) הפריחה תהיה עוד יותר מרשימה.",
+       "locations": [
+        {
+          "location_name": "תל אנפה",
+           "flowers": [
+               "Narcissus"
+             ],
+             "maps_query_location": "Tel Anafa"
+         }
+       ]
+    },
+    {
+      "date": "07/01/2014",
+      "observer": null,
+      "original_text":"שריינו את היום 14.2.2014\nיום שישי יד באדר א בנאות קדומים - כולם מוזמנים",
+        "locations": [
+        {
+            "location_name": "נאות קדומים",
+              "flowers": [],
+            "maps_query_location":"Neot Kedumim"
+          }
+        ]
+     }
+  ]
+}
+```

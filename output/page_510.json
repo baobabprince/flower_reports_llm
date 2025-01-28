@@ -1,0 +1,251 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/05/2015",
+      "observer": null,
+      "original_text": "ראו פרטים בדף לזיכרו  בקישור למטה",
+      "locations": []
+    },
+    {
+      "date": "12/05/2015",
+       "observer": "אליהו נבון",
+      "original_text": "ב 9/5/2015  נצפו  בירידה בשביל הירוק אליסון חרמוני , צבעוני ההרים, דובדבן שרוע עריר הלבנון, לשון כלב הררית, ניזמית מקווות, תכלתן מזרחי.  בין הרכבל התחתון ומחנה ערער: כחלית ההרים, עירית גדולה ושום משולש",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": [
+            "Alyssum haramonis",
+            "Tulipa montana",
+            "Prunus prostrata",
+             "Cynoglossum montanum",
+            "Ajuga chia",
+            "Pseudolysimachion orientale",
+            "Aricia agestis",
+              "Gynandriris sisyrinchium",
+              "Allium triquetrum"
+          ],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "11/05/2015",
+       "observer": "הגר בן נון",
+      "original_text": "בקרן ברטות\nהשושן לפני שיא פריחה.יש גם לוע ארי גדול ,בוצין קיסריוני,דם המכבים ועוד...",
+      "locations": [
+        {
+          "location_name": "קרן ברטות",
+          "flowers": [
+            "Lilium candidum",
+            "Antirrhinum majus",
+            "Verbascum gaillardotii",
+             "Helichrysum sanguineum"
+          ],
+          "maps_query_location": "Keren Bartot"
+        }
+      ]
+    },
+    {
+      "date": "10/05/2015",
+      "observer": null,
+      "original_text": "בוציץ סוככני בשיא פריחה. דמסון כוכבני, כף-צפרדע איזמלנית (מעט מאד פרטים), תלתן הביצות, שחליל שרוע, ורבנה שרועה, אל-ציצית לבנה, ארכובית צמירה, חוח עקוד, חומעה יפה, דרדר הקורים, זנב-עקרב שיכני, גומא,עולש מצוי.",
+      "locations": [
+        {
+          "location_name": "חדרה",
+           "flowers": [
+            "Bupleurum rotundifolium",
+              "Damasonium alisma",
+            "Alisma lanceolatum",
+              "Trifolium fragiferum",
+            "Anagallis arvensis",
+             "Verbena supina",
+            "Erophila verna",
+             "Polygonum lanatum",
+              "Carduus acanthoides",
+              "Rumex pulcher",
+              "Centaurea hyalolepis",
+              "Heliotropium supinum",
+            "Cyperus rotundus",
+              "Cichorium intybus"
+          ],
+          "maps_query_location": "Hadera"
+        }
+      ]
+    },
+     {
+      "date": "08/05/2015",
+       "observer": null,
+      "original_text": "אירוס ארם נהריים, פעמונית קיפחת, סחלב  אנטולי  עלוק מצוי, ",
+      "locations": [
+        {
+          "location_name": "רמות מנשה",
+          "flowers": [
+           "Iris mesopotamica",
+            "Campanula strigosa",
+              "Ophrys umbilicata",
+              "Clinopodium vulgare"
+          ],
+          "maps_query_location": "Ramat Menashe"
+        },
+         {
+          "location_name": "משמר העמק",
+          "flowers": [
+          "Iris mesopotamica",
+            "Campanula strigosa",
+              "Ophrys umbilicata",
+              "Clinopodium vulgare"
+          ],
+           "maps_query_location": "Mishmar HaEmek"
+        }
+      ]
+    },
+    {
+      "date": "06/05/2015",
+      "observer": null,
+       "original_text": "בבקעת קריות לקראת העליה לכיוון יער יתיר: הרבה דרדר החרחבינה בשיא פריחה, חבלבל זיתני בפריחה מלאה, כמה פרטים פורחים של כמנון ענף. בהר עמשא  בגיא הרחב עם אדמה עמוקה העולה לפסגה כ- 1.3 ק\"מ בדרך העפר מהישוב:: פריחה של שלושת מיני השלהביות: הגלגל, קצרת שיניים והכלאיים. ליד הכביש לישוב פורחים גזר קיפח וכנפה חרוקה.",
+      "locations": [
+        {
+          "location_name": "בקעת קריות",
+          "flowers": [
+             "Centaurea iberica",
+              "Convolvulus oleifolius",
+              "Smyrnium olusatrum"
+          ],
+            "maps_query_location": "Bikat Krayot"
+        },
+        {
+          "location_name": "יער יתיר",
+          "flowers": [
+           "Centaurea iberica",
+              "Convolvulus oleifolius",
+             "Smyrnium olusatrum"
+          ],
+           "maps_query_location": "Yatir Forest"
+        },
+        {
+          "location_name": "הר עמשא",
+           "flowers": [
+             "Salvia hierosolymitana",
+              "Salvia viscosa",
+               "Salvia dominica",
+            "Daucus carota",
+            "Torilis arvensis"
+          ],
+            "maps_query_location": "Har Amasa"
+        }
+      ]
+    },
+     {
+      "date": "03/05/2015",
+       "observer": "אילן טל , 0528254968",
+      "original_text": "פורחים : חסרף מזרחי , חלביב רותמי + יווני ( שניהם עמוסים במאות פרחים ) , כלך דנין , לבדנית צהבהבת , מנתור ערבי , נפית אטלקית , צלע השור בואסייה , קדד הקרקפות ועוד הרבה עשרות מינים .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+           "Echinops orientalis",
+            "Ononis natrix",
+               "Ononis ornithopodioides",
+             "Malcolmia chia",
+               "Erysimum aureum",
+              "Mentha longifolia",
+             "Nepeta cataria",
+            "Echinophora tournefortii",
+             "Astragalus cruciatus"
+          ],
+          "maps_query_location": "Gan Iris"
+        },
+         {
+          "location_name": "גן בוטני",
+           "flowers": [
+              "Echinops orientalis",
+            "Ononis natrix",
+               "Ononis ornithopodioides",
+             "Malcolmia chia",
+               "Erysimum aureum",
+              "Mentha longifolia",
+             "Nepeta cataria",
+            "Echinophora tournefortii",
+             "Astragalus cruciatus"
+          ],
+           "maps_query_location": "Botanical Garden"
+        },
+         {
+          "location_name": "כפר יהושע",
+          "flowers": [
+           "Echinops orientalis",
+            "Ononis natrix",
+               "Ononis ornithopodioides",
+             "Malcolmia chia",
+               "Erysimum aureum",
+              "Mentha longifolia",
+             "Nepeta cataria",
+            "Echinophora tournefortii",
+             "Astragalus cruciatus"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+     {
+      "date": "03/05/2015",
+      "observer": null,
+      "original_text": "בר דרבן אשון , פישתנית ארם צובא ועוד ",
+      "locations": [
+         {
+          "location_name": "רגבים",
+          "flowers": [
+             "Carlina pygmaea",
+              "Linaria aucheri"
+          ],
+           "maps_query_location": "Regavim"
+        }
+      ]
+    },
+     {
+      "date": "03/05/2015",
+       "observer": null,
+      "original_text": "שושן צחור החל לפרוח. פעמונית דמשקאית בניצנים, בוצין אופקי פורח וכן: שום האבקנים , כנפה חרוקה, פעמונית כוכבנית, ערבז דק-פרחים, געדה כרתית, געדה מפושקת,  אשבל א\"י, אשבל מעורק, צלע-שור קטנה, חרחבינה מכחילה, דרדית מצויה, קרדה מכסיפה, שיבטן לבן, ספלול מטפס, דם המכבים האדום ועוד.",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Lilium candidum",
+             "Campanula damascena",
+              "Verbascum sinuatum",
+             "Allium stamineum",
+              "Torilis arvensis",
+             "Campanula stellaris",
+            "Arabis pauciflora",
+             "Teucrium cuneifolium",
+             "Teucrium divaricatum",
+              "Salvia dominica",
+             "Salvia viridis",
+            "Echinophora tenuifolia",
+            "Cardaria draba",
+            "Paronychia argentea",
+            "Convolvulus scammonia",
+             "Helichrysum sanguineum"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "03/05/2015",
+      "observer": null,
+       "original_text": "שימרו על הפרחים כל הנוהרים לצלם...",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Lilium candidum"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

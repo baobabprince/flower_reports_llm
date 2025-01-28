@@ -1,0 +1,351 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/07/2023",
+      "observer": null,
+      "original_text": "נפית מגובבת , חמשן נדיר , חד-שפה מצוי , געדה מזרחית , ברוניקה אפרפרה , אשחר הלבנון , אשבל הארזים, שום פיינברג ,  פעמונית אמיתית ,",
+       "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "Nepeta curviflora",
+            "Lotus arenarius",
+            "Ajuga orientalis",
+            "Teucrium orientale",
+            "Veronica cana",
+             "Rhamnus libanoticus",
+             "Micromeria cilicica",
+              "Allium feinbergii",
+              "Campanula hermonnis"
+          ],
+          "maps_query_location": "Hermon"
+        }
+       ]
+    },
+    {
+      "date": "16/07/2023",
+      "observer": null,
+      "original_text": "סביון ההרים,  פרע לבנוני,  קיפודן גיארדו , שלמון כוכבני , שעורה דמויית-שיפון, רפונטיקון זוחל -  ליד הר-חרמונית",
+      "locations": [
+        {
+           "location_name": "חרמון",
+           "flowers": [
+               "Senecio petraeus",
+               "Hypericum libanoticum",
+               "Echinops gaillardotii",
+               "Tragopogon stellatus",
+               "Hordeum bulbosum",
+               "Rhaponticum repens"
+           ],
+           "maps_query_location": "Hermon"
+         },
+         {
+            "location_name": "הר חרמונית",
+           "flowers": [
+               "Rhaponticum repens"
+            ],
+            "maps_query_location": "Har Hermonit"
+         }
+      ]
+    },
+    {
+      "date": "16/07/2023",
+       "observer": null,
+      "original_text": "סמבוק אמיתי, צורית דקת-עלים , קדד מפורץ, שום הפסגות , שום סנין, שלהבית הררית, אבובית החרטומים,  אכיליאה גפורה,  אלומית הלבנון,  ארכובית הררית,  הרדופנין הלבנון (פיזור זרעים) , זקן-תיש צהוב,  חד-אבקן ארוך, חדעד הלבנון,  לוטוס מקרין",
+        "locations": [
+        {
+          "location_name": "עמק בולען",
+           "flowers": [
+            "Sambucus nigra",
+              "Cerastium brachypetalum",
+            "Astragalus cruciatus",
+             "Allium verticillatum",
+              "Allium sannine",
+             "Phlomis kurdica",
+             "Sarcocapnos enneaphylla",
+             "Achillea gypsicola",
+             "Aethionema libanoticum",
+               "Polygonum herniarioides",
+              "Vincetoxicum libanoticum",
+             "Tragopogon longirostris",
+             "Helianthemum vesicarium",
+              "Echium libanoticum",
+             "Lotus halophilus"
+            ],
+            "maps_query_location": "Emek Bula'an"
+        },
+         {
+          "location_name": "שולי עמק בולען",
+           "flowers": [
+            "Sambucus nigra",
+              "Cerastium brachypetalum",
+            "Astragalus cruciatus",
+             "Allium verticillatum",
+              "Allium sannine",
+             "Phlomis kurdica",
+             "Sarcocapnos enneaphylla",
+             "Achillea gypsicola",
+             "Aethionema libanoticum",
+               "Polygonum herniarioides",
+              "Vincetoxicum libanoticum",
+             "Tragopogon longirostris",
+             "Helianthemum vesicarium",
+              "Echium libanoticum",
+             "Lotus halophilus"
+            ],
+             "maps_query_location": "Shulei Emek Bula'an"
+        }
+      ]
+    },
+    {
+      "date": "16/07/2023",
+      "observer": null,
+      "original_text": "ניסנית מעוצה, נפית קיליקית , ציפורנית שנונת-כותרת , חרחבינה ירוקה, מרמר הערבות, כף-אווז רבת-עלים,  זיברה ננסית,  הרקלאון נמוך, דרדר הלבנון ,  ברזילון הלבנון , זהבית הבצלצולים (פרי) , בן-חרצית צפוף , אשחר הלבנון, ארנריה , אספלנום הנקיקים , אלקנה מזרחית , שושנתית הלבנון , קחוון דל-אונות, בולנטוס שעיר",
+        "locations": [
+        {
+           "location_name": "מצפה שלגים",
+           "flowers": [
+             "Corydalis wendelboi",
+              "Nepeta cilicia",
+              "Dianthus crinitus",
+               "Eryngium falcatum",
+              "Teucrium polium",
+              "Chenopodium polyspermum",
+              "Ziziphora tenuior",
+               "Heracleum humile",
+               "Centaurea libanotica",
+               "Sphaeranthus suaveolens",
+                "Gagea chlorantha",
+              "Coleostephus myconis",
+                "Rhamnus libanoticus",
+               "Arenaria serpyllifolia",
+               "Asplenium petrarchae",
+              "Alkanna orientalis",
+               "Lilium kesselringianum",
+                "Anthemis palaestina",
+               "Bolanthus hirsutus"
+           ],
+           "maps_query_location": "Mitzpe Shlagim"
+         },
+          {
+          "location_name": "חרמון",
+          "flowers": [
+             "Corydalis wendelboi",
+              "Nepeta cilicia",
+              "Dianthus crinitus",
+               "Eryngium falcatum",
+              "Teucrium polium",
+              "Chenopodium polyspermum",
+              "Ziziphora tenuior",
+               "Heracleum humile",
+               "Centaurea libanotica",
+               "Sphaeranthus suaveolens",
+                "Gagea chlorantha",
+              "Coleostephus myconis",
+                "Rhamnus libanoticus",
+               "Arenaria serpyllifolia",
+               "Asplenium petrarchae",
+              "Alkanna orientalis",
+               "Lilium kesselringianum",
+                "Anthemis palaestina",
+               "Bolanthus hirsutus"
+           ],
+           "maps_query_location": "Hermon"
+        }
+      ]
+    },
+      {
+      "date": "14/07/2023",
+      "observer": null,
+      "original_text": "סביון הררי, פעמונית הצלצל, פרע לבנוני",
+       "locations": [
+        {
+          "location_name": "תרנגול",
+          "flowers": [
+           "Senecio petraeus",
+            "Campanula cymbalaria",
+            "Hypericum libanoticum"
+          ],
+           "maps_query_location": "Tarnegol"
+         },
+         {
+          "location_name": "חרמון",
+          "flowers": [
+            "Senecio petraeus",
+             "Campanula cymbalaria",
+             "Hypericum libanoticum"
+          ],
+          "maps_query_location": "Hermon"
+        }
+        ]
+    },
+    {
+      "date": "14/07/2023",
+      "observer": null,
+      "original_text": "שום פייברג,  חד שפה מצוי, פעמונית אמיתית, דבקנית עטורה, אשבל הארזים",
+       "locations": [
+        {
+          "location_name": "שלוש הדולינות",
+          "flowers": [
+            "Allium feinbergii",
+             "Ajuga orientalis",
+             "Campanula hermonnis",
+             "Galium coronatum",
+            "Micromeria cilicica"
+          ],
+          "maps_query_location": "Shalosh HaDolinot"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2023",
+      "observer": null,
+       "original_text": "פילגון אנטולי, בן חרצית דק עלה ,  קדד מפורץ, לוטוס מקרין , סמבוק אמיתי, ציפורנית הלבנון, שום החרמון, שום הפסגות, שום החרמון",
+        "locations": [
+        {
+          "location_name": "עמק בולען",
+          "flowers": [
+              "Filago anatolica",
+             "Coleostephus tenuifolius",
+            "Astragalus cruciatus",
+            "Lotus halophilus",
+             "Sambucus nigra",
+             "Dianthus libanotis",
+             "Allium hermoneum",
+              "Allium verticillatum",
+                "Allium hermoneum"
+           ],
+            "maps_query_location": "Emek Bula'an"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2023",
+      "observer": null,
+       "original_text": "אלקנה מזרחית, אשחר הלבנון,   בולנטוס שעיר, ברזילון הלבנון, דרדר הלבנון, הרליקון נמוך, חד אבקן אדום, שושנתית הלבנון, מרמר הערבות, ציפורנית שנונת כותרת, פרגה קרחת, פעמונית הצלצל, סיברה ננסית, נפית מגובבת , ניסנית מעוצה , נואית קוצנית, כף אוז רבת עלים, חרחבינה ירוקה",
+        "locations": [
+        {
+          "location_name": "מצפה שלגים",
+           "flowers": [
+            "Alkanna orientalis",
+              "Rhamnus libanoticus",
+              "Bolanthus hirsutus",
+             "Sphaeranthus suaveolens",
+             "Centaurea libanotica",
+             "Heracleum humile",
+             "Helianthemum sanguineum",
+              "Lilium kesselringianum",
+             "Teucrium polium",
+              "Dianthus crinitus",
+              "Cota palaestina",
+              "Campanula cymbalaria",
+             "Ziziphora tenuior",
+              "Nepeta curviflora",
+               "Corydalis wendelboi",
+                "Notobasis syriaca",
+                "Chenopodium polyspermum",
+              "Eryngium falcatum"
+           ],
+           "maps_query_location": "Mitzpe Shlagim"
+         },
+         {
+          "location_name": "חרמון",
+           "flowers": [
+            "Alkanna orientalis",
+              "Rhamnus libanoticus",
+              "Bolanthus hirsutus",
+             "Sphaeranthus suaveolens",
+             "Centaurea libanotica",
+             "Heracleum humile",
+             "Helianthemum sanguineum",
+              "Lilium kesselringianum",
+             "Teucrium polium",
+              "Dianthus crinitus",
+              "Cota palaestina",
+              "Campanula cymbalaria",
+             "Ziziphora tenuior",
+              "Nepeta curviflora",
+               "Corydalis wendelboi",
+                "Notobasis syriaca",
+                "Chenopodium polyspermum",
+              "Eryngium falcatum"
+           ],
+           "maps_query_location": "Hermon"
+        }
+      ]
+    },
+    {
+      "date": "09/07/2023",
+      "observer": null,
+      "original_text": "אמיתה קייצית,   אצבען מאדים,  אשבל הביצות , בן-אפר מצוי (תת-מין הגדל בדשאים מושקים) , ,גומא הפפירוס,  גומא חום , גומא צפוף, געדה כרתית,  כריך שחום , לוביה מצרית,  לחך גדול,  מדחול הודי , מליסה רפואית,  מרמר מצוי,  נימפאה לבנה ,  נענע הכדורים,   סוף צר-עלים , סמבוק שחור,  סמר חד  עב-קנה נדיר , עדשת-מים שטוחה,  ערבז משובל, פשטה שרועה ,  קחוונית מצויה,   שוש  קוצני , שחליים עדינים,   שיח אברהם .",
+      "locations": [
+        {
+          "location_name": "ירקון",
+          "flowers": [
+             "Ammi visnaga",
+             "Dactylorhiza romana",
+             "Clinopodium menthifolium",
+             "Fraxinus syriaca",
+              "Cyperus papyrus",
+             "Cyperus fuscus",
+              "Cyperus difformis",
+              "Teucrium creticum",
+             "Juncus subnodulosus",
+             "Lablab purpureus",
+            "Plantago major",
+            "Eragrostis tenella",
+            "Melissa officinalis",
+             "Teucrium polium",
+            "Nymphaea alba",
+            "Mentha pulegium",
+            "Typha angustifolia",
+            "Sambucus nigra",
+             "Juncus acutus",
+            "Lemna aequinoctialis",
+            "Lythrum hyssopifolia",
+             "Paspalum paspalodes",
+             "Matricaria chamomilla",
+             "Silybum marianum",
+              "Veronica anagallis-aquatica",
+            "Vitex agnus-castus"
+          ],
+          "maps_query_location": "Yarkon"
+        }
+      ]
+    },
+    {
+        "date":"09/07/2023",
+        "observer":null,
+        "original_text": "פרגה צהובה, עטיינית מגובבת וארוכה, פשתת החוף, גומא הפפירוס והירקון, וגעדת הביצות פורחים בגן",
+         "locations": [
+            {
+              "location_name": "גן מקלט שרוני",
+              "flowers": [
+                "Cota tinctoria",
+                "Solenopsis minuta",
+                "Linum pubescens",
+                 "Cyperus papyrus",
+                "Teucrium scordium"
+               ],
+                "maps_query_location": "Gan Miklat Sharoni"
+            },
+           {
+              "location_name":"הירקון",
+               "flowers": [
+                 "Cyperus papyrus"
+                ],
+                 "maps_query_location": "Yarkon"
+              },
+              {
+              "location_name":"גן",
+               "flowers":[
+                  "Teucrium scordium"
+                ],
+                 "maps_query_location":"Gan"
+                }
+          ]
+    }
+  ]
+}
+```

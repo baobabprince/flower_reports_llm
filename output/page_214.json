@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/01/2021",
+      "observer": "ליאור דביר",
+      "original_text": "ריכוז של אירוס ארץ ישראלי וכלניות בגבעה מצפון לכפר גבירול ברחובות.\nהגבעה צופה על שדה האנטנות הגבוהות בכביש יבנה",
+      "locations": [
+        {
+          "location_name": "כפר גבירול",
+          "flowers": ["אירוס ארץ ישראלי", "כלנית"],
+            "maps_query_location": "Kfar Gvirol"
+        },
+          {
+             "location_name":"רחובות",
+             "flowers": ["אירוס ארץ ישראלי", "כלנית"],
+             "maps_query_location":"Rehovot"
+          },
+        {
+          "location_name": "כביש יבנה",
+            "flowers": ["אירוס ארץ ישראלי", "כלנית"],
+           "maps_query_location": "Yavne"
+        }
+      ]
+    },
+    {
+      "date": "07/01/2021",
+      "observer": "ניר אבס",
+      "original_text": "מודיעין  חורשת האומות , מתחת לגבעת התיתורה",
+      "locations": [
+        {
+          "location_name": "חורשת האומות",
+          "flowers": ["שקדיה"],
+            "maps_query_location": "Horeshat HaUmot"
+        },
+         {
+          "location_name": "גבעת התיתורה",
+           "flowers": ["שקדיה"],
+           "maps_query_location": "Givat HaTitora"
+        },
+           {
+          "location_name":"מודיעין",
+           "flowers":["שקדיה"],
+           "maps_query_location":"Modiin"
+           }
+      ]
+    },
+    {
+      "date": "06/01/2021",
+      "observer": "אביעד שרפשטיין",
+      "original_text": "כלניות פורחות קרוב לחניה הדרומית של יער חדרה",
+      "locations": [
+        {
+          "location_name": "יער חדרה",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Hadera Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2021",
+      "observer": "ניצן קויתי",
+      "original_text": "בפניה לשביל לעין יואל בסמוך לחורבה- בפעם הראשונה באוזר גב ההר!!",
+       "locations": [
+         {
+           "location_name":"עין יואל",
+           "flowers":["אירוס ארץ-ישראלי", "כלנית"],
+            "maps_query_location":"Ein Yoel"
+          },
+          {
+           "location_name":"גב ההר",
+            "flowers":["אירוס ארץ-ישראלי", "כלנית"],
+            "maps_query_location": null
+          }
+        ]
+    },
+    {
+      "date": "06/01/2021",
+      "observer": "הגר בן נון",
+      "original_text": "יקינטון בקרני חיטין בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": ["יקינטון מזרחי"],
+            "maps_query_location": "Karni Hittin"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2021",
+      "observer": "null",
+      "original_text": "החל לפרוח בכרמל",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["אכסף צהוב"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2021",
+      "observer": "נעם שכטר",
+      "original_text": "נרקיסים בשיא פריחה באחו נוב",
+     "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Ahun Nov"
+        }
+      ]
+    },
+      {
+      "date": "03/01/2021",
+      "observer": "עמית פוקס",
+      "original_text": "רומולאה צידונית בנחל נדר ממש לפני שמתחילים לראות את האוניברסיטה. יחידה וקטנה באמצע השביל",
+     "locations": [
+        {
+          "location_name": "נחל נדר",
+          "flowers": ["רומולאה צידונית"],
+           "maps_query_location": "Nahal Nader"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2021",
+      "observer": "שלומי",
+      "original_text": "פריחה בעין חרמון (ליד הישוב נמרוד)",
+      "locations": [
+        {
+          "location_name": "עין חרמון",
+            "flowers": ["נץ חלב אזמלני"],
+           "maps_query_location": "Ein Hermon"
+        },
+        {
+          "location_name": "נמרוד",
+             "flowers": ["נץ חלב אזמלני"],
+            "maps_query_location": "Nimrod"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2021",
+      "observer": "נגה",
+      "original_text": "כלניות בחירבת בורגין\nפארק עדולם- פרטים בודדים",
+      "locations": [
+        {
+          "location_name": "חירבת בורגין",
+          "flowers": ["כלנית"],
+           "maps_query_location":"Khirbet Burgin"
+        },
+         {
+          "location_name":"פארק עדולם",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Adullam Park"
+         }
+      ]
+    }
+  ]
+}
+```

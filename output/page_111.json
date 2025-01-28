@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/10/2022",
+      "observer": null,
+      "original_text": "סתווניות ירושלים ראשונות בירושלים (צפונית למנזר מר-אליאס) ",
+      "locations": [
+        {
+          "location_name": "ירושלים",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Jerusalem"
+        },
+         {
+          "location_name": "מנזר מר-אליאס",
+           "flowers": [
+            "סתוונית ירושלים"
+           ],
+          "maps_query_location": "Mar Elias Monastery"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2022",
+      "observer": "נעמה כספי",
+      "original_text": "פריחה מקסימה של סיתוויניות בסמוך לבה\"ד 1 ",
+      "locations": [
+        {
+          "location_name": "בה\"ד 1",
+          "flowers": [
+            "סתוונית הקליפות"
+          ],
+           "maps_query_location": "Bahad 1"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2022",
+      "observer": "סמדי מלמד",
+       "original_text": "החלה פריחה רכס בשנית מתחת למוצב",
+      "locations": [
+         {
+          "location_name": "רכס בשנית",
+           "flowers": [
+              "חלמונית",
+              "סתוונית"
+            ],
+          "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "13/10/2022",
+      "observer": null,
+      "original_text": "קיטה רותמית, עופרית הכיף, אבפרג החורש, טיון דביק , חורשף מצוייץ, כתםה לחריפה, שומר פשוט, ",
+       "locations": [
+        {
+          "location_name": "חירבת רגב",
+           "flowers": [
+              "קיטה רותמית",
+              "עופרית הכיף",
+              "אבפרג החורש",
+               "טיון דביק",
+               "חורשף מצוייץ",
+               "כתמה לחריפה",
+               "שומר פשוט"
+            ],
+          "maps_query_location": "Khirbat Regev"
+         }
+      ]
+    },
+    {
+      "date": "12/10/2022",
+      "observer": "מיכאל פינטו",
+      "original_text": "התחלת פריחה בילבד של חבצלות הנגב ליד ממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+        {
+      "date": "12/10/2022",
+      "observer": null,
+      "original_text": "ראו בקישור למטה בואו בהמוניכם ",
+      "locations": [
+        {
+          "location_name": "אילנות",
+          "flowers": [],
+           "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2022",
+      "observer": null,
+       "original_text": "גדלות על שפת מאגר בנטל ",
+      "locations": [
+        {
+          "location_name": "מאגר בנטל",
+          "flowers": [
+            "סתוונית תשבץ"
+          ],
+           "maps_query_location": "Bental Reservoir"
+        }
+      ]
+    },
+        {
+      "date": "12/10/2022",
+      "observer": null,
+      "original_text": "בבורות לוץ",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "כרכום הסבכה"
+          ],
+           "maps_query_location":"Borot Lotz"
+        }
+      ]
+    },
+     {
+      "date": "10/10/2022",
+      "observer": "טובית שפירא",
+      "original_text": "חול המועד סוכות בקק\"ל. למגוון הפעילויות בקרו באתר סל קק\"ל. מוזמנים",
+       "locations": [],
+      "flowers":[]
+    },
+    {
+      "date": "09/10/2022",
+      "observer": "שירי",
+      "original_text": "נסתרות בין העצים עדינות יפיפיות סתווניות בכירות",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+            "סתוונית בכירה"
+          ],
+           "maps_query_location":"Mount Meron"
+        }
+      ]
+    }
+  ]
+}
+```

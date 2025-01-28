@@ -1,0 +1,525 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/03/2013",
+      "observer": "דותן רותם",
+      "original_text": "בדרך היורדת ממושב דישון לנחל דישון, אירוס הדור, פרגת ארם צובא, סחלב השקיק, נורית אסיה, סחלב פרפרני. על קירות במפנה צפוני ולריינה איטלקית ומדרונות בוערים באש קידה שעירה.",
+      "locations": [
+        {
+          "location_name": "דישון",
+          "flowers": [
+            "Iris regis",
+            "Echium judaeum",
+            "Ophrys speculum",
+            "Ranunculus asiaticus",
+            "Orchis papilionacea"
+          ],
+           "maps_query_location": "Dishon"
+        },
+         {
+          "location_name": "נחל דישון",
+           "flowers": [
+            "Iris regis",
+            "Echium judaeum",
+            "Ophrys speculum",
+            "Ranunculus asiaticus",
+             "Orchis papilionacea"
+          ],
+           "maps_query_location": "Nahal Dishon"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2013",
+      "observer": "רבקה כהן",
+       "original_text": "גוש עציון 10.3.13\nאגס סורי, שמשון שלחופיות, חד-שפה מצוי, נורית ירושלים, בירוניקת המים, סינפיטון א\"י, דלעת נחש סורית, דמומית א\"צ, קדד גדול פרי, דבורנית צהובה, נזמית לבנה",
+      "locations": [
+        {
+          "location_name": "גוש עציון",
+          "flowers": [
+            "Pyrus syriaca",
+             "Sarcopoterium spinosum",
+            "Ajuga chamaepitys",
+            "Ranunculus palaestinus",
+            "Veronica anagallis-aquatica",
+             "Symphytum palaestinum",
+            "Trichosanthes cucumerina",
+            "Adonis palaestina",
+            "Astragalus macrocarpus",
+            "Ophrys lutea",
+            "Lamium album"
+          ],
+          "maps_query_location": "Gush Etzion"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2013",
+      "observer": "צביקה אבני",
+      "original_text": "בצידי כביש 40 מצומת הנגב עד צומת טללים ובצידי כביש 211 כתמי פריחה צהובים וריחניים של גרגריון ערבי וכתמים צהובים כתומים של שן הארי השעירה. ליד כביש 211 המוליך לניצנה סביוני ערבות גדולים ומלאי פריחה. באזור הפריחה של אירוס הנגב הסמוך לכביש 211 שיא הפריחה הרבה פרחים על שטח נרחב אם כי לא במרבדים. פרט להם פורחים במקום גם צבעוני מדבר, לולינית מעובה ועוד.\nבשטח של בקעת קריות שיא הפריחה של גביעונית ערבית שמקבלת גם סיוע סלקטיבי ברעיית גמלים, במקום מרבד פריחה של שלח הערבות. בנוסף פורחים גם שעמון מצולע, נורית אסיה, שיכרון מרושת, קדד פיינבורן ועוד",
+      "locations": [
+        {
+          "location_name": "צומת הנגב",
+           "flowers": [
+            "Diplotaxis harra",
+            "Taraxacum syriacum",
+               "Senecio aegyptius",
+             "Iris mariae",
+              "Tulipa biflora",
+            "Anabasis articulata",
+             "Erodium glaucophyllum",
+               "Erodium telavivense",
+               "Ranunculus asiaticus",
+              "Hyoscyamus reticulatus",
+              "Astragalus fenzlii"
+          ],
+           "maps_query_location": "Negev Junction"
+        },
+        {
+          "location_name": "צומת טללים",
+            "flowers": [
+            "Diplotaxis harra",
+            "Taraxacum syriacum",
+               "Senecio aegyptius",
+             "Iris mariae",
+              "Tulipa biflora",
+            "Anabasis articulata",
+             "Erodium glaucophyllum",
+               "Erodium telavivense",
+               "Ranunculus asiaticus",
+              "Hyoscyamus reticulatus",
+              "Astragalus fenzlii"
+          ],
+          "maps_query_location": "Telalim Junction"
+        },
+          {
+          "location_name": "כביש 211",
+             "flowers": [
+            "Diplotaxis harra",
+            "Taraxacum syriacum",
+               "Senecio aegyptius",
+             "Iris mariae",
+              "Tulipa biflora",
+            "Anabasis articulata",
+             "Erodium glaucophyllum",
+               "Erodium telavivense",
+               "Ranunculus asiaticus",
+              "Hyoscyamus reticulatus",
+              "Astragalus fenzlii"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "ניצנה",
+          "flowers": [
+            "Diplotaxis harra",
+            "Taraxacum syriacum",
+               "Senecio aegyptius",
+             "Iris mariae",
+              "Tulipa biflora",
+            "Anabasis articulata",
+             "Erodium glaucophyllum",
+               "Erodium telavivense",
+               "Ranunculus asiaticus",
+              "Hyoscyamus reticulatus",
+              "Astragalus fenzlii"
+          ],
+           "maps_query_location":"Nitzana"
+        },
+           {
+          "location_name": "בקעת קריות",
+            "flowers": [
+            "Diplotaxis harra",
+            "Taraxacum syriacum",
+               "Senecio aegyptius",
+              "Erodium glaucophyllum",
+              "Erodium telavivense",
+               "Ranunculus asiaticus",
+              "Hyoscyamus reticulatus",
+               "Astragalus fenzlii",
+                "Eremobium aegyptiacum",
+                 "Helianthemum sessiliflorum"
+          ],
+           "maps_query_location": "Bik'at Keriot"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2013",
+       "observer": "אלי ליבנה - ELV",
+      "original_text": "ביום שישי 8 במרץ 2013 ביקרנו באיריס ירוחם הפריחה רק התחילה היו כ 20 פרטים וכל השאר בניצנים האיריס הצהוב בניצן מתקדם יומיים שלושה והא פורח, מצילות  בניצנים כמה צבעונים יש למה לצפות.",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": [
+            "Iris yerochamensis",
+             "Iris paradoxa",
+              "Tulipa spp."
+          ],
+           "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2013",
+      "observer": "נמרוד",
+      "original_text": "בעין אלון ובחניון האגם חגיגה של סחלבים- סחלב פרפרני, סחלב שלוש שינים, סחלב נקוד, סחלבן החורש, שנק החורש, בן סחלב צריפי ועוד הרבה- מרוות ירושלים ומרווה ארץ ישראלית, סומקן מעוצה, לשון כלב כרתית...",
+      "locations": [
+          {
+          "location_name": "עין אלון",
+          "flowers": [
+             "Orchis papilionacea",
+            "Orchis tridentata",
+             "Orchis punctulata",
+             "Serapias vomeracea",
+              "Limodorum abortivum",
+               "Barlia robertiana",
+              "Salvia hierosolymitana",
+              "Salvia palaestina",
+            "Rhus coriaria",
+            "Cynoglossum creticum"
+          ],
+           "maps_query_location": "Ein Alon"
+        },
+          {
+          "location_name": "חניון האגם",
+           "flowers": [
+             "Orchis papilionacea",
+            "Orchis tridentata",
+             "Orchis punctulata",
+             "Serapias vomeracea",
+              "Limodorum abortivum",
+               "Barlia robertiana",
+              "Salvia hierosolymitana",
+              "Salvia palaestina",
+            "Rhus coriaria",
+            "Cynoglossum creticum"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "08/03/2013",
+      "observer": "אחיעד סוירי",
+      "original_text": "פריחת סחלבים בתאריך 8/3, בין המאגר מים למגדל תצפית ברכס תורען - סחלב הגליל, סחלב שלוש השיניים, סחלב מצוייר, דבורנית צהובה וסחלב אנטולי (+שני פרטים לבקנים!)",
+      "locations": [
+        {
+          "location_name": "רכס תורען",
+           "flowers": [
+             "Orchis galilaea",
+             "Orchis tridentata",
+            "Orchis picta",
+            "Ophrys lutea",
+            "Ophrys anatolica"
+          ],
+           "maps_query_location": "Tur'an Ridge"
+        }
+      ]
+    },
+     {
+      "date": "08/03/2013",
+       "observer": null,
+      "original_text": "פריחה בשלל צבעים ומינים נצפתה ב8.3.13, קחוונים, ביקיות שונות, מרגנית השדה, לשון הפר המגובבת, פרסיון גדול, סביונים, פרגים רבים",
+      "locations": [
+        {
+          "location_name": "שמורת פולג",
+          "flowers": [
+              "Anthemis pseudocotula",
+            "Vicia spp.",
+            "Gladiolus italicus",
+            "Anchusa undulata",
+            "Gynandriris sisyrinchium",
+            "Senecio spp.",
+            "Papaver spp."
+          ],
+           "maps_query_location": "Poleg nature reserve"
+        }
+      ]
+    },
+      {
+      "date": "08/03/2013",
+       "observer": null,
+      "original_text": "שלל מיני צומח בפריחה נצפו ב5.3.13, בהם אזוביון דגול, תורמוס ארץ ישראלי, עכובית הגלגל, מרסייה יפהפייה, סביונים, קחוונים, צבעוני שרוני בהמונים בשביל הדרומי, דבורניות דינסמור, סחלב פרפרני, מרגנית השדה ועוד ועוד..",
+      "locations": [
+        {
+            "location_name": "שמורת בני ציון",
+             "flowers": [
+            "Lavandula stoechas",
+            "Lupinus palaestinus",
+            "Gundelia tournefortii",
+              "Bellevalia flexuosa",
+              "Senecio spp.",
+             "Anthemis pseudocotula",
+              "Tulipa sharonensis",
+              "Ophrys  dinsmorei",
+               "Orchis papilionacea",
+               "Gladiolus italicus"
+          ],
+           "maps_query_location": "Bnei Zion nature reserve"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2013",
+      "observer": "אילן טל  ,  כפר יהושע",
+      "original_text": "פורחים : איריס הנגב + הגלבוע + שחום ,אשבל השדה + ערבי , אלקנה סמורה + הצבעים , אפון קפח , אכסף מבריק , אזוביון שעיר + דגול , ארביס אביבי , ביקיית הבזלת + יזרעאל + הגליל + צרפתית + קפריסאית + הביצות , גרגרנית קצרת פירות + לילכית + ביירותית + נימית , נרניון נאה + הלבנון , גולנית ערב , דו כנף ריחנית , דמומית קטנת פירות + עבת שיבולת + משוננת , דונגית א\"י ,דופרית תמימה , דלעת הנחש הסורית , דרדר כחול + החרחבינה + גדל פרחים , הרדופנין צר עלים + יהודה + מצוייץ , ורוניקה דביקה + סורית , חבלבל סיצילי , חספסנית השדות , חוגית תמימה , חלבלוב השיח + מגובשש , חומעת האוירון , חוחן בלנש , חלביב רותמי , חזרזרת מחוספסת , חרצית השדות + דביקה + משוננת , חפורית הפקעים , חיננית רב שנתית + חד שנתית + הבתה , חסה כחולת פרחים , טופח ספרדי + מצוי + הגליל + מעורק , טורגניה שומרית , \n\n\n\nישימונית דו גונית + ורודה , כרמלית נאה , כרוב כרתי , לשון כלב כרתית , לשון פר מצרית + מצויה , לועית ארוכת גביע , מתנן שעיר , מרסיה יפהפיה , מוריקה מבריקה , מניפנית איברית , מרווה דגולה + צמירה + ריחנית , מעוג אפיל , משקפיים חרמוניים , מציץ סורי , ניסנית מיובלת , נורית אסיה + קושטא , נזמית מקווקוות + לבנה , סחלב נקוד + פרפרני , ספלול החורש , סילון קוצני , סומקן מעוצה , סגולית נאה , עיריוני צהוב , פרסיון גדול , פרסטיה מצרית , פשתנית קטנת פרחים + אשקלון + משולשת , פשתה שעירה + צרת עלים , ציפורנית דמשקאית + מצרית + א\"י + נפוחה , צמרורת בואסייה , ציפורני חתול עבות , צבעוני ההרים , קרצף מבורך , קטלב מצוי , קדד משולחף , קצח ריסני , שמשונית הטיפין , שן הארי , שום אשרסון , שרדיניה מוצנית , שפתן מצוי , תלתן מהפוך + תריסני + נאה , תורמוס ההרים + א\"י + צר עלים + שעיר + צהוב ועוד",
+       "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "Iris mariae",
+            "Iris haynei",
+            "Iris hermona",
+             "Salvia viridis",
+              "Salvia dominica",
+               "Alkanna tinctoria",
+               "Lathyrus blepharicarpus",
+             "Ononis natrix",
+              "Lavandula pubescens",
+             "Arabis verna",
+              "Vicia basaltica",
+             "Vicia galilaea",
+             "Vicia narbonensis",
+              "Vicia cypria",
+             "Vicia hybrida",
+             "Helianthemum vesicarium",
+             "Helianthemum ledifolium",
+             "Helianthemum syriacum",
+            "Helianthemum salicifolium",
+               "Narcissus tazetta",
+            "Arabis verna",
+             "Erodium laciniatum",
+               "Erodium tordylioides",
+              "Adonis microcarpa",
+              "Adonis dentata",
+                "Zygophyllum dumosum",
+               "Convolvulus siculus",
+              "Heliotropium europaeum",
+              "Ajuga chamaecistus",
+              "Euphorbia hierosolymitana",
+              "Rumex acetosella",
+             "Onopordum blancheanum",
+            "Glaucium arabicum",
+             "Myosotis ramosissima",
+            "Chrysanthemum coronarium",
+             "Chrysanthemum viscosum",
+              "Chrysanthemum myconis",
+              "Scabiosa prolifera",
+             "Bellis annua",
+             "Bellis sylvestris",
+              "Bellis atlantica",
+             "Lactuca cyanea",
+             "Globularia arabica",
+             "Globularia alypum",
+             "Tordylium syriacum",
+               "Silene dichotoma",
+               "Neatostema apulum",
+             "Carthamus tenuis",
+            "Centaurea cyanoides",
+            "Centaurea iberica",
+            "Centaurea hyalolepis",
+             "Nerium oleander",
+             "Veronica cymbalaria",
+             "Veronica syriaca",
+             "Convolvulus siculus",
+             "Heliotropium europaeum",
+            "Horminum pyrenaicum",
+             "Euphorbia aleppica",
+              "Rumex acetosella",
+                "Onopordum blancheanum",
+               "Glaucium arabicum",
+               "Myosotis ramosissima",
+            "Chrysanthemum coronarium",
+             "Chrysanthemum viscosum",
+             "Chrysanthemum myconis",
+              "Scabiosa prolifera",
+              "Bellis annua",
+            "Bellis sylvestris",
+               "Bellis atlantica",
+            "Lactuca cyanea",
+              "Globularia arabica",
+            "Globularia alypum",
+             "Tordylium syriacum",
+                "Silene dichotoma",
+                 "Neatostema apulum",
+              "Carthamus tenuis",
+            "Centaurea cyanoides",
+             "Centaurea iberica",
+            "Centaurea hyalolepis",
+              "Nerium oleander",
+             "Veronica cymbalaria",
+               "Veronica syriaca",
+             "Convolvulus siculus",
+             "Heliotropium europaeum",
+             "Horminum pyrenaicum",
+              "Euphorbia aleppica",
+             "Rumex acetosella",
+                "Onopordum blancheanum",
+              "Glaucium arabicum",
+                "Myosotis ramosissima",
+            "Chrysanthemum coronarium",
+            "Chrysanthemum viscosum",
+              "Chrysanthemum myconis",
+             "Scabiosa prolifera",
+             "Bellis annua",
+               "Bellis sylvestris",
+            "Bellis atlantica",
+              "Lactuca cyanea",
+             "Globularia arabica",
+               "Globularia alypum",
+             "Tordylium syriacum",
+            "Iris mariae",
+            "Iris haynei",
+             "Iris hermona",
+               "Salvia viridis",
+              "Salvia dominica",
+            "Alkanna tinctoria",
+            "Lathyrus blepharicarpus",
+             "Ononis natrix",
+             "Lavandula pubescens",
+            "Arabis verna",
+               "Vicia basaltica",
+             "Vicia galilaea",
+              "Vicia narbonensis",
+            "Vicia cypria",
+            "Vicia hybrida",
+              "Helianthemum vesicarium",
+           "Helianthemum ledifolium",
+           "Helianthemum syriacum",
+            "Helianthemum salicifolium",
+           "Narcissus tazetta",
+           "Erodium laciniatum",
+           "Erodium tordylioides",
+             "Adonis microcarpa",
+            "Adonis dentata",
+              "Zygophyllum dumosum",
+               "Convolvulus siculus",
+               "Heliotropium europaeum",
+              "Ajuga chamaecistus",
+               "Euphorbia hierosolymitana",
+                "Rumex acetosella",
+               "Onopordum blancheanum",
+               "Glaucium arabicum",
+                "Myosotis ramosissima",
+              "Chrysanthemum coronarium",
+              "Chrysanthemum viscosum",
+              "Chrysanthemum myconis",
+              "Scabiosa prolifera",
+               "Bellis annua",
+              "Bellis sylvestris",
+              "Bellis atlantica",
+                "Lactuca cyanea",
+             "Globularia arabica",
+            "Globularia alypum",
+               "Tordylium syriacum",
+               "Iris mariae",
+            "Iris haynei",
+              "Iris hermona",
+                "Salvia viridis",
+                "Salvia dominica",
+                "Alkanna tinctoria",
+              "Lathyrus blepharicarpus",
+              "Ononis natrix",
+              "Lavandula pubescens",
+              "Arabis verna",
+                "Vicia basaltica",
+              "Vicia galilaea",
+            "Vicia narbonensis",
+              "Vicia cypria",
+             "Vicia hybrida",
+              "Helianthemum vesicarium",
+               "Helianthemum ledifolium",
+              "Helianthemum syriacum",
+            "Helianthemum salicifolium",
+             "Narcissus tazetta",
+           "Erodium laciniatum",
+             "Erodium tordylioides",
+               "Adonis microcarpa",
+                "Adonis dentata",
+                 "Zygophyllum dumosum",
+                "Convolvulus siculus",
+              "Heliotropium europaeum",
+              "Ajuga chamaecistus",
+             "Euphorbia hierosolymitana",
+            "Rumex acetosella",
+                "Onopordum blancheanum",
+                 "Glaucium arabicum",
+                "Myosotis ramosissima",
+               "Chrysanthemum coronarium",
+              "Chrysanthemum viscosum",
+             "Chrysanthemum myconis",
+              "Scabiosa prolifera",
+             "Bellis annua",
+              "Bellis sylvestris",
+            "Bellis atlantica",
+                "Lactuca cyanea",
+            "Globularia arabica",
+             "Globularia alypum",
+               "Tordylium syriacum",
+               "Orchis punctulata",
+                 "Orchis papilionacea",
+              "Arisarum vulgare",
+              "Echinops adenocaulos",
+               "Rhus coriaria",
+               "Viola modesta",
+               "Urospermum picroides",
+            "Gynandriris sisyrinchium",
+             "Reseda arabica",
+              "Linaria parviflora",
+              "Linum pubescens",
+               "Dianthus damascenus",
+               "Dianthus strictus",
+                "Dianthus palaestinus",
+                "Dianthus guttatus",
+                 "Paronychia argentea",
+                 "Calendula arvensis",
+                 "Tulipa montana",
+                "Carlina involucrata",
+                "Arbutus andrachne",
+                "Astragalus cruciatus",
+              "Nigella arvensis",
+                "Gymnarrhena micrantha",
+                "Lathyrus cicera",
+               "Allium aschersonianum",
+                "Sardinia muricata",
+              "Teucrium polium",
+                "Trifolium campestre",
+                "Trifolium resupinatum",
+                "Trifolium boissieri",
+              "Lupinus pilosus",
+               "Lupinus palaestinus",
+               "Lupinus angustifolius",
+                 "Lupinus varius",
+                  "Lupinus luteus"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "07/03/2013",
+      "observer": null,
+      "original_text": "באזור הדבורניות: דבורניות הקטיפה מאות, דברנית צהובה, שפתן, סלסילה מצויה, חימצה שסועה, רקפות, נץ חלב צרפתי, מצליבים, שברק משונץ  ועוד",
+        "locations": [
+           {
+          "location_name":"יער בן-שמן",
+          "flowers":[
+            "Ophrys umbilicata",
+             "Ophrys lutea",
+            "Teucrium polium",
+             "Sarcopoterium spinosum",
+            "Helianthemum stipulatum",
+             "Cyclamen persicum",
+            "Ornithogalum narbonense",
+            "Cruciferae",
+             "Ranunculus bullatus"
+           ],
+            "maps_query_location": "Ben Shemen Forest"
+        }
+       ]
+    }
+  ]
+}
+```

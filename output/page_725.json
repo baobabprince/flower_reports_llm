@@ -1,0 +1,149 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/10/2010",
+      "observer": "אורי שטיין",
+      "original_text": "ביקום מאחרי הברכה\nהתחלת פריחת אחילוף צר עלים וחבצלות קטנות פרחים בשיא.\nגם באודים חבצלות קטנות עלים בשיא",
+      "locations": [
+        {
+          "location_name": "יקום",
+          "flowers": ["אחילוף צר עלים", "חבצלת קטנה"],
+          "maps_query_location": "Yakum"
+        },
+        {
+          "location_name": "אודים",
+           "flowers": ["חבצלת קטנה"],
+          "maps_query_location": "Udim"
+         }
+       ]
+     },
+    {
+      "date": "16/10/2010",
+      "observer": null,
+      "original_text": "חלמונית זעירה פורחת במערת פער",
+       "locations": [
+         {
+          "location_name": "מערת פער",
+          "flowers": ["חלמונית זעירה"],
+          "maps_query_location": "Me'arat Pe'er"
+        }
+      ]
+    },
+    {
+      "date": "15/10/2010",
+      "observer": null,
+       "original_text": "תודה לדורון גרטי ולמורי חן  על הכנת הסירטון",
+       "locations": null
+    },
+     {
+      "date": "13/10/2010",
+      "observer": "מייק",
+      "original_text": "ומתפרסמים רק עכשיו:\n\nארבעה מינים אחרים\nדוקא עכשיו, לקראת סוכות, מבשילים את פירותיהם ארבעה מינים של עוזרר:\n\nעוזרר קוצני, שפירותיו צהובים וטעימים והם חביבים על המטיילים, גדל ברוב אזורי הארץ.\n\nעוזרר סיני, שפירותיו אדומים ומצטלמים נהדר, טעמם בינוני, והוא גדל ברום של 1300 עד 1800 מ' בחרמון.\n\nעוזרר חד-גלעיני, שגם פירותיו אדומים ויפים, טעמם תפל למדי, והוא גדל ביער אודם בצפון הגולן.\n\nועוזרר אדום, שפירותיו אדומים והם גם יפים וגם טעימים, גדל בהר אדיר ובסביבותיו בגליל העליון.\n\nבתיאבון! וגם חג שמח\nמאחל\nמייק\nנראה שהדיווח רלוונטי גם היום",
+      "locations": [
+         {
+          "location_name": "רוב אזורי הארץ",
+          "flowers": ["עוזרר קוצני"],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "חרמון",
+          "flowers": ["עוזרר סיני"],
+           "maps_query_location": "Mount Hermon"
+         },
+          {
+          "location_name": "יער אודם",
+          "flowers": ["עוזרר חד-גלעיני"],
+           "maps_query_location": "Ya'ar Odem"
+         },
+         {
+            "location_name": "הר אדיר",
+            "flowers": ["עוזרר אדום"],
+           "maps_query_location": "Har Adir"
+        },
+        {
+            "location_name": "גליל העליון",
+             "flowers": ["עוזרר אדום"],
+           "maps_query_location": "Upper Galilee"
+        }
+      ]
+    },
+    {
+      "date": "12/10/2010",
+      "observer": "דפנה כרמלי",
+      "original_text": "חבצלת הנגב, חצבים שיא פריחה בואדי רם ב29-30 ספטמבר",
+      "locations": [
+        {
+          "location_name": "ואדי רם",
+          "flowers": ["חבצלת הנגב", "חצב"],
+          "maps_query_location": "Wadi Rum"
+        }
+      ]
+    },
+    {
+      "date": "11/10/2010",
+      "observer": null,
+      "original_text": "העלינו בשבוע שעבר משהו נסיוני ופרימיטיבי - מחפשים מתנדבים להעלות סרטונים קצרצרים על צמחי הבר- אנ אפנו למייל האתר ותודה. צפו והגיבו ",
+       "locations": null
+    },
+    {
+      "date": "11/10/2010",
+      "observer": "אילן טל",
+      "original_text": "פורחים בגן : סתוונית ירושלים ( גוש של כ - 60 פרחים ) + התשבץ , ציפורן משתלשל , בן טיון בשרני , אחילוף צר עלים , חבצלת החוף + קטנת פרחים + הנגב , פשטה שעירה  ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": ["סתוונית ירושלים", "תשבץ", "ציפורן משתלשל", "בן טיון בשרני", "אחילוף צר עלים", "חבצלת החוף", "חבצלת קטנת פרחים", "חבצלת הנגב", "פשטה שעירה"],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "10/10/2010",
+      "observer": null,
+      "original_text": "בשביל הפישגה במירון פורחות חלמוניות והמוני סיתוניות בכירות , בעיקר בסיום השביל.\nבעופרה פורחות סיתווניות ירושלים- סתיו נעים",
+      "locations": [
+        {
+          "location_name": "שביל הפיסגה",
+           "flowers": ["חלמונית", "סתוונית"],
+          "maps_query_location": null
+        },
+         {
+           "location_name": "מירון",
+            "flowers": ["חלמונית", "סתוונית"],
+           "maps_query_location": "Mount Meron"
+         },
+         {
+            "location_name": "עופרה",
+            "flowers": ["סתוונית ירושלים"],
+             "maps_query_location": "Ofra"
+         }
+      ]
+    },
+     {
+      "date": "08/10/2010",
+      "observer": null,
+      "original_text": "בעוד אנו מצפיםם לגשם ולפריחת מבשרי הסתיו , המצבים מלוא העין פורחים ויפרחו עוד שבוע לפחות בחירבת קרתא",
+      "locations": [
+        {
+          "location_name": "חירבת קרתא",
+          "flowers": ["חצב"],
+          "maps_query_location": "Khirbet Karta"
+        }
+      ]
+    },
+     {
+      "date": "08/10/2010",
+      "observer": null,
+      "original_text": "מסרבות לפנות לפורחי הסתיו.\nמאות חבצלות בשיא הפריחה, באי שליד חוף הצפוני.",
+      "locations": [
+        {
+          "location_name": "חוף טנטורא",
+          "flowers": ["חבצלת החוף"],
+          "maps_query_location": "Tantura Beach"
+        }
+      ]
+    }
+  ]
+}
+```

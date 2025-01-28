@@ -1,0 +1,276 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/02/2021",
+      "observer": null,
+      "original_text": "תל-חזקה  \nאביבית בינונית, אליסון חרוטי ,  אלון התולע, ברוניקה לבנה   ",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": [
+            "אביבית בינונית",
+            "אליסון חרוטי",
+            "אלון התולע",
+            "ברוניקה לבנה"
+          ],
+          "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": null,
+      "original_text": "מאגר-בנטל\nאיריס הלבנון, אספרג חד, ברוניקה סורית, ברוניקה קיסוסית, זהבית דמשקאית",
+       "locations": [
+        {
+          "location_name": "מאגר בנטל",
+           "flowers": [
+            "איריס הלבנון",
+            "אספרג חד",
+            "ברוניקה סורית",
+            "ברוניקה קיסוסית",
+             "זהבית דמשקאית"
+          ],
+          "maps_query_location": "Bental Reservoir"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": null,
+      "original_text": "אחו-נוב\nאיריס הביצות , רומוליאה סגלולית, ",
+       "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "איריס הביצות",
+            "רומוליאה סגלולית"
+          ],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": null,
+       "original_text":"ליד מחנה יפתח  \nאיסטיס מצוי , אספסת גלגלית, אספסת הכתרים, אפון מצוי, זמזומית מצויה, חד-שפה מצוי,  חטוטרן מצוי , טופח ריסני, כלנית מצויה, ",
+       "locations": [
+        {
+          "location_name": "מחנה יפתח",
+           "flowers": [
+            "איסטיס מצוי",
+            "אספסת גלגלית",
+            "אספסת הכתרים",
+            "אפון מצוי",
+            "זמזומית מצויה",
+             "חד-שפה מצוי",
+            "חטוטרן מצוי",
+            "טופח ריסני",
+            "כלנית מצויה"
+          ],
+          "maps_query_location": "Camp Yiftah"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "כלניות סגולות וורודות וקדד גדול פרי, ליד רמות מנשה.\nכלניות בשלל צבעים , ועריוני צהוב, בדרך נוף גלעד.",
+      "locations": [
+        {
+          "location_name": "רמות מנשה",
+          "flowers": [
+            "כלנית סגולה",
+            "כלנית ורודה",
+            "קדד גדול פרי",
+            "כלנית",
+            "עריוני צהוב"
+          ],
+          "maps_query_location": "Ramat Menashe"
+        },
+         {
+           "location_name": "דרך נוף גלעד",
+          "flowers": [
+             "כלנית",
+            "עריוני צהוב"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "צבעונים רבים אדומים וכתומים וסחלב פרפרני גדול\nבמדרון הצפון מערבי של גבעת העיזים בחיפה.",
+       "locations": [
+        {
+          "location_name": "גבעת העיזים",
+          "flowers": [
+            "צבעוני אדום",
+             "צבעוני כתום",
+            "סחלב פרפרני"
+          ],
+            "maps_query_location": "Givat HaEzim"
+          },
+           {
+          "location_name": "חיפה",
+          "flowers": [
+            "צבעוני אדום",
+             "צבעוני כתום",
+             "סחלב פרפרני"
+           ],
+          "maps_query_location": "Haifa"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": null,
+      "original_text": "צילומים סמדר נידן ",
+       "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": [
+           "גביעונית הלבנון"
+          ],
+          "maps_query_location": "Beit Keshet Forest"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2021",
+      "observer": null,
+      "original_text": "בין השאר:\nסחלב מצוייר, סחלב פרפרני, סחלב אנטולי, דבורנית צהובה ועוד",
+       "locations": [
+        {
+          "location_name": "דרך נוף הר טורען",
+          "flowers": [
+           "סחלב מצוייר",
+            "סחלב פרפרני",
+            "סחלב אנטולי",
+             "דבורנית צהובה"
+          ],
+           "maps_query_location": "Mount Tur'an scenic route"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2021",
+      "observer": "טל אסף",
+       "original_text": "צילומים טל אסף ",
+       "locations": [
+        {
+          "location_name": "מחלף גולני",
+            "flowers": [],
+            "maps_query_location": "Golani Interchange"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2021",
+      "observer": "אלינור",
+      "original_text": "רקפות, כלניות, כרמלית נאה ועירית גדולה בין עצי היער.\nהפרחים מסתתרים בין עצי היער.\nגם אם לא תמצאו הרבה, זה אחד היערות היפים שראיתי. פשוט טיילו בין העצים - מקום קסום ליד הישוב בת שלמה.",
+      "locations": [
+        {
+          "location_name": "יער קרן כרמל",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+             "כרמלית נאה",
+            "עירית גדולה"
+          ],
+          "maps_query_location": "Keren Carmel Forest"
+        },
+         {
+          "location_name": "בת שלמה",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+            "כרמלית נאה",
+            "עירית גדולה"
+          ],
+           "maps_query_location": "Bat Shlomo"
+        }
+      ]
+    },
+    {
+       "date": "13/02/2021",
+      "observer": "אלינור",
+      "original_text": "המוני כלניות אדומות וסגולות ורקפות ",
+       "locations": [
+        {
+          "location_name": "פארק חגית",
+          "flowers": [
+            "כלנית אדומה",
+            "כלנית סגולה",
+            "רקפת"
+          ],
+          "maps_query_location": "Hagit Park"
+        }
+      ]
+    },
+     {
+       "date": "13/02/2021",
+      "observer": "עידו מגן",
+       "original_text": "ב-12.2 פריחה עשירה של שקדיות, רקפות וכלניות לאורך נחל חלילים, וליד שרידי הכפר ליפתא. כלניות יש בעיקר בחלק הדרומי של ליפתא שקרוב לגן המשחקים של עמק הארזים ",
+       "locations": [
+        {
+           "location_name":"נחל חלילים",
+          "flowers": [
+            "שקדייה",
+            "רקפת",
+            "כלנית"
+           ],
+          "maps_query_location": "Nahal Halilim"
+        },
+        {
+          "location_name": "ליפתא",
+             "flowers": [
+            "שקדייה",
+             "רקפת",
+            "כלנית"
+            ],
+            "maps_query_location":"Lifta"
+         },
+          {
+          "location_name": "עמק הארזים",
+              "flowers": [
+            "כלנית"
+           ],
+          "maps_query_location": "Emek HaArazim"
+         }
+      ]
+    },
+    {
+      "date": "13/02/2021",
+      "observer": "עידו מגן",
+       "original_text":"לאורך שני הכבישים הללו שקדיות במגוון צבעים בשיא הפריחה וכלילי חורש בתחילתה; לצידי הכביש על העשב הרבה רקפות, כלניות ובמקומות מסוימים גם עיריות. ",
+       "locations": [
+        {
+          "location_name": "כביש 395",
+          "flowers": [
+            "שקדייה",
+            "כליל החורש",
+            "רקפת",
+             "כלנית",
+            "עירית"
+            ],
+           "maps_query_location": null
+          },
+        {
+          "location_name": "כביש 386",
+           "flowers": [
+            "שקדייה",
+             "כליל החורש",
+             "רקפת",
+            "כלנית",
+             "עירית"
+            ],
+             "maps_query_location": null
+         }
+      ]
+    }
+  ]
+}
+```

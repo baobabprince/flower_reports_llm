@@ -1,0 +1,200 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/02/2018",
+      "observer": null,
+      "original_text": "בהרי ירושלים בחניון הר יעלה , ליד מעיין צבי ובחוף הבונים (בכמויות)",
+       "locations": [
+        {
+          "location_name": "הרי ירושלים",
+          "flowers": ["צבעוני"],
+           "maps_query_location": "Jerusalem Mountains"
+        },
+        {
+          "location_name": "חניון הר יעלה",
+           "flowers": ["צבעוני"],
+            "maps_query_location":"Har Ya'aleh Parking Lot"
+        },
+        {
+          "location_name": "מעיין צבי",
+           "flowers": ["צבעוני"],
+           "maps_query_location": "Ma'ayan Zvi"
+        },
+         {
+          "location_name": "חוף הבונים",
+           "flowers": ["צבעוני"],
+            "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2018",
+      "observer": null,
+      "original_text": "כבר פורחים בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["סחלב מצויר"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2018",
+      "observer": "אהרן בורגנסקי",
+      "original_text": "החלה פריחת צבעונים בחניון הדס בהר יעלה",
+      "locations": [
+        {
+           "location_name": "חניון הדס",
+            "flowers": ["צבעוני"],
+            "maps_query_location":"Hadass Parking Lot"
+        },
+         {
+          "location_name": "הר יעלה",
+          "flowers": ["צבעוני"],
+           "maps_query_location": "Har Ya'aleh"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2018",
+      "observer": null,
+      "original_text": "בנחל נריה יש פריחת כלניות נהדרת - באיזור שליד חורבת חוממה ובתחתיתו - קרוב למפגש עם נחל מורן ישנם כמה מרבדים יפים.",
+      "locations": [
+        {
+          "location_name": "נחל נריה",
+          "flowers": ["כלנית"],
+           "maps_query_location":"Nahal Neriya"
+        },
+        {
+          "location_name": "חורבת חוממה",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Hurvat Humama"
+        },
+         {
+          "location_name": "נחל מורן",
+           "flowers": ["כלנית"],
+            "maps_query_location": "Nahal Moran"
+        }
+      ]
+    },
+     {
+      "date": "13/02/2018",
+      "observer": null,
+      "original_text": "הן כאן פורחות בבוסתני גמוז  ובתל גמזו פריחה מדהימה ( אם הגשם לא החריב אותה...)",
+       "locations": [
+        {
+          "location_name": "בוסתני גמוז",
+           "flowers": ["שקד"],
+           "maps_query_location":"Bustanei Gamzu"
+        },
+         {
+           "location_name": "תל גמזו",
+            "flowers": ["שקד"],
+            "maps_query_location":"Tel Gamzu"
+         }
+      ]
+    },
+    {
+      "date": "13/02/2018",
+       "observer": null,
+      "original_text": "כרוב החוף, קידה שעירה, בקיה תרבותית, עשננים, תורמוס ארצישראלי, כלניות ופרגים והכוכב מלבד איירס הארגמן : אזוביון דגול.",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "כרוב החוף",
+            "קידה שעירה",
+            "בקיה תרבותית",
+            "עשנן",
+            "תורמוס ארצישראלי",
+            "כלנית",
+            "פרג",
+            "אזוביון דגול"
+          ],
+            "maps_query_location": "Nes Ziona"
+        },
+         {
+          "location_name": "גבעות הכורכר",
+           "flowers": [
+            "כרוב החוף",
+            "קידה שעירה",
+            "בקיה תרבותית",
+            "עשנן",
+            "תורמוס ארצישראלי",
+             "כלנית",
+            "פרג",
+            "אזוביון דגול"
+          ],
+           "maps_query_location": "Kurkar Hills"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2018",
+      "observer": "משה קופרברג",
+      "original_text": "יש שטיחי רקפות וכלניות מכל הצבעים באתר \"בית שערים\". רצוי גם לשלב עם הביקור במקום. מומלץ בחום.",
+      "locations": [
+        {
+          "location_name": "בית שערים",
+          "flowers": ["רקפת", "כלנית"],
+           "maps_query_location":"Beit She'arim"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2018",
+      "observer": "חנוך אלרואי",
+      "original_text": "מערות אפקה -אירוס ארגמן גן נח נפתולסקי - אירוס ארגמן (בכניסה), שחום (באזור המדבר) גלבוע , שחום ואחרים בתהליך שתילה בגריגה. כולם פורחים",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+          "flowers": ["אירוס ארגמן"],
+           "maps_query_location":"Afeqa Caves"
+        },
+        {
+          "location_name": "גן נח נפתולסקי",
+           "flowers": ["אירוס ארגמן", "אירוס שחום"],
+            "maps_query_location": "Gan Nah Naftulski"
+        },
+          {
+          "location_name": "גלבוע",
+           "flowers": ["אירוס שחום"],
+            "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+      "date": "12/02/2018",
+      "observer": "חיים",
+       "original_text": "מאחורי תחנת הדלק פז ליד מושב מסילת ציון יש גבעה מלאה הרקפות פורחות. היינו ביילו לקחנו קפה ויצאנו לטיול רגלי בין הרקפות שפורחות מאחורי התחנה לכיוון מושב מסילת ציון - מומלץ",
+      "locations": [
+         {
+          "location_name": "מסילת ציון",
+           "flowers": ["רקפת"],
+           "maps_query_location": "Mesilat Zion"
+         }
+      ]
+    },
+      {
+      "date": "12/02/2018",
+      "observer": null,
+      "original_text": "שום תל-אביבי , דבורנית דינסמור  זהבית דמשקאית, חומעת ראש הסוס  חלבלוב החוף",
+      "locations": [
+       {
+          "location_name": "גברעם הישנה",
+          "flowers": [
+            "שום תל-אביבי",
+            "דבורנית דינסמור",
+            "זהבית דמשקאית",
+            "חומעת ראש הסוס",
+            "חלבלוב החוף"
+          ],
+          "maps_query_location": "Gvar'am HaYeshana"
+       }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/08/2019",
+      "observer": "שמחה הורטמן",
+      "original_text": "פריחת חצבים וחבצלת החוף בפארק לאומי אשקלון",
+       "locations": [
+        {
+          "location_name": "פארק לאומי אשקלון",
+          "flowers": ["חצב", "חבצלת החוף"],
+          "maps_query_location": "Ashkelon National Park"
+         }
+       ]
+    },
+    {
+      "date": "23/08/2019",
+      "observer": "מרים שלום",
+      "original_text": "פריחת חצבים החלה בתל חפר",
+       "locations": [
+        {
+          "location_name": "תל חפר",
+          "flowers": ["חצב"],
+           "maps_query_location": "Tel Hefer"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2019",
+      "observer": null,
+      "original_text": "עיינות נחל בזלת: טופח חכלילי, דבקה שרועה  \nנחל שניר: פרע מחודד, עפעפית שרועה, סמר הפרקים, קוצן פשוט, מסופקת, אשבל נאה, בוצין טברייני ,   \nדולינת ושמורת -האיסם: מררית סמורה, שלמון כוכבני, מלחית מאפירה, כלך דו-דורי, גפוף החרמון , בן-חרצית דק-עלה, איסם קטן-פרחים, חסת השבטים       \nשמורת-אורטל  גולן: ספלילה מצויה , גומא חום",
+      "locations": [
+        {
+          "location_name": "נחל בזלת",
+          "flowers": ["טופח חכלילי", "דבקה שרועה"],
+          "maps_query_location": "Nahal Bazalt"
+        },
+        {
+           "location_name": "נחל שניר",
+           "flowers": ["פרע מחודד", "עפעפית שרועה", "סמר הפרקים", "קוצן פשוט", "מסופקת", "אשבל נאה", "בוצין טברייני"],
+           "maps_query_location": "Nahal Snir"
+        },
+         {
+           "location_name": "שמורת האיסם",
+            "flowers": ["מררית סמורה", "שלמון כוכבני", "מלחית מאפירה", "כלך דו-דורי", "גפוף החרמון", "בן-חרצית דק-עלה", "איסם קטן-פרחים", "חסת השבטים"],
+            "maps_query_location": "Dolev Nature Reserve"
+          },
+        {
+          "location_name": "שמורת אורטל",
+          "flowers": ["ספלילה מצויה", "גומא חום"],
+           "maps_query_location": "Ortal Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "20/08/2019",
+      "observer": null,
+      "original_text": "בהפרדה ביו המסלולים בכביש 6",
+      "locations": [
+         {
+          "location_name": "כביש 6",
+           "flowers": ["חצב"],
+           "maps_query_location": "Highway 6"
+         }
+      ]
+    },
+    {
+      "date": "19/08/2019",
+       "observer": null,
+      "original_text": "דבקה שרועה הוכרז כצמח שנכחד מהארץ, לא נצפה זה עשרות שנים.\nמצאתי אותו ב-31.7.19, לא היה ברור אם מדובר בפואה, דבקה או חספסנית.\nלאחר ביקור חוזר ב-14.8.19 ולאחר שעיין בפלורה התורכית, זלמן באומוול, זיהה את הצמח כדבקה שרועה.\nדיווחי עבר תיעדו את הצמח ליד יריחו (1908) ובדרום לבנון (1929), ומאז - דממה.\nברוכה השבה - דבקה שרועה!",
+       "locations": [
+        {
+           "location_name": "עינות בזלת",
+            "flowers": ["דבקה שרועה"],
+           "maps_query_location": "Einot Bazalt"
+         },
+         {
+           "location_name": "רמת הגולן",
+           "flowers": ["דבקה שרועה"],
+           "maps_query_location": "Golan Heights"
+         },
+           {
+           "location_name": "יריחו",
+            "flowers": ["דבקה שרועה"],
+           "maps_query_location": "Jericho"
+           },
+          {
+           "location_name": "דרום לבנון",
+             "flowers":["דבקה שרועה"],
+           "maps_query_location": "South Lebanon"
+          }
+       ]
+    },
+     {
+      "date": "18/08/2019",
+      "observer": null,
+      "original_text": "כבר מעלים שרביטים : במצפה רמון , בשער פולג ועוד \nדווחו לנו על פריחוות של חצבים !!!",
+      "locations": [
+          {
+          "location_name": "מצפה רמון",
+          "flowers": ["חצב"],
+          "maps_query_location": "Mitzpe Ramon"
+         },
+        {
+          "location_name": "שער פולג",
+          "flowers": ["חצב"],
+          "maps_query_location": "Sha'ar Poleg"
+         }
+      ]
+    },
+     {
+      "date": "16/08/2019",
+      "observer": null,
+      "original_text": "גן רנה סמילנסקי רחובות 5 חצבים",
+       "locations": [
+          {
+           "location_name": "גן רנה סמילנסקי רחובות",
+           "flowers": ["חצב"],
+           "maps_query_location": "Rehovot"
+          }
+       ]
+    },
+    {
+      "date": "14/08/2019",
+      "observer": "אילת בר",
+      "original_text": "חצבים ראשונים ב\"סורגום\" בגבעת עדה.",
+      "locations": [
+        {
+          "location_name": "גבעת עדה",
+          "flowers": ["חצב"],
+           "maps_query_location":"Givat Ada"
+        }
+      ]
+    },
+    {
+       "date": "13/08/2019",
+       "observer": "ליאת אדמוני",
+       "original_text": "פריחת חמניות ברחוב צהל בואדי של ערוץ הנחל סמוך למשטרה",
+        "locations": [
+          {
+            "location_name": "רחוב צהל",
+            "flowers": ["חמנית בר"],
+             "maps_query_location": "Rehov Tza'al"
+          }
+        ]
+    },
+    {
+      "date":"10/08/2019",
+      "observer":"שושנה עקיבא",
+      "original_text":"מבקשת לדווח על חמנית בר ברחוב ההרדוף בסוף הרחוב בעפולה עילית",
+      "locations":[
+        {
+           "location_name":"רחוב ההרדוף",
+           "flowers":["חמנית בר"],
+           "maps_query_location": "Rehov HaHarduf"
+        },
+         {
+            "location_name":"עפולה עילית",
+           "flowers":["חמנית בר"],
+           "maps_query_location":"Upper Afula"
+          }
+       ]
+    }
+  ]
+}
+```

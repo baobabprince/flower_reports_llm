@@ -1,0 +1,199 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/01/2022",
+      "observer": null,
+      "original_text": "מצוקי מבוא-חמה\nשקד קטן-עלים, רקפת מצויה, כרכום גיארדו, חלמונית גדולה, כדן סגול ,\nאבני איתן\nמשקפיים מצויים , כתמה עבת-שורשים , כרכום גיארדו \nרמת דלתון \nכרכום צהבהב , נץ-חלב איזמלני , סתוונית קצרת-עלים \nנחל מיצר: איריס הסרגל\nבעליה לסוסיתא\nבצלציה ארצישראלית ",
+      "locations": [
+        {
+          "location_name": "מצוקי מבוא חמה",
+          "flowers": [
+            "שקד קטן-עלים",
+            "רקפת מצויה",
+            "כרכום גיארדו",
+            "חלמונית גדולה",
+            "כדן סגול"
+          ],
+          "maps_query_location": "Mevo Hama"
+        },
+        {
+          "location_name": "אבני איתן",
+           "flowers": [
+            "משקפיים מצויים",
+            "כתמה עבת-שורשים",
+            "כרכום גיארדו"
+          ],
+          "maps_query_location": "Avnei Eitan"
+        },
+         {
+          "location_name": "רמת דלתון",
+           "flowers": [
+            "כרכום צהבהב",
+            "נץ-חלב איזמלני",
+            "סתוונית קצרת-עלים"
+          ],
+          "maps_query_location": "Ramat Dalton"
+        },
+         {
+          "location_name": "נחל מיצר",
+          "flowers": ["איריס הסרגל"],
+          "maps_query_location": "Nahal Meitzar"
+        },
+        {
+           "location_name":"סוסיתא",
+           "flowers": ["בצלציה ארצישראלית"],
+           "maps_query_location":"Susita"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2022",
+      "observer": "ערן ברק",
+      "original_text": "כלניות אדומות פורחות במאגרי מנשה , על שפת בריכת השיקוע הדרומית ביותר",
+      "locations": [
+        {
+          "location_name": "מאגרי מנשה",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Menashe Reservoirs"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2022",
+      "observer": "דרור בר-ניר",
+       "original_text": "נרקיסים מצויים, רקפות,  טיון דביק,  עירית גדולה  וזלזלת הקנוקנות",
+      "locations": [
+         {
+          "location_name": "עין שריג",
+          "flowers": [
+            "נרקיס מצוי",
+            "רקפת",
+            "טיון דביק",
+            "עירית גדולה",
+             "זלזלת הקנוקנות"
+          ],
+          "maps_query_location": "Ein Sharig"
+        },
+        {
+           "location_name": "ירושליפ",
+            "flowers": [
+            "נרקיס מצוי",
+            "רקפת",
+            "טיון דביק",
+            "עירית גדולה",
+             "זלזלת הקנוקנות"
+          ],
+          "maps_query_location": "null"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2022",
+      "observer": "רון הראל",
+      "original_text": "נרקיסים בתחילת פריחה בנחל חצץ. יפרוק מדברי זוגן השיח, אשבל מצרי, מתנן שעיר, עדעד מאובק והמון ווריאציות של טחבים מדהימים.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס",
+            "יפרוק מדברי",
+            "זוגן השיח",
+            "אשבל מצרי",
+            "מתנן שעיר",
+            "עדעד מאובק"
+          ],
+          "maps_query_location": "Nahal Hatzatz"
+        },
+         {
+          "location_name": "נחל דרוך",
+            "flowers": [
+            "נרקיס",
+            "יפרוק מדברי",
+            "זוגן השיח",
+            "אשבל מצרי",
+            "מתנן שעיר",
+            "עדעד מאובק"
+          ],
+          "maps_query_location": "Nahal Darokh"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2022",
+      "observer": null,
+      "original_text": "בדרך ליער שוהם , בשטח החשוף לשמש ",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+          "flowers": ["כלנית לבנה", "כלנית ורודה"],
+           "maps_query_location": "Shoham Forest"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2022",
+      "observer": null,
+      "original_text": "מצפון לגבעת הפריחה בשמורת הבונים ",
+      "locations": [
+        {
+          "location_name": "שמורת הבונים",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Habonim Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "31/12/2021",
+      "observer": null,
+       "original_text": "הנרקיסים פורחים.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "31/12/2021",
+      "observer": "עמיר פז",
+      "original_text": "שרוכנית א\"י החלה לפרוח בגן, וגם קחוון קצר פירות שהתבלבל",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "שרוכית א\"י",
+             "קחוון קצר-פירות"
+          ],
+          "maps_query_location": "null"
+        }
+      ]
+    },
+     {
+      "date": "30/12/2021",
+      "observer": "אבינועם כפתורי",
+      "original_text": "פריחת נרקיסים במקבצים גדולים בביתן אהרון ,סמוך לכביש 2.",
+      "locations": [
+        {
+          "location_name": "ביתן אהרון",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Beitan Aharon"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2021",
+      "observer": null,
+       "original_text": "ביער לביא כבר פורחים מרבדי רקפות , צאו לצלם היזהרו שלא לרמוס אותן ",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Lavi Forest"
+        }
+      ]
+    }
+  ]
+}
+```

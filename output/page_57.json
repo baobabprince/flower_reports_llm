@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/10/2023",
+      "observer": null,
+      "original_text": "בשביל הפיסגה במירון . קבלו מסלול הקישור למטה. חכו עוד שבוע וצאו לשם",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": ["סתוונית בכירה"],
+           "maps_query_location": "Meron"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2023",
+      "observer": null,
+      "original_text": "פריחת כנפון זהוב לארוך כביש 222\nבעיקר באזור קיבוץ צאלים.\nמאוד דומה לחרצית (אבל זה לא חרצית).",
+      "locations": [
+         {
+          "location_name": "צאלים",
+          "flowers": ["כנפון זהוב"],
+          "maps_query_location": "Tze'elim"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2023",
+      "observer": "ניר גבע",
+      "original_text": "בנחל יבנה",
+       "locations": [
+        {
+          "location_name": "נחל יבנה",
+          "flowers": ["דטורה זקופת פרי"],
+          "maps_query_location": "Nahal Yavne"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2023",
+      "observer": null,
+      "original_text": "בתל יודפת , ראו צילום",
+       "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2023",
+      "observer": null,
+      "original_text": "פורחים בהמוניהם על אמת המים בחוף האקוודוקט בקיסריה  מחזה מרהיב",
+      "locations": [
+         {
+          "location_name": "קיסריה",
+           "flowers":["חבצלת החוף"],
+           "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2023",
+      "observer": null,
+      "original_text": "בגבעת החצבים מדרום לעזריקם",
+      "locations": [
+        {
+          "location_name": "גבעת החצבים",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Giv'at HaHatzavim"
+        },
+         {
+          "location_name": "עזריקם",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Azrikam"
+        }
+      ]
+    },
+     {
+      "date": "23/09/2023",
+      "observer": null,
+      "original_text": "חנק מחודד , חצב מצוי , כף זאב אירופית , ניידת החוף , מלוח קיפח",
+       "locations": [
+        {
+          "location_name": "ג'סר א-זרקא",
+           "flowers": ["חנק מחודד", "חצב מצוי", "כף זאב אירופית", "ניידת החוף", "מלוח קיפח"],
+           "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2023",
+      "observer": null,
+      "original_text": "פורח שום סתווי הנדיר",
+      "locations": [
+        {
+          "location_name": "חניון הרקפות",
+           "flowers": ["שום סתווי"],
+           "maps_query_location": "H̱anyon HaRaqafot"
+        },
+        {
+            "location_name": "כרמל",
+             "flowers": ["שום סתווי"],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+     {
+      "date": "23/09/2023",
+      "observer": null,
+       "original_text": "חנק מחודד , חצב מצוי , כף זאב אירופית , ניידת החוף , מלוח קיפח",
+      "locations": [
+        {
+          "location_name": "קיבוץ העוגן",
+          "flowers": ["חנק מחודד", "חצב מצוי", "כף זאב אירופית", "ניידת החוף", "מלוח קיפח"],
+          "maps_query_location": "HaOgen"
+        }
+      ]
+    },
+    {
+      "date":"23/09/2023",
+      "observer": null,
+      "original_text": "אנודה מצוייצת , בוען מצולע , היביסקוס משולש (פרי), חלבלוב קעור , לפופית משולשת, פטל קדוש (פירות בשלים), גומא חום ´ גומא ריחני , דגנה הודית , חומעה משוננת ´ כף-אווז ריחנית, לוביה מצרית , עוקץ-עקרב ריחני ,  שנית גדולה",
+       "locations": [
+        {
+          "location_name": "גן שמואל",
+           "flowers": ["אנודה מצוייצת", "בוען מצולע", "היביסקוס משולש", "חלבלוב קעור", "לפופית משולשת", "פטל קדוש", "גומא חום", "גומא ריחני", "דגנה הודית", "חומעה משוננת", "כף אווז ריחנית", "לוביה מצרית", "עוקץ עקרב ריחני", "שנית גדולה"],
+           "maps_query_location": "Gan Shmuel"
+         },
+         {
+          "location_name": "באר צ'קרס",
+          "flowers": ["אנודה מצוייצת", "בוען מצולע", "היביסקוס משולש", "חלבלוב קעור", "לפופית משולשת", "פטל קדוש", "גומא חום", "גומא ריחני", "דגנה הודית", "חומעה משוננת", "כף אווז ריחנית", "לוביה מצרית", "עוקץ עקרב ריחני", "שנית גדולה"],
+          "maps_query_location": "Be'er Chakra"
+        }
+       ]
+    }
+  ]
+}
+```

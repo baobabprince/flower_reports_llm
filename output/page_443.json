@@ -1,0 +1,193 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/01/2017",
+      "observer": null,
+      "original_text": "פריחת נרקיסים יפה  באחו בוב.",
+      "locations": [
+        {
+          "location_name": "אחו בוב",
+          "flowers": [
+            "Narcissus"
+          ],
+          "maps_query_location": "Ahu Bov"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2017",
+      "observer": null,
+      "original_text": "בהר תורען",
+      "locations": [
+        {
+          "location_name": "הר תורען",
+          "flowers": [
+            "Hyacinthus orientalis"
+          ],
+           "maps_query_location": "Har Tur'an"
+        }
+      ]
+     },
+    {
+      "date": "13/01/2017",
+       "observer": "יחיאל אוקנין",
+      "original_text": "דודוא רפואי ,איריס הסרגל ( עדיין) דבורנית , איריס א\"י כלנית אדומה ועוד , ראו בקישור",
+      "locations": [
+         {
+          "location_name": "הכרמל",
+          "flowers": [
+            "Mandragora autumnalis",
+            "Iris planifolia",
+             "Ophrys",
+            "Iris palaestina",
+             "Anemone coronaria"
+          ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2017",
+      "observer": null,
+      "original_text": "דלה מאוד . פורחים רק זלזלת הקנוקנות, מעט דודא רפואי ומעט חיננית הבתה. איריס א\"י תחילת פריחה. רומוליאה צידונית שבד\" כבר פורחת בינואר עדיין לא פורחת השנה",
+      "locations": [
+        {
+          "location_name": "יערות הכרמל",
+          "flowers": [
+            "Clematis cirrhosa",
+            "Mandragora autumnalis",
+            "Bellis sylvestris",
+            "Iris palaestina",
+             "Romulea phoenicea"
+          ],
+          "maps_query_location": "Carmel Forest"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2017",
+      "observer": null,
+       "original_text": "בנחל שיח ליד הנביעה שליד החווה, במפנה צפוני רובם עדיין לא פורחים",
+      "locations": [
+        {
+          "location_name": "נחל שיח",
+          "flowers": [
+             "Euphorbia hierosolymitana"
+          ],
+          "maps_query_location": "Nahal Shiah"
+        },
+         {
+          "location_name": "הנביעה",
+          "flowers": [
+             "Euphorbia hierosolymitana"
+          ],
+          "maps_query_location": "HaNevia"
+        },
+         {
+          "location_name": "החווה",
+          "flowers": [
+             "Euphorbia hierosolymitana"
+          ],
+           "maps_query_location": "The Farm"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2017",
+      "observer": null,
+      "original_text": "ביער בן-שמן במקומות המוכרים , בכמות די יפה , לעומת הכרמל בו כמעט ואין פריחה בימים אלה",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "Cyclamen persicum"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "הכרמל",
+          "flowers": [],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+        {
+      "date": "13/01/2017",
+       "observer": null,
+      "original_text": "אכסף מבריק, זהבית שרונית,  ובצלציה א\"י פורחים בגח הנדירים בגעש",
+       "locations": [
+        {
+          "location_name": "גן הנדירים בגעש",
+          "flowers": [
+            "Paronychia argentea",
+             "Sternbergia clusiana",
+             "Prospero autumnale"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2017",
+      "observer": null,
+      "original_text": "נרקייסם, כתמה עבת -שורשים, רקפות, נף-חלב הררי, דודא רפואי זוטה לבנה",
+      "locations": [
+        {
+          "location_name": "יער המגינים",
+           "flowers": [
+            "Narcissus",
+             "Sarcopoterium spinosum",
+            "Cyclamen persicum",
+             "Ornithogalum montanum",
+             "Mandragora autumnalis"
+          ],
+          "maps_query_location": "HaMaginim Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2017",
+      "observer": null,
+       "original_text": "ביער בן-שמן, בגבעת הרקפות בגלעד וביערות ישראל",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+            "flowers": [
+            "Cyclamen persicum"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+         },
+         {
+          "location_name": "גבעת הרקפות בגלעד",
+          "flowers": [
+            "Cyclamen persicum"
+           ],
+           "maps_query_location": "Givat HaRkefot"
+        },
+          {
+          "location_name": "יערות ישראל",
+          "flowers": [
+             "Cyclamen persicum"
+          ],
+           "maps_query_location": "Israel Forests"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2017",
+      "observer": null,
+      "original_text": "בפי גלילות ראו בקישור",
+      "locations": [
+         {
+          "location_name": "פי גלילות",
+          "flowers": [
+             "Narcissus"
+          ],
+           "maps_query_location": "Pi Glilot"
+        }
+      ]
+    }
+  ]
+}
+```

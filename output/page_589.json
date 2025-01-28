@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/10/2013",
+      "observer": "עירית",
+      "original_text": "חלמוניות גדולות ראשונות בנחל מחניים. במצוקי דלתון רקפות בלי עלים, עלים בלי רקפות וגם רקפות עם עלים.",
+      "locations": [
+        {
+          "location_name": "נחל מחניים",
+          "flowers": ["חלמונית גדולה", "רקפת"],
+           "maps_query_location": "Nahal Mahanayim"
+        },
+         {
+          "location_name": "מצוקי דלתון",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Dalton Cliffs"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2013",
+      "observer": "דרור בר-ניר",
+      "original_text": "סתווניות ירושלים, בן חצב סתווני, כתלה חריפה, ארכובית שבטבטית, טיון דביק, שומר פשוט, עכנאי",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+          "flowers": ["סתוונית ירושלים", "בן חצב סתווני", "כתלה חריפה", "ארכובית שבטבטית", "טיון דביק", "שומר פשוט", "עכנאי"],
+           "maps_query_location": "Valley of the Cross"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2013",
+       "observer": "דרור בר-ניר",
+      "original_text": "jחלמוניות ראשונות פורחות בוואדי. - ממש בודדות . \nמלבדן: כתלה חריפה וציפורן נקוד.",
+       "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+           "flowers": ["חלמונית", "כתלה חריפה", "ציפורן נקוד"],
+          "maps_query_location": "Maaleh Rehavam"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2013",
+      "observer": null,
+      "original_text": "חלמונית גדולה, אחילוף קטן, סיתוונית בכירה - סוף, כרכום נאה,",
+        "locations": [
+        {
+          "location_name": "שביל הפיסגה במירון",
+           "flowers": ["חלמונית גדולה", "אחילוף קטן", "סתוונית בכירה", "כרכום נאה"],
+            "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+     {
+      "date": "23/10/2013",
+      "observer": null,
+      "original_text": "פורחים בגן : חלמונית גדולה+צהובה,שום סתווי,בן חצב סתווני,נענת המים,גולנית ערב,סתוונית התשבץ,ובוציץ סוככני",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": ["חלמונית גדולה", "שום סתווי", "בן חצב סתווני", "נענת המים", "גולנית ערב", "סתוונית התשבץ", "בוציץ סוככני"],
+           "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    },
+    {
+      "date": "22/10/2013",
+      "observer": "שמיל קליין",
+       "original_text": "ברוג'ום אל הירי פרטים ראשונים של אחילוף החורן",
+      "locations": [
+        {
+           "location_name": "רוג'ום אל הירי",
+           "flowers": ["אחילוף החורן"],
+            "maps_query_location": "Rujm el-Hiri"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2013",
+      "observer": "אילן טל",
+      "original_text": "פורחים : בן חצב סתווי , חלמונית צהובה , \nכרכום נאה + דמשקאי , סתוונית בכירה ועוד .",
+       "locations": [
+        {
+           "location_name": "גן איריס",
+           "flowers": ["בן חצב סתווי", "חלמונית צהובה", "כרכום נאה", "כרכום דמשקאי", "סתוונית בכירה"],
+            "maps_query_location": "Iris Garden"
+        },
+         {
+          "location_name": "גן בוטני",
+          "flowers": ["בן חצב סתווי", "חלמונית צהובה", "כרכום נאה", "כרכום דמשקאי", "סתוונית בכירה"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "כפר יהושע",
+           "flowers": ["בן חצב סתווי", "חלמונית צהובה", "כרכום נאה", "כרכום דמשקאי", "סתוונית בכירה"],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "22/10/2013",
+      "observer": "שמיל קליין",
+      "original_text": "חלמוניות- התחלה, במצוק מבוא חמה \nרקפות בודדות ללא עלים.\nאחו נוב: התחלת פריחה של סתונית ירושלים - 10 פרטים",
+        "locations": [
+        {
+          "location_name": "מצוק מבוא חמה",
+           "flowers": ["חלמונית", "רקפת"],
+            "maps_query_location": "Me'o Hama Cliff"
+        },
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["סתונית ירושלים"],
+            "maps_query_location": "Nov Meadow"
+        }
+      ]
+    },
+     {
+      "date": "20/10/2013",
+       "observer": "שמיל קליין",
+      "original_text": "שביל גולן בנחל גובתא עליון פורחים:\nכרכום החרמון, סתוונית בכירה, סתוונית היורה, עפרית ארופית, מקור חסידה (רומאי)\n16/10/13",
+       "locations": [
+        {
+          "location_name": "נחל גובתא עליון",
+          "flowers": ["כרכום החרמון", "סתוונית בכירה", "סתוונית היורה", "עפרית ארופית", "מקור חסידה"],
+          "maps_query_location": "Nahal Govta"
+        }
+      ]
+    },
+    {
+       "date": "20/10/2013",
+       "observer": null,
+       "original_text": "נמצאו פרטים בודדים בתחילת הפריחה ברמה ובצמוד לגנים",
+       "locations": [
+        {
+           "location_name": "רמת הנדיב",
+           "flowers": ["בן חצב סתווני"],
+           "maps_query_location":"Ramat Hanadiv"
+        }
+      ]
+    }
+  ]
+}
+```

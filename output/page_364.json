@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/03/2018",
+      "observer": "דרור בר-ניר",
+      "original_text": "הרבה נוריות מים, צהרון מצוי, עכנאי יהודה, אפון מצוי, טופח ריסני, תלתן תריסני, תלתן הפוך. מרבדי קחוונים, חד שפה מצוי, שום משולש, לחך מצוי, שום משולש, מרווה משולשת, מסרק מזרחי, איסטיס מצוי, מוצית קוצנית, חלמית מצויה, ועוד....",
+      "locations": [
+        {
+          "location_name": "בריכת צרטה",
+          "flowers": [
+            "נורית המים",
+            "צהרון מצוי",
+            "עכנאי יהודה",
+            "אפון מצוי",
+            "טופח ריסני",
+            "תלתן תריסני",
+            "תלתן הפוך",
+            "קחוון",
+            "חד שפה מצוי",
+             "שום משולש",
+            "לחך מצוי",
+             "מרווה משולשת",
+            "מסרק מזרחי",
+            "איסטיס מצוי",
+             "מוצית קוצנית",
+            "חלמית מצויה"
+          ],
+           "maps_query_location": "בריכת צרטה"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2018",
+      "observer": null,
+      "original_text": "יש כבר עשרות פרחים בשמורת אירוס ירוחם.",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+          "flowers": ["אירוס ירוחם"],
+          "maps_query_location":"Iris Yeruham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2018",
+       "observer": null,
+      "original_text": "במלכישוע ובגלבוע",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+          "flowers": ["איריס הגלבוע"],
+          "maps_query_location":"Malkishua"
+        },
+        {
+          "location_name": "גלבוע",
+          "flowers": ["איריס הגלבוע"],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+      {
+      "date": "04/03/2018",
+       "observer": null,
+      "original_text": "ראו אלבום של אראלה הרי",
+       "locations": [
+        {
+          "location_name": "מערב הנגב",
+           "flowers": null,
+           "maps_query_location": "Western Negev"
+        }
+      ]
+      },
+    {
+      "date": "04/03/2018",
+      "observer": "משה קופרברג",
+      "original_text": "אתמול היינו באתר הצבעונים בין היפים בארץ. כנראה בגלל הגשמים הרבים השנה יש ממש \"שטיחים\" של הצבעונים.\nבשבת לא ניתן להכנס דרך הקיבוץ ותשימו בוייז את \"פארק הדייג-מעיין צבי\". הימים החמים כנראה יגמרו את היופי הזה, אז רוצו. \nלאחר מכן נסענו לגן הפסלים \"בזלטון\" גן הפסלים ענקי מאבני הבזלת בכניסה לקיבוץ \"עין הכרמל\" מומלץ מאוד ומרשים הגודל של הפסלים.",
+      "locations": [
+        {
+          "location_name": "מעיין צבי",
+          "flowers": ["צבעוני"],
+          "maps_query_location": "Ma'ayan Zvi"
+        },
+        {
+          "location_name": "גן הפסלים בזלטון",
+            "flowers": null,
+            "maps_query_location":"גן הפסלים בזלטון"
+        },
+          {
+            "location_name": "עין הכרמל",
+             "flowers": null,
+            "maps_query_location":"Ein Carmel"
+          }
+      ]
+    },
+    {
+      "date": "04/03/2018",
+      "observer": "דוד פורת",
+       "original_text": "שבת 03.03.18 כ 50 פרטים פורחים של סחלב הביצות באחו בינימינה. נראה שהאוכלוסיה דלילה משנה לשנה יותר ויותר\nאוכלוסיית השפתן המצוי שם כבר לאחר השיא ובשמורת אלוני יצחק פורחת דבורנית צהובה",
+        "locations": [
+        {
+          "location_name": "אחו בינימינה",
+          "flowers": [
+            "סחלב הביצות",
+              "שפתן מצוי"
+          ],
+           "maps_query_location": "Binyamina"
+        },
+          {
+            "location_name": "שמורת אלוני יצחק",
+            "flowers": [
+              "דבורנית צהובה"
+            ],
+              "maps_query_location":"Alonai Itzhak"
+          }
+      ]
+    },
+    {
+      "date": "03/03/2018",
+      "observer": null,
+      "original_text": "באחו בנימינה",
+       "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": ["סחלב הביצות"],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2018",
+      "observer": "רותי רן",
+      "original_text": "במורדות הצפוניים בתחילת השביל האדום מרבדים של בן חצב לבנוני. לאורך השביל האדום יקינטונים במאות. מעט רקפות יווניות.",
+      "locations": [
+        {
+          "location_name": "הר כחל",
+          "flowers": [
+            "בן חצב לבנוני",
+            "יקינטון",
+             "רקפת יוונית"
+          ],
+          "maps_query_location": "Har Kahal"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2018",
+      "observer": "אורית",
+      "original_text": "פריחת תורמוסים בגבעת הכלניות בהוד השרון.",
+      "locations": [
+        {
+          "location_name": "גבעת הכלניות",
+          "flowers": ["תורמוס"],
+          "maps_query_location": "Givat HaKalanit"
+        },
+          {
+            "location_name": "הוד השרון",
+             "flowers": ["תורמוס"],
+              "maps_query_location": "Hod Hasharon"
+          }
+      ]
+    },
+    {
+      "date": "03/03/2018",
+      "observer": "מור רוזנברג",
+      "original_text": "1/3 - ראינו פריחת כלניות, רקפות, שום משולש, צהרון מצוי, סחלב פרפרני, נץ חלב, זהבית השלוחות. ועוד",
+      "locations": [
+        {
+          "location_name": "חרבת מדרס",
+          "flowers": [
+             "כלנית",
+            "רקפת",
+            "שום משולש",
+            "צהרון מצוי",
+             "סחלב פרפרני",
+             "נץ חלב",
+            "זהבית השלוחות"
+          ],
+          "maps_query_location":"Khirbet Midras"
+        }
+      ]
+    }
+  ]
+}
+```

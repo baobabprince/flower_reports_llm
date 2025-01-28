@@ -1,0 +1,208 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/03/2018",
+      "observer": null,
+      "original_text": "קדד קדוש , קדד משייני, צבועני המדבר בודדים בשולי הישוב, זהבית דקת עלים , פשתנית אשקלון, מוריקה מבריקה, חלמית גדולה, זמזומית הערבות?",
+       "locations": [
+        {
+          "location_name": "מצפה רמון",
+          "flowers": [
+            "Astragalus sanctus",
+            "Astragalus bombycinus",
+             "Echium deserti",
+            "Sternbergia angustifolia",
+            "Linaria ascalonica",
+            "Moricandia nitens",
+            "Malva sylvestris",
+            "Erodium glaucophyllum"
+          ],
+          "maps_query_location": "Mitzpe Ramon"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2018",
+      "observer": "הגר בן נון",
+      "original_text": "ריבס  בנחל לוץ: לאחר השיא .אלפי פרחים .  אירוס ירוחם: בשיא.מאות פרחים כולל כמה צהובים בין 2 עמודי החשמל בצד המזרחי של השמורה וגם צבעוני הנגב ,נוריות ועוד וסוגים .כל ההשמורה ירוקה ופורחת",
+      "locations": [
+        {
+          "location_name": "נחל לוץ",
+           "flowers": [
+            "Rheum palaestinum"
+           ],
+          "maps_query_location": "Nahal Lotz"
+        },
+         {
+          "location_name": "ירוחם",
+          "flowers": [
+            "Iris yruhamensis",
+            "Tulipa negevensis",
+             "Ranunculus"
+          ],
+          "maps_query_location": "Yeroham"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2018",
+      "observer": "עידו מגן",
+      "original_text": "המון רקפות, סחלבים פרפרניים, צהרונים ומעט כלניות וצבעונים. בסיום המסלול בפארק הארזים הרבה עצי כליל החורש בפריחה מקסימה",
+        "locations": [
+        {
+          "location_name": "נחל חלילים",
+          "flowers": [
+            "Cyclamen persicum",
+            "Orchis papilionacea",
+             "Helianthemum",
+            "Anemone coronaria",
+            "Tulipa"
+          ],
+           "maps_query_location": "Nahal Halilim"
+        },
+           {
+          "location_name": "פארק הארזים",
+          "flowers": [
+             "Cercis siliquastrum"
+          ],
+          "maps_query_location": "Park HaArazim"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2018",
+      "observer": "ענת אלבז",
+      "original_text": "פריחה מרהיבה של אירוס הגלבוע במצפור שמיר על הגלבוע.",
+       "locations": [
+        {
+          "location_name": "מצפור שמיר",
+           "flowers": [
+             "Iris haynei"
+          ],
+          "maps_query_location": "Mitzpe Shmir"
+        },
+         {
+          "location_name": "הגלבוע",
+          "flowers": [
+             "Iris haynei"
+          ],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+      "date": "10/03/2018",
+      "observer": null,
+      "original_text": "מרבדי תורמוסים בכביש הגישה לרמות מנשה משני הצדדים. בשיא פריחתם.",
+      "locations": [
+        {
+          "location_name": "רמות מנשה",
+          "flowers": [
+            "Lupinus"
+          ],
+          "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2018",
+      "observer": "יוסי בומץ",
+      "original_text": "התחילה פריחת האירוסים לאורך כביש הסוסיתא",
+       "locations": [
+        {
+          "location_name": "כביש הסוסיתא",
+          "flowers": [
+             "Iris"
+          ],
+           "maps_query_location": "Kvish Susita"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2018",
+      "observer": null,
+      "original_text": "בשביל המזרחי - חלק מהתמונות בקישור",
+         "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [],
+          "maps_query_location": "Gan Leumi Hof Hasharon"
+        }
+      ]
+    },
+     {
+      "date": "08/03/2018",
+      "observer": "עמיר פז",
+      "original_text": "בוצין קיסריון, חומעת האווירון, חבלבל מצרי, כריך שעיר, שילשון מישל, נץ חלב שטוח עלים, ציפורנית גדולת שיניים, ושום הפטמות פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+         "flowers": [
+            "Verbascum levanticum",
+            "Rumex vesicarius",
+            "Convolvulus aegyptiacus",
+            "Reichardia tingitana",
+            "Trigonella micrantha",
+            "Ornithogalum neurostegium",
+             "Dianthus cyri",
+              "Allium papillare"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "07/03/2018",
+      "observer": "יותם רונן",
+      "original_text": "עכשו חייבים להגיע לשמורה בנוב הכול פורח.איריס הביצות בסוף הפריחה. כלניות בשלל צבעים עיריות.עריוני ועוד.   שמגיעים יש להכנס לתוך השמורה מהכניסה לא רואים הרבה.",
+       "locations": [
+        {
+          "location_name": "נוב",
+          "flowers": [
+            "Iris pseudacorus",
+             "Anemone coronaria",
+              "Gynandriris sisyrinchium",
+              "Ononis"
+          ],
+          "maps_query_location": "Nov"
+        }
+      ]
+    },
+     {
+      "date": "07/03/2018",
+      "observer": "איתן אשכנזי",
+      "original_text": "נוסעים לכיוון הישוב אלון ויורדים לעין פואר 500 מטר ברכב מצד שמאל יש שילוט לנחל פרת להחנות את הרכב ולהתחיל ללכת במסלול 10 דק ועל כל המורדות יש  ים של צבעוניים יפיפיות יחד עם אירוסים חרדלים חגיגה....",
+         "locations": [
+        {
+          "location_name": "אלון",
+             "flowers": [
+                "Tulipa",
+              "Iris",
+              "Sinapis"
+           ],
+          "maps_query_location": "Alon"
+        },
+          {
+           "location_name": "עין פואר",
+               "flowers": [
+               "Tulipa",
+              "Iris",
+              "Sinapis"
+               ],
+            "maps_query_location": "Ein Fuar"
+          },
+          {
+           "location_name": "נחל פרת",
+             "flowers": [
+                "Tulipa",
+              "Iris",
+              "Sinapis"
+             ],
+            "maps_query_location": "Nahal Prat"
+        }
+      ]
+    }
+  ]
+}
+```

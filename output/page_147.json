@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/02/2022",
+      "observer": null,
+      "original_text": "באילנות , ויש עוד פריחות רבות",
+      "locations": [
+        {
+          "location_name": "אילנות",
+          "flowers": ["איריס הארגמן"],
+            "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2022",
+      "observer": null,
+     "original_text": "מעגן מיכאל\nמורית גדולה בפריחה, סחלב השקיק, נזמית לופתת, מרסיה יפהפיה, פקטורית אשרסון, רקפת מצויה, איריס א\"י  \nנחל נשר:\nטמוס מזרחי , כוכבית גדולה, לופית מצויה ,   \nגבעת אולגה:\nכלנית מצויה, מרסיה יפהפיה ´ לשון-שור מגובבת , סביון מצוי, פרסיון גדול    \nגבעת ההגנה כרמל: \nכלנית מצויה , מרווה מצויה, נוניאה קהה ,   סחלב נקוד (ניצנים), רומוליאה צידונית \nעין-אלון כרמל \nכתמה עבת-שורשים,  סחלב נקוד (ניצנים)  קרדמין שעיר ,  קרדמין שעיר,",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["מורית גדולה", "סחלב השקיק", "נזמית לופתת", "מרסיה יפהפיה", "פקטורית אשרסון", "רקפת מצויה", "איריס ארץ-ישראלי"],
+          "maps_query_location": "Ma'agan Michael"
+        },
+         {
+          "location_name": "נחל נשר",
+           "flowers": ["טמוס מזרחי", "כוכבית גדולה", "לופית מצויה"],
+          "maps_query_location": "Nahal Nesher"
+        },
+        {
+          "location_name": "גבעת אולגה",
+          "flowers": ["כלנית מצויה", "מרסיה יפהפיה", "לשון-שור מגובבת", "סביון מצוי", "פרסיון גדול"],
+          "maps_query_location": "Givat Olga"
+        },
+         {
+          "location_name": "גבעת ההגנה כרמל",
+           "flowers": ["כלנית מצויה", "מרווה מצויה", "נוניאה קהה", "סחלב נקוד", "רומוליאה צידונית"],
+           "maps_query_location": "Givat HaHagana, Carmel"
+         },
+         {
+          "location_name": "עין אלון כרמל",
+           "flowers": ["כתמה עבת-שורשים", "סחלב נקוד", "קרדמין שעיר"],
+           "maps_query_location": "Ein Alon, Carmel"
+         }
+      ]
+    },
+    {
+      "date": "13/02/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "אלפי כלניות סגולות ורודות לבנות ואדומות בעמק השלום (ירידה מחירבת חנות קירה וליד נחל סנין )",
+      "locations": [
+        {
+          "location_name": "עמק השלום",
+          "flowers": ["כלנית"],
+            "maps_query_location": "Emek HaShalom"
+        },
+          {
+          "location_name": "חירבת חנות קירה",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Khirbet Hanut Kira"
+        },
+        {
+          "location_name": "נחל סנין",
+           "flowers": ["כלנית"],
+            "maps_query_location": "Nahal Sanin"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2022",
+      "observer": "נעם שובל",
+      "original_text": "תחילת פריחה ליד מלכישוע בגלבוע",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+           "flowers": ["גבעונית הלבנון"],
+            "maps_query_location": "Malkishua"
+         },
+        {
+            "location_name":"גלבוע",
+            "flowers": ["גבעונית הלבנון"],
+            "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2022",
+      "observer": "שבתאי ורסנו",
+      "original_text": "מלא כלניות ענקיות במיוחד, רקפות, אירוסים, עיריות. גבעת ברפיליה בפאתי מודיעין",
+       "locations": [
+        {
+          "location_name": "גבעת ברפיליה",
+          "flowers": ["כלנית", "רקפת", "איריס", "עירית"],
+            "maps_query_location": "Givat Barfilya"
+        },
+          {
+           "location_name": "מודיעין",
+           "flowers": ["כלנית", "רקפת", "איריס", "עירית"],
+          "maps_query_location": "Modi'in"
+          }
+       ]
+    },
+     {
+      "date": "09/02/2022",
+      "observer": null,
+      "original_text": "המון כלניות – פריחה שופעת בשיא,  וטוריים מצויים, סחלב השקיק, דבורנית בארי, נרקיס נייארי איריס א\"י גם בצבע תכלת עז , עירית גדולה,  חמציץ, נונאה כרסנית , כלנית, סחלב השקיק ,כתמה עבת שורשים , ציפורני חתול , ערטנית השדות",
+       "locations": [
+        {
+          "location_name": "שוקדה",
+          "flowers": ["כלנית", "טורית מצויה", "סחלב השקיק", "דבורנית בארי", "נרקיס נייארי", "איריס ארץ-ישראלי", "עירית גדולה", "חמציץ", "נונאה כרסנית", "כתמה עבת שורשים", "ציפורני חתול", "ערטנית השדות"],
+          "maps_query_location": "Shokeda"
+         }
+       ]
+    },
+    {
+      "date": "09/02/2022",
+      "observer": "חוה מאמו",
+      "original_text": "מרבד כלניות צבעוני ויפיפה מתחת לעצי האיקליפטוס במנחת מגידו",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": ["כלנית"],
+          "maps_query_location":"Megiddo Airfield"
+        }
+      ]
+    },
+     {
+      "date": "08/02/2022",
+      "observer": "אהרוןשגב",
+      "original_text": "הרבהכלניותמעטמאודאירוסים.הרותםהמדבריפורח.   אלתיכנסו עםרכבלשלוליות.  בדרך.  עמוקות. מאוד חכו. שבועיים לפריחהמלאה",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס הארגמן בית חנן",
+          "flowers": ["כלנית", "איריס", "רותם המדבר"],
+           "maps_query_location": "Iris Argaman Nature Reserve, Beit Hanan"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2022",
+      "observer": null,
+      "original_text": "כבר אדום אדום מרוב כלניות",
+      "locations": [
+          {
+           "location_name": "באר מרווה",
+           "flowers": ["כלנית"],
+            "maps_query_location": "Be'er Marva"
+           },
+        {
+           "location_name": "דרום אדום",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Darom Adom"
+           }
+      ]
+    },
+    {
+      "date": "07/02/2022",
+      "observer": null,
+     "original_text":"מאות פרטים של זמזומית הנגב ובז מצוי שבא לביקור",
+      "locations": [
+        {
+          "location_name": "אנדרטת הנגב",
+          "flowers": ["זמזומית הנגב"],
+           "maps_query_location": "Negev Brigade Memorial"
+        }
+      ]
+    }
+  ]
+}
+```

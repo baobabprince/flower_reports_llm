@@ -1,0 +1,180 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/06/2016",
+      "observer": null,
+      "original_text": "פרע ריחני ופרע מנוקב פורחים בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "פרע ריחני",
+            "פרע מנוקב"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "12/06/2016",
+      "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": [
+        {
+          "location_name": "צוק ארסוף",
+          "flowers": [],
+           "maps_query_location": "Apollonia National Park"
+        }
+      ]
+    },
+     {
+      "date": "12/06/2016",
+      "observer": "שרון בן צור",
+      "original_text": "בחוף עתלית ניתן למצוא חרחבינה חופית, חלבלוב הים, חבלבל הים, לפופית החוף, דרדר נמוך (סוף פריחה פריטים בודדים), אהל גבישים. בחירבת קרתא - צורית גבוהה, קורנית מקורקפת.",
+       "locations": [
+        {
+          "location_name": "חוף עתלית",
+           "flowers": [
+              "חרחבינה חופית",
+              "חלבלוב הים",
+              "חבלבל הים",
+              "לפופית החוף",
+              "דרדר נמוך",
+              "אהל גבישים"
+            ],
+          "maps_query_location": "Atlit Beach"
+        },
+         {
+          "location_name": "חירבת קרתא",
+            "flowers": [
+               "צורית גבוהה",
+               "קורנית מקורקפת"
+           ],
+          "maps_query_location": "Khirbet Karta"
+        }
+      ]
+    },
+    {
+      "date": "10/06/2016",
+      "observer": null,
+       "original_text": "שכחתי לציין שבפינה הלחה פןרחת גם אולדנית הכף",
+      "locations": [
+        {
+          "location_name": "הפינה הלחה",
+           "flowers": [
+              "אולדנית הכף"
+            ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/06/2016",
+      "observer": "עירית",
+      "original_text": "ורוניקת החולה פורחת בירדן ההררי",
+      "locations": [
+        {
+          "location_name": "ירדן ההררי",
+          "flowers": [
+            "ורוניקת החולה"
+          ],
+          "maps_query_location": "Upper Jordan River"
+        }
+      ]
+    },
+    {
+       "date": "09/06/2016",
+      "observer": null,
+      "original_text": "בפינה הלחה בגן שלי פורחים : חרחבינה טובענית,ורוניקת החולה,לוענית גדולת עלים,וברגיה אמנית. סיימו לפרוח זנב שועל ביצתי,ספה המים,מתקה טובענית,ואנטינוריית האיים. בדרך לפריחה-פעמונית הדורה.",
+      "locations": [
+        {
+          "location_name": "הפינה הלחה",
+          "flowers": [
+              "חרחבינה טובענית",
+              "ורוניקת החולה",
+              "לוענית גדולת עלים",
+              "ברגיה אמנית",
+              "זנב שועל ביצתי",
+              "ספה המים",
+              "מתקה טובענית",
+              "אנטינוריית האיים",
+               "פעמונית הדורה"
+            ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "05/06/2016",
+      "observer": "אסתר אייזנרייך",
+       "original_text": "צילום אסתר אייזנרייך",
+       "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "כלנית"
+           ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "05/06/2016",
+       "observer": "רון חרמוני",
+      "original_text": "בחניון העיקול - מישויה פעמונית (פרט בודד, עדיין פורח) בנחל מירון - קערורית סגולה בתפארתה",
+      "locations": [
+        {
+           "location_name": "חניון העיקול",
+          "flowers": [
+            "מישויה פעמונית"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "נחל מירון",
+          "flowers": [
+            "קערורית סגולה"
+          ],
+          "maps_query_location": "Nahal Meiron"
+        }
+      ]
+    },
+    {
+       "date": "05/06/2016",
+      "observer": null,
+      "original_text": "בחוף אולגה פורח קצח השדה",
+      "locations": [
+        {
+          "location_name": "חוף אולגה",
+           "flowers": [
+              "קצח השדה"
+            ],
+          "maps_query_location": "Olga Beach"
+        }
+      ]
+    },
+     {
+       "date": "05/06/2016",
+      "observer": null,
+      "original_text": "שון נטוי, שלהבית דביקה, דורבנית התבור,  שום גבוה , שום האבקנים, אחירותם החורש, אשבל מופסק, געדה מפושקת, ועוד",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+              "שון נטוי",
+              "שלהבית דביקה",
+              "דורבנית התבור",
+              "שום גבוה",
+              "שום האבקנים",
+             "אחירותם החורש",
+              "אשבל מופסק",
+              "געדה מפושקת"
+            ],
+         "maps_query_location": "Mount Meron"
+        }
+      ]
+    }
+  ]
+}
+```

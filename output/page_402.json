@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/05/2017",
+      "observer": "אסתר איזנרייך",
+      "original_text": "קטע משביל ישראל - נחל שורק - חניון סטף תחתון 21.5.17",
+      "locations": [
+        {
+          "location_name": "נחל שורק",
+          "flowers": [],
+           "maps_query_location": "Nahal Sorek"
+        },
+         {
+          "location_name": "חניון סטף תחתון",
+          "flowers": [],
+           "maps_query_location": "Lower Sataf Parking Lot"
+        }
+      ]
+    },
+    {
+      "date": "26/05/2017",
+      "observer": "רועי בן דב",
+      "original_text": "פלפני יומיים פורח בפסגת ההר לקראת הסוף . בתוך ההוטה יש פרחים שעדיין סגורים",
+        "locations": [
+        {
+          "location_name": "פקיעין",
+          "flowers": ["שושן צחור"],
+          "maps_query_location": "Peki'in"
+        }
+      ]
+    },
+     {
+      "date": "24/05/2017",
+      "observer": null,
+       "original_text": "ראו אלבום בקישור מצורף : ",
+       "locations": [
+         {
+          "location_name": "מירון",
+          "flowers": [],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "24/05/2017",
+      "observer": null,
+      "original_text": "צבעוני החרמון, חלבלוב מול הלבנון, שום הלבנון פרפרים ועוד (ראו קישור מצורף)",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": ["צבעוני החרמון","חלבלוב מול הלבנון","שום הלבנון"],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+     "date": "24/05/2017",
+      "observer": null,
+      "original_text": "פריחת מרשימה של משויות ליד הכביש הראשי בבית ז'אן - עשרות צמחים בתחילת פריחה",
+      "locations": [
+        {
+          "location_name": "בית ג'אן",
+          "flowers": ["משויה"],
+           "maps_query_location": "Beit Jann"
+        }
+      ]
+    },
+    {
+      "date": "24/05/2017",
+      "observer": null,
+      "original_text": "פרע צמיר, געדה מפושקת , ספלול מטפס, קחוון הצבעים , שמשון אזוביוני, לוטמית ערבית, חבלבל רפואי, רצועית הגליל, בן-חורש רחב עלים, קערורית סגולה, געדה מצויה, אשבל מפוסק, ורוניקה קרחת, דבורנית גדולה, אחירותם החורש בשיא פריחה, דרדר מצוי , שלהבית דביקה, דם מכבים , יערה, איטלקית, פטל לביד , חוחן הקנרס, צתרה משובלת, ורצועית הגליל",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "פרע צמיר",
+            "געדה מפושקת",
+            "ספלול מטפס",
+             "קחוון הצבעים",
+            "שמשון אזוביוני",
+             "לוטמית ערבית",
+            "חבלבל רפואי",
+            "רצועית הגליל",
+            "בן-חורש רחב עלים",
+             "קערורית סגולה",
+             "געדה מצויה",
+            "אשבל מפוסק",
+              "ורוניקה קרחת",
+            "דבורנית גדולה",
+             "אחירותם החורש",
+            "דרדר מצוי",
+            "שלהבית דביקה",
+              "דם מכבים",
+             "יערה",
+              "פטל לביד",
+            "חוחן הקנרס",
+            "צתרה משובלת",
+             "רצועית הגליל"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "24/05/2017",
+      "observer": "אזגד שלם",
+       "original_text": "שום נטוי , בר גביע קוצני, שלמון יפואי",
+      "locations": [
+        {
+          "location_name": "קיבוץ יגור",
+          "flowers": ["שום נטוי","בר גביע קוצני","שלמון יפואי"],
+           "maps_query_location": "Kibbutz Yagur"
+        }
+      ]
+    },
+    {
+      "date": "22/05/2017",
+      "observer": null,
+      "original_text": "שום גבוה, נעצוצית סבוכה ועוד",
+      "locations": [
+        {
+          "location_name": "שמורת דור הבונים",
+          "flowers": ["שום גבוה","נעצוצית סבוכה"],
+          "maps_query_location": "Dor HaBonim nature reserve"
+        }
+      ]
+    },
+     {
+      "date": "21/05/2017",
+      "observer": null,
+      "original_text": "כבר פורחת בהר מירון",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["רצועית הגליל"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+       "date": "21/05/2017",
+      "observer": null,
+      "original_text": "פריחה יפה בתל אל קצעה ליד יער אודם",
+        "locations": [
+        {
+           "location_name": "תל אל קצעה",
+            "flowers": ["בן-חורש רחב עלים"],
+             "maps_query_location": "Tel el Kasa'a"
+        },
+         {
+          "location_name": "יער אודם",
+          "flowers": ["בן-חורש רחב עלים"],
+           "maps_query_location": "Odem Forest"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,227 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/11/2017",
+      "observer": "null",
+      "original_text": "פורח בבית ג'אן , ראו אלבום מקסים של אחמד הרב",
+      "locations": [
+        {
+          "location_name": "בית ג'אן",
+          "flowers": ["כרכום צהבהב"],
+          "maps_query_location": "Beit Jann"
+         }
+      ]
+    },
+    {
+      "date": "05/11/2017",
+      "observer": "null",
+      "original_text": "בגבעת רם בגן הבוטני פורחות עשרות חלמוניות גדולות ענקיות , כדאי לראות",
+      "locations": [
+        {
+          "location_name": "גבעת רם",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Givat Ram"
+        },
+         {
+          "location_name": "הגן הבוטני",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Botanical Garden Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2017",
+       "observer": "יוסף יצחק ליאני",
+      "original_text": "עכשיו פורחות חלמוניות בנחל ראש פינה יורדים מצפת עד שמגיעים לשער ירוק מטפסים בקו ישר מצד שמאל של השער ואז רואים אותם מדהימות! בהצלחה",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Nahal Rosh Pina"
+        },
+        {
+           "location_name": "צפת",
+            "flowers": ["חלמונית"],
+            "maps_query_location": "Zefat"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2017",
+       "observer": "דרור בר-ניר",
+      "original_text": "סתוונית היורה, בן-חצב סתווני, כתלה חריפה, חורשף מצויץ, נרקיס מצוי, חרוב מצוי,",
+      "locations": [],
+      "flowers": ["סתוונית היורה", "בן-חצב סתווני", "כתלה חריפה", "חורשף מצויץ", "נרקיס מצוי", "חרוב מצוי"]
+    },
+    {
+      "date": "04/11/2017",
+      "observer": "null",
+      "original_text": "בפריחה בכרמל",
+      "locations": [
+        {
+           "location_name": "כרמל",
+          "flowers": ["כרכום חורפי"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2017",
+      "observer": "null",
+      "original_text": "יער יתיר, יער להבים, שמורת החלמוניות בירוחם, כרם בן זימרה, יער ביריה, שביל הפיסגה מירון, הר אדמון , טיילת כפר חרוב,",
+     "locations": [
+        {
+           "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Yatir Forest"
+        },
+         {
+           "location_name": "יער להבים",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Lahav Forest"
+        },
+         {
+           "location_name": "שמורת החלמוניות בירוחם",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Yeruham Iris Reserve"
+        },
+         {
+           "location_name": "כרם בן זימרה",
+            "flowers": ["חלמונית"],
+           "maps_query_location": "Kerem Ben Zimra"
+        },
+         {
+           "location_name": "יער ביריה",
+            "flowers": ["חלמונית"],
+            "maps_query_location": "Biriya Forest"
+        },
+         {
+           "location_name": "שביל הפיסגה מירון",
+             "flowers": ["חלמונית"],
+           "maps_query_location": "Mount Meron Summit Trail"
+         },
+         {
+           "location_name": "הר אדמון",
+            "flowers": ["חלמונית"],
+           "maps_query_location": "Har Admon"
+        },
+         {
+           "location_name": "טיילת כפר חרוב",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Kfar Haruv Promenade"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2017",
+       "observer": "null",
+      "original_text": "יער נחשונים, שמורת נחל המערות, נחל אלכסנדר,  חירבת חנות, חורשת ה 40 בכרמל, יער ראש העין (חניון צנוברים) , שמורת ביתן אהרון, ליד המונפור ועוד",
+       "locations": [
+        {
+           "location_name": "יער נחשונים",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Nahshonim Forest"
+         },
+         {
+           "location_name": "שמורת נחל המערות",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Nahal Mearot Nature Reserve"
+         },
+         {
+           "location_name": "נחל אלכסנדר",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Alexander Stream"
+        },
+         {
+           "location_name": "חירבת חנות",
+             "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Khirbat Hanut"
+        },
+         {
+          "location_name": "חורשת ה 40 בכרמל",
+             "flowers": ["נרקיס מצוי"],
+            "maps_query_location": "Carmel Forest 40"
+        },
+         {
+           "location_name": "יער ראש העין",
+             "flowers": ["נרקיס מצוי"],
+            "maps_query_location": "Rosh HaAyin Forest"
+        },
+         {
+          "location_name": "שמורת ביתן אהרון",
+          "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Beitan Aharon Reserve"
+         },
+         {
+          "location_name": "המונפור",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Montfort"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2017",
+      "observer": "אורי שטיין",
+      "original_text": "להלן תצפיות מטיילי יום רביעי\nליד צמת גולני: סתונית ירושלים התחלה, אחילוף הגליל ופרטים בודדים של חלמונית קטנה.\nליד צמת דליות פרט בודד של אחילוף החורן\nליד גלגל רפאים עשרות פרטים של אחילוף החורן וניצנים\nאחו נוב פרטים רבים של סתונית ירושלים\nמערת פער כרכום צהבהב, סתונית בכירה לא נמצאו חלמוניות זעירות\nמירון בהתחלת שביל הפסגה: אחילוף קטן וכרכום נאה",
+      "locations": [
+         {
+           "location_name": "צומת גולני",
+           "flowers": ["סתונית ירושלים", "אחילוף הגליל", "חלמונית"],
+           "maps_query_location": "Golani Junction"
+        },
+        {
+          "location_name": "צומת דליות",
+          "flowers": ["אחילוף החורן"],
+          "maps_query_location": "Dalyot Junction"
+        },
+        {
+          "location_name": "גלגל רפאים",
+            "flowers": ["אחילוף החורן"],
+           "maps_query_location": "Rujm el-Hiri"
+        },
+         {
+           "location_name": "אחו נוב",
+           "flowers": ["סתונית ירושלים"],
+            "maps_query_location": "Nov meadow"
+        },
+         {
+           "location_name": "מערת פער",
+           "flowers": ["כרכום צהבהב", "סתונית בכירה"],
+           "maps_query_location": "Pears Cave"
+        },
+        {
+          "location_name": "מירון",
+           "flowers": ["אחילוף קטן", "כרכום נאה"],
+           "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+     {
+      "date": "01/11/2017",
+      "observer": "null",
+      "original_text": "אחי-חרגל אפריקאי, צלף רותמי וסביבו פרפרי לבנין הסלבדורה, כופר (חינה) , פתילת המדבר, קוטב רך או מכונף? , במטע ליד בית הכנסת נמצאה מלוכיה נאכלת",
+      "locations": [
+         {
+          "location_name": "עין גדי",
+            "flowers": ["אחי-חרגל אפריקאי", "צלף רותמי", "כופר", "פתילת המדבר", "קוטב רך", "מלוכיה נאכלת"],
+           "maps_query_location": "Ein Gedi"
+        }
+      ],
+       "flowers": ["אחי-חרגל אפריקאי", "צלף רותמי", "כופר", "פתילת המדבר", "קוטב רך", "מלוכיה נאכלת"]
+    },
+     {
+      "date": "01/11/2017",
+       "observer": "אורנה ישראלי",
+      "original_text": "חלמוניות ורקפת יוונית במדרון מבוא חמה",
+      "locations": [
+        {
+           "location_name": "מבוא חמה",
+          "flowers": ["חלמונית", "רקפת יוונית"],
+           "maps_query_location": "Mevo Hama"
+         }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,292 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/05/2013",
+      "observer": "רבקה כהן",
+      "original_text": "גוש עציון, 5/5/13 עולש מצוי, נפית כפופה, שלהבית דביקה, חוח ספרדי, כנפה חרוקה",
+      "locations": [
+        {
+          "location_name": "גוש עציון",
+           "flowers": [
+            "Cichorium intybus",
+            "Nepeta curviflora",
+            "Silene apetala",
+             "Echinops spinosissimus",
+            "Scolymus maculatus"
+          ],
+          "maps_query_location": "Gush Etzion"
+        }
+      ]
+    },
+    {
+      "date": "05/05/2013",
+      "observer": null,
+      "original_text": "צפון מזרח הגולן אזור החרמונית ודהרת איברהים פריחה מרהיבה של תלתן גולתי, תלתן ארגמני, ניסנית סורית, בקיה דקת עלים. באגנים לחים שהתייבשו זנב עכבר פעוט, נורית חיקית, צללית הדורה ואנטינוריית האיים",
+      "locations": [
+        {
+          "location_name": "צפון מזרח הגולן",
+          "flowers": [
+            "Trifolium billardieri",
+            "Trifolium purpureum",
+            "Vicia palaestina",
+             "Vicia tenuifolia",
+            "Myosurus minimus",
+            "Ranunculus lateriflorus",
+             "Anagallis arvensis",
+              "Antinoron insulare"
+          ],
+          "maps_query_location": "Northern Golan Heights"
+        },
+		 {
+          "location_name": "חרמונית",
+          "flowers": [
+            "Trifolium billardieri",
+            "Trifolium purpureum",
+            "Vicia palaestina",
+             "Vicia tenuifolia",
+            "Myosurus minimus",
+            "Ranunculus lateriflorus",
+             "Anagallis arvensis",
+              "Antinoron insulare"
+          ],
+           "maps_query_location": "Har Hermonit"
+        },
+		{
+          "location_name": "דהרת איברהים",
+          "flowers": [
+            "Trifolium billardieri",
+            "Trifolium purpureum",
+            "Vicia palaestina",
+             "Vicia tenuifolia",
+            "Myosurus minimus",
+            "Ranunculus lateriflorus",
+             "Anagallis arvensis",
+              "Antinoron insulare"
+          ],
+          "maps_query_location": "Deharat Ibrahim"
+        }
+      ]
+    },
+    {
+      "date": "04/05/2013",
+      "observer": "פנינה פרנקל",
+      "original_text": "הר דבורה: ציפורן נקוד,לוטם שעיר,ציטרה,פישתה שעירה,פירות של עצבונית פעמונית קיפחת וכמה פרטים של סחלב קדוש בסוף פריחה. נחל ברק בן אבינעם לעין מאהל:עכנאי יהודה, עכנאי מגובב (2 מ')מרות ירושלים, מרוה ריחנית,נוציץ,דם המכבים,חוטמית זיפנית,שברק דביק, שברק קוצני,חוחן הקינרס, מוצית קוצנית וחוח עקוד.",
+      "locations": [
+        {
+          "location_name": "הר דבורה",
+          "flowers": [
+           "Dianthus punctatus",
+            "Cistus incanus",
+            "Helianthemum syriacum",
+             "Linum pubescens",
+            "Campanula hierosolymitana",
+            "Orchis sancta"
+          ],
+           "maps_query_location":"Har Devora"
+        },
+        {
+          "location_name": "נחל ברק בן אבינעם",
+          "flowers": [
+            "Echium judaeum",
+            "Echium glomeratum",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+            "Onosma frutescens",
+            "Adonis palaestina",
+            "Alcea setosa",
+            "Galium verrucosum",
+            "Galium echinocarpum",
+             "Cynara syriaca",
+             "Paronychia argentea",
+            "Cirsium acaule"
+          ],
+          "maps_query_location": "Nahal Barak Ben Avinoam"
+        },
+        {
+          "location_name": "עין מאהל",
+            "flowers": [
+            "Echium judaeum",
+            "Echium glomeratum",
+            "Salvia hierosolymitana",
+            "Salvia dominica",
+            "Onosma frutescens",
+            "Adonis palaestina",
+            "Alcea setosa",
+            "Galium verrucosum",
+            "Galium echinocarpum",
+             "Cynara syriaca",
+             "Paronychia argentea",
+            "Cirsium acaule"
+          ],
+           "maps_query_location": "Ein Mahal"
+        }
+      ]
+    },
+    {
+      "date": "04/05/2013",
+      "observer": null,
+      "original_text": "נחל כלח: שושן צחור . עשרות פרחים, בוצין אופקי, בוצין טריפולי, פעמונית דמשקאית, דם המכבים האדום, פיגם מצוי, געדה מפושקת, געדה כרתית, אשבל מופסק, כתרון כרתי, שום האבקנים, זעזועית גדולה, יערה איטלקית, עולש מצוי, פשתה שעירה, פשתת המכבד, שיבטן לבן, . חורשת הארבעים: סחלב קדוש בשיא הפריחה, דבורנית גדולה-בסוף., רימונית הלוטם, רתמה קוצנית, נפית כפופה, מרבה-חלב מונפלייני, פשתה אשונה, ערבז דק-פרחים.",
+      "locations": [
+        {
+          "location_name": "נחל כלח",
+           "flowers": [
+             "Lilium candidum",
+            "Verbascum sinuatum",
+            "Verbascum tripolitanum",
+            "Campanula damascena",
+            "Adonis palaestina",
+            "Ruta chalepensis",
+            "Teucrium divaricatum",
+            "Teucrium cuneifolium",
+             "Salvia viridis",
+             "Catananche lutea",
+            "Allium stamineum",
+             "Bellardia trixago",
+             "Lonicera etrusca",
+            "Cichorium intybus",
+            "Linum pubescens",
+             "Linum corymbulosum",
+             "Sideritis lanata"
+          ],
+           "maps_query_location": "Nahal Kelah"
+        },
+        {
+           "location_name": "חורשת הארבעים",
+           "flowers": [
+             "Orchis sancta",
+             "Ophrys apifera",
+            "Punica protopunica",
+            "Retama raetam",
+            "Nepeta curviflora",
+            "Lycium europaeum",
+             "Linum strictum",
+             "Arabis pauciflora"
+          ],
+           "maps_query_location":"Horeshet HaArba'im"
+        }
+      ]
+    },
+     {
+      "date": "04/05/2013",
+      "observer": "דוד פורת",
+      "original_text": "פעמונית משוננת פורחת באפיק נחל חרוד קשת קניון הברזל – קבוצות קבוצות (דלילות, קטנות אבל מקסימות) פורחות במפוזר בתחתית מצוק הנחל.    דוד פורת אפיקים   02.05.13",
+      "locations": [
+        {
+          "location_name": "נחל חרוד",
+          "flowers": [
+            "Campanula hierosolymitana"
+          ],
+          "maps_query_location": "Nahal Harod"
+        },
+		{
+           "location_name":"קשת קניון הברזל",
+            "flowers": [
+            "Campanula hierosolymitana"
+          ],
+            "maps_query_location":"Keshet Canyon HaBarzel"
+		}
+      ]
+    },
+    {
+      "date": "03/05/2013",
+      "observer": null,
+      "original_text": "בסיור משותף אתמול עם שיר ורד,שמעון דדון, ואקולוגית העיר נתניה נראו בשלולית המינים הבאים : תורמוס צהוב,אספסת החילזון,אגמון שרוע,בוציץ סוככני,וכף עוף מנוצה.",
+      "locations": [
+        {
+          "location_name": "שלולית דורה",
+           "flowers": [
+            "Lupinus luteus",
+            "Medicago scutellata",
+            "Juncus effusus",
+            "Torilis leptophylla",
+            "Ornithopus compressus"
+          ],
+           "maps_query_location": "Dora Pond"
+        },
+        {
+          "location_name": "נתניה",
+           "flowers": [
+             "Lupinus luteus",
+             "Medicago scutellata",
+              "Juncus effusus",
+            "Torilis leptophylla",
+              "Ornithopus compressus"
+          ],
+          "maps_query_location":"Netanya"
+        }
+      ]
+    },
+    {
+      "date": "01/05/2013",
+      "observer": null,
+      "original_text": "פורח בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+            "Verbascum gaillardotii"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+     {
+      "date": "30/04/2013",
+      "observer": "תמר פז",
+      "original_text": "מרבד מקסים של תורמוס מכסה את המדרון מתחת לתצפית קונייטרה סמוך לצומת עין זיוון.",
+       "locations": [
+        {
+          "location_name": "מצפה קונייטרה",
+           "flowers": [
+            "Lupinus"
+          ],
+          "maps_query_location":"Mitzpe Kuneitra"
+        },
+		{
+          "location_name":"עין זיוון",
+           "flowers": [
+            "Lupinus"
+          ],
+           "maps_query_location":"Ein Zivan"
+		}
+      ]
+    },
+     {
+      "date": "29/04/2013",
+      "observer": null,
+      "original_text": "ראיתי אתמול מספר פרטים של המין, ליד הכניסה המזרחית ליישוב אפרת.",
+       "locations": [
+        {
+          "location_name": "אפרת",
+           "flowers": [
+           "Glaucium flavum"
+          ],
+          "maps_query_location": "Efrat"
+        }
+      ]
+    },
+    {
+      "date": "29/04/2013",
+      "observer": null,
+      "original_text": "לחך הודי,לוענית יריחו,עיריוני קצר,לוענית גדולת עלים,גומא הירקון,כף צפרדע לחכית,פשתנית משולשת,ומרסיליאה קטנה (שלא פורחת כמובן) פורחים בגן",
+      "locations": [
+        {
+           "location_name": "גן בוטני געש",
+           "flowers": [
+            "Kickxia elatine",
+            "Misopates orontium",
+            "Asphodelus tenuifolius",
+             "Antirrhinum majus",
+            "Cyperus alopecuroides",
+             "Damasonium alisma",
+             "Linaria triornithophora",
+             "Marsilea minuta"
+          ],
+           "maps_query_location":"Ga'ash Botanical Garden"
+        }
+      ]
+    }
+  ]
+}
+```

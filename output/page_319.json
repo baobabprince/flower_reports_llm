@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2019",
+      "observer": "רותי ליבנה",
+      "original_text": "ראו אלבום של רותי ליבנה",
+      "locations": [
+        {
+          "location_name": "כרם מהר\"ל",
+          "flowers": ["רומוליאה צידונית"],
+           "maps_query_location": "Kerem Maharal"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2019",
+      "observer": "יוסף איקש",
+       "original_text": "הפריחה בשיאה.",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": ["יקינתון מזרחי"],
+           "maps_query_location": "Kornei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2019",
+      "observer": "מיכאל לרנר",
+       "original_text": "הרבה מאד כלניות, הרבה מאד רקפות, חלקן בריכוזים צפופים אך מרבדים עדיין אין, די הרבה עיריות בפריחה מתפתחת וכן קידות בתחילת פריחה.",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["כלנית", "רקפת", "עירית", "קידה"],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "מהרש\"ק שרי",
+      "original_text": "כלניות נהדרותו אדומות ומקסימות בגבעת התיתורה במודיעין. כדאי!גם בבן שמן כלניות והרבה רקפות.",
+      "locations": [
+         {
+          "location_name": "גבעת התיתורה",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Givat HaTitora"
+        },
+        {
+          "location_name": "מודיעין",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Modi'in"
+        },
+         {
+          "location_name": "בן שמן",
+          "flowers": ["כלנית", "רקפת"],
+           "maps_query_location": "Ben Shemen"
+        }
+      ]
+    },
+     {
+      "date": "20/01/2019",
+      "observer": "נדב זק",
+      "original_text": "בגבעת הפרחים מצפון למעגן מיכאל להגיע מהכביש המוליך לאתר הדיג של מעיין צבי",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["אירוס ארץ ישראלי"],
+           "maps_query_location": "Ma'agan Michael"
+         },
+         {
+           "location_name": "מעיין צבי",
+            "flowers": ["אירוס ארץ ישראלי"],
+             "maps_query_location":"Maayan Zvi"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "שפר קובי",
+      "original_text": "כתמים של רומוליאה צידונית, איריס א\"י, חיננית הבתה עירית גדולה וקידה שעירה, באזור חניון הצוק שויצריה הקטנה (כרמל)",
+      "locations": [
+        {
+           "location_name": "חניון הצוק שוויצריה הקטנה",
+          "flowers": ["רומוליאה צידונית", "אירוס ארץ ישראלי", "חיננית הבתה", "עירית גדולה", "קידה שעירה"],
+           "maps_query_location":"Switzerland park Carmel"
+        },
+         {
+           "location_name":"כרמל",
+             "flowers": ["רומוליאה צידונית", "אירוס ארץ ישראלי", "חיננית הבתה", "עירית גדולה", "קידה שעירה"],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+       "date": "20/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "בדרך הירוקה העולה מזרחה מזנוח: אחרי 300 מ שקדיה ענקית בפריחה מלאה ובהמשך כמה קטנות, כלניות, עיריות, רקפות, כמה קידות בתחילת פריחה ובסוף העליה על הכיפונת מצפון לדרך הרבה זהביות.",
+       "locations": [
+        {
+          "location_name": "זנוח",
+          "flowers": ["שקדיה", "כלנית", "עירית", "רקפת", "קידה", "זהבית"],
+          "maps_query_location":"Zanoah"
+        }
+         ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "מלכה ירון",
+       "original_text":"היום בנחל אלון, רומאות צידוניות פורחות.\nגם דודא מצאנו.",
+      "locations": [
+        {
+          "location_name": "נחל אלון",
+          "flowers": ["רומוליאה צידונית", "דודא"],
+           "maps_query_location": "Nahal Alon"
+        }
+      ]
+    },
+     {
+      "date": "20/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "כלניות, איריסים, עיריות, רקפות, כמה מרוות מצויות וכן מספר קידות ולשון הפר הסמורה בתחילת פריחה. מספר שקדיות בתהליך פריחה אך הרוב עם ניצנים ממש קטנים בלי לבן.",
+      "locations": [
+        {
+          "location_name": "פארק איילון מזרח",
+           "flowers": ["כלנית", "אירוס", "עירית", "רקפת", "מרווה מצויה", "קידה", "לשון הפר הסמורה", "שקדיה"],
+          "maps_query_location": "Ayalon Park"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "עמיר פז",
+      "original_text": "פורח בגן הנדירים בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["מקור חסידה תמים"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    }
+  ]
+}
+```

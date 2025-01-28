@@ -1,0 +1,210 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/04/2018",
+      "observer": null,
+      "original_text": "פעמונית משוננת,   קצח ריסני  קרדומית השדה,  שנית מתפתלת, תלתן הכדורים,   איריס ענף , כריך רווח ",
+      "locations": [
+        {
+          "location_name": "עין תינה",
+           "flowers": [
+              "Campanula strigosa",
+              "Nigella arvensis",
+              "Cardamine hirsuta",
+              "Sherardia arvensis",
+              "Trifolium glomeratum",
+              "Iris grant-duffii",
+             "Sanguisorba minor"
+            ],
+          "maps_query_location": "Ein Tina"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2018",
+      "observer": null,
+      "original_text": "מצילות מצוייצות , ציפורנית נפוחה, מצילות מצוייצות, קרדריה מצויה  , תורמוס ספרדי  , תלתן השדה , ציפורנית ענפה , חד-שפה מזרחי",
+      "locations": [
+        {
+          "location_name": "מחצבות אודם",
+           "flowers": [
+              "Torilis leptophylla",
+              "Silene vulgaris",
+              "Torilis leptophylla",
+              "Cardaria draba",
+              "Lupinus hispanicus",
+               "Trifolium campestre",
+               "Dianthus polycladus",
+               "Teucrium orientale"
+            ],
+          "maps_query_location": "Odem Quarry"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2018",
+      "observer": null,
+      "original_text": "תורמוס שעיר, תלתן בואסייה , תלתן דל-פרחים, תלתן משולחף , שחליים קוצניים, שמשונית הטיפין , קצח ריסני , קחוון גולני  , קיפודית הקרקפת, ציפורנית צרפתית,  פשתה צרת-עלים,   פילגון קפוץ , נץ-חלב מפושק , עלקלוק צהוב פרחים , אבובית מקורקפת, אזוביון גדול , ולריינית עטורה , חוחן בלנש , חיננית רב-שנתית, הרדופנין הציצית, יינית כמנונית , חלוק שעיר , כוסנית משוננת , כריך מרוחק , כתנן שרוע , לוטוס ריסני , לחך כרתי, נורית הזיזים  והמלל ,  שופרית כרתית ",
+      "locations": [
+        {
+          "location_name": "הר קטע",
+           "flowers": [
+              "Lupinus pilosus",
+              "Trifolium boissieri",
+              "Trifolium pauciflorum",
+               "Trifolium clypeatum",
+              "Echinops gaillardotii",
+              "Helianthemum stipulatum",
+              "Nigella arvensis",
+              "Anthemis palaestina",
+               "Echinops cephalotes",
+               "Dianthus gallicus",
+               "Linum angustifolium",
+               "Filago pyramidata",
+               "Ornithogalum divaricatum",
+              "Ranunculus oxyspermus",
+              "Phlomis crinita",
+              "Lavandula stoechas",
+              "Valeriana dioscoridis",
+              "Carduus blancheanus",
+              "Bellis sylvestris",
+               "Nerium oleander",
+               "Fumaria judaica",
+              "Galium canum",
+              "Torilis nodosa",
+               "Sanguisorba minor",
+               "Coronilla scorpioides",
+               "Lotus halophilus",
+               "Alkanna orientalis",
+                "Ranunculus asiaticus",
+                "Aethionema creticum"
+
+            ],
+          "maps_query_location": "Har Kata"
+        }
+      ]
+    },
+     {
+      "date": "14/04/2018",
+      "observer": "אורן עוזרי",
+      "original_text": "פריחת שנק החורש בנחל קטלב. 14.04.2018 ",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": [
+             "Anagyris foetida"
+             ],
+          "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2018",
+      "observer": "אורנה ניסן",
+      "original_text": "יש עכשייו פריחה יפה במקבצים ליד המרכז המסחרי בחוצות יגור, ממש בצידי הכביש. ",
+      "locations": [
+        {
+          "location_name": "חוצות יגור",
+          "flowers": [
+              "Iris hermona"
+             ],
+          "maps_query_location": "Hutzot Yagur"
+        }
+      ]
+    },
+        {
+      "date": "14/04/2018",
+      "observer": "רון אברהמי",
+      "original_text": "שטח גדול של אירוס ארם נהריים פורח על הפסגה של חורבת קנה, צד דרומי",
+      "locations": [
+         {
+          "location_name": "חורבת קנה",
+           "flowers": [
+              "Iris bismarkiana"
+            ],
+          "maps_query_location": "Hurvat Kana"
+         }
+       ]
+     },
+    {
+      "date": "14/04/2018",
+      "observer": "עמיר פז",
+       "original_text": "בקית החולה בתחילת פריחה, לוענית גדולת עלים לפני פריחה, וגפית הביצה נצפו בשמורה",
+      "locations": [
+        {
+          "location_name": "תל דן",
+           "flowers": [
+              "Vicia galilaea",
+               "Antirrhinum majus",
+                "Marsilea minuta"
+           ],
+          "maps_query_location": "Tel Dan"
+        }
+      ]
+    },
+    {
+      "date": "12/04/2018",
+      "observer": null,
+      "original_text": "עפעפית מצרית, דרדר גדול פרחים, חבלבל השיח, דרדית מצויה , שום האבקנים , שום ירקרק ועוד ",
+       "locations": [
+        {
+         "location_name":"יער בן שמן",
+          "flowers": [
+              "Glaucium arabicum",
+              "Centaurea hyalolepis",
+              "Convolvulus dorycnium",
+             "Crepis hierosolymitana",
+             "Allium stamineum",
+             "Allium neapolitanum"
+            ],
+         "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+       {
+      "date": "10/04/2018",
+       "observer": "יוסף יצחק ליאני",
+      "original_text": "רימונית הלוטם פורחת מתחת לשיח לוטם שעיר מצד ימין של השביל ליד השירותים ליד התחלת נחל גלים בכרמל",
+      "locations": [
+        {
+          "location_name": "נחל גלים",
+           "flowers": [
+              "Ruta chalepensis"
+            ],
+          "maps_query_location": "Nahal Galiym"
+        },
+          {
+          "location_name": "כרמל",
+           "flowers": [
+              "Ruta chalepensis"
+            ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "10/04/2018",
+      "observer": "עמיר פז",
+       "original_text":"מרווה מרושתת, חוחן גדול ראשים, חוחן קרדני, אשבל זוהרי, נץ חלב חום, דרדר נמוך, חולית חופית,פשתנית ריסנית, וחלבלוב השיח פורחים בגן",
+      "locations": [
+         {
+          "location_name": "גן הנדירים",
+          "flowers": [
+             "Salvia dominica",
+              "Carduus macrocephalus",
+              "Carduus pycnocephalus",
+              "Salvia viscosa",
+              "Ornithogalum narbonense",
+              "Centaurea depressa",
+             "Silene modesta",
+             "Linaria chalepensis",
+             "Euphorbia dendroides"
+            ],
+           "maps_query_location": "Gan Hanedirim"
+         }
+       ]
+    }
+  ]
+}
+```

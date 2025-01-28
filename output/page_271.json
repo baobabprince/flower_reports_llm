@@ -1,0 +1,169 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/01/2020",
+      "observer": "אופיר גלבוע",
+      "original_text": "התחילה פריחת הנרקיסים סמוך למערות אפקה.",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+          "flowers": [
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Aphek Caves"
+        }
+      ]
+    },
+    {
+      "date": "16/01/2020",
+      "observer": "דוד פורת",
+      "original_text": "גושים מרשימים של שיכרון זהוב פורחים בסוסיתא מאת דוד פורת  15.01.20",
+      "locations": [
+        {
+          "location_name": "סוסיתא",
+          "flowers": [
+             "Hyoscyamus aureus"
+          ],
+           "maps_query_location": "Sussita"
+        }
+      ]
+    },
+    {
+       "date": "16/01/2020",
+      "observer": null,
+      "original_text": "פורחים נרקיסים בתוך שלוליות עמוקות ...\nצאו לשם מצויידם במגפיים",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "Narcissus tazetta"
+          ],
+           "maps_query_location": "Nov"
+        }
+      ]
+    },
+     {
+      "date": "15/01/2020",
+      "observer": null,
+       "original_text": "הכלניות החלו לפרוח בשלל צבעים",
+       "locations": [
+         {
+            "location_name": "מנחת מגדו",
+            "flowers": [
+              "Anemone coronaria"
+            ],
+             "maps_query_location": "Megiddo Airfield"
+         }
+       ]
+    },
+    {
+      "date": "13/01/2020",
+      "observer": "שמעון צור",
+      "original_text": "בחורשה לרגלי תל לכיש פריחה מרשימה של נרקיס מצוי וכן דודאי רפואי",
+       "locations": [
+         {
+            "location_name": "תל לכיש",
+            "flowers": [
+              "Narcissus tazetta",
+               "Mandragora autumnalis"
+            ],
+             "maps_query_location": "Tel Lachish"
+         }
+       ]
+    },
+    {
+      "date": "12/01/2020",
+      "observer": "יעקב מחלב",
+      "original_text": "פריחת טוריים מדבריים במכתש רמון ליד מחצבת הגבס הישנה. בתאריך 11.1.2020",
+      "locations": [
+        {
+          "location_name": "מכתש רמון",
+          "flowers": [
+            "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Ramon Crater"
+        }
+      ]
+    },
+     {
+      "date": "12/01/2020",
+      "observer": "אורי זיתוני",
+      "original_text": "פריחת רקפות בנחל עיון, במצפור התנור",
+      "locations": [
+         {
+           "location_name": "נחל עיון",
+           "flowers": [
+             "Cyclamen persicum"
+           ],
+            "maps_query_location": "Nahal Iyyon"
+         },
+         {
+           "location_name": "מצפור התנור",
+           "flowers": [
+             "Cyclamen persicum"
+           ],
+           "maps_query_location": "HaTanur Observation Point"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2020",
+      "observer": null,
+      "original_text": "נחל בארותיים - נגב מערבי - 8.1.20\nעם מטיילי יום ד'",
+       "locations": [
+        {
+          "location_name": "נחל בארותיים",
+           "flowers": [],
+          "maps_query_location": "Nahal Be'erotayim"
+        },
+        {
+          "location_name": "נגב מערבי",
+          "flowers": [],
+          "maps_query_location": "Western Negev"
+         }
+       ]
+    },
+    {
+      "date": "11/01/2020",
+      "observer": null,
+       "original_text": "בחירבת מלח , בעליה למוחרקה פורחים פרטים רבים",
+       "locations": [
+         {
+            "location_name": "חירבת מלח",
+            "flowers": [
+             "Mandragora autumnalis"
+            ],
+            "maps_query_location": "Khirbet Milh"
+          },
+          {
+            "location_name":"מוחרקה",
+             "flowers": [
+              "Mandragora autumnalis"
+            ],
+            "maps_query_location": "Muhraka"
+          }
+       ]
+    },
+    {
+      "date": "11/01/2020",
+      "observer": null,
+      "original_text": "עיזוז עלתה על המפה ... ראו קישור למטה\nשדות של פשתנית ססגונית, בן פרג סגול, פשתנית אשקלון, ישימונית דו גונית, פשתנית מלבינה, קדד משולחף מחרוזת משונצת ועוד",
+      "locations": [
+        {
+          "location_name": "עיזוז",
+          "flowers": [
+              "Linaria chalepensis",
+               "Papaver umbonatum",
+                "Linaria ascalonica",
+               "Gymnarrhena micrantha",
+                "Linaria albifrons",
+                "Astragalus tribuloides"
+            ],
+          "maps_query_location": "Ezuz"
+        }
+      ]
+    }
+  ]
+}
+```

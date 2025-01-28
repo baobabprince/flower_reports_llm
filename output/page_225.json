@@ -1,0 +1,126 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/11/2020",
+      "observer": null,
+      "original_text": "נרקיסים, רקפות, סיתווניות , בן חצב סיתווני, ועוד ועוד ראו בקישור",
+      "locations": [
+        {
+          "location_name": "חירבת חנות",
+           "flowers": ["נרקיס", "רקפת", "סתוונית", "בן חצב סתווני"],
+          "maps_query_location": "Khirbat Hanut"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": null,
+      "original_text": "פורח בהמוניו ביער חדרה",
+      "locations": [
+        {
+          "location_name": "יער חדרה",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Hadera Forest"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": null,
+      "original_text": "בפארק איילון (קנדה) ראו בקישור",
+       "locations": [
+        {
+          "location_name": "פארק איילון",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Ayalon Park"
+        }
+      ]
+    },
+     {
+      "date": "21/11/2020",
+      "observer": "צביקה באר",
+       "original_text": "פריחת הכרכוכים, נרקיסים, מעט רקפות וסוף פריחת הסיתווניות בחרבה חנות",
+      "locations": [
+         {
+          "location_name": "חרבה חנות",
+           "flowers": ["כרכום", "נרקיס", "רקפת", "סתוונית"],
+          "maps_query_location": "Khirbat Hanut"
+        }
+      ]
+    },
+     {
+      "date": "21/11/2020",
+      "observer": null,
+       "original_text": "חלמוניות פורחות במעלה רחבעם",
+        "locations": [
+         {
+          "location_name": "מעלה רחבעם",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Ma'ale Rehav'am"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2020",
+      "observer": null,
+      "original_text": "חלמוניות כרכומים וסתוונייות בהר מירון",
+      "locations": [
+       {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית", "כרכום", "סתוונית"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+     {
+      "date": "20/11/2020",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד'",
+      "locations": [
+        {
+          "location_name": "גליל העליון",
+           "flowers": [],
+          "maps_query_location": "Upper Galilee"
+        }
+      ]
+    },
+    {
+      "date": "20/11/2020",
+      "observer": "מיכאל קליין",
+       "original_text": "בהר מירון - טריות ורעננות",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "20/11/2020",
+      "observer": "אריאל ארליך",
+      "original_text": "פריחה מרהיבה, מאות פרטים בערוץ הנחל וסביבתו",
+       "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Ma'ale Rehav'am"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2020",
+       "observer": "מייק",
+      "original_text": "בן חצב סתווני פורח בתבור בדרך לחלמוניות שעדיין אינן.",
+      "locations": [
+        {
+          "location_name": "תבור",
+           "flowers": ["בן חצב סתווני"],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    }
+  ]
+}
+```

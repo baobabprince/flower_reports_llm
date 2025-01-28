@@ -1,0 +1,202 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/11/2019",
+      "observer": null,
+      "original_text": "נקודות חן בהר הנגב",
+      "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": [],
+          "maps_query_location": "Har HaNegev"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2019",
+      "observer": null,
+      "original_text": "אחילוף צר-עלים, מלפפון הנביאים , מרווה מצרית, ובן-חצב מדברי",
+       "locations": [
+        {
+          "location_name": "עינות פצאל",
+          "flowers": [
+            "אחילוף צר-עלים",
+            "מלפפון הנביאים",
+            "מרווה מצרית",
+            "בן-חצב מדברי"
+          ],
+          "maps_query_location": "Einot Faza'el"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2019",
+      "observer": "רוני בראונר",
+      "original_text": "במעגן מיכאל , ראו בצילומי רוני בראונר",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+            "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2019",
+      "observer": null,
+      "original_text": "צומת-גולני: אחילוף הגליל , קורטם  דק, בוצין לקוי     \nמאגר-בנטל: תלתן נחות, תלתן הארגמן, שינן עב-שורש, תלתן בלוטי, קערורית סגולה, סתוונית התשבץ, לבדנית הביצות, כרכום נאה, ארכובית הכתמים´ ברוניקת המים, גומא דו-אנפין  \n ברכת בר-און: עופרית אירופית, עוקץ-עקרב שעיר, חרחבינה טובענית \nרוג'ום אל-הירי: אחילוף החורן, בן-חצב-סתווני\nאחו נוב: סיתוונית ירושלים, טיון חריף",
+      "locations": [
+        {
+          "location_name": "צומת גולני",
+            "flowers": [
+            "אחילוף הגליל",
+            "קורטם דק",
+            "בוצין לקוי"
+          ],
+          "maps_query_location": "Tzomet Golani"
+        },
+        {
+          "location_name": "מאגר בנטל",
+            "flowers": [
+            "תלתן נחות",
+            "תלתן הארגמן",
+            "שינן עב-שורש",
+             "תלתן בלוטי",
+            "קערורית סגולה",
+            "סתוונית התשבץ",
+            "לבדנית הביצות",
+             "כרכום נאה",
+              "ארכובית הכתמים",
+             "ברוניקת המים",
+             "גומא דו-אנפין"
+          ],
+          "maps_query_location": "Maagar Bental"
+        },
+         {
+          "location_name": "ברכת בר-און",
+             "flowers": [
+            "עופרית אירופית",
+             "עוקץ-עקרב שעיר",
+            "חרחבינה טובענית"
+          ],
+          "maps_query_location": "Brechat Bar On"
+        },
+        {
+           "location_name": "רוג'ום אל-הירי",
+            "flowers": [
+            "אחילוף החורן",
+            "בן-חצב-סתווני"
+          ],
+           "maps_query_location": "Rujum el-Hiri"
+        },
+         {
+          "location_name": "אחו נוב",
+            "flowers": [
+            "סיתוונית ירושלים",
+            "טיון חריף"
+          ],
+           "maps_query_location":"Ahu Nov"
+        },
+        {
+          "location_name": "גולן",
+            "flowers": [],
+           "maps_query_location":"Golan Heights"
+          },
+        {
+             "location_name": "צפון",
+              "flowers": [],
+             "maps_query_location": null
+            }
+      ]
+    },
+    {
+      "date": "02/11/2019",
+       "observer": null,
+      "original_text": "ראו קישור למטה - יש שם פריחה יפה",
+        "locations": [
+        {
+          "location_name": "חירבת מלח",
+            "flowers": [],
+           "maps_query_location": "Khirbet Milh"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2019",
+      "observer": null,
+      "original_text": "ראו קישור",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+             "flowers": ["חלמונית"],
+          "maps_query_location": "Rekhes Boker"
+        }
+      ]
+    },
+    {
+       "date": "02/11/2019",
+      "observer": "יוני פלס",
+      "original_text": "פריחה יפה של סתווניות בנחל צופים בירושלים",
+      "locations": [
+        {
+          "location_name": "נחל צופים",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Nahal Tsofim"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+     {
+      "date": "02/11/2019",
+      "observer": null,
+      "original_text": "בגבעת עדה בגן המייסדים",
+       "locations": [
+         {
+          "location_name": "גבעת עדה",
+             "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Giv'at Ada"
+        },
+         {
+          "location_name": "גן המייסדים",
+            "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Gan HaMeyasdim"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2019",
+       "observer": null,
+      "original_text": "'מטיילי יום רביעי' בסיור סתווי אל אתרי פריחה של אחילוף החורן, חרחבינה טובענית, וכמובן גם כרכום וסתוונית.",
+      "locations": [
+          {
+            "location_name": "רמת הגולן",
+            "flowers": [
+               "אחילוף החורן",
+               "חרחבינה טובענית",
+                "כרכום",
+              "סתוונית"
+              ],
+              "maps_query_location":"Golan Heights"
+          }
+      ]
+    },
+    {
+     "date": "29/10/2019",
+      "observer": "הדס תדהר",
+      "original_text": "29/10/2019 פריחת חלמוניות בשיאה",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Rekhes Boker"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/10/2022",
+      "observer": null,
+      "original_text": "חלם ונסע :\nחבצלת הנגב, מלחית חומה ועוד",
+       "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": ["חבצלת הנגב","מלחית חומה"],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2022",
+      "observer": null,
+      "original_text": "סיתוונית התשבץ  פורחת גם למרגלות הר בנטל, מרום גולן וברכס חזקה",
+      "locations": [
+        {
+          "location_name": "הר בנטל",
+          "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Mount Bental"
+        },
+         {
+          "location_name": "מרום גולן",
+           "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Merom Golan"
+        },
+        {
+          "location_name": "רכס חזקה",
+           "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Har Hazeka"
+        }
+      ]
+    },
+     {
+      "date": "09/10/2022",
+      "observer": null,
+      "original_text": "לרכז חזקה , ולבשביל הפיסגה בהר מירון",
+      "locations": [
+       {
+          "location_name": "רכס חזקה",
+          "flowers": [],
+          "maps_query_location": "Har Hazeka"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": [],
+           "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2022",
+      "observer": null,
+      "original_text": "בתל חזקה\nברכס בוקר",
+      "locations": [
+         {
+          "location_name": "תל חזקה",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Tel Hazeka"
+        },
+        {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Ramat Boker"
+        }
+      ]
+    },
+     {
+      "date": "08/10/2022",
+      "observer": null,
+      "original_text": "חורשף מצוייץ, שומר פשוט, טיון דביק, כתלה חריפה, עדיין חצבים",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["חורשף מצויץ","שומר פשוט","טיון דביק","כתלה חריפה","חצב"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/10/2022",
+       "observer": "אריה  טננבאום",
+      "original_text": "חלמונית גדולה \nתל חזקה 4.10.22",
+      "locations": [
+         {
+          "location_name": "תל חזקה",
+           "flowers": ["חלמונית גדולה"],
+           "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+        {
+      "date": "06/10/2022",
+      "observer": "אריה  טננבאום",
+      "original_text": "סתוונית בכירה \nנחל צבעון -שביל ישראל\n3.10.22",
+       "locations": [
+        {
+          "location_name": "נחל צבעון",
+          "flowers": ["סתוונית בכירה"],
+          "maps_query_location": "Nahal Tzevon"
+         }
+      ]
+    },
+    {
+      "date": "06/10/2022",
+       "observer": "אריה  טננבאום",
+      "original_text": "תל חזקה 4.10.22",
+       "locations": [
+         {
+          "location_name": "תל חזקה",
+          "flowers": ["סתוונית התשבץ"],
+          "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+     {
+      "date": "04/10/2022",
+       "observer": "שמעון אלדור",
+      "original_text": "פריחת חצבים מרהיבה בשיאה בנחל שימרון.",
+      "locations": [
+        {
+          "location_name": "נחל שימרון",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nahal Shimron"
+        }
+      ]
+    },
+    {
+      "date": "03/10/2022",
+       "observer": null,
+      "original_text": "בתל עזקה בגולן",
+       "locations": [
+        {
+          "location_name": "תל עזקה",
+          "flowers": ["סתוונית התשבץ"],
+          "maps_query_location": "Tel Azeka"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": ["סתוונית התשבץ"],
+            "maps_query_location": "Golan Heights"
+        }
+      ]
+    }
+  ]
+}
+```

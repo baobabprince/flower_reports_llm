@@ -1,0 +1,163 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2020",
+      "observer": "יובל אור",
+      "original_text": "על הגבעה בין עקב מוני לבין חרבת כפר שורר, מאות חצבחם פורחים.",
+      "locations": [
+        {
+          "location_name": "עקב מוני",
+           "flowers": ["חצב"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "חרבת כפר שורר",
+           "flowers": ["חצב"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/09/2020",
+       "observer": null,
+      "original_text": "מאות ואלפי חצבים פורחים בתל צרעה בין מנזר דיר רפאת לקיבוץ צרעה (קרוב לקיבוץ) ",
+      "locations": [
+         {
+          "location_name": "תל צרעה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Tel Tzora"
+        },
+        {
+          "location_name": "מנזר דיר רפאת",
+           "flowers": ["חצב"],
+           "maps_query_location": "Deir Rafat Monastery"
+        },
+        {
+          "location_name": "קיבוץ צרעה",
+          "flowers": ["חצב"],
+          "maps_query_location": "Tzora"
+        }
+      ]
+    },
+     {
+      "date": "08/09/2020",
+       "observer": null,
+      "original_text": "שמורת שניר: אשבל נאה, ארכובית מחודדת, דבקת הנחלים, נענת המים , עוקצר היערות, פרע מנוקב, שבטבט גדול",
+       "locations": [
+        {
+          "location_name": "שמורת שניר",
+          "flowers": ["אשבל נאה", "ארכובית מחודדת", "דבקת הנחלים", "נענת המים", "עוקצר היערות", "פרע מנוקב", "שבטבט גדול"],
+           "maps_query_location":"Nahal Snir Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2020",
+       "observer": null,
+      "original_text":"אגמון החולה: פשטה שרועה, פרע ריחני, ערברבה מרובעת, געדת הביצות",
+        "locations": [
+        {
+          "location_name": "אגמון החולה",
+           "flowers": ["פשטה שרועה", "פרע ריחני", "ערברבה מרובעת", "געדת הביצות"],
+           "maps_query_location": "Agamon Hula"
+        }
+      ]
+    },
+     {
+      "date": "08/09/2020",
+       "observer": null,
+      "original_text": "לצידי כביש 6 ובמרכז.",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "מרכז",
+          "flowers": ["חצב"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "07/09/2020",
+      "observer": "לריסה חייטמן",
+       "original_text":"ממש ליד החניון ולאורך רכס הכורכר ימינה בגן לאומי פלמחים, המון חבצלות",
+      "locations": [
+        {
+          "location_name": "גן לאומי פלמחים",
+          "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Palmachim National Park"
+        }
+      ]
+    },
+    {
+      "date": "07/09/2020",
+      "observer": "לריסה חייטמן",
+       "original_text": "מול רח יקינטון בנס ציונה, בגבעות הכורכר, פורחים הרבה חצבים",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": ["חצב"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "05/09/2020",
+       "observer": null,
+      "original_text": "יש פריחה במצוק סידני עלי בירידה לחוף הים , דרומית למסגד.",
+      "locations": [
+        {
+           "location_name": "מצוק סידני עלי",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "04/09/2020",
+       "observer": "עמיר פז",
+      "original_text": "גם אצלי השום הסתווי אוטוטו פורח. גם שום החורשים אנדמי לכרמל, ולא רק הסתווי",
+      "locations": [
+         {
+           "location_name": "כרמל",
+           "flowers": ["שום סתווי", "שום החורש"],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+      "date": "03/09/2020",
+      "observer": null,
+      "original_text": "הפרח הוא האנדמי היחיד בכרמל .... פורח בגבעת ההגנה במקומות סתר ידועים רק ליודעי חן ...",
+        "locations": [
+         {
+           "location_name": "כרמל",
+           "flowers": ["שום סתווי"],
+           "maps_query_location": "Carmel"
+         },
+        {
+           "location_name":"גבעת ההגנה",
+           "flowers": ["שום סתווי"],
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "03/09/2020",
+       "observer": null,
+      "original_text": "בהר רמון ",
+      "locations": [
+        {
+          "location_name": "הר רמון",
+          "flowers": ["סיתוונית הקליפות"],
+           "maps_query_location": "Mount Ramon"
+        }
+      ]
+    }
+  ]
+}
+```

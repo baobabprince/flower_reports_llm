@@ -1,0 +1,153 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/01/2017",
+      "observer": null,
+      "original_text": "אלפי נץ-חלב איזמלני, ועשרות נרקיסים בשיא פריחה במסלולי הטיולים : תל צור וחירבת עקב ,\nכרכומים סוף, \nבתחילת פריחה וממש לפני : \nרקפות, וזלזלת הקנוקנות.",
+      "locations": [
+        {
+          "location_name": "תל צור",
+          "flowers": [
+            "Ornithogalum narbonense",
+            "Narcissus tazetta",
+             "Crocus",
+            "Cyclamen persicum",
+             "Clematis cirrhosa"
+           ],
+          "maps_query_location": "Tel Tzur"
+        },
+        {
+          "location_name": "חירבת עקב",
+           "flowers": [
+            "Ornithogalum narbonense",
+            "Narcissus tazetta",
+             "Crocus",
+            "Cyclamen persicum",
+             "Clematis cirrhosa"
+           ],
+          "maps_query_location": "Khirbet Ekev"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2017",
+      "observer": "רועי קן-תור",
+      "original_text": "כעת אחרי חנוכה, פרחי הנרות מתחילים לעלות ולהפיץ את שלהבותיהם בכל מקום.",
+       "locations": [
+        {
+          "location_name": null,
+          "flowers": ["Asphodelus"],
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "01/01/2017",
+      "observer": "כרמית שטרן",
+      "original_text": "פריחה מדהימה של עשרות נרקיסים בנחל חצץ. שיא הפריחה אחרי גשם .",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["Narcissus tazetta"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+      {
+      "date": "30/12/2016",
+       "observer": null,
+      "original_text": "במצוק חורשת ה40- מרבדים של נרקיסים, פורחות גם רקפות, אירוס הסרגל, כרכומים, ועוד רגע גם נץ חלב.",
+        "locations": [
+        {
+          "location_name": "חורשת ה40",
+          "flowers": [
+            "Narcissus tazetta",
+            "Cyclamen persicum",
+            "Iris palaestina",
+            "Crocus",
+             "Ornithogalum"
+            ],
+            "maps_query_location": "Horeshat HaArba'im"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2016",
+      "observer": null,
+      "original_text": "פורחת עכשיו בנחל לוץ",
+      "locations": [
+        {
+          "location_name": "נחל לוץ",
+          "flowers": ["Colchicum hierosolymitanum"],
+           "maps_query_location": "Nahal Luts"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2016",
+      "observer": null,
+      "original_text": "יער מענית מלא בנרקיס מצוי (זן ההר).",
+      "locations": [
+        {
+          "location_name": "יער מענית",
+           "flowers": ["Narcissus tazetta"],
+            "maps_query_location": "Ya'ar Ma'anit"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2016",
+       "observer": "הדר ויס",
+      "original_text": "פריחת נרקיסים ורקפות ביער ראש העין",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+            "flowers": [ "Narcissus tazetta", "Cyclamen persicum" ],
+            "maps_query_location": "Ya'ar Rosh HaAyin"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2016",
+      "observer": "גלעד",
+      "original_text": "במפנה הצפוני של החורשה",
+       "locations": [
+        {
+          "location_name": "חרבת חנות",
+          "flowers": ["Gagea reticulata"],
+           "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+      {
+      "date": "25/12/2016",
+      "observer": null,
+      "original_text": "נצפה בעת טיול ברכס רמים",
+      "locations": [
+        {
+          "location_name": "רכס רמים",
+          "flowers": ["Tulipa agenensis"],
+            "maps_query_location": "Rekhes Ramim"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2016",
+       "observer": null,
+      "original_text": "המוני נץ-חלב איזמלני, כרכומים ונרקיסים",
+       "locations": [
+        {
+          "location_name": "חוטם הכרמל",
+           "flowers": [
+             "Ornithogalum narbonense",
+             "Crocus",
+              "Narcissus tazetta"
+             ],
+             "maps_query_location": "Hotem HaCarmel"
+        }
+      ]
+    }
+  ]
+}
+```

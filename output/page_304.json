@@ -1,0 +1,224 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/03/2019",
+      "observer": "עמיר פז",
+      "original_text": "נץ חלב שטוח עלים, שום יריחו, חבלבל מצרי,  שילשון מישל, מקור חסידה תמים, טורגניה רחבת עלים, פשתנית משולשת+קטנת פרחים, חרצית דביקה, קיטה סוככנית, ורבורגינה פקטורובסקי, וזקן תיש מדברי פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "נץ חלב שטוח עלים",
+            "שום יריחו",
+            "חבלבל מצרי",
+            "שילשון מישל",
+            "מקור חסידה תמים",
+            "טורגניה רחבת עלים",
+            "פשתנית משולשת",
+            "פשתנית קטנת פרחים",
+            "חרצית דביקה",
+            "קיטה סוככנית",
+             "ורבורגינה פקטורובסקי",
+            "זקן תיש מדברי"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/03/2019",
+      "observer": "אמיר ברנע",
+      "original_text": "האירוס נצרתי בשיא פריחתו היום בשני אתרים: \n1. על שביל ישראל ליד הר דבורה (לאורך נחל ברק בן אבינועם).\n2. בשמורת האירוס הנצרתי ליד בית העלמין של נצרת עילית.",
+      "locations": [
+        {
+          "location_name": "הר דבורה",
+          "flowers": [
+            "אירוס נצרתי"
+          ],
+            "maps_query_location": "Mount Tabor"
+        },
+        {
+          "location_name": "שמורת האירוס הנצרתי",
+          "flowers": [
+            "אירוס נצרתי"
+           ],
+            "maps_query_location": null
+        },
+         {
+          "location_name": "נצרת עילית",
+           "flowers": [
+            "אירוס נצרתי"
+           ],
+           "maps_query_location": "Nazareth Illit"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2019",
+      "observer": "אייל יקואל",
+      "original_text": "פריחת צבעונים בנחל משגב(נחל השומר)ליד כפר גלעדי.שיא הפריחה.",
+      "locations": [
+        {
+          "location_name": "נחל משגב",
+          "flowers": [
+            "צבעוני"
+          ],
+          "maps_query_location":"Nahal Misgav"
+        },
+         {
+          "location_name": "כפר גלעדי",
+          "flowers": [
+            "צבעוני"
+          ],
+           "maps_query_location":"Kfar Giladi"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2019",
+      "observer": "מיכל יקואל",
+      "original_text": "נחל משגב,ליד כפר גילעדי בגליל העליון. פריחה מרהיבה של צבעונים, נוריות ,רקפות",
+     "locations": [
+       {
+          "location_name": "נחל משגב",
+           "flowers": [
+             "צבעוני",
+             "נורית",
+             "רקפת"
+           ],
+          "maps_query_location": "Nahal Misgav"
+        },
+        {
+         "location_name": "כפר גילעדי",
+          "flowers": [
+            "צבעוני",
+             "נורית",
+             "רקפת"
+           ],
+           "maps_query_location":"Kfar Giladi"
+        },
+         {
+          "location_name": "גליל העליון",
+          "flowers": [
+            "צבעוני",
+             "נורית",
+             "רקפת"
+           ],
+           "maps_query_location": "Upper Galilee"
+        }
+      ]
+    },
+     {
+      "date": "06/03/2019",
+       "observer": null,
+      "original_text": "פריחה מדהימה של אלפי צבעונים היום",
+      "locations": [
+        {
+          "location_name": "נחל משגב",
+          "flowers": [
+            "צבעוני ההרים"
+          ],
+          "maps_query_location":"Nahal Misgav"
+         },
+        {
+         "location_name": "כפר גילעדי",
+          "flowers": [
+             "צבעוני ההרים"
+           ],
+            "maps_query_location":"Kfar Giladi"
+        }
+      ]
+    },
+   {
+      "date": "06/03/2019",
+      "observer": "עמיר פז",
+      "original_text": "פשתנית ריסנית פורחת בגן",
+      "locations": [
+        {
+           "location_name": "גן מקלט שרוני",
+          "flowers": [
+             "פשתנית ריסנית"
+           ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/03/2019",
+      "observer": null,
+      "original_text": "בחוף צמח: סגינה זעירה , חלבלוב הדגנים, בחוף הכנרת במוצא הירדן:\nגושים מפותחים של אפזרית  (עדיין לא זיהיתי איזו) וגם מספר פריטים יינית בינונית או שחליל שרוע",
+      "locations": [
+         {
+          "location_name": "חוף צמח",
+          "flowers": [
+            "סגינה זעירה",
+            "חלבלוב הדגנים"
+          ],
+             "maps_query_location": null
+        },
+        {
+          "location_name": "חוף הכנרת",
+          "flowers": [
+           "אפזרית",
+            "יינית בינונית",
+            "שחליל שרוע"
+          ],
+           "maps_query_location":"Sea of Galilee"
+        },
+          {
+          "location_name": "מוצא הירדן",
+           "flowers": [
+             "אפזרית",
+             "יינית בינונית",
+            "שחליל שרוע"
+          ],
+          "maps_query_location":"Jordan River outlet"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2019",
+       "observer": null,
+      "original_text": "ראו אלבום",
+       "locations": [
+         {
+           "location_name": "הכרמל",
+            "flowers": [
+              "סחלב"
+            ],
+           "maps_query_location": "Carmel"
+        }
+       ]
+    },
+    {
+      "date": "05/03/2019",
+       "observer": null,
+       "original_text": "בשמורת איריס ירוחם",
+      "locations": [
+        {
+          "location_name": "שמורת איריס ירוחם",
+           "flowers": [
+              "איריס ירוחם"
+            ],
+           "maps_query_location": "Iris Yeroham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2019",
+       "observer": null,
+      "original_text": "ראו באלבום ש אלברט קשת",
+      "locations": [
+        {
+          "location_name": "יער כוכב יאיר",
+          "flowers": [
+            "רקפת"
+          ],
+           "maps_query_location": "Kokhav Ya'ir"
+        }
+      ]
+    }
+  ]
+}
+```

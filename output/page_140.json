@@ -1,0 +1,191 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/03/2022",
+      "observer": "ענת טל",
+      "original_text": "מרבדי איריסים ועוד פריחה מרשימה באחו נוב",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["איריס"],
+          "maps_query_location": "Nahal Nov"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2022",
+      "observer": "גניה ויהודה קדם",
+      "original_text": "מרבדי רקפות וצבעונים מדהימים בגבעות מעגן מיכאל , סמול למעגן הדייג מעין צבי.",
+       "locations": [
+        {
+          "location_name": "גבעות מעגן מיכאל",
+          "flowers": ["רקפת", "צבעוני"],
+           "maps_query_location": "Giv'ot Ma'agan Mikha'el"
+        },
+         {
+          "location_name": "מעין צבי",
+          "flowers": ["רקפת", "צבעוני"],
+          "maps_query_location": "Ma'ayan Zevi"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2022",
+      "observer": "עידו מגן",
+      "original_text": "מטעי השקדים שליד מיני ישראל וקיבוץ נחשון בשיא פריחתם; לצד כביש 3 בין לטרון לצומת נחשון יש פריחה של עוד מטע שקדים ותורמוס ההרים; ליד קיבוץ נחשון שדה מלא בכלניות",
+       "locations": [
+        {
+          "location_name": "מיני ישראל",
+          "flowers": ["שקד"],
+           "maps_query_location": "Mini Israel"
+        },
+         {
+          "location_name": "קיבוץ נחשון",
+          "flowers": ["שקד", "תורמוס ההרים", "כלנית"],
+          "maps_query_location": "Kibbutz Nahshon"
+        },
+        {
+          "location_name": "לטרון",
+             "flowers": ["שקד", "תורמוס ההרים"],
+          "maps_query_location": "Latrun"
+        },
+         {
+          "location_name": "צומת נחשון",
+          "flowers": ["שקד", "תורמוס ההרים"],
+           "maps_query_location": "Nahshon Junction"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2022",
+      "observer": "יורם קדרון",
+      "original_text": "ב1/3 ביער האילנות( ליד פרדסיה) נצפו המון קבוצות אירוסים בשיא פריחה/ לקראת שיא, וכן- קידה שעירה, תורמוס לבן, ותחילת - שום תל אביבי וצבעונים",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": ["איריס", "קידה שעירה", "תורמוס לבן", "שום תל אביבי", "צבעוני"],
+           "maps_query_location":"Ilanot Forest"
+        },
+         {
+           "location_name": "פרדסיה",
+           "flowers": ["איריס", "קידה שעירה", "תורמוס לבן", "שום תל אביבי", "צבעוני"],
+           "maps_query_location": "Pardesiya"
+         }
+      ]
+    },
+    {
+      "date": "28/02/2022",
+      "observer": "יחזקאל רבינוביץ",
+       "original_text": "מרבדים צפופים של כלניות בעיקר סגולות וורודות לבנות ומעט אדומות \n(מיקום בעמוד ענן)",
+      "locations": [
+        {
+          "location_name": "דפנה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Dafna"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בהר תורען (דרך נוף), פורחים הסחלבים: סחלנב מצויר-פרט בודד, סחלב אנטולי (2 פרטים-אחד בהיר) , סחלב פרפרני-מספר פרטים, יקינתון מזרחי-פרט אחד מעט בהיר.\nבחורבת עמודים: שום משולש,חיקינתון מזרחי (פרט אחד שנותר לפליטה...).",
+       "locations": [
+        {
+          "location_name": "הר תורען",
+          "flowers": ["סחלב מצויר", "סחלב אנטולי", "סחלב פרפרני", "יקינתון מזרחי"],
+           "maps_query_location": "Har Tur'an"
+        },
+         {
+          "location_name": "חורבת עמודים",
+           "flowers": ["שום משולש", "יקינתון מזרחי"],
+            "maps_query_location": "Khirbat Amudim"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2022",
+      "observer": "מיכל ליפשיץ",
+      "original_text": "פריחה מרשימה של כלניות, רקפות, עיריות, עיריוני , ונוף עוצר נשימה. \nלכל רכב, לכל המשפחה.",
+        "locations": [
+        {
+          "location_name": "יער צ'רצ'יל-נצרת",
+          "flowers": ["כלנית", "רקפת", "עירית", "עיריוני"],
+           "maps_query_location": "Churchill Forest"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2022",
+      "observer": "מיכל ליפשיץ",
+       "original_text": "מופע רקפות מרהיב ביער לביא. צמוד לצומת גולני. מגיעים עם הרכב. לכל המשפחה.",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Lavi Forest"
+         },
+         {
+          "location_name": "צומת גולני",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Golani Junction"
+        }
+      ]
+    },
+    {
+       "date": "27/02/2022",
+       "observer": null,
+      "original_text": "מרבדי פריחה של כלניות ועירית גדולה, נצפו גם עשנן צוף, אלקנת הצבעים, שום מזרחי וזהבית השלוחות.",
+         "locations": [
+        {
+          "location_name": "יער דבירה",
+          "flowers": ["כלנית", "עירית גדולה", "עשנן צוף", "אלקנת הצבעים", "שום מזרחי", "זהבית השלוחות"],
+           "maps_query_location": "Devira Forest"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2022",
+      "observer": null,
+      "original_text": "אחו נב: \nרומוליאה סגלולית, כלנית בצבע מיוחד, איריס הביצות, נוניאה קהה \nבריכת בר-און\nברוניקה סורית, בר-נורית חרמשי ,  נץ-חלב אזמלני , רקפת יוונית , \nתל חזקה\nאיריס הלבנון , ברוניקה סורית , זהבית דמשקאית \nמאגר-בנטל \nאיריס הלבנון , קורידלית הסלעים , רקפת יוונית \nמעל ובחמת גדר\nטופל אדום , שקד קטן-עלים , חלבלוב מגובשש \nיער בית קשת:\nגביעונית הלבנון\nהר תורען: \nסחלב מצוייר",
+       "locations": [
+        {
+          "location_name": "אחו נב",
+           "flowers": ["רומוליאה סגלולית", "כלנית", "איריס הביצות", "נוניאה קהה"],
+            "maps_query_location": "Nahal Nov"
+        },
+        {
+           "location_name": "בריכת בר-און",
+           "flowers": ["ורוניקה סורית", "בר-נורית חרמשי", "נץ-חלב אזמלני", "רקפת יוונית"],
+            "maps_query_location": "Breichat Bar On"
+        },
+         {
+          "location_name": "תל חזקה",
+          "flowers": ["איריס הלבנון", "ורוניקה סורית", "זהבית דמשקאית"],
+           "maps_query_location": "Tel Hazeka"
+        },
+        {
+           "location_name": "מאגר בנטל",
+            "flowers": ["איריס הלבנון", "קורידלית הסלעים", "רקפת יוונית"],
+             "maps_query_location": "Maagar Bental"
+        },
+        {
+           "location_name": "חמת גדר",
+            "flowers": ["טופל אדום", "שקד קטן-עלים", "חלבלוב מגובשש"],
+            "maps_query_location":"Hamat Gader"
+        },
+         {
+          "location_name":"יער בית קשת",
+          "flowers": ["גביעונית הלבנון"],
+           "maps_query_location":"Beit Keshet Forest"
+         },
+         {
+           "location_name": "הר תורען",
+           "flowers": ["סחלב מצויר"],
+            "maps_query_location": "Har Tur'an"
+         }
+      ]
+    }
+  ]
+}
+```

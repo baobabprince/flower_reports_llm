@@ -1,0 +1,224 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/05/2017",
+      "observer": null,
+      "original_text": "קרוב לשביל ישראל: גם כש\"אין פריחה\"  יש  פריחה : בוצין מפורץ,  חבלבלים: השיח, שעיר, השדה , שום לבנבן, אמיתה גדולה, בר גביע חלק, חוח עקוד, קיפודנים, צלף קוצני, שיח אברהם, עולש,  אמיתה גדולה ואמיתה קייצית, קיטה רותמית,  אזוב מצוי , שלמון יפואי, שברקים עוקץ עקרב ( שני מינים לפחות)",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "Verbascum sinuatum",
+            "Convolvulus",
+             "Allium neapolitanum",
+            "Ammosperma cinerea",
+            "Gastrocotyle hispida",
+            "Echinops",
+            "Capparis spinosa",
+            "Vitex agnus-castus",
+             "Cichorium intybus",
+            "Ammosperma cinerea",
+            "Ammosperma aestivum",
+            "Cytisus scoparius",
+             "Micromeria fruticosa",
+            "Salvia hierosolymitana",
+            "Echium",
+            "Scorpiurus"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/05/2017",
+       "observer": "אורי שטיין",
+      "original_text": "צילם אותו עבור אתר צמח השדה אורי שטיין",
+      "locations": [
+         {
+          "location_name": "הרי אילת",
+          "flowers": [
+            "Bassia eriophora"
+          ],
+           "maps_query_location": "Eilat Mountains"
+         }
+      ]
+    },
+    {
+      "date": "18/05/2017",
+      "observer": null,
+      "original_text": "נחל עקב. בסיום הפריחה",
+      "locations": [
+        {
+          "location_name": "נחל עקב",
+          "flowers": [
+            "null"
+           ],
+          "maps_query_location": "Nahal Akev"
+        }
+      ]
+    },
+     {
+      "date": "16/05/2017",
+      "observer": null,
+      "original_text": "גל הפריחה השני מכה שוב- ציפורנית גדולת שיניים ותורמוס צהוב פורחים שוב. לא ראיתי תופעה כזאת מימי",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+              "Dianthus pendulus",
+               "Lupinus luteus"
+             ],
+          "maps_query_location": "Gan HaNedarim"
+        }
+      ]
+    },
+    {
+      "date": "15/05/2017",
+      "observer": "רון חרמוני",
+      "original_text": "חטמית זיפנית, זעזועית גדולה, חרצית, געדה כרתית ומפושקת, גזר קיפח ומצוי, שפרירה קשקשנית, אמיתה גדולה, כמנון קיפח, חרחבינה חרמשית והרבה מכחילה, פשתה מצויה ושעירה, קפודן מצוי, בר-גביע קוצני, אשבל א\"י, תגית מצויה, דם-מכבים אדום (שמתחיל להראות את פרחיו הצהובים), חוח ספרדי, חוחן הקנרס, חסה כחולת פרחים, לחך כרתי, אזוב מצוי, לטמית ערבית, עכובית הגלגל, מוצית קוצנית, פרג הכרמל, שום האבקנים ושום גבוה, שלמון יפואי, אירוס ארם-נהריים",
+      "locations": [
+        {
+          "location_name": "יער עופר",
+           "flowers": [
+               "Alcea setosa",
+              "Ferula communis",
+              "Chrysanthemum",
+               "Teucrium creticum",
+               "Daucus carota",
+              "Globularia arabica",
+               "Ammosperma cinerea",
+              "Cuminum cyminum",
+              "Echinops adenocaulos",
+                "Lithodora hispidula",
+               "Linum usitatissimum",
+              "Echinops",
+              "Gastrocotyle hispida",
+                "Salvia palaestina",
+                 "Tagetes erecta",
+               "Adonis aleppica",
+              "Scolymus hispanicus",
+              "Silybum marianum",
+                "Lactuca tatarica",
+                "Anchusa undulata",
+                "Micromeria fruticosa",
+                "Heliotropium arabicum",
+                "Gundelia tournefortii",
+                 "Pallenis spinosa",
+              "Papaver carmeli",
+               "Allium stamineum",
+                 "Allium ampeloprasum",
+                  "Salvia hierosolymitana",
+                 "Iris bismarckiana"
+            ],
+          "maps_query_location": "Ofer Forest"
+        }
+      ]
+    },
+    {
+      "date": "14/05/2017",
+      "observer": null,
+      "original_text": "מים זורמים במפלים, קחוונים, מעו אפיל, קוציץ סורי, שרעול שעיר, אחירותם החורש, הרדוף הנחלים, לוע ארי גדול, משויה פעמונית והרבה",
+      "locations": [
+        {
+          "location_name": "נחל עיון",
+            "flowers": [
+              "Anthemis",
+              "Malva sylvestris",
+                "Echinophora syriaca",
+                 "Phlomis viscosa",
+                 "Cytisus scoparius",
+                "Nerium oleander",
+                 "Antirrhinum majus",
+                "Campanula peregrina"
+            ],
+          "maps_query_location": "Nahal Ayun"
+        }
+      ]
+    },
+      {
+      "date": "13/05/2017",
+      "observer": null,
+       "original_text": "חומעה מגויידת, דו-פרק חופי, גזר החוף, אהל הגבישים, קצח  השדה, חבלבל החוף, נר הלילה החופי, גומוא הקרקפות, חורשף צהוב  סביון יפו",
+      "locations": [
+        {
+          "location_name": "חוף גדור",
+          "flowers": [
+            "Rumex pulcher",
+              "Polygonum maritimum",
+             "Daucus carota subsp. gummifer",
+            "Mesembryanthemum crystallinum",
+            "Nigella arvensis",
+            "Convolvulus scammonia",
+            "Oenothera drummondii",
+              "Phagnalon graecum",
+              "Scolymus maculatus",
+             "Senecio joppensis"
+           ],
+          "maps_query_location": "Gador Beach"
+        }
+      ]
+    },
+    {
+      "date": "12/05/2017",
+      "observer": null,
+      "original_text": "שלמון יפואי, חוחן הקנרס, חוח עקוד, עולש, אמיתה גדולה, אמיתה קיצית,גזר קיפח, דורת ארפ צובא עוקץ עקרב כולל אפור, דטורה זקופת פרי, פיגמית מצויה, מיני חבלבל: השיח, שעיר והשדה, שום גבוה, בוצין מפורץ, שברק דביק, שברק קוצני, סולנום זיתני, נירית הקמה, צלף קוצני והרבה, ופרפרים רבים",
+      "locations": [
+          {
+              "location_name": "יער בן שמן",
+              "flowers": [
+                  "Salvia hierosolymitana",
+                  "Silybum marianum",
+                  "Echinops",
+                  "Cichorium intybus",
+                   "Ammosperma cinerea",
+                  "Ammosperma aestivum",
+                   "Daucus carota",
+                  "Scorpiurus",
+                  "Datura stramonium",
+                    "Anagallis arvensis",
+                   "Convolvulus",
+                  "Allium ampeloprasum",
+                  "Verbascum sinuatum",
+                    "Echium",
+                    "Solanum elaeagnifolium",
+                    "Anagallis foemina",
+                    "Capparis spinosa"
+                ],
+            "maps_query_location": "Ben Shemen Forest"
+          }
+      ]
+    },
+    {
+      "date": "11/05/2017",
+      "observer": null,
+      "original_text": "בקיה דקת עלים במרבדים, תלתנים וקחוונים במרבדים",
+      "locations": [
+        {
+          "location_name": "הר בנטל",
+           "flowers": [
+             "Vicia tenuissima",
+             "Trifolium",
+              "Anthemis"
+           ],
+          "maps_query_location": "Mount Bental"
+        }
+      ]
+    },
+   {
+      "date": "10/05/2017",
+      "observer": "אסתר איזנרייך",
+      "original_text": "",
+      "locations": [
+          {
+           "location_name": "null",
+           "flowers": [
+               "null"
+           ],
+            "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

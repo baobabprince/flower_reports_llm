@@ -1,0 +1,178 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/09/2010",
+      "observer": "עירית",
+      "original_text": "סתוונית בכירה פורחת בחרמון  בערוץ הלח, ציר 5 , למרגלות האלון השסוע.",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "סתוונית בכירה"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2010",
+      "observer": "אורית",
+      "original_text": "בחולות עתלית עדיין פורחות במרץ חבצלות החוף, המראה והניחוח העדין משובב נפש... (שלא כמו הניילונים, הפלסטיקים, הנייר, ובקבוקי הפלסטיק ושאר אשפה ...)",
+       "locations": [
+        {
+          "location_name": "עתלית",
+          "flowers": [
+            "חבצלת החוף"
+          ],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2010",
+      "observer": null,
+      "original_text": "ליד פארק אשכול",
+      "locations": [
+        {
+          "location_name": "פארק אשכול",
+          "flowers": [
+            "חצב גלוני"
+          ],
+           "maps_query_location": "Eshkol Park"
+        }
+      ]
+    },
+     {
+      "date": "01/09/2010",
+      "observer": null,
+       "original_text": "ארוע ענק ללא תשלום\nיתקיים ב- 20-9-2010 באוניברסיטת תל-אביב",
+      "locations": [
+        {
+          "location_name": "אוניברסיטת תל אביב",
+          "flowers": [],
+          "maps_query_location": "Tel Aviv University"
+        }
+      ]
+    },
+     {
+      "date": "29/08/2010",
+      "observer": null,
+      "original_text": "חנק מחודד, שנית גדולה, נופרים, מיני חסות, פטל קדוש, לוביה מצרית ויש הרבה מים המוזרמים ע\"י חברת מקורות, הכניס הללא תשלום מאתר מקורות בכביש ראש העין פתח-תקוה",
+      "locations": [
+        {
+          "location_name": "ירקון",
+          "flowers": [
+             "חנק מחודד",
+            "שנית גדולה",
+            "נופר",
+            "מיני חסות",
+             "פטל קדוש",
+            "לוביה מצרית"
+           ],
+            "maps_query_location": "Yarkon River"
+        },
+         {
+           "location_name": "ראש העין",
+           "flowers": [
+               "חנק מחודד",
+            "שנית גדולה",
+            "נופר",
+            "מיני חסות",
+            "פטל קדוש",
+             "לוביה מצרית"
+            ],
+            "maps_query_location": "Rosh HaAyin"
+         },
+         {
+           "location_name": "פתח תקווה",
+            "flowers": [
+               "חנק מחודד",
+            "שנית גדולה",
+            "נופר",
+             "מיני חסות",
+             "פטל קדוש",
+            "לוביה מצרית"
+           ],
+            "maps_query_location": "Petah Tikva"
+        }
+      ]
+    },
+    {
+      "date": "29/08/2010",
+      "observer": "עירית",
+      "original_text": "התחילה פריחת חצבים נאה בנחל עיון, על גבעת החצבים, בין מפל האשד לבין הירידה למפל התנור. בפורום הכוורת כבר פורסמה הידיעה והדבורים מבקרות בהמוניהן. השנה יש מים בנחל ושווה לטייל בין ארבעת מפליו ממטולה עד מפל התנור.",
+      "locations": [
+        {
+          "location_name": "נחל עיון",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Iyon Stream"
+        },
+         {
+          "location_name": "מטולה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Metula"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2010",
+      "observer": null,
+      "original_text": "חסרים צילומי פריחה להשלמת המידע אודות הצמחים הללו:\nדרבונית אביבית,  גרגרנית משובלת, שום הרשת",
+      "locations": [],
+       "flowers": [
+            "דרבונית אביבית",
+            "גרגרנית משובלת",
+            "שום הרשת"
+          ]
+    },
+    {
+      "date": "23/08/2010",
+      "observer": null,
+      "original_text": "חצבים רבים פורחים מדרום למחלף דניאל לכיוון דרום, לכוון צפון הפריחה דלילה יותר",
+      "locations": [
+        {
+          "location_name": "מחלף דניאל",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Daniel Interchange"
+        }
+      ]
+    },
+    {
+      "date": "23/08/2010",
+      "observer": "אורון יעקב",
+      "original_text": "פורחים בשמורה עשרות מינים בינהם געדת הביצות , ליפיה זוחלת , אספסת זעירה ,שטיח ענקי של מדד זוחל",
+      "locations": [
+        {
+          "location_name": "שמורת אחו בנימינה",
+          "flowers": [
+            "געדת הביצות",
+            "ליפיה זוחלת",
+            "אספסת זעירה",
+            "מדד זוחל"
+          ],
+          "maps_query_location":"Binyamina Wetlands Reserve"
+        }
+      ]
+    },
+    {
+      "date": "22/08/2010",
+      "observer": null,
+      "original_text": "ראו בקישור",
+       "locations": [
+         {
+           "location_name": "ירקון",
+           "flowers": [],
+           "maps_query_location": "Yarkon River"
+         }
+        ]
+    }
+  ]
+}
+```

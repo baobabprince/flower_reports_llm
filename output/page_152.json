@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/01/2022",
+      "observer": "גיורא רמות",
+      "original_text": "פריחה מרשימה של איריס ארצישראלי בחורבת סמארה הנמצאת בנחל אלכסנדר. לצידו פורחות כלניות ורקפות",
+      "locations": [
+        {
+          "location_name": "חורבת סמארה",
+           "flowers": ["Iris palaestina", "Ranunculus asiaticus", "Cyclamen persicum"],
+          "maps_query_location": "Khurvat Samara"
+        },
+        {
+           "location_name":"נחל אלכסנדר",
+           "flowers": null,
+            "maps_query_location": "Nahal Alexander"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2022",
+      "observer": null,
+      "original_text": "אירוס הארגמן הראשון החל לפרוח\nגבעות הכורכר נס ציונה, פורחים כבר ארבעה מהם.",
+       "locations": [
+        {
+          "location_name": "גבעות הכורכר נס ציונה",
+          "flowers": ["Iris atropurpurea"],
+          "maps_query_location": "Nes Ziyyona"
+        }
+      ]
+    },
+        {
+      "date": "22/01/2022",
+       "observer": null,
+      "original_text": "מעט לפני צומת חמת גדר. החלה פריחת טופל אדום ליד הגדר יוצאים מהקרקע הסלעית.",
+      "locations": [
+          {
+            "location_name": "צומת חמת גדר",
+            "flowers": ["Phlomis phoenicea"],
+            "maps_query_location": "Hammat Gader Junction"
+          }
+        ]
+    },
+    {
+      "date": "22/01/2022",
+      "observer": "שמעון אלדור",
+      "original_text": "פריחה מרובה בשיאה בקרני חיטין.",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": ["Hyacinthus orientalis"],
+           "maps_query_location": "Qarnei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2022",
+      "observer": "גל פלד",
+      "original_text": "פריחת אירוס ארץ ישראלי וכלניות בכל איזור יער בארי",
+      "locations": [
+        {
+          "location_name": "יער בארי",
+          "flowers": ["Iris palaestina", "Ranunculus asiaticus"],
+           "maps_query_location": "Be'eri Forest"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2022",
+      "observer": "זהר קיבליצקי",
+       "original_text": "במסלול הירוק המעגלי בנחל עובדיה מתחת רמת גולדה",
+      "locations": [
+        {
+          "location_name": "נחל עובדיה",
+          "flowers": ["Romulea phoenicia"],
+          "maps_query_location": "Nahal Ovadiya"
+        },
+        {
+          "location_name": "רמת גולדה",
+          "flowers": null,
+           "maps_query_location": "Ramat Golda"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2022",
+        "observer": "אלינור רום",
+      "original_text": "כלניות אדומות, אירס ארץ ישראלי ורקפות בחורבת סמארה.\nהדרך לשם מלאה הרקפות מצידי השביל ולאורך הגבעה יש כלניות ואירוסים. כל האזור ירוק ומקסים",
+      "locations": [
+        {
+          "location_name": "חורבת סמארה",
+            "flowers": ["Ranunculus asiaticus", "Iris palaestina", "Cyclamen persicum"],
+           "maps_query_location": "Khurvat Samara"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2022",
+      "observer": "גיורא רמות ",
+      "original_text": "משטחי כלניות אדירים\nגישה נוחה ומסלול נוח וקל ",
+      "locations": [
+        {
+          "location_name": "מצפור סיוון ביקנעם",
+          "flowers": ["Ranunculus asiaticus"],
+           "maps_query_location": "Mitzpor Sivan, Yokneam"
+        }
+      ]
+    },
+      {
+      "date": "21/01/2022",
+      "observer": "עידו מגן",
+      "original_text": "ליד כפר גבירול גבעה עם פריחה יפה של כלניות ואירוסים ארצישראליים. בשמורת אירוס הארגמן שליד בית חנן אין עוד אירוסים אבל יש הרבה כלניות",
+       "locations": [
+         {
+            "location_name":"כפר גבירול",
+             "flowers": ["Ranunculus asiaticus", "Iris palaestina"],
+              "maps_query_location": "Kfar Gvirol"
+           },
+        {
+          "location_name": "שמורת אירוס הארגמן",
+            "flowers": ["Ranunculus asiaticus"],
+             "maps_query_location": "Iris Argaman Nature Reserve"
+        },
+          {
+             "location_name": "בית חנן",
+             "flowers": null,
+             "maps_query_location": "Beit Hanan"
+         }
+      ]
+    },
+     {
+      "date": "21/01/2022",
+       "observer": null,
+      "original_text": "בגבעות מעגן מיכאל, ובגבעות הכורכר מעגן מיכאל",
+       "locations": [
+        {
+          "location_name": "גבעות מעגן מיכאל",
+           "flowers": ["Ophrys speculum"],
+          "maps_query_location": "Ma'agan Michael"
+        },
+          {
+           "location_name":"גבעות הכורכר מעגן מיכאל",
+            "flowers": ["Ophrys speculum"],
+            "maps_query_location": "Ma'agan Michael"
+          }
+       ]
+    }
+  ]
+}
+```

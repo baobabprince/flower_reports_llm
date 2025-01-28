@@ -1,0 +1,430 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/04/2018",
+      "observer": null,
+      "original_text": "שום הגלגל בשדה הידוע מאות תפרחות, צלע שור חרוזה, סייפן התבואה,, תגית מצויה, פשתה שעירה, שפרירה , דרדר כחול בשפע, פיגם מצוי, זותה מעורקת ועו ד",
+      "locations": [
+        {
+          "location_name": "גני הנדיב",
+           "flowers": [
+             "Allium rotundum",
+              "Echium judaeum",
+               "Gladiolus italicus",
+               "Tagetes minuta",
+               "Linum pubescens",
+               "Anagallis arvensis",
+               "Centaurea cyanus",
+               "Ruta chalepensis",
+               "Micromeria fruticosa"
+            ],
+           "maps_query_location": "Ganei HaNadiv"
+        },
+          {
+          "location_name": "שדה שום הגלגל",
+          "flowers": [
+              "Allium rotundum",
+              "Echium judaeum",
+               "Gladiolus italicus",
+               "Tagetes minuta",
+               "Linum pubescens",
+               "Anagallis arvensis",
+               "Centaurea cyanus",
+               "Ruta chalepensis",
+               "Micromeria fruticosa"
+            ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/04/2018",
+      "observer": "ענת א.ש.",
+      "original_text": "פריחת שני פרטים של רימונית הלוטם נצפתה ב3/4/2018 במסלול ההיקפי של חורשת הארבעים בכרמל מתחת לשיחי לוטם.",
+      "locations": [
+        {
+          "location_name": "חורשת הארבעים",
+           "flowers": [
+              "Punica protopunica"
+            ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "כרמל",
+          "flowers": [
+              "Punica protopunica"
+            ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+      {
+      "date": "03/04/2018",
+      "observer": null,
+       "original_text": "תורמוס צהוב (לקראת הסוף), ערבז החוף, בוצין בירותי (כולל פרט אחד מרוחק מאוד מהריכוז הגדול), וקיטה סוככנית פורחים ביער",
+      "locations": [
+        {
+          "location_name": "יער נתניה",
+           "flowers": [
+               "Lupinus luteus",
+               "Matthiola maritima",
+                "Verbascum birutense",
+                "Torilis tenella"
+            ],
+           "maps_query_location": "Netanya Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2018",
+      "observer": "דרור בר-ניר",
+      "original_text": "בן-סחלב צריפי, סחלב שלוש-שיניים, דבורנית הקטיפה, מרוות ירושלים, מרווה משולשת, נורית אסיה, בן-חצב יקינטוני, ברקן סורי, גדילן מצוי, פעמונית קיפחת, לוטם שעיר, לוטם מרווני, זוטה מעורקת, שום משולש, לוטוס יהודה, קידה שעירה, פואה מצויה, נץ-חלב, דרדית מצויה, הרדופנין הציצית, פרסיון גדול, סינפיטון ארץ-ישראלי, לוטמית, סיפן התבואה, דם המכבים, פשתה שעירה, תגית, קחוון, אפון מצוי, פרג אגסני, שערור שעיר, רוש עקוד, נזמית לבנה, לוענית מצויה, כרבה ספרדית, עכובית הגלגל, שרעול שעיר, דרדר כחול, שלהבית דביקה ((ניצנים)  חוטמית עין הפרה, חוטמית זיפנית ועוד.....",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+           "flowers": [
+               "Anacamptis pyramidalis",
+                "Orchis tridentata",
+               "Ophrys umbilicata",
+               "Salvia hierosolymitana",
+               "Salvia triloba",
+                "Ranunculus asiaticus",
+                "Scilla hyacinthoides",
+                 "Hyoscyamus orientalis",
+                "Silybum marianum",
+                "Campanula rapunculoides",
+                 "Cistus incanus",
+                "Cistus salviifolius",
+                 "Micromeria fruticosa",
+                 "Allium trifoliatum",
+                 "Lotus halophilus",
+                 "Calicotome villosa",
+                  "Rubia tinctorum",
+                  "Ornithogalum narbonense",
+                   "Reichardia tingitana",
+                "Nerium oleander",
+                  "Adiantum capillus-veneris",
+                "Symphytum palaestinum",
+                 "Malva aegyptia",
+                 "Gladiolus italicus",
+               "Adonis aestivalis",
+                "Linum pubescens",
+                "Tagetes minuta",
+                "Anthemis palaestina",
+                "Pisum sativum",
+                 "Papaver glaucum",
+                "Anisantha sterilis",
+                 "Conium maculatum",
+                  "Lamium album",
+                  "Antirrhinum majus",
+                  "Carduus pycnocephalus",
+                  "Echinops adenocaulos",
+                  "Phlomis viscosa",
+                  "Centaurea cyanus",
+                  "Silene apetala",
+                  "Malva ocellata",
+                  "Malva setigera"
+            ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/04/2018",
+      "observer": "דרור בר-ניר",
+        "original_text": "מרווה כחולה, ציפורנית נפוחה, תלתן קלוז, תלתן הארגמן, אפון מצוי, בקיה תרבותית, בקיה ארץ-ישראלית, לשון פר סמורה, דמומית קטנת-פרי, גרגרנית ירושלים, רכפה לבנה, קחוונים ועוד....",
+      "locations": [
+        {
+          "location_name": "גן העץ",
+           "flowers": [
+                 "Salvia viridis",
+                 "Silene vulgaris",
+                 "Trifolium clusii",
+                 "Trifolium purpureum",
+                   "Pisum sativum",
+                "Vicia sativa",
+               "Vicia palaestina",
+                "Anchusa strigosa",
+                "Helianthemum aegyptiacum",
+                "Sanguisorba minor",
+                "Reseda alba",
+                "Anthemis palaestina"
+
+            ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "עיר גנים",
+           "flowers": [
+                 "Salvia viridis",
+                 "Silene vulgaris",
+                 "Trifolium clusii",
+                 "Trifolium purpureum",
+                   "Pisum sativum",
+                "Vicia sativa",
+               "Vicia palaestina",
+                "Anchusa strigosa",
+                "Helianthemum aegyptiacum",
+                "Sanguisorba minor",
+                "Reseda alba",
+                "Anthemis palaestina"
+            ],
+           "maps_query_location": null
+        },
+        {
+            "location_name": "ירושלים",
+            "flowers": [
+                 "Salvia viridis",
+                 "Silene vulgaris",
+                 "Trifolium clusii",
+                 "Trifolium purpureum",
+                   "Pisum sativum",
+                "Vicia sativa",
+               "Vicia palaestina",
+                "Anchusa strigosa",
+                "Helianthemum aegyptiacum",
+                "Sanguisorba minor",
+                "Reseda alba",
+                "Anthemis palaestina"
+            ],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2018",
+      "observer": "דרור בר-ניר",
+        "original_text": "חניון האגם, העליה לחניון רקית ובשולי הירידה לנשר: לוטם שעיר, לוטם מרווני, מרוות ירושלים, מרווה משולשת, סחלבן החורש, דבורנית גדולה, דבורנית הדבורה, סיפן התבואה, שפתן מצוי, תלתן וילוב, תלתן הארגמן, חבלבל סורי, חבלבל איטלקי, פעמונית קפחת, צתרה ורודה, בקיה תרבותית, בקיה מצויה, קצח ריסני, לוף מנומר, עלקת מצרית, שום משולש, מוצית קוצנית, חלמית מצויה, לפתית מצויה, תגית, קחון, דם המכבים, ועוד....",
+      "locations": [
+        {
+          "location_name": "חניון האגם",
+           "flowers": [
+                "Cistus incanus",
+                "Cistus salviifolius",
+                 "Salvia hierosolymitana",
+                "Salvia triloba",
+                "Cephalanthera longifolia",
+                "Ophrys grandiflora",
+                "Ophrys apifera",
+                "Gladiolus italicus",
+                 "Ajuga chamaepitys",
+                 "Trifolium willdenowii",
+                "Trifolium purpureum",
+                "Convolvulus dorycnium",
+                "Convolvulus scammonia",
+                 "Campanula rapunculoides",
+                "Satureja thymbra",
+                "Vicia sativa",
+                "Vicia palaestina",
+                 "Nigella ciliaris",
+                  "Arisarum vulgare",
+                "Orobanche aegyptiaca",
+               "Allium trifoliatum",
+                "Notobasis syriaca",
+                "Malva sylvestris",
+                "Brassica napus",
+                  "Tagetes minuta",
+                  "Anthemis palaestina",
+               "Adonis aestivalis"
+
+            ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "חניון רקית",
+            "flowers": [
+                "Cistus incanus",
+                "Cistus salviifolius",
+                 "Salvia hierosolymitana",
+                "Salvia triloba",
+                "Cephalanthera longifolia",
+                "Ophrys grandiflora",
+                "Ophrys apifera",
+                "Gladiolus italicus",
+                 "Ajuga chamaepitys",
+                 "Trifolium willdenowii",
+                "Trifolium purpureum",
+                "Convolvulus dorycnium",
+                "Convolvulus scammonia",
+                 "Campanula rapunculoides",
+                "Satureja thymbra",
+                "Vicia sativa",
+                "Vicia palaestina",
+                 "Nigella ciliaris",
+                  "Arisarum vulgare",
+                "Orobanche aegyptiaca",
+               "Allium trifoliatum",
+                "Notobasis syriaca",
+                "Malva sylvestris",
+                "Brassica napus",
+                  "Tagetes minuta",
+                 "Anthemis palaestina",
+               "Adonis aestivalis"
+            ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "נשר",
+            "flowers": [
+                "Cistus incanus",
+                "Cistus salviifolius",
+                 "Salvia hierosolymitana",
+                "Salvia triloba",
+                "Cephalanthera longifolia",
+                "Ophrys grandiflora",
+                "Ophrys apifera",
+                "Gladiolus italicus",
+                 "Ajuga chamaepitys",
+                 "Trifolium willdenowii",
+                "Trifolium purpureum",
+                "Convolvulus dorycnium",
+                "Convolvulus scammonia",
+                 "Campanula rapunculoides",
+                "Satureja thymbra",
+                "Vicia sativa",
+                "Vicia palaestina",
+                 "Nigella ciliaris",
+                  "Arisarum vulgare",
+                "Orobanche aegyptiaca",
+               "Allium trifoliatum",
+                "Notobasis syriaca",
+                "Malva sylvestris",
+                "Brassica napus",
+                  "Tagetes minuta",
+                  "Anthemis palaestina",
+               "Adonis aestivalis"
+
+            ],
+           "maps_query_location":"Nesher"
+        },
+        {
+          "location_name": "כרמל",
+            "flowers": [
+                "Cistus incanus",
+                "Cistus salviifolius",
+                 "Salvia hierosolymitana",
+                "Salvia triloba",
+                "Cephalanthera longifolia",
+                "Ophrys grandiflora",
+                "Ophrys apifera",
+                "Gladiolus italicus",
+                 "Ajuga chamaepitys",
+                 "Trifolium willdenowii",
+                "Trifolium purpureum",
+                "Convolvulus dorycnium",
+                "Convolvulus scammonia",
+                 "Campanula rapunculoides",
+                "Satureja thymbra",
+                "Vicia sativa",
+                "Vicia palaestina",
+                 "Nigella ciliaris",
+                  "Arisarum vulgare",
+                "Orobanche aegyptiaca",
+               "Allium trifoliatum",
+                "Notobasis syriaca",
+                "Malva sylvestris",
+                "Brassica napus",
+                  "Tagetes minuta",
+                  "Anthemis palaestina",
+               "Adonis aestivalis"
+            ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2018",
+       "observer": "נעם מ",
+        "original_text": "ביער סמוך לג׳וערה ליד קיבוץ עין השופט, בפנייה לדרך עפר המובילה ליער משמר העמק (קצת אחרי הפנייה לבסיס ג׳וערה) פונים ימינה ומגיעים למקום הכי יפה בארץ בימים אלה. מרבדים של אדום עד האופק באיזור היער שנשרף שנה שעברה בדצמבר. מומלץ ביותר! מחזה של פעם בחיים. פרגים בשיא פריחתם. תהנו!",
+      "locations": [
+        {
+            "location_name": "ג'וערה",
+             "flowers": [
+               "Papaver rhoeas"
+            ],
+             "maps_query_location": "Ja'ara"
+        },
+        {
+            "location_name": "עין השופט",
+            "flowers": [
+              "Papaver rhoeas"
+            ],
+             "maps_query_location":"Ein HaShofet"
+
+        },
+         {
+            "location_name": "יער משמר העמק",
+            "flowers": [
+              "Papaver rhoeas"
+            ],
+             "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "01/04/2018",
+       "observer": null,
+      "original_text": "במיקום בו פרחו בשנה שעברה יש שוב מרבדי פרגים",
+      "locations": [
+         {
+            "location_name": "טל שחר",
+             "flowers": [
+               "Papaver rhoeas"
+            ],
+             "maps_query_location": "Tel Shahar"
+        },
+         {
+            "location_name": "חולדה",
+             "flowers": [
+               "Papaver rhoeas"
+            ],
+             "maps_query_location":"Hulda"
+        }
+      ]
+    },
+     {
+      "date": "01/04/2018",
+       "observer": null,
+        "original_text":"בשומרון פריחת איריס הדור = שומרוני.פורחים בעוצרין מגדלים ועוד.",
+      "locations": [
+        {
+          "location_name": "שומרון",
+            "flowers": [
+               "Iris haynei"
+            ],
+            "maps_query_location": "Shomron"
+        },
+        {
+            "location_name": "עוצרין",
+            "flowers": [
+               "Iris haynei"
+            ],
+            "maps_query_location": null
+        },
+        {
+            "location_name":"מגדלים",
+              "flowers": [
+               "Iris haynei"
+            ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "31/03/2018",
+      "observer": "עידו מגן",
+      "original_text": "בן חצב יקינתוני במסלול השביל התלוי",
+      "locations": [
+        {
+          "location_name": "בניאס",
+           "flowers": [
+              "Scilla hyacinthoides"
+            ],
+           "maps_query_location": "Banias"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,241 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/09/2015",
+      "observer": "אורי שטיין",
+      "original_text": "בשמורה שני מיני אשבלים בפריחה. אשבל נאה ואשבל ארך שיבולת הבולט יותר בשמורה הוא הנאה",
+      "locations": [
+        {
+          "location_name": "שמורת נחל שניר",
+          "flowers": [
+            "אשבל נאה",
+             "אשבל ארך שיבולת"
+          ],
+          "maps_query_location": "Nahal Snir Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2015",
+      "observer": "ע נ נ ת",
+      "original_text": "החלה פריחת החצבים במזרח כפר סבא - בשדה מול \"בית האבן\"",
+      "locations": [
+         {
+          "location_name": "מזרח כפר סבא",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Kfar Saba"
+        },
+        {
+          "location_name": "בית האבן",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Beit HaEven"
+        }
+      ]
+    },
+     {
+      "date": "02/09/2015",
+      "observer": "ע נ נ ת",
+      "original_text": "החלה פריחת שום סתווי בגבעת ההגנה בכרמל",
+      "locations": [
+         {
+          "location_name": "גבעת ההגנה",
+           "flowers": [
+            "שום סתווי"
+          ],
+           "maps_query_location": "Giv'at HaHagana"
+        },
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "שום סתווי"
+          ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2015",
+      "observer": null,
+      "original_text": "ציפורן משתלשל תחילת פריחה , חורשף מצוייץ, חצבים, קייצנית כרתית, כשות גסה, הרבה צבר מצוי בשלב הפרי.",
+      "locations": [
+        {
+          "location_name": "נחל המערות",
+          "flowers": [
+            "ציפורן משתלשל",
+            "חורשף מצוייץ",
+            "חצב",
+            "קייצנית כרתית",
+             "כשות גסה",
+             "צבר מצוי"
+          ],
+          "maps_query_location": "Nahal Me'arot Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2015",
+      "observer": null,
+       "original_text": "הרדוף הנחלים, שנית גדולה לוטוס הביצות, חבלבלן המשוכות ,חנק מחודד, שערות שולמית אל-ציצית לבנה, דבשה לבנה, אשבל לא מזוהה...קנה סוכ5ר גבוה וקנה מצוי",
+      "locations": [
+        {
+          "location_name": "שמורת נחל שניר",
+          "flowers": [
+            "הרדוף הנחלים",
+            "שנית גדולה",
+            "לוטוס הביצות",
+             "חבלבלן המשוכות",
+              "חנק מחודד",
+               "שערות שולמית אל-ציצית לבנה",
+                "דבשה לבנה",
+                "אשבל",
+                 "קנה סוכר גבוה",
+                 "קנה מצוי"
+          ],
+          "maps_query_location": "Nahal Snir Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "01/09/2015",
+      "observer": null,
+      "original_text": "כף זאב אירופית, פטל קדוש, נענה משובלת, ארכוביות שונות, ומים מים ומים",
+      "locations": [
+        {
+          "location_name": "נחל שניר",
+          "flowers": [
+            "כף זאב אירופית",
+            "פטל קדוש",
+            "נענה משובלת",
+             "ארכובית"
+          ],
+          "maps_query_location": "Nahal Snir"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2015",
+      "observer": null,
+      "original_text": "בנחל המערות ליד המערה הגדולה, בחי בר בכרמל, ליד האנדרטה לזכר נספי השרפה בכרמל , במרכז כביש 6",
+      "locations": [
+        {
+           "location_name": "נחל המערות",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Nahal Me'arot Nature Reserve"
+        },
+          {
+           "location_name": "המערה הגדולה",
+          "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "HaMeara HaGdola"
+        },
+        {
+          "location_name": "חי בר בכרמל",
+           "flowers": [
+             "חצב"
+           ],
+           "maps_query_location": "Hai Bar Carmel"
+        },
+         {
+          "location_name": "האנדרטה לזכר נספי השרפה בכרמל",
+           "flowers": [
+             "חצב"
+           ],
+           "maps_query_location": "Carmel Forest Fire Memorial"
+        },
+         {
+          "location_name": "מרכז כביש 6",
+           "flowers": [
+             "חצב"
+           ],
+           "maps_query_location": "Highway 6"
+        }
+      ]
+    },
+    {
+      "date": "30/08/2015",
+      "observer": null,
+      "original_text": "פורח בהרי אילת",
+      "locations": [
+         {
+          "location_name": "הרי אילת",
+          "flowers": [
+            "מסמור סיני"
+          ],
+          "maps_query_location": "Eilat Mountains"
+        }
+      ]
+    },
+    {
+      "date": "27/08/2015",
+      "observer": null,
+      "original_text": "בנחל המערות ועל הסלעים בשביל היורד מעין כובס לנחל עמוד",
+      "locations": [
+         {
+           "location_name": "נחל המערות",
+           "flowers": [
+             "ציפורן משתלשל"
+           ],
+           "maps_query_location": "Nahal Me'arot Nature Reserve"
+         },
+        {
+          "location_name": "עין כובס",
+           "flowers": [
+            "ציפורן משתלשל"
+          ],
+          "maps_query_location": "Ein Kovsim"
+        },
+         {
+          "location_name": "נחל עמוד",
+           "flowers": [
+            "ציפורן משתלשל"
+           ],
+          "maps_query_location":"Nahal Amud"
+        }
+      ]
+    },
+     {
+      "date": "26/08/2015",
+      "observer": null,
+      "original_text": "ליד השלט ברוכים הבאים פורח לו חצב נחמד בחינניות רבה",
+       "locations": [
+        {
+          "location_name": "ירושלים",
+           "flowers": [
+            "חצב"
+           ],
+           "maps_query_location": "Jerusalem"
+        }
+       ]
+    },
+     {
+      "date":"25/08/2015",
+       "observer": null,
+       "original_text": "באזור ערד ערד לכוון הסוללה של מצדה",
+        "locations": [
+        {
+          "location_name": "ערד",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location":"Arad"
+        },
+          {
+          "location_name": "מצדה",
+           "flowers": [
+            "חצב"
+           ],
+           "maps_query_location":"Masada"
+        }
+       ]
+    }
+  ]
+}
+```

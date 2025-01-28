@@ -1,0 +1,203 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/04/2021",
+      "observer": null,
+      "original_text": "בשמורת עין בדולח",
+      "locations": [
+        {
+          "location_name": "שמורת עין בדולח",
+          "flowers": [
+            "סחלב הביצות"
+          ],
+           "maps_query_location": "Ein Bedolach Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2021",
+      "observer": "מיכה אופיר",
+       "original_text": "היום הלכנו במסלול עין שביל ,עין זקן , שביל האדמוניות. אדמוניות פורחות יש רק בצמוד לאנדרטה של החייל הדרוזי אימן ליד בריכת שפנים. לאורך המסלול בנחל ובשביל האדמוניות יש ניצנים רבים אך אין עדיין פרחים פתוחים",
+      "locations": [
+        {
+          "location_name": "עין שביל",
+          "flowers": [
+            "אדמונית"
+          ],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "עין זקן",
+          "flowers": [
+             "אדמונית"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "שביל האדמוניות",
+          "flowers": [
+             "אדמונית"
+          ],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "בריכת שפנים",
+            "flowers": [
+                "אדמונית"
+            ],
+           "maps_query_location": "Breichat Shfanim"
+        }
+      ]
+    },
+     {
+      "date": "07/04/2021",
+      "observer": null,
+      "original_text": "פורחת בחניון רקית",
+       "locations": [
+        {
+          "location_name": "חניון רקית",
+          "flowers": [
+            "רימונית הלוטם"
+          ],
+            "maps_query_location": "Rakkit parking lot"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2021",
+      "observer": null,
+       "original_text": "בגלבוע",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+            "שום הגלגל"
+          ],
+           "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+      "date": "07/04/2021",
+      "observer": null,
+       "original_text": "צילומים טל אסף: \nעמוניות. 3 או 4 מיני סחלבים. עוזררים. רקפות. קלבים. זיתים. אלונים. נוריות. לוטמים. חוטמית לשון הפר. לוטמים. זקן סב. דם המכבים. גזרים קפחים. דם המכבים. קידות שעירות. שומים. ועוד..",
+      "locations": [
+        {
+          "location_name": "סטף",
+           "flowers": [
+              "עמונית",
+              "סחלב",
+               "עוזרר",
+               "רקפת",
+               "כלב",
+               "זית",
+              "אלון",
+               "נורית",
+              "לוטם",
+               "חוטמית לשון הפר",
+               "זקן סב",
+              "דם המכבים",
+              "גזר קיפח",
+              "קידה שעירה",
+              "שום"
+            ],
+           "maps_query_location": "Staf"
+        }
+      ]
+    },
+     {
+      "date": "07/04/2021",
+      "observer": null,
+      "original_text": "סייפן התבואה בהמונים.קוציץ סורי .לוטם מרווני ושעיר-.תגית מצוייה  מרווה.שלהההבית דביקה פעמונית קיפחת",
+      "locations": [
+         {
+          "location_name": "חניון רקית",
+          "flowers": [
+            "סייפן התבואה",
+            "קוציץ סורי",
+            "לוטם מרווני",
+            "תגית מצויה",
+            "מרווה",
+             "שלהבית דביקה",
+             "פעמונית קיפחת"
+          ],
+          "maps_query_location": "Rakkit parking lot"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2021",
+      "observer": null,
+       "original_text": "פורח בכוכב השחר , ראו אלבום",
+      "locations": [
+        {
+          "location_name": "כוכב השחר",
+          "flowers": [
+            "איריס שחום"
+          ],
+          "maps_query_location": "Kokhav HaShahar"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2021",
+      "observer": null,
+      "original_text": "שדה פרגים וחרציות בין רגבים לגבעת ניל\"י, כביש 6533.",
+       "locations": [
+        {
+          "location_name": "רגבים",
+          "flowers": [
+            "פרג",
+            "חרצית"
+          ],
+          "maps_query_location": "Regavim"
+        },
+         {
+          "location_name": "גבעת ניל\"י",
+          "flowers": [
+            "פרג",
+            "חרצית"
+          ],
+           "maps_query_location": "Givat Nili"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2021",
+      "observer": null,
+      "original_text": "פורח בשבילעיל הפיסגה במירון",
+       "locations": [
+        {
+          "location_name": "שבילעיל הפיסגה",
+            "flowers": [
+                "שום הגליל"
+            ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "מירון",
+            "flowers": [
+                "שום הגליל"
+            ],
+            "maps_query_location": "Meron"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2021",
+       "observer": null,
+      "original_text": "נצפתה עלקת ארצישראלית בשביל סינגל מערבית לאלון הגליל",
+      "locations": [
+        {
+            "location_name": "אלון הגליל",
+             "flowers": [
+                "עלקת ארצישראלית"
+            ],
+            "maps_query_location":"Allon HaGalil"
+        }
+      ]
+    }
+  ]
+}
+```

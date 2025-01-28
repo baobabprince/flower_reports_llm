@@ -1,0 +1,174 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/01/2024",
+      "observer": "אורנה ניסן",
+      "original_text": "הייתי אתמול בעמק השלום ביקנעם, ויש מרבד שלם ומהמם של כלניות צבעוניות בשיא פריחתן! ☺ בעיקר לבנות וסגולות, ומעט אדומות. אסקפיזם מחמם לב, בזמן המלחמה הקשה.",
+      "locations": [
+        {
+          "location_name": "עמק השלום",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Emek HaShalom"
+        },
+         {
+          "location_name": "יקנעם",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Yokneam"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2024",
+      "observer": null,
+      "original_text": "סיתוונית הנגב, זמזומית המדבר, ",
+      "locations": [
+        {
+          "location_name": "אנדרטאת הנגב",
+           "flowers": [
+              "סיתוונית הנגב",
+              "זמזומית המדבר"
+          ],
+          "maps_query_location": "Andartat Hanegev"
+        }
+      ]
+    },
+     {
+      "date": "09/01/2024",
+      "observer": null,
+      "original_text": "מלוח מילר, סיתוונית הנגב",
+      "locations": [
+        {
+          "location_name": "עומר",
+            "flowers": [
+              "מלוח מילר",
+              "סיתוונית הנגב"
+          ],
+          "maps_query_location": "Omer"
+        }
+      ]
+    },
+     {
+      "date": "09/01/2024",
+      "observer": null,
+      "original_text": "אצבוע אירופי ",
+       "locations": [
+         {
+          "location_name": "חניון הרועה",
+          "flowers": [
+              "אצבוע אירופי"
+          ],
+           "maps_query_location": "Hanion Haroeh"
+          }
+       ]
+    },
+     {
+      "date": "09/01/2024",
+      "observer": null,
+      "original_text": "מרווה צמירה, סיתוונית הנגב , פגוניה דביקה, פישתנית, קדד הטבעות, שנס המדבר, אחילוף הנגב, אחילוף זעיר, לשון פר נגבית, מחרוזת משונצת, מחרוזת משונצת, מררית שסועה",
+       "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "מרווה צמירה",
+            "סיתוונית הנגב",
+            "פגוניה דביקה",
+            "פישתנית",
+             "קדד הטבעות",
+             "שנס המדבר",
+             "אחילוף הנגב",
+             "אחילוף זעיר",
+             "לשון פר נגבית",
+             "מחרוזת משונצת",
+              "מררית שסועה"
+          ],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2024",
+      "observer": "גיורא רמות",
+      "original_text": "פריחה יפה של יקינטונים בקרני חיטין",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": [
+            "יקינטון"
+          ],
+          "maps_query_location": "Karnay Hittim"
+        }
+      ]
+    },
+        {
+      "date": "06/01/2024",
+      "observer": null,
+      "original_text": "קיסוסית קוצנית, התחלה של רקפות, כלניות",
+      "locations": [
+        {
+          "location_name": "פארק איילון קנדה",
+          "flowers": [
+            "קיסוסית קוצנית",
+            "רקפת",
+              "כלנית"
+          ],
+          "maps_query_location": "Park Ayalon Canada"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2024",
+      "observer": "עידו מגן",
+      "original_text": "בחורבת שרישה שבחחילת דרך בורמה פורחות מאות כלניות לבנות ומעט אדומות וורודות.",
+      "locations": [
+        {
+          "location_name": "חורבת שרישה",
+          "flowers": [
+              "כלנית"
+          ],
+          "maps_query_location": "Hurvat Shrisha"
+        },
+        {
+            "location_name": "חחילת דרך בורמה",
+            "flowers": [
+                "כלנית"
+            ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/01/2024",
+      "observer": "סימונה ארד",
+      "original_text": "בכניסה לקיבוץ יגור למרגלות ההר הירוק כל השנה מרבד נרקיסים ",
+      "locations": [
+        {
+          "location_name": "קיבוץ יגור",
+          "flowers": [
+             "נרקיס"
+          ],
+          "maps_query_location": "Kibbutz Yagur"
+        }
+      ]
+    },
+    {
+      "date": "01/01/2024",
+      "observer": "סימונה ארד",
+      "original_text": "מרבדי רקפות ביער לביא",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Ya'ar Lavi"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,222 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/09/2009",
+      "observer": "ליאורה קרת",
+      "original_text": "שפך נחל דליה הוא מקום יפהפה שמגיעים איליו מאיזור התעשיה של זכרון יעקב בנסיעה מערבה בין ברכות הדגים של קיבוץ מעיין-צבי, עד חוף הים. מלבד חנק מחודד שפורח במלואו, שנית גדולה שמסיימת את פריחתה והמוני חבצלות חוף, פורחים כעת במקום גם בן-טיון בשרני, טיונית החולות, לפופית החיצין, דוחן זוחל וחמנית מצויה.",
+       "locations": [
+        {
+          "location_name": "שפך נחל דליה",
+          "flowers": [
+            "Sarcopoterium spinosum",
+             "Galium grande",
+            "Pancratium maritimum",
+            "Limoniastrum monopetalum",
+            "Silene arenaria",
+             "Convolvulus lanatus",
+            "Panicum repens",
+            "Helianthus annuus"
+           ],
+            "maps_query_location": "Nahal Dalia Estuary"
+          },
+         {
+           "location_name": "זכרון יעקב",
+           "flowers": [
+           "Sarcopoterium spinosum",
+            "Galium grande",
+           "Pancratium maritimum",
+           "Limoniastrum monopetalum",
+           "Silene arenaria",
+            "Convolvulus lanatus",
+           "Panicum repens",
+           "Helianthus annuus"
+           ],
+           "maps_query_location": "Zikhron Ya'akov"
+         },
+          {
+          "location_name": "מעיין צבי",
+           "flowers": [
+           "Sarcopoterium spinosum",
+            "Galium grande",
+           "Pancratium maritimum",
+           "Limoniastrum monopetalum",
+           "Silene arenaria",
+            "Convolvulus lanatus",
+           "Panicum repens",
+           "Helianthus annuus"
+           ],
+          "maps_query_location": "Ma'ayan Tzvi"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2009",
+      "observer": "ליאורה קרת",
+      "original_text": "חצבים, כמובן, והרבה.\nחבצלת קטנת פרחים, בעיקר בצד המזרחי של \"שביל פרחי הבר\". חורשף מצוייץ, אספרג החורש.",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+            "Urginea maritima",
+            "Pancratium parviflorum",
+            "Scolymus maculatus",
+             "Asparagus aphyllus"
+            ],
+           "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+     {
+      "date": "15/09/2009",
+      "observer": null,
+      "original_text": "חבצלת קטנת פרחים וקיצנית כריתית בפריחה ליד שביל ישראל באזור חירבת רגב",
+      "locations": [
+        {
+          "location_name": "חירבת רגב",
+           "flowers": [
+            "Pancratium parviflorum",
+            "Sarcopoterium spinosum"
+           ],
+           "maps_query_location": "Khirbet Regev"
+        }
+      ]
+    },
+     {
+      "date": "10/09/2009",
+      "observer": null,
+      "original_text": "נעשה סיור בחוף שבי-ציון. נראו: קרתימון ימי, חבצלת החוף, עדעד רותמי",
+       "locations": [
+        {
+          "location_name": "שבי ציון",
+           "flowers": [
+            "Carthamnus maritimus",
+             "Pancratium maritimum",
+             "Limoniastrum monopetalum"
+            ],
+          "maps_query_location": "Shavei Zion"
+        }
+      ]
+    },
+    {
+      "date": "07/09/2009",
+      "observer": null,
+      "original_text": "סיור לאורך גדות הנחל הוא מהנה ביותר. (ניתן לבצעו בעונה זו גם ברכב רגיל). פורחים עתה: שנית גדולה, שומר פשוט ערברבה, חנק מחודד, ארכובית משונשנת, אלציצית, אסתר מרצעני. צמחים נוספים המאכלסים את הגדה: ערבה מחודדת, אשל הפרקים, עדשת מים, כדרורית המים, פספסון דו תורי, דבשה לבנה, נסמנית קיפחת, דוחנית התרנגולים, ירוקת החמור, איכהורניה עבת רגל, ואמברוסיה ימית",
+      "locations": [
+        {
+          "location_name": "נחל אלכסנדר",
+          "flowers": [
+            "Galium grande",
+            "Foeniculum vulgare",
+            "Sarcopoterium spinosum",
+            "Polygonum equisetiforme",
+             "Alkanna tinctoria",
+            "Aster squamatus",
+            "Salix acmophylla",
+            "Tamarix jordanis",
+            "Lemna minor",
+             "Sphaeranthus suaveolens",
+            "Paspalidium geminatum",
+            "Pulicaria dysenterica",
+            "Echinochloa crus-galli",
+             "Rumex dentatus",
+            "Eichhornia crassipes",
+             "Ambrosia maritima"
+           ],
+            "maps_query_location": "Nahal Alexander"
+        }
+      ]
+    },
+     {
+      "date": "05/09/2009",
+      "observer": null,
+      "original_text": "חבצלת קטנת עלים פורחת בנחל זנוח בימים אלה בהמוניה. יש לה פס ירוק בגב עלה הכותרת. כל התפרחות יוצאות מאותה נקודה בגבעול . לפרח עיבו ירוק בתחתיתו לכו ותהנו",
+      "locations": [
+        {
+          "location_name": "נחל זנוח",
+          "flowers": [
+            "Pancratium parviflorum"
+           ],
+          "maps_query_location": "Nahal Zanoah"
+         }
+      ]
+    },
+    {
+      "date": "05/09/2009",
+      "observer": "סאקרה",
+      "original_text": "חבצלות קטנות פרחים בתחילת פריחה בכביש 395, כשעולים מאשתאול, מיד אחרי העיקול  הראשון בכביש,בצד ימין (דרום) יש ריכוז יפה עם המון ניצנים.\n\n ליד תחנת השאיבה של מקורות, מעט במעלה הכביש,יש גם מקבץ נאה של חצבים.\n\nבלטרון-בשביל העולה מהמנזר למבצר הצלבני ההרוס, לאורך הגדר שפע של חבצלות ק\"פ.",
+      "locations": [
+        {
+          "location_name": "כביש 395",
+          "flowers": [
+            "Pancratium parviflorum",
+            "Urginea maritima"
+           ],
+          "maps_query_location": "Road 395"
+          },
+        {
+           "location_name": "אשתאול",
+           "flowers": [
+            "Pancratium parviflorum",
+            "Urginea maritima"
+            ],
+           "maps_query_location":"Eshtaol"
+         },
+        {
+          "location_name": "לטרון",
+           "flowers": [
+            "Pancratium parviflorum"
+            ],
+           "maps_query_location":"Latrun"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2009",
+      "observer": null,
+       "original_text": "בישוב פדואל שבשומרון יש פריחה מדהימה של מאות חצבים במורדות הדרום-מזרחיים של הישוב. נכנסים לישוב, ליד המכולת פונים שמאלה ויורדים עם הכביש עד למגרש ספורט, שם פונים ימינה וממשיכים עם הכביש עד למגרש חניה. יוצאים מהאוטו ונהנים מהפריחה!",
+      "locations": [
+        {
+          "location_name": "פדואל",
+          "flowers": [
+            "Urginea maritima"
+            ],
+           "maps_query_location": "Peduel"
+        }
+      ]
+    },
+    {
+      "date": "03/09/2009",
+      "observer": null,
+       "original_text": "פורחת ליד מנזר לטרון",
+      "locations": [
+        {
+          "location_name": "לטרון",
+           "flowers": [
+            "Pancratium parviflorum"
+            ],
+           "maps_query_location":"Latrun"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2009",
+      "observer": "אילן טל",
+      "original_text": "פורחים : חורשף מצוייץ , חצב מצוי , חבצלת החוף , קוצן מכונף , סם הכלב המזרחי ועוד .",
+       "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "Scolymus maculatus",
+            "Urginea maritima",
+             "Pancratium maritimum",
+            "Cirsium syriacum",
+             "Thesium humile"
+            ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

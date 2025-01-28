@@ -1,0 +1,212 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/02/2018",
+      "observer": "מהרש\"ק שרי",
+      "original_text": "מרבדי כלניות ב גבעת רמת בית שמש. הרבה מאוד רקפות ביער יהדות תימן, ולאורך הדרך לכיוון עין כרם פורחות השקדיות.",
+      "locations": [
+        {
+          "location_name": "גבעת רמת בית שמש",
+          "flowers": [
+            "כלנית",
+            "רקפת"
+           ],
+          "maps_query_location": "Givat Ramat Bet Shemesh"
+        },
+        {
+          "location_name": "יער יהדות תימן",
+           "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Ya'ar Yehadut Teiman"
+        },
+         {
+          "location_name": "עין כרם",
+           "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Ein Kerem"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": "מלכה אלמלם",
+      "original_text": "בשמורת אירוס הארגמן בנתניה התחילה פריחה. גם הרותם פורח סביונים וציפורני חתול , מרגניות ועוד.",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס הארגמן",
+          "flowers": [
+            "אירוס הארגמן",
+             "רותם",
+            "סביון",
+            "ציפורני חתול",
+            "מרגנית"
+          ],
+          "maps_query_location": "Iris Argaman Reserve"
+        },
+         {
+          "location_name": "נתניה",
+          "flowers": [
+            "אירוס הארגמן",
+             "רותם",
+            "סביון",
+            "ציפורני חתול",
+             "מרגנית"
+           ],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": "חגי מוהר",
+      "original_text": "רכס בשנית הר חוזק - רמה'ג -פריחה רבה של אירוס הלבנון+רקפות יווניות",
+      "locations": [
+         {
+          "location_name": "רכס בשנית",
+          "flowers": [
+           "אירוס הלבנון",
+           "רקפת יוונית"
+          ],
+          "maps_query_location": "Bashanit Ridge"
+        },
+        {
+          "location_name": "הר חוזק",
+          "flowers": [
+           "אירוס הלבנון",
+           "רקפת יוונית"
+          ],
+          "maps_query_location": "Har Hozek"
+        },
+           {
+          "location_name": "רמה'ג",
+          "flowers": [
+           "אירוס הלבנון",
+           "רקפת יוונית"
+          ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": "אורי נילי",
+      "original_text": "פריחת הנרקיסים בנחל חצץ בשיאה. מקבצי פריחה מדהימים",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+     {
+      "date": "03/02/2018",
+      "observer": "דרור יהודה",
+      "original_text": "חורבת שוכה",
+      "locations": [
+        {
+          "location_name": "חורבת שוכה",
+           "flowers": [
+            "תורמוס"
+          ],
+          "maps_query_location": "Hurvat Shoka"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": "אלי זוננשיין",
+      "original_text": "בחלה פריחה של אירוס הארגמן בשמורת האירוסים בנתניה. בשלב זה  בבודדים",
+      "locations": [
+          {
+          "location_name": "שמורת האירוסים",
+          "flowers": [
+            "אירוס הארגמן"
+          ],
+           "maps_query_location": "Iris Reserve"
+        },
+        {
+          "location_name": "נתניה",
+          "flowers": [
+            "אירוס הארגמן"
+          ],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": "אלי זוננשיין",
+      "original_text": "שירון זהוב, אירוס ארץ ישראלי. פורחים בשמורת התנור",
+        "locations": [
+        {
+           "location_name": "שמורת התנור",
+           "flowers": [
+              "שיכרון זהוב",
+            "אירוס ארץ ישראלי"
+            ],
+          "maps_query_location": "Tannur Reserve"
+        }
+      ]
+    },
+     {
+      "date": "03/02/2018",
+       "observer": null,
+      "original_text": "גביעוניות החלו לפרוח ביער ראש העין ",
+       "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+             "גביעונית"
+          ],
+           "maps_query_location": "Ya'ar Rosh HaAyin"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2018",
+      "observer": null,
+      "original_text": "שקדיות בשיא הפריחה בדבעת התיתורה במודיעין. מעט כלניות ורקפת אחת בודדת.",
+       "locations": [
+         {
+          "location_name": "גבעת התיתורה",
+          "flowers": [
+            "שקד",
+            "כלנית",
+            "רקפת"
+          ],
+           "maps_query_location": "Givat haTitora"
+        },
+        {
+            "location_name": "מודיעין",
+             "flowers": [
+                "שקד",
+                "כלנית",
+                "רקפת"
+              ],
+             "maps_query_location": "Modi'in"
+        }
+      ]
+    },
+      {
+      "date": "03/02/2018",
+       "observer": null,
+      "original_text": "אירוס הארגמן בשיא פריחתו, מאות פריטים.",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר נס ציונה",
+          "flowers": [
+            "אירוס הארגמן"
+          ],
+          "maps_query_location":"Givat Hakurkar Nes Ziyyona"
+        }
+      ]
+    }
+  ]
+}
+```

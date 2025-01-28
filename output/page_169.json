@@ -1,0 +1,250 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/10/2021",
+      "observer": "נסים קריספיל",
+      "original_text": "\"ליקוט זה לפסוע בשדה של אלוהים\nבחרדת קודש, לברך לשלום מכרים וותיקים וללקט מתנות מהאדמה.\nליקוט זה הצורך שלנו להתכופף בענווה לעבר אימא אדמה ולומר לה תודה.\nליקוט זה לא רק אוכל, זה גם צמחים מרפאים לגוף ולנפש.\nליקוט הוא גם תעודת הזהות של הצמח, תולדות חייו וסיפורו האישי.\"",
+      "locations": null
+    },
+    {
+      "date": "26/10/2021",
+      "observer": null,
+      "original_text": "צומת-דליות \nאחילוף החורן , ורבנה שרועה , כתמה עבת-שורשים \nמאגר בני-צפת \nאלה אטלנתית , אלון התבור,   ארכובית שבטבטית, לבדנית הביצות , נענת הכדורים, סתוונית התשבץ  , עוקץ-עקרב שרוע \nנחל בזלת \nדבקה שרועה , כדרורית המים, עדשת-מים זעירה , נענע משובלת , ערברבה שעירה , פטל קדוש , קיטה רותמית \nאחו-נוב \nטיון חריף , סתוונית ירושלים\n\nבן-חצב סתווני  רוג'ום-אל-הירי,  גומא חום  שמורת אחילוף-החורן , דוגון ירושלמי  מוצב 117 רמת-הגולן",
+      "locations": [
+        {
+          "location_name": "צומת דליות",
+          "flowers": [
+            "אחילוף החורן",
+             "ורבנה שרועה",
+            "כתמה עבת-שורשים"
+           ],
+           "maps_query_location": "Daliyyot Junction"
+        },
+        {
+           "location_name": "מאגר בני צפת",
+           "flowers": [
+             "אלה אטלנתית",
+             "אלון התבור",
+             "ארכובית שבטבטית",
+             "לבדנית הביצות",
+              "נענת הכדורים",
+             "סתוונית התשבץ",
+              "עוקץ-עקרב שרוע"
+              ],
+             "maps_query_location": "Bnei Tzafat Reservoir"
+        },
+        {
+           "location_name": "נחל בזלת",
+           "flowers": [
+             "דבקה שרועה",
+             "כדרורית המים",
+             "עדשת-מים זעירה",
+             "נענע משובלת",
+             "ערברבה שעירה",
+             "פטל קדוש",
+             "קיטה רותמית"
+              ],
+             "maps_query_location":"Nahal Bazalt"
+        },
+         {
+           "location_name": "אחו נוב",
+           "flowers": [
+             "טיון חריף",
+              "סתוונית ירושלים"
+              ],
+             "maps_query_location": "Ahun Nov"
+        },
+        {
+            "location_name": "רוג'ום אל הירי",
+             "flowers":[
+               "בן-חצב סתווני" ,
+               "גומא חום"
+             ],
+            "maps_query_location": "Rujm el-Hiri"
+        },
+        {
+          "location_name": "שמורת אחילוף החורן",
+           "flowers":[
+                "דוגון ירושלמי"
+            ],
+          "maps_query_location": "Achylof HaHuran Nature Reserve"
+         },
+          {
+           "location_name": "מוצב 117 רמת הגולן",
+           "flowers": null,
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2021",
+      "observer": "נילי בנו",
+        "original_text": "בהר חזקה פגשתי את אלון התולע.רוצה לשלוח תמונות",
+       "locations": [
+        {
+           "location_name": "הר חזקה",
+            "flowers": [
+             "אלון התולע"
+             ],
+           "maps_query_location": "Har Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2021",
+       "observer": "מרב מירון גורן",
+      "original_text": "סתווניות התשבץ פורחת בגושים מטריפים על המדרונות הצפוניים מתחת למרום גולן. הן פשוט קופצות לעיניים לצד כביש מס' 959, בעיקר בין צומת בנטל למאגר בנטל. כשנוסעים מזרחה, הן מצד ימין של הכביש.",
+      "locations": [
+        {
+          "location_name": "מרום גולן",
+          "flowers": [
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location": "Merom Golan"
+        },
+        {
+          "location_name":"צומת בנטל",
+          "flowers": [
+             "סתוונית התשבץ"
+           ],
+           "maps_query_location":"Bental Junction"
+        },
+        {
+          "location_name": "מאגר בנטל",
+           "flowers":[
+             "סתוונית התשבץ"
+            ],
+          "maps_query_location":"Bental Reservoir"
+        }
+      ]
+    },
+     {
+      "date": "24/10/2021",
+      "observer": "יחזקאל רבינוביץ",
+       "original_text": "הסתוונית שדיווחתי מה 22\\10 על סתוונית בהר חלוץ היא סתוונית בכירה ולא סתוונית היורה",
+       "locations": [
+       {
+          "location_name": "הר חלוץ",
+          "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location":"Har Halutz"
+        }
+      ]
+    },
+        {
+      "date": "23/10/2021",
+      "observer": null,
+        "original_text": "פריחה יפה ברכס ירוחם , בהר סנסן, ברכס בוקר, בשביל הפיסגה, ברכס חזקה",
+      "locations": [
+        {
+          "location_name": "רכס ירוחם",
+          "flowers": [
+             "חלמונית"
+           ],
+          "maps_query_location": "Yeroham Ridge"
+        },
+         {
+           "location_name": "הר סנסן",
+             "flowers": [
+               "חלמונית"
+           ],
+             "maps_query_location": "Har Sansan"
+        },
+        {
+           "location_name": "רכס בוקר",
+             "flowers": [
+               "חלמונית"
+           ],
+            "maps_query_location": "Boker Ridge"
+        },
+         {
+           "location_name": "שביל הפיסגה",
+             "flowers":[
+               "חלמונית"
+           ],
+            "maps_query_location":"Pisga Trail"
+        },
+         {
+          "location_name": "רכס חזקה",
+            "flowers": [
+                "חלמונית"
+              ],
+          "maps_query_location": "Hazeka Ridge"
+        }
+      ]
+    },
+     {
+      "date": "22/10/2021",
+      "observer": "אבי הלפרין",
+      "original_text": "בשביל הפסגה יש כבר חלמוניות נהדרות. לא הרבה אלבל בשלבי גידול שונים. שווה",
+      "locations": [
+        {
+          "location_name": "שביל הפסגה",
+           "flowers": [
+                "חלמונית"
+              ],
+           "maps_query_location":"Pisga Trail"
+        }
+      ]
+    },
+     {
+       "date": "22/10/2021",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "סתוונית היורה בהר חלוץ ייתכן שיש עוד לא הסתובבתי הרבה",
+       "locations": [
+        {
+          "location_name": "הר חלוץ",
+          "flowers": [
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Har Halutz"
+        }
+      ]
+    },
+     {
+      "date": "21/10/2021",
+      "observer": null,
+      "original_text": "פורח בהמוניו במצדה, בכביש סדום ערד ובאיזור בפרחים צהובים קטנטנים",
+        "locations": [
+          {
+            "location_name": "מצדה",
+            "flowers": [
+               "יפרוק זיפני"
+             ],
+            "maps_query_location": "Masada"
+          },
+         {
+           "location_name": "כביש סדום ערד",
+           "flowers": [
+             "יפרוק זיפני"
+             ],
+            "maps_query_location": "Sdom Arad Road"
+         }
+       ]
+    },
+     {
+      "date": "18/10/2021",
+      "observer": "דגן מרים",
+      "original_text": "אתמול 17.10.21 בשביל הפסגה בהר מירון- אין חלמוניות בכלל\nרק סיתווניות",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+               "סתוונית"
+            ],
+          "maps_query_location": "Har Meron"
+        },
+       {
+          "location_name": "שביל הפסגה",
+            "flowers": [
+               "סתוונית"
+             ],
+          "maps_query_location":"Pisga Trail"
+       }
+      ]
+    }
+  ]
+}
+```

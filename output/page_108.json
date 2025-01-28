@@ -1,0 +1,131 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/11/2022",
+      "observer": "קרן סלבודניק",
+      "original_text": "שביל החלמוניות ברכס בוקר מלא חלמוניות יפייפיות!",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Har Boker"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2022",
+      "observer": "מיקה א",
+      "original_text": "עדיין שיא פריחה של סתווניות וחלמוניות ברכס בשנית. אלות מתחילות להאדים.",
+      "locations": [
+        {
+          "location_name": "רכס בשנית",
+          "flowers": ["סתוונית", "חלמונית"],
+          "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2022",
+      "observer": "benny riechert",
+      "original_text": "פריחה יחסית בכמות קטנה של חלמוניות במקום הידוע בשמורה שליד להבים",
+       "locations": [
+        {
+          "location_name": "שמורה ליד להבים",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2022",
+      "observer": "שמואל קליין",
+      "original_text": "החלה פריחת סתונית ירושלים , באחו נוב",
+       "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["סתונית ירושלים"],
+           "maps_query_location": "Naveh"
+         }
+        ]
+     },
+    {
+      "date": "01/11/2022",
+      "observer": "שבתאי קוונשטוק",
+      "original_text": "עשרות פריטים על מדרון הנחל. מגיעים אליהם ממגרש החניה בכניסה לשמורה על השביל המסומן בצבע כחול.",
+       "locations": [
+        {
+          "location_name": "שמורת החלמוניות ליד ירוחם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Yeroham"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2022",
+      "observer": "שמואל קליין",
+      "original_text": "פריחה יפה במורדות ואדי זיתון מתחת לנאות גולן",
+      "locations": [
+        {
+          "location_name": "ואדי זיתון",
+          "flowers": ["חלמונית גדולה"],
+          "maps_query_location": "Wadi Zeitun"
+        },
+        {
+            "location_name": "נאות גולן",
+            "flowers": ["חלמונית גדולה"],
+            "maps_query_location": "Ne'ot Golan"
+        }
+      ]
+    },
+     {
+      "date": "01/11/2022",
+       "observer": "שמואל קליין",
+      "original_text": "אחילוף החורן החל לפרוח ברוג\"ום אל הירי\nפרטים ראשונים",
+       "locations": [
+        {
+          "location_name": "רוג'ום אל הירי",
+          "flowers": ["אחילוף החורן"],
+          "maps_query_location": "Rujm el Hiri"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2022",
+      "observer": "עידו מגן",
+      "original_text": "ביום הבחירות פרחו בנחל קטלב עשרות סתווניות וחלמוניות בשביל הכחול, בטווח של כ-500 מ' מהמפגש עם השביל השחור. הסתווניות ממש על השביל, החלמוניות במספר ריכוזים מימין לו אם באים מהשביל השחור, ליד המפגש עם צינור המים. חלקם מתחת לשביל על קו הרכס",
+       "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": ["סתוונית", "חלמונית"],
+           "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2022",
+      "observer": "אילת בר",
+      "original_text": "כ-25 שיחים בפריחה ולפני פריחה בשטח הפתוח במסלול שביל אדום/שביל ישראל ברמת הנדיב.",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["דוגון ירושלמי"],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "30/10/2022",
+      "observer": "חזי ליברמן",
+      "original_text": "חורשת המטה הכללי של צה\"ל. צד ימין לדרך העולה לחניון ה-101.",
+      "locations": [
+        {
+          "location_name": "סטף",
+          "flowers": ["סתוונית היורה", "בן חצב סתווני"],
+          "maps_query_location": "Staf"
+        }
+      ]
+    }
+  ]
+}
+```

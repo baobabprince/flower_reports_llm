@@ -1,0 +1,224 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/01/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "המון כלניות בסביבות ח. בית ענבה מעמק הענבה עד ח. רגב.",
+      "locations": [
+        {
+          "location_name": "חורבת בית ענבה",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Beit Inaba"
+        },
+        {
+           "location_name": "עמק הענבה",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Emek Ha'Anava"
+         },
+         {
+           "location_name": "חורבת רגב",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Hurvat Regev"
+         }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "דרור בר-ניר",
+      "original_text": "ליד נס הרים\nאיריס ארצישראלי, סביון מצוי,  קצת כלניות, זלזלת הקנוקנות, חינניות הבתה, גלעינית קטנת פרחים",
+      "locations": [
+        {
+          "location_name": "נס הרים",
+          "flowers": [
+            "איריס ארצישראלי",
+            "סביון מצוי",
+            "כלנית",
+             "זלזלת הקנוקנות",
+            "חיננית הבתה",
+            "גלעינית קטנת פרחים"
+          ],
+           "maps_query_location": "Nes Harim"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": "דרור בר-ניר",
+        "original_text": "המון כלניות חלקן כפולות בגודלן.... \nרקפת מצויה, איריס ארצישראלי, מרווה ריחנית, מרווה מצויה, ציפורנית מצרית, דודא רפואי, מקור חסידה, ציפורני חתול מצויות, כתמה עבת-שורשים, ברוניקה מבריקה, נזמית לופתת, מרקולית מצויה, חלבלוב מגובשש",
+      "locations": [
+        {
+           "location_name": "תל בית שמש",
+          "flowers": [
+            "כלנית",
+             "רקפת מצויה",
+            "איריס ארצישראלי",
+            "מרווה ריחנית",
+            "מרווה מצויה",
+            "ציפורנית מצרית",
+             "דודא רפואי",
+            "מקור חסידה",
+            "ציפורני חתול מצויות",
+            "כתמה עבת-שורשים",
+            "ברוניקה מבריקה",
+            "נזמית לופתת",
+            "מרקולית מצויה",
+            "חלבלוב מגובשש"
+          ],
+           "maps_query_location": "Tel Beit Shemesh"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2019",
+      "observer": null,
+      "original_text": "עליה לסרטבה:יקינתונית מעורקת (בעליה לסרטבה) , חלבלוב פעוט, זמזומית המדבר , זהבית דמשקאית\nחוף-נחשולים: לוטוס קרח , לשון-אפעה קטנה , מחרוזת קשתית , עשנן מטפס,  ציפורנית ארץ-ישראלית, חלבלוב מצוי , איריס ארץ-ישראלי \nצומת-אדם: מרווה מצרית, שופרית כרתית , תמריר מרוקאי, דו-קרן מדברית, זהבית אשונה, זהבית דמשקאית , חלביב רותמי , אלמוות הקרקפות, בוצין שיחני  , בצלציה ארץ-ישראלית (מרבדים) \nכרמל: חירבת רקית: אכסף מבריק \nעין אלון :דבורנית שחומה, קיסוסית קוצנית  \nגבעת ההגנה : רומליאה צידונית",
+      "locations": [
+        {
+          "location_name": "סרטבה",
+          "flowers": [
+            "יקינתונית מעורקת",
+            "חלבלוב פעוט",
+             "זמזומית המדבר",
+            "זהבית דמשקאית"
+          ],
+           "maps_query_location": "Sartaba"
+        },
+        {
+          "location_name": "חוף נחשולים",
+          "flowers": [
+            "לוטוס קרח",
+             "לשון-אפעה קטנה",
+            "מחרוזת קשתית",
+            "עשנן מטפס",
+            "ציפורנית ארץ-ישראלית",
+             "חלבלוב מצוי",
+            "איריס ארץ-ישראלי"
+          ],
+            "maps_query_location": "Nakhsholim"
+        },
+           {
+          "location_name": "צומת אדם",
+           "flowers": [
+            "מרווה מצרית",
+             "שופרית כרתית",
+            "תמריר מרוקאי",
+            "דו-קרן מדברית",
+             "זהבית אשונה",
+            "זהבית דמשקאית",
+            "חלביב רותמי",
+            "אלמוות הקרקפות",
+            "בוצין שיחני",
+            "בצלציה ארץ-ישראלית"
+          ],
+          "maps_query_location": "Adam Junction"
+        },
+        {
+          "location_name": "חירבת רקית",
+          "flowers": [
+            "אכסף מבריק"
+          ],
+          "maps_query_location": "Khirbet Rakit"
+        },
+        {
+           "location_name": "עין אלון",
+          "flowers": [
+            "דבורנית שחומה",
+            "קיסוסית קוצנית"
+          ],
+          "maps_query_location": "Ein Alon"
+        },
+         {
+          "location_name": "גבעת ההגנה",
+          "flowers": [
+             "רומליאה צידונית"
+          ],
+          "maps_query_location": "Givat HaHagana"
+        }
+      ]
+    },
+     {
+      "date": "19/01/2019",
+      "observer": null,
+      "original_text": null,
+      "locations": [
+        {
+          "location_name": "הרי ירושלים",
+          "flowers": ["דבורנית שחומה"],
+            "maps_query_location": "Jerusalem Mountains"
+        }
+      ]
+    },
+        {
+      "date": "19/01/2019",
+      "observer": "חגי מוהר",
+      "original_text": "רכס בשנית על יד תל חזקה..מספר פרטים של האירוס..\nוניצנים ראשונים בפרט אחד של רקפת יוניה",
+      "locations": [
+        {
+          "location_name": "רכס בשנית",
+          "flowers": ["אירוס הלבנון","רקפת יוניה"],
+             "maps_query_location": "Basanit Ridge"
+        },
+         {
+           "location_name": "תל חזקה",
+          "flowers": ["אירוס הלבנון"],
+          "maps_query_location":"Tel Hazeka"
+          }
+      ]
+    },
+       {
+      "date": "18/01/2019",
+      "observer": null,
+      "original_text": null,
+         "locations": [
+        {
+          "location_name": "בתרונות רוחמה",
+          "flowers": ["כלנית"],
+            "maps_query_location":"Ruhama Badlands"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2019",
+      "observer": null,
+      "original_text": null,
+        "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": ["כלנית", "אירוס"],
+             "maps_query_location":"Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+       "date": "18/01/2019",
+      "observer": "דוד",
+      "original_text": "אירוס הארגמן ואירוס ארצישראלי וגם רתמים פורחים",
+        "locations": [
+        {
+          "location_name": "גבעות הכורכר נס ציונה",
+          "flowers": ["אירוס הארגמן", "אירוס ארצישראלי","רתם"],
+           "maps_query_location":"Nes Tziona Kurkar Hills"
+        }
+      ]
+    },
+     {
+      "date": "18/01/2019",
+      "observer": null,
+         "original_text":"גם בשלולית דורה בנתניה",
+      "locations": [
+        {
+          "location_name": "שלולית דורה",
+           "flowers": ["איריס הארגמן"],
+            "maps_query_location":"Dora Pond"
+        },
+         {
+           "location_name": "נתניה",
+           "flowers": ["איריס הארגמן"],
+           "maps_query_location":"Netanya"
+          }
+      ]
+    }
+  ]
+}
+```

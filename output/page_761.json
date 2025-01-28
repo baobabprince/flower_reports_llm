@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/11/2009",
+      "observer": null,
+      "original_text": "עפרית אירופית - מאות בפריחה בכל רחבי הגן .   צפורן נקוד - מאות בפריחה בשטח הבתה שמדרום למצודה.",
+      "locations": [
+        {
+          "location_name": "גן לאומי כוכב הירדן",
+          "flowers": ["עפרית אירופית", "ציפורן נקוד"],
+          "maps_query_location": "Kokhav HaYarden National Park"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2009",
+      "observer": null,
+      "original_text": "עין איוב שבכנרת  -  פשטה שרועה אלפי כתמים פורחים -שגשוג מיוחד למין זה אולי בגלל תנאי בית הגידול שנוצרו עם נסיגת המים בחלק גדול מחופי הכנרת. כמו כן שפע פריחה של לוביה מצרית.",
+      "locations": [
+        {
+          "location_name": "עין איוב",
+           "flowers": ["פשטה שרועה", "לוביה מצרית"],
+          "maps_query_location": "Ein Ayub"
+        },
+         {
+          "location_name": "הכנרת",
+          "flowers": ["פשטה שרועה", "לוביה מצרית"],
+          "maps_query_location": "Sea of Galilee"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2009",
+      "observer": "עירית",
+      "original_text": "\"גן פורח\" של רקפות, סתוונית היורה ואחרונות החלמוניות! בנוסף כרכום השבכה מקסים- פרטים בודדים. למטה מן המצוק מוצאים צחנן מבאיש ודודא רפואי ופרטים רבים של כרכום השבכה.",
+      "locations": [
+        {
+          "location_name": "מצוק מבוא חמה",
+          "flowers": ["רקפת", "סתוונית היורה", "חלמונית", "כרכום השבכה", "צחנן מבאיש", "דודא רפואי"],
+           "maps_query_location": "Mevo Hama Cliff"
+        }
+      ]
+    },
+     {
+      "date": "25/11/2009",
+      "observer": null,
+      "original_text": "בשביל סובב תבור אחרי השריפה ישנם מקבצים מדהימים של חלמוניות.",
+       "locations": [
+        {
+          "location_name": "שביל סובב תבור",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Tabor trail"
+         }
+      ]
+    },
+    {
+      "date": "24/11/2009",
+       "observer": null,
+      "original_text": "בוצין הירדן ובוצין לקוי",
+      "locations": [
+         {
+          "location_name": null,
+          "flowers": ["בוצין הירדן", "בוצין לקוי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "24/11/2009",
+      "observer": "אבישי ברט",
+      "original_text": "שפע של כרכומים סיתווניות וקצת נרקיסים בירידה מחניון הזיתים (ליד גרנות הגליל) לכיוון נחל כזיב",
+     "locations": [
+        {
+           "location_name": "חניון הזיתים",
+           "flowers": ["כרכום", "סתוונית", "נרקיס"],
+          "maps_query_location": "Hanyon Hazetim"
+        },
+        {
+           "location_name": "גרנות הגליל",
+           "flowers": ["כרכום", "סתוונית", "נרקיס"],
+           "maps_query_location": "Granot HaGalil"
+         },
+        {
+           "location_name": "נחל כזיב",
+           "flowers": ["כרכום", "סתוונית", "נרקיס"],
+           "maps_query_location": "Nahal Kziv"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2009",
+      "observer": "דרור בר ניר",
+      "original_text": "לאחר טיול להרודיון - בדרך למעלה רחבעם -  ממש צהבת.\n המוני  חלמוניות גדולות, ציפורן נקוד, ובוצין כלשהו",
+      "locations": [
+        {
+          "location_name": "הרודיון",
+           "flowers": ["חלמונית", "ציפורן נקוד", "בוצין"],
+          "maps_query_location": "Herodium"
+        },
+        {
+          "location_name": "מעלה רחבעם",
+           "flowers": ["חלמונית", "ציפורן נקוד", "בוצין"],
+          "maps_query_location": "Ma'ale Rehavam"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2009",
+      "observer": null,
+      "original_text": "בנחל כסלון והרבה...",
+      "locations": [
+        {
+          "location_name": "נחל כסלון",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Kisalon"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2009",
+      "observer": "עתליה ניצן",
+      "original_text": "אין ספק. אתר פריחת החלמוניות המרשים ביותר בו פורחות אלפי חלמוניות הוא בואדי בין אלדד ומעלה רחבעם. יש עוד אלפים בנביטה. מגיעים מגוש עציון, עוברים את הכניסה להרודיון, פונים שמאלה לכיוון נוקדים ובשילוט שמאלה . נכנסים וחוצים את אלדד ופונים בדרך עפר טובה לכל רכב לכיוון מעלה רחבעם. בואדי בתחתית הישוב נכנסים ימינה (יש שילוט) במעלה הואדי ולא בערוץ. כ-300 מ' והחזיון המהפנט מופיע לנגד עיניכם.",
+      "locations": [
+         {
+          "location_name": "אלדד",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Eldad"
+        },
+        {
+           "location_name": "מעלה רחבעם",
+            "flowers": ["חלמונית"],
+           "maps_query_location": "Ma'ale Rehavam"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2009",
+      "observer": null,
+      "original_text": "מרבדי סיתוונית היורה בגווני ורוד וסגול מבית גוברין ועד צור הדסה, לפחות.",
+      "locations": [
+        {
+          "location_name": "בית גוברין",
+          "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Beit Guvrin"
+        },
+        {
+          "location_name": "צור הדסה",
+          "flowers": ["סתוונית היורה"],
+           "maps_query_location":"Tzur Hadassah"
+        }
+      ]
+    }
+  ]
+}
+```

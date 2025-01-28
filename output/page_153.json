@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2022",
+      "observer": null,
+      "original_text": "שנה שופעת לסיתוונית שימפר בהרי אילת ",
+      "locations": [
+        {
+          "location_name": "הרי אילת",
+          "flowers": ["סיתוונית שימפר"],
+          "maps_query_location": "Eilat Mountains"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2022",
+      "observer": "איילה מוסרי",
+      "original_text": "ברכס חזקה בתוך השלג , ראו צילום נפלא של איילה מוסרי ",
+       "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": ["איריס הלבנון"],
+          "maps_query_location": "Har Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2022",
+      "observer": null,
+      "original_text": "כביש 12, ק\"מ 30 \nמסמור סיני , ערטל מדברי \nנחל שיזף \nשיטה סלילנית , שבטוט מצוייץ ,  פתילת-המדבר הגדולה , פגוניה ערבית, אזוביון מדברי , בלוטנית מפורצת , דוחן אשון , זיפנוצה מדוקרן , סילון קוצני ",
+       "locations": [
+         {
+          "location_name": "כביש 12",
+            "flowers": ["מסמור סיני", "ערטל מדברי", "שיטה סלילנית", "שבטוט מצוייץ", "פתילת-המדבר הגדולה", "פגוניה ערבית", "אזוביון מדברי", "בלוטנית מפורצת", "דוחן אשון", "זיפנוצה מדוקרן", "סילון קוצני"],
+          "maps_query_location": "Highway 12"
+        },
+         {
+          "location_name": "נחל שיזף",
+            "flowers": ["מסמור סיני", "ערטל מדברי", "שיטה סלילנית", "שבטוט מצוייץ", "פתילת-המדבר הגדולה", "פגוניה ערבית", "אזוביון מדברי", "בלוטנית מפורצת", "דוחן אשון", "זיפנוצה מדוקרן", "סילון קוצני"],
+          "maps_query_location": "Nahal Shizaf"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2022",
+      "observer": "מיכאל גת",
+      "original_text": "יש נרקיסים פורחים לא הרבה בגדה הצפונית של הברכה",
+      "locations": [
+        {
+          "location_name": "עין שריד",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ein Sharid"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2022",
+      "observer": "רחלי עזרא",
+       "original_text": "כלניות צבעוניות- בעיקר סגולות\nליד בית העלמין ביישוב קדומים",
+      "locations": [
+        {
+          "location_name": "קדומים",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2022",
+      "observer": null,
+       "original_text": "כלניות בחורשת סעד",
+      "locations": [
+        {
+          "location_name": "חורשת סעד",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Saad Grove"
+        }
+      ]
+    },
+    {
+     "date": "19/01/2022",
+      "observer": null,
+      "original_text": "בלוטנית הדורים , סילון קוצני, סיתוונית שימפר, מסמור סיני, ",
+      "locations": [
+        {
+          "location_name": "נחל שיזף",
+          "flowers": ["בלוטנית הדורים", "סילון קוצני", "סיתוונית שימפר", "מסמור סיני"],
+           "maps_query_location": "Nahal Shizaf"
+        },
+         {
+          "location_name": "מישור סעיפים",
+           "flowers": ["בלוטנית הדורים", "סילון קוצני", "סיתוונית שימפר", "מסמור סיני"],
+           "maps_query_location": "Mishor Seifim"
+         }
+      ]
+    },
+    {
+      "date": "19/01/2022",
+      "observer": "גיורא רמות",
+      "original_text": "פריחה יפהפיה של יקינטונים בקרני חיטים",
+      "locations": [
+        {
+          "location_name": "קרני חיטים",
+          "flowers": ["יקינטון"],
+          "maps_query_location": "Karni Hittim"
+        }
+      ]
+    },
+      {
+      "date": "18/01/2022",
+      "observer": "אהרון שגב",
+      "original_text":"נרקיסים בשיא הפריחה בפארק בריכת החורף לב. השרון.  ליד עין שריד  וצורן ",
+      "locations": [
+        {
+          "location_name": "לב השרון",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Lev HaSharon"
+        },
+         {
+          "location_name":"עין שריד",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Ein Sharid"
+         },
+        {
+          "location_name": "צורן",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Tzoran"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2022",
+       "observer": null,
+      "original_text": "כלניות ראשונות בשוקדה",
+      "locations": [
+        {
+          "location_name": "שוקדה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Shokeda"
+        }
+      ]
+    }
+  ]
+}
+```

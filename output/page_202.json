@@ -1,0 +1,179 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/02/2021",
+      "observer": "אנה ליפליאנד",
+      "original_text": "מתחת לאנטנות באמצע גבע תחילת הפריחה  של איריס נצרתי\nמלא ניצנים",
+      "locations": [
+        {
+          "location_name": "גבעת המורה",
+          "flowers": [
+            "איריס נצרתי"
+           ],
+          "maps_query_location": "Givat Hamoreh"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2021",
+      "observer": null,
+      "original_text": "בגלבוע וביער מלכישוע",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+            "איריס הגלבוע"
+           ],
+          "maps_query_location": "Gilboa"
+        },
+        {
+          "location_name": "יער מלכישוע",
+          "flowers": [
+            "איריס הגלבוע"
+           ],
+             "maps_query_location": "Malkishua Forest"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2021",
+      "observer": "יוסף איקש",
+        "original_text": "פריחה במלא עצמתה. פרטים רבים על המדרון הצפון-מערבי",
+      "locations": [
+        {
+          "location_name": "הר עצמון",
+          "flowers": [
+             "סחלב פרפרני"
+           ],
+             "maps_query_location": "Har Atzmon"
+        }
+      ]
+    },
+    {
+      "date": "23/02/2021",
+      "observer": "חנה נויהוף",
+        "original_text": "היום פריחה שופעת ומדהימה של צבעונים.המונים.גם רקפות בשפע.מעט כלניות.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "צבעוני",
+            "רקפת",
+            "כלנית"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        },
+        {
+         "location_name": "גבעת הפרחים",
+          "flowers": [
+            "צבעוני",
+             "רקפת",
+            "כלנית"
+           ],
+             "maps_query_location": "Givat HaPrahim"
+        }
+      ]
+    },
+     {
+      "date": "23/02/2021",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "ביקיה צרפתית-פרטים רבים, ביקית הכלאיים, לשון פר מצויה, תורמוס , תלתן תריסני ואספסת.",
+      "locations": [
+        {
+          "location_name": "גבעת נפוליאון",
+           "flowers": [
+            "ביקיה צרפתית",
+            "ביקית הכלאיים",
+             "לשון-פר מצויה",
+             "תורמוס",
+             "תלתן תריסני",
+             "אספסת"
+           ],
+             "maps_query_location":"Givat Napoleon"
+        }
+      ]
+    },
+    {
+      "date": "23/02/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text":"עדיין פורחים מספר פרטים של אירוס הארגמן, אלקנה סמורה, מרווה מצויה, לשון פר מצויה, עלקת ארץ ישראלית, מרסיה יפפיה, וציפונית מצרית.",
+      "locations": [
+        {
+          "location_name": "שמורת גדור",
+           "flowers": [
+            "אירוס הארגמן",
+            "אלקנה סמורה",
+            "מרווה מצויה",
+            "לשון-פר מצויה",
+            "עלקת ארץ ישראלית",
+            "מרסיה יפפיה",
+            "ציפונית מצרית"
+           ],
+           "maps_query_location": "Gedur Nature Reserve"
+        }
+      ]
+    },
+        {
+      "date": "23/02/2021",
+      "observer": "עמיר פז",
+       "original_text": "שום ת\"א, קחוון קטום מוצים וקצר פירות, מחרוזת קשתית, איריס הארגמן, ושרוכנית החוף פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+           "flowers": [
+            "שום תל אביב",
+            "קחוון קטום",
+            "מחרוזת קשתית",
+             "איריס הארגמן",
+             "שרוכנית החוף"
+           ],
+           "maps_query_location": "Gan Miklat Sharoni"
+        }
+      ]
+    },
+     {
+      "date": "22/02/2021",
+      "observer": null,
+       "original_text": "יש השנה פריחה יפה",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+            "flowers": [
+            "כלנית"
+            ],
+             "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+    {
+      "date": "22/02/2021",
+      "observer": null,
+       "original_text":"במדרונות רמת הגולן",
+      "locations": [
+        {
+          "location_name": "רמת הגולן",
+            "flowers": [
+            "טופל אדום"
+            ],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "22/02/2021",
+      "observer": null,
+       "original_text":"ליד נצרת",
+      "locations": [
+        {
+          "location_name": "נצרת",
+           "flowers": [
+              "איריס נצרתי"
+            ],
+             "maps_query_location": "Nazareth"
+        }
+      ]
+    }
+  ]
+}
+```

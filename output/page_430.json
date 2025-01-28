@@ -1,0 +1,173 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/02/2017",
+      "observer": "משה קופרברג",
+      "original_text": "שטיחי רקפות ביער מגינים 18.2.17",
+      "locations": [
+        {
+          "location_name": "יער מגינים",
+          "flowers": ["רקפת"],
+            "maps_query_location": "Yar Maginim"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2017",
+      "observer": null,
+      "original_text": "פריחת דבורנית שחומה בעמיקם , ובכרמל וגם בהרי ירושלים. בחניון האגם  בכרמל ישנן רבות עדיין פורחות",
+      "locations": [
+        {
+          "location_name": "עמיקם",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Amikam"
+        },
+        {
+          "location_name": "הכרמל",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "הרי ירושלים",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Jerusalem Mountains"
+        },
+         {
+          "location_name": "חניון האגם בכרמל",
+           "flowers": ["דבורנית שחומה"],
+            "maps_query_location": "Lake Parking Carmel"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2017",
+      "observer": "שלמה גלפרין",
+        "original_text": "גביעונית הלבנון פורחת בפדואל כעשרה פרטים פורחים בישוב שלנו, פדואל, בדרום מערב השומרון, כעשר דקות נסיעה ממחסום שער השומרון(אורנית/אלקנה)",
+      "locations": [
+        {
+          "location_name": "פדואל",
+          "flowers": ["גביעונית הלבנון"],
+          "maps_query_location": "Pedu'el"
+        },
+          {
+          "location_name": "דרום מערב השומרון",
+          "flowers": ["גביעונית הלבנון"],
+          "maps_query_location": "Southwest Samaria"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2017",
+      "observer": null,
+      "original_text": "גן הנדירים נזמית ארגמנית (שנמצאה לראשונה בארץ ע\"י דרור מלמד) פורחת בגן. בנוסף פורחים דו פרית מכורבלת, בת אורז משושה, רומוליאה זעירה, מקור חסידה תמים, מיאגרון אזון, אספסת החילזון, גולנית ערב, כרוב כרתי, מרסיה זעירה, כורבולתן השדות",
+      "locations": [
+          {
+            "location_name": "גן הנדירים",
+            "flowers": [
+              "נזמית ארגמנית",
+              "דו-פרית מכורבלת",
+              "בת-אורז משושה",
+              "רומוליאה זעירה",
+              "מקור חסידה תמים",
+              "מיאגרון אזון",
+              "אספסת החילזון",
+              "גולנית ערב",
+              "כרוב כרתי",
+              "מרסיה זעירה",
+              "כורבולתן השדות"
+            ],
+            "maps_query_location": null
+          }
+      ]
+    },
+    {
+      "date": "19/02/2017",
+      "observer": null,
+      "original_text": "פריחה ביער בן-שמן המוני רקות, כלניות , עירית גדולה ודבורנית צהובה - תחילת פריחה",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["רקפת", "כלנית", "עירית גדולה", "דבורנית צהובה"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+      {
+      "date": "19/02/2017",
+      "observer": null,
+      "original_text": "פריחת כלניות אדומות כלניות אדומות במרבדים פורחות בתל חדיד, בשולי יער בן שמן בדרום לכיוון תל גמזו ומושב גמוז",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": ["כלנית אדומה"],
+            "maps_query_location": "Tel Hadid"
+        },
+        {
+          "location_name": "שולי יער בן שמן",
+          "flowers": ["כלנית אדומה"],
+            "maps_query_location": "Ben Shemen Forest"
+        },
+          {
+          "location_name": "תל גמזו",
+          "flowers": ["כלנית אדומה"],
+              "maps_query_location": "Tel Gemzo"
+        },
+         {
+          "location_name": "מושב גמוז",
+          "flowers": ["כלנית אדומה"],
+             "maps_query_location": "Gimzo"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2017",
+      "observer": null,
+      "original_text": "פריחה בפארק יער שוהם עיריות, כלניות אדומות ולבנות רבות מאוד בכניסה לפארק",
+      "locations": [
+          {
+            "location_name": "פארק יער שוהם",
+            "flowers": ["עירית", "כלנית אדומה", "כלנית לבנה"],
+             "maps_query_location": "Shoham Forest Park"
+          }
+      ]
+    },
+     {
+      "date": "19/02/2017",
+      "observer": "יחיאל אוקנין",
+        "original_text": "איריס הארגמן פורח בפולג צילום בקישור",
+      "locations": [
+        {
+          "location_name": "פולג",
+          "flowers": ["איריס הארגמן"],
+            "maps_query_location": "Poleg"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2017",
+      "observer": null,
+        "original_text": "אכסף מבריק אכסף מבריק בשיא פריחה בדרך לרקית",
+      "locations": [
+        {
+          "location_name": "דרך לרקית",
+          "flowers": ["אכסף מבריק"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "19/02/2017",
+      "observer": null,
+      "original_text": "פריחה בנחל כורזים מרבדי  כרמלית נאה, כלניות אדומות, מרווה דגולה  ועוד , ראו בקישור",
+      "locations": [
+        {
+          "location_name": "נחל כורזים",
+          "flowers": ["כרמלית נאה", "כלנית אדומה", "מרווה דגולה"],
+            "maps_query_location":"Nahal Korazim"
+        }
+      ]
+    }
+  ]
+}
+```

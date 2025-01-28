@@ -1,0 +1,176 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/02/2021",
+      "observer": "שושנה פולטין",
+      "original_text": "פריחת שום תל אביבי במושב אודים ליד מטע הזיתים (בדרך לאגמון פולג)",
+      "locations": [
+        {
+          "location_name": "מושב אודים",
+          "flowers": ["שום תל אביבי"],
+          "maps_query_location": "Udim"
+        },
+         {
+          "location_name": "אגמון פולג",
+           "flowers": ["שום תל אביבי"],
+          "maps_query_location": "Agmon Poleg"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2021",
+      "observer": "דוד פורת",
+        "original_text":"הקדמת פריחה – עכנאי נאה גושים יפיפיים פורחים כבר כעת מעל ובסמוך  למוצב סיגל בגבעות גשר  מפגש גליל תחתון מזרחי עם עמק בית שאן.  נחמה  ליעד  דוד פורת אפיקים   03.02.21",
+      "locations": [
+        {
+          "location_name": "גבעות גשר",
+            "flowers": ["עכנאי נאה"],
+           "maps_query_location": "Gesher"
+        },
+        {
+          "location_name": "גליל תחתון מזרחי",
+            "flowers": ["עכנאי נאה"],
+            "maps_query_location": "Lower Galilee"
+        },
+          {
+          "location_name": "עמק בית שאן",
+           "flowers": ["עכנאי נאה"],
+          "maps_query_location": "Beit She'an Valley"
+        },
+           {
+          "location_name": "אפיקים",
+           "flowers": ["עכנאי נאה"],
+          "maps_query_location": "Afikim"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2021",
+      "observer": null,
+      "original_text": "במעגן מיכאל . מי יודע אם בחוף הבונים הם כבר פורחים?",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["צבעוני"],
+          "maps_query_location": "Ma'agan Michael"
+        },
+         {
+          "location_name": "חוף הבונים",
+          "flowers": ["צבעוני"],
+          "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2021",
+        "observer": null,
+        "original_text":"בכרמל בעין אלון",
+      "locations": [
+        {
+          "location_name": "כרמל",
+            "flowers": ["בן חצב החורש"],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "עין אלון",
+            "flowers": ["בן חצב החורש"],
+          "maps_query_location": "Ein Alon"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2021",
+       "observer": "שרה",
+      "original_text": "גבעת חומרה אירוס הארגמן",
+        "locations": [
+        {
+          "location_name": "גבעת חומרה",
+            "flowers": ["אירוס הארגמן"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "04/02/2021",
+      "observer": null,
+      "original_text": "ליד ארמון הנציב בירושלים",
+      "locations": [
+        {
+          "location_name": "ארמון הנציב",
+            "flowers": ["תורמוס"],
+          "maps_query_location": "Armon HaNetziv"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2021",
+      "observer": "עמיר פז",
+      "original_text": "אספסת איטלקית, אספסת החילזון, ציפורנית זעירה, ותלתן ישראלי פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן",
+          "flowers": ["אספסת איטלקית", "אספסת החילזון", "ציפורנית זעירה", "תלתן ישראלי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "03/02/2021",
+      "observer": null,
+      "original_text": "בראש העין ( רמוסה), בכרמל בדרך נוף הכרמל, ובגולן ליד מאגר קשת ליד \"פארק ברוך\"",
+      "locations": [
+        {
+          "location_name": "ראש העין",
+          "flowers": ["גביעונית הלבנון"],
+           "maps_query_location": "Rosh HaAyin"
+        },
+        {
+          "location_name": "כרמל",
+           "flowers": ["גביעונית הלבנון"],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": ["גביעונית הלבנון"],
+          "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name":"מאגר קשת",
+           "flowers": ["גביעונית הלבנון"],
+             "maps_query_location": "Keshrt Reservoir"
+          },
+          {
+           "location_name":"פארק ברוך",
+           "flowers": ["גביעונית הלבנון"],
+           "maps_query_location": "Park Baruch"
+           }
+      ]
+    },
+     {
+      "date": "03/02/2021",
+      "observer": "Sara Blaustein",
+      "original_text": "עשרות פריחות מדהימות ופוטנציאל פריחה אדיר לי ים הבאים! יופי מושלם!",
+         "locations": [
+        {
+           "location_name": null,
+            "flowers": ["אירוס הארגמן"],
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "01/02/2021",
+      "observer": "אור, הילה ברכה ונחמה",
+      "original_text": "אירוס ארגמן, רותם, נורית אחת, כלניות ורקפות בשפע",
+      "locations": [
+        {
+          "location_name": "חורבת סמארה",
+          "flowers": ["אירוס ארגמן", "רותם", "נורית", "כלנית", "רקפת"],
+           "maps_query_location": "Khurvat Samara"
+        }
+      ]
+    }
+  ]
+}
+```

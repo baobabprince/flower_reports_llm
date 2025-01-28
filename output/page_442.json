@@ -1,0 +1,126 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/01/2017",
+      "observer": null,
+      "original_text": "בהרי ירושלים",
+      "locations": [
+        {
+          "location_name": "הרי ירושלים",
+          "flowers": ["דבורנית שחומה"],
+          "maps_query_location": "Jerusalem Mountains"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2017",
+      "observer": null,
+      "original_text": "מעט כלניוןת סגולות בהירות, נץ חלב איזמלני , רקפות התחלת פריחה,  דודא רפואי תחילת פריחה,  דבשה לבנה .",
+      "locations": [
+        {
+          "location_name": "נחל עיון",
+           "flowers": ["כלנית סגולה","Ornithogalum narbonense", "רקפת", "דודא רפואי", "דבשה לבנה"],
+          "maps_query_location": "Nahal Iyyon"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2017",
+      "observer": "אורית",
+      "original_text": "הפוסעים ברחבי הכרמל, בואדיות ובמודרותיו, יבחין בגושי עלים ירוקים צרים ומאורכים ובתוכם מתנוססים מלבינים בעלי כתרי הזהב וניחוח רענן לצד שרידי קוצי הקיץ. מראה וניחוח מלבבים ומרגשים ברעננותם המלכותית...",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+      {
+      "date": "16/01/2017",
+      "observer": null,
+      "original_text": "איריס א\"י, קדד פיינברון   דודא רפואי,",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+           "flowers": ["איריס ארץ ישראלי", "Astragalus finkelsteinii", "דודא רפואי"],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2017",
+      "observer": "נילי סנדר",
+      "original_text": "כשלושה קילומטר מחניון נחל חצץ לתוך הנחל. מקבצי נרקיסים בשיא הפריחה בתוך הנחל. ניתן לנסוע בכל רכב כ1 קילומטר. עדיפות כמובן לרכב 4×4.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2017",
+       "observer": "אדיר פאדוני נדוף",
+      "original_text": "פריחת כלנית לבנה, אירוס ארץ ישראלי ורקפות ביער ראש העין",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+           "flowers": ["כלנית לבנה", "איריס ארץ ישראלי", "רקפת"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+     {
+      "date": "15/01/2017",
+      "observer": null,
+      "original_text": "מיאגרון אזון פורח בגן",
+       "locations": [
+        {
+          "location_name": "גן",
+          "flowers": ["מיאגרון אזון"],
+          "maps_query_location": null
+         }
+       ]
+    },
+     {
+      "date": "15/01/2017",
+       "observer": null,
+      "original_text":"שביל עליון : צילומים יעקב גרזון",
+       "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": [],
+          "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+      {
+      "date":"15/01/2017",
+      "observer": null,
+      "original_text":"בערד - ראו תצלומים של אלברט קשת",
+       "locations": [
+        {
+          "location_name": "ערד",
+          "flowers": ["סיתוונית הנגב"],
+          "maps_query_location": "Arad"
+        }
+       ]
+     },
+     {
+      "date":"15/01/2017",
+      "observer": null,
+      "original_text":"בחולות דימונה - ראו בקישור",
+       "locations": [
+        {
+          "location_name": "דימונה",
+          "flowers": ["סיתוונית הנגב"],
+          "maps_query_location": "Dimona"
+        }
+      ]
+    }
+  ]
+}
+```

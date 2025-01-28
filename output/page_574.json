@@ -1,0 +1,259 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/02/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : הילל מקומט , עירית גדולה , כלנית מצויה בכל הגוונים , רקפת מצויה + יוונית , יקינטון מזרחי , יקינטונית מעורקת , דמומית עבת שיבולת , ורוניקה סורית , נוניאה קהה + נאה , כתמה עבת שרשים , טופח מעורק - אדום , ציפורנית זעירה + מצרית , רומוליאה סגלולית + צידונית , דודא רפואי , גביעונית הלבנון + ערבית , חיננית הבתה + רב שנתית , בצלציה א\"י  ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "Hillel macomtet",
+            "Asphodelus aestivus",
+            "Anemone coronaria",
+             "Cyclamen persicum",
+            "Hyacinthus orientalis",
+            "Bellevalia flexuosa",
+            "Adonis aleppica",
+            "Veronica syriaca",
+            "Nonea ventricosa",
+            "Carthamus tenuis",
+            "Solenanthus circinnatus",
+            "Petrorhagia obcordata",
+            "Romulea bulbocodium",
+            "Mandragora autumnalis",
+            "Gladiolus libanoticus",
+             "Bellis sylvestris",
+             "Prospero autumnale"
+          ],
+          "maps_query_location": null
+        },
+		{
+          "location_name": "גן בוטני",
+          "flowers": [
+             "Hillel macomtet",
+            "Asphodelus aestivus",
+            "Anemone coronaria",
+             "Cyclamen persicum",
+            "Hyacinthus orientalis",
+            "Bellevalia flexuosa",
+            "Adonis aleppica",
+            "Veronica syriaca",
+            "Nonea ventricosa",
+            "Carthamus tenuis",
+            "Solenanthus circinnatus",
+            "Petrorhagia obcordata",
+            "Romulea bulbocodium",
+            "Mandragora autumnalis",
+            "Gladiolus libanoticus",
+             "Bellis sylvestris",
+             "Prospero autumnale"
+          ],
+          "maps_query_location": null
+        },
+		{
+          "location_name": "כפר יהושע",
+           "flowers": [
+              "Hillel macomtet",
+            "Asphodelus aestivus",
+            "Anemone coronaria",
+             "Cyclamen persicum",
+            "Hyacinthus orientalis",
+            "Bellevalia flexuosa",
+            "Adonis aleppica",
+            "Veronica syriaca",
+            "Nonea ventricosa",
+            "Carthamus tenuis",
+            "Solenanthus circinnatus",
+            "Petrorhagia obcordata",
+            "Romulea bulbocodium",
+            "Mandragora autumnalis",
+            "Gladiolus libanoticus",
+             "Bellis sylvestris",
+             "Prospero autumnale"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2014",
+      "observer": "דוד הר זהב",
+      "original_text": "בנחל ספונים: עיריות גדולות, כתמה עבת שורשים, כלניות מצויות, רקפות מצויות, זלזלת הקנוקנות, ולאריינה איטלקית, זמזומיות מצויות, כרמלית נאה לרוב.",
+      "locations": [
+        {
+          "location_name": "נחל ספונים",
+          "flowers": [
+            "Asphodelus aestivus",
+             "Carthamus tenuis",
+            "Anemone coronaria",
+            "Cyclamen persicum",
+            "Clematis cirrhosa",
+            "Lallemantia iberica",
+            "Muscari parviflorum",
+             "Gynandriris sisyrinchium"
+          ],
+          "maps_query_location": "Nahal Sefunim"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2014",
+      "observer": null,
+      "original_text": "בבוסתני גמזו ובכניסה למושב גמזו פריחה יפה של שקדיות",
+       "locations": [
+        {
+          "location_name": "בוסתני גמזו",
+          "flowers": [
+            "Prunus dulcis"
+          ],
+		  "maps_query_location": null
+        },
+		{
+          "location_name": "מושב גמזו",
+          "flowers": [
+            "Prunus dulcis"
+          ],
+          "maps_query_location": "Gimzo"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2014",
+      "observer": "נביל אבושקארה",
+      "original_text": "אתמול החלטנו להתחיל את מסלול ההליכה ת מוקדם מהרגיל כך שיכלנו ללקט ללקט עשבי מאכל חוביזה 'עולש י וסלק בר וגם לצפות ולצלם בפריחה של כלניות ורקפות ופרגים  פשוט עושה טעם יפה לחיי",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+             "Anemone coronaria",
+             "Cyclamen persicum",
+             "Papaver spp."
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/02/2014",
+       "observer": null,
+      "original_text": "ראו מסלול טיול וצילומים מדהימים (לא מהשנה) ",
+      "locations": [
+       {
+          "location_name": null,
+          "flowers": [],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/02/2014",
+      "observer": "ליאורה קרת",
+      "original_text": "בחלק הצפוני של דרך הבשור ממש ירוק בעיניים. ראשית כל - כלניות ומלבדן שולטת ללא עוררין מחרוזת משונצת. פרחו גם טוריים מצויים, לחך סגלגל, חיעד ספרדי, סביון הערבות, מנתור מצוי, נץ-חלב דק-עלים, זמזומית המדבר, זהבית דקת-עלים, עירית גדולה, ערטנית השדות, עכנאי שרוע, אכילאה ערבתית, רותם המדבר, אטד החוף.",
+       "locations": [
+        {
+          "location_name": "דרך הבשור",
+           "flowers": [
+            "Anemone coronaria",
+            "Reichardia tingitana",
+            "Torilis tenella",
+            "Antirrhinum siculum",
+            "Helianthemum syriacum",
+            "Senecio glaucus",
+            "Mentha longifolia",
+            "Ornithogalum narbonense",
+            "Muscari deserticola",
+            "Sternbergia clusiana",
+            "Asphodelus aestivus",
+            "Erodium cicutarium",
+            "Echium sericeum",
+             "Achillea santolinoides",
+            "Retama raetam",
+            "Lycium schweinfurthii"
+          ],
+          "maps_query_location": "Derech HaBesor"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2014",
+       "observer": null,
+      "original_text": "כרמלית נאה, זמזומית מצויה, דודא רפואי, כלנית מצויה, רקפת מצויה",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Gynandriris sisyrinchium",
+            "Muscari parviflorum",
+            "Mandragora autumnalis",
+             "Anemone coronaria",
+             "Cyclamen persicum"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2014",
+       "observer": null,
+      "original_text": "פורחים: אכסף מבריק (לפני השיא), רומוליאה צידונית, בן-חצב בחורש, דבורנית שחומה, ניצנים של סזחלב נקוד, קידה שעירה, חיננית הבתה, זלזלת הקנוקנות, כתמה עבת-שורשים, סביון אביבי,  עירית גדולה והמוני איריס א\"י",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "Ranunculus asiaticus",
+            "Romulea bulbocodium",
+            "Scilla hyacinthoides",
+             "Ophrys umbilicata",
+             "Ornithogalum maculatum",
+             "Calycotome villosa",
+             "Bellis sylvestris",
+             "Clematis cirrhosa",
+             "Carthamus tenuis",
+             "Senecio vernalis",
+            "Asphodelus aestivus",
+            "Iris palaestina"
+
+          ],
+         "maps_query_location": "Carmel"
+        }
+      ]
+    },
+   {
+      "date": "04/02/2014",
+      "observer": null,
+      "original_text": "יש כבר פריחת כלניות משגעת\nהמרבדים  בעיצומם...הכל התפרץ תוך שבוע!\nוגם הירוק...ירוק מאוד!",
+      "locations": [
+        {
+          "location_name": "דרוםאדום",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "03/02/2014",
+      "observer": "עמיר פז",
+      "original_text": "קןצן מכונף,מיאגרון אזון,אשבל השדה,זמזומית זוהרי,שרוכנית החוף,אשבל ארך שיבולת,ואכסף מבריק פורחים בגן בגעש",
+      "locations": [
+       {
+          "location_name": "גן בגעש",
+          "flowers": [
+            "Carduus pteracanthus",
+            "Myagrum perfoliatum",
+            "Salvia viridis",
+            "Muscari macrocarpum",
+            "Herniaria cinerea",
+            "Salvia dominica",
+             "Ranunculus asiaticus"
+          ],
+		   "maps_query_location": "Ga'ash"
+        }
+      ]
+    }
+  ]
+}
+```

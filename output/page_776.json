@@ -1,0 +1,329 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/04/2009",
+      "observer": "פנינה פרנקל",
+      "original_text": "בשביל הגולן -בעליה לאחר החיבור של נחל מיצר עם ברברה, \"יער\" של צמר מפוצל. מצטרפים קוציץ(אקנטוס), מרות ירושלים, נזמית לבנה, טופח מעורק  דמומיות נוריות פרגים ואפילו כלניות...",
+      "locations": [
+        {
+          "location_name": "נחל מיצר",
+          "flowers": [
+            "Sarcopoterium spinosum",
+            "Phlomis fruticosa",
+            "Ajuga chamaepitys",
+              "Teucrium capitatum",
+             "Papaver rhoeas",
+            "Ranunculus",
+             "Anemone coronaria"
+            ],
+          "maps_query_location": "Nahal Meitzar"
+        },
+         {
+          "location_name": "ברברה",
+           "flowers": [
+            "Sarcopoterium spinosum",
+            "Phlomis fruticosa",
+            "Ajuga chamaepitys",
+              "Teucrium capitatum",
+             "Papaver rhoeas",
+            "Ranunculus",
+             "Anemone coronaria"
+            ],
+          "maps_query_location": "Barbra"
+        },
+         {
+           "location_name": "הגולן",
+           "flowers": [
+            "Sarcopoterium spinosum",
+            "Phlomis fruticosa",
+            "Ajuga chamaepitys",
+              "Teucrium capitatum",
+             "Papaver rhoeas",
+            "Ranunculus",
+             "Anemone coronaria"
+            ],
+           "maps_query_location": "Golan Heights"
+         }
+      ]
+    },
+    {
+      "date": "05/04/2009",
+      "observer": null,
+      "original_text": "ירוס צהרים סחלב אנטולי וסחלב איטלקי, פורחים בשמורת הר אדיר הסמוכה לגבול לבנון.",
+      "locations": [
+        {
+          "location_name": "שמורת הר אדיר",
+          "flowers": [
+             "Iris palaestina",
+            "Ophrys anatolica",
+            "Orchis italica"
+          ],
+          "maps_query_location": "Har Adir Nature Reserve"
+        },
+        {
+            "location_name": "גבול לבנון",
+            "flowers": [
+             "Iris palaestina",
+            "Ophrys anatolica",
+            "Orchis italica"
+          ],
+          "maps_query_location": "Border of Lebanon"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2009",
+       "observer": null,
+      "original_text": "במעיינות ופלגי יובלי נחל  בזלת עליון  שבגולן וסביבותם פרחו:\nבקיית הביצות, גרגר נחלים\nדמומית  -  השדה, א\"י וקטנת פרי\nכף צפרדע איזמלני  -  זיהוי לא ודאי, טרם פריחה, כרפס הביצות\nנורית -  המים (ללא פירוט), יתדית, קושטא (משטחים מדהימים  - אלפי פרטים בצפיפות מרשימה בלב המעיינות), ירושלים, המלל\nקוציץ סורי\nקרדה מכסיפה – 2 הזנים , תורמוס – צר עלים, ההרים\nוכמו כן סמוך לראסם אל חרבוש פרחו: גדילן מצוי – אוכלוסיה מרשימה בת עשרות פרטים \"אלבינו\": כל הפרחים  לבן \"שלג\" אחיד.",
+      "locations": [
+        {
+          "location_name": "נחל בזלת עליון",
+           "flowers": [
+            "Vicia narbonensis",
+            "Nasturtium officinale",
+             "Papaver umbonatum",
+             "Papaver syriacum",
+             "Papaver hybridum",
+            "Alisma plantago-aquatica",
+             "Ranunculus",
+              "Ranunculus asiaticus",
+               "Ranunculus marginatus",
+               "Ranunculus constantinopolitanus",
+             "Scolymus maculatus",
+            "Cardaria draba",
+            "Lupinus angustifolius",
+            "Cirsium vulgare"
+          ],
+          "maps_query_location": "Nahal Bazalt Elyon"
+        },
+        {
+           "location_name": "הגולן",
+          "flowers": [
+            "Vicia narbonensis",
+            "Nasturtium officinale",
+             "Papaver umbonatum",
+             "Papaver syriacum",
+             "Papaver hybridum",
+            "Alisma plantago-aquatica",
+             "Ranunculus",
+              "Ranunculus asiaticus",
+               "Ranunculus marginatus",
+               "Ranunculus constantinopolitanus",
+             "Scolymus maculatus",
+            "Cardaria draba",
+            "Lupinus angustifolius",
+             "Cirsium vulgare"
+          ],
+          "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name": "ראסם אל חרבוש",
+          "flowers": [
+            "Cirsium vulgare"
+          ],
+           "maps_query_location": "Rasem el Harboush"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2009",
+        "observer": "אורן שוורץ",
+      "original_text": "גנים קסומים ועצים עתיקים בגליל. נטייל בגליל בגנים לא מוכרים, מעניינים בעיצובם ,מקסימים ביופיים. נשמע את הסיפור המיוחד של יוצריהם: גן מרהיב בכפר דרוזי, מעוצב ומטופח בידי משפחה \nכדרך חיים וכהנצחה. גן בהאי לא מוכר, שהיה שייך לקדוש פרסי ובהמשך, לקולונל אנגלי. גן על כביש הצפון, בו פסלי פסיפס בסגנון שבטי, נטועים בתוך צמחייה טרופית ויוצרים אווירה מסתורית. סיפורו של עץ בכפר נטוש. תתאפשר  ארוחת צהרים בנהרייה",
+         "locations": [
+        {
+           "location_name": "הגליל",
+          "flowers": [],
+          "maps_query_location": "Galilee"
+         },
+          {
+          "location_name": "כפר דרוזי",
+            "flowers": [],
+          "maps_query_location": "Druze village"
+        },
+        {
+           "location_name": "כביש הצפון",
+          "flowers": [],
+           "maps_query_location": "Northern Road Israel"
+        },
+           {
+          "location_name":"נהרייה",
+             "flowers": [],
+             "maps_query_location": "Nahariya"
+           }
+       ]
+    },
+    {
+      "date": "25/04/2009",
+         "observer": "אורן שוורץ",
+         "original_text": "גנים קסומים ועצים עתיקים בגליל. נטייל בגליל בגנים לא מוכרים, מעניינים בעיצובם ,מקסימים ביופיים. נשמע את הסיפור המיוחד של יוצריהם: גן מרהיב בכפר דרוזי, מעוצב ומטופח בידי משפחה \nכדרך חיים וכהנצחה. גן בהאי לא מוכר, שהיה שייך לקדוש פרסי ובהמשך, לקולונל אנגלי. גן על כביש הצפון, בו פסלי פסיפס בסגנון שבטי, נטועים בתוך צמחייה טרופית ויוצרים אווירה מסתורית. סיפורו של עץ בכפר נטוש. תתאפשר  ארוחת צהרים בנהרייה",
+       "locations": [
+          {
+           "location_name": "הגליל",
+          "flowers": [],
+          "maps_query_location": "Galilee"
+         },
+          {
+          "location_name": "כפר דרוזי",
+            "flowers": [],
+          "maps_query_location": "Druze village"
+        },
+        {
+           "location_name": "כביש הצפון",
+          "flowers": [],
+           "maps_query_location": "Northern Road Israel"
+        },
+           {
+          "location_name":"נהרייה",
+             "flowers": [],
+             "maps_query_location": "Nahariya"
+           }
+       ]
+    },
+    {
+      "date": "05/04/2009",
+        "observer": null,
+      "original_text": "שדות אדומים מפרגים נצפים לנוסעים בכביש 6, בין כפר מנחם לכביש",
+      "locations": [
+        {
+          "location_name": "כפר מנחם",
+          "flowers": [
+            "Papaver rhoeas"
+          ],
+           "maps_query_location": "Kfar Menahem"
+        },
+        {
+          "location_name": "כביש 6",
+          "flowers": [
+            "Papaver rhoeas"
+          ],
+          "maps_query_location": "Highway 6 Israel"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2009",
+       "observer": "עתניאל דייגי",
+      "original_text": "צפיתי במספר עמודי תפרחת של מרווה כחולה מתחת לרחוב הנרד בירושלים בסמוך לגינת בוסתניה , במידה ותרצו צילומים של המרווה , אמרו לי , עתניאל",
+      "locations": [
+        {
+          "location_name": "רחוב הנרד",
+           "flowers": [
+            "Salvia hierosolymitana"
+          ],
+           "maps_query_location": "HaNard Street Jerusalem"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": [
+             "Salvia hierosolymitana"
+          ],
+          "maps_query_location": "Jerusalem"
+        },
+        {
+           "location_name": "גינת בוסתניה",
+           "flowers": [
+             "Salvia hierosolymitana"
+           ],
+            "maps_query_location": "Bustanai Garden Jerusalem"
+        }
+      ]
+    },
+     {
+      "date": "04/04/2009",
+       "observer": null,
+      "original_text": "מאות שפתנים, מאות! לצערי בשלהי פריחתם , פורחים על גבעה נמוכה בין פרק השרון לתחנת רכבת חדרה, לאורך היער.  גם עדר עזים וכבשים מעורב שהיה שם לא הפריע. משום מה הצאן לא פוגעות בשפתן.",
+      "locations": [
+          {
+          "location_name": "יער חדרה",
+           "flowers": [
+            "Ophrys"
+          ],
+          "maps_query_location": "Hadera Forest"
+        },
+        {
+           "location_name":"פרק השרון",
+          "flowers": [
+            "Ophrys"
+          ],
+          "maps_query_location": "Park haSharon"
+        },
+        {
+             "location_name": "תחנת רכבת חדרה",
+           "flowers": [
+            "Ophrys"
+          ],
+             "maps_query_location":"Hadera Railway Station"
+        }
+      ]
+    },
+    {
+      "date": "04/04/2009",
+        "observer": null,
+      "original_text": "צלבית החוף,חבלבל כפני+החוף,נר לילה חופי,ציפורנית בשרנית,ומרווה צמירה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+             "Matthiola tricuspidata",
+            "Convolvulus sabatius",
+            "Oenothera drummondii",
+              "Silene succulenta",
+              "Salvia lanigera"
+            ],
+          "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "02/04/2009",
+      "observer": null,
+      "original_text": "אירוס הגילבוע בדרום הגולן בנחל מיצר ומי שיעלה לגוןלן דרך הסוסיתא יראה אותם בצידי הדרך גם שם",
+       "locations": [
+           {
+          "location_name": "דרום הגולן",
+          "flowers": [
+            "Iris haynei"
+          ],
+          "maps_query_location": "Southern Golan Heights"
+        },
+          {
+           "location_name": "נחל מיצר",
+            "flowers": [
+             "Iris haynei"
+             ],
+           "maps_query_location": "Nahal Meitzar"
+        },
+         {
+            "location_name": "סוסיתא",
+            "flowers": [
+             "Iris haynei"
+            ],
+            "maps_query_location": "Susita"
+        }
+       ]
+    },
+     {
+      "date": "01/04/2009",
+       "observer": null,
+      "original_text": "איריס הגלבוע, עדכון פריחה ליום 1 באפריל 2009:\nבהר ברקן יש פקקי תנועה, אין איריסים (או כמעט שאין) השנה.\nאיפה כן יש? פריחה נהדרת ועשירה, רק עוד שבוע, פורצת ליד מלכישוע.\nאיך מגיעים? סעו למלכישוע. לפני השער פנו ימינה, הקפו את הישוב סביב הגדר (מבחוץ) נגד כיוון השעון. כשתראה לידך (משמאל, מֵעֵבֶר לגדר, בתוך הישוב) סככה עם גג כחול זועק – פנה ימינה בדרך עפר עבירה לכל רכב. סע בה כחצי ק\"מ ויותר. כשתראה איריסים אל תעצור, כי בעוד 100 מ' יש איריסים רבים וצפופים יותר. הדרך טבעתית, אם תמשיך – תחזור ותגיע לכביש סובב מלכישוע, אך בהמשך הדרך קשה יותר לנסיעה, ועדיף לחזור אחורה בדרך שבה באתם.",
+       "locations": [
+         {
+           "location_name": "הר ברקן",
+           "flowers": [
+              "Iris haynei"
+             ],
+             "maps_query_location": "Har Barkhan"
+          },
+          {
+           "location_name": "מלכישוע",
+             "flowers":[
+              "Iris haynei"
+              ],
+            "maps_query_location": "Malkishua"
+          }
+        ]
+    }
+  ]
+}
+```

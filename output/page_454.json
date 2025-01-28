@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/09/2016",
+      "observer": "אורי שטיין",
+      "original_text": "כעת בפריחה חבצלת קטנת פרחים, חצב מצוי, מתנן שעיר מתחיל וציפורן נקוד",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+           "flowers": ["חבצלת קטנת פרחים", "חצב מצוי", "מתנן שעיר", "ציפורן נקוד"],
+          "maps_query_location": "Udim"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2016",
+      "observer": "מדרשת ביחד",
+      "original_text": "פריחה של סתוונית הקליפות בהר רמון וסביבתו",
+      "locations": [
+        {
+          "location_name": "הר רמון",
+           "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Har Ramon"
+        },
+         {
+          "location_name": "סביבתו",
+           "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "17/09/2016",
+      "observer": "מאיה שתיל",
+       "original_text": "פרחי חבצלת קטנת פרחים בשיא הפריחה . בשביל המסומן הכחול שמדרום למנזר השתקנים בלטרון בין עצי הזית .",
+      "locations": [
+         {
+          "location_name": "לטרון",
+          "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "Latrun"
+        }
+      ]
+    },
+    {
+      "date": "17/09/2016",
+      "observer": null,
+      "original_text": "מדד זוחל, געדת הביצות, חלבלוב קטן פרי, אל ציצית לבנה, גומא צפוף וארוך, תלתן הביצות, פספלון דו טורי ועוד רבים פורחים בנחל. תודה לדרור מלמד על העזרה בזיהוי, ולזלמן באומוול על ההכוונה",
+      "locations": [
+        {
+          "location_name": "נחל עדה",
+          "flowers": ["מדד זוחל", "געדת הביצות", "חלבלוב קטן פרי", "אל ציצית לבנה", "גומא צפוף וארוך", "תלתן הביצות", "פספלון דו טורי"],
+           "maps_query_location": "Nahal Ada"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2016",
+      "observer": "עדנה מוסל",
+        "original_text": "פואנית איטלקית - נצפתה בעליה מבי\"ס שה מירון אל הפסגה בשולי הכביש. תמונות  קישור יועלו בהמשך",
+      "locations": [
+         {
+          "location_name": "הר מירון",
+            "flowers": ["פואנית איטלקית"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+     {
+      "date": "16/09/2016",
+      "observer": "עדנה מוסל",
+      "original_text": "10 - 20 פריטים של סתוונית בכירה נצפו ביום חמישי 15.09.16 בשביל הפסגה בהר מירון. הסתו כאן!",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["סתוונית בכירה"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2016",
+      "observer": "אורי שטיין",
+      "original_text": "ציפורן משתלשל התחלת פריחה על השביל הגיאולוגי בנחל המערות\nשום סתוי בגבעת ההגנה",
+      "locations": [
+        {
+          "location_name": "נחל המערות",
+          "flowers": ["ציפורן משתלשל"],
+          "maps_query_location": "Nahal haMe'arot"
+        },
+        {
+          "location_name": "גבעת ההגנה",
+           "flowers": ["שום סתווי"],
+          "maps_query_location": "Givat HaHagana"
+        }
+      ]
+    },
+     {
+      "date": "15/09/2016",
+      "observer": null,
+       "original_text": "כדן קטן פרחים, בן חצב סתווני,ארכובית צמירה, שום סתווי, עטיינית מגובבת, גומא צפוף שיבולת והירקון, ואגמון שרוע פורחים בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["כדן קטן פרחים", "בן חצב סתווני", "ארכובית צמירה", "שום סתווי", "עטיינית מגובבת", "גומא צפוף", "אגמון שרוע"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2016",
+      "observer": null,
+      "original_text": "בישוב קדומים ובדרך מהמרכז לקדומים",
+      "locations": [
+        {
+          "location_name": "קדומים",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Kedumim"
+        },
+         {
+          "location_name": "המרכז",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "קדומים",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2016",
+      "observer": null,
+       "original_text": "דרך הבשור בעקבות החצב הגלוני",
+      "locations": [
+        {
+          "location_name": "דרך הבשור",
+           "flowers": ["חצב גלוני"],
+           "maps_query_location": "Derech HaBesor"
+        }
+      ]
+    }
+  ]
+}
+```

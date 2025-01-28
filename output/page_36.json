@@ -1,0 +1,183 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/02/2024",
+      "observer": "עידו קרסל",
+      "original_text": "פריחת תורמוסים בעיצומה. חניה נוחה והליכה קלה",
+      "locations": [
+        {
+          "location_name": "תל שוכה",
+          "flowers": [
+            "תורמוס"
+          ],
+            "maps_query_location": "Tel Shokha"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2024",
+      "observer": null,
+      "original_text": "אספסת איטלקית והחילזון, אשבל השדה, תלתן ישראלי, איריס הארגמן, חומעת האווירון, זמזומית ורבורג, וכלנית מצויה פורחים בגן",
+        "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+           "flowers": [
+            "אספסת איטלקית",
+            "אשבל השדה",
+            "תלתן ישראלי",
+            "איריס הארגמן",
+            "חומעת האווירון",
+            "זמזומית ורבורג",
+            "כלנית מצויה"
+          ],
+            "maps_query_location": "Gan Maklet Sharoni"
+         }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "לקוקיה כרתית, קורידלית הסלעים, רקפת יוונית,",
+        "locations": [
+        {
+          "location_name": "מאגר בנטל",
+            "flowers": [
+            "קוקיה כרתית",
+            "קורידלית הסלעים",
+            "רקפת יוונית"
+          ],
+            "maps_query_location": "Me'agar Bental"
+        }
+      ]
+    },
+     {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "קרנונית דביקה, אספסת משוזרת(ריסנית) , אפון-קיפח, זקן-תיש ארוך",
+       "locations": [
+        {
+          "location_name": "צומת מורשת",
+            "flowers": [
+            "קרנונית דביקה",
+            "אספסת משוזרת",
+            "אפון-קיפח",
+            "זקן-תיש ארוך"
+          ],
+          "maps_query_location": "Tzomet Moreshet"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "גביעונית הלבנון , דבורנית צהובה",
+       "locations": [
+         {
+          "location_name": "יער בית קשת",
+            "flowers": [
+            "גביעונית הלבנון",
+            "דבורנית צהובה"
+          ],
+           "maps_query_location":"Ya'ar Beit Keshet"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+       "original_text": "המון נוריות המים עדיין לא שיא",
+      "locations": [
+        {
+          "location_name": "בריכת צרטה",
+          "flowers": [
+            "נורית המים"
+           ],
+          "maps_query_location":"Breikhat Tzarta"
+       }
+     ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "לאורך כביש מספר 1 , בין צומת נחשון ללטרון",
+       "locations": [
+        {
+           "location_name": "כביש מספר 1",
+            "flowers": [
+            "שקד"
+          ],
+            "maps_query_location": "Road 1"
+        },
+          {
+          "location_name": "צומת נחשון",
+           "flowers": [
+              "שקד"
+           ],
+              "maps_query_location":"Tzomet Nahshon"
+        },
+         {
+          "location_name": "לטרון",
+           "flowers": [
+              "שקד"
+            ],
+          "maps_query_location": "Latrun"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "כרמלית נאה, סחלב מצוייר, עשנן יהודה, ולרייאנה איטלקית, חלבלוב השמש",
+       "locations": [
+        {
+          "location_name": "הר אחים",
+           "flowers": [
+            "כרמלית נאה",
+            "סחלב מצוייר",
+            "עשנן יהודה",
+            "ולרייאנה איטלקית",
+            "חלבלוב השמש"
+           ],
+           "maps_query_location": "Har Ahim"
+         }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "נץ-חלב אזמלני , אביבית בינונית , איריס הלבנון, בר-נורית חרמשי",
+        "locations": [
+        {
+          "location_name": "יער אודם",
+           "flowers": [
+            "נץ-חלב אזמלני",
+            "אביבית בינונית",
+            "איריס הלבנון",
+            "בר-נורית חרמשי"
+          ],
+          "maps_query_location": "Ya'ar Odem"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "טופח ריסני,   סתוונית ירושלים(פרי) , גרניון עגול , זהבית דמשקאית, זערורית קטנת-פרי",
+       "locations": [
+        {
+          "location_name": "מצפה נטופה",
+          "flowers": [
+            "טופח ריסני",
+            "סתוונית ירושלים",
+            "גרניון עגול",
+             "זהבית דמשקאית",
+            "זערורית קטנת-פרי"
+          ],
+          "maps_query_location": "Mitzpe Netofa"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,286 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2020",
+      "observer": "עידו מגן",
+      "original_text": "המון שקדיות פורחות כבר מיד לאחר השער. לא נכנסנו ממש פנימה. כמו כן לאחר הכניסה יש מצד ימין יער מלא ברקפות. בשבתות המקום סגור וביום שישי פתוח עד 13:00, בימי חול עד 16:00, אבל אפשר להישאר עד החשכה (שעכשיו יורדת יחסית מאוחר)",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+          "flowers": [
+            "שקד",
+            "רקפת"
+           ],
+           "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2020",
+      "observer": null,
+      "original_text": "מרבדי פריחות : שלח הערבות, שלחלח האלה, בן-שלח מנוצה, פשתנית ססגונית, חומעה ורודה, מחרוזת משונצת (ראו קישור ) , גרגרנית ערבית, תמריר מרוקאי, מקור חסידה שעיר, גרגרנית כוכבנית, פרסה מקרינה, פגוניה דביקה, מקור חסידה מלבין, זוגן השיח, דרדר מצרי, רכפתן מדברי, סביון הערבות,  סביון צהוב, קחוון ים המלח , רכפה,  אהרונסוניה פקטורובסקי, אהל מצוי, עכנאי שרוע, נץ-חלב דק עלים, טוריים זיפניים, מוריקה מבריקה, גרגריון ערבי , עירית נטויה, מנתור המדבר, מנתור ערבי,",
+      "locations": [
+        {
+          "location_name": "ירקעם",
+          "flowers": [
+              "Salix acmophylla",
+              "Pistacia atlantica",
+              "Cistanche tubulosa",
+              "Linaria haelava",
+              "Rumex roseus",
+              "Echium glomeratum",
+              "Astragalus annularis",
+              "Heliotropium europaeum",
+               "Erodium hirtum",
+              "Astragalus stella",
+              "Paronychia argentea",
+              "Peganum harmala",
+              "Erodium glaucophyllum",
+               "Zygophyllum dumosum",
+              "Centaurea aegyptiaca",
+              "Cyclamen persicum",
+             "Senecio vernalis",
+              "Senecio flavus",
+              "Anthemis maritima",
+              "Reseda alba",
+              "Aaronsohnia factorovskyi",
+              "Tamarix aphylla",
+              "Echium italicum",
+              "Ornithogalum brachystachys",
+              "Torilis tenella",
+              "Morettia philaeana",
+              "Lepidium aucheri",
+              "Asphodelus ramosus",
+              "Anabasis articulata",
+               "Mentha longifolia",
+                "Mentha pulegium"
+            ],
+           "maps_query_location": "Yarqam"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2020",
+      "observer": "עידו מגן",
+      "original_text": "על כביש 412 (ראשון לציון - נס ציונה - רחובות) שקדיות רבות בשדות פתוחים: פינת תש\"ח ורחוב הרצל בראשל\"צ; מדרום לתחנת פז גבעת האירוסים; ועל הקטע שבין נס ציונה לרחובות בואכה פארק המדע. כולן ממערב לכביש (צד ימין לנוסעים מראשון לציון לכיוון רחובות)",
+      "locations": [
+         {
+          "location_name": "ראשון לציון",
+           "flowers": [
+              "שקד"
+            ],
+           "maps_query_location": "Rishon LeZion"
+        },
+        {
+            "location_name": "נס ציונה",
+              "flowers": [
+                "שקד"
+            ],
+           "maps_query_location": "Ness Ziona"
+        },
+         {
+          "location_name": "רחובות",
+           "flowers": [
+              "שקד"
+            ],
+            "maps_query_location": "Rehovot"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2020",
+       "observer": null,
+      "original_text": "ראו אלבום",
+      "locations": [
+        {
+          "location_name": "צפון ים המלח",
+          "flowers": [],
+          "maps_query_location":"Dead Sea"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2020",
+      "observer": null,
+       "original_text": "ראו אלבום של רוני בראונר",
+       "locations": [
+        {
+            "location_name": "ים המלח",
+             "flowers": [],
+              "maps_query_location": "Dead Sea"
+         }
+      ]
+    },
+     {
+      "date": "17/02/2020",
+      "observer": null,
+      "original_text": "ביער כוכב יאיר , בגלעד, ביער בן שמן, בטל שחר ",
+      "locations": [
+        {
+          "location_name": "כוכב יאיר",
+           "flowers": [
+              "רקפת"
+            ],
+          "maps_query_location": "Kokhav Ya'ir"
+        },
+         {
+          "location_name": "גלעד",
+           "flowers": [
+               "רקפת"
+             ],
+             "maps_query_location": "Gilad"
+        },
+         {
+          "location_name": "יער בן שמן",
+            "flowers": [
+              "רקפת"
+            ],
+           "maps_query_location":"Ben Shemen Forest"
+        },
+        {
+          "location_name": "טל שחר",
+           "flowers": [
+              "רקפת"
+            ],
+             "maps_query_location": "Tel Shahar"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2020",
+      "observer": null,
+      "original_text": "נחל ניצנה: קדד קוטבי , קרדה מכסיפה , שמשון הדור , שנס המדבר , שסיע ערבי , אספסת מצוייצת, ארנבית שרועה , בבונגית מאוזננת , בן-פרג סגול , בן-ציצית טחבני ´ קדד האנקולים , פשתנית ססגונית , פילגון מדברי , עשנן קטן , נץ-חלב דק-עלים , נוניאה פלישתית, מקור-חסידה שעיר, מקור-חסידה מפוצל, מקור-חסידה מדברי , מנתור המדבר, מלקולמיה אפריקאית,  חספסת שרועה ,   זמזומית הערבות , זהבית דקת-עלים , קרצף מבורך , בקיה מדוקרנת , בקיה מדוקרנת",
+      "locations": [
+        {
+          "location_name": "נחל ניצנה",
+          "flowers": [
+             "Astragalus cruciatus",
+              "Cardaria draba",
+             "Malcolmia grandiflora",
+             "Reseda decursiva",
+             "Acacia gerrardii",
+             "Medicago ciliaris",
+             "Anemone coronaria",
+             "Matricaria aurea",
+              "Roemeria hybrida",
+              "Erophaca baetica",
+              "Astragalus hamosus",
+              "Linaria haelava",
+               "Filago desertorum",
+             "Fumaria parviflora",
+               "Ornithogalum brachystachys",
+             "Nonea philistaea",
+              "Erodium hirtum",
+             "Erodium laciniatum",
+             "Erodium deserti",
+             "Anabasis articulata",
+              "Malcolmia africana",
+             "Heliotropium supinum",
+             "Trigonella arabica",
+             "Sternbergia clusiana",
+             "Echinops blancheanus",
+              "Vicia galeata",
+               "Vicia galeata"
+            ],
+           "maps_query_location": "Nahal Nitzana"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2020",
+      "observer": null,
+       "original_text": "בורות לוץ: איריס טוביה  , תגית ארגמנית , שמשון הדור , קדד קדוש, ציפורנית מקופחת , ערטנית השדות , כלנית מצויה , חלבלוב פעוט , זמזומית אייג , זהבית דמשקאית , הרדופנין יהודה , גלעינית זעירת-פרחים , אליסון מצוי , אכיליאה ערבתית",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+              "Iris tuberosa",
+             "Cuscuta planiflora",
+            "Malcolmia grandiflora",
+              "Astragalus sanctus",
+             "Dianthus strictus",
+              "Erodium cicutarium",
+              "Anemone coronaria",
+             "Euphorbia chamaepeplus",
+              "Trigonella laciniata",
+             "Sternbergia lutea",
+              "Nerium oleander",
+             "Lithospermum tenuiflorum",
+             "Alyssum simplex",
+             "Achillea fragrantissima"
+             ],
+           "maps_query_location": "Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2020",
+      "observer": null,
+       "original_text":"עזוז: שן-הארי השעירה , קדד שעיר , קדד מצליב, צללית נאה, עלקת נטויה , עדעד מאובק , מרור עדין , מקור-חסידה חלמיתי , לפית שיכנית , לחך שסוע , ישימונית דו-גונית, חלמית מצרית , חיעד ספרדי , דורית רפה, דגנין גמוד , גרגרנית ערבית , בקיה תרבותית , בסיה ערבית, אפזרית דו-אבקנית",
+       "locations": [
+         {
+          "location_name": "עזוז",
+            "flowers": [
+              "Taraxacum syriacum",
+              "Astragalus bombycinus",
+              "Astragalus cruciatus",
+              "Erodium ciconium",
+              "Cistanche tubulosa",
+              "Limonium thouinii",
+               "Launaea mucronata",
+               "Erodium malacoides",
+              "Lathyrus cicera",
+               "Antirrhinum orontium",
+               "Gymnarrhena micrantha",
+              "Malva aegyptia",
+               "Helianthemum squamatum",
+               "Thesium humile",
+              "Bromus madritensis",
+              "Astragalus annularis",
+              "Vicia sativa",
+              "Bassia muricata",
+               "Eremobium aegyptiacum"
+            ],
+             "maps_query_location": "Ezuz"
+        }
+      ]
+    },
+   {
+      "date": "17/02/2020",
+      "observer": null,
+      "original_text": "בצידי כביש 6, בסטף, בוסתנח גמזו וסביבות מודיעין",
+      "locations": [
+         {
+           "location_name": "כביש 6",
+           "flowers": [
+             "שקד"
+            ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "סטף",
+          "flowers": [
+              "שקד"
+            ],
+           "maps_query_location": "Sataf"
+        },
+        {
+          "location_name": "בוסתנח גמזו",
+           "flowers": [
+              "שקד"
+            ],
+             "maps_query_location": null
+         },
+         {
+           "location_name":"מודיעין",
+            "flowers":[
+              "שקד"
+            ],
+           "maps_query_location":"Modi'in"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,325 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/11/2014",
+      "observer": null,
+      "original_text": "דודא רפואי  כלנית אדומה- תחילת פריחה  כרכום גיארדו , נרקיס מצוי . ויער מיוחד בשלכת",
+      "locations": [
+        {
+          "location_name": "יער אלוני צחק",
+          "flowers": [
+            "דודא רפואי",
+            "כלנית אדומה",
+            "כרכום גיארדו",
+            "נרקיס מצוי"
+           ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "27/11/2014",
+      "observer": "אילן טל",
+       "original_text": "פורחים : כרכום חלמוני + צהבהב + א\"י + גיירדו , סתוונית טוביה + ירושלים + התשבץ + בכירה + החרמון , פרע קטן עלים ,  נרקיס מצוי ( הררי ) , איריס הסרגל ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+            "כרכום חלמוני",
+             "כרכום צהבהב",
+            "כרכום ארץ ישראלי",
+            "כרכום גיארדו",
+            "סתוונית טוביה",
+            "סתוונית ירושלים",
+             "סתוונית התשבץ",
+            "סתוונית בכירה",
+             "סתוונית החרמון",
+            "פרע קטן עלים",
+            "נרקיס מצוי",
+            "איריס הסרגל"
+          ],
+           "maps_query_location":"Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2014",
+       "observer": null,
+      "original_text": "פורח בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "אחילוף זעיר"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2014",
+      "observer": null,
+       "original_text": "במושב עמיקם פורחים :\nכלמינתה אפורה, כרכום חורפי ,חיננית  הבתה, כרכום גיארדו, ועוד",
+      "locations": [
+        {
+          "location_name": "עמיקם",
+           "flowers": [
+            "כלמינתה אפורה",
+            "כרכום חורפי",
+            "חיננית הבתה",
+            "כרכום גיארדו"
+          ],
+           "maps_query_location": "Amiqam"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2014",
+       "observer": null,
+      "original_text": "פריחת כרכומים - כרכום חורפי , בכל האתרים , בבית אל ובפסגות פורח כרכום החרמון תת מין א\"י. \nחלמוניות פורחות בקטע בין צומת מגדלים למעלה אפריים ,בוואדי כיס ליד כוכב השחר, ובגבעת הראל (כמו שנאמר בדיווחים). נרקיסים פורחים בגוש שילה במקומות רבים גם בתוך הישוב גבעת הראל בישוב עלי בנופי נחמיה ועוד .\nפריחות של כתמה עבת שורשים וחיננית הבתה, סתוונית היורה וסתוונית ירושלים.",
+      "locations": [
+        {
+          "location_name": "בנימין",
+            "flowers": [
+                "כרכום חורפי",
+                 "כרכום החרמון",
+                 "חלמונית",
+                  "נרקיס",
+                  "כתמה עבת שורשים",
+                  "חיננית הבתה",
+                  "סתוונית היורה",
+                  "סתוונית ירושלים"
+            ],
+          "maps_query_location": null
+        },
+          {
+            "location_name": "בית אל",
+              "flowers": [
+              "כרכום החרמון"
+              ],
+              "maps_query_location": "Beit El"
+          },
+          {
+            "location_name": "פסגות",
+            "flowers": [
+              "כרכום החרמון"
+            ],
+              "maps_query_location": "Psagot"
+          },
+          {
+           "location_name": "צומת מגדלים",
+             "flowers": [
+                 "חלמונית"
+            ],
+           "maps_query_location": null
+          },
+          {
+            "location_name": "מעלה אפרים",
+             "flowers": [
+                 "חלמונית"
+            ],
+           "maps_query_location": "Ma'ale Efrayim"
+          },
+          {
+            "location_name": "ואדי כיס",
+            "flowers": [
+                "חלמונית"
+            ],
+            "maps_query_location": null
+          },
+          {
+            "location_name": "כוכב השחר",
+             "flowers": [
+                 "חלמונית"
+            ],
+           "maps_query_location": "Kokhav HaShahar"
+          },
+           {
+            "location_name": "גבעת הראל",
+             "flowers": [
+                "חלמונית",
+                "נרקיס"
+            ],
+            "maps_query_location": "Givat Harel"
+          },
+           {
+            "location_name": "גוש שילה",
+            "flowers": [
+                "נרקיס"
+            ],
+           "maps_query_location": "Gush Shilo"
+          },
+          {
+           "location_name": "עלי",
+            "flowers": [
+                "נרקיס"
+            ],
+           "maps_query_location": "Eli"
+          },
+          {
+           "location_name": "נופי נחמיה",
+             "flowers": [
+                "נרקיס"
+            ],
+           "maps_query_location":"Nofei Nehemya"
+          },
+           {
+           "location_name": "נחל קטלב",
+             "flowers": [
+                "חלמונית"
+            ],
+           "maps_query_location":"Nahal Katlav"
+          }
+      ]
+    },
+    {
+      "date": "23/11/2014",
+      "observer": null,
+       "original_text":"פורחים: איריס הסרגל (לפני השיא), חיננית הבתה, כתמה עבת-שורשים, קיסוסית קוצנית, חורשף מצוייץ (סוף) , סתוונית היורה, בדרך לשם הרבה נרקיס מצוי וכרכום חורפי.",
+      "locations": [
+        {
+          "location_name": "הר שוקף",
+           "flowers": [
+            "איריס הסרגל",
+            "חיננית הבתה",
+            "כתמה עבת שורשים",
+             "קיסוסית קוצנית",
+             "חורשף מצוייץ",
+            "סתוונית היורה",
+            "נרקיס מצוי",
+            "כרכום חורפי"
+          ],
+          "maps_query_location": "Har Shokef"
+        }
+      ]
+    },
+        {
+      "date": "23/11/2014",
+      "observer": null,
+       "original_text":"ביער ראש העין , בפארק קנדה, בכרמל, ביער קולה ביער שוהם, ביער צרעה וכסלון ועוד.",
+      "locations": [
+          {
+              "location_name": "ראש העין",
+               "flowers": [
+                    "נרקיס מצוי"
+               ],
+              "maps_query_location": "Rosh HaAyin"
+          },
+           {
+            "location_name": "פארק קנדה",
+             "flowers": [
+                 "נרקיס מצוי"
+            ],
+            "maps_query_location":"Canada Park"
+          },
+           {
+            "location_name": "כרמל",
+            "flowers": [
+                 "נרקיס מצוי"
+            ],
+             "maps_query_location":"Carmel"
+          },
+           {
+              "location_name": "קולה",
+               "flowers": [
+                    "נרקיס מצוי"
+                ],
+              "maps_query_location":"Kula"
+            },
+            {
+              "location_name":"שוהם",
+               "flowers": [
+                    "נרקיס מצוי"
+               ],
+              "maps_query_location":"Shoham"
+            },
+           {
+             "location_name": "צרעה",
+             "flowers": [
+                "נרקיס מצוי"
+            ],
+             "maps_query_location":"Tzora"
+           },
+            {
+             "location_name": "כסלון",
+             "flowers": [
+                 "נרקיס מצוי"
+            ],
+              "maps_query_location": "Kisalon"
+           }
+      ]
+    },
+      {
+      "date": "23/11/2014",
+      "observer": null,
+      "original_text": "צחנן מבאיש בעמק האלה השנה תחילת פריחה בנובמבר. כמו כן שני שיחים בגובה 4 מטרים בערך ממש דמוי עצים.",
+      "locations": [
+        {
+          "location_name": "עמק האלה",
+          "flowers": [
+            "צחנן מבאיש"
+          ],
+            "maps_query_location": "Elah Valley"
+        }
+      ]
+    },
+       {
+      "date": "22/11/2014",
+      "observer": "אבנר אברהם",
+      "original_text":"מצורפת קישורית של פריחה בכרמל  רקפות החלו לפרוח בנוסף אירוס הסרגל כרכום חורפי ונרקיס מצוי",
+      "locations": [
+        {
+          "location_name": "כרמל",
+            "flowers": [
+                "רקפת",
+                 "איריס הסרגל",
+                 "כרכום חורפי",
+                 "נרקיס מצוי"
+            ],
+           "maps_query_location":"Carmel"
+        }
+      ]
+    },
+     {
+      "date": "22/11/2014",
+      "observer": "אורית דשא",
+      "original_text":"למטיילים בימים אלה בכרמל (סביבות אוניברסיטת חיפה ובדרך לעוספייא ודליה.. מתחת לרדר הגבוה לצד צפון מערב...) צפויה חווית משטחים ורודים של הסתווניות וכן באיזור הבתה - החינניות שליבן זהוב וכותרתן לבנה ורדרדה בקצותיה ועוד קטני תפרחות עדינים מוורידים מסגילים.... חוויה מרנינה. גם לנו שוויצריה הקטנה שלנו, עם ה\"איידל ווייס\" שלנו... אין צורך להעפיל ולהרחיק לשם....",
+       "locations": [
+            {
+              "location_name":"כרמל",
+                "flowers": [
+                    "סתוונית",
+                    "חיננית הבתה"
+                ],
+              "maps_query_location":"Carmel"
+            },
+           {
+               "location_name":"אוניברסיטת חיפה",
+                "flowers": [
+                    "סתוונית",
+                    "חיננית הבתה"
+                ],
+               "maps_query_location":"University of Haifa"
+            },
+            {
+              "location_name": "עוספייא",
+               "flowers": [
+                    "סתוונית",
+                    "חיננית הבתה"
+                ],
+                 "maps_query_location":"Usfiya"
+            },
+            {
+              "location_name": "דליה",
+              "flowers": [
+                   "סתוונית",
+                    "חיננית הבתה"
+              ],
+              "maps_query_location":"Daliyat el Carmel"
+            }
+        ]
+    }
+  ]
+}
+```

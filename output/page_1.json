@@ -1,0 +1,202 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/01/2025",
+      "observer": "עידו מגן",
+      "original_text": "בשכונת עין הים ליד חדרה מרבד כלניות אדומות. פריחת כלניות אדומות וסגולות ודבורניות דינסמור בגבעה מדרום לעין הים. בגבעת הפרחים ליד מעגן מיכאל מאות (אולי אפילו אלפי) כלניות, רקפות, אירוסים ארצישראליים ועשרות סחלבי שקיק.",
+      "locations": [
+        {
+          "location_name": "עין הים",
+          "flowers": [
+            "כלנית אדומה",
+             "דבורנית דינסמור"
+          ],
+          "maps_query_location": "Ein HaYam"
+        },
+        {
+          "location_name": "חדרה",
+           "flowers": [
+            "כלנית אדומה"
+          ],
+          "maps_query_location": "Hadera"
+        },
+       {
+          "location_name": "גבעת הפרחים",
+           "flowers": [
+            "כלנית",
+            "רקפת",
+            "אירוס ארצישראלי",
+            "סחלב שקיק"
+           ],
+          "maps_query_location": "Givat HaPrahim"
+        },
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "כלנית",
+            "רקפת",
+            "אירוס ארצישראלי",
+            "סחלב שקיק"
+           ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2025",
+      "observer": "ארד סימינה",
+      "original_text": "אירוס הארגמן בשמורת האירובים. שני פריטים נגלן",
+      "locations": [
+        {
+          "location_name": "שמורת האירובים",
+          "flowers": [
+            "אירוס הארגמן"
+          ],
+          "maps_query_location": "Shomrat HaIruvim"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2025",
+      "observer": "אורנה ניסן",
+      "original_text": "המון שקדיות בפריחה, בין מודיעין לירושלים רבתי.  מראה מקסים!🙂",
+       "locations": [
+        {
+          "location_name": "מודיעין",
+          "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Modi'in"
+        },
+        {
+          "location_name": "ירושלים",
+           "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2025",
+      "observer": "אורנה ישראלי",
+      "original_text": "נרקיסים באחו נובמבר, רקפת יוונית ואירוס הסרגל בתל חזקה",
+      "locations": [
+        {
+          "location_name": "אחו נובמבר",
+          "flowers": [
+             "נרקיס"
+          ],
+          "maps_query_location": "Ahu November"
+        },
+        {
+         "location_name": "תל חזקה",
+         "flowers": [
+           "רקפת יוונית",
+            "אירוס הסרגל"
+           ],
+         "maps_query_location": "Tel Hazeka"
+       }
+      ]
+    },
+    {
+      "date": "23/01/2025",
+      "observer": "שירה גפן",
+      "original_text": "פארק בגין בסינגל עין קובי",
+      "locations": [
+        {
+          "location_name": "פארק בגין",
+          "flowers": [],
+           "maps_query_location": "Park Begin"
+        },
+         {
+          "location_name": "עין קובי",
+          "flowers": [],
+           "maps_query_location": "Ein Kobi"
+        }
+      ]
+    },
+     {
+      "date": "22/01/2025",
+      "observer": "ורד צהר",
+       "original_text": "השקדיות החלו לפרוח בראש פינה ובנחל ראש פינה. יש כבר עצים עם פריחה יפה",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": [
+            "שקד"
+           ],
+          "maps_query_location": "Rosh Pinna"
+        },
+         {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "שקד"
+           ],
+          "maps_query_location": "Nahal Rosh Pinna"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2025",
+      "observer": null,
+      "original_text": "מצאנו פרטים בודדים\nמאכזב ממש\n22.1.25",
+      "locations": [
+          {
+          "location_name": "תל אנפה",
+           "flowers": [
+             "נרקיס"
+            ],
+          "maps_query_location": "Tel Anafa"
+        }
+      ]
+    },
+      {
+      "date": "21/01/2025",
+      "observer": null,
+      "original_text": "בסטף פריחה יפה של שקדיות",
+       "locations": [
+        {
+          "location_name": "סטף",
+          "flowers": [
+            "שקד"
+           ],
+           "maps_query_location": "Staf"
+        }
+      ]
+    },
+    {
+       "date": "21/01/2025",
+      "observer": null,
+      "original_text": "יש רומוליאות רבות בהר שוקף",
+       "locations": [
+        {
+          "location_name": "הר שוקף",
+          "flowers": [
+            "רומוליאה"
+           ],
+           "maps_query_location": "Har Shokef"
+        }
+      ]
+    },
+    {
+       "date": "21/01/2025",
+      "observer": null,
+      "original_text": "הרותם פריחה בשיאה, \nשחלב השקיק בפריחה יפה , ניצנים של איריס הארגמן, יפרח בעוד שבוע שבועיים תלוי בגשם, כלניות",
+        "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+             "רותם",
+            "שחלב שקיק",
+             "אירוס הארגמן",
+             "כלנית"
+           ],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    }
+  ]
+}
+```

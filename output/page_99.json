@@ -1,0 +1,195 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/12/2022",
+      "observer": "רוית פרבר",
+      "original_text": "17.12.22 שיא פריחת נרקיסים בשמורת מסעד",
+      "locations": [
+        {
+          "location_name": "שמורת מסעד",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Mesad Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2022",
+      "observer": "סיגלית אלבז",
+      "original_text": "ביער יתיר פורחות חלמוניות וסיתוונית לבנה",
+       "locations": [
+        {
+          "location_name": "יער יתיר",
+           "flowers": [
+            "חלמונית",
+            "סתוונית לבנה"
+          ],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2022",
+      "observer": null,
+      "original_text": "...מצד חרוב\nאיריס הסרגל , כרכום החרמון תת-מין ארץ-ישראלי, עוגנן נימי \nמבוא חמה\nחלמונית גדולה, כדן סגול,  מקור-חסידה מצוי, שקד קטן-עלים",
+        "locations": [
+        {
+          "location_name": "מצד חרוב",
+            "flowers": [
+             "איריס הסרגל",
+             "כרכום החרמון",
+             "עוגנן נימי"
+          ],
+          "maps_query_location": "Metzad Haruv"
+         },
+         {
+            "location_name": "מבוא חמה",
+            "flowers": [
+               "חלמונית גדולה",
+               "כדן סגול",
+                "מקור-חסידה מצוי",
+                "שקד קטן-עלים"
+              ],
+            "maps_query_location": "Mei Hama"
+          }
+       ]
+     },
+    {
+      "date": "18/12/2022",
+      "observer": "טובית שפירא",
+      "original_text": "אילנות בים הטיפות\nמידע על פעילות חנוכה באילנות\nאתר סל קק\"ל",
+     "locations": [
+        {
+          "location_name": "אילנות",
+          "flowers": [],
+          "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2022",
+      "observer": "שמוליק כהן",
+      "original_text": "החלה פריחת הנרקיסים מספר פרטים בודדים על המדרון הדרומי מערוץ הנחל",
+       "locations": [
+        {
+          "location_name": "נחל דימונה",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "17/12/2022",
+      "observer": null,
+      "original_text": "פורח גם בכרמי צור - פרחים רבים",
+       "locations": [
+        {
+          "location_name": "כרמי צור",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+           "maps_query_location": "Karmei Tzur"
+        }
+      ]
+    },
+    {
+      "date": "17/12/2022",
+      "observer": null,
+      "original_text": "אירוס הסרגל- כרמי צור\nדודא רפואי\nסתוונית טוביה\nנואית קוצנית- מגוון צבעים\nקורנית מקורקפת\nכרכום חורפי\nשבטן לבן- פרי",
+       "locations": [
+        {
+         "location_name": "כרמי צור",
+         "flowers": [
+          "איריס הסרגל"
+           ],
+         "maps_query_location": "Karmei Tzur"
+        },
+        {
+          "location_name": "דרום הר חברון",
+            "flowers": [
+            "דודא רפואי",
+            "סתוונית טוביה",
+            "נואית קוצנית",
+            "קורנית מקורקפת",
+            "כרכום חורפי",
+             "שבטן לבן"
+          ],
+           "maps_query_location": "South Hebron Hills"
+        },
+         {
+          "location_name": "חברון",
+             "flowers": [
+             "דודא רפואי",
+            "סתוונית טוביה",
+            "נואית קוצנית",
+            "קורנית מקורקפת",
+            "כרכום חורפי",
+             "שבטן לבן"
+           ],
+            "maps_query_location": "Hebron"
+        },
+         {
+          "location_name": "פני חבר",
+            "flowers": [
+             "דודא רפואי",
+            "סתוונית טוביה",
+            "נואית קוצנית",
+            "קורנית מקורקפת",
+            "כרכום חורפי",
+            "שבטן לבן"
+           ],
+           "maps_query_location": "Pnei Hever"
+        }
+     ]
+    },
+    {
+      "date": "17/12/2022",
+      "observer": "שי זוארץ",
+      "original_text": "ביער רמות מנשה..פריחה מהממת! המון נרקיסים..וניצנים של כורכום ורקפות.",
+       "locations": [
+        {
+           "location_name": "יער רמות מנשה",
+          "flowers": [
+            "נרקיס",
+             "כורכום",
+              "רקפת"
+            ],
+           "maps_query_location": "Ramat Menashe Forest"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2022",
+        "observer": null,
+      "original_text": "ראו כתבה על הגן של עתי יפה בדצמבר",
+        "locations": [
+         {
+          "location_name": "נתיה הלה",
+            "flowers": [],
+           "maps_query_location": "Netia HaLala"
+         }
+       ]
+    },
+    {
+      "date": "15/12/2022",
+      "observer": null,
+      "original_text": "דבורנית שחומה, איריס הסרגל, דבקון הזית.\nראו אלבום בקישור",
+      "locations": [
+        {
+         "location_name": "הרי ירושלים",
+          "flowers": [
+            "דבורנית שחומה",
+            "איריס הסרגל",
+            "דבקון הזית"
+          ],
+          "maps_query_location": "Jerusalem Mountains"
+         }
+      ]
+    }
+  ]
+}
+```

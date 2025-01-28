@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/12/2024",
+      "observer": null,
+      "original_text": "עדיין לא פורחים, ינו זר אחד או שניחם בלבד",
+      "locations": [
+        {
+          "location_name": "אחו נב",
+          "flowers": ["נרקיס"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "28/12/2024",
+      "observer": null,
+      "original_text": "מלחית אשלגנית , חלבלוב שרוע , חבצלת החף (פיזור זרעים)",
+      "locations": [
+        {
+          "location_name": "חוף נהריה",
+          "flowers": ["מלחית אשלגנית", "חלבלוב שרוע", "חבצלת החף"],
+           "maps_query_location": "Nahariya"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2024",
+      "observer": null,
+       "original_text": "אחילוף הגליל , יקינתון מזרחי",
+      "locations": [
+        {
+           "location_name": "שדה עמודים",
+          "flowers": ["אחילוף הגליל", "יקינתון מזרחי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "28/12/2024",
+      "observer": null,
+      "original_text": "ארכובית החוף , חלבלוב שרוע , לפופית כפנית, מלוח רגלני , מתנן שעיר, נץ-חלב איזמלני",
+      "locations": [
+        {
+          "location_name": "חוף חצרות יסף",
+          "flowers": ["ארכובית החוף", "חלבלוב שרוע", "לפופית כפנית", "מלוח רגלני", "מתנן שעיר", "נץ-חלב איזמלני"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "21/12/2024",
+      "observer": null,
+       "original_text": "ראו מסלול בקישור \nובנוסף גם מקבצים יפים של כרכום גיארדו זן-חופי",
+      "locations": [
+        {
+          "location_name": "מסלול דור הבונים",
+           "flowers": ["נרקיס", "כרכום גיארדו"],
+           "maps_query_location":"Dor Habonim"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2024",
+      "observer": "גל מגלי",
+       "original_text": "הפריחה בשיא\nהמיקום מסומן בעמוד ענן",
+       "locations": [
+        {
+          "location_name": "חוות סוסים בית אורן",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Beit Oren"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2024",
+      "observer": "גל מגלי",
+      "original_text": "מול הפניה לבורות לוץ על כביש 171 לרדת לערוץ הנחל עד האלה השניה\nהפריחה אחרי השיא אבל מרשימה\nמיקום מסומן בעמוד ענן",
+      "locations": [
+         {
+           "location_name": "בורות לוץ",
+           "flowers": ["סתוונית הרמון"],
+          "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "18/12/2024",
+       "observer": "קירמאיר דני",
+       "original_text":"17.12 נחל חצץ צמח אחד פורח 3 פרחים ,המון ניצנים לפני הנצה",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "16/12/2024",
+       "observer": null,
+        "original_text": "דלית אל-כרמל , חירבת-חרמש , מצפור טייסת-העמק , רגבים , ליד באח גולני כפר קרע  (אתר חדש)",
+      "locations": [
+         {
+            "location_name": "דלית אל-כרמל",
+           "flowers": ["איריס הסרגלן"],
+            "maps_query_location": "Daliyat al-Karmel"
+         },
+        {
+          "location_name": "חירבת-חרמש",
+           "flowers": ["איריס הסרגלן"],
+          "maps_query_location": null
+        },
+         {
+            "location_name": "מצפור טייסת-העמק",
+            "flowers": ["איריס הסרגלן"],
+            "maps_query_location": null
+        },
+         {
+           "location_name": "רגבים",
+           "flowers": ["איריס הסרגלן"],
+           "maps_query_location": "Regavim"
+        },
+         {
+            "location_name": "באח גולני כפר קרע",
+            "flowers": ["איריס הסרגלן"],
+             "maps_query_location":"Kafr Qara"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2024",
+       "observer": null,
+       "original_text":"מעגן מיכאל :\nאספרג ארץ-ישראלי , אסתר מרצעני, חיננית הבתה , טיון דביק, כרכום גיארדו, קורנית מקורקפת \n\nדלית אל-כרמל \nזלזלת הקנוקנות , טוריים קטנים , כתמה עבת-שורשים\n\nמצפור טייסת-העמק :\nחורשף מצוייץ, כרכום חורפי , נרקיס מצוי , עצבונית החורש \n\nחירבת-חרמש  \nנץ-חלב הררי , נץ-חלב הררי , נרקיס מצוי , רקפת מצויה, קיסוסית קוצנית",
+      "locations": [
+         {
+           "location_name": "מעגן מיכאל",
+          "flowers": ["אספרג ארץ-ישראלי", "אסתר מרצעני", "חיננית הבתה", "טיון דביק", "כרכום גיארדו", "קורנית מקורקפת"],
+           "maps_query_location": "Ma'agan Mikha'el"
+        },
+        {
+            "location_name": "דלית אל-כרמל",
+            "flowers": ["זלזלת הקנוקנות", "טוריים קטנים", "כתמה עבת-שורשים"],
+            "maps_query_location": "Daliyat al-Karmel"
+         },
+         {
+            "location_name": "מצפור טייסת-העמק",
+            "flowers": ["חורשף מצוייץ", "כרכום חורפי", "נרקיס מצוי", "עצבונית החורש"],
+             "maps_query_location": null
+        },
+        {
+          "location_name": "חירבת-חרמש",
+           "flowers": ["נץ-חלב הררי", "נץ-חלב הררי", "נרקיס מצוי", "רקפת מצויה", "קיסוסית קוצנית"],
+           "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,201 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/01/2016",
+      "observer": null,
+      "original_text": "זמזומית המדבר וזוהרי פורחות בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "זמזומית המדבר",
+            "זוהרי"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2015",
+      "observer": null,
+      "original_text": "טמוס מזרחי, בצלציה א\"י, מרסיה יפהפיה, ציפורן משתלשל",
+       "locations": [
+        {
+          "location_name": "עתי יופה",
+           "flowers": [
+              "טמוס מזרחי",
+              "בצלציה א\"י",
+              "מרסיה יפהפיה",
+              "ציפורן משתלשל"
+            ],
+          "maps_query_location": null
+         }
+       ]
+    },
+    {
+      "date": "29/12/2015",
+      "observer": null,
+      "original_text": "נץ חלב הררי, דלעת נחש סורית, סינפיטון , כלניות בשלל צבעים, רקפות, טמוס מזרחי, חיננית הבתה, וינקה עשבונית, איריס אדומי, כרכום חלמוני, אסתר הביצות, חלבלוב השיח , איריס א\"י , רומולאה צידונית, אצבוע אירופי, נורית המים התחלה, יסמין שיחני",
+     "locations": [
+          {
+          "location_name": "עתי יופה",
+          "flowers": [
+              "נץ חלב הררי",
+              "דלעת נחש סורית",
+              "סינפיטון",
+              "כלנית",
+              "רקפת",
+              "טמוס מזרחי",
+              "חיננית הבתה",
+               "וינקה עשבונית",
+              "איריס אדומי",
+               "כרכום חלמוני",
+              "אסתר הביצות",
+              "חלבלוב השיח",
+             "איריס ארץ-ישראלי",
+              "רומולאה צידונית",
+              "אצבוע אירופי",
+              "נורית המים",
+              "יסמין שיחני"
+            ],
+           "maps_query_location": null
+          }
+        ]
+    },
+    {
+      "date": "29/12/2015",
+      "observer": null,
+      "original_text": "זלזלת הקנוקנות, כלניות, רקפות  חיננית הבתה הרבה מאוד, מעט נרקיסים פה ושם , איריס א\"י",
+      "locations": [
+        {
+          "location_name": "חירבת חנות",
+          "flowers": [
+            "זלזלת הקנוקנות",
+            "כלנית",
+            "רקפת",
+            "חיננית הבתה",
+            "נרקיס",
+             "איריס ארץ-ישראלי"
+          ],
+           "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2015",
+      "observer": null,
+      "original_text": "דודא רפואי,  פריחה דלילה כלניות , ציפורנית מצרית, מרווה מצויה",
+      "locations": [
+        {
+          "location_name": "תל בית שמש",
+          "flowers": [
+            "דודא רפואי",
+            "כלנית",
+            "ציפורנית מצרית",
+            "מרווה מצויה"
+          ],
+          "maps_query_location": "Tel Beit Shemesh"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2015",
+      "observer": "שחר אלפונטה",
+      "original_text": "פריחה מועטת אבל קיימת של לוטם מרווני ופריחה גדולה מאד של טוריים קטנים, רקפת מצויה ועוד רבים באזורי הטבע העירוני של חיפה. שווה ביקור!",
+       "locations": [
+        {
+          "location_name": "מורדות הכרמל הצפון-מערבי",
+          "flowers": [
+            "לוטם מרווני",
+            "טוריים קטנים",
+            "רקפת מצויה"
+          ],
+           "maps_query_location": "Mount Carmel"
+        },
+          {
+          "location_name": "חיפה",
+          "flowers": [
+            "לוטם מרווני",
+            "טוריים קטנים",
+            "רקפת מצויה"
+          ],
+          "maps_query_location": "Haifa"
+         }
+        ]
+    },
+     {
+      "date": "28/12/2015",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+             "קרן יעל סורית"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2015",
+       "observer": null,
+      "original_text": "איריס א\"י, חבלבל סיצילי כלניות ועוד ועוד",
+       "locations": [
+        {
+          "location_name": "יער חורשים",
+          "flowers": [
+            "איריס ארץ-ישראלי",
+            "חבלבל סיצילי",
+            "כלנית"
+          ],
+           "maps_query_location": "Horeshim forest"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2015",
+       "observer": null,
+      "original_text": "ראו מסלולים  לנחל חצץ ונחל דימונה בקישור",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Hatztz"
+        },
+         {
+          "location_name": "נחל דימונה",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Dimona"
+         }
+       ]
+    },
+    {
+      "date": "26/12/2015",
+      "observer": "רותי דויטשר",
+      "original_text": "פריחה שופעת בימים אלה של כרכומים בשטחי כפר ורדים, גליל מערבי.",
+      "locations": [
+        {
+          "location_name": "כפר ורדים",
+          "flowers": [
+            "כרכום"
+          ],
+           "maps_query_location": "Kfar Vradim"
+        },
+          {
+          "location_name": "גליל מערבי",
+          "flowers": [
+            "כרכום"
+          ],
+           "maps_query_location": "Western Galilee"
+          }
+      ]
+    }
+  ]
+}
+```

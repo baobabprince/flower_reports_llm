@@ -1,0 +1,230 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/12/2020",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בביקור נוסף, נראו סתווניות טוביה פורחות, הפעם גם עם עלים, במישור אדומים, בגבעה מאחורי תחנת הדלק, לפני המחסום.",
+      "locations": [
+        {
+          "location_name": "מישור אדומים",
+          "flowers": [
+            "סתוונית טוביה"
+          ],
+          "maps_query_location": "Mishor Adumim"
+        }
+      ]
+    },
+    {
+      "date": "22/12/2020",
+      "observer": "אילן ביגן",
+      "original_text": "חיננית הבתה פורחת בהמוניה - ביערות מנשה \nנחל רז כ-2 ק\"מ מזרחית מאזור הכביש המוביל לגלעד",
+       "locations": [
+        {
+          "location_name": "יערות מנשה",
+          "flowers": [
+            "חיננית הבתה"
+          ],
+           "maps_query_location": "Menashe Forest"
+        },
+         {
+          "location_name": "נחל רז",
+           "flowers": [
+            "חיננית הבתה"
+           ],
+          "maps_query_location": "Nahal Raz"
+        },
+         {
+          "location_name": "גלעד",
+           "flowers": [
+            "חיננית הבתה"
+           ],
+          "maps_query_location": "Gilad"
+        }
+       ]
+    },
+    {
+      "date": "22/12/2020",
+      "observer": null,
+      "original_text": "ראו באלבום של זהורית חובב בקישור",
+       "locations": [
+        {
+          "location_name": "נחל דימונה",
+           "flowers": [
+            "נרקיס"
+           ],
+           "maps_query_location":"Nahal Dimona"
+         }
+       ]
+    },
+      {
+      "date":"21/12/2020",
+      "observer": null,
+      "original_text": "אלפי כרכומים חורפיים , דודא רפואי , נרקיסים ( סוף), כלניות סדולות רבות וגם מעט אדומות, איריס הסרגל ( סוף), זלזלת הקנוקנות מטפסות ופורחות בשיא, כתמה עבת שורשית, נץ חלב הררי, \nולצערינו הרבה לכלוך",
+      "locations": [
+         {
+           "location_name": "דרך נוף הכרמל",
+            "flowers": [
+              "כרכום חורפי",
+              "דודא רפואי",
+               "נרקיס",
+              "כלנית סגולה",
+              "כלנית אדומה",
+              "איריס הסרגל",
+              "זלזלת הקנוקנות",
+              "כתמה עבת שורשית",
+              "נץ חלב הררי"
+            ],
+           "maps_query_location": "Carmel Scenic Route"
+         }
+      ]
+    },
+    {
+      "date": "20/12/2020",
+      "observer": null,
+      "original_text": "חלמוניות ,הרבה כרכום חורפי, כתמה עבת שורשים, זלזלת הקנוקנות, פיגם, רקפות המון, ציפורן חתול מצויות.",
+      "locations": [
+        {
+          "location_name": "תבור",
+          "flowers": [
+            "חלמונית",
+            "כרכום חורפי",
+             "כתמה עבת שורשית",
+            "זלזלת הקנוקנות",
+            "פיגם",
+            "רקפת",
+            "ציפורן חתול"
+          ],
+           "maps_query_location": "Tabor"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2020",
+      "observer": "שושנה פולטין",
+      "original_text": "כל הדרך לדלית אל כרמל, ובדרך נוף כרמל, פריחה שופעת של זלזלת הקנוקנות. לדעתי שיא פריחה.",
+      "locations": [
+         {
+            "location_name": "דלית אל כרמל",
+            "flowers": [
+              "זלזלת הקנוקנות"
+            ],
+            "maps_query_location":"Daliyat al-Karmel"
+          },
+        {
+            "location_name": "דרך נוף כרמל",
+             "flowers": [
+              "זלזלת הקנוקנות"
+            ],
+            "maps_query_location":"Carmel Scenic Route"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2020",
+      "observer": "שושנה פולטין",
+      "original_text": "בכרמל, דרך נוף כרמל החלה פריחת כלניות. כולן בצבע סגול",
+       "locations": [
+        {
+            "location_name": "כרמל",
+             "flowers": [
+              "כלנית סגולה"
+             ],
+              "maps_query_location": "Carmel"
+          },
+         {
+            "location_name": "דרך נוף כרמל",
+             "flowers": [
+              "כלנית סגולה"
+             ],
+             "maps_query_location":"Carmel Scenic Route"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2020",
+      "observer": "גל מגלי",
+      "original_text": "סתוונית הנגב עדיין לא הנצה בפזורה ליד ירוחם וכן לא ליד ממשית  סתוונית טוביה פורחת באנדרטת הנגב.  הדווח משבוע שעבר על אירוס טוביה במישור אדומית הכוונה כמובן לסתוונית טוביה",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": [
+              "סתוונית הנגב"
+            ],
+           "maps_query_location":"Yeruham"
+        },
+        {
+          "location_name": "ממשית",
+           "flowers": [
+              "סתוונית הנגב"
+            ],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "אנדרטת הנגב",
+          "flowers": [
+            "סתוונית טוביה"
+          ],
+          "maps_query_location": "Negev Monument"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2020",
+      "observer": null,
+      "original_text": "כביש 10 גבול מצרים : אלניה נאה  (צמח גלגל) , בוצין שיחני ,  יפרוק המדבר  , כוכב ננסי ,   כנפן קוצני,  לוניאה שרועה,  לענת המדבר,  מוריקה מבריקה , מלחית חומה,  מלחית נגדית , מתנן שעיר, שבר לבן ,  שמשון הנגב.\nבורות לוץ: סתוונית הרמון ,  שלוחית קרחת,  דרדר מצרי \nממשית : אחילוף הנגב -סוף...",
+      "locations": [
+          {
+            "location_name":"כביש 10",
+            "flowers":[
+              "אלניה נאה",
+              "בוצין שיחני",
+              "יפרוק המדבר",
+              "כוכב ננסי",
+              "כנפן קוצני",
+              "לוניאה שרועה",
+              "לענת המדבר",
+              "מוריקה מבריקה",
+              "מלחית חומה",
+              "מלחית נגדית",
+              "מתנן שעיר",
+              "שבר לבן",
+              "שמשון הנגב"
+            ],
+              "maps_query_location": "Road 10"
+          },
+        {
+            "location_name": "בורות לוץ",
+            "flowers": [
+              "סתוונית הרמון",
+              "שלוחית קרחת",
+               "דרדר מצרי"
+            ],
+            "maps_query_location": "Borot Lotz"
+        },
+          {
+            "location_name": "ממשית",
+              "flowers": [
+               "אחילוף הנגב"
+             ],
+            "maps_query_location": "Mamshit"
+         }
+      ]
+    },
+    {
+      "date": "19/12/2020",
+      "observer": "מיכל ליפשיץ",
+      "original_text": "נרקיסים פורחים בכרם מהרל.  בינות לעצים מקבצי נרקיסים.",
+      "locations": [
+        {
+          "location_name": "כרם מהרל",
+           "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Kerem Maharal"
+        }
+      ]
+    }
+  ]
+}
+```

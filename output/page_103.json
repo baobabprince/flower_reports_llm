@@ -1,0 +1,241 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/11/2022",
+      "observer": "גבריאל אברהם",
+      "original_text": "התחלת פריחה אירוס הסרגל על דרך נוף כרמל . ב21/11/22",
+      "locations": [
+        {
+          "location_name": "דרך נוף כרמל",
+          "flowers": [
+            "אירוס הסרגל"
+          ],
+           "maps_query_location": "Carmel Scenic Route"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2022",
+      "observer": "מתן",
+      "original_text": "אחרי שעוברים את המאפיה משמאל לשביל העפר בדרך לא סלולה יש מרבדים של חלמוניות מהממות ויש בינהן גם לבקנים! נפלא",
+      "locations": [
+        {
+           "location_name": "מג'דל כרום",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Majd al-Krum"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2022",
+      "observer": null,
+      "original_text": "נרקיסים, סתווניות, כרכומים בפריחה. עלי רקפות ועלי סחלבים.",
+      "locations": [
+        {
+          "location_name": "חורבת מיצד",
+          "flowers": [
+            "נרקיס",
+            "סתוונית",
+            "כרכום",
+            "רקפת",
+            "סחלב"
+          ],
+           "maps_query_location": "Hurvat Mitzad"
+        },
+        {
+            "location_name": "נווה אילן",
+            "flowers": [
+               "נרקיס",
+               "סתוונית",
+               "כרכום",
+               "רקפת",
+               "סחלב"
+            ],
+            "maps_query_location": "Neve Ilan"
+         }
+      ]
+    },
+    {
+      "date": "23/11/2022",
+      "observer": null,
+      "original_text": "בחירבת מלח, הגבעה מול ג'יסל א-זרקה, נחל תנינים ומעגן מיכאל . בקישור מסלול טיול לחירבת מלח",
+      "locations": [
+         {
+          "location_name": "חירבת מלח",
+            "flowers": [
+              "נרקיס סתווי"
+            ],
+          "maps_query_location": "Khirbat Mallah"
+        },
+         {
+          "location_name": "ג'יסר א-זרקה",
+            "flowers": [
+              "נרקיס סתווי"
+            ],
+           "maps_query_location": "Jisr az-Zarqa"
+        },
+        {
+          "location_name": "נחל תנינים",
+            "flowers": [
+                "נרקיס סתווי"
+            ],
+           "maps_query_location":"Nahal Taninim"
+        },
+         {
+          "location_name": "מעגן מיכאל",
+            "flowers": [
+              "נרקיס סתווי"
+            ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2022",
+       "observer": "אורי לוזון",
+      "original_text": "עכשיו בשיא פריחה , נרקיס סתווי, סתוונית היורה, כתמה עבת שורשים, בן-חצב סתווני וכדן קטן פרחים. הכל באלפים!!!",
+      "locations": [
+        {
+          "location_name": "ג'יסר א זרקה",
+          "flowers": [
+            "נרקיס סתווי",
+            "סתוונית היורה",
+             "כתמה עבת שורשים",
+            "בן-חצב סתווני",
+            "כדן קטן פרחים"
+          ],
+           "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "22/11/2022",
+      "observer": "עירית צוק-קובצ'י",
+      "original_text": "ועוד- צילומים מהממים של עירית צוק-קובצ'י",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "כרכום גיארדו"
+          ],
+            "maps_query_location": "Nahal Rosh Pina"
+        }
+      ]
+    },
+    {
+       "date": "22/11/2022",
+      "observer": "דניאל סמולר",
+      "original_text":"בגלל החלמוניות ראו צילום של דניאל סמולר בקישור",
+       "locations": [
+         {
+           "location_name": "יער להב",
+           "flowers": [
+             "חלמונית"
+           ],
+            "maps_query_location": "Lahav Forest"
+         }
+       ]
+    },
+       {
+      "date": "21/11/2022",
+      "observer": null,
+      "original_text": "החל לפרוח בדרך נוף הכרמל, ראו קבוצת פרחים שצולמה שם בקישור למטה",
+      "locations": [
+        {
+          "location_name": "דרך נוף הכרמל",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+            "maps_query_location": "Carmel Scenic Route"
+        }
+      ]
+    },
+    {
+      "date": "21/11/2022",
+       "observer": "אבי רזון",
+      "original_text": "20 באוקטובר\nבשמורת להבים\nחלמוניות גדולות בגיא \nומשני צידיו.\nפריחה מרשימה מאד.\nמומלץ",
+        "locations": [
+        {
+          "location_name": "שמורת להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lahavim Reserve"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": null,
+     "original_text": "צומת גולני \nאחילוף הגליל , חלבלוב ארם-צובא ,  סתוונית ירושלים \nהר מירון\nאלה ארץ-ישראלית (בצבעי-שלכת) , כרכום נאה  \nהר אדיר\nאחילוף קטן, סתוונית בכירה \nמערת עלמה\nאשחר מנוקד, חלמונית זעירה , כרכום גיארדו  , קיסוסית קוצנית \nמערת פער\nורד הכלב (פרי), כרכום צהבהב , סתוונית ירושלים , עוזרר אדום (פרי), קיטה רותמית  \nיער ביריה\nחיננית הבתה,  חלמונית גדולה \nמושב כחל \nחלמונית זעירה , רקפת מצויה  (מופע סתווי)",
+        "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": [
+            "אחילוף הגליל",
+             "חלבלוב ארם-צובא",
+             "סתוונית ירושלים"
+           ],
+            "maps_query_location": "Golani Junction"
+        },
+         {
+           "location_name":"הר מירון",
+          "flowers":[
+            "אלה ארץ-ישראלית",
+             "כרכום נאה"
+             ],
+             "maps_query_location": "Mount Meron"
+        },
+         {
+            "location_name":"הר אדיר",
+            "flowers":[
+              "אחילוף קטן",
+              "סתוונית בכירה"
+             ],
+             "maps_query_location":"Har Adir"
+         },
+         {
+            "location_name":"מערת עלמה",
+            "flowers":[
+             "אשחר מנוקד",
+              "חלמונית זעירה",
+              "כרכום גיארדו",
+              "קיסוסית קוצנית"
+            ],
+              "maps_query_location":"Alma Cave"
+         },
+          {
+             "location_name": "מערת פער",
+            "flowers":[
+                "ורד הכלב",
+                "כרכום צהבהב",
+                "סתוונית ירושלים",
+                "עוזרר אדום",
+                "קיטה רותמית"
+            ],
+            "maps_query_location": "Peh'er Cave"
+         },
+           {
+             "location_name":"יער ביריה",
+             "flowers":[
+                "חיננית הבתה",
+                "חלמונית גדולה"
+                ],
+                "maps_query_location":"Birya Forest"
+          },
+         {
+              "location_name":"מושב כחל",
+              "flowers":[
+               "חלמונית זעירה",
+               "רקפת מצויה"
+                ],
+               "maps_query_location":"Moshav Kachal"
+        }
+      ]
+    }
+  ]
+}
+```

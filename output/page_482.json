@@ -1,0 +1,229 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/02/2016",
+      "observer": "מקסים",
+      "original_text": "בכורכרים מצפון למעגן מיכאל , בין בריכות הדגים : עשרות צבעונים, מאות רקפות, מעט נוריות , פרסיון, מרסיה יפהפיה, ומעט כלניות . את ההצגה גונבים הצבענים הצמודים לרקפות.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "Tulipa agenensis",
+             "Cyclamen persicum",
+            "Ranunculus asiaticus",
+            "Persea americana",
+             "Marsilea",
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2016",
+      "observer": null,
+       "original_text": "תחילת פריחת ציבעונים - ממש חלש. אבל כן פורחים, ציפורנית מגוונת בכמויות, אלקנת הצבעים,  כלניות מעט רקפות, ערוגות של סחלב פרפרני, מרסיה יפהפיה, סביון (יפו?) , צהרונים, דו-פרק חופי, אטד מרווה מצויה, מחרוזת קשתית, חבלבל שעיר, מתנן שעיר, נוריות (כנראה המלל) , תלתן בלאנש",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+           "flowers": [
+            "Tulipa agenensis",
+            "Dianthus multicolor",
+            "Alkanna tinctoria",
+            "Anemone coronaria",
+             "Cyclamen persicum",
+             "Orchis papilionacea",
+            "Marsilea",
+             "Senecio",
+             "Mesembryanthemum nodiflorum",
+             "Diplotaxis harra",
+             "Lycium schweinfurthii",
+              "Salvia dominica",
+              "Arisarum vulgare",
+              "Convolvulus hirsutus",
+              "Odontites rigidifolius",
+               "Ranunculus asiaticus",
+              "Trifolium blancheanum"
+
+          ],
+          "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2016",
+      "observer": null,
+      "original_text": "פרחים ראשונים בחולות רביבים",
+       "locations": [
+        {
+          "location_name": "רביבים",
+           "flowers": [
+              "Iris"
+            ],
+          "maps_query_location": "Revivim"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2016",
+       "observer": "אלי ליבנה - ELV",
+       "original_text": "רשימת פרחים במסלול   תאריך:‏15 פברואר 2016\nמסלול: ערבה: נחל נימרה, תמנע.\nמשתתפים: יעקב גרזון, אתי אייזנרייך, אורון יעקב, אורי שטיין, ירון וול, אהרוניק, שמעון דדון, דניאל לוי, אלי ליבנה - ELV\n\nנחל נימרה:  סוויניה עדינה, זצניה מזרחית, ארנבית הצבעים, באשן תלתני, כתריים אדמדמים, מנתור ערבי, בהק צחור, ציפרנית החולות, ציצן קצר, זוגן אדום, צלף סחוסי, לובד המדבר.\n\nתמנע:  טפרוסיה נאה, קדד המדבר, לוטנית מדוקרנת, עפעפית גדולת פרחים, מררית כחולת זרעון,  בלוטנית מפורצת.",
+      "locations": [
+        {
+          "location_name": "נחל נימרה",
+           "flowers": [
+              "Savignya parviflora",
+             "Zoegea purpurea",
+            "Anarrhinum orientalis",
+             "Crotalaria aegyptiaca",
+              "Fagonia arabica",
+             "Mentha longifolia",
+              "Reboudia microcarpa",
+              "Paronychia argentea",
+              "Erodium laciniatum",
+             "Zygophyllum dumosum",
+              "Capparis cartilaginea",
+               "Heliotropium bacciferum"
+            ],
+          "maps_query_location": "Nahal Nimra"
+        },
+        {
+          "location_name": "תמנע",
+           "flowers": [
+              "Tephrosia apollinea",
+               "Astragalus spinosus",
+               "Lycium intricatum",
+              "Anvillea garcinii",
+               "Reichardia tingitana",
+                "Cometia abyssinica"
+            ],
+          "maps_query_location": "Timna"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2016",
+       "observer": null,
+      "original_text": "מומלץ לצפחות באלבום של אורון",
+      "locations": [
+        {
+          "location_name": "אילת",
+          "flowers": [],
+          "maps_query_location": "Eilat"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2016",
+      "observer": null,
+      "original_text": "בצפת : ואדי חמרא הוא הואדי היורד מאוכף התחנה המרכזית, דרומה, אל מגרש הכדורגל, ומשם אל הכפר עכברה, ואל חיבורו עם נחל עמוד : ראו באלבום של רפאל",
+        "locations": [
+        {
+          "location_name": "צפת",
+           "flowers": ["Prunus dulcis"],
+          "maps_query_location": "Zefat"
+        },
+         {
+          "location_name": "ואדי חמרא",
+          "flowers": ["Prunus dulcis"],
+          "maps_query_location": null
+         },
+        {
+          "location_name": "עכברה",
+          "flowers": ["Prunus dulcis"],
+          "maps_query_location": "Akbara"
+        },
+         {
+          "location_name": "נחל עמוד",
+           "flowers": ["Prunus dulcis"],
+           "maps_query_location": "Nahal Amud"
+        }
+      ]
+    },
+       {
+      "date": "14/02/2016",
+      "observer": null,
+      "original_text": "עשרות של פרחים",
+       "locations": [
+        {
+           "location_name": "קדימה",
+           "flowers": [
+             "Iris atropurpurea"
+            ],
+          "maps_query_location": "Kadima"
+        }
+      ]
+    },
+       {
+      "date": "14/02/2016",
+      "observer": "משה קופרברג",
+     "original_text": "השמורה סגורה עדיין למבקרים בגלל התאוששות השבילים והצמחיה. הצלחנו \"לראות\" מרחוק ולצלם את אירוס הארגמן, סחלב אחד וקבוצות של תורמוס ארץ ישראלי (הלבן)\nהכל מופיע בדף הפייסבוק שלי:",
+      "locations": [
+        {
+            "location_name": "שמורת חרוצים",
+             "flowers": [
+                "Iris atropurpurea",
+                 "Orchidaceae",
+                "Lupinus pilosus"
+            ],
+           "maps_query_location": "Horashim Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2016",
+      "observer": "משה קופרברג",
+       "original_text": "אתמול היינו ביער ראש העין. המוני כלניות בצבעים אדום ולבן. אפילו פגשנו אחת סגולה. שטיחי רקפות יפהפיות גבוהות וגדולות (לא כפי שראינו ביער טל שחר) פשוט תאווה לעיניים:",
+      "locations": [
+         {
+          "location_name": "יער ראש העין",
+            "flowers": [
+                "Anemone coronaria",
+                "Cyclamen persicum"
+            ],
+           "maps_query_location":"Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2016",
+      "observer": "ליאורה קרת",
+      "original_text": "אבוטילון השיח, דמיה לבידה, לובד המדבר, מרית מדברית, כוכב ריחני, צמרורה אפריקאית, רכפתן מדברי, ערטל מדברי, בלוטנית הדורים (נמצאת בשפך נחל רום ליד המעבר שמתחת לכביש 90).",
+       "locations": [
+        {
+          "location_name": "נחל יזרח",
+            "flowers": [
+              "Abutilon fruticosum",
+              "Phlomis viscosa",
+               "Heliotropium bacciferum",
+              "Launaea mucronata",
+              "Asteriscus graveolens",
+              "Fagonia indica",
+              "Gladiolus desertorum",
+              "Echiochilon arenarium",
+              "Cometia abyssinica"
+            ],
+          "maps_query_location": "Nahal Yizrah"
+        },
+         {
+          "location_name": "נחל רום",
+          "flowers": [
+                "Abutilon fruticosum",
+              "Phlomis viscosa",
+               "Heliotropium bacciferum",
+              "Launaea mucronata",
+              "Asteriscus graveolens",
+              "Fagonia indica",
+              "Gladiolus desertorum",
+              "Echiochilon arenarium",
+              "Cometia abyssinica"
+
+            ],
+           "maps_query_location": "Nahal Rom"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,219 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/12/2020",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "ליד בריכת מן פורחים בכמויות גדולות, סתווניות קצרות עלים. בשביל השחור להר סנאים פורחים נץ חלב איזמנלי והררי וגם כרכום צהוב. ביער אודם -2.8 ק״מ דרומית לג׳ובה הגדולה, אחו בו פורחים כרכום צהבהב וכרכום נאה.",
+      "locations": [
+        {
+          "location_name": "בריכת מן",
+          "flowers": [
+            "סתוונית קצרת עלים"
+          ],
+          "maps_query_location": "Breichat Man"
+        },
+        {
+          "location_name": "הר סנאים",
+           "flowers": [
+             "נץ חלב איזמלי",
+              "נץ חלב הררי",
+             "כרכום צהוב"
+          ],
+          "maps_query_location": "Har Snayim"
+        },
+         {
+          "location_name": "יער אודם",
+           "flowers": [
+             "כרכום צהבהב",
+             "כרכום נאה"
+            ],
+          "maps_query_location": "Ya'ar Odem"
+        },
+        {
+          "location_name": "ג'ובה הגדולה",
+           "flowers": [
+             "כרכום צהבהב",
+             "כרכום נאה"
+            ],
+          "maps_query_location": "Juba Hagdola"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2020",
+      "observer": "שלומית גרוסמן",
+      "original_text": "כלניות בחירבת מלח, אדומות וראשונות. גם אירוס ארץ ישראלי בודד וציפורנים.",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "כלנית אדומה",
+            "אירוס ארץ ישראלי",
+            "ציפורן"
+          ],
+          "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2020",
+      "observer": "מיכל אלעד",
+      "original_text": "נביטת עלים בשפע ותחילת הופעת נצני הנרקיסים.",
+        "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2020",
+      "observer": "כליל החורש אבי",
+      "original_text": "המוני נרקיסים פורחים באחו נוב. מראה מרהיב",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2020",
+      "observer": "חיליק",
+        "original_text": "ביער מיתר לאורך מסלול האופניים כמויות מרשימות של סתוונית טוביה נכון לתאריך 22/12/20",
+      "locations": [
+        {
+          "location_name": "יער מיתר",
+          "flowers": [
+            "סתוונית טוביה"
+          ],
+           "maps_query_location": "Ya'ar Meitar"
+        }
+      ]
+    },
+     {
+      "date": "25/12/2020",
+      "observer": null,
+      "original_text": "שרוכנית א\"י והחוף, מלפפון משולש, ארכובית צמירה, ודוחנן קיפח פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "שרוכית א\"י",
+            "שרוכית החוף",
+              "מלפפון משולש",
+            "ארכובית צמירה",
+            "דוחנן קיפח"
+          ],
+            "maps_query_location": "Gan Miklat Sharoni"
+        }
+      ]
+    },
+     {
+      "date": "24/12/2020",
+      "observer": "רינה בן יעקב",
+      "original_text": "אירוס הסרגל (בשדה ליד כביש 67), הרבה כרכום חורפי והתחלה של כלניות ורקפות.",
+        "locations": [
+        {
+           "location_name": "שמורת אלונה",
+          "flowers": [
+            "אירוס הסרגל",
+            "כרכום חורפי",
+             "כלנית",
+            "רקפת"
+          ],
+           "maps_query_location": "Shmura Alona"
+        },
+         {
+          "location_name": "הר חורשן",
+           "flowers": [
+             "אירוס הסרגל",
+            "כרכום חורפי",
+             "כלנית",
+            "רקפת"
+          ],
+          "maps_query_location": "Har Horeshan"
+         }
+      ]
+    },
+    {
+      "date": "24/12/2020",
+      "observer": "גיל רוזנבלום",
+      "original_text": "המון נרקיסים ורקפות בנחלים תלכיד ופיראן בצפון בקעת הירדן",
+      "locations": [
+       {
+          "location_name": "נחל תלכיד",
+          "flowers": [
+            "נרקיס",
+            "רקפת"
+          ],
+           "maps_query_location": "Nahal Telkhid"
+       },
+        {
+          "location_name": "נחל פיראן",
+          "flowers": [
+           "נרקיס",
+            "רקפת"
+          ],
+           "maps_query_location": "Nahal Piran"
+        },
+        {
+          "location_name": "צפון בקעת הירדן",
+            "flowers": [
+            "נרקיס",
+            "רקפת"
+          ],
+           "maps_query_location": "Zafon Bikat HaYarden"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2020",
+      "observer": null,
+     "original_text": "הגן של אילן טל החרוץ ישנה פריחה למרות העונה \"היבשה\" : גולנית ערב פורחת לתפארת, ארכובית החוף, כרכום חלמוני, ציפורנית זעירה וציפורנית משתלשלת, וינקה עשבונית, בצלציה מוריקה מבריקה, חיננית הבתה, בוצין מזרחי, נץ-חלב איזמלני והררי , מיני גומא , ארכן מזרחי ועוד",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "גולנית ערב",
+            "ארכובית החוף",
+             "כרכום חלמוני",
+            "ציפורנית זעירה",
+            "ציפורנית משתלשלת",
+            "וינקה עשבונית",
+            "בצלציה מוריקה",
+             "חיננית הבתה",
+             "בוצין מזרחי",
+            "נץ חלב איזמלני",
+             "נץ חלב הררי",
+              "גומא",
+              "ארכן מזרחי"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2020",
+      "observer": null,
+      "original_text": "בקרני חיטים",
+      "locations": [
+        {
+          "location_name": "קרני חיטים",
+          "flowers": [
+             "יקינתון מזרחי"
+          ],
+          "maps_query_location": "Karnei Hittim"
+        }
+      ]
+    }
+  ]
+}
+```

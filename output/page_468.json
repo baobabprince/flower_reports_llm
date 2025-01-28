@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/03/2016",
+      "observer": null,
+      "original_text": "שלמון דק וספלול השדה",
+      "locations": [
+        {
+          "location_name": "פרוזדור ירושלים",
+          "flowers": ["Salvia multicaulis", "Spergularia rubra"],
+          "maps_query_location": "Jerusalem Corridor"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2016",
+      "observer": null,
+       "original_text": "בשביל הפיסגה בהר מירון פריחה של שום שחור ומיני סחלבים שונים , ראו באלבום המצורף בקישור",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["Allium nigrum", "Orchidaceae sp."],
+           "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+      {
+      "date": "28/03/2016",
+      "observer": null,
+      "original_text": "ראו אלבום מדהים",
+       "locations": [
+        {
+          "location_name": "רמות מנשה",
+          "flowers": ["Papaver sp.", "Chrysanthemum sp."],
+          "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2016",
+      "observer": null,
+       "original_text": "ראו את המגוון והכמויות באלבום",
+      "locations": [
+        {
+          "location_name": "הר כנען",
+           "flowers": ["Orchidaceae sp."],
+          "maps_query_location": "Mount Canaan"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2016",
+      "observer": null,
+       "original_text": "בשולי יער בן-שמן בדרך למושב גמזו",
+      "locations": [
+         {
+          "location_name": "יער בן שמן",
+           "flowers": ["Phagnalon rupestre"],
+           "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "גמזו",
+           "flowers": ["Phagnalon rupestre"],
+          "maps_query_location": "Gamzo"
+        }
+      ]
+    },
+    {
+      "date": "27/03/2016",
+      "observer": "שרון בן צור",
+        "original_text": "גביעוניות עבות עלים, יקינטון מזרחי, בן חצב לבנוני, נורית הלב, נורית ירושלים, כדן סגול, נזמית מקווקוות ועוד במסלול סימון שבילים אדום מהר חרמון לנווה אטיב (25.3.16). מצריך אישור חמל חרמון לכניסה לשטח. 7 ק\"מ מיטיבי לכת",
+      "locations": [
+         {
+          "location_name": "הר חרמון",
+            "flowers": ["Gagea crassifolia", "Hyacinthus orientalis", "Scilla libanotica", "Ranunculus cordiger", "Ranunculus hierosolymitanus", "Colchicum stevenii", "Glechoma hirsuta"],
+           "maps_query_location": "Mount Hermon"
+         },
+         {
+            "location_name": "נווה אטיב",
+              "flowers": ["Gagea crassifolia", "Hyacinthus orientalis", "Scilla libanotica", "Ranunculus cordiger", "Ranunculus hierosolymitanus", "Colchicum stevenii", "Glechoma hirsuta"],
+           "maps_query_location": "Neve Ativ"
+         }
+      ]
+    },
+    {
+      "date": "26/03/2016",
+      "observer": null,
+       "original_text": "החלה לפרוח אדמונית החורש",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["Paeonia coriacea"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "25/03/2016",
+      "observer": "אליהו נבון",
+        "original_text": "25/3 בין ח'ירבת סעדים לאתר הגתות\n סחלב שלוש השיני עשרות רבות סחלב פרפרני ( עשרות) בן סחלב צריפי בתחילת פריחה (עשרות ), כתריסר סחלב אנטולי, דבורנית צהובה ואחת דינסמור. ועוד,   קוציץ סורי ,רקפת מצויה , נורית אסיה פשתה שעירה, חוטמית עין הפרה , טבוריות, חבלבלים  ופריחה של המון שיחי לוטם מרווני ומעט שיחי לוטם שעיר",
+      "locations": [
+        {
+          "location_name": "הר שלמון",
+          "flowers": [ "Orchis tridentata", "Anacamptis papilionacea", "Himantoglossum caprinum", "Ophrys bornmuelleri", "Ophrys lutea", "Ophrys dinariensis", "Echinops syriacus", "Cyclamen persicum", "Ranunculus asiaticus", "Linum pubescens", "Malva oculus-bovis", "Umbilicus horizontalis", "Convolvulus sp.", "Cistus salviifolius", "Cistus incanus" ],
+           "maps_query_location": "Mount Shlomo"
+        },
+        {
+            "location_name": "ח'ירבת סעדים",
+            "flowers": [ "Orchis tridentata", "Anacamptis papilionacea", "Himantoglossum caprinum", "Ophrys bornmuelleri", "Ophrys lutea", "Ophrys dinariensis", "Echinops syriacus", "Cyclamen persicum", "Ranunculus asiaticus", "Linum pubescens", "Malva oculus-bovis", "Umbilicus horizontalis", "Convolvulus sp.", "Cistus salviifolius", "Cistus incanus" ],
+             "maps_query_location": null
+        },
+         {
+          "location_name": "אתר הגתות",
+            "flowers": [ "Orchis tridentata", "Anacamptis papilionacea", "Himantoglossum caprinum", "Ophrys bornmuelleri", "Ophrys lutea", "Ophrys dinariensis", "Echinops syriacus", "Cyclamen persicum", "Ranunculus asiaticus", "Linum pubescens", "Malva oculus-bovis", "Umbilicus horizontalis", "Convolvulus sp.", "Cistus salviifolius", "Cistus incanus" ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "25/03/2016",
+      "observer": "אליהו נבון",
+       "original_text": "24/3. בין עין שריג לכניסה לביה\"ח עין כרם: דבורית הקטיפה -מעל תריסר פרחים. דבורנית דינסמור (בודדות) דבורנית צהובה (בודדות.).\nסחלבים : פרפרני עשרות בודדות, שלוש השינים עשרות רבות סחלב הגליל עשרות רבות.\nוכן נוריות (עשרות) וכן    פרגים  וכלנית(1), רכפות ורקפות",
+      "locations": [
+        {
+         "location_name": "עין שריג",
+           "flowers": [ "Ophrys umbilicata", "Ophrys dinariensis", "Ophrys lutea", "Anacamptis papilionacea", "Orchis tridentata", "Orchis galilaea", "Ranunculus sp.", "Papaver sp.", "Anemone coronaria", "Cyclamen sp."],
+          "maps_query_location": "Ein Sarig"
+        },
+        {
+          "location_name": "עין כרם",
+             "flowers": [ "Ophrys umbilicata", "Ophrys dinariensis", "Ophrys lutea", "Anacamptis papilionacea", "Orchis tridentata", "Orchis galilaea", "Ranunculus sp.", "Papaver sp.", "Anemone coronaria", "Cyclamen sp."],
+          "maps_query_location": "Ein Kerem"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2016",
+      "observer": "אורי שטיין",
+        "original_text": "בתאריך 22.3.2016 ביחד עם שמעון, זלמן ואלברט\nבהר קטע אצבעית רומאית, סחלבים אנטולי ופרפרני, רומוליאה זעירה, חיננית רב שנתית, כדן נאה\nבחרמון גביעונית עבת עלים, יקונטון מזרחי, כדן נאה וסגול, ולריאנה איטלקית, בן חצב לבנוני. ברוניקות סורית, קיסוסית וקטנת פרחים, כפיות שעירות, אליסון חרוטי, קחון החרמון, כפיות שעירות, אנדוסק חד שנתי, גלעינית זעירת פרחים.",
+      "locations": [
+        {
+          "location_name": "הר קטע",
+            "flowers": ["Dactylorhiza romana", "Ophrys bornmuelleri", "Anacamptis papilionacea", "Romulea minuta", "Bellis sylvestris", "Colchicum decaisnei"],
+           "maps_query_location": "Har Kata"
+        },
+        {
+          "location_name": "חרמון",
+           "flowers": ["Gagea crassifolia", "Hyacinthus orientalis", "Colchicum decaisnei", "Colchicum stevenii", "Valeriana italica", "Scilla libanotica", "Veronica syriaca", "Veronica hederifolia", "Veronica cymbalaria", "Biscutella didyma", "Alyssum tortuosum", "Paracaryum rugulosum", "Biscutella didyma", "Androsace maxima", "Micromeria myrtifolia"],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    }
+  ]
+}
+```

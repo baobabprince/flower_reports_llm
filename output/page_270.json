@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2020",
+      "observer": null,
+      "original_text": "זהבית שרונית פורחת במורדות הגלבוע",
+      "locations": [
+        {
+          "location_name": "הגלבוע",
+          "flowers": ["זהבית שרונית"],
+           "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2020",
+      "observer": "רותם מלר",
+      "original_text": "במדרון של סטלה מאריס, בחיפה, כתמים קטנים של פריחה של המחרוזת הקשתית",
+      "locations": [
+        {
+          "location_name": "סטלה מאריס",
+           "flowers": ["מחרוזת קשתית"],
+           "maps_query_location": "Stella Maris"
+         },
+         {
+          "location_name": "חיפה",
+           "flowers": ["מחרוזת קשתית"],
+           "maps_query_location": "Haifa"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2020",
+      "observer": "אוהד גור",
+      "original_text": "מספר פרטים צומחים בקרבה לפסגת שוקף שברכס הכרמל. מוקדם מאוד - קצת השתגעו הפרחים....",
+      "locations": [
+        {
+          "location_name": "הר שוקף",
+          "flowers": ["רומוליאה צידונית"],
+           "maps_query_location": "Har Shokef"
+        },
+         {
+          "location_name": "רכס הכרמל",
+          "flowers": ["רומוליאה צידונית"],
+          "maps_query_location": "Carmel Mountains"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2020",
+      "observer": "עמיר פז",
+      "original_text": "פורחים בגן-כלנית מצויה, בת אורז משושה, ישרוע מאוגד, ומרסיה זעירה",
+       "locations": [
+        {
+          "location_name": "גן",
+           "flowers": ["כלנית מצויה", "בת אורז משושה", "ישרוע מאוגד", "מרסיה זעירה"],
+           "maps_query_location": null
+        }
+      ]
+    },
+   {
+      "date": "18/01/2020",
+      "observer": null,
+       "original_text": "עומר: מלוח מילר, מלחית אשונה, סתוונית הנגב  \nעזוז: מרווה מצרית , מנתור המדבר, מקור-חסידה מדברי , מרווה צמירה , סביון הערבות, עשנן קטן, ערטל המדבר, פרג זיפני, פילגון מדברי,  פשתנית מלבינה, פשתנית, ציפורנית  מקופחת , קדד מצליב,  קדד משולחף, קדד קוטבי, רכפה קטנת-פרחים, שמשון הנגב, שן-ארי שעירה, שנס המדבר,  תמריר מרוקאי, \nניצנה: פשתנית אשקלון",
+      "locations": [
+        {
+          "location_name": "עומר",
+           "flowers": ["מלוח מילר", "מלחית אשונה", "סתוונית הנגב"],
+          "maps_query_location": "Omer"
+        },
+        {
+          "location_name": "עזוז",
+           "flowers": ["מרווה מצרית", "מנתור המדבר", "מקור-חסידה מדברי", "מרווה צמירה", "סביון הערבות", "עשנן קטן", "ערטל המדבר", "פרג זיפני", "פילגון מדברי", "פשתנית מלבינה", "פשתנית", "ציפורנית מקופחת", "קדד מצליב", "קדד משולחף", "קדד קוטבי", "רכפה קטנת-פרחים", "שמשון הנגב", "שן-ארי שעירה", "שנס המדבר", "תמריר מרוקאי"],
+           "maps_query_location": "Ezuz"
+        },
+         {
+          "location_name": "ניצנה",
+          "flowers": ["פשתנית אשקלון"],
+          "maps_query_location": "Nitzana"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2020",
+       "observer": null,
+      "original_text": "כבר החל לפרוח בגבעת חומר ה",
+      "locations": [
+         {
+          "location_name": "גבעת חומר",
+           "flowers": ["איריס הארגמן"],
+           "maps_query_location": "Giv'at Homa"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2020",
+       "observer": "עידו מגן",
+      "original_text": "הרבה רקפות ביער הקדושים קרוב לכביש 38, ביער הנשיא ליד צרעה וביער בן שמן בין מצפה מודיעין לתל חדיד. ביער הנשיא יש גם נרקיסים, אם כי לא בשפע כמו הרקפות",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+           "flowers": ["רקפת", "נרקיס"],
+            "maps_query_location": "Ya'ar HaKdoshim"
+        },
+         {
+          "location_name": "יער הנשיא",
+          "flowers": ["רקפת", "נרקיס"],
+          "maps_query_location": "Ya'ar HaNasi"
+        },
+        {
+            "location_name": "צרעה",
+            "flowers": ["רקפת", "נרקיס"],
+            "maps_query_location": "Tzora"
+          },
+           {
+            "location_name": "יער בן שמן",
+            "flowers": ["רקפת", "נרקיס"],
+            "maps_query_location": "Ben Shemen Forest"
+          },
+          {
+             "location_name": "מצפה מודיעין",
+              "flowers": ["רקפת", "נרקיס"],
+             "maps_query_location": "Mitzpe Modi'in"
+           },
+           {
+             "location_name": "תל חדיד",
+             "flowers": ["רקפת", "נרקיס"],
+              "maps_query_location": "Tel Hadid"
+           }
+      ]
+    },
+    {
+      "date": "18/01/2020",
+       "observer": "עידו מגן",
+      "original_text": "הרבה כלניות כבר פורחות אבל מניסיון של שנים עברו השיא עוד לפנינו...יש גם כמה עשרות אירוסים ארצישראליים. אירוס ארגמן עוד לא פורח",
+       "locations": [
+        {
+          "location_name": "נס ציונה",
+           "flowers": ["כלנית", "אירוס ארצישראלי"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "18/01/2020",
+      "observer": null,
+       "original_text":"לופית, רקפת, נרקיסים , דודא רפואית , כתמה עבת שורש , עירית גדולה ( עוד שבוע שבועים)\nפטריות - ישעורית אורניה",
+      "locations": [
+        {
+          "location_name": "יער לוטם",
+           "flowers": ["לופית", "רקפת", "נרקיס", "דודא רפואית", "כתמה עבת שורש", "עירית גדולה"],
+           "maps_query_location": "Lotem Forest"
+        }
+      ]
+    },
+     {
+      "date": "18/01/2020",
+      "observer": "תמר קאהן",
+      "original_text": "דבורניות שחומות החלו לפרוח בהר איתן\nראינו ב17.1 באזורים שונים לצד שבילים",
+       "locations": [
+        {
+          "location_name": "הר איתן",
+           "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Har Eitan"
+         }
+      ]
+    }
+  ]
+}
+```

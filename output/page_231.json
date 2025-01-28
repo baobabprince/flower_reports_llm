@@ -1,0 +1,215 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/11/2020",
+      "observer": null,
+      "original_text": "בלהבים התחלת פריחה",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "Sternbergia clusiana"
+          ],
+           "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2020",
+       "observer": null,
+      "original_text": "יער יתיר גם התחלת פריחה",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": [
+            "Sternbergia clusiana"
+          ],
+           "maps_query_location":"Yatir Forest"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2020",
+       "observer": null,
+      "original_text": "חירבת סנסן פריהח בשיא  וגם במורדות הר סנסן",
+      "locations": [
+        {
+          "location_name": "חירבת סנסן",
+            "flowers": [
+              "Sternbergia clusiana"
+            ],
+            "maps_query_location":"Khirbet Sansan"
+        },
+        {
+          "location_name": "מורדות הר סנסן",
+          "flowers": [
+              "Sternbergia clusiana"
+            ],
+             "maps_query_location":"Har Sansan"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2020",
+       "observer": null,
+      "original_text": "בנחל קטלב גם פריחת חלמוניות",
+       "locations": [
+        {
+          "location_name": "נחל קטלב",
+          "flowers": [
+            "Sternbergia clusiana"
+           ],
+            "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2020",
+      "observer": null,
+      "original_text": "במצבור על המדרון שמצפון לחורבה (מדרון עם מפנה צפוני). רובן בשיא הפריחה; מעט נבולות.",
+      "locations": [
+        {
+          "location_name": "חרבת סנסן",
+          "flowers": [
+            "Sternbergia clusiana"
+           ],
+            "maps_query_location":"Khirbet Sansan"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2020",
+      "observer": "יגאל וורק",
+      "original_text": "משני צידי כביש הגישה לממשית החל מ200 מטר מהפניה .",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "Pancratium arabicum"
+          ],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2020",
+       "observer": "דבורה טביב",
+      "original_text": "נראו כמה פרטים בשביל הכחול\nבמדרגות הסלע במפנה המזרחי",
+       "locations": [
+        {
+          "location_name": "נחל קטלב",
+           "flowers": [
+            "Sternbergia clusiana"
+          ],
+            "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2020",
+      "observer": null,
+      "original_text": "בשמורת סנסן",
+      "locations": [
+        {
+          "location_name": "שמורת סנסן",
+          "flowers": [
+             "Sternbergia clusiana"
+            ],
+             "maps_query_location": "Sansan Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2020",
+      "observer": null,
+      "original_text": "לכל השואלים, ראו צילומים של אילן ביגן",
+       "locations": [
+        {
+          "location_name": "תל חזקה",
+            "flowers": [
+            "Sternbergia clusiana"
+            ],
+           "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2020",
+      "observer": null,
+      "original_text": "בעמק המצלבה, בחלקו העליון, פרטים רבים של סתוונית ירושליים והרבה חצבים לאחר פריחתם",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": [
+            "Colchicum hierosolymitanum",
+             "Urginea maritima"
+          ],
+           "maps_query_location": "Emek HaMatzleva"
+        }
+      ]
+    },
+   {
+      "date": "30/10/2020",
+      "observer": "ניצן כרמי",
+      "original_text": "יש עדיין הרבה חצבים בחורבת קרתא ליד עתלית, עולים למצפה לימור בשביל הכחול ולידו יש כמה שדות של חצבים לבנים, כמו גם תצפית מהממת על חוף עתלית והמצודה",
+       "locations": [
+        {
+          "location_name": "חורבת קרתא",
+           "flowers": [
+            "Urginea maritima"
+          ],
+          "maps_query_location": "Khurbet Karta"
+        },
+         {
+          "location_name": "עתלית",
+           "flowers": [
+            "Urginea maritima"
+          ],
+           "maps_query_location": "Atlit"
+        }
+       ]
+    },
+    {
+      "date": "29/10/2020",
+      "observer": null,
+      "original_text": "חלמונית זעירה, נרקיס סתווי",
+      "locations": [
+        {
+            "location_name": "נתיב הלה",
+            "flowers": [
+               "Sternbergia colchiciflora",
+               "Narcissus serotinus"
+            ],
+             "maps_query_location": "Netiv HaLamed-Heh"
+        }
+      ]
+    },
+     {
+      "date": "29/10/2020",
+      "observer": null,
+      "original_text": "אוג הבורסקאים- שלב פרי,   אלון חרמוני – פירות,  ארכובית הארזים  ארכוביתיים  (רוב עלי הכותרת - נשרו)  ארנין קוצני  מורכבים (בפיזור זרעים)  ארנריית ההרים,  אשבל הלבנון , ,בן-חוזרר הררי  ורדיים (צבעי שלכת)  - פירות, בן-חצב סתווני,  זעזועית משובלת  אחרי פיוזר זרעים,\nחבושית המטבעות  - פרי, חופניים מצויים  מצליבים  (אחרי פיזור זרעים) , חלמונית גדולה",
+      "locations": [
+       {
+          "location_name": "חרמון",
+           "flowers": [
+             "Rhus coriaria",
+              "Quercus hermonensis",
+              "Polygonum cedrorum",
+             "Echinops adenocaulos",
+             "Arenaria montana",
+              "Micromeria libanotica",
+              "Crataegus aronia",
+               "Scilla autumnalis",
+              "Gagea reticulata",
+              "Cyclotrichium depauperatum",
+             "Biscutella didyma",
+              "Sternbergia clusiana"
+             ],
+             "maps_query_location":"Mount Hermon"
+        }
+      ]
+    }
+  ]
+}
+```

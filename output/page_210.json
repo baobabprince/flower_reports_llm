@@ -1,0 +1,220 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/02/2021",
+      "observer": "שרה בועז קריצמן",
+      "original_text": "שקדיות , כלניות, עיריות ,רקפות אירוס ארצישראלי בפארק בריטניה,תורמוסים סגולים בהמונים כלניות רקפות חרציות ועוד בתל שוכה (חירבת סוכה)",
+      "locations": [
+        {
+          "location_name": "פארק בריטניה",
+          "flowers": [
+            "Prunus dulcis",
+            "Anemone coronaria",
+            "Asphodelus ramosus",
+            "Cyclamen persicum",
+             "Iris palaestina"
+          ],
+          "maps_query_location": "Britannia Park"
+        },
+        {
+          "location_name": "תל שוכה",
+           "flowers": [
+            "Lupinus",
+            "Anemone coronaria",
+            "Cyclamen persicum",
+            "Glebionis coronaria"
+          ],
+          "maps_query_location": "Tel Sokho"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2021",
+      "observer": "שרה בועז קריצמן",
+      "original_text": "שפע כלניות בשלל צבעים מרהיבים במנחת מגידו",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+     {
+      "date": "01/02/2021",
+      "observer": null,
+       "original_text": "איריס הארגמן פורח, וגם אזוביון דגול",
+      "locations": [
+         {
+          "location_name": "אילנות",
+           "flowers": [
+            "Iris atropurpurea",
+            "Lavandula stoechas"
+          ],
+           "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2021",
+      "observer": null,
+      "original_text": "החלה פריחה יפה של איריסים, רותם המדבר ועוד",
+       "locations": [
+        {
+          "location_name": "גבעות הכורכר נס ציונה",
+          "flowers": [
+             "Iris",
+            "Retama raetam"
+          ],
+          "maps_query_location": "Nes Ziona"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2021",
+      "observer": "עידו מגן",
+      "original_text": "אלפי כלניות פורחות בגבעת התיתורה שבמודיעין, וכן רקפות, עיריות וכמה שקדיות במפנה הצפוני. כמו כן ביער בן שמן פורחות כלניות ורקפות ובחניון מצפה מודיעין על הדרך לתל חדיד ריכוז יפה של כלניות (צריך לרדת אל מתחת לכביש 443 אם באים מכיוון תל אביב)",
+       "locations": [
+        {
+          "location_name": "גבעת התיתורה",
+           "flowers": [
+            "Anemone coronaria",
+             "Cyclamen persicum",
+             "Asphodelus ramosus",
+              "Prunus dulcis"
+          ],
+           "maps_query_location": "Givat ha-Titora"
+        },
+         {
+          "location_name": "מודיעין",
+           "flowers": [
+            "Anemone coronaria",
+             "Cyclamen persicum",
+             "Asphodelus ramosus",
+              "Prunus dulcis"
+          ],
+          "maps_query_location": "Modi'in"
+        },
+           {
+          "location_name": "יער בן שמן",
+          "flowers": [
+              "Anemone coronaria",
+             "Cyclamen persicum"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "חניון מצפה מודיעין",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Mitzpe Modi'in Parking"
+        },
+          {
+          "location_name": "תל חדיד",
+          "flowers": [
+           "Anemone coronaria"
+          ],
+           "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "30/01/2021",
+      "observer": "עמיר פז",
+     "original_text": "איריס הביצות ואזוביון דגול פורחים בגן. איריס הארגמן מתקרב מגיע לשיא פריחתו",
+     "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "Iris pseudacorus",
+            "Lavandula stoechas",
+            "Iris atropurpurea"
+           ],
+          "maps_query_location": "Sarona Garden"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2021",
+      "observer": "amit vexler",
+     "original_text": "התחלת פריחה- אירוסים פריטים בודדים, הרבה רותם המדברים וגם תורמוסים בהירים",
+     "locations": [
+        {
+          "location_name": "שמורת האירוסים נתניה",
+          "flowers": [
+            "Iris",
+            "Retama raetam",
+             "Lupinus"
+          ],
+          "maps_query_location": "Netanya Iris Reserve"
+        }
+      ]
+    },
+        {
+      "date": "27/01/2021",
+      "observer": "Jacob Saar",
+       "original_text": "בשמורת חומרה עשרות פרטים כבר פורחים",
+      "locations": [
+        {
+          "location_name": "שמורת חומרה",
+          "flowers": [
+             "Iris atropurpurea"
+          ],
+          "maps_query_location": "Homra Reserve"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2021",
+      "observer": null,
+      "original_text": "המיוחדים וה\"רגילים\" פורחים בכרמל היפים פורחים",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2021",
+      "observer": "עידו מגן",
+      "original_text": "הרבה כלניות בתל בית שמש שליד מושב ישעי ובתל מראשה שבגן  הלאומי בית גוברין ובכל רחבי הגן",
+      "locations": [
+        {
+          "location_name": "תל בית שמש",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Tel Beit Shemesh"
+        },
+         {
+          "location_name": "מושב ישעי",
+          "flowers": [
+           "Anemone coronaria"
+          ],
+           "maps_query_location": "Yesha' Moshav"
+        },
+         {
+          "location_name": "תל מראשה",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Tel Maresha"
+        },
+         {
+          "location_name": "גן לאומי בית גוברין",
+           "flowers": [
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Beit Guvrin National Park"
+        }
+      ]
+    }
+  ]
+}
+```

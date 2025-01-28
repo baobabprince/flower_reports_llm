@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/11/2022",
+      "observer": null,
+      "original_text": "שבע של חלמוניות ביער להב. חונים עושים פקניק קטן. יש שולחנות. פחי אשפה.\nמשם עולים ואז ישנה ירידה לגיא ובו ישנו מראה מרהיב",
+      "locations": [
+        {
+          "location_name": "יער להב",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": "מיכל",
+      "original_text": "חלמוניות יער להב",
+        "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lahav Forest"
+         }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": "רותי דויטשר",
+      "original_text": "עשרות רבות של בן חצב סתווני, מעט סתוניות בכירה,  מעט כרכום חורפי",
+      "locations": [
+         {
+          "location_name": "נחל יחיעם עליון",
+          "flowers": ["בן-חצב סתווני", "סתוונית בכירה", "כרכום חורפי"],
+          "maps_query_location": "Nahal Yehi'am"
+        },
+        {
+          "location_name": "כפר ורדים",
+           "flowers": ["בן-חצב סתווני", "סתוונית בכירה", "כרכום חורפי"],
+          "maps_query_location": "Kfar Vradim"
+         }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": "חובבי ציון דוד",
+      "original_text": "ריכוזי סיתווניות היורה באזור מגילת האש וכמו כן גם נרקיס פורח בבדידות",
+      "locations": [
+        {
+          "location_name": "מגילת האש",
+          "flowers": ["סתוונית היורה", "נרקיס"],
+           "maps_query_location": "Megilat HaEsh"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": "אורית מוספיה",
+       "original_text": "מקבצי סתווניות, נרקיסים וכרכומים",
+      "locations": [
+        {
+          "location_name": "הר איתן",
+          "flowers": ["סתוונית", "נרקיס", "כרכום"],
+          "maps_query_location": "Har Eitan"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2022",
+      "observer": "א.ג.מ",
+       "original_text": "בחורש שליד מלכישוע מרבדי סתווניות. הכרכומים הנצו ובטח עוד שבועיים יהיו גם",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+           "flowers": ["סתוונית", "כרכום"],
+          "maps_query_location": "Malkishua"
+        }
+       ]
+    },
+    {
+      "date": "18/11/2022",
+       "observer": "עידו מגן",
+      "original_text": "בדרדרת האבנים וגם ליד חורבת אבו ח'וף שביער להב שפע של חלמוניות; דרומה משם בערוץ הואדי שליד חניון להבים (שעולה למצפור אור אסרף) גם כן פריחה שופעת",
+      "locations": [
+       {
+          "location_name": "יער להב",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Lahav Forest"
+        },
+        {
+          "location_name": "חורבת אבו ח'וף",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Khurvat Abu Khuf"
+        },
+         {
+           "location_name": "להבים",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+       "date": "16/11/2022",
+       "observer": "שמואל קליין",
+      "original_text": "שיא של פריחת חלמוניות בנחל מיצר - מאות פרטים. וגם: אחילוף הגליל ורקפות ראשונות",
+      "locations": [
+        {
+          "location_name": "נחל מיצר",
+          "flowers": ["חלמונית", "אחילוף הגליל", "רקפת"],
+          "maps_query_location": "Nahal Meitzar"
+        }
+      ]
+    },
+    {
+      "date": "16/11/2022",
+       "observer": "מאיר גרשטיין",
+      "original_text": "פריחה של סתווניות, נרקיסים, כרכומים, ורקפות",
+       "locations": [
+        {
+          "location_name": "חורבת חנות",
+          "flowers": ["סתוונית", "נרקיס", "כרכום", "רקפת"],
+          "maps_query_location": "Khurvat Hanut"
+        }
+       ]
+    },
+    {
+      "date": "16/11/2022",
+      "observer": "דוד טחובר",
+      "original_text": "ביער קולה יש מקצבי סתוונית קטנים, כל כמה עשרות מטרים מקבץ של כמה פריטים צמודים",
+       "locations": [
+        {
+          "location_name": "יער קולה",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Kula Forest"
+         }
+      ]
+    }
+  ]
+}
+```

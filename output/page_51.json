@@ -1,0 +1,189 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/12/2023",
+      "observer": "אביטל טביב",
+      "original_text": "פריחה יפה בשביל פרחי הבר: רקפות, נרקיסים ושרביטן מצוי.",
+      "locations": [
+        {
+          "location_name": "ראש העין",
+          "flowers": [
+            "רקפת מצויה",
+             "נרקיס מצוי",
+            "שרביטן מצוי"
+          ],
+          "maps_query_location": "Rosh HaAyin"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2023",
+      "observer": null,
+      "original_text": "ביער להב - צאו לראות",
+       "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": [
+            "חלמונית"
+           ],
+           "maps_query_location": "Lahav Forest"
+         }
+        ]
+    },
+    {
+      "date": "10/12/2023",
+      "observer": null,
+       "original_text": "סתוונית טוביה,  אלת הבוטנה",
+      "locations": [
+        {
+           "location_name": "יער מיתר",
+           "flowers": [
+            "סתוונית טוביה",
+            "אלת הבוטנה"
+          ],
+          "maps_query_location": "Meitar Forest"
+        }
+      ]
+    },
+     {
+      "date": "10/12/2023",
+      "observer": null,
+      "original_text": "אינדיה נטויה, גרדיולוס מדברי, שן ארי שעירה , סיתוונית טוביה, כף אווז האשפתות, לחן לביד, אזנב מצוי , דרדר קרומי, דורית רפה, חבלבל המשי, מלוח מילר, סתוונית טוביה,",
+      "locations": [
+        {
+          "location_name": "אזור תעשיה עומר",
+          "flowers": [
+            "אינדיה נטויה",
+            "גרדיולוס מדברי",
+            "שן-ארי שעירה",
+            "סתוונית טוביה",
+             "כף אווז האשפתות",
+             "לחן לביד",
+             "אזנב מצוי",
+             "דרדר קרומי",
+            "דורית רפה",
+            "חבלבל המשי",
+            "מלוח מילר",
+            "סתוונית טוביה"
+
+          ],
+         "maps_query_location":"Omer Industrial Area"
+       },
+       {
+        "location_name": "עומר",
+         "flowers": [
+           "אינדיה נטויה",
+            "גרדיולוס מדברי",
+            "שן-ארי שעירה",
+            "סתוונית טוביה",
+             "כף אווז האשפתות",
+             "לחן לביד",
+             "אזנב מצוי",
+             "דרדר קרומי",
+            "דורית רפה",
+            "חבלבל המשי",
+            "מלוח מילר",
+            "סתוונית טוביה"
+          ],
+         "maps_query_location": "Omer"
+       }
+      ]
+    },
+     {
+      "date": "10/12/2023",
+      "observer": null,
+       "original_text": "ציפורנית דקיקה , סתוונית טוביה, לחך שסוע (יבש) , חצב גלוני (פרי), חסת השבטים, גיבסנית ערבית",
+      "locations": [
+        {
+          "location_name": "אנדרטת הנגב",
+           "flowers": [
+            "ציפורנית דקיקה",
+             "סתוונית טוביה",
+            "לחך שסוע",
+            "חצב גלוני",
+            "חסת השבטים",
+            "גיבסנית ערבית"
+           ],
+            "maps_query_location": "Negev Monument"
+         }
+      ]
+    },
+    {
+      "date": "10/12/2023",
+      "observer": null,
+      "original_text":"ברמות מנשה.",
+      "locations": [
+         {
+          "location_name": "רמות מנשה",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Ramat Menashe"
+        }
+      ]
+     },
+     {
+      "date":"10/12/2023",
+       "observer": null,
+      "original_text": "רחוב ליסבון בדלית אל כרמל מהווה מוקד משיכה לחובבי וצלמי הפרחים. פורחים שם: נרקיסים, כרכומים, איריס הסרגל ועוד",
+        "locations":[
+            {
+              "location_name":"דלית אל כרמל",
+              "flowers":[
+               "נרקיס מצוי",
+               "כרכום",
+               "אירוס הסרגל"
+                ],
+              "maps_query_location":"Daliyat al-Karmel"
+            }
+          ]
+    },
+    {
+       "date": "10/12/2023",
+        "observer": null,
+       "original_text":"פריחה של שפע נרקיסים",
+        "locations":[
+          {
+            "location_name":"כרמל",
+            "flowers":[
+              "נרקיס מצוי"
+             ],
+            "maps_query_location":"Carmel"
+            }
+          ]
+     },
+    {
+      "date": "10/12/2023",
+      "observer": "ירדן ניר-בוכבינדרים",
+      "original_text": "המון נרקיסים, שפע אירוס הסרגל, כרכום חורפי",
+       "locations": [
+          {
+           "location_name": "מצוקי נשר",
+            "flowers": [
+              "נרקיס מצוי",
+              "אירוס הסרגל",
+               "כרכום חורפי"
+             ],
+            "maps_query_location": "Nesher Cliffs"
+          },
+          {
+            "location_name": "חורשת הארבעים",
+            "flowers":[
+              "נרקיס מצוי",
+              "אירוס הסרגל",
+               "כרכום חורפי"
+            ],
+             "maps_query_location":"Forty Grove"
+          }
+        ]
+    },
+     {
+      "date": "07/12/2023",
+       "observer": null,
+        "original_text": "הקישו על הקישור למטה . יש להירשם מראש.",
+        "locations": []
+    }
+  ]
+}
+```

@@ -1,0 +1,175 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/10/2009",
+      "observer": "אילן טל",
+      "original_text": "פורחים בגן : בוציץ סוככני , שום סתווי\n( מפותח מאד ) , אחילוף צר עלים , סתוונית ירושלים , חבצלת הנגב , קריתמון\nימי , סתוונית בכירה , אצבוע אירופי ועוד .",
+      "locations": [
+        {
+          "location_name": "גן בוטני כפר יהושע",
+          "flowers": [
+            "בוציץ סוככני",
+            "שום סתווי",
+             "אחילוף צר עלים",
+            "סתוונית ירושלים",
+            "חבצלת הנגב",
+            "קריתמון ימי",
+            "סתוונית בכירה",
+            "אצבוע אירופי"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "29/09/2009",
+      "observer": "בנצי דקל",
+      "original_text": "בין מחלף שבעת הכוכבים לכביש רב מכר לכוון דרום פריחת החצבים בשיאה",
+      "locations": [
+          {
+              "location_name": "מחלף שבעת הכוכבים",
+              "flowers": ["חצב מצוי"],
+               "maps_query_location": "Shivat HaKokhavim Interchange"
+            },
+          {
+              "location_name": "כביש רב מכר",
+              "flowers": ["חצב מצוי"],
+               "maps_query_location": "Rav Mecher Road"
+          }
+      ]
+    },
+    {
+      "date": "29/09/2009",
+       "observer": null,
+      "original_text": "נכון ל 28.09.09 כבר פורחות חלמוניות זעירות ברכס בשנית: אני מצאתי 2 פרטים פורחים בנ.צ  2282/2757   כ 2 ק\"מ צפון צפון מערב להר חוזק בסמוך אליו באתר \"המסורתי\" כבר פורחת סתוונית התשבץ והחלמונית הגדולה כפי שכבר דיווחו לפניי רבים וטובים ממני",
+      "locations": [
+        {
+          "location_name": "רכס בשנית",
+          "flowers": ["חלמונית זעירה", "סתוונית התשבץ", "חלמונית גדולה"],
+          "maps_query_location": "Bashanit Ridge"
+        },
+        {
+             "location_name": "הר חוזק",
+             "flowers": ["חלמונית זעירה", "סתוונית התשבץ", "חלמונית גדולה"],
+             "maps_query_location": "Har Hozek"
+         }
+      ]
+    },
+    {
+      "date": "26/09/2009",
+       "observer": null,
+      "original_text": "אלפי חצבים, ויתניה משכרת, שיח אברהם מצוי, דטורה נטוית פרי, קיקיון",
+       "locations": [
+        {
+          "location_name": "מגדל צדק",
+           "flowers": ["חצב מצוי", "ויתניה משכרת", "שיח אברהם מצוי", "דטורה נטוית פרי", "קיקיון"],
+          "maps_query_location": "Migdal Tzedek"
+        }
+      ]
+    },
+     {
+      "date": "26/09/2009",
+      "observer": null,
+      "original_text": "מתחת למלון רמת רחל בדרום מזרח ירושלים (בירידה לשכונת חומת שמואל) ישנה גבעה שוממה אך מלאה בחצבים, מחזה מרהיב!השנה פרחו המונים, כעט כבר לקראת הסוף.",
+      "locations": [
+        {
+          "location_name": "רמת רחל",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Ramat Rachel"
+        },
+        {
+            "location_name": "ירושלים",
+            "flowers": ["חצב מצוי"],
+             "maps_query_location": "Jerusalem"
+        },
+          {
+            "location_name": "חומת שמואל",
+            "flowers": ["חצב מצוי"],
+             "maps_query_location": "Homat Shmuel"
+        }
+      ]
+    },
+    {
+      "date": "25/09/2009",
+      "observer": null,
+      "original_text": "בבריכת הנופרים : נכנסים מכביש ראש העין פ\"ת ליד אתר מקורות.\nבמקום גם פריחה יפה של שנית גדולה, ארכובית הכתמים, לוביה מצרית",
+      "locations": [
+          {
+            "location_name": "בריכת הנופרים",
+             "flowers": ["נופר צהוב", "שנית גדולה", "ארכובית הכתמים", "לוביה מצרית"],
+            "maps_query_location": null
+          },
+          {
+              "location_name": "ראש העין",
+              "flowers": ["נופר צהוב", "שנית גדולה", "ארכובית הכתמים", "לוביה מצרית"],
+               "maps_query_location": "Rosh HaAyin"
+          },
+          {
+             "location_name": "פתח תקווה",
+              "flowers": ["נופר צהוב", "שנית גדולה", "ארכובית הכתמים", "לוביה מצרית"],
+               "maps_query_location": "Petah Tikva"
+           },
+        {
+          "location_name": "אתר מקורות",
+           "flowers": ["נופר צהוב", "שנית גדולה", "ארכובית הכתמים", "לוביה מצרית"],
+          "maps_query_location": "Mekorot site"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2009",
+      "observer": "יובל עברון",
+       "original_text": "פחות רואים יותר מריחים\nהחרובים מתחילים לפרוח",
+      "locations": [
+          {
+          "location_name": null,
+          "flowers": ["חרוב מצוי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+        {
+      "date": "24/09/2009",
+       "observer": null,
+      "original_text": "ליד משטרת עירון בדרך ואדי ערה המוני חצבים פורחים, מחזה מדהים - חובה ללכת",
+       "locations": [
+        {
+          "location_name": "משטרת עירון",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Iron police station"
+        },
+           {
+              "location_name": "ואדי ערה",
+              "flowers": ["חצב מצוי"],
+               "maps_query_location": "Wadi Ara"
+          }
+      ]
+    },
+      {
+        "date": "24/09/2009",
+         "observer": "אילן טל",
+        "original_text": "פורחים עכשיו : קוצן מכונף , חורשף מצוייץ ,חצב מצוי + גלוני , חבצלת החוף ,\nיקינטון המים , בוציץ סוככני , פשתת החוף ועוד .    שנה טובה !",
+        "locations": [
+          {
+             "location_name": "גן בוטני כפר יהושע",
+              "flowers": ["קוצן מכונף", "חורשף מצוייץ", "חצב מצוי", "חבצלת החוף", "יקינטון המים", "בוציץ סוככני", "פשתת החוף"],
+              "maps_query_location": "Kfar Yehoshua"
+          }
+        ]
+      },
+    {
+      "date": "21/09/2009",
+      "observer": null,
+       "original_text": "ברכס בשנית",
+      "locations": [
+        {
+          "location_name": "רכס בשנית",
+          "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    }
+  ]
+}
+```

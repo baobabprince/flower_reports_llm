@@ -1,0 +1,313 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/03/2014",
+      "observer": "אילן טל",
+       "original_text": "פורחים: אלקנה מזרחית , ארביס אביבי , אספסת מצוייצת , ביקייה דקת עלים , בן פרג סגול , דרדר החרחבינה , חלמית זנוחה , גרגרנית קצרת פירות , הרדופנין מצוייץ , ישימונית ורודה , לוטוס מדברי , סגולית נאה , צנון פיגיוני , שיכרון מרושת ,שמשונית הטיפין  ועוד רבים מאד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "Alkanna orientalis",
+            "Arabis verna",
+            "Medicago sativa",
+            "Vicia tenuifolia",
+             "Papaver umbonatum",
+            "Centaurea hyalolepis",
+            "Malva sylvestris",
+             "Erodium brachycarpum",
+            "Nerium oleander",
+             "Onosma mutabilis",
+            "Lotus deserti",
+             "Viola modesta",
+             "Raphanus raphanistrum",
+            "Hyoscyamus reticulatus",
+             "Helianthemum stipulatum"
+          ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "גן בוטני",
+          "flowers": [
+              "Alkanna orientalis",
+            "Arabis verna",
+            "Medicago sativa",
+            "Vicia tenuifolia",
+             "Papaver umbonatum",
+            "Centaurea hyalolepis",
+            "Malva sylvestris",
+             "Erodium brachycarpum",
+            "Nerium oleander",
+             "Onosma mutabilis",
+            "Lotus deserti",
+             "Viola modesta",
+             "Raphanus raphanistrum",
+            "Hyoscyamus reticulatus",
+             "Helianthemum stipulatum"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+              "Alkanna orientalis",
+            "Arabis verna",
+            "Medicago sativa",
+            "Vicia tenuifolia",
+             "Papaver umbonatum",
+            "Centaurea hyalolepis",
+            "Malva sylvestris",
+             "Erodium brachycarpum",
+            "Nerium oleander",
+             "Onosma mutabilis",
+            "Lotus deserti",
+             "Viola modesta",
+             "Raphanus raphanistrum",
+            "Hyoscyamus reticulatus",
+             "Helianthemum stipulatum"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2014",
+       "observer": null,
+      "original_text": "בכניסה החדשה לבינימינה מכביש 4, לפני הבורג' בצד דרום, שדות מלאים בפרגים בשיא פריחה. חגיגה לעיניים!",
+      "locations": [
+        {
+          "location_name": "בינימינה",
+          "flowers": [
+            "Papaver"
+          ],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2014",
+      "observer": "נעם עביצל",
+       "original_text":"לקראת חג הפורים הקרב, נוצר (מדרום מערב לבנימינה, סמוך לכביש בין הגשר לצומת הבורג' בכביש 4 ואחרי כמה מאות מטרים) ים אדום של הפרגים. מראה אדום פשוט מרהיב !",
+      "locations": [
+       {
+          "location_name": "בנימינה",
+          "flowers": [
+            "Papaver"
+          ],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "10/03/2014",
+      "observer": "עירית",
+      "original_text": "בין צומת צלמון לבין הישוב כלנית מרבדי פריחה של דמומית ארץ ישראלית ומסרק מזרחי",
+      "locations": [
+        {
+          "location_name": "צומת צלמון",
+          "flowers": [
+            "Adonis palaestina",
+            "Pecteilis orientalis"
+          ],
+          "maps_query_location": "Tzalmon Junction"
+        },
+        {
+          "location_name": "כלנית",
+           "flowers": [
+             "Adonis palaestina",
+             "Pecteilis orientalis"
+          ],
+          "maps_query_location":"Kalanit"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2014",
+      "observer": null,
+      "original_text":"על השביל הירוק ובקרבת האנדרטה הצבעונים מעבר לשיא אך עדיין פורחים. סחלב הגליל לעומתם בשיא פריחה. עוד בשביל: דרדר כחול, פשתה שעירה, לטמים, נץ חלב, סחלב פרפרני,שאריות כלניות ועיריות, רקפות, עכנאי יהודה, תחילת דם המכבים ועוד",
+      "locations": [
+         {
+          "location_name": "אנדרטת כסלון",
+          "flowers": [
+            "Tulipa",
+             "Orchis galilaea",
+            "Centaurea cyanus",
+            "Linum pubescens",
+            "Cistus",
+            "Ornithogalum",
+             "Anacamptis papilionacea",
+              "Anemone coronaria",
+             "Gundelia tournefortii",
+              "Cyclamen",
+               "Echium judaeum",
+             "Sanguisorba minor"
+          ],
+           "maps_query_location":"Kesalon Memorial"
+        }
+      ]
+    },
+    {
+       "date": "09/03/2014",
+      "observer": "דוד הר זהב",
+      "original_text": "קוציץ סורי בהמונים, המון דמומיות א\"י, דרדר כחול, עוזרר קוצני, שום שעיר, נץ חלב צרפתי, געדה כרתית, פרסיון גדול, יסמין שיחני.",
+      "locations": [
+        {
+          "location_name": "שלוחת דרדר",
+           "flowers": [
+             "Echinops syriacus",
+             "Adonis palaestina",
+             "Centaurea cyanus",
+            "Crataegus aronia",
+            "Allium subhirsutum",
+            "Ornithogalum narbonense",
+             "Teucrium creticum",
+              "Cyclamen persicum",
+             "Jasminum fruticans"
+          ],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "נחל סלעית",
+           "flowers": [
+             "Echinops syriacus",
+             "Adonis palaestina",
+             "Centaurea cyanus",
+            "Crataegus aronia",
+            "Allium subhirsutum",
+            "Ornithogalum narbonense",
+             "Teucrium creticum",
+              "Cyclamen persicum",
+             "Jasminum fruticans"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "09/03/2014",
+       "observer": "אלינה",
+      "original_text":"בואדי סיר ליד הישוב צופים (אזור כוכב יאיר), תחילת פריחה במרבדים של בן חצב יקינתוני. בנוסף פריחת צהרון מצוי, סחלב פרפרני, שום משולש, רקפות (אחרי השיא) ועוד.",
+       "locations": [
+        {
+          "location_name": "ואדי סיר",
+           "flowers": [
+             "Scilla hyacinthoides",
+            "Anagyris foetida",
+            "Anacamptis papilionacea",
+              "Allium triquetrum",
+            "Cyclamen"
+          ],
+          "maps_query_location": null
+        },
+        {
+           "location_name":"צופים",
+             "flowers": [
+             "Scilla hyacinthoides",
+            "Anagyris foetida",
+            "Anacamptis papilionacea",
+              "Allium triquetrum",
+            "Cyclamen"
+          ],
+           "maps_query_location":"Tzofim"
+        },
+          {
+            "location_name": "כוכב יאיר",
+             "flowers": [
+             "Scilla hyacinthoides",
+            "Anagyris foetida",
+            "Anacamptis papilionacea",
+              "Allium triquetrum",
+            "Cyclamen"
+          ],
+            "maps_query_location": "Kokhav Ya'ir"
+         }
+      ]
+    },
+     {
+      "date": "09/03/2014",
+       "observer": "אבנר אברהם",
+      "original_text": "שמורת בני ציון צילום אבנר אברהם 052 3351549 7.3.14\nהמון ציבעונים ועוד מגון גדול של פרחים הסחלבים לקראת הסוף\nבקדימה אירוס הארגמן כבר לא פורח ",
+      "locations": [
+         {
+          "location_name": "שמורת בני ציון",
+            "flowers": [
+             "Tulipa",
+             "Orchidaceae",
+            "Iris atropurpurea"
+            ],
+           "maps_query_location": "Bnei Zion Nature Reserve"
+        },
+        {
+          "location_name": "קדימה",
+           "flowers": [
+            "Iris atropurpurea"
+            ],
+          "maps_query_location": "Kadima"
+        }
+      ]
+    },
+    {
+      "date": "08/03/2014",
+       "observer": "רבקה כהן",
+       "original_text": "2.3.14 נס הרים: קטלב מצוי\nגוש עציון: חלבלוב מגובשש, סחלב אנטולי, חפניים מצויים, צהרון מצוי, גרניום הפקעות, ניסנית דו קרנית, סביון אביבי, צפרני חתול מצויות, אסטיס מצוי, עדשה מזרחית(?) מקור חסידה גזור דבורנית צהובה, כוכבית מצויה, רתם המדבר, לשון הפר הסמורה, זמזומית מצויה, מגלית גדולה.\n8.3.14: צבעוני ההרים, מרוה מצויה, מרות ירושלים (התחלה) מרוה כחולה (התחלה), שמשון שלחופיות, סינפיטון א\"י, נורית ירושלים (התחלה), דמומית א\"צ",
+      "locations": [
+        {
+          "location_name": "נס הרים",
+          "flowers": [
+             "Arbutus andrachne"
+          ],
+            "maps_query_location":"Nes Harim"
+        },
+        {
+          "location_name": "גוש עציון",
+           "flowers": [
+            "Euphorbia hierosolymitana",
+            "Orchis anatolica",
+            "Haplophyllum",
+            "Anagyris foetida",
+             "Geranium tuberosum",
+             "Noccaea perfoliata",
+             "Senecio vernalis",
+             "Calendula arvensis",
+             "Isatis tinctoria",
+            "Lens orientalis",
+            "Erodium cicutarium",
+            "Ophrys lutea",
+             "Stellaria media",
+             "Retama raetam",
+              "Anchusa strigosa",
+            "Muscari parviflorum",
+            "Megaleia",
+            "Tulipa montana",
+             "Salvia viridis",
+             "Marrubium vulgare",
+               "Salvia dominica",
+             "Echinophora tenuifolia",
+             "Symphytum palaestinum",
+               "Ranunculus asiaticus",
+            "Adonis palaestina"
+          ],
+             "maps_query_location":"Gush Etzion"
+        }
+      ]
+    },
+    {
+     "date": "08/03/2014",
+       "observer": null,
+      "original_text": "בקית קפריסין,קחוון קצר פירות,ותלת חוד מבריק פורחים בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Cymbalaria longipes",
+            "Anthemis palaestina",
+            "Trigonella brachycarpa"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    }
+  ]
+}
+```

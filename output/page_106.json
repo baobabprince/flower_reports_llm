@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/11/2022",
+      "observer": "מאיר גרשטיין",
+      "original_text": "פריטים בודדים ממש באיזור 'השביל התלוי' בבניאס",
+      "locations": [
+        {
+          "location_name": "בניאס",
+          "flowers": [
+            "רקפת"
+          ],
+           "maps_query_location": "Banias"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2022",
+      "observer": "מירב הררי עמירון",
+      "original_text": "פריחת וחיוניות במעט מקבצים. לעיתים חלמונית בודדת בשביל הכחול בהר תבור",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "חלמונית"
+          ],
+            "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2022",
+      "observer": "משפחת אייכנשטיין",
+      "original_text": "מרבדים של כרכום צהבהב\nומספר סתוונית במערת פער",
+      "locations": [
+        {
+          "location_name": "מערת פער",
+           "flowers": [
+            "כרכום צהבהב",
+            "סתוונית"
+          ],
+           "maps_query_location": "Me'arat Pa'er"
+        }
+      ]
+    },
+     {
+      "date": "11/11/2022",
+      "observer": "תמר",
+      "original_text": "החלמוניות ליד איתרי (תלפיות ירושלים) שורדות למרות הררי הזבל",
+      "locations": [
+         {
+          "location_name": "איתרי",
+          "flowers": [
+             "חלמונית"
+          ],
+          "maps_query_location": "Eitari"
+        },
+         {
+          "location_name": "תלפיות ירושלים",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Talpiot Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2022",
+      "observer": "אילת בר",
+      "original_text": "התחיל לפרוח בשמורת אלוני יצחק.",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני יצחק",
+          "flowers": [
+            "אחילוף הגליל"
+          ],
+            "maps_query_location": "Alonai Itzhak Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2022",
+      "observer": null,
+      "original_text": "נרקיס סתווי, סתווניות ועוד, ראו מסלול טיול\nבקישור למטה",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "נרקיס סתווי",
+             "סתוונית"
+          ],
+          "maps_query_location":"Khirbet Melakh"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2022",
+      "observer": "אילת א",
+      "original_text": "עשרות סתוונית וחלמוניות בשביל הפסגה בהר מירון",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "סתוונית",
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2022",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "החלו לפרוח מרבדים של סתוונית היורה בקיבוץ יסעור",
+      "locations": [
+        {
+          "location_name": "יסעור",
+          "flowers": [
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Yas'ur"
+        }
+      ]
+    },
+     {
+      "date": "09/11/2022",
+      "observer": null,
+      "original_text": "בצלע ההר, לאורך הכביש לאורך  ים המלח לכיוון המלונות",
+      "locations": [
+        {
+          "location_name": "ים המלח",
+            "flowers": [
+             "חצב"
+          ],
+           "maps_query_location": "Dead Sea"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2022",
+      "observer": "עמרם בר יעקב",
+      "original_text": "פריחה משמעותית של רקפות נצפתה כבר היום על התבור",
+      "locations": [
+        {
+          "location_name": "התבור",
+          "flowers": [
+            "רקפת"
+          ],
+           "maps_query_location": "Mount Tabor"
+        }
+      ]
+    }
+  ]
+}
+```

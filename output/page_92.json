@@ -1,0 +1,197 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/01/2023",
+      "observer": null,
+      "original_text": "בן-חצב החורש, דבורנית הקטיפה, כלניות, \nדבורנית הקטיפה, אכסף מבריק , שום מזרחי , גביעונית הלבנון, לוטם מרווני וועד",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+            "בן-חצב החורש",
+            "דבורנית הקטיפה",
+             "כלנית",
+            "אכסף מבריק",
+             "שום מזרחי",
+            "גביעונית הלבנון",
+            "לוטם מרווני"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2023",
+      "observer": "עידו מגן",
+      "original_text": "בכניסה ליער בן שמן ממצפה מודיעין מצפון לכביש 443 הרבה ריכוזי רקפות. לכל אורך הדרך משם לתל חדיד פזורות מאות כלניות, עדיין לא בשיא. ליד תל חדיד מרבדים של אירוס ארץ ישראלי. בפארק שוהם ליד איזור התעשיה כלניות אדומות ולבנות",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+        {
+          "location_name": "מצפה מודיעין",
+           "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Mitzpe Modi'in"
+        },
+          {
+          "location_name": "תל חדיד",
+          "flowers": [
+            "כלנית",
+             "אירוס ארץ ישראלי"
+          ],
+          "maps_query_location": "Tel Hadid"
+        },
+        {
+          "location_name": "פארק שוהם",
+           "flowers": [
+            "כלנית אדומה",
+              "כלנית לבנה"
+          ],
+          "maps_query_location": "Shoham Park"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2023",
+       "observer": "רון",
+      "original_text": "מול העלייה למוצב חזקה - כניסה לשביל הגולן. מיד בסוף העלייה הקטנה, מצד ימין",
+      "locations": [
+        {
+          "location_name": "מוצב חזקה",
+          "flowers": [
+               "רקפת יוונית",
+              "איריס הלבנון"
+          ],
+          "maps_query_location": "Hizka"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2023",
+      "observer": "דותן עמנואל",
+      "original_text": "מקבצי נרקיסים עדיין פורחים בנחל חצץ 25.1.2023",
+       "locations": [
+        {
+           "location_name": "נחל חצץ",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Nahal Hatzatz"
+         }
+       ]
+     },
+    {
+      "date": "24/01/2023",
+      "observer": "דוד ח\"צ",
+       "original_text": "לאורך כביש 2499 המוביל לנאות הכיכר יעין תמר פריחה מקסימה של קנה מצוי על רקע אזור דרומי של ים המלח",
+      "locations": [
+        {
+          "location_name": "נאות הכיכר",
+          "flowers": [
+            "קנה מצוי"
+          ],
+          "maps_query_location": "Neot Hakikar"
+        },
+         {
+          "location_name": "יעין תמר",
+          "flowers": [
+             "קנה מצוי"
+          ],
+           "maps_query_location": "Ein Tamar"
+        },
+        {
+          "location_name": "ים המלח",
+           "flowers": [
+            "קנה מצוי"
+          ],
+          "maps_query_location": "Dead Sea"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2023",
+      "observer": "עידו מגן",
+       "original_text": "בתאריך 21.1 בשדה שבין כביש החוף לרחוב חבצלת השרון בחדרה פרח מרבד כלניות. יש לשים בוייז רחוב חבצלת השרון, השדה נמצא משמאל אם מגיעים לרחוב ממחלף אולגה.",
+      "locations": [
+        {
+          "location_name": "חדרה",
+          "flowers": [
+            "כלנית"
+           ],
+           "maps_query_location": "Hadera"
+        }
+      ]
+    },
+    {
+      "date": "24/01/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "כלניות פורחות בדלילות ליד השביל בשמורה.",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "23/01/2023",
+      "observer": "עקיבא ירס",
+      "original_text": "בעין חיניה, מתחת לבריכה הגדולה",
+      "locations": [
+        {
+          "location_name": "עין חיניה",
+           "flowers": [
+            "לוענית קטנה"
+          ],
+          "maps_query_location": "Ein Hiniya"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2023",
+      "observer": null,
+      "original_text": "תחילת פריחה בנחל ראש פינה, 20.1.2023",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "גביעונית הלבנון"
+          ],
+          "maps_query_location": "Nahal Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "22/01/2023",
+       "observer": "שלמה זיו",
+      "original_text": "הכלניות בגוונים שונים באזור נחל סנין פורחות(כבר מעבר לשיאן). \nמהרו פן תאחרו.\nהגישה משביל הנמצא מזרחית למבנה הביג",
+      "locations": [
+        {
+          "location_name": "יקנעם",
+           "flowers": [
+             "כלנית"
+           ],
+           "maps_query_location": "Yoqne'am"
+        },
+        {
+          "location_name": "נחל סנין",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Nahal Sanin"
+        }
+      ]
+    }
+  ]
+}
+```

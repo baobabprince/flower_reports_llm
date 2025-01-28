@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/02/2023",
+      "observer": null,
+      "original_text": "פורח עכשיו בהר טורען . ראו אלבום נפלא של שולה סנדר",
+      "locations": [
+        {
+          "location_name": "הר תורען",
+          "flowers": ["סחלב מצוייר"],
+          "maps_query_location": "Mount Tur'an"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2023",
+       "observer": "עמיר פז",
+      "original_text": "זמזומית ורבורג, פרג אגסני, חרצית דביקה, וחומעת האווירון פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["זמזומית ורבורג", "פרג אגסני", "חרצית דביקה", "חומעת האווירון"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "15/02/2023",
+      "observer": "אורלב צח",
+      "original_text": "לא מעט פרטים בודדים של יקינתון מזרחי לצדי סינגל האופניים, וגם בהר עצמו. פריחת סחלבים, כולל המצוייר, עוד אין כלל! אפילו לא התחלה של עמודי פריחה. רק שני סחלבים פרפרניים בתחילתם.",
+      "locations": [
+        {
+           "location_name": "רכס תורעאן",
+          "flowers": ["יקינתון מזרחי", "סחלב מצוייר", "סחלב פרפרני"],
+          "maps_query_location":"Tur'an Ridge"
+        },
+         {
+           "location_name": "הר תורען",
+          "flowers": ["יקינתון מזרחי", "סחלב מצוייר", "סחלב פרפרני"],
+           "maps_query_location": "Mount Tur'an"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2023",
+      "observer": "יחיאל",
+      "original_text": "מקבץ גדול של נרקיס ניירי/מלבין, מעט אחרי מגדל היערן לאורך סינגל האופניים אסף כיסופים",
+      "locations": [
+        {
+          "location_name": "סינגל כיסופים",
+          "flowers": ["נרקיס מלבין"],
+          "maps_query_location": "Kessufim Trail"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2023",
+       "observer": "דוד ח\"צ",
+      "original_text": "במעלה הגלבוע פריחה יפה של כלניות ורקפות.",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": ["כלנית", "רקפת"],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2023",
+      "observer": null,
+      "original_text": "14.2.2023 בבורות לוץ",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["אירוס טוביה"],
+          "maps_query_location":"Borot Lotz"
+        }
+      ]
+    },
+      {
+      "date": "14/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "במנחת מגידו שיא בפריחה של כלניות במגוון צבעים - לבן, סגול וכחול בגוונים שונים ואדום. יש לציין שהמשטחים בצד המערבי של האזור עשירים יותר מהצד המזרחי.",
+      "locations": [
+        {
+          "location_name": "מגידו",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2023",
+      "observer": "בתיה פריד",
+      "original_text": "לאורך סינגל אופניים מתחת להושעיה. אלפי כלניות לבנות",
+      "locations": [
+        {
+          "location_name": "הושעיה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Hosha'aya"
+        }
+      ]
+    },
+        {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "נץ-חלב דק-עלים, בצלציה א\"י, זמזומית המדבר וחברים - פ",
+      "locations": [
+         {
+          "location_name": "מכתשים",
+          "flowers": ["נץ-חלב דק-עלים", "בצלציה א\"י", "זמזומית המדבר"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "עין ירקעם",
+           "flowers": ["נץ-חלב דק-עלים", "בצלציה א\"י", "זמזומית המדבר"],
+          "maps_query_location": "Ein Yarkeam"
+        },
+         {
+          "location_name": "מישור ימין",
+          "flowers": ["נץ-חלב דק-עלים", "בצלציה א\"י", "זמזומית המדבר"],
+           "maps_query_location": "Mishor Yamin"
+        }
+      ]
+    },
+    {
+       "date": "13/02/2023",
+       "observer": null,
+       "original_text": "מרבדים צפופים ראו אלבום בקישור",
+        "locations": [
+        {
+          "location_name": "יער שחריה",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Shachariya Forest"
+        }
+      ]
+    }
+  ]
+}
+```

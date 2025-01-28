@@ -1,0 +1,197 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/11/2010",
+      "observer": "דפנה כרמלי",
+      "original_text": "בן-חצב סתווני בשמורת הר אדמון ליד כרם בן-זמרה, חלמוניות בין הסירה בחצור עליון ליד כרם בן-זמרה",
+      "locations": [
+        {
+          "location_name": "שמורת הר אדמון",
+          "flowers": [
+            "בן-חצב סתווני"
+          ],
+           "maps_query_location": "Har Admon Nature Reserve"
+        },
+        {
+          "location_name": "כרם בן-זמרה",
+          "flowers": [
+            "בן-חצב סתווני",
+            "חלמונית"
+          ],
+          "maps_query_location": "Kerem Ben Zimra"
+        },
+         {
+          "location_name": "חצור עליון",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Hatzor HaGlilit"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2010",
+      "observer": null,
+      "original_text": "חלמוניות בלהבים",
+       "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location":"Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2010",
+      "observer": "אורון יעקב",
+      "original_text": "אחילוף הגליל פורח בצומת גולני כ-50 מטר  מאחורי התחנת אוטובוס לכוון טבריה",
+       "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": [
+            "אחילוף הגליל"
+          ],
+           "maps_query_location": "Golani Junction"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2010",
+      "observer": "עירית",
+      "original_text": "פריחת  חלמוניות התחילה גבוה בואדי ראש פינה, צפונית מערבית לעין גיא אוני. עדיין אין קרוב למפגש השבילים.",
+      "locations": [
+        {
+          "location_name": "ואדי ראש פינה",
+           "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Wadi Rosh Pina"
+        },
+         {
+          "location_name": "עין גיא אוני",
+           "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Ein Gev"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2010",
+      "observer": "אורון יעקב",
+       "original_text": "מרסיה יפהפיה החלה לפרוח  מדרום לביצת זיתא, פרטים רבים",
+      "locations": [
+        {
+          "location_name": "ביצת זיתא",
+          "flowers": [
+            "מרסיה יפהפיה"
+          ],
+          "maps_query_location": "Zaita Marsh"
+        }
+      ]
+    },
+     {
+      "date": "03/11/2010",
+      "observer": "עירית",
+       "original_text": "בטיול נפלא עם מייק בחרמון, חצינו טרשים נפלאים וסבכי אחירותם  והגענו לחלמוניות הפורחות של הר שזיף. הן כרגע בשיא פריחה בנוף מקסים. איתן פורח גם כרכום נאה, מעט כרכום חרמוני ובעמק הנעלם מעט כרכום צהבהב.",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": [
+              "חלמונית",
+              "כרכום נאה",
+              "כרכום חרמוני",
+              "כרכום צהבהב"
+            ],
+          "maps_query_location": "Mount Hermon"
+        },
+         {
+          "location_name": "הר שזיף",
+          "flowers": [
+            "חלמונית"
+           ],
+          "maps_query_location": "Har Shazif"
+        },
+         {
+          "location_name": "עמק הנעלם",
+           "flowers": [
+              "כרכום צהבהב"
+            ],
+             "maps_query_location": "HaNeelam Valley"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2010",
+      "observer": null,
+       "original_text":"חלמונית ראשונה במצוק מבוא חמה",
+      "locations": [
+        {
+          "location_name": "מצוק מבוא חמה",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Me'vo Hama Cliff"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2010",
+      "observer": "עירית",
+      "original_text": "אחילוף החורן פורח ליד רוג'ום אל הירי. עוד פורחים שם בן חצב סתווני, מעט ציפורן ענף וקיטה רותמית.",
+      "locations": [
+        {
+          "location_name": "רוג'ום אל הירי",
+          "flowers": [
+            "אחילוף החורן",
+            "בן-חצב סתווני",
+             "ציפורן ענף",
+             "קיטה רותמית"
+          ],
+          "maps_query_location": "Rujm el-Hiri"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2010",
+       "observer": "מייק לבנה",
+      "original_text": "אחילוף החורן -- צמח נדיר ומיוחד -- התחיל זה עתה לפרוח בגולן.",
+       "locations": [
+        {
+          "location_name": "גולן",
+           "flowers": [
+            "אחילוף החורן"
+          ],
+           "maps_query_location":"Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "30/10/2010",
+       "observer": null,
+      "original_text": "נצפו בגבעות בין ראש העין לאלעד",
+      "locations": [
+        {
+          "location_name": "ראש העין",
+          "flowers": [
+            "נרקיס מצוי",
+            "סתוונית היורה"
+          ],
+           "maps_query_location":"Rosh HaAyin"
+        },
+        {
+          "location_name": "אלעד",
+          "flowers": [
+            "נרקיס מצוי",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "El'ad"
+        }
+      ]
+    }
+  ]
+}
+```

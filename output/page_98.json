@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/12/2022",
+      "observer": "אהרון גבע",
+      "original_text": "כלניות בודדות ואירוס ארץ ישראלי בגבעת הכורכר בנס ציונה",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר",
+          "flowers": ["כלנית", "אירוס ארץ ישראלי"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "נס ציונה",
+          "flowers": ["כלנית", "אירוס ארץ ישראלי"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2022",
+       "observer": "דורון אור",
+      "original_text": " 21.12.2022\nכלניות ראשונות על הגבעה, בשליש הראשון של הגבעה. מול צומת השבילים סמ\"ש אדום וכחול. הכניסה לדרך בורמה ליד מבנה צבעוני של מקורות על כביש 3",
+      "locations": [
+        {
+          "location_name": "חורבת שרישה",
+           "flowers": ["כלנית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "24/12/2022",
+      "observer": "David Brown",
+       "original_text": "דודא ראשון באזור מוחרקא",
+      "locations": [
+        {
+          "location_name": "מוחרקא",
+          "flowers": ["דודא"],
+          "maps_query_location": "Muhraqa"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2022",
+      "observer": "נועה",
+       "original_text": "טיילנו היום ביער צרעה. מקבצים יפים של נרקיסים, חלמוניות לבנות וגם רקפות. בעיקר בחלק השרוף.",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": ["נרקיס", "חלמונית לבנה", "רקפת"],
+           "maps_query_location": "Tzora Forest"
+        }
+      ]
+    },
+     {
+      "date": "23/12/2022",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "2 פרחים של לופית מצויה(״מטה אהרון״) פורחים ביער ראש העין.",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": ["לופית מצויה"],
+           "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2022",
+      "observer": "אלחנן נוסינסון",
+        "original_text": "בגןן לאומי עבדת פורחים:\nמרווה מצויה, זוגן השיח, מוריקה מבריקה בתחילת פריחה. בורות \nרמליה: ליד ומול הבורות פורח טבק השיח ומתנן שעיר.",
+      "locations": [
+         {
+          "location_name": "גן לאומי עבדת",
+          "flowers": ["מרווה מצויה", "זוגן השיח", "מוריקה מבריקה"],
+           "maps_query_location":"Avdat National Park"
+        },
+         {
+          "location_name": "בורות רמליה",
+          "flowers": ["טבק השיח", "מתנן שעיר"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "21/12/2022",
+      "observer": "דוד ח\"צ",
+       "original_text": "תחילת פריחת רקפות בגבעת הצבעונים במעגן מיכאל.",
+      "locations": [
+        {
+          "location_name": "גבעת הצבעונים",
+          "flowers": ["רקפת"],
+           "maps_query_location": null
+        },
+          {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Ma'agan Mikhael"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2022",
+       "observer": "אביטל טביב",
+        "original_text":"ממול לחורבת תנשמת, ישנם כמה מקבצים של רקפות יפות בין העצים.\nאגב, כל הנרקיסים שראינו באיזור סיימו את פריחתם והיו מיובשים ... ",
+      "locations": [
+         {
+           "location_name":"פארק יער שוהם",
+            "flowers": ["רקפת"],
+            "maps_query_location": "Shoham Forest Park"
+          },
+        {
+          "location_name": "חורבת תנשמת",
+           "flowers": ["רקפת"],
+            "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "20/12/2022",
+      "observer": "דוד ח\"צ",
+       "original_text": "פריחה מועטה ניצפת בתל חדיד",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": ["צללית הכלאיים"],
+           "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2022",
+       "observer": "דוד ח\"צ",
+        "original_text": "תחילת פריחת כלניות באזור יער אורן בכניסה מכביש 4 לכיוון בית אורן.\nפריטים מועטים... וגם בדרך הכניסה למלון יערות הכרמל.",
+      "locations": [
+        {
+          "location_name": "יער אורן",
+           "flowers": ["כלנית"],
+            "maps_query_location": "Oren Forest"
+        },
+         {
+          "location_name":"בית אורן",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Beit Oren"
+        },
+         {
+          "location_name": "מלון יערות הכרמל",
+          "flowers": ["כלנית"],
+           "maps_query_location": "Yarot Hacarmel Hotel"
+        }
+      ]
+    }
+  ]
+}
+```

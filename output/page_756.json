@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/12/2009",
+      "observer": null,
+      "original_text": "פריחת הנרקיסים בשיאה",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2009",
+      "observer": "גיורא",
+       "original_text": "די הרבה רקפות, התחלה של כלניות, ופרטים בודדים אבל מקסימים של עירית גדולה - ביער שבין בת-שלמה לאלייקים. עולים בדרך העפר אחרי המזנון שבתחנת הדלק, ימינה ב-T ואז שמאלה ו-ב-ז-ה-י-ר-ו-ת (אבנים! אבל עביר) למרחבים הירוקים שבעומק.",
+      "locations": [
+        {
+          "location_name": "בת שלמה",
+           "flowers": ["רקפת", "כלנית", "עירית גדולה"],
+          "maps_query_location": "Bat Shlomo"
+        },
+          {
+          "location_name": "אלייקים",
+           "flowers": ["רקפת", "כלנית", "עירית גדולה"],
+          "maps_query_location": "Elyakim"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2009",
+      "observer": null,
+      "original_text": "בחולות החוף באזור נתניה פורחים הצמחים הבאים:מרסיה יפיפיה, אלקנת הצבעים, מתנן שעיר, כלניות בודדות, רכפה מזרחית, כרוב החוף, צנון מצוי.",
+      "locations": [
+        {
+          "location_name": "נתניה",
+           "flowers": ["מרסיה יפיפיה", "אלקנת הצבעים", "מתנן שעיר", "כלנית", "רכפה מזרחית", "כרוב החוף", "צנון מצוי"],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2009",
+      "observer": "יובל עברון",
+      "original_text": "זלזלת הקנוקנות, חיננית הבתה, נרקיס מצוי, כרכום חורפי, נץ החלב ההררי. זהבית (השלוחות כנראה) סיכום של סיבוב קצר באיזור. לא הגעתי לאיזור היקינתונים כך שיחכו עד שבוע הבא",
+      "locations": [
+        {
+          "location_name": "מצפה נטופה",
+          "flowers": ["זלזלת הקנוקנות", "חיננית הבתה", "נרקיס מצוי", "כרכום חורפי", "נץ החלב ההררי", "זהבית"],
+           "maps_query_location": "Mitzpe Netofa"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2009",
+      "observer": "אילן טל",
+       "original_text": "פורחים בגן : רומוליאה צידונית , ערטנית השדות , כתמה עבת שרשים , חיננית הבתה , בצלציה א\"י , דודא רפואי , לופית מצויה , אירוס א\"י , נוניאה קהה , כלניות , רקפות ועוד . מוזמנים לבקר .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": ["רומוליאה צידונית", "ערטנית השדות", "כתמה עבת שרשים", "חיננית הבתה", "בצלציה א\"י", "דודא רפואי", "לופית מצויה", "אירוס א\"י", "נוניאה קהה", "כלנית", "רקפת"],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+     {
+      "date": "28/12/2009",
+      "observer": "יואב גרטמן",
+      "original_text": "צריך להיות חברי סשה מדווח לי.",
+      "locations": []
+    },
+    {
+      "date": "27/12/2009",
+       "observer": "יואב גרטמן משתלות יגור",
+      "original_text": "חברי  שסה  מדטטח לי על פריחת יקינטון  מזרחי בהר ניתאי. נמצא   צפונית לארבל  ובאותו גובה פחות או יותר.לכן סביר להניח שגם    בארבל ובואדי חמאם שבינהם כדאי לחפשו כבר עכשיו.",
+      "locations": [
+        {
+          "location_name": "הר ניתאי",
+            "flowers": ["יקינטון מזרחי"],
+          "maps_query_location": "Har Nitai"
+        },
+        {
+          "location_name": "ארבל",
+          "flowers": ["יקינטון מזרחי"],
+          "maps_query_location": "Arbel"
+        },
+         {
+          "location_name": "ואדי חמאם",
+           "flowers": ["יקינטון מזרחי"],
+          "maps_query_location": "Wadi Hamam"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2009",
+      "observer": null,
+       "original_text": "זלזלת הקנוקנות פורחת בנחל יתלה",
+      "locations": [
+        {
+          "location_name": "נחל יתלה",
+           "flowers": ["זלזלת הקנוקנות"],
+          "maps_query_location": "Nahal Yitla"
+        }
+      ]
+    },
+     {
+      "date": "26/12/2009",
+      "observer": "דוד פורת אפיקים",
+       "original_text":"פריחה מוקדמת של עשרות עשרות כלניות יפיפיות(בצבע אדום) בצמוד לחורבת זר ממערב לתל כיתן (מוצב צופיה לשעבר) צפון עמק בית שאן.  שבוע טוב",
+      "locations": [
+         {
+          "location_name": "חורבת זר",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Khurvat Zer"
+        },
+        {
+          "location_name": "תל כיתן",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location":"Tel Kitan"
+        },
+          {
+          "location_name": "עמק בית שאן",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Beit She'an Valley"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2009",
+      "observer": null,
+      "original_text": "בכרמל, בשבילים : נועם, וכל האזור הצפוני המוביל לכרם מהר\"ל ולמושב עופר.",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["זלזלת הקנוקנות"],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "נועם",
+           "flowers": ["זלזלת הקנוקנות"],
+           "maps_query_location": "No'am"
+        },
+        {
+           "location_name": "כרם מהרל",
+           "flowers": ["זלזלת הקנוקנות"],
+           "maps_query_location": "Kerem Maharal"
+        },
+         {
+          "location_name": "מושב עופר",
+           "flowers": ["זלזלת הקנוקנות"],
+           "maps_query_location": "Ofer"
+        }
+      ]
+    }
+  ]
+}
+```

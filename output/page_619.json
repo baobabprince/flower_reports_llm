@@ -1,0 +1,295 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/01/2013",
+      "observer": "שרה בן-שמן",
+      "original_text": "18-19,1,2013 טיול עם ליאור אנמר,נ-דימונה-ערוץ הנרקיסים,הר כמריר נ, חמר,נ,קדים,מאות נרקיסים פורחים במעלה הערוץ עד למעלה,צפורני חתול מצויות,מרוה מצרית,זהביות בהתחלת פריחה,ושלהבית מדבר,בשבת סביב אגם ירוחם והבמות נ,רביבים,נ, שועלים וגביו מלאי המים,מחרוזת משונצת,אצבוע אירופי,סתונית הנגב,בבונג זהוב,גרגריון ערבי, מנתור מדבר,גולנית ערבית,שכרון מדבר,עלים מסולסלים של חבצלת הנגב,אירית גדולה,שמשון הנגב, ומים מים בששון,",
+      "locations": [
+        {
+          "location_name": "דימונה",
+          "flowers": [
+            "Narcissus",
+            "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+             "Eremostachys laciniata",
+            "Carrichtera annua",
+            "Echium angustifolium",
+            "Colchicum deserti",
+             "Gynandriris sisyrinchium",
+             "Helianthemum vesicarium",
+            "Matthiola arabica",
+            "Gladiolus aleppicus",
+            "Schismus arabicus",
+            "Pancratium sickenbergeri",
+            "Iris palaestina",
+             "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Dimona"
+        },
+        {
+            "location_name": "הר כמריר",
+             "flowers": [
+              "Narcissus",
+              "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+            "Eremostachys laciniata",
+            "Carrichtera annua",
+            "Echium angustifolium",
+            "Colchicum deserti",
+             "Gynandriris sisyrinchium",
+             "Helianthemum vesicarium",
+            "Matthiola arabica",
+            "Gladiolus aleppicus",
+            "Schismus arabicus",
+            "Pancratium sickenbergeri",
+            "Iris palaestina",
+             "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Har Kamrir"
+        },
+        {
+            "location_name": "חמר",
+            "flowers": [
+              "Narcissus",
+              "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+            "Eremostachys laciniata",
+            "Carrichtera annua",
+            "Echium angustifolium",
+            "Colchicum deserti",
+            "Gynandriris sisyrinchium",
+            "Helianthemum vesicarium",
+            "Matthiola arabica",
+            "Gladiolus aleppicus",
+             "Schismus arabicus",
+            "Pancratium sickenbergeri",
+            "Iris palaestina",
+            "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Hamer"
+        },
+        {
+          "location_name": "קדים",
+          "flowers": [
+            "Narcissus",
+            "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+            "Eremostachys laciniata",
+             "Carrichtera annua",
+            "Echium angustifolium",
+             "Colchicum deserti",
+             "Gynandriris sisyrinchium",
+             "Helianthemum vesicarium",
+            "Matthiola arabica",
+             "Gladiolus aleppicus",
+            "Schismus arabicus",
+            "Pancratium sickenbergeri",
+            "Iris palaestina",
+             "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Qedem"
+        },
+        {
+            "location_name": "אגם ירוחם",
+             "flowers": [
+              "Narcissus",
+            "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+             "Eremostachys laciniata",
+            "Carrichtera annua",
+             "Echium angustifolium",
+             "Colchicum deserti",
+             "Gynandriris sisyrinchium",
+             "Helianthemum vesicarium",
+            "Matthiola arabica",
+             "Gladiolus aleppicus",
+             "Schismus arabicus",
+            "Pancratium sickenbergeri",
+             "Iris palaestina",
+             "Eremurus spectabilis"
+          ],
+          "maps_query_location": "Yeruham Lake"
+        },
+        {
+            "location_name": "רביבים",
+            "flowers": [
+              "Narcissus",
+            "Calendula arvensis",
+            "Salvia aegyptiaca",
+            "Sternbergia clusiana",
+            "Eremostachys laciniata",
+            "Carrichtera annua",
+            "Echium angustifolium",
+            "Colchicum deserti",
+             "Gynandriris sisyrinchium",
+             "Helianthemum vesicarium",
+            "Matthiola arabica",
+             "Gladiolus aleppicus",
+             "Schismus arabicus",
+            "Pancratium sickenbergeri",
+             "Iris palaestina",
+             "Eremurus spectabilis"
+            ],
+          "maps_query_location": "Revivim"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2013",
+      "observer": null,
+      "original_text": "אירוס הלבנון ורקפת יוונית פריחה מרהיבה בתוך שרידי השלג ברכס חזקה",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "Iris lortetii",
+            "Cyclamen graecum"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "17/01/2013",
+      "observer": null,
+      "original_text": "הרי הם הצמחים בסכנת הכחדה\nהקליקו לצפיה במיני-סייט החדש\n",
+       "locations": [],
+      "flowers": []
+    },
+   {
+      "date": "16/01/2013",
+      "observer": null,
+      "original_text": "יקינתון מזרחי, צנון פגיוני, כרמלית נאה, נץ-חלב איזמלני, ציפורני-חתול מצויות, סביון אביבי, חרדל, רקפת מצויה, עירית גדולה, ילקוט הרועים, לופית מצויה.",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": [
+            "Hyacinthus orientalis",
+             "Raphanus raphanistrum",
+             "Gagea dayana",
+            "Ornithogalum narbonense",
+             "Calendula arvensis",
+             "Senecio vernalis",
+            "Sinapis alba",
+             "Cyclamen persicum",
+             "Asphodelus aestivus",
+             "Capsella bursa-pastoris",
+            "Arisarum vulgare"
+          ],
+          "maps_query_location": "Karei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "14/01/2013",
+      "observer": "עירית",
+      "original_text": "בצלציות פורחות ברמת סירין. עוד פורחים- כלניות, רקפות, צפורני חתול, סביונים, זהביות, עיריות, ציפורניות מצרית ומגוונת.",
+      "locations": [
+        {
+          "location_name": "רמת סירין",
+          "flowers": [
+            "Bellevalia",
+            "Anemone coronaria",
+            "Cyclamen",
+            "Calendula arvensis",
+            "Senecio",
+             "Sternbergia clusiana",
+             "Asphodelus",
+              "Dianthus cyrenaicus",
+             "Dianthus tripunctatus"
+          ],
+          "maps_query_location": "Ramot Sirin"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2013",
+      "observer": "משה קופרברג",
+      "original_text": "אתמול בשמורת \"חרוצים\" היו הרבה כלניות . יש המון גבעולים של תורמוס  א\"י (לבן) אך עדיין אין פרחים. יש כמה כרכומים פה ושם . לא היה בוץ בשבילים. (אדמה חולית)",
+     "locations": [
+        {
+           "location_name": "שמורת חרוצים",
+          "flowers": [
+            "Anemone coronaria",
+            "Lupinus palaestinus",
+            "Crocus"
+            ],
+            "maps_query_location":"Harutzim Reserve"
+          }
+     ]
+    },
+    {
+      "date": "12/01/2013",
+      "observer": null,
+      "original_text": "הנרקיסים בשיא פריחה באחו נוב היינו והשתכרנו מהריח",
+       "locations": [
+        {
+           "location_name": "אחו נוב",
+          "flowers": [
+            "Narcissus"
+            ],
+            "maps_query_location":"Ahu Nov"
+          }
+      ]
+    },
+    {
+      "date": "12/01/2013",
+      "observer": null,
+      "original_text": "פורח בגן בגעש. בגן הלאומי חוף השרון נצפתה מרווה צמירה לבקנית",
+      "locations": [
+         {
+           "location_name": "געש",
+            "flowers": [
+              "Helianthemum"
+           ],
+           "maps_query_location": "Ga'ash"
+         },
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+            "Salvia lanigera"
+          ],
+          "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+   {
+      "date": "09/01/2013",
+      "observer": "עירית",
+      "original_text": "גביעונית הלבנון החלה לפרוח בנחל ראש פינה. עוד פורחים- רקפות, דודאים, כדנים.",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "Gagea libanotica",
+            "Cyclamen",
+            "Mandragora",
+            "Fritillaria"
+          ],
+          "maps_query_location":"Nahal Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2013",
+      "observer": null,
+      "original_text": "פורחות בגן הבוטני בגעש - ותודה לשמעון דדון על הזרעים",
+       "locations": [
+         {
+           "location_name": "געש",
+          "flowers": [
+              "Calendula arvensis"
+           ],
+           "maps_query_location":"Ga'ash"
+          }
+        ]
+      }
+  ]
+}
+```

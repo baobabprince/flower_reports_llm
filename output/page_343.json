@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/08/2018",
+      "observer": "ר.ס",
+      "original_text": "היום ראינו חצבים פורחים למרגלות הר אבנון מעל המכתש הגדול",
+      "locations": [
+        {
+          "location_name": "הר אבנון",
+           "flowers": ["חצב מצוי"],
+           "maps_query_location": "Har Avnon"
+        },
+         {
+          "location_name": "המכתש הגדול",
+           "flowers": ["חצב מצוי"],
+            "maps_query_location": "HaMakhtesh HaGadol"
+        }
+      ]
+    },
+    {
+      "date": "22/08/2018",
+      "observer": "דורית קלנר",
+      "original_text": "פריחה יפה של חבצלת החוף ונר הלילה החופי",
+      "locations": [
+        {
+          "location_name": "אשדוד",
+          "flowers": ["חבצלת החוף", "נר הלילה החופי"],
+          "maps_query_location": "Ashdod"
+        }
+      ]
+    },
+    {
+      "date": "21/08/2018",
+      "observer": null,
+      "original_text": "קייצנית כריתית, ציפורן נקוד , עופרית אירופית ,",
+       "locations": [
+        {
+          "location_name": "מודיעין",
+          "flowers": ["קייצנית כריתית", "ציפורן נקוד", "עופרית אירופית"],
+           "maps_query_location": "Modi'in"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2018",
+      "observer": "יעל צק",
+       "original_text": "פריחת חבצלת החוף בחוף הצפוני של אשקלון, על הצוק.   14.8.18",
+      "locations": [
+        {
+          "location_name": "אשקלון",
+          "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Ashkelon"
+        }
+      ]
+    },
+     {
+      "date": "20/08/2018",
+      "observer": null,
+        "original_text": "צילומים נועם עביצל - ראו בקישור",
+       "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": [],
+          "maps_query_location": "Ramat HaNadiv"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2018",
+      "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": [
+         {
+          "location_name": null,
+           "flowers": ["חצב מצוי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "20/08/2018",
+       "observer": null,
+      "original_text": "כבר החלו לפרוח בתל יודפת !! וגם בן קוצן מאפיר",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": ["חצב מצוי", "בן קוצן מאפיר"],
+           "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+     {
+      "date": "16/08/2018",
+      "observer": null,
+        "original_text": "בצידי כביש שש מתרומממים בימים אלה חצבים. ליד מחלף דניאל ליד טירה ועוד",
+      "locations": [
+         {
+          "location_name": "מחלף דניאל",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Daniel Interchange"
+        },
+         {
+          "location_name": "טירה",
+          "flowers": ["חצב מצוי"],
+          "maps_query_location": "Tira"
+        }
+      ]
+    },
+    {
+      "date": "14/08/2018",
+      "observer": "עמיר פז",
+      "original_text": "קיצנית אשכולית פורחת בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": ["קיצנית אשכולית"],
+          "maps_query_location": "Gan HaNedarim"
+        }
+      ]
+    },
+     {
+      "date": "11/08/2018",
+       "observer": null,
+      "original_text": "ליד אנדרטת האריה השואג",
+       "locations": [
+        {
+          "location_name": "כפר גלעדי",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Kfar Giladi"
+        }
+      ]
+    }
+  ]
+}
+```

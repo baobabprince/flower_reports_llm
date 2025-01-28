@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/12/2014",
+      "observer": null,
+      "original_text": "אכסף מבריק התחיל לפרוח, דבורנית שחומה, הרבה רומולאה צידונית, איריס א\"י, קידה שעירה, כרמלית נאה , זמזומית מצויה, חינניות וכתמות עדין פורחות, כלניות, עיריות, סביון אביבי, זלזלת הקנוקנות, דלעת הנחש הסורית וספלול מטפס ופרח ראשון של לוטם שעיר וגם לוטם מרווני",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["אכסף מבריק", "דבורנית שחומה", "רומולאה צידונית", "איריס ארץ ישראלי", "קידה שעירה", "כרמלית נאה", "זמזומית מצויה", "חיננית", "כתמה", "כלנית", "עירית", "סביון אביבי", "זלזלת הקנוקנות", "דלעת הנחש הסורית", "ספלול מטפס", "לוטם שעיר", "לוטם מרווני"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "31/12/2014",
+      "observer": null,
+      "original_text": "חלקן במלוא הפריחה בבוסתני גמזו",
+        "locations": [
+        {
+          "location_name": "גמזו",
+            "flowers": ["שקד"],
+          "maps_query_location": "Gamzu"
+        }
+      ]
+    },
+    {
+      "date": "30/12/2014",
+      "observer": null,
+      "original_text": "כלניות לבנות אדומות וורודות מאות ואלפים. נכנסים דרך אזור התעשייה שלא מועצה אזורית חבל מודיעין",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+           "flowers": ["כלנית לבנה", "כלנית אדומה", "כלנית ורודה"],
+          "maps_query_location": "Shoham Forest"
+        },
+         {
+          "location_name": "חבל מודיעין",
+           "flowers": ["כלנית לבנה", "כלנית אדומה", "כלנית ורודה"],
+          "maps_query_location": "Hevel Modi'in"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2014",
+      "observer": "אלי ליבנה",
+       "original_text": "בסיור לשומרי הגבעות בנס ציונה\nבתאריך: 26 דצמבר 2014\nנצפו פריחות של כתמה עבת שורשים, מרסיה יפייפיה, רותם המדבר, איריס הארגמן פרח ראשון וניצן, תודה",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+            "flowers": ["כתמה עבת שורשים", "מרסיה יפהפיה", "רותם המדבר", "איריס הארגמן"],
+          "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2014",
+      "observer": null,
+      "original_text": "שמורת נחל פרת - 27-12-14 - צומח בהמוניו על המצוקים הסלעיים",
+      "locations": [
+        {
+          "location_name": "שמורת נחל פרת",
+          "flowers": ["בצלציה ארצישראלית"],
+          "maps_query_location": "Nahal Prat Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2014",
+      "observer": null,
+      "original_text": "לקראת סוף פריחת אירוסי סרגל .פריחת רומולאה סגלולית , כרכום חורפי בסוף פריחה.דודא רפואי, כלנית מצויה .",
+      "locations": [
+         {
+          "location_name": "עפרה",
+          "flowers": ["אירוס הסרגל", "רומולאה סגלולית", "כרכום חורפי", "דודא רפואי", "כלנית מצויה"],
+          "maps_query_location": "Ofra"
+        }
+      ]
+    },
+     {
+      "date": "28/12/2014",
+      "observer": "אוקנין יחיאל",
+       "original_text": "חלבלוב השיח גדל וצומח גם בסטלה מאריס ולא רק בנחל שיח",
+       "locations": [
+         {
+          "location_name": "סטלה מאריס",
+           "flowers": ["חלבלוב השיח"],
+          "maps_query_location": "Stella Maris"
+        },
+          {
+          "location_name": "נחל שיח",
+           "flowers": ["חלבלוב השיח"],
+          "maps_query_location": "Nahal Shiah"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2014",
+      "observer": null,
+      "original_text": "נרקיסים ממשיכים לבשם את המגיעים למקומות הנ\"ל:\nנחל חצץ, שמורת נוב, צפון תל אביב ...",
+     "locations": [
+         {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        },
+        {
+          "location_name": "שמורת נוב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nov Nature Reserve"
+        },
+         {
+          "location_name": "תל אביב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Tel Aviv"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2014",
+       "observer": null,
+       "original_text":"לפני שבוע  21.12.14 היו מאות כלניות שפרחו עדין רחוק משיא הפריחה אבל יש מגוון צבעים מצורפת קישורית טיול קל ומהנה מתאים גם לנכים אבנר 052 3351549 לא בשבת",
+        "locations": [
+        {
+          "location_name": "מינחת מגידו",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo Airstrip"
+        }
+      ]
+    },
+    {
+      "date": "28/12/2014",
+      "observer": null,
+      "original_text": "בגבעות הכורכר של נס ציונה לא מעט שיחי רותם כבר פורחים. כמו כן עשרות כלניות. יש עוד זמן לשיא.",
+         "locations": [
+        {
+          "location_name": "גבעות נס ציונה",
+            "flowers": ["רותם המדבר", "כלנית"],
+          "maps_query_location": "Ness Ziona Hills"
+        }
+      ]
+    }
+  ]
+}
+```

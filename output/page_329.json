@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/12/2018",
+      "observer": null,
+      "original_text": "צפו באלבום",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["דודא רפואי"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "08/12/2018",
+      "observer": "eran nir",
+        "original_text": "יפרוקהמדבר פורח במלוא הדרו בנחל בוקק\nהבוקר 8.12.18",
+        "locations": [
+        {
+          "location_name": "נחל בוקק",
+          "flowers": ["יפרוק המדבר"],
+           "maps_query_location": "Nahal Bokek"
+         }
+        ]
+    },
+     {
+      "date": "06/12/2018",
+      "observer": null,
+       "original_text":"מרסיה זעירה פורחת בגן",
+       "locations": [
+         {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["מרסיה זעירה"],
+           "maps_query_location": null
+        }
+      ]
+     },
+     {
+      "date": "06/12/2018",
+      "observer": null,
+      "original_text": "פורחת בבורות לוץ (נגב).",
+       "locations": [
+         {
+           "location_name": "בורות לוץ",
+           "flowers": ["סתוונית הרמון"],
+           "maps_query_location": "Borot Lotz"
+        },
+        {
+           "location_name":"נגב",
+           "flowers":["סתוונית הרמון"],
+           "maps_query_location": "Negev"
+        }
+        ]
+    },
+    {
+       "date": "06/12/2018",
+       "observer": null,
+       "original_text":"וגם: חבצלת הנגב מפזרת פירות, ויפרוק המדבר.",
+        "locations": [
+         {
+           "location_name": "ממשית",
+           "flowers": ["אחילוף זעיר", "חבצלת הנגב", "יפרוק המדבר"],
+           "maps_query_location": "Mamshit"
+         },
+        {
+          "location_name": "נגב צפוני",
+          "flowers": ["אחילוף זעיר", "חבצלת הנגב", "יפרוק המדבר"],
+          "maps_query_location": "Northern Negev"
+         }
+        ]
+      },
+     {
+       "date": "06/12/2018",
+        "observer": null,
+        "original_text": "פורח בפסגות 5.12.18",
+        "locations":[
+          {
+            "location_name":"חרמון",
+            "flowers":["כרכום החרמון"],
+             "maps_query_location":"Mount Hermon"
+           }
+         ]
+      },
+      {
+        "date": "06/12/2018",
+        "observer": null,
+         "original_text": "",
+          "locations": [
+            {
+              "location_name": "מישור אדומים",
+              "flowers": ["סתוונית טוביה"],
+              "maps_query_location": "Mishor Adumim"
+            }
+          ]
+      },
+      {
+        "date": "05/12/2018",
+        "observer": "מיכאל לרנר",
+         "original_text": "נרקיסים ברכס התותחים עד מגדל התצפית: יש ריכוזים יפים ולפעמים ריח באוויר בעיקר ליד המשלטים, בגבים ליד מצפור איילון ולאורך הסינגל השחור והדרך האדומה למגדל התצפית, אך יש הרבה נבולים והדרך האדומה מלאה ערימות גזם אורנים.\nשקדיות: פריחה דלילה בהרבה עצים.\nכליל חורש אחד למרגלות חורבת עקד.\nלאורך הסינגל ההאדום: נרקיסים כנל בעיקר ליד המשלטים, כרכומים, זוטה לבנה, זלזלת הקנוקנות וכתמה כל אלה מדי פעם לאורך השביל בעיקר בעליה מעיינות איילון למצפור.",
+          "locations": [
+           {
+             "location_name": "פארק איילון",
+             "flowers": ["נרקיס","שקד","כליל החורש","כרכום", "זוטה לבנה", "זלזלת הקנוקנות", "כתמה"],
+              "maps_query_location": "Ayalon Park"
+           },
+           {
+            "location_name": "רכס התותחים",
+            "flowers": ["נרקיס"],
+             "maps_query_location": null
+          },
+          {
+            "location_name": "מגדל התצפית",
+             "flowers": ["נרקיס"],
+            "maps_query_location": null
+          },
+           {
+            "location_name": "המשלטים",
+            "flowers": ["נרקיס","כרכום", "זוטה לבנה", "זלזלת הקנוקנות", "כתמה"],
+             "maps_query_location": null
+          },
+           {
+             "location_name": "מצפור איילון",
+             "flowers": ["נרקיס", "כרכום", "זוטה לבנה", "זלזלת הקנוקנות", "כתמה"],
+             "maps_query_location": null
+           },
+             {
+            "location_name": "חורבת עקד",
+             "flowers": ["כליל החורש"],
+             "maps_query_location": null
+          },
+          {
+              "location_name":"עיינות איילון",
+              "flowers": ["נרקיס","כרכום", "זוטה לבנה", "זלזלת הקנוקנות", "כתמה"],
+              "maps_query_location": null
+            }
+          ]
+      },
+      {
+        "date":"04/12/2018",
+        "observer": "מיכאל לרנר",
+        "original_text": "נרקיסים אחרי השיא. כרכומים בשיא, ביכורי רקפות ושקדיות וכן חינניות, כתמה, ציפורני חתול וסביונים.",
+          "locations": [
+             {
+                "location_name": "יער בן שמן",
+               "flowers": ["נרקיס", "כרכום", "רקפת", "שקד", "חיננית", "כתמה", "ציפורני חתול", "סביון"],
+                "maps_query_location": "Ben Shemen Forest"
+            }
+          ]
+       },
+     {
+      "date": "03/12/2018",
+      "observer": null,
+      "original_text": "פורחות באנדרטת הנגב , ראו קישור",
+      "locations": [
+         {
+            "location_name": "אנדרטת הנגב",
+             "flowers": ["סתוונית טוביה"],
+            "maps_query_location": null
+          }
+        ]
+    }
+  ]
+}
+```

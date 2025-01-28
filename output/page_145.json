@@ -1,0 +1,162 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/02/2022",
+      "observer": "גלי פז",
+      "original_text": "החלה פריחה של אירוסים בודדים, המפוזרים על הגבעה. ניצנים רבים עדיין לא פרחו. מסביב פריחת הרותם בשיאה",
+      "locations": [
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": [
+            "אירוס",
+            "רותם"
+          ],
+           "maps_query_location": "Givat Humra"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2022",
+       "observer": null,
+      "original_text": "רקפות, כלניות, סחלב השקיק, איריס א\"י, נזמית ועוד",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "רקפת",
+            "כלנית",
+            "סחלב השקיק",
+            "איריס ארץ-ישראלי",
+            "נזמית"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2022",
+      "observer": null,
+      "original_text": "גביעונית הלבנון, זהבית, צנון פגיוני ועוד ועוד , ראו באלבום המקושר",
+       "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+            "גביעונית הלבנון",
+             "זהבית",
+            "צנון פגיוני"
+          ],
+           "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2022",
+      "observer": null,
+      "original_text": "פורח בכפר יהשע- יקנעם ובאחו נב",
+      "locations": [
+         {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "אירוס הביצות"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        },
+        {
+          "location_name": "יקנעם",
+           "flowers": [
+            "אירוס הביצות"
+          ],
+          "maps_query_location": "Yokneam"
+        },
+         {
+          "location_name": "אחו נב",
+           "flowers": [
+            "אירוס הביצות"
+          ],
+           "maps_query_location": "Ahu Nav"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2022",
+       "observer": null,
+      "original_text": "צבעוני ההרים החל לפרוח בשמורת מעגן מיכאל, עוד מעט גם בהבונים...",
+      "locations": [
+        {
+          "location_name": "שמורת מעגן מיכאל",
+           "flowers": [
+            "צבעוני ההרים"
+          ],
+          "maps_query_location": "Ma'agan Michael Nature Reserve"
+        },
+          {
+          "location_name": "הבונים",
+          "flowers": [
+            "צבעוני ההרים"
+          ],
+          "maps_query_location": "HaBonim"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2022",
+       "observer": null,
+      "original_text": "שאלות וכל השאר הפנו למייל האתר",
+      "locations": []
+    },
+    {
+      "date": "15/02/2022",
+      "observer": "גאולה בן אליהו",
+      "original_text": "האם התחילה פריחת צבעונים?",
+      "locations": [],
+       "flowers": [
+            "צבעוני"
+          ]
+    },
+    {
+      "date": "15/02/2022",
+      "observer": "אורנה ניסן",
+      "original_text": "התחלה של פריחת שקדיות בדרך לירושלים, באזור שער הגיא, כביש 1 , בדרך לת''א",
+       "locations": [
+         {
+          "location_name": "שער הגיא",
+          "flowers": [
+            "שקד"
+          ],
+           "maps_query_location": "Sha'ar HaGai"
+         }
+      ]
+    },
+    {
+      "date": "15/02/2022",
+      "observer": "יוסף כהן",
+      "original_text": "בתל שוכה התחילה פריחת כלניות,תורמוסים,עירית גדולה ושפע סביונים",
+      "locations": [
+        {
+          "location_name": "תל שוכה",
+          "flowers": [
+            "כלנית",
+            "תורמוס",
+            "עירית גדולה",
+             "סביון"
+          ],
+           "maps_query_location": "Tel Shokha"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2022",
+      "observer": null,
+      "original_text": "האזכרה ליואב גרטמן ע\"ה\nתתקיים  ביגור ביום חמישי השלושה למרץ\nבשעה 17.00 עלייה לקבר\nב18.00 אזכרה  במועדון",
+       "locations": [
+         {
+          "location_name": "יגור",
+          "flowers": [],
+           "maps_query_location": "Yagur"
+         }
+      ]
+    }
+  ]
+}
+```

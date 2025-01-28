@@ -1,0 +1,454 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/05/2016",
+      "observer": "שרה סלפק",
+      "original_text": "מנבי חזורי ונחל חזורי עליה לקלעת נמרוד וירידה לבניאס,לוטם שעיר,מישויה פעמונית,ארנין ההרים,קערורית סגולה,קרקש קיליקי,דם מכבים אדום,שושנתית הלבנון,דרדר גדול פרחים,בר גביע קוצני,שלחופן קרומי, קרקפן צהוב-דרדרת צהובה,עכנאי מגובב,שרה סלפק מושב בן-שמן",
+      "locations": [
+        {
+          "location_name": "נבי חזורי",
+          "flowers": [
+            "Cistus incanus",
+             "Campanula hierosolymitana",
+            "Eryngium glomeratum",
+            "Scrophularia xanthoglossa",
+             "Carlina libanotica",
+            "Adonis palaestina",
+             "Tulipa agenensis",
+             "Centaurea hyalolepis",
+            "Echinops gaillardotii",
+            "Colchicum tunicatum",
+             "Crepis aculeata",
+             "Echium glomeratum"
+          ],
+          "maps_query_location": "Nabi Hazuri"
+        },
+        {
+          "location_name": "נחל חזורי",
+           "flowers": [
+            "Cistus incanus",
+             "Campanula hierosolymitana",
+            "Eryngium glomeratum",
+            "Scrophularia xanthoglossa",
+             "Carlina libanotica",
+            "Adonis palaestina",
+             "Tulipa agenensis",
+             "Centaurea hyalolepis",
+            "Echinops gaillardotii",
+            "Colchicum tunicatum",
+             "Crepis aculeata",
+             "Echium glomeratum"
+          ],
+          "maps_query_location": "Nahal Hazuri"
+         },
+        {
+          "location_name": "קלעת נמרוד",
+          "flowers": [
+           "Cistus incanus",
+             "Campanula hierosolymitana",
+            "Eryngium glomeratum",
+            "Scrophularia xanthoglossa",
+             "Carlina libanotica",
+            "Adonis palaestina",
+             "Tulipa agenensis",
+             "Centaurea hyalolepis",
+            "Echinops gaillardotii",
+            "Colchicum tunicatum",
+             "Crepis aculeata",
+             "Echium glomeratum"
+           ],
+            "maps_query_location": "Qalaat Nimrod"
+        },
+          {
+          "location_name": "בניאס",
+          "flowers": [
+           "Cistus incanus",
+             "Campanula hierosolymitana",
+            "Eryngium glomeratum",
+            "Scrophularia xanthoglossa",
+             "Carlina libanotica",
+            "Adonis palaestina",
+             "Tulipa agenensis",
+             "Centaurea hyalolepis",
+            "Echinops gaillardotii",
+            "Colchicum tunicatum",
+             "Crepis aculeata",
+             "Echium glomeratum"
+           ],
+            "maps_query_location": "Banias"
+        }
+      ]
+    },
+    {
+      "date": "07/05/2016",
+      "observer": "שרה סלפק",
+     "original_text": "7,5,2016 ברכת מן,נ,ערער,סובב הר כחל עליה להר כחל והמכרות עליה להר סנאים והמקדש היטורי,ירידה לנווה-אטיב,שלטה צרת עלים,כחלית ההרים,ורד דביק,פרגה קרחת,פרג מאורך,אוג הבורסקאים,צפורנית הלבנון וענפה,אלון שסוע,ויקיה צרת עלים,יערה איטלקית,זעזועית משובלת,פריחה מרהיבה של עצי הלבנה רפואי,ערער גלעיני,שום עגול,ספלול ססגוני,תגית קיצית,ואי,נוציץ מנוצה,אבובית מקורקפת,טורית רפה,שחליים דוקרניים,צלע השור הקטנה,אריסימון תמים,קרקפן נמוך,חבלבל איטלקי,הרדופנין הציצית,סיפן התבואה,ארביס נאה ואביבי,תלתן הארגמן,בואסיה,לביד,כדורים,חקלאי והדור,שרה סלפק מושב בן-שמן",
+      "locations": [
+        {
+          "location_name": "ברכת מן",
+          "flowers": [
+            "Juniperus",
+            "Silene linearifolia",
+            "Helianthemum vesicarium",
+            "Papaver glaucum",
+            "Pistacia palaestina",
+             "Dianthus libanotis",
+            "Quercus calliprinos",
+            "Vicia angustifolia",
+            "Lonicera etrusca",
+            "Gagea reticulata",
+             "Betula pendula",
+            "Juniperus drupacea",
+             "Allium rotundum",
+             "Onobrychis crista-galli",
+            "Coleostephus myconis",
+             "Aizoon canariense",
+              "Aristolochia parvifolia",
+              "Torilis leptophylla",
+              "Sarcopoterium spinosum",
+             "Tordylium aegyptiacum",
+            "Cyclamen persicum",
+            "Carlina pygmaea",
+            "Convolvulus sabatius",
+            "Nerium oleander",
+             "Gladiolus italicus",
+            "Arabis verna",
+             "Trifolium incarnatum",
+               "Verbascum",
+               "Globularia",
+               "Echinophora"
+          ],
+          "maps_query_location": "Birket Man"
+        },
+           {
+          "location_name": "הר כחל",
+            "flowers": [
+              "Juniperus",
+            "Silene linearifolia",
+            "Helianthemum vesicarium",
+            "Papaver glaucum",
+            "Pistacia palaestina",
+             "Dianthus libanotis",
+            "Quercus calliprinos",
+            "Vicia angustifolia",
+            "Lonicera etrusca",
+            "Gagea reticulata",
+             "Betula pendula",
+            "Juniperus drupacea",
+             "Allium rotundum",
+             "Onobrychis crista-galli",
+            "Coleostephus myconis",
+             "Aizoon canariense",
+              "Aristolochia parvifolia",
+              "Torilis leptophylla",
+              "Sarcopoterium spinosum",
+             "Tordylium aegyptiacum",
+            "Cyclamen persicum",
+            "Carlina pygmaea",
+            "Convolvulus sabatius",
+             "Nerium oleander",
+             "Gladiolus italicus",
+            "Arabis verna",
+             "Trifolium incarnatum",
+             "Verbascum",
+               "Globularia",
+               "Echinophora"
+           ],
+          "maps_query_location": "Har Kahal"
+        },
+        {
+           "location_name": "הר סנאים",
+           "flowers": [
+              "Juniperus",
+            "Silene linearifolia",
+            "Helianthemum vesicarium",
+            "Papaver glaucum",
+            "Pistacia palaestina",
+             "Dianthus libanotis",
+            "Quercus calliprinos",
+            "Vicia angustifolia",
+            "Lonicera etrusca",
+            "Gagea reticulata",
+             "Betula pendula",
+            "Juniperus drupacea",
+             "Allium rotundum",
+             "Onobrychis crista-galli",
+            "Coleostephus myconis",
+             "Aizoon canariense",
+              "Aristolochia parvifolia",
+              "Torilis leptophylla",
+              "Sarcopoterium spinosum",
+             "Tordylium aegyptiacum",
+            "Cyclamen persicum",
+            "Carlina pygmaea",
+            "Convolvulus sabatius",
+            "Nerium oleander",
+             "Gladiolus italicus",
+            "Arabis verna",
+             "Trifolium incarnatum",
+             "Verbascum",
+               "Globularia",
+               "Echinophora"
+           ],
+          "maps_query_location": "Har Sena'im"
+        },
+         {
+          "location_name": "נווה אטיב",
+            "flowers": [
+              "Juniperus",
+            "Silene linearifolia",
+            "Helianthemum vesicarium",
+            "Papaver glaucum",
+            "Pistacia palaestina",
+             "Dianthus libanotis",
+            "Quercus calliprinos",
+            "Vicia angustifolia",
+            "Lonicera etrusca",
+            "Gagea reticulata",
+             "Betula pendula",
+            "Juniperus drupacea",
+             "Allium rotundum",
+             "Onobrychis crista-galli",
+            "Coleostephus myconis",
+             "Aizoon canariense",
+              "Aristolochia parvifolia",
+              "Torilis leptophylla",
+              "Sarcopoterium spinosum",
+             "Tordylium aegyptiacum",
+            "Cyclamen persicum",
+            "Carlina pygmaea",
+            "Convolvulus sabatius",
+            "Nerium oleander",
+             "Gladiolus italicus",
+            "Arabis verna",
+             "Trifolium incarnatum",
+              "Verbascum",
+               "Globularia",
+               "Echinophora"
+           ],
+          "maps_query_location": "Neve Ativ"
+        }
+      ]
+    },
+     {
+      "date": "07/05/2016",
+      "observer": "מיכל יקואל",
+      "original_text": "היום 7.5 פריחה ניפלאה של השושן הצחור",
+        "locations": [
+        {
+          "location_name": "קרן ברתות",
+          "flowers": [
+            "Lilium candidum"
+          ],
+           "maps_query_location": "Qeren Barot"
+         }
+        ]
+    },
+     {
+      "date": "07/05/2016",
+      "observer": null,
+      "original_text": "השושן הצחור פורח בקרן ברתות7.5.16.במלוא תפארתו",
+      "locations": [
+        {
+          "location_name": "קרן ברתות",
+          "flowers": [
+             "Lilium candidum"
+          ],
+           "maps_query_location": "Qeren Barot"
+         }
+      ]
+    },
+    {
+      "date": "05/05/2016",
+       "observer": null,
+      "original_text": "שביל 4X4 שחור מגיע לבר בהר: זנב- כלב , שמשון אזוביוני, דבורניות גדולות, לוטוס יהודה, כמנון קיפח, שבת ריחני, כנפה חרוקה, געדה כריתית , חוחן הקנרס, חסה כחולת פרחים, חוטמית זיפנית, לוטמית, לוטם שעיר,  צתרה ורודה",
+      "locations": [
+        {
+          "location_name": "בר בהר",
+          "flowers": [
+            "Cynoglossum creticum",
+            "Phlomis kurdica",
+             "Ophrys",
+            "Lotus judaicus",
+            "Cuminum cyminum",
+           "Salvia dominica",
+             "Thapsia garganica",
+            "Teucrium creticum",
+           "Notobasis syriaca",
+            "Lactuca acanthifolia",
+            "Alcea setosa",
+           "Cistus",
+              "Cistus incanus",
+             "Satureja thymbra"
+          ],
+            "maps_query_location": "Bar Bahar"
+        }
+      ]
+    },
+       {
+      "date": "05/05/2016",
+      "observer": null,
+     "original_text": "שום גבוה, לוטם  שעיר , אחירותם, געדה כרתית, גדעה מצויה, געדה מפוסקת , שום האבקנים צתרה ורודה, אצבוע אירופי",
+      "locations": [
+         {
+          "location_name": "הר יעלה",
+          "flowers": [
+             "Allium ampeloprasum",
+               "Cistus incanus",
+             "Spartium junceum",
+            "Teucrium creticum",
+              "Coronilla scorpioides",
+              "Teucrium divaricatum",
+              "Allium trifoliatum",
+            "Satureja thymbra",
+            "Dactylorhiza romana"
+          ],
+            "maps_query_location": "Har Ya'ala"
+        },
+        {
+           "location_name": "מערת הנטיפים",
+            "flowers": [
+             "Allium ampeloprasum",
+               "Cistus incanus",
+             "Spartium junceum",
+            "Teucrium creticum",
+              "Coronilla scorpioides",
+              "Teucrium divaricatum",
+              "Allium trifoliatum",
+            "Satureja thymbra",
+            "Dactylorhiza romana"
+          ],
+           "maps_query_location": "Me'arat HaNetifim"
+         }
+      ]
+    },
+    {
+       "date": "05/05/2016",
+        "observer": null,
+       "original_text": "שלמון יפו, חבלבלים: שעיר, השגה, והשיח בגוונים שונים, עולש , מעוגג אפיל, נירית הקמה , צלף קוצני",
+        "locations": [
+        {
+          "location_name": "יער בן-שמן",
+          "flowers": [
+            "Heterotropa asarifolia",
+            "Convolvulus",
+            "Cichorium intybus",
+            "Arisarum vulgare",
+            "Mercurialis annua",
+           "Capparis spinosa"
+          ],
+            "maps_query_location": "Ya'ar Ben Shemen"
+        }
+      ]
+    },
+       {
+      "date": "03/05/2016",
+       "observer": null,
+      "original_text": "שלהבית דביקה, געדה מפוסקת, פעמונית קיפחת, ורד הכלה דבורניות גדולות ועוד",
+      "locations": [
+        {
+          "location_name": "הרי ירושלים",
+           "flowers": [
+            "Phlomis viscosa",
+            "Teucrium divaricatum",
+            "Campanula strigosa",
+            "Rosa hybrida",
+            "Ophrys"
+          ],
+          "maps_query_location": "Harei Yerushalayim"
+        }
+      ]
+    },
+     {
+      "date": "01/05/2016",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "רשימת פרחים במסלול   תאריך: 27  אפריל 2016\nמסלול: נווה עובד פוריה טבריה – צומת גולני\nמשתתפים: אורי שטיין, אורי אשכר, אבינעם דמארי, אתי אייזנרייך, זלמן באומל,  יהודה מרתה, אלי ליבנה - ELV\nפוריה:  חבלבל שעיר, דרדר קיפח, חלבלוב ארם צובא, צלע שור קטנה.\nפוריה מגרש הכדורסל:   בלוטנית אפריקנית, נירית הקמה, מטיסלקה מדברית,  צפורן חד שנתי,  גביעול אשון, שום קצר תת מין א\"י, שום האבקנים, שום קטוע. \nכביש 65 צומת גולני: נץ חלה חום, מרוות אייג, מרוות יהודה, מרווה מנוצה, שלהבית הגליל, פילגון, שלהבית הגלגל, עפעפית שרועה, אספסת, שום האבקנים, שום הגלגל, שום ירקרק, חבלבל גלוני, מעוג מנוקד, דרבנית סגולה, דורבנית התבור, חלבלוב ארם צובא, בת חלמית שרועה, פשתת המכבד, פשתה מצויה.",
+       "locations": [
+          {
+          "location_name": "נווה עובד",
+          "flowers": [
+           "Convolvulus",
+            "Centaurea procurrens",
+             "Euphorbia macroclada",
+             "Tordylium aegyptiacum"
+            ],
+             "maps_query_location": "Neve Oved"
+        },
+        {
+          "location_name": "פוריה",
+          "flowers": [
+            "Convolvulus",
+            "Centaurea procurrens",
+             "Euphorbia macroclada",
+             "Tordylium aegyptiacum"
+          ],
+           "maps_query_location": "Poriya"
+        },
+        {
+          "location_name": "פוריה מגרש הכדורסל",
+          "flowers": [
+            "Phygelia capensis",
+            "Mercurialis annua",
+             "Matthiola deserti",
+            "Dianthus pendulus",
+            "Geocaryum syriacum",
+              "Allium curtum",
+              "Allium trifoliatum",
+             "Allium obtusiflorum"
+          ],
+           "maps_query_location": "Poriya"
+        },
+           {
+          "location_name": "צומת גולני",
+           "flowers": [
+            "Picris hieracioides",
+             "Salvia aethiopis",
+             "Salvia judaica",
+             "Salvia pinnata",
+            "Phlomis galilaea",
+            "Teucrium polium",
+              "Phlomis rotata",
+             "Anagallis arvensis",
+             "Medicago",
+               "Allium trifoliatum",
+             "Allium rotundum",
+               "Allium neapolitanum",
+               "Convolvulus glomeratus",
+             "Arisarum vulgare",
+              "Consolida orientalis",
+             "Delphinium ithaburense",
+            "Euphorbia macroclada",
+              "Malva parviflora",
+            "Linum pubescens",
+             "Linum strictum"
+           ],
+          "maps_query_location": "Golan Junction"
+        }
+      ]
+    },
+      {
+      "date": "28/04/2016",
+       "observer": null,
+     "original_text": "בסיור ברמת הגולן נצפו : אנטינוריית האיים,נורית קושטא,חודיים מנוצים,מתקה טובענית,חרחבינה טובענית,אלטין הדורים,זון פרסי,גודיניה שבירה,ובשנית עדינה.",
+      "locations": [
+        {
+          "location_name": "רמת הגולן",
+          "flowers": [
+            "Antinoria insularis",
+             "Ranunculus kotschyi",
+            "Lomatogonium carinthiacum",
+            "Samolus valerandi",
+            "Berula erecta",
+             "Elatine hydropiper",
+             "Zannichellia pedunculata",
+             "Gudinia fragilis",
+               "Kickxia elatine"
+          ],
+           "maps_query_location": "Ramat Hagolan"
+        }
+      ]
+    }
+  ]
+}
+```

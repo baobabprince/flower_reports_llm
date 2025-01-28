@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/04/2021",
+      "observer": "דוד פורת",
+      "original_text": "מרווה מנוצה דרום הגולן מעל נחל מיצר ואשר חשוב לעדכן מפות תפוצה – היא מתבססת בגולן מזה שנים אחדות דוד פורת אפיקים",
+      "locations": [
+        {
+          "location_name": "דרום הגולן",
+          "flowers": ["מרווה מנוצה"],
+           "maps_query_location": "Southern Golan Heights"
+        },
+        {
+          "location_name": "נחל מיצר",
+          "flowers": ["מרווה מנוצה"],
+           "maps_query_location": "Nahal Meitzar"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2021",
+      "observer": null,
+      "original_text": "נמצא בשפע בערוץ תעלת ניקוז מי גשם, בכביש עוקף איל",
+      "locations": [
+        {
+          "location_name": "כביש עוקף איל",
+          "flowers": ["אבטיח הפקועה"],
+           "maps_query_location": "Eyal bypass road"
+        }
+       ]
+    },
+    {
+      "date": "05/04/2021",
+      "observer": null,
+      "original_text": "פורח באיתמר",
+      "locations": [
+        {
+          "location_name": "איתמר",
+          "flowers": ["איריס השומרון"],
+          "maps_query_location": "Itamar"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2021",
+      "observer": "קפלינסקי יפה",
+      "original_text": "פריחה ביער בקרבת מחנה נטפים",
+       "locations": [
+        {
+          "location_name": "מחנה נטפים",
+          "flowers": [],
+          "maps_query_location": "Netaphim Camp"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2021",
+      "observer": "שי לביא",
+       "original_text":"מקבץ בודד מול תל חצור, שלהי פריחה",
+      "locations": [
+        {
+          "location_name": "תל חצור",
+          "flowers": ["אירוס הדור"],
+          "maps_query_location": "Tel Hazor"
+        }
+      ]
+    },
+    {
+      "date": "04/04/2021",
+      "observer": "יוסף איקש",
+      "original_text": "במדרון הצפוני-מערבי שליד משרדי פארק הכרמל, בואכה צומת דמון.",
+      "locations": [
+         {
+          "location_name": "פארק הכרמל",
+          "flowers": ["רימונית הלוטם"],
+          "maps_query_location": "Carmel National Park"
+        },
+        {
+          "location_name": "צומת דמון",
+          "flowers": ["רימונית הלוטם"],
+           "maps_query_location":"Damon Junction"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2021",
+       "observer": null,
+      "original_text": "פורח בעין גו'הר, ראו צילומים",
+       "locations": [
+        {
+          "location_name": "עין גו'הר",
+          "flowers": ["איריס השומרון"],
+          "maps_query_location": "Ein Juahar"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2021",
+      "observer": "עידו מגן",
+      "original_text": "ממערב לכביש שבין רגבים לגבעת ניל\"י שדה פרגים יפה. יש לנסוע מזרחה מבנימינה גבעת עדה, לעבור את כביש 6, להגיע לרגבים ולפנות שם שמאלה. לאחר כ-1 ק\"מ רואים את השדה משמאל",
+     "locations": [
+        {
+           "location_name": "רגבים",
+           "flowers": ["פרג"],
+            "maps_query_location": "Regavim"
+         },
+        {
+          "location_name": "גבעת ניל\"י",
+          "flowers": ["פרג"],
+           "maps_query_location": "Givat Nili"
+         },
+         {
+           "location_name": "בנימינה",
+           "flowers": [],
+           "maps_query_location": "Binyamina"
+         },
+         {
+           "location_name":"גבעת עדה",
+           "flowers": [],
+            "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2021",
+      "observer": "שושנה פולטין",
+      "original_text": "צמח בסכנת הכחדה. בחורשת הסרג'נטים בנתניה, פרטים בודדים.\nהמקום עבר \"טיפול\" של ריסוס וחרישה בעבר. אשמח לדעת כיצד מונעים זאת?",
+       "locations": [
+        {
+           "location_name": "חורשת הסרג'נטים",
+           "flowers": ["אזוביון דגול"],
+            "maps_query_location": "Sergeants Grove"
+        },
+        {
+          "location_name":"נתניה",
+          "flowers": ["אזוביון דגול"],
+           "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "03/04/2021",
+      "observer": "שושנה פולטין",
+       "original_text": "בוציץ, צמח מוגן בסכנת הכחדה נצפה ב 31.3.21 בבריכה בחורשת הסרג'נטים, נתניה, ו ב4.04.21 ליד פסי הרכבת, תחנת חדרה מערב (קרוב ליער חדרה)",
+       "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים",
+          "flowers": ["בוציץ סוככני"],
+          "maps_query_location": "Sergeants Grove"
+        },
+        {
+          "location_name": "נתניה",
+           "flowers": ["בוציץ סוככני"],
+            "maps_query_location":"Netanya"
+         },
+         {
+           "location_name": "תחנת חדרה מערב",
+          "flowers": ["בוציץ סוככני"],
+          "maps_query_location":"Hadera West Railway Station"
+         },
+        {
+           "location_name": "יער חדרה",
+           "flowers": ["בוציץ סוככני"],
+           "maps_query_location":"Hadera Forest"
+        }
+      ]
+    }
+  ]
+}
+```

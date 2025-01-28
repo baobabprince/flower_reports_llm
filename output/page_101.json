@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/12/2022",
+      "observer": "דוד",
+      "original_text": "כרכומים בדרך נוף יער שגב. הדרך סגורה לכלי רכב ממונעים.",
+      "locations": [
+        {
+          "location_name": "יער שגב",
+          "flowers": ["כרכום חורפי"],
+          "maps_query_location": "Yar Shgav"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2022",
+       "observer": null,
+      "original_text": "ראו מסלול בקישור למטה",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2022",
+       "observer": null,
+      "original_text": "נרקיxים, רקפות, סתווניות וכרכומים בנחל כסלון ובנחל כרמילה. הרבה רקפות גם על הר כרמילה, במפנה הדרומי. זוטה לבנה פורחת גם. על ההר גם שקדיה אחת פורחת.",
+      "locations": [
+        {
+          "location_name": "נחל כסלון",
+          "flowers": ["נרקיס", "רקפת", "סתוונית", "כרכום"],
+          "maps_query_location": "Nahal Ksalon"
+        },
+         {
+          "location_name": "נחל כרמילה",
+           "flowers": ["נרקיס", "רקפת", "סתוונית", "כרכום"],
+          "maps_query_location": "Nahal Karmila"
+        },
+         {
+          "location_name": "הר כרמילה",
+          "flowers": ["רקפת", "זוטה לבנה", "שקד"],
+          "maps_query_location": "Har Karmila"
+        }
+      ]
+    },
+     {
+      "date": "08/12/2022",
+      "observer": null,
+      "original_text": "בגולן בבאב אל הואה",
+      "locations": [
+         {
+          "location_name": "גולן",
+          "flowers": ["כרכום צהבהב"],
+           "maps_query_location": "Golan Heights"
+        },
+        {
+           "location_name": "באב אל הואה",
+           "flowers": ["כרכום צהבהב"],
+          "maps_query_location": "Bab al Hawa"
+        }
+      ]
+    },
+    {
+       "date": "08/12/2022",
+       "observer": null,
+      "original_text": "וליד אנדרטאת הנגב",
+      "locations": [
+        {
+          "location_name": "אנדרטאת הנגב",
+          "flowers": ["סתונית טוביה"],
+          "maps_query_location": "Andartat Hanegev"
+        }
+      ]
+    },
+    {
+      "date": "08/12/2022",
+       "observer": null,
+      "original_text": "נרקיסים, סתווניות, כרכומים עווד",
+      "locations": [
+        {
+          "location_name": "פארק איילון ( קנדה)",
+          "flowers": ["נרקיס", "סתוונית", "כרכום"],
+          "maps_query_location": "Park Ayalon"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2022",
+       "observer": "בתיה פריד כספין",
+      "original_text": "המצוק מרהיב. רקפות בכמויות. נרקיסים אירוס הסרגל ואחרים",
+      "locations": [
+        {
+          "location_name": "מצוק ה40",
+          "flowers": ["רקפת", "נרקיס", "אירוס הסרגל"],
+          "maps_query_location": "Mitzuk HaArba'im"
+        }
+      ]
+    },
+    {
+      "date": "04/12/2022",
+       "observer": null,
+      "original_text": "חורבת קרטא\nאלת המסטיק , אספרג החורש, בן-חצב סתווני (פרי), לופית מצויה לופית מצויה , כרכום גיארדו \nגבעת האשחרים מול גיסר א-זרקא\nנרקיס סתווי , כדן קטן-פרחים, סתוונית היורה, כתמה עבת-שורשים,   \nדלית אל כרמל\nחורבת מלח \nכרכום גיארדו , נרקיס מצוי , נרקיס סתוי, מרמר מצוי , כרכום גיארדו , קיסוסית קוצנית מחרקה\"\nאיריס הסרגל, צפורן נקוד, \nמעגן מיכאל: \nטוריים צרי עלים, חלבלוב הסנפירים \nדלית אל כרמל: \nטוריים קטנים, כרכום חורפי, קיסוסית קוצנית , זוטה לבנה , דודא רפואי , ארכובית הציפורים ,",
+      "locations": [
+        {
+           "location_name": "חורבת קרטא",
+           "flowers": ["אלת המסטיק", "אספרג החורש", "בן-חצב סתווני", "לופית מצויה", "כרכום גיארדו"],
+          "maps_query_location": "Khurvat Karta"
+        },
+         {
+           "location_name": "גבעת האשחרים",
+           "flowers": ["נרקיס סתווי", "כדן קטן-פרחים", "סתוונית היורה", "כתמה עבת-שורשים"],
+          "maps_query_location": "Givat HaEshharim"
+        },
+        {
+           "location_name": "גיסר א-זרקא",
+           "flowers": ["נרקיס סתווי", "כדן קטן-פרחים", "סתוונית היורה", "כתמה עבת-שורשים"],
+          "maps_query_location":"Jisr az-Zarqa"
+        },
+        {
+          "location_name": "דלית אל כרמל",
+          "flowers": ["כרכום גיארדו", "נרקיס מצוי", "נרקיס סתווי", "מרמר מצוי", "כרכום גיארדו", "קיסוסית קוצנית", "איריס הסרגל", "צפורן נקוד", "טוריים קטנים", "כרכום חורפי", "קיסוסית קוצנית", "זוטה לבנה", "דודא רפואי", "ארכובית הציפורים"],
+          "maps_query_location": "Daliyat al-Karmel"
+        },
+          {
+          "location_name":"חורבת מלח",
+           "flowers": ["כרכום גיארדו", "נרקיס מצוי", "נרקיס סתווי", "מרמר מצוי", "כרכום גיארדו", "קיסוסית קוצנית", "איריס הסרגל", "צפורן נקוד"],
+           "maps_query_location": "Khurvat Melakh"
+         },
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["טוריים צרי עלים", "חלבלוב הסנפירים"],
+           "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+     {
+      "date": "03/12/2022",
+      "observer": "דוד",
+      "original_text": "נרקיסים ורקפות פורחים ביער חורשים",
+      "locations": [
+        {
+          "location_name": "יער חורשים",
+          "flowers": ["נרקיס", "רקפת"],
+          "maps_query_location": "Yar Horeshim"
+        }
+      ]
+    },
+    {
+      "date": "02/12/2022",
+      "observer": "אירית",
+      "original_text": "פריחה מרהיבה ליד להבים, שביל נוח מהחניון",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    }
+  ]
+}
+```

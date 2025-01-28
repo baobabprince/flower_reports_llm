@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/11/2018",
+      "observer": "דורית קלנר",
+      "original_text": "סתווניות היורה ראשונות. המון בן חצב סתווני. ציפורן נקוד",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": ["סתוונית היורה", "בן חצב סתווני", "ציפורן נקוד"],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2018",
+      "observer": "מיכאל לרנר",
+       "original_text": "בשיא הפריחה.\nבמדרון שמדרום לערוץ היורד לנחל סנסן בין הערוץ לבין דרך הפטרולים. בסבך החורש ליד מצוקוני סלע. לא ראיתי ריכוז אלא קצת פה וקצת שם.\nלאורך הדרך סתווניות וקטלבים מרהיבים עם פירות אדומים.",
+      "locations": [
+        {
+          "location_name": "חורבת סנסן",
+          "flowers": ["חלמונית", "סתוונית", "קטלב"],
+           "maps_query_location": "Khirbet Sansan"
+        },
+         {
+          "location_name": "נחל סנסן",
+           "flowers": ["חלמונית", "סתוונית", "קטלב"],
+           "maps_query_location": "Nahal Sansan"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2018",
+      "observer": "דרמון חיים",
+      "original_text": "פריחת חלמונית גדולה ביער להב.",
+       "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": ["חלמונית גדולה"],
+           "maps_query_location":"Lahav Forest"
+        }
+      ]
+    },
+     {
+      "date": "09/11/2018",
+       "observer": "אריה בן יעקב",
+      "original_text": "בוואדי שמתחנת לגבעת המבתר בירושלים, יורדים בכביש מתחנת הרכבת הקלה לנחל צופים. השטח מלא סיתווניות.",
+      "locations": [
+       {
+          "location_name": "גבעת המבתר",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Givat HaMivtar"
+        },
+        {
+         "location_name": "נחל צופים",
+           "flowers": ["סתוונית"],
+           "maps_query_location":"Nahal Tsofim"
+        }
+      ]
+    },
+     {
+      "date": "07/11/2018",
+      "observer": null,
+      "original_text":"אחילוף  צר-עלים: חירבת-מלח, גבעת עדה,  גבעת-אולגה, יקום\nאחו-בנימינה : אסתר מרצעני , געדת הביצות, דוחן זוחל , כף-אווז ריחנית , טיונית החולות , מדד זוחל , פטל קדוש , פרעושית משלשלת  \nחלמונית זעירה : גבעת עדה. יקום: ארכובית החוף,\nג'סר א-זרקא: כדן קטן-פרחים , נרקיס סתווי,  חבצלת קטנת-פרחים, סיתוונית היורה,\nדוגון ירושלמי  מורכבים רמת-הנדיב  31.10.18 (1)\nיקום : חבצלת קטנת-פרחים  חומעה מגובבת",
+      "locations": [
+       {
+          "location_name": "חירבת מלח",
+            "flowers": ["אחילוף צר-עלים"],
+            "maps_query_location": "Khirbet Melah"
+        },
+        {
+          "location_name": "גבעת עדה",
+            "flowers": ["אחילוף צר-עלים", "חלמונית זעירה"],
+             "maps_query_location": "Givat Ada"
+        },
+        {
+            "location_name": "גבעת אולגה",
+            "flowers": ["אחילוף צר-עלים"],
+             "maps_query_location": "Givat Olga"
+          },
+         {
+            "location_name": "יקום",
+            "flowers": ["אחילוף צר-עלים", "חלמונית זעירה", "ארכובית החוף", "חבצלת קטנת-פרחים", "חומעה מגובבת"],
+            "maps_query_location":"Yakum"
+        },
+        {
+            "location_name": "אחו בנימינה",
+            "flowers": ["אסתר מרצעני", "געדת הביצות", "דוחן זוחל", "כף-אווז ריחנית", "טיונית החולות", "מדד זוחל", "פטל קדוש", "פרעושית משלשלת"],
+              "maps_query_location": "Ahu Binyamina"
+        },
+        {
+           "location_name": "ג'סר א-זרקא",
+           "flowers": ["כדן קטן-פרחים", "נרקיס סתווי", "חבצלת קטנת-פרחים", "סתוונית היורה"],
+             "maps_query_location": "Jisr az-Zarqa"
+        },
+        {
+            "location_name": "רמת הנדיב",
+            "flowers": ["דוגון ירושלמי"],
+             "maps_query_location": "Ramat Hanadiv"
+         }
+       ]
+    },
+    {
+      "date": "07/11/2018",
+      "observer": "מיכאל לרנר",
+      "original_text": "תחילת עונה ברגל ימין",
+      "locations": [
+        {
+          "location_name": "מצפה רחבעם",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Mitzpe Rechavam"
+        }
+      ]
+    },
+     {
+      "date": "07/11/2018",
+       "observer": null,
+      "original_text": "פורחות בכמויות בשולי יער בן שמן",
+       "locations": [
+        {
+           "location_name": "יער בן שמן",
+          "flowers": ["סתוונית היורה"],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "04/11/2018",
+      "observer": "יוליה גולדשטיין",
+       "original_text": "אתמול ב3 לנובמבר ראינו סתוונית בירידה במסלול של מצוק ארבל",
+      "locations": [
+        {
+           "location_name": "מצוק ארבל",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Arbel Cliff"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2018",
+      "observer": null,
+      "original_text": "מלוכיה משולשת וחלמונית צהובה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": ["מלוכיה משולשת", "חלמונית צהובה"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date":"31/10/2018",
+       "observer": null,
+        "original_text": "גם פורח בגיסר א זרקה בכניסה לשמורה",
+        "locations": [
+        {
+          "location_name": "ג'סר א-זרקא",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Jisr az-Zarqa"
+         }
+        ]
+      }
+   ]
+}
+```

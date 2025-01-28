@@ -1,0 +1,232 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/02/2011",
+      "observer": "אורי שטיין",
+      "original_text": "התחלת פריחה של אירוס הביצות, סוף פריחה של הנרקיסים, רומוליאה סגלולית בשיאה וכלניות בודדות",
+      "locations": [
+        {
+          "location_name": "חיספין",
+          "flowers": [
+            "Iris palaestina",
+            "Narcissus",
+             "Romulea bulbocodium",
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Hispin"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2011",
+      "observer": "אורי שטיין",
+      "original_text": "היער מנוקד ברקפת יונית ונץ חלב איזמלני. ליד הג'ובה הגדולה פריחה של אירוס הלבנון ופרטים בודדים של ברוניקה סורית",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": [
+            "Cyclamen persicum",
+             "Ornithogalum umbellatum",
+            "Iris libanotica",
+            "Veronica syriaca"
+          ],
+          "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2011",
+      "observer": "דרור מלמד",
+      "original_text": "בחולות שממערב לשכונת אזורי חן ובחולות הגוש הגדול (חוף תל-ברוך), החלו לפרוח תורמוס א\"י, רכפה מזרחית וקחוון החוף. זאת בנוסף לפריחת השיא של מרסיה יפהפייה ורותם המדבר, המציף בריח בושם מתקתק את השכונות הצפוניות של העיר.",
+      "locations": [
+         {
+          "location_name": "אזורי חן",
+          "flowers": [
+            "Lupinus palaestinus",
+            "Reseda orientalis",
+            "Matricaria aurea",
+            "Morettia philaeana",
+            "Retama raetam"
+          ],
+          "maps_query_location": "Azorei Hen"
+        },
+       {
+          "location_name": "הגוש הגדול",
+          "flowers": [
+            "Lupinus palaestinus",
+            "Reseda orientalis",
+            "Matricaria aurea",
+             "Morettia philaeana",
+            "Retama raetam"
+          ],
+           "maps_query_location": "Gush Hagadol"
+        },
+        {
+         "location_name": "תל ברוך",
+           "flowers": [
+            "Lupinus palaestinus",
+            "Reseda orientalis",
+             "Matricaria aurea",
+            "Morettia philaeana",
+            "Retama raetam"
+          ],
+           "maps_query_location": "Tel Baruch"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2011",
+      "observer": "שכי לוריא",
+      "original_text": "פריחה יפה באיזור מר אליאס\\רמת רחל ביום שישי 18 בפברואר :  זהבית דמשקאית - מאות עד אלפי פרטים (1500-2000) נראה כשיא פריחה . מלקולמיה חרוקה - עשרות עד מאות פרטים . זהוי לא לגמרי וודאי .(הזהוי נעשה בדיעבד ע''י  השוואת צילום גרוע מהפלפון לצילומים באתר זה . הייתי ללא מגדיר) כלניות - פרטים בודדים  עד עשרות . ילקוט הרועים - בודדים. שקדיות -שיא פריחה מרהיבה.",
+        "locations": [
+        {
+          "location_name": "מר אליאס",
+           "flowers": [
+            "Sternbergia clusiana",
+            "Malcolmia chia",
+            "Anemone coronaria",
+             "Capsella bursa-pastoris",
+             "Prunus dulcis"
+          ],
+          "maps_query_location": "Mar Elias"
+        },
+          {
+          "location_name": "רמת רחל",
+          "flowers": [
+           "Sternbergia clusiana",
+            "Malcolmia chia",
+            "Anemone coronaria",
+            "Capsella bursa-pastoris",
+             "Prunus dulcis"
+          ],
+           "maps_query_location": "Ramat Rachel"
+        }
+      ]
+    },
+   {
+      "date": "20/02/2011",
+       "observer": null,
+      "original_text": "הפריחה השבוע גם בחורשות בארי בנחל סחף (מצפון לבארי הישנה) באזור מכרות הגופרית. ובחורשת שוקדה הפריחה בעיצומה, לא כמו בשנה שעברה אך עדיין יפה מאוד. בחורשה על כביש 232 בסמוך לקיבוץ עלומים. ולאורך \"נחל שובה\" מזרחית לכביש 232 מצומת סעד ועד החיבור \"לנחל בוהו\" למידע נוסף אפשר למצא באתר הפסטיבל \"דרום אדום\".",
+        "locations": [
+        {
+          "location_name": "בארי",
+          "flowers": [],
+           "maps_query_location": "Be'eri"
+        },
+         {
+          "location_name": "נחל סחף",
+           "flowers": [],
+            "maps_query_location": "Nahal Sahaf"
+        },
+         {
+          "location_name": "מכרות הגופרית",
+           "flowers": [],
+            "maps_query_location": "Mikhrot haGufrit"
+        },
+         {
+          "location_name": "שוקדה",
+          "flowers": [],
+           "maps_query_location": "Shokeda"
+        },
+         {
+          "location_name": "עלומים",
+          "flowers": [],
+           "maps_query_location": "Alumim"
+        },
+          {
+          "location_name": "נחל שובה",
+           "flowers": [],
+            "maps_query_location": "Nahal Shuva"
+        },
+        {
+          "location_name": "סעד",
+          "flowers": [],
+           "maps_query_location": "Sa'ad"
+        },
+        {
+           "location_name": "נחל בוהו",
+           "flowers": [],
+           "maps_query_location": "Nahal Bohu"
+        }
+      ]
+    },
+      {
+      "date": "20/02/2011",
+      "observer": "אורית",
+      "original_text": "בנוסף להמוני העיריות, הרקפות, הכלניות (האדומות בלבד) הרומוליאות הצידוניות, הזמזומיות, להולך בדרך הסלולה להולכי רגל ולרוכבי אופניים שמתחת לאוניברסיטת חיפה, צפויה בעיקול הדרך מטה פריחת הלבנה הרפואי על פעמוניו הלבנים..וכמובן הכל בליווית ניחוח המרווות, וליווי צליל ומראה של צפרים דואות ומצייצות. חוויה אמיתית.",
+      "locations": [
+        {
+          "location_name": "חיפה",
+          "flowers": [
+             "Asphodelus",
+             "Cyclamen",
+             "Anemone coronaria",
+            "Romulea phoenicia",
+             "Iris bismarckiana",
+            "Salvia",
+             "Leucanthemum coronarium"
+          ],
+           "maps_query_location": "Haifa"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2011",
+       "observer": "פנינה פרנקל",
+      "original_text": "עוד לנחל חלק-פריחת הרתמים והאזוביון.",
+      "locations": [
+         {
+          "location_name": "נחל חלק",
+           "flowers": [
+            "Retama raetam",
+            "Micromeria fruticosa"
+          ],
+          "maps_query_location": "Nahal Helek"
+        }
+      ]
+    },
+     {
+      "date": "20/02/2011",
+      "observer": "פנינה פרנקל",
+      "original_text": "לקראת המפגש עם נחל צין פורחים ריכפתן, זוגן,סילון קוצני כמה פרטים של יחנוק ומוריקה.במפתח הנחל מתווספים כוכב ננסי וריחני, פרעושית גלונית ושכרון לבן.",
+      "locations": [
+        {
+          "location_name": "נחל צין",
+           "flowers": [
+           "Cyclamen",
+           "Zygophyllum",
+           "Echinops",
+           "Cistanche",
+           "Morettia",
+           "Asteriscus pygmaeus",
+            "Pulicaria glutinosa",
+            "Hyoscyamus albus"
+          ],
+           "maps_query_location": "Nahal Zin"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2011",
+       "observer": "משה קופרברג",
+      "original_text": "עוד לא ראיתי כזו כמות של רקפות.",
+      "locations": [
+         {
+          "location_name": "יער המגינים",
+            "flowers": [
+            "Cyclamen"
+          ],
+           "maps_query_location": "Yar HaMeginim"
+        }
+      ]
+    },
+     {
+      "date": "20/02/2011",
+      "observer": null,
+      "original_text": "סדנת לייטרום תפתח ביום שני, 28.2.11",
+      "locations": []
+    }
+  ]
+}
+```

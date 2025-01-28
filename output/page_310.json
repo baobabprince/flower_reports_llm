@@ -1,0 +1,244 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2019",
+      "observer": null,
+      "original_text": "שני פרטים של סומקן דוקרני בשיפולי דרום רמת הגולן, אשר \"על פי הספר\" פורחים שלא בעונתם ולא במקום תפוצתם. הראשון, צומח מזרחית לאגודת המים והשני, ביציאה ממתקן אופק לכיוון הדרך הלבנה.",
+      "locations": [
+        {
+          "location_name": "דרום רמת הגולן",
+          "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "South Golan Heights"
+        },
+         {
+          "location_name": "אגודת המים",
+          "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "Agudat HaMayim"
+        },
+        {
+          "location_name": "מתקן אופק",
+           "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "Ofek Facility"
+        },
+         {
+          "location_name": "הדרך הלבנה",
+           "flowers": [
+            "סומקן דוקרני"
+          ],
+          "maps_query_location": "HaDerech HaLevana"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2019",
+      "observer": "צפריר פינסקי",
+      "original_text": "שני פרטים של סומקן דוקרני בשיפולי דרום רמת הגולן, אשר \"על פי הספר\" פורחים שלא בעונתם ולא במקום תפוצתם.\nהראשון, צומח מזרחית לאגודת המים והשני, ביציאה ממתקן אופק לכיוון הדרך הלבנה.",
+       "locations": [
+        {
+          "location_name": "דרום רמת הגולן",
+          "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "South Golan Heights"
+        },
+         {
+          "location_name": "אגודת המים",
+          "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "Agudat HaMayim"
+        },
+        {
+          "location_name": "מתקן אופק",
+           "flowers": [
+            "סומקן דוקרני"
+          ],
+           "maps_query_location": "Ofek Facility"
+        },
+         {
+          "location_name": "הדרך הלבנה",
+           "flowers": [
+            "סומקן דוקרני"
+          ],
+          "maps_query_location": "HaDerech HaLevana"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "שיבולי הרב מוץ בגבעת הזיתים נחתכו שוב ביד וברגל גסה. ניתן להתנחם ברב מוצ-ים בגבעת מגדל השמירה או במשטחי החומעה האדומים ובעכנאי השרוע שהתחיל לפרוח בשטח.",
+      "locations": [
+        {
+          "location_name": "גבעת הזיתים",
+          "flowers": [
+            "שיבולת-שועל"
+          ],
+          "maps_query_location": "Givat HaZeitim"
+        },
+          {
+          "location_name": "גבעת מגדל השמירה",
+           "flowers": [
+            "שיבולת-שועל"
+          ],
+          "maps_query_location": "Givat Migdal HaShmira"
+        }
+        ,
+        {
+          "location_name": "רחובות",
+           "flowers": [
+             "חומעה אדומה",
+            "עכנאי שרוע"
+          ],
+          "maps_query_location": "Rehovot"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2019",
+      "observer": "עמיר פז",
+      "original_text": "מניפנית דרוזית, נזמית ארגמנית (נמצאה לראשונה בארץ לפני כשלוש שנים ע\"י דרור מלמד), שום ת\"א+אשרסון+מזרחי+הנגב, ביקית הבזלת, מנטיסלקה מדברית, וארביס אביבי פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+          "flowers": [
+            "מניפנית דרוזית",
+            "נזמית ארגמנית",
+             "שום תל אביב",
+             "שום אשרסון",
+             "שום מזרחי",
+              "שום הנגב",
+            "ביקית הבזלת",
+            "מנטיסלקה מדברית",
+            "ארביס אביבי"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "18/02/2019",
+      "observer": null,
+      "original_text": "פריחה של אירוס ארגמן בשביל האירוסים ביער אילנות",
+       "locations": [
+        {
+          "location_name": "יער אילנות",
+          "flowers": [
+            "אירוס ארגמן"
+          ],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2019",
+      "observer": null,
+      "original_text": "פריחה מדהימה  של רותם ושל איריס הארגמן ולנוף נהדר  כולל ציפורים ",
+       "locations": [
+         {
+          "location_name": "בית חנן",
+          "flowers": [
+            "רותם",
+            "אירוס ארגמן"
+          ],
+           "maps_query_location": "Beit Hanan"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2019",
+      "observer": null,
+      "original_text": "בתל סכה ובחירבת לויה ( לשם אפשר ומותר הגיע רק בימי שישי ובששת זה ליד שטח אש) ",
+      "locations": [
+        {
+          "location_name": "תל סכה",
+           "flowers": [
+            "תורמוס ההרים"
+           ],
+          "maps_query_location": "Tel Sekha"
+        },
+        {
+          "location_name": "חירבת לויה",
+           "flowers": [
+              "תורמוס ההרים"
+           ],
+           "maps_query_location": "Khirbat Laviya"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2019",
+      "observer": "מיכאל לרנר",
+      "original_text": "בכל השטח החלפת משמרות בין הרותם לקידה לקראת סיום. בגבעת הזיתים: קרוב ל100 הקידות בשיא הפריחה והריח, 3 שקדיות, עשרות שיבולי רב מוץ טריות, לשון שור וכמה פרסיונים. באגם: קבוצת חומעות יפות פורחות קרוב ל\"מרכז המבקרים\", הרבה בצעונים וכן אגמון ימי בתחילת פריחה.",
+        "locations": [
+         {
+          "location_name": "רחובות",
+           "flowers": [
+            "רותם",
+             "קידה שעירה"
+          ],
+          "maps_query_location": "Rehovot"
+        },
+        {
+          "location_name": "גבעת הזיתים",
+            "flowers": [
+              "קידה שעירה",
+              "שקד מצוי",
+               "שיבולת-שועל",
+              "לשון-שור",
+              "פרסון"
+            ],
+          "maps_query_location":"Givat HaZeitim"
+        },
+           {
+          "location_name":"אגם",
+            "flowers":[
+            "חומעה",
+            "בצעוני",
+            "אגמון ימי"
+            ],
+             "maps_query_location": "Agam"
+           }
+      ]
+    },
+    {
+      "date": "18/02/2019",
+      "observer": "יורמן משה",
+     "original_text": "קיימת פריחה וקיימים עוד ניצני פריחה רבים . נכון ליום 17/02/19 השביל בו הולכים מוצף (ניתן לעבור עם מגפיים או נעליים גבוהות שאינן חדירות למים) ",
+      "locations": [
+        {
+          "location_name": "שמורת נוב",
+           "flowers": [
+            "אירוס הביצות"
+          ],
+          "maps_query_location": "Nature Reserve Nov"
+        }
+      ]
+    },
+     {
+      "date": "17/02/2019",
+      "observer": "עמיר פז",
+      "original_text": "חומעת האווירון, גומא הירקון (שהקדים קמעא), אלמוות א\"י, וקיטה סוככנית פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן",
+          "flowers": [
+            "חומעת האווירון",
+            "גומא הירקון",
+            "אלמוות א\"י",
+             "קיטה סוככנית"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

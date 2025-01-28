@@ -1,0 +1,220 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/02/2022",
+      "observer": "עמיר פז",
+      "original_text": "טופח חד שנתי פורח לראשונה בגן, ותודה למוצא שנתן לי זרעים",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "טופח חד שנתי"
+          ],
+           "maps_query_location": "Gan Meklat Sharoni"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2022",
+      "observer": null,
+      "original_text": "בחמדת בבקעה , בפארק אריאל שרון ( כולל ורודים, בתל סכה",
+      "locations": [
+         {
+          "location_name": "חמדת",
+           "flowers": ["תורמוס ההרים"],
+          "maps_query_location": "Hamdat"
+        },
+        {
+          "location_name": "פארק אריאל שרון",
+           "flowers": ["תורמוס ההרים"],
+          "maps_query_location": "Ariel Sharon Park"
+        },
+          {
+          "location_name": "תל סכה",
+           "flowers": ["תורמוס ההרים"],
+          "maps_query_location": "Tel Saka"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2022",
+      "observer": null,
+      "original_text": "אחו נב: איריס הביצות, רומוליאה סגלולית וכלנית בצבע המיוחד (פוקסיה) \nגביעונית הלבנון, רקפת יוונית ואיריס הלבנון בחזקה .",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": [
+            "איריס הביצות",
+            "רומוליאה סגלולית",
+             "כלנית",
+              "גביעונית הלבנון",
+              "רקפת יוונית",
+              "איריס הלבנון"
+          ],
+           "maps_query_location": "Beit Keshet Forest"
+        },
+         {
+          "location_name": "הגולן",
+          "flowers": [
+             "איריס הביצות",
+            "רומוליאה סגלולית",
+             "כלנית",
+              "גביעונית הלבנון",
+              "רקפת יוונית",
+              "איריס הלבנון"
+          ],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "26/02/2022",
+      "observer": "עמיר פז",
+      "original_text": "אשבל השדה, תלתן ישראלי, גומא הירקון, קחוון קצר פירות, עירית גדולה, כלנית מצויה, שיבולת שועל גדולה, עוקץ עקרב ביצני, איריס הביצות, תורמוס א\"י, פרג אגסני, ו \"נחל\" עצום של איריס ארגמן פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "אשבל השדה",
+            "תלתן ישראלי",
+            "גומא הירקון",
+            "קחוון קצר פירות",
+            "עירית גדולה",
+             "כלנית מצויה",
+            "שיבולת שועל גדולה",
+            "עוקץ עקרב ביצני",
+            "איריס הביצות",
+             "תורמוס א\"י",
+            "פרג אגסני",
+            "איריס ארגמן"
+           ],
+          "maps_query_location": "Gan Meklat Sharoni"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2022",
+      "observer": "אור לוי",
+      "original_text": "בצומת גולני ליד נטיעות קק\"ל תמצאו מרבדי רקפות נרחבים וקסומים. עוצר נשימה.",
+       "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": [
+            "רקפת"
+          ],
+           "maps_query_location": "Golani Junction"
+        },
+        {
+            "location_name":"נטיעות קק\"ל",
+            "flowers": [
+                "רקפת"
+            ],
+            "maps_query_location":"KKL Plantations"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2022",
+      "observer": "אור לוי",
+      "original_text": "בפארק אריאל שרון בלב ארצינו הקטנה, פורח עכשיו שדה תורמוסים בסגול וכתום מקסים. שווה לצאת לטייל",
+      "locations": [
+        {
+          "location_name": "פארק אריאל שרון",
+          "flowers": [
+             "תורמוס"
+          ],
+           "maps_query_location": "Ariel Sharon Park"
+        }
+      ]
+    },
+    {
+      "date": "25/02/2022",
+       "observer": "אור לוי",
+      "original_text": "בריכה קטנה וקסומה של נוריות מים הפורחות למשך חודש מאמצע פברואר. סביב לבריכה עושר של פריחת רקפות, חינניות, עיריות ועוד. שווה",
+      "locations": [
+        {
+          "location_name": "ברכת צרטה",
+           "flowers": [
+            "נורית מים",
+             "רקפת",
+            "חיננית",
+            "עירית"
+          ],
+          "maps_query_location":"Berekhat Tzarta"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2022",
+      "observer": "עידו מגן",
+      "original_text": "שפע של פריחה: אלפי כלניות בכל הגבעה והמון רקפות ועיריות. בחלק העליון שקרוב למגדל המים יש שביל מעגלי שעובר בין שקדיות",
+      "locations": [
+         {
+          "location_name": "גבעת התיתורה",
+            "flowers": [
+            "כלנית",
+             "רקפת",
+              "עירית"
+          ],
+          "maps_query_location": "Givat HaTitora"
+        },
+        {
+             "location_name":"מודיעין",
+              "flowers": [
+               "כלנית",
+                "רקפת",
+                 "עירית"
+               ],
+           "maps_query_location":"Modiin"
+           }
+      ]
+    },
+    {
+      "date": "24/02/2022",
+      "observer": "שירלי קורין",
+      "original_text": "שפע של רקפות בטל שחר. בשלבי פריחה מתקדמים. מהרו להגיע אולי עוד שבועיים כבר לא ישארו",
+       "locations": [
+        {
+          "location_name": "טל שחר",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Tal Shachar"
+        }
+      ]
+    },
+    {
+      "date": "23/02/2022",
+      "observer": null,
+      "original_text": "גביעונית הלבנון ואיריס הביצות",
+      "locations": [
+         {
+          "location_name": "נחל סנין",
+           "flowers": [
+             "גביעונית הלבנון",
+            "איריס הביצות"
+          ],
+          "maps_query_location": "Nahal Sanin"
+        },
+        {
+          "location_name": "עמק השלום",
+           "flowers": [
+            "גביעונית הלבנון",
+            "איריס הביצות"
+          ],
+          "maps_query_location": "Emek HaShalom"
+         },
+          {
+             "location_name": "יקנעם",
+              "flowers": [
+                "גביעונית הלבנון",
+                "איריס הביצות"
+              ],
+               "maps_query_location":"Yokneam"
+          }
+      ]
+    }
+  ]
+}
+```

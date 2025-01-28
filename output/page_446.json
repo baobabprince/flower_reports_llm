@@ -1,0 +1,265 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/12/2016",
+      "observer": "מאיה שתיל",
+      "original_text": "פריחת הכרכום החורפי בשיאה וכן פרטים בודדים של אירוס הסרגל נרקיסים ואחרוני פרחי סתוונית היורה .",
+      "locations": [
+        {
+          "location_name": "שמורת נחל מהר״ל",
+          "flowers": [
+            "כרכום חורפי",
+            "אירוס הסרגל",
+            "נרקיס",
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Nahal Meharal Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2016",
+      "observer": null,
+      "original_text": "כרכום גיירדו תת מין חופי ונרקיס סתווי",
+       "locations": [
+        {
+          "location_name": "שמורת נחל תנינים",
+          "flowers": [
+            "כרכום גיירדו",
+            "נרקיס סתווי"
+          ],
+          "maps_query_location": "Nahal Taninim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2016",
+      "observer": null,
+      "original_text": "פורח בשיא בדליה, , בת שלמה ובהר שוקף בצידי שביל הג'יפים",
+       "locations": [
+         {
+          "location_name": "דליה",
+           "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Daliya"
+        },
+         {
+          "location_name": "בת שלמה",
+           "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Bat Shlomo"
+        },
+        {
+          "location_name": "הר שוקף",
+          "flowers": ["אירוס הסרגל"],
+          "maps_query_location": "Har Shokef"
+         }
+      ]
+    },
+    {
+      "date": "19/12/2016",
+      "observer": null,
+       "original_text": "פורח  ברמת הנדיב בכמויות",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["נץ-חלב הררי"],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2016",
+      "observer": null,
+       "original_text": "רכפה דקת שיבולת  (נחל רחם) , רכפתן מדברי, פרסטיה מצרית, צמרורה אפריקאית, אפיונה מחוספסת, ריסן דק , פיגמית מצויה,  לובד המדבר, טוריים מדבריים,  זוגן פשוט, שיטה סלילנית (באר אורה)  סנא ( כסיה) מחודדת - בגן הולנד, הרנוג השיטים, פתילת המדבר, פרעושית גלונית ועוד",
+      "locations": [
+        {
+          "location_name": "ערבה",
+           "flowers": [
+            "רכפה דקת שיבולת",
+             "רכפתן מדברי",
+            "פרסטיה מצרית",
+            "צמרורה אפריקאית",
+            "אפיונה מחוספסת",
+            "ריסן דק",
+             "פיגמית מצויה",
+            "לובד המדבר",
+            "טוריים מדבריים",
+            "זוגן פשוט",
+            "שיטה סלילנית",
+            "סנא מחודדת",
+            "הרנוג השיטים",
+            "פתילת המדבר",
+             "פרעושית גלונית"
+          ],
+          "maps_query_location": "Arava"
+        },
+        {
+           "location_name": "אילת",
+           "flowers": [
+            "רכפה דקת שיבולת",
+             "רכפתן מדברי",
+            "פרסטיה מצרית",
+            "צמרורה אפריקאית",
+            "אפיונה מחוספסת",
+            "ריסן דק",
+             "פיגמית מצויה",
+            "לובד המדבר",
+            "טוריים מדבריים",
+            "זוגן פשוט",
+            "שיטה סלילנית",
+            "סנא מחודדת",
+            "הרנוג השיטים",
+            "פתילת המדבר",
+             "פרעושית גלונית"
+          ],
+          "maps_query_location": "Eilat"
+        },
+        {
+          "location_name": "פארק תמנע",
+            "flowers": [
+            "רכפה דקת שיבולת",
+             "רכפתן מדברי",
+            "פרסטיה מצרית",
+            "צמרורה אפריקאית",
+            "אפיונה מחוספסת",
+            "ריסן דק",
+             "פיגמית מצויה",
+            "לובד המדבר",
+            "טוריים מדבריים",
+            "זוגן פשוט",
+            "שיטה סלילנית",
+             "סנא מחודדת",
+            "הרנוג השיטים",
+            "פתילת המדבר",
+            "פרעושית גלונית"
+          ],
+          "maps_query_location": "Timna Park"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2016",
+      "observer": null,
+       "original_text":"חירבת מלח, כרמל, גני הנדיב, יער כוכב יאיר, יער ראש העין, יער צרעה, יער הקדושים,  יער בן-שמן ,נחל כלח, פארק גורן, נחל עוד תחתון, תחילת פריחה באחו נוב",
+       "locations": [
+         {
+          "location_name": "חירבת מלח",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Khirbet Melach"
+        },
+         {
+          "location_name": "כרמל",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "גני הנדיב",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+         {
+           "location_name": "יער כוכב יאיר",
+           "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Kokhhav Yair Forest"
+        },
+        {
+           "location_name": "יער ראש העין",
+           "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Rosh HaAyin Forest"
+         },
+        {
+           "location_name": "יער צרעה",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Tzora Forest"
+         },
+        {
+           "location_name": "יער הקדושים",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Yair HaKedoshim Forest"
+         },
+        {
+           "location_name": "יער בן-שמן",
+            "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Ben Shemen Forest"
+         },
+        {
+          "location_name":"נחל כלח",
+          "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Nahal Kelach"
+        },
+       {
+          "location_name":"פארק גורן",
+          "flowers": ["נרקיס מצוי"],
+           "maps_query_location":"Goren Park"
+        },
+        {
+          "location_name": "נחל עוד תחתון",
+          "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Nahal Od Tahton"
+        },
+         {
+          "location_name": "אחו נוב",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2016",
+      "observer": "גד שושן",
+      "original_text": "פורחים בנחל ציפורי",
+      "locations": [
+        {
+          "location_name": "נחל ציפורי",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Nahal Tzipori"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2016",
+       "observer": null,
+      "original_text":"ליד בית הכנסת העתיק : מעלה עשן מדברי, גרויה שעירה , אחי חרגל אפריקאי,  פתילת המדבר ועוד.",
+       "locations": [
+        {
+          "location_name": "עין גדי",
+          "flowers": [
+             "מעלה עשן מדברי",
+             "גרויה שעירה",
+            "אחי חרגל אפריקאי",
+            "פתילת המדבר"
+          ],
+          "maps_query_location": "Ein Gedi"
+        }
+      ]
+    },
+     {
+      "date": "11/12/2016",
+      "observer": null,
+      "original_text":"ראו בתצלומים היפים של נועם עביצל",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+           "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Khirbet Melach"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2016",
+       "observer": null,
+      "original_text": "כרכום חורפי וכרכום החרמון פורחים בישוב פסגות",
+      "locations": [
+        {
+          "location_name": "פסגות",
+          "flowers": [
+            "כרכום חורפי",
+            "כרכום החרמון"
+          ],
+           "maps_query_location": "Pesagot"
+        }
+      ]
+    }
+  ]
+}
+```

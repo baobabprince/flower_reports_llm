@@ -1,0 +1,169 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/10/2017",
+      "observer": "שמעון אלדור",
+      "original_text": "שפע חלמוניות סתוונית התשבץ וכרכום השבכה 15.10.17",
+      "locations": [
+        {
+          "location_name": "רכס הבשנית",
+          "flowers": [
+            "חלמונית",
+            "סתוונית התשבץ",
+            "כרכום השבכה"
+          ],
+           "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2017",
+      "observer": "רותי טלמור",
+      "original_text": "בגבעת עדה - אלבום רותי טלמור",
+      "locations": [
+        {
+          "location_name": "גבעת עדה",
+          "flowers": [
+            "חלמונית זעירה"
+          ],
+           "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2017",
+      "observer": "דרור בר-ניר",
+      "original_text": "בצידי כביש הגישה לממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+             "flowers": [
+            "חבצלת הנגב",
+            "בן-חצב מדברי"
+          ],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2017",
+        "observer": "דרור בר-ניר",
+        "original_text": "המון חלמוניות גדולות. כתלה חריפה, קזוח עקום, עדעד מאובק, ציפורן נקוד",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+           "flowers": [
+            "חלמונית",
+             "כתלה חריפה",
+            "קזוח עקום",
+             "עדעד מאובק",
+            "ציפורן נקוד"
+          ],
+           "maps_query_location":"Boker Ridge"
+         }
+      ]
+    },
+    {
+      "date": "11/10/2017",
+      "observer": "חמד חרב",
+      "original_text": "פריחה מרשימה ומקסימה למלכת הסתיו ..החלמונית בצידי שביל הר מירון ..מפנה צפוני",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "10/10/2017",
+       "observer": "דרור חריטן",
+      "original_text": "היום בטיול בשביל הפיסגה ספרתי 22 חלמוניות פורחות. הפריחה בין תצפית אוריאל פרץ לתצפית צפת. כמו כן הרבה סתווניות במצבים שונים...",
+      "locations": [
+        {
+          "location_name": "תצפית אוריאל פרץ",
+           "flowers": [
+            "חלמונית",
+            "סתוונית"
+           ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "תצפית צפת",
+           "flowers": [
+            "חלמונית",
+            "סתוונית"
+           ],
+            "maps_query_location": "Safed Observation Point"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2017",
+      "observer": null,
+      "original_text": "בתאריך 8.10.17 נמצאו בכל המסלול 5 חלמוניות בלבד..כדאי לחכות עוד כמה ימים לפריחה רבה יותר",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+           "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Yeroham"
+        }
+      ]
+    },
+     {
+      "date": "09/10/2017",
+       "observer": null,
+      "original_text": "חורשף מצוייץ חבצלת קטנת פרחים בדרך לסוף הפריחה ובן חצב סיתווני התחיל",
+      "locations": [
+        {
+          "location_name": "עופרה",
+          "flowers": [
+            "חורשף מצוייץ",
+            "חבצלת קטנת פרחים",
+            "בן חצב סיתווני"
+          ],
+          "maps_query_location":"Ofra"
+        }
+      ]
+    },
+      {
+      "date": "09/10/2017",
+        "observer": null,
+      "original_text": "מבשרי הסתיו, עננות וגוונים חגיגיים כרכום דמשקאי, ציפורן סיני, סתוונית הקליפות, בן חצב מדברי, חבצלת הנגב וגם אצבוע.",
+       "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": [
+            "כרכום דמשקאי",
+            "ציפורן סיני",
+            "סתוונית הקליפות",
+            "בן חצב מדברי",
+              "חבצלת הנגב",
+              "אצבוע"
+          ],
+           "maps_query_location": "Negev Highlands"
+        }
+      ]
+    },
+     {
+      "date":"08/10/2017",
+      "observer": null,
+      "original_text": "המון חבצלות פורחות, בעיקר בצידו השמאלי של שביל הגישה לגן לאומי ממשית",
+       "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+             "חבצלת הנגב"
+          ],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    }
+  ]
+}
+```

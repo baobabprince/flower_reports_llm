@@ -1,0 +1,258 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/11/2016",
+      "observer": "יעל בן ישי",
+      "original_text": "יש פריחת רקפות בהר הכרמל, בחניון נחל אורן.",
+      "locations": [
+        {
+          "location_name": "הר הכרמל",
+          "flowers": [
+            "Cyclamen persicum"
+          ],
+            "maps_query_location": "Carmel Mountain"
+        },
+        {
+          "location_name": "חניון נחל אורן",
+          "flowers": [
+            "Cyclamen persicum"
+          ],
+           "maps_query_location": "Nahal Oren parking"
+        }
+      ]
+    },
+    {
+      "date": "20/11/2016",
+      "observer": null,
+      "original_text": "בשביל הקיסר נצפו עשרות סתווניות קטנות אמנם, בחלק העליון של השביל ומעט רקפות עשרות מ' מעל למפגש עם הכביש.\nלאחר המפגש עם הכביש מאות נרקיסים בשיא פריחה, עשרות בודדות של כרכומים ומעט סתווניות.",
+      "locations": [
+        {
+          "location_name": "שביל הקיסר",
+          "flowers": [
+            "Colchicum",
+            "Cyclamen persicum",
+              "Narcissus" ,
+              "Crocus"
+          ],
+           "maps_query_location": "Caesar trail"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2016",
+       "observer": "אריאלה הלר",
+      "original_text": "נצפתה פריחה ליד קיבוץ אפיק ב 11/11/16",
+      "locations": [
+        {
+          "location_name": "קיבוץ אפיק",
+          "flowers": [
+            "Colchicum hierosolymitanum"
+          ],
+          "maps_query_location": "Afik"
+        }
+      ],
+         "date_mentioned": "11/11/2016"
+    },
+    {
+      "date": "16/11/2016",
+      "observer": null,
+      "original_text": "חלמוניות וגם רקפות ללוא עלים\nאין עדין פריחה של סיתונית",
+     "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": [
+              "Sternbergia clusiana",
+              "Cyclamen persicum"
+          ],
+          "maps_query_location":"Me'o Hama"
+         }
+      ]
+    },
+     {
+      "date": "16/11/2016",
+      "observer": null,
+      "original_text": "אתר חדש של קקל  שיא פריחה צולם 13.11.16 מצורפת קישורית מהשטח",
+         "locations": [
+          {
+            "location_name": "יער ביריה",
+            "flowers": [
+              "Sternbergia clusiana"
+            ],
+              "maps_query_location": "Biriya Forest"
+          },
+           {
+              "location_name": "חניון זיתים",
+              "flowers": [
+                 "Sternbergia clusiana"
+                ],
+             "maps_query_location":"Zitim parking"
+           }
+          ],
+            "date_mentioned": "13/11/2016"
+    },
+    {
+      "date": "14/11/2016",
+      "observer": "צפריר פינסקי   דוד פורת",
+      "original_text": "בתי גידול לחים עמק בית שאן  29.10.16\nפרחו בין השאר:\nירדן דרומי   (דלהמייה  - מבואת  תעלת האפס):    אל-ציצית לבנה (לשעבר אקליפטה לבנה),   פשטה שרועה,   צלף סיצילי/מצרי/קוצני,   אפרורית מצוייה  ועוד  אוכלוסיות מושבות.\nחורשת  זקום  מצרי   וסביבתה (מזרחית לעין  נמרוד):  זקום  כולל פירות,      אספרג ארצישראלי  (כן, תופעה ידועה מלב עמב\"ש),      אספסת תרבותית  -אוכלוסיה מרשימה בשיא פריחה – לעדכן מועדי פריחה בספרות  -  האוכלוסיה הזעירה מנחל איתן נכחדה (מאידך ביישוב כליל  למשל אוכלוסיות מושבות),  אצבען  מאדים וריסני במופעים שונים.\nעין נמרוד:    סמר חד וערבי,   בת-יבלית מצרית (אוכלוסיות  לא  אחידות - התפרחות  בנות   5  -  4  \"אצבעות\"  -שיבולים),  לעדכן מפת תפוצה.\nעין צמד:  ערבה  מחודדת,    גדותן הביצות,  שנית גדולה,   הרנוג השיטים (על שיזף מצוי במפנהו הדרומי   בלבד– האבקת רוח?!)  -  נכון למועד זה  זו האוכלוסייה  הטבעית הצפונית בארץ (ובעולם)  צפונית אף  מעין רוויה  הצפוני לתל סהרון) – לעדכן (ולתקן)  מפת תפוצה.\nעין טיון :  מרור ימי,   קוצן מכונף,  סוף צר עלים,  אסתר מרצעני,  אוכם מצרי,  גומא ארוך, ערידת הביצות   (פירוט רב בנפרד). \n\"מיתחם כפתור ופרח\"  (אין עין כפתור ועין פרח -  הנביעות הטבעיות לא קיימות לפחות 15  שנים) – אוכלוסיות מושבות:   קוצן מכונף,   ערידת הביצות, גומא חום,   גומא חלקלק/דל שיבולים,   עדשת מים זעירה   ועוד  (פירוט רב בנפרד).",
+      "locations": [
+        {
+          "location_name": "עמק בית שאן",
+          "flowers": [
+            "Alhagi graecorum",
+            "Capparis sicula",
+            "Aeluropus littoralis",
+             "Eucalyptus camaldulensis",
+             "Prosopis farcta",
+             "Asparagus aphyllus",
+              "Medicago sativa",
+              "Dactylorhiza maculata",
+              "Dactylorhiza umbrosa",
+              "Juncus acutus",
+              "Echinochloa colona",
+                "Salix acmophylla",
+               "Lythrum salicaria",
+               "Peganum harmala",
+              "Inula crithmoides",
+              "Echinops spinosissimus",
+              "Typha angustifolia",
+             "Aster squamatus",
+              "Onosma aegyptiacum",
+              "Cyperus longus",
+              "Cladium mariscus",
+              "Cyperus fuscus",
+                "Cyperus difformis",
+                "Lemna minor"
+          ],
+           "maps_query_location": "Beit She'an Valley"
+        },
+          {
+             "location_name":"ירדן דרומי",
+              "flowers": [
+                   "Alhagi graecorum",
+                  "Capparis sicula",
+                   "Aeluropus littoralis",
+                 "Eucalyptus camaldulensis"
+              ],
+             "maps_query_location":"Jordan River South"
+          },
+        {
+            "location_name": "עין נמרוד",
+             "flowers":[
+                "Prosopis farcta",
+                "Asparagus aphyllus",
+               "Medicago sativa",
+                "Dactylorhiza maculata",
+                "Dactylorhiza umbrosa",
+                 "Juncus acutus",
+                   "Echinochloa colona"
+
+              ],
+             "maps_query_location":"Ein Nimrod"
+        },
+       {
+          "location_name": "עין צמד",
+          "flowers": [
+             "Salix acmophylla",
+              "Lythrum salicaria",
+              "Peganum harmala"
+          ],
+           "maps_query_location":"Ein Tsemad"
+        },
+         {
+             "location_name":"עין טיון",
+              "flowers":[
+                   "Inula crithmoides",
+                    "Echinops spinosissimus",
+                    "Typha angustifolia",
+                     "Aster squamatus",
+                      "Onosma aegyptiacum",
+                      "Cyperus longus",
+                      "Cladium mariscus"
+              ],
+              "maps_query_location":"Ein Tiyun"
+           },
+         {
+              "location_name":"מיתחם כפתור ופרח",
+               "flowers":[
+                     "Echinops spinosissimus",
+                       "Cladium mariscus",
+                       "Cyperus fuscus",
+                      "Cyperus difformis",
+                        "Lemna minor"
+                     ],
+               "maps_query_location":"Kaftor Vaferach Area"
+        }
+      ],
+       "date_mentioned": "29/10/2016"
+    },
+    {
+      "date": "14/11/2016",
+      "observer": null,
+      "original_text": "האכסף התייאש כנראה מהגשם שלא מגיע והחליט לעשות מעשה ולפרוח מוקדם מהרגיל",
+      "locations": [],
+        "flowers": [
+           "Sternbergia clusiana"
+        ]
+    },
+    {
+      "date": "13/11/2016",
+      "observer": null,
+       "original_text": "מאות חלמוניות פורחת בהר אדמון וגם בשביל החלמוניות בבריה ישנה פריחה יפה",
+      "locations": [
+        {
+          "location_name": "הר אדמון",
+            "flowers": [
+            "Sternbergia clusiana"
+            ],
+           "maps_query_location":"Har Admon"
+        },
+         {
+          "location_name": "שביל החלמוניות",
+            "flowers": [
+              "Sternbergia clusiana"
+            ],
+              "maps_query_location":"Halmoniyot trail"
+        },
+          {
+            "location_name": "בריה",
+            "flowers": [
+                "Sternbergia clusiana"
+                ],
+            "maps_query_location": "Biriya"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2016",
+      "observer": "רון חרמוני",
+      "original_text": "בנחל עמוד תחתון - רקפות ראשונות, פרחים ללא עלים",
+      "locations": [
+        {
+          "location_name": "נחל עמוד תחתון",
+          "flowers": [
+            "Cyclamen persicum"
+          ],
+           "maps_query_location":"Nahal Amud"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2016",
+      "observer": "רון חרמוני",
+      "original_text": "ביער הסוללים:\nהמוני סיתוניות\nהמוני בן-חצב סתווני\nכרכום חורפי (נצפה אחד)",
+      "locations": [
+        {
+          "location_name": "יער הסוללים",
+          "flowers": [
+            "Colchicum",
+             "Prospero autumnale",
+              "Crocus hyemalis"
+          ],
+            "maps_query_location": "Solelim Forest"
+        }
+      ]
+    }
+  ]
+}
+```

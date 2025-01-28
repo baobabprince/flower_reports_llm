@@ -1,0 +1,189 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/02/2022",
+      "observer": null,
+      "original_text": "רומוליאה צידונית, דבורנית שחומה, בן-חצב החורש ( כן כבר התחיל לפרוח) אכסף מבריק ועו דועוד",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "רומוליאה צידונית",
+            "דבורנית שחומה",
+            "בן-חצב החורש",
+            "אכסף מבריק"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2022",
+      "observer": null,
+      "original_text": "ברכס הכורכר בנס ציונה יש פריחה יפה של האירוסים. אך השיא עוד לפנינו",
+       "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "אירוס"
+           ],
+           "maps_query_location": "Ness Ziona"
+        }
+       ]
+    },
+    {
+      "date": "03/02/2022",
+      "observer": null,
+      "original_text": "רקפות רבות פורחות במרבדים . המקום קסום",
+       "locations": [
+        {
+          "location_name": "טל שחר",
+          "flowers": [
+            "רקפת"
+           ],
+           "maps_query_location": "Tal Shahar"
+         }
+       ]
+    },
+   {
+      "date": "03/02/2022",
+      "observer": "אהרון שגב",
+       "original_text": "שפע רקפות וכלניות בשיא הפריחה יער בן שמן איזור מצפה מודיעין",
+        "locations": [
+         {
+            "location_name": "יער בן שמן",
+             "flowers": [
+              "רקפת",
+              "כלנית"
+             ],
+            "maps_query_location": "Ben Shemen Forest"
+          },
+          {
+            "location_name": "מצפה מודיעין",
+             "flowers": [
+               "רקפת",
+              "כלנית"
+             ],
+             "maps_query_location": "Mitzpe Modi'in"
+          }
+        ]
+    },
+    {
+      "date": "03/02/2022",
+      "observer": "אהרון שגב",
+      "original_text": "השקדיות לא התחילו לפרוח.  יש רקפות.   המעיין יבש.",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": [
+              "רקפת"
+           ],
+          "maps_query_location": "Canada Park"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2022",
+      "observer": "אהרון שגב",
+      "original_text": "פריחה בשיא של שקדיות רקפות וכלניות בשביל ההליכה  בין השער הצהוב לשילת לכיוון רולדין.  מזרחה",
+      "locations": [
+         {
+          "location_name": "שילת",
+          "flowers": [
+            "שקד",
+            "רקפת",
+            "כלנית"
+           ],
+           "maps_query_location": "Shilat"
+         }
+      ]
+    },
+    {
+      "date": "02/02/2022",
+      "observer": null,
+      "original_text": "שפע פריחה של רקפת יוונית ומעט פריחה של איירס הלבנון וגם נץ-חלב איזמלני",
+      "locations": [
+        {
+          "location_name": "מרום גולן",
+          "flowers": [
+            "רקפת יוונית",
+            "אירוס הלבנון",
+             "נץ-חלב איזמלני"
+           ],
+          "maps_query_location": "Merom Golan"
+        }
+      ]
+    },
+   {
+      "date": "02/02/2022",
+      "observer": null,
+      "original_text": "גומולאה סגלולית, נרקיס מצוי לקראת סוף , תחילת פריחת טופל אדום ( סימן שמרטוט אדום מתנפנף על עמוד",
+       "locations": [
+        {
+          "location_name": "אחו נב",
+          "flowers": [
+            "גומולאה סגלולית",
+            "נרקיס מצוי",
+             "טופל אדום"
+           ],
+            "maps_query_location": "Ahu Nav"
+          },
+         {
+            "location_name": "צומת אל חמה",
+            "flowers": [
+             "גומולאה סגלולית",
+            "נרקיס מצוי",
+             "טופל אדום"
+           ],
+           "maps_query_location": "Al Hama Junction"
+        }
+      ]
+   },
+    {
+      "date": "02/02/2022",
+      "observer": "גדי נבו",
+      "original_text": "שפע של פריחת כלניות ורקפות לאורך שביל נחל המערות ובכל השביל הכחול המקיף את המצוק - השביל הבוטני( מעט אתגרי אבל מתגמל ).כמובן גם עיריות ,קטלב ,אורן ירושלים ועוד ועוד -וצמחיה ים תיכונית מרהיבה .",
+      "locations": [
+        {
+          "location_name": "נחל מערות",
+          "flowers": [
+            "כלנית",
+            "רקפת",
+            "עירית",
+             "קטלב",
+             "אורן ירושלים"
+          ],
+           "maps_query_location": "Nahal Mearot"
+        },
+        {
+          "location_name": "השביל הכחול",
+           "flowers": [
+             "כלנית",
+             "רקפת",
+             "עירית",
+             "קטלב",
+             "אורן ירושלים"
+          ],
+           "maps_query_location": "Blue Trail"
+        }
+       ]
+    },
+    {
+      "date": "02/02/2022",
+      "observer": "אהרון שגב",
+       "original_text": "הכלניות אדומות בשיא הפריחה.   משטחים אדומים.    מעט אירוס ארץ ישראלי",
+       "locations": [
+        {
+           "location_name": "באר מרווה",
+           "flowers": [
+              "כלנית אדומה",
+              "אירוס ארץ ישראלי"
+           ],
+           "maps_query_location": "Be'er Marva"
+        }
+      ]
+    }
+  ]
+}
+```

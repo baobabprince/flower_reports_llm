@@ -1,0 +1,168 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/04/2018",
+      "observer": null,
+      "original_text": "הזמנה לכל חובבי צמחי הבר \nלמפגש וסיור בחוות הנוי עמק חפש \nב 25 למאי יום שישי .",
+       "locations": [
+        {
+          "location_name": "עמק חפר",
+           "flowers": null,
+           "maps_query_location": "Emek Hefer"
+        }
+      ]
+    },
+    {
+      "date": "25/04/2018",
+      "observer": "עמיר פז",
+      "original_text": "טופח חכלילי+ עדשתי+שעיר, מנטיסלקה מדברית, יבשוש גלילי, חבלבל מצרי, אלמוות שיכני, גלימה גלילית, קוצן מכונף, חוטמית מאוצבעת+מסורטטת, ודרדר אשקלון פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן",
+          "flowers": [
+            "טופח חכלילי",
+            "עדשתי",
+            "שעיר",
+            "מנטיסלקה מדברית",
+            "יבשוש גלילי",
+            "חבלבל מצרי",
+            "אלמוות שיכני",
+            "גלימה גלילית",
+            "קוצן מכונף",
+            "חוטמית מאוצבעת",
+             "חוטמית מסורטטת",
+             "דרדר אשקלון"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "23/04/2018",
+      "observer": null,
+      "original_text": "מזוית שונה , ראו תמונות ",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "שושן צחור"
+          ],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+     {
+      "date": "22/04/2018",
+      "observer": "עמיר פז",
+       "original_text": "צלבית החוף פורחת בגן",
+       "locations": [
+        {
+          "location_name": "גן",
+           "flowers": [
+             "צלבית החוף"
+           ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "21/04/2018",
+      "observer": null,
+      "original_text": "פורח בקרן ברתות ועוד מעט גם בנחל כזיב ובמונפורט ",
+       "locations": [
+         {
+           "location_name": "קרן ברתות",
+            "flowers": [
+            "מישויה פעמונית"
+          ],
+           "maps_query_location": "Keren Bartot"
+         },
+         {
+           "location_name": "נחל כזיב",
+            "flowers": [
+            "מישויה פעמונית"
+            ],
+           "maps_query_location": "Nahal Kziv"
+         },
+         {
+          "location_name": "מונפורט",
+           "flowers": [
+            "מישויה פעמונית"
+             ],
+           "maps_query_location": "Montfort"
+        }
+       ]
+    },
+    {
+      "date": "21/04/2018",
+      "observer": "מיכאל זברציק",
+      "original_text": "שושן צחור פורח בנחל ברתות",
+      "locations": [
+        {
+          "location_name": "נחל ברתות",
+           "flowers": [
+             "שושן צחור"
+           ],
+           "maps_query_location": "Nahal Bartot"
+        }
+      ]
+    },
+    {
+      "date": "21/04/2018",
+      "observer": "Efrat Borenstein",
+      "original_text": "דם המכבים בשמורת נחל עמוד",
+      "locations": [
+        {
+          "location_name": "שמורת נחל עמוד",
+           "flowers": [
+             "דם המכבים"
+           ],
+           "maps_query_location": "Nahal Amud Nature Reserve"
+        }
+      ]
+    },
+    {
+       "date": "20/04/2018",
+       "observer": "יעל בוכמן",
+      "original_text": "השושן הצחור החל לפרוח בהר זיו. תחילת פריחה. כרגע פורחים פרטים בודדים",
+       "locations": [
+        {
+           "location_name": "הר זיו",
+           "flowers": [
+             "שושן צחור"
+             ],
+           "maps_query_location": "Har Ziv"
+        }
+      ]
+    },
+    {
+       "date": "20/04/2018",
+       "observer": null,
+      "original_text": "שושן צחור כרמל 20.4\nהשנה התקינו גדר למניעת טיפוס לפריחה.\nבמקום המרכזי.בנחל כלח",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "שושן צחור"
+            ],
+           "maps_query_location": "Carmel"
+        },
+        {
+          "location_name": "נחל כלח",
+           "flowers": [
+            "שושן צחור"
+            ],
+           "maps_query_location": "Nahal Kelah"
+         }
+      ]
+    },
+    {
+      "date": "19/04/2018",
+       "observer": "רועי קן-תור",
+       "original_text": "התבוננות על הטבע מנקודת מבטו של השבלול.",
+       "locations": null
+    }
+  ]
+}
+```

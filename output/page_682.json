@@ -1,0 +1,219 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/09/2011",
+      "observer": null,
+      "original_text": "התחלת פריחה של חצבים, קיצנית כרתית . סוף פריחה של אשבל ארץ-ישראלי",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "חצב",
+            "קיצנית כרתית",
+            "אשבל ארץ-ישראלי"
+          ],
+           "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "גבעת העיזים",
+          "flowers": [
+            "חצב",
+            "קיצנית כרתית",
+            "אשבל ארץ-ישראלי"
+          ],
+           "maps_query_location": "Givat HaEzim"
+        }
+      ]
+    },
+    {
+      "date": "02/09/2011",
+      "observer": "נעם עביצל",
+      "original_text": "מצפון לחוף חוף האקוודוקט בקיסריה פורחת עדיין לבנונית ימית, תוך שחבצלת החוף מוצאת את מקומה",
+      "locations": [
+        {
+          "location_name": "חוף האקוודוקט",
+          "flowers": [
+            "לבנונית ימית",
+            "חבצלת החוף"
+          ],
+          "maps_query_location": "Aqueduct Beach"
+        },
+        {
+           "location_name": "קיסריה",
+           "flowers": [
+              "לבנונית ימית",
+             "חבצלת החוף"
+            ],
+           "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+    {
+      "date": "01/09/2011",
+      "observer": "עירית",
+      "original_text": "קבוצה יפה ליד עין פחם בגולן לקראת פריחה.",
+       "locations": [
+        {
+          "location_name": "עין פחם",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Ein Faham"
+        },
+         {
+          "location_name": "גולן",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Golan"
+        }
+      ]
+    },
+    {
+      "date": "31/08/2011",
+      "observer": "עירית",
+      "original_text": "עלינו בנחל יגור וירדנו בשביל הדרוזים. בתחילת המסלול חצבים פורחים. בהמצוקי נחל יגור, לקראת סוף העלייה פגשנו קבוצה אחת של חבצלת קטנת פרחים בטרם פריחה. בדרך הנוף פרחו מעט פרע, קוצן קיפח, קיצנית כרתית, פרט אחד של בוצין ופרטים אחדים של ציפורן נקוד. טיול אתגרי ויפה אבל בהחלט לא טיול פריחה...",
+      "locations": [
+        {
+          "location_name": "נחל יגור",
+          "flowers": [
+            "חצב",
+            "חבצלת קטנת פרחים",
+             "פרע",
+            "קוצן קיפח",
+            "קיצנית כרתית",
+             "בוצין",
+             "ציפורן נקוד"
+          ],
+           "maps_query_location": "Nahal Yagur"
+        },
+        {
+          "location_name": "שביל הדרוזים",
+           "flowers": [
+           "חצב",
+            "חבצלת קטנת פרחים",
+            "פרע",
+            "קוצן קיפח",
+            "קיצנית כרתית",
+             "בוצין",
+             "ציפורן נקוד"
+           ],
+            "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "30/08/2011",
+      "observer": null,
+       "original_text": "פורחים בנוחיילה : אשבל ארך שיבולת,מדד הביצות,נענע משובלת,לוטוס הביצות,ליסימכיה מסופקת,ובן אפר",
+      "locations": [
+        {
+          "location_name": "נוחיילה",
+          "flowers": [
+            "אשבל ארך שיבולת",
+            "מדד הביצות",
+            "נענע משובלת",
+             "לוטוס הביצות",
+             "ליסימכיה מסופקת",
+             "בן אפר"
+          ],
+            "maps_query_location": "Nuhaila"
+        }
+      ]
+    },
+     {
+      "date": "26/08/2011",
+      "observer": "סאקרה",
+      "original_text":"וכמה עמודי חצב התרוממו בכניסה לירושלים,ליד גינות סחרוב.",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Tel Hadid"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Jerusalem"
+         },
+         {
+          "location_name": "גינות סחרוב",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Sacher Park"
+         }
+      ]
+    },
+     {
+      "date": "24/08/2011",
+        "observer": "אילן טל",
+       "original_text": "פורחים : נימפיה תכולה , פשטה שרועה , שנית גדולה , פרע ריחני , חבצלת החוף ועוד .",
+       "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "נימפיה תכולה",
+            "פשטה שרועה",
+            "שנית גדולה",
+            "פרע ריחני",
+             "חבצלת החוף"
+          ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "כפר יהושע",
+          "flowers": [
+             "נימפיה תכולה",
+            "פשטה שרועה",
+            "שנית גדולה",
+            "פרע ריחני",
+             "חבצלת החוף"
+          ],
+            "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "21/08/2011",
+      "observer": null,
+      "original_text": " ליד יער בן שמן - הסתיו כמעט כאן",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "21/08/2011",
+        "observer": null,
+      "original_text": "בגעש, וחוף דור",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+             "חבצלת החוף"
+            ],
+            "maps_query_location":"Ga'ash"
+        },
+        {
+          "location_name": "חוף דור",
+           "flowers": [
+            "חבצלת החוף"
+           ],
+           "maps_query_location":"Dor Beach"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,179 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/09/2021",
+      "observer": null,
+      "original_text": "כמו בכל שנה, החלה לפרוח חבצלת הנגב, בן חצב מדברי",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב",
+            "בן חצב מדברי"
+          ],
+           "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2021",
+      "observer": "רות שרון",
+      "original_text": "פריחת סתונית התשבץ ליד מאגר בנטל ברמת הגולן. באותה הזדמנות אפשר לאכול שם עוזררים נהדרים",
+      "locations": [
+        {
+          "location_name": "מאגר בנטל",
+          "flowers": [
+            "סתונית התשבץ"
+          ],
+            "maps_query_location": "Bentel Reservoir"
+        },
+         {
+          "location_name": "רמת הגולן",
+          "flowers": [
+            "סתונית התשבץ"
+          ],
+           "maps_query_location":"Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "27/09/2021",
+      "observer": "שרה גולד",
+      "original_text": "גם כשכמעט אין פריחה יש פריחות : חצבים, אספרג החורש, כתלה חריפה, טיון דביק, קייצת , זוטה לבנה, עוקץ-עקרב אפור, שומר פשוט, בת חבצלת קטנת פרחים",
+      "locations": [
+        {
+          "location_name": "יער בן-שמן",
+          "flowers": [
+            "חצב",
+            "אספרג החורש",
+            "כתלה חריפה",
+             "טיון דביק",
+            "קייצת",
+             "זוטה לבנה",
+             "עוקץ-עקרב אפור",
+            "שומר פשוט",
+            "בת חבצלת קטנת פרחים"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+      {
+      "date": "25/09/2021",
+      "observer": "רנית",
+      "original_text": "במצוק המערבי בקטע 2 קבוצות של סתוויניות",
+       "locations": [
+        {
+         "location_name": "נחל חזורי",
+          "flowers": [
+            "סתוונית"
+          ],
+         "maps_query_location": "Nahal Hazuri"
+         }
+       ]
+    },
+     {
+      "date": "25/09/2021",
+       "observer": "מרגלית בלייברג",
+      "original_text": "ביער ראש העין בצדו המזרחי פה ושם חצב, אך כיסים רבים עם חבצלת קטנת פרחים. צמודות לסלעים",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+            "חצב",
+            "חבצלת קטנת פרחים"
+          ],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+     {
+      "date": "24/09/2021",
+       "observer": "אורלב צח",
+      "original_text": "כמו כל שנה בעונה זו, פריחה יפה של בת חבצלת קטנת פרחים בגבעת קוזלובסקי בגבעתיים",
+      "locations": [
+          {
+          "location_name": "גבעת קוזלובסקי",
+          "flowers": [
+            "בת חבצלת קטנת פרחים"
+          ],
+           "maps_query_location":"Givat Kozlovsky"
+          },
+        {
+          "location_name": "גבעתיים",
+          "flowers": [
+            "בת חבצלת קטנת פרחים"
+          ],
+          "maps_query_location": "Giv'atayim"
+        }
+      ]
+    },
+     {
+      "date": "23/09/2021",
+      "observer": null,
+      "original_text": "כבר פורחת בחזקה",
+      "locations": [],
+       "flowers": [
+           "סתוונית תשבץ"
+           ]
+    },
+    {
+      "date": "22/09/2021",
+        "observer": "גל מגלי",
+      "original_text": "גל ראשון אחרי השיא\nגל שני עמודים לפני פקיעת הפרחים\nהשרפה שהיתה מחזקת את הנוף קונטרס שחור/ לבן",
+      "locations": [
+        {
+          "location_name": "שמורת כרמיה",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location":"Carmia Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2021",
+      "observer": null,
+      "original_text": "עשרות רחים בפריחה ביער עדולם בדרום מערב לישוב נחושה",
+      "locations": [
+       {
+          "location_name": "יער עדולם",
+          "flowers": [
+             "בת חבצלת קטנת פרחים"
+          ],
+           "maps_query_location":"Adullam Grove"
+        },
+        {
+         "location_name": "נחושה",
+           "flowers": [
+             "בת חבצלת קטנת פרחים"
+           ],
+          "maps_query_location":"Nahusha"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2021",
+      "observer": null,
+      "original_text": "בשולי כביש 6 ליד מרכז כביש 6 באזור פתח תקווה",
+      "locations": [
+        {
+           "location_name": "כביש 6",
+           "flowers":[
+              "יצבים"
+           ],
+           "maps_query_location":"Highway 6"
+        },
+        {
+           "location_name":"פתח תקווה",
+           "flowers":[
+              "יצבים"
+           ],
+            "maps_query_location":"Petah Tikva"
+         }
+      ]
+    }
+  ]
+}
+```

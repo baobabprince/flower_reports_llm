@@ -1,0 +1,204 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/01/2022",
+      "observer": "דוד פורת",
+      "original_text": "כף אווז אדומה גם בגופי מים בעמק זבולון  היום 17.01.22  דוד פורת",
+      "locations": [
+        {
+          "location_name": "עמק זבולון",
+          "flowers": [
+            "Chenopodium rubrum"
+          ],
+           "maps_query_location": "Zevulun Valley"
+        }
+      ]
+    },
+    {
+      "date": "16/01/2022",
+      "observer": null,
+      "original_text": "ממשית \nאחילוף הנגב,   בן-שלח מנוצה  דרדר המדבר  זמזומית המדבר, לשון-שור נגבית , מחרוזת משונצת , מלענן קהה , מקור חסידה שעיר , מרווה צמירה , סביון הערבות, עפעפית רבת-פרחים, פגוניה דביקה , פשתנית ססגונית , ציפורני-חתול מצויות, קחוון הנגב ,  שמשון סגלגל\nעומר\nלחן לביד, מלוח מילר,  סתוונית הנגב ,  \nאנדרטאת הנגב ו שמורת איריס-ירוחם \nסתוונית הנגב",
+      "locations": [
+         {
+          "location_name": "ממשית",
+          "flowers": [
+            "Echium judaeum",
+            "Eremogone capillaris",
+             "Centaurea deserti",
+            "Eremostachys laciniata",
+            "Anchusa negevensis",
+             "Reboudia pinnata",
+            "Cometes surattensis",
+             "Erodium hirtum",
+            "Salvia lanigera",
+             "Senecio glaucus",
+            "Anagallis arvensis",
+             "Peganum harmala",
+             "Linaria haelava",
+             "Calendula arvensis",
+              "Matricaria aurea",
+            "Gymnarrhena micrantha"
+          ],
+           "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "עומר",
+          "flowers": [
+             "Lachnophyllum noeanum",
+            "Atriplex halimus",
+             "Colchicum stevenii"
+          ],
+           "maps_query_location": "Omer"
+        },
+         {
+          "location_name": "אנדרטאת הנגב",
+            "flowers": [
+            "Colchicum stevenii"
+            ],
+          "maps_query_location": "Negev Brigade Memorial"
+        },
+         {
+          "location_name": "שמורת איריס-ירוחם",
+           "flowers": [
+            "Colchicum stevenii"
+          ],
+          "maps_query_location": "Iris Yerocham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "16/01/2022",
+      "observer": "עמיר פז",
+        "original_text": "כלנית מצויה, שיבולת שועל גדולה, שרוכנית החוף וא\"י, עוקץ עקרב ביצני, בן חילך הביצות, ארכובית צמירה, וזהבית שרונית פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "Anemone coronaria",
+             "Avena sterilis",
+            "Sarcocornia perennis",
+            "Heliotropium supinum",
+            "Veronica anagallis-aquatica",
+              "Polygonum tomentosum",
+            "Sternbergia clusiana"
+          ],
+           "maps_query_location": "null"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2022",
+      "observer": "אלחנן נוסינסון",
+        "original_text":"כדן נאה, טוריים מצויים,צנון מצוי, עירית גדולה, זמזומית המדבר, יקינטונית מעורקת, פורחים בעליה לסרטבא בשביל הירוק ממעלה הנערים. יקינטונית מעורקת פורחת גם ובעיקר בגבעה לצד הכביש המשובש שעולה מכביש 90 למעלה הנערים.",
+      "locations": [
+        {
+          "location_name": "סרטבא",
+           "flowers": [
+            "Asphodelus aestivus",
+            "Torilis arvensis",
+             "Raphanus sativus",
+            "Asphodelus fistulosus",
+            "Eremostachys laciniata",
+            "Bellevalia flexuosa"
+          ],
+           "maps_query_location": "Sartaba"
+        },
+         {
+           "location_name": "מעלה הנערים",
+            "flowers": [
+               "Bellevalia flexuosa"
+            ],
+           "maps_query_location": "Ma'ale HaNa'arim"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2022",
+      "observer": "גיורא רמות",
+        "original_text":"החלה פריחת כלניות בשדה התעופה של מגידו",
+      "locations": [
+        {
+          "location_name": "מגידו",
+           "flowers": [
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Megiddo"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2022",
+      "observer": "גדי גלקין",
+        "original_text":"כל ההר מכוסה ברקפות.\nאך גם דודאים עיריות ועוד",
+      "locations": [
+        {
+          "location_name": "הר העגול",
+           "flowers": [
+            "Cyclamen persicum",
+             "Mandragora autumnalis",
+               "Asphodelus fistulosus"
+          ],
+           "maps_query_location": "Har HaAgol"
+        }
+      ]
+    },
+     {
+      "date": "14/01/2022",
+      "observer": null,
+        "original_text":"פורחת בסרטבא כמו בכל שנה",
+      "locations": [
+        {
+          "location_name": "סרטבא",
+          "flowers": [
+            "Bellevalia flexuosa"
+          ],
+           "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+     {
+      "date": "14/01/2022",
+      "observer": null,
+        "original_text":"פורחות המוני בצלציות א\"י",
+      "locations": [
+        {
+          "location_name": "עין גב",
+            "flowers": [
+              "Bellevalia galilaea"
+           ],
+          "maps_query_location": "Ein Gev"
+        }
+      ]
+    },
+    {
+      "date": "14/01/2022",
+      "observer": null,
+       "original_text":"פורחת בשפע בגן של עתי יופה",
+      "locations": [
+        {
+           "location_name": "עתי יופה",
+           "flowers": [
+             "Romulea phoenicia"
+           ],
+           "maps_query_location": "null"
+        }
+      ]
+    },
+       {
+      "date": "14/01/2022",
+      "observer": null,
+        "original_text":"ברכס חזקה ברמת הגולן",
+       "locations": [
+        {
+           "location_name": "רמת הגולן",
+             "flowers": [
+              "Cyclamen graecum"
+            ],
+            "maps_query_location": "Golan Heights"
+        }
+        ]
+    }
+  ]
+}
+```

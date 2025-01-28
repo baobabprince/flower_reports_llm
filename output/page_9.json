@@ -1,0 +1,206 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/11/2024",
+      "observer": null,
+      "original_text": "אחילוף הנגב, חמד המדבר",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "אחילוף הנגב",
+            "חמד המדבר"
+          ],
+           "maps_query_location": "Mampsis"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2024",
+      "observer": null,
+      "original_text": "יפרוק תלת-כנפי פורח ליד בה''ד 1, וכתלה חריפה פורחת בבור-חמת סתוונית טוביה פורחת ביער יער-מיתר ובאנדרטת חטיבת הנגב",
+      "locations": [
+        {
+          "location_name": "בה''ד 1",
+          "flowers": [
+            "יפרוק תלת-כנפי"
+          ],
+           "maps_query_location": "Bahad 1"
+        },
+        {
+          "location_name": "בור-חמת",
+           "flowers": [
+            "כתלה חריפה"
+            ],
+           "maps_query_location": "Bor Hamat"
+         },
+         {
+          "location_name": "יער מיתר",
+           "flowers": [
+            "סתוונית טוביה"
+            ],
+           "maps_query_location":"Yar Meitar"
+         },
+         {
+          "location_name": "אנדרטת חטיבת הנגב",
+           "flowers": [
+              "סתוונית טוביה"
+            ],
+           "maps_query_location":"Negev Brigade Memorial"
+         }
+      ]
+    },
+    {
+      "date": "27/11/2024",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": null,
+       "locations": [
+        {
+          "location_name": "הר אדיר",
+          "flowers": ["סתוונית"],
+          "maps_query_location":"Har Adir"
+         }
+        ]
+    },
+    {
+      "date": "25/11/2024",
+      "observer": null,
+      "original_text": "בגולן חלמונית זעירה במושב-כחל , כרכום השבכה בתל-אביטל, כרכום השבכה ברכס-נימרון , כרכום חרמוני - תת-מין ארץ-ישראלי במאגר-בנטל וגם כרכום נאה במאגר-בנטל",
+      "locations": [
+        {
+          "location_name": "גולן",
+          "flowers": [
+             "חלמונית זעירה",
+            "כרכום השבכה",
+            "כרכום חרמוני",
+            "כרכום נאה"
+          ],
+           "maps_query_location":"Golan Heights"
+         },
+        {
+          "location_name": "מושב כחל",
+           "flowers": [
+            "חלמונית זעירה"
+            ],
+           "maps_query_location":"Moshav Kahal"
+         },
+         {
+          "location_name": "תל אביטל",
+            "flowers": [
+            "כרכום השבכה"
+             ],
+             "maps_query_location":"Tel Avital"
+         },
+         {
+          "location_name": "רכס נימרון",
+           "flowers": [
+              "כרכום השבכה"
+            ],
+             "maps_query_location":"Nimron Ridge"
+         },
+          {
+          "location_name": "מאגר בנטל",
+            "flowers": [
+              "כרכום חרמוני",
+              "כרכום נאה"
+            ],
+              "maps_query_location":"Bental Reservoir"
+        }
+      ]
+    },
+        {
+      "date": "25/11/2024",
+      "observer": null,
+      "original_text": "אפרורית מצויה, ארכובית הציפורים, ורבנה שרועה",
+      "locations": [
+        {
+          "location_name": "בריכת בראון",
+          "flowers": [
+            "אפרורית מצויה",
+            "ארכובית הציפורים",
+            "ורבנה שרועה"
+          ],
+          "maps_query_location": "Birket Brown"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2024",
+       "observer": null,
+      "original_text": "אחילוף-הגליל , חלבלוב שעיר-פרי , סתוונית ירושלים",
+      "locations": [
+        {
+          "location_name": "צומת גולני",
+           "flowers": [
+              "אחילוף הגליל",
+             "חלבלוב שעיר-פרי",
+             "סתוונית ירושלים"
+            ],
+            "maps_query_location": "Golani Junction"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2024",
+      "observer": null,
+      "original_text": "רקפת מצויה זן סתווי , חלמונית גדולה , טיון חריף , סתוונית היורה",
+      "locations": [
+        {
+          "location_name": "מבוא חמה",
+            "flowers": [
+              "רקפת מצויה",
+              "חלמונית גדולה",
+              "טיון חריף",
+               "סתוונית היורה"
+            ],
+             "maps_query_location": "Mevo Hama"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2024",
+       "observer": "ענת שדה",
+      "original_text": null,
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+           "flowers": [
+              "נרקיס"
+           ],
+            "maps_query_location": "Shoham Forest"
+        }
+      ]
+    },
+     {
+      "date": "21/11/2024",
+       "observer": null,
+      "original_text": "עכשיו השיא בודאי",
+      "locations": [
+       {
+         "location_name": "חניון להבים",
+         "flowers": [
+           "חלמונית"
+           ],
+          "maps_query_location": "Lahavim Parking"
+         }
+      ]
+    },
+    {
+      "date": "16/11/2024",
+      "observer": null,
+      "original_text": "חלבלוב שעיר-פרי, טוריים צרי-עלים",
+      "locations": [
+        {
+          "location_name": "חוות קיימא חוקוק",
+          "flowers": [
+              "חלבלוב שעיר-פרי",
+              "טוריים צרי-עלים"
+            ],
+             "maps_query_location": "Hukok Farm"
+        }
+      ]
+    }
+  ]
+}
+```

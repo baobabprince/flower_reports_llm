@@ -1,0 +1,206 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/11/2015",
+      "observer": "ברוך גיאן",
+      "original_text": "ברוך גיאן צילם את המרבד- אסור להחמיץ",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": [
+            "סתוונית"
+          ],
+           "maps_query_location": "Givat HaTanakh"
+        },
+        {
+          "location_name": "ירושלים",
+          "flowers": [
+            "סתוונית"
+          ],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2015",
+      "observer": null,
+       "original_text": "ראו בקישור  המצורף - שפע של פריחה",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": [],
+           "maps_query_location": "Hurvat Melah"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2015",
+      "observer": null,
+       "original_text": "הצמחים השנה מקדימים לפרוח - כנראה עקב הגשמים הכבדים. מרסיה יפהפיה, נץ חלב הררי, ושרוכנית החוף פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "מרסיה",
+            "נץ חלב הררי",
+            "שרוכנית החוף"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2015",
+      "observer": "נעם עביצל",
+      "original_text": "באזור שמעל עין-צור (שברמת הנדיב) פורחים בימים אלו שפע של סתווניות היורה בין שיחי אספרג  החורש בשיא פריחתו שעליו פורחת הקיסוסית הקוצנית. מראה מרהיב !. אם תמשיכו עד לחורבת עלק, תזכו לראות ים של אגבות אמריאיות בתפארתן.",
+      "locations": [
+        {
+          "location_name": "עין צור",
+           "flowers": [
+            "סתוונית היורה",
+              "קיסוסית קוצנית"
+          ],
+          "maps_query_location": "Ein Tzur"
+        },
+         {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+             "סתוונית היורה",
+              "קיסוסית קוצנית"
+            ],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+         {
+          "location_name": "חורבת עלק",
+          "flowers": [
+              "אגבה אמריקאית"
+           ],
+          "maps_query_location": "Hurvat Aleq"
+        }
+      ]
+    },
+     {
+      "date": "13/11/2015",
+      "observer": null,
+       "original_text": "מדהים!!! ראו בקישור באמצע השכונה. שדה סתווניות ברח' צונדק פינת רח' אהרן אשכולי. שכונת רמות, ירושלים.",
+      "locations": [
+        {
+          "location_name": "רחוב צונדק",
+          "flowers": [
+            "סתוונית"
+          ],
+           "maps_query_location": null
+         },
+        {
+          "location_name": "רחוב אהרן אשכולי",
+            "flowers": [
+            "סתוונית"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "רמות",
+          "flowers": [
+             "סתוונית"
+          ],
+           "maps_query_location": "Ramot"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": [
+             "סתוונית"
+          ],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2015",
+       "observer": null,
+      "original_text": "פתחו בבקשה את הקישור שלמטה",
+       "locations": []
+    },
+    {
+      "date": "09/11/2015",
+       "observer": "אבנר",
+      "original_text": "פריחה רבה של בן חצב סיתוני .נרקיס אפיל .סיתונית היורה וקצת כדנים",
+      "locations": [
+        {
+          "location_name": "שמורת נחל תנינים",
+          "flowers": [
+            "בן חצב סתווני",
+             "נרקיס אפיל",
+             "סתוונית היורה",
+             "כדן"
+          ],
+           "maps_query_location": "Nahal Taninim"
+        }
+      ]
+    },
+     {
+      "date": "09/11/2015",
+      "observer": "אלי ליבנה",
+      "original_text": "התגלית המפתיעה בסיור היה לראות את סיתוונית ירושלים פורחת בחרמון, מה שלא היה ידוע ולא דווח קודם.",
+      "locations": [
+         {
+          "location_name": "חרמון",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2015",
+       "observer": null,
+       "original_text": "החורף כבר כאן , לא רק גשם גם פרחים.",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+             "זלזלת הקנוקנות"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/11/2015",
+       "observer": null,
+       "original_text": "בגבעות הכורכר  לאורך החוף : מעגן מיכאל ,  נחל תנינים בית חנניה, וחירבת מלח",
+      "locations": [
+         {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+              "נרקיס סתווי"
+          ],
+          "maps_query_location": "Magan Michael"
+        },
+        {
+          "location_name": "נחל תנינים",
+          "flowers": [
+               "נרקיס סתווי"
+          ],
+           "maps_query_location": "Nahal Taninim"
+        },
+         {
+          "location_name": "בית חנניה",
+          "flowers": [
+               "נרקיס סתווי"
+          ],
+            "maps_query_location": "Beit Hananya"
+         },
+           {
+          "location_name": "חורבת מלח",
+          "flowers": [
+              "נרקיס סתווי"
+          ],
+             "maps_query_location": "Hurvat Melah"
+         }
+      ]
+    }
+  ]
+}
+```

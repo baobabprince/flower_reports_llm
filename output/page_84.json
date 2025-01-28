@@ -1,0 +1,271 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "פריחה מרשימה של תורמוס ההרים בתל קטרה שבגדרה. נראה שזו שיא הפריחה היוצרת מרבדים של פרחים.",
+      "locations": [
+        {
+          "location_name": "תל קטרה",
+          "flowers": [
+            "תורמוס ההרים"
+          ],
+          "maps_query_location": "Tel Qatra"
+        },
+         {
+          "location_name": "גדרה",
+          "flowers": [
+            "תורמוס ההרים"
+           ],
+          "maps_query_location": "Gedera"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2023",
+       "observer": "דוד ח\"צ",
+      "original_text": "בנוסף לתורמוס ההרים חש פריחה של כלניות ורקפות.",
+      "locations": [
+        {
+          "location_name": "תל שוכה",
+          "flowers": [
+            "תורמוס ההרים",
+            "כלנית מצויה",
+            "רקפת מצויה"
+          ],
+           "maps_query_location": "Tel Sokha"
+        }
+      ]
+    },
+    {
+      "date": "19/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "שקדיות יש בארצנו.\n\nאך גם בחבל אנדלוסיה שבספרד יש פריחה מדהימה של שקדיות. מי שצופה במרוץ האופניים - הטור של אנדלוסיה - יכול/ה לראות לצידי הדרך שקדיות לרוב. חלקן בפריחה בצבע וורוד נהדר.\n\nהמרוץ משודר כעת בערוץ היורוספורט.",
+      "locations": [
+        {
+          "location_name": "ארצנו",
+            "flowers": [
+            "שקד מצוי"
+          ],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "אנדלוסיה",
+            "flowers": [
+            "שקד מצוי"
+          ],
+           "maps_query_location": "Andalusia"
+         },
+         {
+            "location_name": "ספרד",
+             "flowers": [
+             "שקד מצוי"
+           ],
+             "maps_query_location": "Spain"
+         }
+      ]
+    },
+    {
+      "date": "19/02/2023",
+       "observer": null,
+      "original_text": "כורזים:\nתורמוס ההרים, כרמלית נאה \nאיריס הביצות : \nכפר יהשע אחו נב \nאחו נב:\nאיריס הביצות, רומוליאה סגלולית , נרקיס מצוי\nחוץ בצת:\nשפתן מצוי, קדד בירותי , פרסיון גדול , סחלב נקוד , לשון-פר מגובבת , חלבלוב החוף , אספסת החוף \nהר אדיר:\nאביבית בינונית, דבורנית שחומה , כלנית מצויה , סחלב מצוייר , סחלב פרפרני \nיער חניתה:\nאשחר רחב-עלים ,  טמוס מצוי , כתרון זעיר-פרח,   מרווה מצויה ,  סחלב נקוד, \nנחל אל על: \nאזולה שרכנית  (ליד חיספין) , פקועה מצויה  (פטריה)",
+      "locations": [
+        {
+          "location_name": "כורזים",
+          "flowers": [
+            "תורמוס ההרים",
+             "כרמלית נאה"
+          ],
+           "maps_query_location": "Korazim"
+        },
+         {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "איריס הביצות"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        },
+        {
+          "location_name": "אחו נב",
+           "flowers": [
+            "איריס הביצות",
+             "רומוליאה סגלולית",
+              "נרקיס מצוי"
+          ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "חוף בצת",
+           "flowers": [
+            "שפתן מצוי",
+             "קדד בירותי",
+              "פרסיון גדול",
+              "סחלב נקוד",
+              "לשון-פר מגובבת",
+               "חלבלוב החוף",
+                "אספסת החוף"
+          ],
+           "maps_query_location": "Bezet Beach"
+        },
+        {
+          "location_name": "הר אדיר",
+           "flowers": [
+            "אביבית בינונית",
+             "דבורנית שחומה",
+              "כלנית מצויה",
+              "סחלב מצוייר",
+              "סחלב פרפרני"
+           ],
+           "maps_query_location":"Har Adir"
+        },
+        {
+           "location_name":"יער חניתה",
+            "flowers": [
+              "אשחר רחב-עלים",
+               "טמוס מצוי",
+                "כתרון זעיר-פרח",
+                 "מרווה מצויה",
+                  "סחלב נקוד"
+           ],
+            "maps_query_location": "Hanita Forest"
+        },
+        {
+          "location_name": "נחל אל על",
+           "flowers": [
+            "אזולה שרכנית",
+              "פקועה מצויה"
+          ],
+           "maps_query_location": "Nahal El Al"
+        },
+        {
+          "location_name": "חיספין",
+           "flowers": [
+            "אזולה שרכנית"
+           ],
+           "maps_query_location": "Hispin"
+         }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "התורמוסים בשיא פריחה \nראו מסלול בקישור למטה",
+      "locations": [
+        {
+          "location_name": "נחל תבור",
+          "flowers": [
+            "תורמוס ההרים"
+          ],
+          "maps_query_location": "Nahal Tavor"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "עכשיו בשיא פריחה , המסלול בקישור למטה",
+      "locations": [
+        {
+          "location_name": "תל סכה",
+          "flowers": [
+            "תורמוס ההרים"
+          ],
+          "maps_query_location": "Tel Sekha"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "כך דווח\nבתל סכה ובתבור , צאו לטייל",
+       "locations": [
+         {
+            "location_name": "תל סכה",
+             "flowers": [
+               "תורמוס ההרים"
+              ],
+              "maps_query_location": "Tel Sekha"
+          },
+           {
+            "location_name": "תבור",
+            "flowers": [
+               "תורמוס ההרים"
+               ],
+            "maps_query_location": "Tavor"
+          }
+       ]
+    },
+     {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "ראו אלבום: \nמספר סחלבים",
+        "locations":[
+          {
+            "location_name": "הכרמל",
+            "flowers": [
+                "סחלב"
+            ],
+            "maps_query_location": "Carmel"
+          }
+        ]
+     },
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "פורחת בימים אלה \nבגבעת שר במודיעין  בכרמל, ביער ראש העין בגלבוע, ועוד, דווחו לנו על פריחתה",
+      "locations": [
+         {
+          "location_name":"גבעת שר",
+            "flowers":[
+              "גביעונית הלבנון"
+              ],
+            "maps_query_location": "Givat Sher"
+          },
+         {
+           "location_name": "מודיעין",
+             "flowers": [
+                 "גביעונית הלבנון"
+               ],
+           "maps_query_location": "Modi'in"
+          },
+          {
+            "location_name": "הכרמל",
+            "flowers": [
+               "גביעונית הלבנון"
+             ],
+            "maps_query_location": "Carmel"
+          },
+          {
+            "location_name": "יער ראש העין",
+            "flowers": [
+                 "גביעונית הלבנון"
+             ],
+             "maps_query_location": "Rosh HaAyin Forest"
+           },
+           {
+              "location_name": "הגלבוע",
+               "flowers": [
+                   "גביעונית הלבנון"
+                ],
+              "maps_query_location": "Gilboa"
+           }
+      ]
+    },
+    {
+      "date": "18/02/2023",
+      "observer": null,
+      "original_text": "ראו אלבום",
+        "locations":[
+          {
+            "location_name":"ניר יצחק",
+              "flowers":[
+                "איריס הנגב"
+                ],
+              "maps_query_location":"Nir Yitzhak"
+           }
+         ]
+    }
+  ]
+}
+```

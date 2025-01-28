@@ -1,0 +1,183 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/09/2015",
+      "observer": null,
+      "original_text": "בשביל הפיסגה במירון",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": [
+            "סתוונית בכירה"
+          ],
+           "maps_query_location": "Meron"
+        }
+      ]
+    },
+    {
+      "date": "27/09/2015",
+      "observer": "עמיר ספיר",
+      "original_text": "סתוונית בכירה- ליד עין הזקן קוצן קיפח (סוף פריחה) חורשף מצוייץ פרע קטן עלים (סוף פריחה)",
+       "locations": [
+        {
+          "location_name": "עין הזקן",
+          "flowers": [
+            "סתוונית בכירה",
+             "קוצן קיפח",
+            "חורשף מצויץ",
+            "פרע קטן-עלים"
+          ],
+           "maps_query_location": "Ein HazeKan"
+        }
+      ]
+    },
+    {
+      "date": "26/09/2015",
+       "observer": null,
+      "original_text": "החלה לפרוח ברחבי הארץ",
+      "locations": [
+        {
+          "location_name": "ישראל",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+          "maps_query_location": "Israel"
+        }
+      ]
+    },
+     {
+      "date": "26/09/2015",
+      "observer": null,
+      "original_text": "וסיתוונית הקליפות פורחת בהר הנגב",
+      "locations": [
+         {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "הר הנגב",
+          "flowers": [
+            "סתוונית הקליפות"
+          ],
+           "maps_query_location": "Har Hanegev"
+        }
+      ]
+    },
+    {
+      "date": "25/09/2015",
+      "observer": null,
+       "original_text": "חוטמית מסורטטת,בן חילף הביצות,אולדנית הכף,כריך שחום,דוחן תרבותי,מדחול הודי,וזיפן קטן פרחים פורחים בגן",
+      "locations": [
+        {
+           "location_name": "גן געש",
+          "flowers": [
+             "חוטמית מסורטטת",
+            "בן-חילף הביצות",
+             "אולדנית הכף",
+             "כריך שחום",
+            "דוחן תרבותי",
+             "מדחול הודי",
+            "זיפן קטן-פרחים"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2015",
+       "observer": null,
+      "original_text": "בית צמח השדה אבלים ושולחים ניחומים לשמיל קליין מחספין על פטירת אשתו",
+       "locations": [
+         {
+          "location_name": "חספין",
+           "flowers": [],
+           "maps_query_location":"Hispin"
+         }
+       ]
+    },
+    {
+      "date": "22/09/2015",
+      "observer": null,
+      "original_text": "פריחת חבצלת חוף ונר הלילה חורפי ולפופית החוף הלבנה.",
+      "locations": [
+         {
+          "location_name":"חוף מעין צבי",
+           "flowers": [
+              "חבצלת חוף",
+             "נר הלילה החורפי",
+              "לפופית החוף הלבנה"
+            ],
+            "maps_query_location": "Mei'en Zevi"
+         }
+      ]
+    },
+    {
+      "date": "20/09/2015",
+       "observer": null,
+      "original_text": "בכביש 444 ליד אלעד נמצא המאוזולאום ליד הישוב אלעד. ליד המאוזולאום פורחים בכל שנה חצבים רבים עכשיו הם בשיא הפריחה",
+      "locations": [
+        {
+          "location_name": "מזור",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Mazor"
+        },
+        {
+          "location_name": "אלעד",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "El'ad"
+        }
+      ]
+    },
+    {
+      "date": "19/09/2015",
+      "observer": "דורית קלנר",
+      "original_text": "מעט דרומה מנאות חובב, מול תחנת פז, הרבה חצבים בשלבי פריחה שונים",
+       "locations": [
+        {
+          "location_name": "נאות חובב",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Ne'ot Hovav"
+        }
+      ]
+    },
+    {
+       "date": "17/09/2015",
+      "observer": null,
+      "original_text": "היום בצהרים נסענו לטבריה ובדרך מול מבצר חיטים על יד מאגר המים של ואדי חמאם קבוצות של חצבים מאד יפים",
+      "locations": [
+        {
+          "location_name": "טבריה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tiberias"
+        },
+        {
+          "location_name":"מבצר חיטים",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Metzudat Hittin"
+        },
+        {
+           "location_name":"ואדי חמאם",
+            "flowers": [
+              "חצב"
+             ],
+            "maps_query_location": "Wadi Hamam"
+        }
+      ]
+    }
+  ]
+}
+```

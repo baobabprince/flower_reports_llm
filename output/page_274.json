@@ -1,0 +1,191 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/12/2019",
+      "observer": null,
+      "original_text": "כרכום צהבהב ועוד ראו אלבום בקישור",
+      "locations": [
+        {
+          "location_name": "אחו דלתון",
+           "flowers": ["כרכום צהבהב"],
+          "maps_query_location": "Ahu Dalton"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2019",
+      "observer": null,
+      "original_text": "פורחים שם נרקיסים, גולנית ערב בפריחה יפה, זמזומית הנגב ועוד. רדו וטיילו בנחל דימונה",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+          "flowers": ["נרקיס", "גולנית ערב", "זמזומית הנגב"],
+          "maps_query_location": "Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "13/12/2019",
+      "observer": "יעקב מחלב",
+      "original_text": "פריחת רקפות היום ביער חרובית",
+       "locations": [
+        {
+          "location_name": "יער חרובית",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Yaar Hrobit"
+        }
+      ]
+    },
+     {
+      "date": "09/12/2019",
+      "observer": "דוד פורת",
+        "original_text": "07.12.19  תל שחרית – שברק מצוי - עשרות עשרות בני שיח קטנים עדיין פורחים. חלביב רותמי – אוכלוסיית התל וסביבתו הצמודה  שמנתה כבר 27 שיחים גדולים נשרפה כליל בדליקה האחרונה השנה ורק 3 פרטים מתחילים להעלות ענפים ירוקים לא מעוצים עם מעט עלים קטנים. ככל הנראה שאר האוכלוסייה לא שרדה.  רמת כוכב – מדרונות מזרח של המצוק וסביבות הגן הלאומי – עופרית אירופית –  מאות בני שיח מתעקשים גם הם  עדיין בפריחה מרשימה + ויתניה משכרת – שיחים בשיא פריחה. חוטמית עין הפרה – 3 גושים נחמדים של עלי הבסיס בלבד – מעט מערבית לקבר הר ציון.  צומת מנחמיה – גם מככר התנועה  שבמעלה לחוות סירין שעל כביש 7188 ולאורכו נ.צ תחילתי  253005/729136  והלאה מעלה,  עשרות פרטי בורהביה זוחלת בפריחה – אין ספק, מנחמיה, אתריה ומעלה אילות – בירת הבורהביה הזוחלת בארצנו.",
+      "locations": [
+         {
+          "location_name": "תל שחרית",
+           "flowers": ["שברק מצוי","חלביב רותמי"],
+          "maps_query_location": "Tel Shacharit"
+        },
+        {
+          "location_name": "רמת כוכב",
+          "flowers": ["עופרית אירופית", "ויתניה משכרת"],
+          "maps_query_location": "Ramat Kokhav"
+        },
+         {
+          "location_name": "קבר הר ציון",
+            "flowers": ["חוטמית עין הפרה"],
+            "maps_query_location": "Kever Har Tzion"
+        },
+        {
+          "location_name": "צומת מנחמיה",
+          "flowers": ["בורהביה זוחלת"],
+           "maps_query_location": "Tzomet Menachemia"
+        },
+         {
+          "location_name": "מנחמיה",
+            "flowers": ["בורהביה זוחלת"],
+           "maps_query_location": "Menachemia"
+        },
+         {
+          "location_name": "מעלה אילות",
+           "flowers": ["בורהביה זוחלת"],
+          "maps_query_location":"Maale Eilot"
+        }
+      ]
+    },
+     {
+      "date": "09/12/2019",
+      "observer": null,
+      "original_text": "בנחל כסלון",
+      "locations": [
+         {
+          "location_name": "נחל כסלון",
+           "flowers": ["נרקיס מצוי"],
+          "maps_query_location": "Nahal Ksalon"
+        }
+      ]
+    },
+    {
+      "date": "08/12/2019",
+       "observer": "אייל עפאים",
+      "original_text": "המוני סתווניות בתחילת פריחתן, לא מרבדים אבל המון בודדות; ספציפית נצפו במסלולי חורבת בורגין",
+       "locations": [
+         {
+          "location_name": "עמק האלה",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Emek HaEla"
+        },
+         {
+           "location_name": "חורבת בורגין",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Hurvat Burgin"
+        }
+      ]
+    },
+      {
+      "date": "07/12/2019",
+       "observer": "דרור בר-ניר",
+      "original_text": "כרכום חורפי, בוצין מפורץ, ארכובית שבטבטית, מציץ סורי, חיננית רב-שנתית, עכנאי שרוע",
+       "locations": [
+        {
+          "location_name": "נחל חלילים",
+          "flowers": ["כרכום חורפי", "בוצין מפורץ", "ארכובית שבטבטית", "מציץ סורי", "חיננית רב-שנתית", "עכנאי שרוע"],
+          "maps_query_location": "Nahal Halilim"
+        }
+      ]
+    },
+    {
+       "date": "07/12/2019",
+       "observer": null,
+        "original_text": "נקסים מצוי, חיננית הבתה ,  סתוונית היורה, כרכום חורפי ועוד",
+        "locations": [
+         {
+          "location_name": "כרמל",
+           "flowers": ["נרקיס מצוי", "חיננית הבתה", "סתוונית היורה", "כרכום חורפי"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+      {
+      "date":"07/12/2019",
+      "observer": null,
+      "original_text": "בקיבוץ יסעור - כמידי שנה",
+       "locations": [
+         {
+           "location_name": "קיבוץ יסעור",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Kibbutz Yasur"
+        }
+      ]
+    },
+   {
+      "date": "07/12/2019",
+      "observer": null,
+      "original_text": "אגמון הכדורים  רמת-מגשימים\nנאות-גולן : אחילוף הגליל , חלמונית גדולה\nקבוצת-כינרת : דושן שעיר, זנבה נטויה , לעוסית מטפסת, עשבת המרעה\nמבוא-חמה : בת-חלמית שרועה , רקפת מצויה , שוש קרח\nצומת גולני: אחילוף הגליל, סתוונית ירושלים\nכרכום נאה  איריסיים  תל-חזקה\nהר-נמרון ומבוא-חמה  : חלמונית גדולה,  כרכום השבכה  ,כרכום חרמוני , סתוונית היורה",
+      "locations": [
+          {
+            "location_name": "רמת מגשימים",
+            "flowers": ["אגמון הכדורים"],
+            "maps_query_location": "Ramat Magshimim"
+          },
+           {
+             "location_name": "נאות גולן",
+             "flowers": ["אחילוף הגליל", "חלמונית גדולה"],
+             "maps_query_location":"Neot Golan"
+          },
+           {
+             "location_name":"קבוצת כינרת",
+              "flowers": ["דושן שעיר", "זנבה נטויה", "לעוסית מטפסת", "עשבת המרעה"],
+             "maps_query_location":"Kibbutz Kinneret"
+          },
+          {
+            "location_name": "מבוא חמה",
+            "flowers": ["בת-חלמית שרועה", "רקפת מצויה", "שוש קרח"],
+             "maps_query_location": "Mevo Hama"
+          },
+           {
+            "location_name": "צומת גולני",
+             "flowers": ["אחילוף הגליל", "סתוונית ירושלים"],
+             "maps_query_location": "Tzomet Golani"
+          },
+           {
+             "location_name": "תל חזקה",
+             "flowers": ["כרכום נאה"],
+            "maps_query_location":"Tel Hazeka"
+          },
+           {
+             "location_name": "הר נמרון",
+              "flowers": ["חלמונית גדולה", "כרכום השבכה", "כרכום חרמוני", "סתוונית היורה"],
+             "maps_query_location": "Har Nimron"
+          },
+           {
+            "location_name": "מבוא חמה",
+            "flowers": ["חלמונית גדולה", "כרכום השבכה", "כרכום חרמוני", "סתוונית היורה"],
+             "maps_query_location": "Mevo Hama"
+          }
+        ]
+    }
+  ]
+}
+```

@@ -1,0 +1,188 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/12/2018",
+      "observer": "מיכאל לרנר",
+      "original_text": "ענבה באזור האוכף מצפון: נץ חלב הררי, כלניות (2), כליל החורש ושקד דליל.     רגב: זוטה לבנה ובין ח. רגב לגבעה 184 כלנית (1) ושקדיה אחת בשיא הפריחה והריח.",
+      "locations": [
+        {
+          "location_name": "עין ענבה",
+           "flowers": ["נץ חלב הררי", "כלנית", "כליל החורש", "שקד"],
+          "maps_query_location": "Ein Anava"
+        },
+         {
+          "location_name": "חרבת רגב",
+           "flowers": ["זוטה לבנה", "כלנית", "שקד"],
+          "maps_query_location": "Horbat Regev"
+        },
+         {
+          "location_name": "גבעה 184",
+           "flowers": ["כלנית", "שקד"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "13/12/2018",
+      "observer": "דוד פורת",
+      "original_text": "בורהביה זוחלת,  רכס פוריה,   11.12.18 שעות הבוקר,   במקום המסורתי,  1 פרט שרוע לחלוטין  בשדה הבעל  הפתוח,  החשוף,   מוכה שמש  ויובשני.    קוטרו  1 מטר, נושא   ניצני פריחה ופרחים  (שליש דצמבר!).  בין אם מאחרים ובין אם מקדימים כדאי לעדכן סרגל הפריחה.\nכמו כן בקחווני,  אפיקים שבעמק,  פורחת הלוביה המצרית – אוכלוסיה זעירה מנסה עדיין לשרוד את ייבוש גופי המים שם.",
+      "locations": [
+        {
+          "location_name": "רכס פוריה",
+          "flowers": ["בורהביה זוחלת"],
+          "maps_query_location": "Poriya Ridge"
+        },
+         {
+          "location_name": "קחווני",
+           "flowers": ["לוביה מצרית"],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "אפיקים",
+          "flowers": ["לוביה מצרית"],
+          "maps_query_location": "Afikim"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2018",
+      "observer": null,
+      "original_text": "ליד עיר אובות, צמוד לכביש לכיוון מעלה העקרבים ראיתי כ- 10-20 מטפסים של מחומש לולייני מתעלקים על שיטים ואטדים. למרות \"טרום העונה\" - כבר היו על חלקם מעט פרחים. אולי הגשמים האחרונים גרמו לפריחה מוקדמת זו.\n\nבעין יהב, בחצר מסעדת גמלייה, פגשתי מספר עצי זקום מצרי, עמוסי פרי, הרבה עלים ואף מעט פרחים. כנראה שההשקיה והמתחם הסגור גרמו למיקרו אקלים שמנע את שלכת הקיץ ואף גרמו לפריחה המוקדמת. בשנה שעברה, \"אצלנו\", ליד קיבוץ מעוז חיים, הזקום החל ללבלב רק באפריל ופרח רק במאי!",
+      "locations": [
+        {
+          "location_name": "עיר אובות",
+          "flowers": ["מחומש לולייני"],
+          "maps_query_location": "Ir Ovot"
+         },
+          {
+          "location_name": "מעלה עקרבים",
+          "flowers": ["מחומש לולייני"],
+           "maps_query_location": "Ma'ale Akrabim"
+         },
+          {
+          "location_name": "עין יהב",
+          "flowers": ["זקום מצרי"],
+          "maps_query_location": "Ein Yahav"
+         },
+         {
+          "location_name": "מעוז חיים",
+          "flowers": ["זקום מצרי"],
+          "maps_query_location": "Maoz Haim"
+         }
+
+      ]
+    },
+    {
+      "date": "12/12/2018",
+      "observer": "מיכאל לרנר",
+      "original_text": "למרגלות תל חדיד",
+      "locations": [
+          {
+            "location_name": "תל חדיד",
+            "flowers": ["כלנית", "נץ חלב הררי"],
+            "maps_query_location": "Tel Hadid"
+          },
+           {
+           "location_name": "יער בן שמן",
+            "flowers": ["כלנית", "נץ חלב הררי"],
+            "maps_query_location": "Ben Shemen Forest"
+           }
+      ]
+    },
+    {
+      "date": "11/12/2018",
+       "observer": "מיכה ארז",
+      "original_text": "תחילת פריחה של נרקיסים בנחל חצץ.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2018",
+      "observer": null,
+      "original_text": "דודא רפואי, ציפורן נקוד, מרווה מצויה, נואית קוצנית",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+            "flowers": ["דודא רפואי", "ציפורן נקוד", "מרווה מצויה", "נואית קוצנית"],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+    {
+       "date": "11/12/2018",
+      "observer": null,
+       "original_text": "אשבל השדה פורח בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+           "flowers": ["אשבל השדה"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "08/12/2018",
+      "observer": null,
+      "original_text": "ממשית: אחילוף זעיר לופיים , כפתור החולות  \nבורות לוץ : סתוונית הרמון, כלך דו-דורי  \nפסגות: כרכום החרמון תת-מין ארץ-ישראלי , כרכום חורפי, חיננית הבתה, כתמה עבת-שורשים \nמישור-אדומים : מלחית אשונה, סתוונית טוביה",
+      "locations": [
+        {
+           "location_name": "ממשית",
+            "flowers": ["אחילוף זעיר לופיים", "כפתור החולות"],
+           "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["סתוונית הרמון", "כלך דו-דורי"],
+          "maps_query_location": "Borot Lotz"
+        },
+        {
+           "location_name": "פסגות",
+          "flowers": ["כרכום החרמון", "כרכום חורפי", "חיננית הבתה", "כתמה עבת-שורשים"],
+           "maps_query_location": "Psagot"
+        },
+        {
+          "location_name": "מישור אדומים",
+            "flowers": ["מלחית אשונה", "סתוונית טוביה"],
+           "maps_query_location": "Mishor Adumim"
+         }
+
+      ]
+    },
+    {
+      "date": "08/12/2018",
+      "observer": null,
+       "original_text": "הנרקיסים בשיא פריחה בנחל דימונה . ראו מסלול בקישור",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Dimona"
+        },
+         {
+          "location_name":"דימונה",
+           "flowers": ["נרקיס"],
+          "maps_query_location":"Dimona"
+         }
+      ]
+    },
+    {
+      "date": "08/12/2018",
+      "observer": null,
+       "original_text": "צפו באלבום בקישור : זלזלת הקנוקנות, כרכום גיארדו, ציפורן נקוד ועו ד",
+      "locations": [
+        {
+           "location_name": "חורבת מלח",
+            "flowers": ["זלזלת הקנוקנות", "כרכום גיארדו", "ציפורן נקוד"],
+            "maps_query_location": "Horbat Melah"
+        }
+      ]
+    }
+  ]
+}
+```

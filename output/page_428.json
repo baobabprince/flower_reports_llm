@@ -1,0 +1,217 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/02/2017",
+      "observer": "רון חרמוני",
+      "original_text": "לשון-פר מצרית, לשון-פר סמורה, זמזומית מצויה, עשנן צפוף, גביעונית הלבנון, ציפורנית מצרית, צמר מפוצל, כלנית מצויה, רקפת מצויה, ציפורני חתול מצויות, סביון אביבי, זהבית דמשקאית, מלקולמיה חרוקה, קדד גדל-פרי, דודא רפואי, ביקיה צרפתית, צנון פגיוני, צהרון מצוי, מרגנית השדה, מרווה דגולה, קידה שעירה, לחך בלוטי ועוד",
+      "locations": [
+        {
+          "location_name": "רמת סירין",
+          "flowers": [
+            "Anchusa aegyptiaca",
+            "Anchusa strigosa",
+            "Echium judaeum",
+            "Fumaria densiflora",
+             "Gagea libanotica",
+            "Petrorhagia aegyptia",
+            "Pulicaria guestii",
+            "Anemone coronaria",
+            "Cyclamen persicum",
+            "Calendula arvensis",
+            "Senecio vernalis",
+            "Sternbergia clusiana",
+            "Malcolmia crenulata",
+            "Astragalus macrocarpus",
+            "Mandragora autumnalis",
+            "Vicia narbonensis",
+            "Raphanus raphanistrum",
+            "Ononis reclinata",
+            "Anagallis arvensis",
+            "Salvia grandiflora",
+            "Calicotome villosa",
+             "Verbascum levanticum"
+           ],
+          "maps_query_location": "Ramat Sirin"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2017",
+      "observer": null,
+      "original_text": "גם בנחל תבור",
+        "locations": [
+        {
+          "location_name": "נחל תבור",
+          "flowers": ["Lupinus pilosus"],
+           "maps_query_location": "Nahal Tavor"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2017",
+      "observer": "ג'נט לבקוביץ",
+      "original_text": "תורמוסים, כלניות, עירית וחרדל בפריחה מלאה בגבעת התורמוסים, משמאל לכביש העפר ופנימה.",
+      "locations": [
+        {
+          "location_name": "תל שוכה",
+           "flowers": [ "Lupinus", "Anemone coronaria", "Asphodelus", "Sinapis"],
+           "maps_query_location": "Tel Sokha"
+        },
+        {
+            "location_name": "גבעת התורמוסים",
+            "flowers": [ "Lupinus", "Anemone coronaria", "Asphodelus", "Sinapis"],
+             "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "26/02/2017",
+      "observer": "נעמי דגוני",
+      "original_text": "בן חצב החורש בשיאו בחניון האגם וחל אורן בכרמל",
+      "locations": [
+        {
+           "location_name": "חניון האגם",
+          "flowers": ["Scilla hyacinthoides"],
+            "maps_query_location": null
+        },
+         {
+          "location_name": "כרמל",
+          "flowers": ["Scilla hyacinthoides"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+       {
+      "date": "26/02/2017",
+      "observer": "נעמי דגוני",
+      "original_text": "תורמוס ההרים בהתחלה/אמצע פריחה במורדות הגולן באזור נחל חמדל נחל עורבים",
+      "locations": [
+        {
+          "location_name": "מורדות הגולן",
+          "flowers": ["Lupinus pilosus"],
+          "maps_query_location": "Golan Heights"
+        },
+          {
+          "location_name": "נחל חמדל",
+            "flowers": ["Lupinus pilosus"],
+          "maps_query_location": "Nahal Hamdal"
+        },
+          {
+           "location_name":"נחל עורבים",
+           "flowers": ["Lupinus pilosus"],
+          "maps_query_location":"Nahal Uravim"
+        }
+       ]
+     },
+    {
+      "date": "26/02/2017",
+      "observer": "נעמי דגוני",
+      "original_text": "יקינטון מזרחי פורח בנחל חזורי גובתה בשיא",
+      "locations": [
+          {
+            "location_name": "נחל חזורי",
+             "flowers": ["Hyacinthus orientalis"],
+             "maps_query_location": "Nahal Hazuri"
+        },
+        {
+          "location_name": "גובתה",
+           "flowers": ["Hyacinthus orientalis"],
+           "maps_query_location": "Govta"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2017",
+      "observer": "מיקי גורן",
+       "original_text":"הפרח שראינו הוא אירוס הלבנון",
+      "locations": [
+        {
+          "location_name": "הר חוזק",
+          "flowers": ["Iris palaestina"],
+          "maps_query_location": "Har Hozek"
+        }
+      ]
+    },
+      {
+      "date": "26/02/2017",
+      "observer": null,
+      "original_text": "מרווה שסועה,סכיכון דביק,נרדורית מזרחית,וחגווית החומות פורחים בגן",
+       "locations": [
+        {
+            "location_name": "גן הנדירים",
+           "flowers": [ "Salvia divaricata", "Glandularia adhaerens", "Helianthemum vesicarium", "Helianthemum squamatum"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "26/02/2017",
+      "observer": null,
+      "original_text": "המוני איריסים, כלניות אדומות בגבעה הדרומית, צחנן מבאיש בכמויות, סביונים, דלעת נחש, ריכפה מזרחית, תורמוס א\"י, קידה שעירה, עירית גדולה, טופח ריסני, חומעת ראש הסוס, שימשון סגלגל, בקיה תרבותית,",
+      "locations": [
+        {
+          "location_name": "שמורת האיריסים בית חנו",
+          "flowers": [
+            "Iris",
+            "Anemone coronaria",
+            "Sarcopoterium spinosum",
+            "Senecio",
+             "Bryonia syriaca",
+            "Erophila verna",
+            "Lupinus palaestinus",
+            "Calicotome villosa",
+            "Asphodelus fistulosus",
+             "Reseda lutea",
+            "Rumex bucephalophorus",
+            "Carduus argentatus",
+             "Vicia sativa"
+          ],
+           "maps_query_location": "Beit Hanan"
+        },
+        {
+         "location_name": "גבעה הדרומית",
+         "flowers": [
+           "Iris",
+           "Anemone coronaria",
+           "Sarcopoterium spinosum",
+           "Senecio",
+            "Bryonia syriaca",
+           "Erophila verna",
+           "Lupinus palaestinus",
+           "Calicotome villosa",
+           "Asphodelus fistulosus",
+            "Reseda lutea",
+           "Rumex bucephalophorus",
+           "Carduus argentatus",
+            "Vicia sativa"
+         ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+        "date": "25/02/2017",
+        "observer": null,
+        "original_text": "בהר תורען ובחניון האגם בכרמל",
+        "locations": [
+          {
+            "location_name": "הר תורען",
+             "flowers": ["Orchis punctulata"],
+               "maps_query_location": "Har Tur'an"
+          },
+          {
+              "location_name": "חניון האגם",
+               "flowers": ["Orchis punctulata"],
+                 "maps_query_location": null
+          },
+            {
+              "location_name": "כרמל",
+             "flowers": ["Orchis punctulata"],
+               "maps_query_location":"Carmel"
+            }
+      ]
+    }
+  ]
+}
+```

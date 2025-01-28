@@ -1,0 +1,220 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/02/2020",
+      "observer": "יעקב מחלב",
+      "original_text": "פריחת רותם המדבר ליד שומרת להב צמוד לכביש בין קיבוץ להב לישוב שומריה. פריחת רותם המדבר לאורך כביש 38 בין בית גוברין לצומת האלה.",
+      "locations": [
+        {
+          "location_name": "שמורת להב",
+          "flowers": [
+            "רותם המדבר"
+          ],
+          "maps_query_location": "Lahav"
+        },
+        {
+          "location_name": "קיבוץ להב",
+          "flowers": [
+            "רותם המדבר"
+          ],
+           "maps_query_location": "Kibbutz Lahav"
+        },
+        {
+          "location_name": "שומריה",
+          "flowers": [
+            "רותם המדבר"
+          ],
+           "maps_query_location":"Shomriya"
+        },
+          {
+          "location_name": "בית גוברין",
+          "flowers": [
+            "רותם המדבר"
+          ],
+           "maps_query_location":"Beit Guvrin"
+        },
+        {
+          "location_name": "צומת האלה",
+          "flowers": [
+            "רותם המדבר"
+          ],
+          "maps_query_location": "HaEla Junction"
+         }
+      ]
+    },
+    {
+      "date": "16/02/2020",
+      "observer": "יעקב מחלב",
+      "original_text": "בתאריך 15.2.2020 פריחת שקדיות בבית גוברען , ליד מושב אמציה.",
+      "locations": [
+        {
+          "location_name": "בית גוברין",
+           "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Beit Guvrin"
+        },
+         {
+          "location_name": "אמציה",
+          "flowers": [
+            "שקד"
+          ],
+          "maps_query_location": "Amatzia"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2020",
+      "observer": "שושי פולטין",
+      "original_text": "נצפתה פריחה של רומוליאה צידונית בכרמל, 15/02/2020",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "רומוליאה צידונית"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2020",
+       "observer": "עידו מגן",
+      "original_text": "בתל בית שמש שליד מושב ישעי ובפארק עדולם המוני כלניות אדומות. ליד חורבת בורגין שבפארק עדולם גם הרבה עיריות ורקפות",
+      "locations": [
+        {
+          "location_name": "תל בית שמש",
+           "flowers": [
+            "כלנית אדומה"
+          ],
+          "maps_query_location": "Tel Beit Shemesh"
+        },
+        {
+           "location_name": "ישעי",
+            "flowers": [
+              "כלנית אדומה"
+            ],
+          "maps_query_location":"Yish'i"
+        },
+        {
+          "location_name": "פארק עדולם",
+           "flowers": [
+            "כלנית אדומה",
+            "עירית",
+            "רקפת"
+          ],
+          "maps_query_location": "Adullam Park"
+        },
+         {
+          "location_name": "חורבת בורגין",
+           "flowers": [
+            "עירית",
+            "רקפת"
+          ],
+          "maps_query_location":"Horbat Burgin"
+        }
+      ]
+    },
+     {
+      "date": "16/02/2020",
+      "observer": "כיתה ג2 , ניצני הנגב בית קמה",
+      "original_text": "קקטוס  כיסא החותנת נרקיס מצוי",
+       "locations": [
+        {
+          "location_name": null,
+           "flowers": [
+             "כיסא החותנת",
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "16/02/2020",
+      "observer": "אלי דברת",
+      "original_text": "בקטע הקרוב לאורנית בין שער הכניסה העליון לתחתון פריחה של כלניות במגוון צבעים בין אדום בעיקר בחלק העליון ללבן בעיקר בחלק התחתון ובכל הקטע גם סגול בהיר וכהה ואף צהבהב עדיין אין כמות פריחה מאמין שיתרבה בשבועות הקרובים",
+       "locations": [
+        {
+          "location_name": "יער כחורשים",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Kokhvim Forest"
+        },
+           {
+          "location_name": "אורנית",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Oranit"
+        }
+
+      ]
+    },
+    {
+      "date": "15/02/2020",
+      "observer": "רותי",
+      "original_text": "בצד בריכות הדגים של מעגן מיכאל, בין כביש 2 לים, פריחה מרהיבה של רקפות, כלניות, עיריות ותורמוס צר עלים",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+            "עירית",
+             "תורמוס צר עלים"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2020",
+      "observer": "רותי",
+      "original_text": "כלניות ב3 צבעים, רקפות, דודאים, אירוס ארצישראלי, עיריות, פורחים למכביר בשבילים הפנימיים",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": [
+             "כלנית",
+             "רקפת",
+             "דודא",
+             "אירוס ארצישראלי",
+             "עירית"
+          ],
+          "maps_query_location":"Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2020",
+      "observer": "אורית מוספיה",
+      "original_text": "כלניות בשלל צבעים ורקפות בנחל שופט.",
+      "locations": [
+        {
+          "location_name": "נחל שופט",
+          "flowers": [
+            "כלנית",
+            "רקפת"
+          ],
+          "maps_query_location": "Nahal Shofet"
+        }
+      ]
+    },
+      {
+      "date": "15/02/2020",
+      "observer": "אלי כהן",
+       "original_text":"נכון להיום 21/02/2020 הפריחה פה יפה מאוד , מומלץ . הגבעות הדרומיות בעיר מודיעין",
+      "locations": [
+        {
+          "location_name": "מודיעין",
+          "flowers": [],
+          "maps_query_location": "Modiin"
+        }
+      ]
+    }
+  ]
+}
+```

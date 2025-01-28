@@ -1,0 +1,168 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/04/2020",
+      "observer": null,
+      "original_text": "נמצאו שני פרטים של דבורנית גדולה בעמק לבן",
+      "locations": [
+        {
+          "location_name": "עמק לבן",
+           "flowers": ["דבורנית גדולה"],
+          "maps_query_location": "Emek Lavan"
+        }
+      ]
+    },
+    {
+      "date": "24/04/2020",
+      "observer": null,
+      "original_text": "תגית מצויה, מוצית קוצנית, מעוג אפיל, סלסילה מצויה, אזנב מצוי, תלתן הארגמן, קוציץ סורי, פרגים, פשתה שעירה, דרכמונית מצרית, קצח ריסני, מעוג נקוד, מעוג כריתי, צמר מפוצל בשלב הפרי, כנ\"ל תורמוס ההרים, גביעונית הלבנון ושעמון",
+      "locations": [
+        {
+          "location_name": "ראש פינה",
+          "flowers": [
+            "תגית מצויה",
+            "מוצית קוצנית",
+            "מעוג אפיל",
+            "סלסילה מצויה",
+            "אזנב מצוי",
+            "תלתן הארגמן",
+            "קוציץ סורי",
+            "פרגים",
+            "פשתה שעירה",
+            "דרכמונית מצרית",
+            "קצח ריסני",
+            "מעוג נקוד",
+            "מעוג כריתי",
+            "צמר מפוצל",
+            "תורמוס ההרים",
+             "גביעונית הלבנון",
+            "שעמון"
+          ],
+          "maps_query_location": "Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "23/04/2020",
+      "observer": "הדס איזנר",
+      "original_text": "עשרות פריטים פורחים בין קבוצת שיטים מלבינות, מזרחית לגבעת חיים אחוד, בתוך פרדסים",
+       "locations": [
+        {
+          "location_name": "גבעת חיים אחוד",
+          "flowers": ["סחלב קדוש"],
+          "maps_query_location": "Givat Haim Ihud"
+         }
+       ]
+    },
+     {
+      "date": "22/04/2020",
+      "observer": "אבנר חורש",
+      "original_text": "בגבעות הכורכר מערבית למושב משואות יצחק במישור החוף הדרומי פורחים עכשיו (סוף אפריל) עשרות רבות עד מאות של צמחי סחלב קדוש בכמה ריכוזים.",
+      "locations": [
+        {
+          "location_name": "משואות יצחק",
+          "flowers": ["סחלב קדוש"],
+           "maps_query_location": "Masu'ot Yitzhak"
+        },
+         {
+          "location_name": "מישור החוף הדרומי",
+          "flowers": ["סחלב קדוש"],
+           "maps_query_location": "Southern Coastal Plain"
+        }
+      ]
+    },
+    {
+      "date": "21/04/2020",
+      "observer": "מנחם נימץ",
+       "original_text": "פריחה רבה בקבוצות קטנות של שנק החורש. דבורנית גדולה, סחלבן החורש, סחלב שלוש שניים, נאיטוניאות וסחלבי הגליל לאחר פריחתן, בן סחלב צריפי כמובן, פריחת עצי הקטלב.",
+      "locations": [
+        {
+          "location_name": "הר הטייסים",
+          "flowers": [
+             "שנק החורש",
+            "דבורנית גדולה",
+            "סחלבן החורש",
+            "סחלב שלוש שניים",
+            "נאיטוניאות",
+            "סחלבי הגליל",
+             "בן סחלב צריפי",
+             "קטלב"
+          ],
+          "maps_query_location": "Har HaTayasim"
+        }
+      ]
+    },
+    {
+      "date": "20/04/2020",
+      "observer": "מרדכי ליברמן",
+      "original_text": "כעשרה פרטים של סחלב קדוש בסובב כרמיאל מערב. נמצאים במדרון המזרחי קרוב לשביל",
+      "locations": [
+        {
+          "location_name": "כרמיאל",
+          "flowers": ["סחלב קדוש"],
+          "maps_query_location": "Karmiel"
+        }
+      ]
+    },
+    {
+      "date": "20/04/2020",
+      "observer": "פאני ק.",
+       "original_text": "בשביל המתפתל לאורך ערוצו של נחל דרדר בגן לאומי צור נתן - דרום השרון",
+      "locations": [
+        {
+         "location_name": "צור נתן",
+          "flowers": ["אצבעית רומאית"],
+          "maps_query_location":"Tzur Natan"
+        },
+        {
+         "location_name": "דרום השרון",
+          "flowers": ["אצבעית רומאית"],
+           "maps_query_location":"Southern Sharon"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2020",
+       "observer": null,
+      "original_text": "בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["ריומנית הלוטם"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2020",
+      "observer": null,
+      "original_text": "ביער הסוללים , ראו קישור",
+      "locations": [
+        {
+          "location_name": "יער הסוללים",
+          "flowers": ["שום הגלגל"],
+          "maps_query_location": "Solelim Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2020",
+      "observer": "אריה פלדי",
+      "original_text": "בתל מיכל בהרצליה בבריכת החורף שהתייבשה, פורח כעת דמסון כוכבני. מקום זה לא היה מוכר בעבר .",
+       "locations": [
+        {
+          "location_name": "תל מיכל",
+            "flowers": ["דמסון כוכבני"],
+          "maps_query_location": "Tel Michal"
+        },
+          {
+          "location_name": "הרצליה",
+           "flowers": ["דמסון כוכבני"],
+          "maps_query_location": "Herzliya"
+        }
+      ]
+    }
+  ]
+}
+```

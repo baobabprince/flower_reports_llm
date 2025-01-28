@@ -1,0 +1,237 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/07/2024",
+      "observer": "אליעזר כהן",
+      "original_text": "לפני יומיים חזרתי מטיול באיסלנד ומה תהו עיניי בראותי אדמונית החורש פורחת שם בגן בוטני.חשבתי שהיא אנדמית וםורחת רק בהר מירון והנה היא גם באיסלנד הרחוקה. מתוך עיון הבנתי שהיא פוחת גם בסין יםן ועוד...",
+      "locations": [
+        {
+          "location_name": "איסלנד",
+          "flowers": [
+            "Paeonia mascula"
+          ],
+           "maps_query_location": "Iceland"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "Paeonia mascula"
+          ],
+           "maps_query_location": "Mount Meron"
+        },
+         {
+          "location_name": "סין",
+           "flowers": [
+            "Paeonia mascula"
+          ],
+           "maps_query_location": "China"
+        }
+      ]
+    },
+    {
+      "date": "22/07/2024",
+      "observer": null,
+      "original_text": "כריך שחום, סולנום המקור , ערבז משובל , שנית גדולה",
+      "locations": [
+        {
+           "location_name": "בית חנניה",
+          "flowers": [
+              "Solanum rostratum",
+              "Eremostachys laciniata",
+              "Dianthus grandiflorus"
+            ],
+             "maps_query_location": "Beit Hananya"
+        }
+      ]
+    },
+        {
+      "date": "22/07/2024",
+      "observer": null,
+      "original_text": "כף-אווז ריחנית ,  ניסמנית קיפחת , פספלת התאומים , אפזרית מלוחה , סוף הקרין (מכמורת)",
+      "locations": [
+        {
+          "location_name": "נחל אלכסנדר",
+          "flowers": [
+            "Chenopodium ambrosioides",
+            "Nyssa sylvatica",
+            "Tribulus terrestris",
+             "Arthrocnemum macrostachyum",
+             "Typha domingensis"
+          ],
+          "maps_query_location": "Nahal Alexander"
+        },
+         {
+          "location_name": "מכמורת",
+          "flowers": [
+              "Chenopodium ambrosioides",
+              "Nyssa sylvatica",
+              "Tribulus terrestris",
+               "Arthrocnemum macrostachyum",
+              "Typha domingensis"
+            ],
+             "maps_query_location": "Mikhmoret"
+        }
+      ]
+    },
+    {
+      "date": "22/07/2024",
+      "observer": null,
+       "original_text": "אל-ציצית לבנה, ארכיס תת-קרקעי (בוטנים) , בוען מצולע , גומא צפוף,   גומא ריחני , זנבה נטויה, שנית מתפתלת , שומר פשוט , עטיינית מגובבת , נענת הכדורים , מדד זוחל",
+      "locations": [
+        {
+           "location_name": "תעלת נחל ציפורי",
+          "flowers": [
+            "Acantholimon libanoticum",
+            "Arachis hypogaea",
+            "Verbascum sinuatum",
+             "Cyperus congestus",
+              "Cyperus odoratus",
+              "Sclerochloa dura",
+               "Dianthus contortus",
+              "Foeniculum vulgare",
+               "Echinops adenocaulos",
+                "Mentha pulegium",
+              "Galium spurium"
+          ],
+           "maps_query_location": "Nahal Tzipori"
+        }
+      ]
+    },
+    {
+      "date": "22/07/2024",
+      "observer": null,
+      "original_text": "אוכם חופי , שרשר רב-שנתי , רופיית הים , מדחול דוקרני , גילדן מוארך , בן-מלח מכחיל",
+       "locations": [
+        {
+           "location_name": "בריכות מלח עתלית",
+          "flowers": [
+            "Sarcocornia perennis",
+            "Sarcocornia fruticosa",
+             "Ruppia maritima",
+             "Inula crithmoides",
+             "Glaucium flavum",
+             "Suaeda maritima"
+          ],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "17/07/2024",
+      "observer": null,
+       "original_text": "בעין זיוונית",
+       "locations": [
+        {
+          "location_name": "עין זיוונית",
+          "flowers": [
+             "Nasturtium officinale"
+          ],
+           "maps_query_location": "Ein Zivanit"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2024",
+      "observer": null,
+       "original_text": "גומא התעלות,  דחנית התרנגולים,  עבקנה שכיח  (מתורבת)",
+       "locations": [
+        {
+          "location_name": "נחל שכם",
+           "flowers": [
+            "Cyperus difformis",
+            "Echinochloa crus-galli",
+            "Phragmites australis"
+          ],
+           "maps_query_location": "Nahal Shechem"
+        },
+         {
+          "location_name": "המעפיל",
+          "flowers": [
+              "Cyperus difformis",
+            "Echinochloa crus-galli",
+            "Phragmites australis"
+           ],
+           "maps_query_location": "Hama'apil"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2024",
+      "observer": null,
+       "original_text": "באשן מחומש, גומא שרוני , שיטה מלבינה (פרי)",
+      "locations": [
+         {
+           "location_name": "דור",
+          "flowers": [
+              "Bassia eriophora",
+              "Cyperus rotundus",
+               "Acacia albida"
+            ],
+           "maps_query_location": "Dor"
+        },
+         {
+           "location_name": "שמורת שיטה מלבינה",
+          "flowers": [
+             "Bassia eriophora",
+             "Cyperus rotundus",
+              "Acacia albida"
+            ],
+           "maps_query_location": "Acacia albida Reserve"
+        }
+      ]
+    },
+    {
+      "date": "14/07/2024",
+      "observer": null,
+       "original_text": "אלמוות ארץ-ישראלי , גילדן סמרני , \n דו-פרק חופי, חורשף צהוב ,  חלבלוב שרוע ,  מלחית אשלגנית, עדעד רותמי \nקריתמון ימי, תלת-חוד מבריק",
+      "locations": [
+        {
+           "location_name": "נוה ים",
+          "flowers": [
+            "Helichrysum sanguineum",
+            "Glaucium corniculatum",
+            "Salsola kali",
+            "Scolymus maculatus",
+            "Euphorbia prostrata",
+            "Halogeton glomeratus",
+            "Limonium virgatum",
+            "Crithmum maritimum",
+            "Tragus racemosus"
+          ],
+           "maps_query_location": "Neve Yam"
+        }
+      ]
+    },
+     {
+      "date": "13/07/2024",
+      "observer": "מיכל דובי",
+      "original_text": "ברזילון- חרבת אל ח׳דר\nגרגר נחלים -בעין סיטונית ובעין משרה",
+      "locations": [
+         {
+          "location_name": "חרבת אל ח׳דר",
+           "flowers": [
+             "Verbascum",
+              "Nasturtium officinale"
+          ],
+          "maps_query_location": "Khirbet el Khader"
+        },
+           {
+          "location_name": "עין סיטונית",
+          "flowers": [
+            "Nasturtium officinale"
+           ],
+            "maps_query_location": "Ein Situnit"
+        },
+         {
+          "location_name": "עין משרה",
+          "flowers": [
+               "Nasturtium officinale"
+           ],
+            "maps_query_location": "Ein Mashra"
+        }
+      ]
+    }
+  ]
+}
+```

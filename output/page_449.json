@@ -1,0 +1,211 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/11/2016",
+      "observer": null,
+      "original_text": "בקרתי היום בשביל החלמוניות בהר התבור. פריחה יפה בשלבי ההחלה",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2016",
+      "observer": null,
+      "original_text": "התחלה של איריס הסרגל, כרכום חורפי סיתווניות ועוד ראו קישור",
+      "locations": [
+        {
+          "location_name": "חיפה",
+          "flowers": [
+            "איריס הסרגל",
+            "כרכום חורפי",
+            "סתוונית"
+          ],
+          "maps_query_location": "Haifa"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2016",
+      "observer": null,
+      "original_text": "חלמוניות בהר אדמון ליד דלתון ב13.11.16",
+       "locations": [
+        {
+          "location_name": "הר אדמון",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": null
+         },
+         {
+            "location_name": "דלתון",
+            "flowers": [
+                "חלמונית"
+             ],
+           "maps_query_location":"Dalton"
+         }
+       ]
+    },
+    {
+      "date": "12/11/2016",
+      "observer": null,
+      "original_text": "חלמוניות  פורחות במבוא חמה וסיתווניות באחו נוב",
+      "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mei Hama"
+        },
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "סתוונית"
+          ],
+         "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "11/11/2016",
+      "observer": null,
+      "original_text": "הן כבר פורחות בהר תבור, בנחל קדרון מול הסרטבא וגם במצוקי האון-מבוא חמה",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        },
+         {
+          "location_name": "נחל קדרון",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Nahal Kidron"
+        },
+        {
+          "location_name": "הסרטבא",
+          "flowers": [
+             "חלמונית"
+          ],
+          "maps_query_location": null
+        },
+        {
+           "location_name": "מצוקי האון",
+           "flowers": [
+               "חלמונית"
+             ],
+           "maps_query_location":"Mitzokei HaOn"
+        },
+         {
+            "location_name": "מבוא חמה",
+            "flowers": [
+               "חלמונית"
+             ],
+            "maps_query_location": "Mei Hama"
+         }
+      ]
+    },
+   {
+      "date": "09/11/2016",
+      "observer": null,
+      "original_text": "סיתוונית, רקפות ללא עלים, בן חצב סיתווני ועוד  ראו קישור",
+      "locations": [
+        {
+          "location_name": "חירבת חנות",
+          "flowers": [
+            "סתוונית",
+              "רקפת",
+              "בן חצב סתווני"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/11/2016",
+      "observer": "מאיה שתיל",
+      "original_text": "בן חצב סתווני בשיא הפריחה וסתוונית היורה בראשית הפריחה וכן עוקץ העקרב , ותחילת נביטת אירוס א״י , באתר הקבורה השומרוני שבצפון כפר שמריהו .",
+      "locations": [
+         {
+          "location_name": "אתר הקבורה השומרוני",
+          "flowers": [
+              "בן חצב סתווני",
+             "סתוונית היורה",
+             "עוקץ העקרב",
+             "אירוס ארץ ישראלי"
+          ],
+          "maps_query_location": null
+          },
+         {
+           "location_name": "כפר שמריהו",
+           "flowers": [
+                "בן חצב סתווני",
+             "סתוונית היורה",
+             "עוקץ העקרב",
+             "אירוס ארץ ישראלי"
+           ],
+            "maps_query_location":"Kfar Shmaryahu"
+         }
+
+      ]
+    },
+    {
+      "date": "08/11/2016",
+      "observer": null,
+      "original_text": "בדרך נוף עמוק ה",
+      "locations": [
+        {
+          "location_name": "דרך נוף עמוק ה",
+           "flowers": [],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/11/2016",
+      "observer": null,
+     "original_text": "רקפות סתוויות ( ללא עלים) וכן סיתווניות היורה פורחות בשפע בסלעי הגלבוע . ( כנ\"ל גם בכרמל)",
+      "locations": [
+        {
+           "location_name": "הגלבוע",
+          "flowers": [
+            "רקפת",
+             "סתוונית היורה"
+          ],
+         "maps_query_location": "Gilboa"
+        },
+       {
+          "location_name":"הכרמל",
+         "flowers":[
+            "רקפת",
+             "סתוונית היורה"
+          ],
+        "maps_query_location":"Carmel"
+        }
+      ]
+    },
+    {
+      "date":"06/11/2016",
+      "observer": null,
+      "original_text":"ביום ו' 11.11.2016, י' בחשוון תשע\"ז\nבשעה \nצֶמַח, צֳרִי וּמַרְפֵּא - יום העיון לזכר נגה הראובני .ביום שישי בשעה 9.00 בבוקר .",
+       "locations": [
+       {
+          "location_name":"נאות קדומים",
+          "flowers":[],
+          "maps_query_location":"Neot Kedumim"
+        }
+       ]
+    }
+  ]
+}
+```

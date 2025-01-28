@@ -1,0 +1,196 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/01/2022",
+      "observer": "יורם קדרון",
+      "original_text": "כלניות, מטה אהרון, רותם המדבר( אירוסים עוד אין) בשמורת אירוס הארגמן, בין בית חנן לגן שורק.",
+      "locations": [
+        {
+          "location_name": "מטה אהרון",
+          "flowers": ["כלנית", "רותם המדבר"],
+           "maps_query_location": "Mata Aharon"
+        },
+         {
+          "location_name": "שמורת אירוס הארגמן",
+          "flowers": ["כלנית", "רותם המדבר"],
+           "maps_query_location": "Iris Argaman Nature Reserve"
+        },
+        {
+          "location_name": "בית חנן",
+           "flowers": ["כלנית", "רותם המדבר"],
+            "maps_query_location": "Beit Hanan"
+        },
+        {
+          "location_name": "גן שורק",
+           "flowers": ["כלנית", "רותם המדבר"],
+           "maps_query_location": "Gan Sorek"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2022",
+      "observer": null,
+      "original_text": "ראו קישור",
+       "locations": [
+        {
+          "location_name": "דפנה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Dafna"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2022",
+      "observer": null,
+       "original_text":"כם ביה\"ס לעיצוב \nקימונו בהשראת פרחי בר , ראו בקישור למטה ",
+      "locations": [
+         {
+          "location_name": "שנקר",
+           "flowers": [],
+           "maps_query_location": "Shenkar"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2022",
+      "observer": null,
+        "original_text":"תל-חזקה \nאיריס הלבנון ,  אלה אטלנטית, אלון התולע , רקפת יוונית,  חלמונית גדולה  נרקיסיים (פרי) \nמרום גולן : רקפת יוונית\nאחו נב: נרקיס מצוי \nבעליה לחמת-גדר: טופל אדום \nמאגר בנטל:\nרקפת יוונית, סתוונית התשבץ סתווניתיים (עלים) \nהר תורען: \nנץ-חלב הררי , חיננית הבתה\nהג'ובה הגדולה: נץ -חלב איזמלני ",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": ["איריס הלבנון", "אלה אטלנטית", "אלון התולע", "רקפת יוונית", "חלמונית גדולה", "נרקיס"],
+           "maps_query_location": "Tel Hazeka"
+        },
+        {
+          "location_name": "מרום גולן",
+          "flowers": ["רקפת יוונית"],
+          "maps_query_location": "Merom Golan"
+        },
+        {
+          "location_name": "אחו נב",
+          "flowers": ["נרקיס מצוי"],
+           "maps_query_location": "Ahu Nav"
+        },
+         {
+          "location_name": "חמת גדר",
+          "flowers": ["טופל אדום"],
+           "maps_query_location": "Hamat Gader"
+        },
+        {
+           "location_name": "מאגר בנטל",
+           "flowers": ["רקפת יוונית", "סתוונית התשבץ"],
+           "maps_query_location": "Bental Reservoir"
+        },
+         {
+          "location_name":"הר תורען",
+          "flowers": ["נץ-חלב הררי", "חיננית הבתה"],
+          "maps_query_location": "Har Toran"
+        },
+         {
+          "location_name":"הג'ובה הגדולה",
+          "flowers":["נץ-חלב איזמלני"],
+           "maps_query_location": "HaG'uba HaGdola"
+        }
+      ]
+    },
+     {
+      "date": "27/01/2022",
+       "observer": null,
+      "original_text": "רקפת יוונית  פורחת ב:\nמאגר-בנטל , מרום גולן, ובתל חזקה",
+       "locations": [
+        {
+          "location_name": "מאגר בנטל",
+          "flowers": ["רקפת יוונית"],
+           "maps_query_location": "Bental Reservoir"
+        },
+          {
+          "location_name": "מרום גולן",
+           "flowers": ["רקפת יוונית"],
+           "maps_query_location": "Merom Golan"
+        },
+        {
+          "location_name": "תל חזקה",
+          "flowers": ["רקפת יוונית"],
+           "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2022",
+      "observer": null,
+      "original_text": "חבלבלוב מגובשש וגביעונית הלבנון",
+       "locations": [
+        {
+           "location_name": "נאות קדומים",
+          "flowers": ["חבלבלוב מגובשש", "גביעונית הלבנון"],
+            "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "26/01/2022",
+      "observer": null,
+      "original_text": "רקפת יוונית בחזקה ובאורטל ועוד",
+        "locations": [
+        {
+          "location_name": "חזקה",
+          "flowers": ["רקפת יוונית"],
+          "maps_query_location": "Hazeka"
+        },
+        {
+          "location_name":"אורטל",
+          "flowers": ["רקפת יוונית"],
+            "maps_query_location": "Ortal"
+        }
+      ]
+    },
+    {
+      "date": "25/01/2022",
+      "observer": null,
+       "original_text":"חלמונית זעירה פירות בשפע,(ראו בקישור למטה)  ציפורנית מצרית, רקפות רבות,",
+      "locations": [
+        {
+           "location_name": "גן המייסדים גבעת עדה",
+           "flowers": ["חלמונית זעירה", "ציפורנית מצרית", "רקפת"],
+           "maps_query_location": "Gan Hameyasdim Givat Ada"
+        }
+      ]
+    },
+     {
+      "date": "25/01/2022",
+      "observer": null,
+      "original_text": "רומוליאה סגלולית, ציפורני חתול, גלענית זעירת פרחים, רקפות, חיננית הבתה, חלבלוב מגובשש, ציפורי חתול, נץ חלב הררי ,חפניים מצויים , ילקוט הרועים , סביון אביבי, עשנן כלשהוא",
+       "locations": [
+        {
+           "location_name": "גני הנדיב",
+           "flowers": ["רומוליאה סגלולית", "ציפורני חתול", "גלענית זעירת פרחים", "רקפת", "חיננית הבתה", "חלבלוב מגובשש", "ציפורני חתול", "נץ חלב הררי", "חפניים מצויים", "ילקוט הרועים", "סביון אביבי", "עשנן"],
+           "maps_query_location": "Gardens of Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2022",
+      "observer": null,
+      "original_text": "בעין אלון: דבורנית שחומה, \nבגבעת ההגנה :\nרומוליאה צידונית, דודא רפואי \nבאתר הקבוע: \n\nאכסף מבריק \nובכל מקום זלזלת הקנוקנות",
+      "locations": [
+        {
+          "location_name": "עין אלון",
+          "flowers": ["דבורנית שחומה"],
+           "maps_query_location": "Ein Alon"
+        },
+        {
+          "location_name": "גבעת ההגנה",
+          "flowers": ["רומוליאה צידונית", "דודא רפואי"],
+          "maps_query_location":"Givat HaHagana"
+        },
+          {
+           "location_name": "אתר הקבוע",
+          "flowers": ["אכסף מבריק", "זלזלת הקנוקנות"],
+          "maps_query_location": "HaKavua Site"
+        }
+      ]
+    }
+  ]
+}
+```

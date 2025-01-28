@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/02/2017",
+      "observer": null,
+      "original_text": "עיריות רבות, זלזלת הקנוקנות ופריחה מהממת של שקדיות",
+      "locations": [
+        {
+          "location_name": "עדולם",
+           "flowers": ["עירית", "זלזלת הקנוקנות", "שקד"] ,
+          "maps_query_location": "Adulam"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2017",
+      "observer": null,
+      "original_text": "בגבעות שליש תחנת הדלק פז בישפרו סנטר (מדרום מערב לעיר מודיעין) ובמטע שקדים ליד מיני ישראל",
+       "locations": [
+        {
+          "location_name": "גבעות שליש",
+           "flowers": ["שקד"] ,
+          "maps_query_location": "Giv'ot Shlish"
+        },
+        {
+          "location_name": "ישפרו סנטר",
+           "flowers": ["שקד"] ,
+           "maps_query_location": "Yeshpro Center"
+        },
+         {
+          "location_name": "מודיעין",
+           "flowers": ["שקד"] ,
+           "maps_query_location": "Modi'in"
+        },
+         {
+          "location_name": "מיני ישראל",
+           "flowers": ["שקד"] ,
+           "maps_query_location": "Mini Israel"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2017",
+      "observer": null,
+      "original_text": "בנגב הצפוני: שמורת פורה, אור הנר, שוקדה ובתרונות רוחמה.",
+       "locations": [
+         {
+          "location_name": "שמורת פורה",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Pura Nature Reserve"
+        },
+        {
+          "location_name": "אור הנר",
+            "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Or HaNer"
+         },
+          {
+          "location_name": "שוקדה",
+            "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Shokeda"
+        },
+        {
+          "location_name": "בתרונות רוחמה",
+            "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Ruhama Badlands"
+        }
+      ]
+    },
+    {
+       "date": "12/02/2017",
+      "observer": "רועי קן-תור",
+      "original_text": "נאות קדומים מתחילה את האביב - לאט לאט. ענני השקדיה ממלאים את האויר ומצטרפים לירוק החדש והזהוב הישן",
+        "locations": [
+        {
+          "location_name": "נאות קדומים",
+            "flowers": ["שקד"],
+           "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2017",
+      "observer": null,
+      "original_text": "א. נסענו לשמורת חרוצים אשר עדיין סגורה למבקרים לאפשר לצמחיה להתאושש .קרוב לגדר ועם עדשת מצלמה טובה התגלה תורמוס ארצישראלי (הלבן) כבר פורח.ב. מצד שני של הכביש בשדה מקסים אשר שנים היו שם כלניות, המקום נחרש והפך לאזור משחקים לאופני שטח...(אפשר לראות בצילומים בפייסבוק שלי)ג. כועסים נסענו להתנחם לשמורת פולג הקרובה ושם ראינו שטיחי רקפות התלויים באוויר. (רק תשמרו על הילדים הקטנים שלא יגלשו לוואדי)ד. ועוד המשכנו לשלולית \"דורה\" ונרקיסים...",
+      "locations": [
+          {
+            "location_name": "שמורת חרוצים",
+            "flowers": ["תורמוס ארצישראלי", "כלנית"],
+           "maps_query_location": "Kharuzim Nature Reserve"
+           },
+        {
+          "location_name": "שמורת פולג",
+            "flowers": ["רקפת"],
+           "maps_query_location": "Poleg Nature Reserve"
+        },
+          {
+          "location_name": "שלולית דורה",
+            "flowers": ["נרקיס"],
+            "maps_query_location": "Dora Pool"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+      "observer": null,
+      "original_text": "דבורנית דינסמור, סחלב פרפרני וגם איריס הארגמן . בקישור תצלומים של רותי טלמור",
+       "locations": [
+        {
+          "location_name": "גבעת אולגה",
+           "flowers": ["דבורנית דינסמור", "סחלב פרפרני", "אירוס הארגמן"],
+            "maps_query_location": "Givat Olga"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+      "observer": null,
+       "original_text": "ברמת הגולן - צילומים רותי טלמור",
+         "locations": [
+        {
+          "location_name": "רמת הגולן",
+          "flowers": ["טופל אדום"],
+            "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+     {
+      "date": "11/02/2017",
+      "observer": "דודי הולצמן",
+       "original_text": "תחילת פריחה של אירוסי ארגמן בשמורת אלוני קדימה וממזרח ליער אילנות (על השביל הכחול, מצפון לקדימה)",
+        "locations": [
+          {
+            "location_name": "שמורת אלוני קדימה",
+             "flowers": ["אירוס הארגמן"],
+            "maps_query_location": "Alonai Kadima Nature Reserve"
+         },
+        {
+          "location_name": "יער אילנות",
+             "flowers": ["אירוס הארגמן"],
+            "maps_query_location": "Ilanot Forest"
+        },
+        {
+          "location_name": "קדימה",
+             "flowers": ["אירוס הארגמן"],
+            "maps_query_location": "Kadima"
+         }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+       "observer": null,
+      "original_text": "מרבדי כלניות, פריחת אירוס א\"י ועירית גדולה ביער טבע ליד קיבוד דביר",
+       "locations": [
+        {
+          "location_name": "יער טבע",
+            "flowers": ["כלנית", "אירוס ארץ ישראלי", "עירית גדולה"],
+            "maps_query_location": "Ya'ar Tive"
+        },
+        {
+          "location_name": "קיבוץ דביר",
+            "flowers": ["כלנית", "אירוס ארץ ישראלי", "עירית גדולה"],
+             "maps_query_location":"Kibbutz Dvir"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2017",
+      "observer": "שרון בן צור",
+      "original_text": "סוף עונת הנרקיסים בנוב. לעומם הגיחו השבו הכלניות המיוחדות של נוב וכמובן הרומולאה הסגלולית",
+        "locations": [
+        {
+          "location_name": "נוב",
+             "flowers": ["נרקיס", "כלנית", "רומולאה סגלולית"],
+           "maps_query_location": "Nov"
+        }
+      ]
+    }
+  ]
+}
+```

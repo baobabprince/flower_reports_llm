@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/10/2020",
+      "observer": "ירון פלס",
+      "original_text": "פארק בריטניה, תל שקלון",
+       "locations": [
+        {
+          "location_name": "פארק בריטניה",
+          "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Britannia Park"
+        },
+         {
+          "location_name": "תל שקלון",
+          "flowers": ["חבצלת קטנת פרחים"],
+           "maps_query_location": "Tel Shokek"
+        }
+      ]
+    },
+    {
+      "date": "07/10/2020",
+      "observer": null,
+      "original_text": "בחולות ממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+           "flowers": ["חבצלת הנגב"],
+           "maps_query_location": "Mamshit"
+         }
+       ]
+    },
+    {
+      "date": "07/10/2020",
+       "observer": null,
+       "original_text": "סיתוונית הקליפות, כתלה חריפה בוצין סיני ועוד.",
+      "locations": [
+         {
+          "location_name": "הר הנגב",
+          "flowers": ["סיתוונית הקליפות", "כתלה חריפה", "בוצין סיני"],
+          "maps_query_location":"Har Hanegev"
+         }
+      ]
+    },
+   {
+      "date": "07/10/2020",
+      "observer": "אריאל חיים רועה",
+      "original_text": "ארכובית צמירה פורחת במאגר בוטמיה בדרום הגולן",
+      "locations": [
+       {
+          "location_name": "מאגר בוטמיה",
+          "flowers": ["ארכובית צמירה"],
+          "maps_query_location": "Maagar Butmiya"
+        },
+        {
+            "location_name": "דרום הגולן",
+            "flowers": ["ארכובית צמירה"],
+            "maps_query_location":"Southern Golan Heights"
+          }
+       ]
+    },
+    {
+      "date": "07/10/2020",
+      "observer": "אריאל חיים רועה",
+     "original_text": "התחילה פריחתה של סתוונית התשבץ בחזקה בצפון הגולן",
+      "locations": [
+        {
+          "location_name": "חזקה",
+          "flowers": ["סתוונית התשבץ"],
+          "maps_query_location": "Hizka"
+        },
+         {
+            "location_name": "צפון הגולן",
+            "flowers": ["סתוונית התשבץ"],
+            "maps_query_location":"Northern Golan Heights"
+          }
+      ]
+    },
+      {
+      "date": "05/10/2020",
+      "observer": null,
+      "original_text": "כתלה חריפה, זוטה לבנה, חורשף מצוייץ והמוני חבצלת קטנת פרחים ( מאות ) בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "שביל אופניים ענבה",
+          "flowers": ["כתלה חריפה", "זוטה לבנה", "חורשף מצוייץ", "חבצלת קטנת פרחים"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "01/10/2020",
+      "observer": "קפלינסקי יפה",
+       "original_text":"פורחים בפוריה",
+      "locations": [
+        {
+          "location_name": "פוריה",
+          "flowers": [],
+           "maps_query_location": "Poriya"
+         }
+      ]
+    },
+    {
+      "date": "28/09/2020",
+       "observer": null,
+       "original_text": "שום סתווי ועוד",
+      "locations": [
+        {
+          "location_name": "חניון רקפות בכרמל",
+          "flowers": ["שום סתווי"],
+          "maps_query_location":"Carmel National Park"
+        }
+      ]
+    },
+     {
+      "date": "26/09/2020",
+       "observer": "קפלינסקי יפה",
+      "original_text": "בורהביה זוחלת, חלבלוב שעיר פרי מלפפון הנביאים..",
+      "locations": [
+       {
+          "location_name":"נווה עובד",
+          "flowers": ["בורהביה זוחלת", "חלבלוב שעיר"],
+            "maps_query_location": "Neve Oved"
+         },
+        {
+          "location_name":"כפר עבודה",
+          "flowers": ["בורהביה זוחלת", "חלבלוב שעיר"],
+            "maps_query_location": "Kfar Avoda"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2020",
+      "observer": null,
+     "original_text": "החלה לפרוח בשביל הפיסגה במירון",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": ["סיתוונית בכירה"],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    }
+  ]
+}
+```

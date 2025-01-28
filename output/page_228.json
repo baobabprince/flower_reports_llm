@@ -1,0 +1,187 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/11/2020",
+      "observer": null,
+      "original_text": "בן-חצב סיתווני עשרות, כדן קטן פרחים גם עשרות , כתלה חריפה  וסיתוונית היורה",
+      "locations": [
+        {
+          "location_name": "גמזו",
+          "flowers": [
+            "בן-חצב סתווני",
+            "כדן קטן",
+            "כתלה חריפה",
+            "סתוונית היורה"
+           ],
+           "maps_query_location": "Gamzu"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": null,
+      "original_text": "אחו נוב: חלמונית זעירה , סתוונית ירושלים",
+        "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [
+            "חלמונית זעירה",
+             "סתוונית ירושלים"
+          ],
+           "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+     {
+      "date": "14/11/2020",
+      "observer": null,
+      "original_text": "אחילוף החורן פורח בשני האתרים הללו שביקרנו בה: רוג'ום אל-הירי , שמורת אחילוף החורן",
+        "locations": [
+         {
+           "location_name": "רוג'ום אל-הירי",
+           "flowers": [
+             "אחילוף החורן"
+           ],
+            "maps_query_location": "Rujum el-Hiri"
+         },
+         {
+            "location_name": "שמורת אחילוף החורן",
+            "flowers": [
+              "אחילוף החורן"
+            ],
+             "maps_query_location": "Achilof HaHoren Nature Reserve"
+          }
+       ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": "שרון דודיאן",
+      "original_text": "יער עמינדב פריחה יפה של סתווניות",
+      "locations": [
+        {
+          "location_name": "יער עמינדב",
+           "flowers": [
+            "סתוונית"
+          ],
+           "maps_query_location": "Aminadav Forest"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": "דוד פ",
+      "original_text": "מאות חלמוניות במפנה הצפוני, מתחת לשביל שליד חרבת סנסן",
+      "locations": [
+        {
+          "location_name": "חרבת סנסן",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Hurvat Sansan"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": "ערן לאופמן",
+      "original_text": "מופע של עשרות חלמוניות ליד חורבת סנסן מערבית לצור הדסה. פריחה מלאה",
+      "locations": [
+        {
+          "location_name": "חורבת סנסן",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Hurvat Sansan"
+        },
+         {
+           "location_name": "צור הדסה",
+            "flowers": [
+               "חלמונית"
+            ],
+            "maps_query_location": "Tzur Hadassah"
+         }
+      ]
+    },
+     {
+      "date": "14/11/2020",
+      "observer": "ניר",
+      "original_text": "סתווניות ובן חצב בנחל חלילים והתחלת כרכומים",
+      "locations": [
+        {
+          "location_name": "נחל חלילים",
+            "flowers": [
+              "סתוונית",
+              "בן-חצב",
+              "כרכום"
+            ],
+            "maps_query_location": "Nahal Halilim"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": "ניר",
+      "original_text": "חבצלת הנגב בערוץ נחל צפית",
+        "locations": [
+        {
+          "location_name": "נחל צפית",
+          "flowers": [
+            "חבצלת הנגב"
+           ],
+          "maps_query_location": "Nahal Tzafit"
+         }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+       "observer": null,
+      "original_text": "חלמוניות ובתוכניות ביער יתיר",
+       "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": [
+              "חלמונית"
+          ],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2020",
+      "observer": "שלומית גרוסמן",
+      "original_text": "היום, 11.11.2020 (איזה תאריך...) פריחת חלמוניות בוואדי ליד חניון החלמוניות בלהבים. בעיקר במדרון המזרחי של הוואדי. חלמוניות רבות סגורות עדיין.\nביער להב, בשביל האדום, מתחת לשלט התחתון של חלמוניות. מקבצים. לא רבים בינתיים. לא ראינו בשביל הזהב.",
+       "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": [
+             "חלמונית"
+           ],
+            "maps_query_location": "Lehavim"
+        },
+        {
+          "location_name": "יער להב",
+            "flowers": [
+              "חלמונית"
+            ],
+             "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2020",
+      "observer": null,
+       "original_text": "כמו בכל שנה בקיבוץ יסעור",
+      "locations": [
+        {
+          "location_name": "יסעור",
+           "flowers": [
+             "סתוונית"
+            ],
+           "maps_query_location": "Yassur"
+        }
+      ]
+    }
+  ]
+}
+```

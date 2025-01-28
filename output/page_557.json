@@ -1,0 +1,336 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/04/2014",
+      "observer": "דוד פורת",
+      "original_text": "מסתבר שהטבע משתקם ואף מחדש -  שמה בין איבי הנחל -   צבי , מזרע, יפעת   ונחלים אחרים בעמק יזרעאל  שוב אינם מסיל קולכין  בלבד: עדשת מים גיבנת+עדשת מים זעירה  (הנח ביותר לצפייה סכר נחל צבי),  טרם תועדו עד כה  מגלילה זו  (לעדכן מפות תפוצה).  כן פורחים לאורך עשרות ואף מאות מטרים\nגרגרנית ירושלים,  כרפס ריחני והביצות, גומא ארוך,  ארכובית סנגלית והכתמים ,  שנית מתפתלת  \nושנית גדולה ( גוש אחד גדול במלוא פריחתו המוקדמת). מעט גבוה יותר  בקיה שעירה .",
+      "locations": [
+        {
+          "location_name": "נחל צבי",
+           "flowers": [
+            "Lemna gibba",
+            "Lemna minor",
+            "Sanguisorba minor",
+            "Apium graveolens",
+            "Cyperus longus",
+            "Polygonum senegalense",
+            "Sherardia arvensis",
+            "Vicia villosa"
+           ],
+          "maps_query_location": "Nahal Tzvi"
+        },
+       {
+          "location_name": "מזרע",
+           "flowers": [
+            "Lemna gibba",
+            "Lemna minor",
+            "Sanguisorba minor",
+            "Apium graveolens",
+            "Cyperus longus",
+            "Polygonum senegalense",
+             "Sherardia arvensis",
+            "Vicia villosa"
+           ],
+          "maps_query_location": "Mizra"
+        },
+        {
+          "location_name": "יפעת",
+           "flowers": [
+            "Lemna gibba",
+            "Lemna minor",
+             "Sanguisorba minor",
+            "Apium graveolens",
+            "Cyperus longus",
+            "Polygonum senegalense",
+            "Sherardia arvensis",
+            "Vicia villosa"
+           ],
+          "maps_query_location": "Yifat"
+        },
+          {
+          "location_name": "עמק יזרעאל",
+          "flowers": [
+             "Lemna gibba",
+            "Lemna minor",
+             "Sanguisorba minor",
+            "Apium graveolens",
+            "Cyperus longus",
+            "Polygonum senegalense",
+            "Sherardia arvensis",
+           "Vicia villosa"
+           ],
+          "maps_query_location": "Jezreel Valley"
+        }
+      ]
+    },
+    {
+      "date": "25/04/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : מעוג קפח , עוגית חרמונית , דרדר חוחני , חוחן א\"י + אלכסנדרוני , קדד דליל + הקרקפות + בית הלחמי , נימפיה תכולה , פרע צמיר , חלוק זהרי , סומקן ענקי + המשי , מרווה מרושתת , שרעול שעיר ( שני גוונים שונים ) , ציפורן הלבנון ( 4 וריאנטים ) , חופית נמוכה ועוד רבים ויפים .",
+       "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "Echinops adenocaulos",
+            "Echinops hermonis",
+            "Onopordum cynarocephalum",
+             "Carduus argentatus",
+            "Astragalus sparsiflorus",
+            "Nymphaea caerulea",
+            "Verbascum sinuatum",
+            "Glaucium flavum",
+            "Sarcopoterium spinosum",
+            "Salvia dominica",
+            "Phlomis lanata",
+           "Dianthus libanotis",
+            "Helianthemum nummularium"
+          ],
+          "maps_query_location": null
+        },
+        {
+         "location_name": "גן בוטני",
+            "flowers": [
+            "Echinops adenocaulos",
+            "Echinops hermonis",
+            "Onopordum cynarocephalum",
+            "Carduus argentatus",
+            "Astragalus sparsiflorus",
+            "Nymphaea caerulea",
+             "Verbascum sinuatum",
+            "Glaucium flavum",
+           "Sarcopoterium spinosum",
+            "Salvia dominica",
+             "Phlomis lanata",
+           "Dianthus libanotis",
+            "Helianthemum nummularium"
+          ],
+          "maps_query_location": null
+        },
+        {
+           "location_name": "כפר יהושע",
+            "flowers": [
+            "Echinops adenocaulos",
+            "Echinops hermonis",
+            "Onopordum cynarocephalum",
+             "Carduus argentatus",
+            "Astragalus sparsiflorus",
+            "Nymphaea caerulea",
+             "Verbascum sinuatum",
+            "Glaucium flavum",
+            "Sarcopoterium spinosum",
+            "Salvia dominica",
+            "Phlomis lanata",
+           "Dianthus libanotis",
+            "Helianthemum nummularium"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+       ]
+    },
+    {
+      "date": "23/04/2014",
+      "observer": null,
+      "original_text": "פואת הצבעים,ודק זנב נימי פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+            "Rubia tinctorum",
+            "Cynodon dactylon"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+   {
+      "date": "22/04/2014",
+      "observer": "נביל אבושקארה",
+      "original_text": "שלום לכולם זה אני שוב נביל אבושקארה  ברצוני לאחל לכל  אלה אשר חגגו את הפסח  ואת הפסחה ובעוד כמה ימים את הבקור לקבר יתרו עליו השלום ברכת חג שמח . \nהרבה זמן לא. כתבתי  לכם אז כך היום במסלול  ההליכה ראינו המון  המון פריחה \nבשלל צבעים חרציות ,תלתן הארגמן ,שום הגלגל ,בן חצב מצוי ולקינוח הרבה חוטמיוצת",
+      "locations": [
+       {
+          "location_name": null,
+           "flowers": [
+            "Glebionis coronaria",
+             "Trifolium incarnatum",
+            "Allium neapolitanum",
+            "Scilla hyacinthoides",
+            "Erodium cicutarium"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "22/04/2014",
+      "observer": "דרור בר-ניר",
+      "original_text": "מיוחדים: מרווה כחולה, דרבנית התבור, קערורית שיחנית. \nעוד פורחים (רשימה חלקית): אלקנה סמורה, לשון הפר הסמורה (במגוון צבעים), שמשון מצוי, גדילן מצוי, עכנאי (פריחה ורודה בלבד), פרג אגסני, נורית אסיה, מקור החסידה הגדול, רקפת מצויה, גרגרנית ירושלים, לוענית מצויה, הרדופנין הציצית, חטמית עין הפרה, מעוג כרתי, חסרף מזרחי, תלתן הארגמן, שמשון מצוי, חסה כחולת פרחים, צמרנית הסלעים, שברק דביק, שברק קוצני",
+      "locations": [
+        {
+           "location_name": "רוגם גנים",
+            "flowers": [
+            "Salvia indica",
+            "Consolida aucheri",
+            "Sarcopoterium spinosum",
+           "Alkanna strigosa",
+            "Anchusa strigosa",
+            "Ononis natrix",
+            "Silybum marianum",
+             "Echium",
+            "Papaver umbonatum",
+            "Ranunculus asiaticus",
+            "Erodium gruinum",
+            "Cyclamen persicum",
+           "Sanguisorba minor",
+            "Antirrhinum majus",
+            "Adonis dentata",
+            "Malva parviflora",
+             "Echinops viscosus",
+             "Aethionema arabicum",
+            "Trifolium incarnatum",
+            "Ononis natrix",
+             "Lactuca undulata",
+            "Paronychia argentea",
+           "Thesium bergeri",
+             "Thesium spinosum"
+          ],
+          "maps_query_location": "Rogem Ganim"
+        },
+        {
+          "location_name": "ירושלים",
+             "flowers": [
+             "Salvia indica",
+            "Consolida aucheri",
+            "Sarcopoterium spinosum",
+            "Alkanna strigosa",
+            "Anchusa strigosa",
+           "Ononis natrix",
+            "Silybum marianum",
+            "Echium",
+             "Papaver umbonatum",
+            "Ranunculus asiaticus",
+             "Erodium gruinum",
+            "Cyclamen persicum",
+             "Sanguisorba minor",
+             "Antirrhinum majus",
+            "Adonis dentata",
+            "Malva parviflora",
+             "Echinops viscosus",
+            "Aethionema arabicum",
+             "Trifolium incarnatum",
+             "Ononis natrix",
+            "Lactuca undulata",
+            "Paronychia argentea",
+            "Thesium bergeri",
+            "Thesium spinosum"
+          ],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "21/04/2014",
+      "observer": null,
+      "original_text": "רב-רגל פשוט, מרוות ירושלים,  סייפן התבואה,  חבלבל עדין, דם-מכבים , סלסלילה מצויה בכמויות, דרדר גדול פרחים ,  פעמונית קיפחת, על המבצר: בוצין קיסריון, פעמונית קיפחת, , תלתן בואסיה,   קידה שעירה, כרמלית נאה, שום שעיר, שיכרון זהוב, פיגם מצוי, לוטם שעיר, לוטמית , מרווה משולשת , פעמונית דמשקאית, לוע אריה,  פעמונית משוננת, וצידונית, ארביס אביבי,  אפון קיפח , לוטמית, ובניצנים עדיין פרע  אזובי המשויה עדיין לא פורחת במקום",
+       "locations": [
+        {
+          "location_name": "מבצר מונפורט",
+           "flowers": [
+             "Polygonum equisetiforme",
+             "Salvia hierosolymitana",
+            "Gladiolus italicus",
+           "Convolvulus dorycnium",
+            "Sanguisorba minor",
+             "Tragopogon porrifolius",
+            "Onopordum macracanthum",
+           "Campanula rapunculoides",
+            "Verbascum caesareum",
+            "Campanula rapunculoides",
+            "Trifolium boissieri",
+             "Calicotome villosa",
+            "Ajuga chamaepitys",
+           "Allium subhirsutum",
+            "Hyoscyamus aureus",
+            "Ruta chalepensis",
+            "Cistus villosus",
+            "Helianthemum",
+            "Salvia fruticosa",
+            "Campanula damascena",
+            "Antirrhinum majus",
+            "Campanula strigosa",
+            "Sideritis cypria",
+             "Arabis verna",
+            "Lathyrus aphaca",
+            "Helianthemum",
+            "Micromeria myrtifolia"
+          ],
+          "maps_query_location": "Montfort Castle"
+        }
+      ]
+    },
+     {
+      "date": "21/04/2014",
+      "observer": null,
+      "original_text": "פרחי בר וצמחים מאוקלמים",
+      "locations": [
+        {
+          "location_name": "אילנות",
+            "flowers": [],
+          "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "21/04/2014",
+       "observer": null,
+      "original_text": "ללא מילים ראו בצילומים",
+      "locations": [
+         {
+          "location_name": "חורשת הסרג'נטים",
+          "flowers": [],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "20/04/2014",
+      "observer": null,
+       "original_text": "געדה קיפחת, איריס ארם-נהריים, עכנאי מגובב, דרדר גדול-פרחים, שברק דביק, געדה מצויה, גזר קיפח, חוטמית זיפנית, שפרירה קשקשנית, פעמונית קיפחת, גדילן מצוי, נפית כפופה",
+        "locations": [
+        {
+          "location_name": "רמות מנשה",
+             "flowers": [
+           "Ferula tingitana",
+            "Iris orientalis",
+           "Echium glomeratum",
+             "Onopordum macracanthum",
+            "Thesium bergeri",
+             "Ferula communis",
+             "Daucus carota",
+            "Alcea setosa",
+             "Globularia trichosantha",
+           "Campanula rapunculoides",
+           "Silybum marianum",
+            "Nepeta curviflora"
+          ],
+          "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+      {
+      "date": "20/04/2014",
+      "observer": null,
+      "original_text": "כתב העצובה על הכחדת מינים בקישור למטה",
+       "locations": [
+       {
+          "location_name": null,
+            "flowers": [
+            "Salvia indica"
+            ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

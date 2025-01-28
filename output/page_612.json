@@ -1,0 +1,499 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/02/2013",
+      "observer": "עירית",
+      "original_text": "היום ברמת סירין- נחל עין חדה עד עין רכש ונחל אולם, מגוון גדול של פריחה אביבית, שפע כלניות, מטעי שקד, תלתנים- תריסני, כוכבני, הארגמן, הפוך, הכדורים ועוד מינים, אספסת, קדד גדול פרי, יפה, ארץ ישראלי, צהרון מצוי, מקור חסידה גדול, חלמיתי, מצוי, לשון פר מצרית, סמורה, עכנאי, מרגנית השדה, ורוניקת המים, צחנן מבאיש, תורמוסים אחדים, ציפורנית מגוונת, מצרית, ענפה ועוד רבים... בצלציות כבר לא ראינו.",
+      "locations": [
+        {
+          "location_name": "רמת סירין",
+          "flowers": [
+            "Anemone coronaria",
+            "Prunus dulcis",
+             "Trifolium",
+            "Arisarum vulgare",
+            "Anemone coronaria",
+            "Medicago sativa",
+            "Astragalus",
+            "Erodium",
+            "Malva",
+            "Echium",
+            "Anthemis",
+            "Veronica anagallis-aquatica",
+             "Torilis",
+             "Lupinus",
+            "Dianthus",
+            "Anchusa aegyptiaca",
+            "Myagrum perfoliatum"
+          ],
+           "maps_query_location": "Ramat Sirin"
+        },
+        {
+          "location_name": "נחל עין חדה",
+         "flowers": [
+             "Anemone coronaria",
+             "Prunus dulcis",
+              "Trifolium",
+              "Arisarum vulgare",
+              "Anemone coronaria",
+              "Medicago sativa",
+              "Astragalus",
+              "Erodium",
+              "Malva",
+              "Echium",
+              "Anthemis",
+              "Veronica anagallis-aquatica",
+               "Torilis",
+               "Lupinus",
+              "Dianthus",
+              "Anchusa aegyptiaca",
+               "Myagrum perfoliatum"
+            ],
+           "maps_query_location": "Nahal Ein Hada"
+        },
+         {
+          "location_name": "עין רכש",
+           "flowers": [
+             "Anemone coronaria",
+            "Prunus dulcis",
+             "Trifolium",
+             "Arisarum vulgare",
+             "Anemone coronaria",
+              "Medicago sativa",
+              "Astragalus",
+              "Erodium",
+              "Malva",
+              "Echium",
+             "Anthemis",
+              "Veronica anagallis-aquatica",
+              "Torilis",
+              "Lupinus",
+              "Dianthus",
+              "Anchusa aegyptiaca",
+              "Myagrum perfoliatum"
+            ],
+           "maps_query_location": "Ein Rekhesh"
+        },
+         {
+          "location_name": "נחל אולם",
+         "flowers": [
+            "Anemone coronaria",
+            "Prunus dulcis",
+             "Trifolium",
+              "Arisarum vulgare",
+              "Anemone coronaria",
+              "Medicago sativa",
+              "Astragalus",
+              "Erodium",
+              "Malva",
+              "Echium",
+              "Anthemis",
+              "Veronica anagallis-aquatica",
+               "Torilis",
+              "Lupinus",
+              "Dianthus",
+               "Anchusa aegyptiaca",
+               "Myagrum perfoliatum"
+           ],
+            "maps_query_location": "Nahal Ulam"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2013",
+      "observer": null,
+      "original_text": "השבוע יצאתי לכרמל ומעוג קיפח נמצא לאורך כל דרך בית אורן-עתלית בבודדים או בריכוזים של עשרות.",
+       "locations": [
+         {
+          "location_name": "כרמל",
+           "flowers": ["Cyclamen persicum"],
+          "maps_query_location": "Carmel"
+         },
+        {
+          "location_name": "בית אורן",
+          "flowers": ["Cyclamen persicum"],
+           "maps_query_location": "Beit Oren"
+        },
+        {
+          "location_name": "עתלית",
+           "flowers": ["Cyclamen persicum"],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2013",
+      "observer": null,
+      "original_text": "מתחיל כבר ליד גשר הבטון מעל נחל אורן, כמה מאות מטרים מכביש מס 4 (ליד חניון מערת אצבע).",
+      "locations": [
+           {
+          "location_name": "נחל אורן",
+          "flowers": [],
+          "maps_query_location": "Nahal Oren"
+        },
+         {
+          "location_name": "חניון מערת אצבע",
+          "flowers": [],
+            "maps_query_location": "Me'arat Etzba parking lot"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2013",
+      "observer": null,
+      "original_text": "בסמ\"ש אדום - בירידה מהכביש לנחל אורן, ממש מתחת מעקה הכביש יש מספר מעוגים ו,משם צפונה, מהעבר השני של הנחל, במדרון הצפוני של הנחל יש ריכוז של עשרות.",
+      "locations": [
+        {
+          "location_name": "נחל אורן",
+          "flowers": ["Cyclamen persicum"],
+          "maps_query_location": "Nahal Oren"
+         }
+      ]
+    },
+    {
+      "date": "20/02/2013",
+      "observer": null,
+      "original_text": "הריכוזים בהר עורקן משנה שעברה עדיין שם- לא בפריחה , כמובן.",
+      "locations": [
+         {
+          "location_name": "הר עורקן",
+            "flowers": [],
+            "maps_query_location": "Har Orkhan"
+        }
+      ]
+    },
+     {
+      "date": "20/02/2013",
+      "observer": null,
+       "original_text": "הצטערתי לראות שריכוז האכספים, מערבית ל\"סיבוב הסחלבים\" הושמד (כנראה ע\"י שינוע מטורף של גזעי האורנים השרופים בסביבה).",
+      "locations": [
+        {
+           "location_name": "סיבוב הסחלבים",
+             "flowers": [],
+             "maps_query_location": "Sivuv Haschlabim"
+         }
+      ]
+    },
+     {
+      "date": "20/02/2013",
+      "observer": null,
+      "original_text": "ספרתי ב-17.2 , 36 סחלב נקוד, בשני רכוזים מעל עין אלון, ממש ליד הכביש. עדר הפרות היה בדרכו לכיוון.",
+      "locations": [
+        {
+           "location_name": "עין אלון",
+           "flowers": ["Orchis punctulata"],
+             "maps_query_location": "Ein Alon"
+         }
+      ]
+    },
+     {
+      "date": "20/02/2013",
+      "observer": null,
+       "original_text": "באיזור, כרגיל, דבורנית קטיפה. דינסמור, שחומה וסחלב פרפרני.",
+        "locations": [
+        {
+            "location_name": "null",
+             "flowers": ["Ophrys umbilicata","Ophrys bornmuelleri", "Serapias vomeracea","Orchis papilionacea"],
+             "maps_query_location": null
+         }
+      ]
+    },
+      {
+      "date": "20/02/2013",
+      "observer": "שרה סלפק",
+      "original_text": "הי שרה,ראיתי עכשיו ,את הצילומים, מהטיול של גמלא,, ואני רוצה לתקן --את ההגדרה של הלחך, ללחך יהודה,בתודה שרה סלפק בן-שמן,שבוע טוב.",
+      "locations": [
+        {
+           "location_name": "גמלא",
+             "flowers": ["Alkanna strigosa"],
+           "maps_query_location":"Gamla"
+         }
+      ]
+    },
+    {
+      "date": "20/02/2013",
+        "observer": "שרה בן-שמן",
+      "original_text": "19.2.2013--טיול בגולן עם חן-כץ,תצפית על מפל גמלא השופע ולקיני הנשרים,ירידה ועליה לחורבות גמלא וביהכנס שלה,נ,סמך עליון,חלק משביל הגולן,סיור בשטחים הפתוחים מסביב לביהכנ-באום אל קנטיר,הדרך הרומית -וסיום בשדות ומטעי כנף,כלניות בצבעים,כרמלית נאה ,צנון פגיוני ולחך לחכי-הורודים ששולטים כרגע בנוף-תורמוס ההרים,ברוניקה סורית,שום שעיר,חלבלוב מגובשש,לוענית גדולה,עיריוני צהוב,מקור חסידה גדול,צפורנית עניפה,נורית אסיה,נורית ירושלים,נורית המים,אפון מצוי,ולריאנה איטלקית,גביעונית הלבנון,אירוס הביצות, צהרון מצוי,בקיה צרפתית,תהנו, שרה בן-שמן,",
+      "locations": [
+           {
+          "location_name": "גולן",
+          "flowers": [
+            "Anemone coronaria",
+             "Gynandriris sisyrinchium",
+             "Raphanus raphanistrum",
+            "Alkanna strigosa",
+             "Lupinus pilosus",
+             "Veronica syriaca",
+            "Allium subhirsutum",
+             "Euphorbia macroclada",
+             "Antirrhinum majus",
+             "Asphodeline lutea",
+              "Erodium",
+              "Dianthus",
+              "Ranunculus asiaticus",
+              "Ranunculus hierosolymitanus",
+               "Ranunculus trichophyllus",
+             "Pisum sativum",
+              "Valeriana italica",
+               "Gladiolus libanoticus",
+             "Iris palaestina",
+             "Vicia narbonensis"
+           ],
+            "maps_query_location": "Golan Heights"
+        },
+        {
+           "location_name": "מפל גמלא",
+            "flowers": [
+              "Anemone coronaria",
+              "Gynandriris sisyrinchium",
+              "Raphanus raphanistrum",
+             "Alkanna strigosa",
+              "Lupinus pilosus",
+              "Veronica syriaca",
+              "Allium subhirsutum",
+             "Euphorbia macroclada",
+              "Antirrhinum majus",
+               "Asphodeline lutea",
+             "Erodium",
+             "Dianthus",
+             "Ranunculus asiaticus",
+              "Ranunculus hierosolymitanus",
+              "Ranunculus trichophyllus",
+              "Pisum sativum",
+              "Valeriana italica",
+              "Gladiolus libanoticus",
+              "Iris palaestina",
+             "Vicia narbonensis"
+             ],
+           "maps_query_location": "Gamla Waterfall"
+        },
+        {
+          "location_name": "חורבות גמלא",
+           "flowers": [
+             "Anemone coronaria",
+             "Gynandriris sisyrinchium",
+             "Raphanus raphanistrum",
+             "Alkanna strigosa",
+             "Lupinus pilosus",
+             "Veronica syriaca",
+             "Allium subhirsutum",
+              "Euphorbia macroclada",
+              "Antirrhinum majus",
+              "Asphodeline lutea",
+              "Erodium",
+             "Dianthus",
+              "Ranunculus asiaticus",
+               "Ranunculus hierosolymitanus",
+               "Ranunculus trichophyllus",
+              "Pisum sativum",
+              "Valeriana italica",
+              "Gladiolus libanoticus",
+              "Iris palaestina",
+              "Vicia narbonensis"
+           ],
+            "maps_query_location": "Gamla Ruins"
+        },
+         {
+           "location_name":"באום אל קנטיר",
+           "flowers": [
+             "Anemone coronaria",
+              "Gynandriris sisyrinchium",
+             "Raphanus raphanistrum",
+              "Alkanna strigosa",
+              "Lupinus pilosus",
+              "Veronica syriaca",
+              "Allium subhirsutum",
+              "Euphorbia macroclada",
+               "Antirrhinum majus",
+              "Asphodeline lutea",
+              "Erodium",
+              "Dianthus",
+              "Ranunculus asiaticus",
+               "Ranunculus hierosolymitanus",
+              "Ranunculus trichophyllus",
+             "Pisum sativum",
+             "Valeriana italica",
+              "Gladiolus libanoticus",
+              "Iris palaestina",
+             "Vicia narbonensis"
+            ],
+            "maps_query_location": "Umm el Kanatir"
+        },
+         {
+           "location_name": "כנף",
+            "flowers": [
+              "Anemone coronaria",
+              "Gynandriris sisyrinchium",
+              "Raphanus raphanistrum",
+              "Alkanna strigosa",
+              "Lupinus pilosus",
+              "Veronica syriaca",
+              "Allium subhirsutum",
+              "Euphorbia macroclada",
+             "Antirrhinum majus",
+              "Asphodeline lutea",
+               "Erodium",
+             "Dianthus",
+              "Ranunculus asiaticus",
+              "Ranunculus hierosolymitanus",
+             "Ranunculus trichophyllus",
+             "Pisum sativum",
+             "Valeriana italica",
+             "Gladiolus libanoticus",
+             "Iris palaestina",
+             "Vicia narbonensis"
+            ],
+             "maps_query_location":"Kanaf"
+         }
+      ]
+    },
+     {
+      "date": "20/02/2013",
+      "observer": "אילן טל",
+        "original_text":"הגן יהיה סגור ביום ו' - 22.2.13 ובשבת - 23.2.13 .",
+        "locations":[
+          {
+            "location_name": "כפר יהושע",
+            "flowers": [],
+            "maps_query_location":"Kfar Yehoshua"
+         }
+       ]
+    },
+    {
+      "date": "19/02/2013",
+      "observer": null,
+      "original_text": "צבעוני ההרים, צהרון מצוי, תלתן ישראלי (צמח אדום), סביון יפו, סביון אביבי, אלקנת הצבעים, מחרוזת קשתית (צמח אדום),ציפורנית מגוונת, מרגנית השדה, אפזרית מלוחה, חרצית עטורה, כלנית מצויה, רקפת מצויה, קחוון, מרסיה יפהפיה, המוני סחלב פרפרני, התחלה של שפתן מצוי, אלמוות הכסף, זהבית השלוחות, עדעד כחול, חומעת ראש הסוס, לשון-פר מצרית, מק\"ח יפה.",
+        "locations": [
+          {
+            "location_name": "שמורת דור-הבונים",
+             "flowers": [
+                "Tulipa montana",
+                "Erodium",
+               "Trifolium palaestinum",
+               "Senecio joppensis",
+               "Senecio vernalis",
+               "Alkanna tinctoria",
+               "Dianthus",
+               "Anthemis",
+               "Mesembryanthemum nodiflorum",
+              "Chrysanthemum coronarium",
+               "Anemone coronaria",
+                "Cyclamen persicum",
+               "Ophrys papilionacea",
+              "Salvia viridis",
+              "Helichrysum sanguineum",
+              "Gagea reticulata",
+                "Limonium narbonense",
+               "Rumex bucephalophorus",
+                 "Anchusa aegyptiaca",
+                  "Erodium"
+            ],
+            "maps_query_location": "Dor Habonim nature reserve"
+          }
+      ]
+    },
+    {
+      "date": "18/02/2013",
+      "observer": null,
+      "original_text": "מי של אהיה ביער טל שחר שיצא לשטח. מרבדי רקפות חלומיים פורחים שם כמו באגדות.",
+      "locations": [
+        {
+          "location_name": "יער טל שחר",
+           "flowers": [ "Cyclamen persicum"],
+           "maps_query_location":"Tel Shahar Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2013",
+       "observer": "הדס יקיר",
+      "original_text": "הכל פורח ביער בית קשת. כלניות, רקפות, עריוני, עירית, אלוני תבור מלבלבים והכי מרגשת - גביעונית הלבנון במס' ריכוזים לאורך הדרך החוצה את היער.נכון ל-15.2.13",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+            "flowers": [
+              "Anemone coronaria",
+              "Cyclamen persicum",
+              "Arisarum vulgare",
+              "Gladiolus libanoticus"
+              ],
+             "maps_query_location":"Beit Keshet Forest"
+         }
+      ]
+    },
+   {
+      "date": "18/02/2013",
+      "observer": "עירית",
+      "original_text": "חברים מהצפון מדווחים (ראיתי תמונות, מומלץ!) על פריחה נהדרת בחורשת טל. כלניות, בעיקר אדומות, וקחוונים.",
+      "locations": [
+        {
+          "location_name": "חורשת טל",
+          "flowers": [
+            "Anemone coronaria",
+            "Chrysanthemum coronarium"
+            ],
+          "maps_query_location": "Hurshat Tal"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2013",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "יום שישי 15 פברואר 2013. בדרך - שדה בוקר - חלמית גדולת פרחים, טופח נאה, גרגרנית. ערבה ליד מעבר הגבול רבין - שחליים שרועים, מררית כחולת זרעון, שכרון פעוט, לוניאה שרועה, קדד קוטבי.בתעלה ליד בית הקברות אילת - קדד דליל, קרוטלריה מצרית, טפרוסיה נאה, אזוביון מדברי, פרעושית גלונית.ככר שחמון אילת - היביסקוס סגלגל, עכנאי זיפני, לובד המדבר, אפיונה מחודדת, לשון פר מדברית כביש 12 ליד מעביר מיים - מסמור סיני פרי.",
+        "locations": [
+          {
+            "location_name": "שדה בוקר",
+             "flowers": [
+                "Malva",
+               "Phlomis",
+                "Reichardia tingitana"
+               ],
+             "maps_query_location":"Sde Boker"
+          },
+          {
+            "location_name": "מעבר הגבול רבין",
+            "flowers": [
+                "Zygophyllum dumosum",
+              "Launaea mucronata",
+              "Echium",
+               "Loniaea nudicaulis",
+               "Astragalus"
+            ],
+             "maps_query_location": "Rabin Border Crossing"
+          },
+           {
+             "location_name": "אילת",
+              "flowers": [
+                 "Astragalus",
+                "Crotalaria aegyptiaca",
+                "Tephrosia apollinea",
+               "Lavandula coronopifolia",
+               "Pulicaria glutinosa"
+              ],
+              "maps_query_location":"Eilat"
+            },
+           {
+             "location_name": "כיכר שחמון",
+             "flowers": [
+               "Hibiscus",
+              "Echium",
+              "Paronychia argentea",
+               "Fagonia",
+              "Anchusa",
+              "Suaeda monoica"
+             ],
+             "maps_query_location":"Shachmon Square"
+         },
+         {
+           "location_name":"כביש 12",
+             "flowers": [
+                "Suaeda monoica"
+              ],
+            "maps_query_location":"Highway 12"
+          }
+        ]
+    }
+  ]
+}
+```

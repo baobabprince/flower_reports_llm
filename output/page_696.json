@@ -1,0 +1,226 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/04/2011",
+      "observer": null,
+      "original_text": "שנק החורש  בעין אלון, סייפן התבואה, סחלבן החורש וכרמליות רבות. בגני הנדיב פריחה רבה המיוחדים הפורחים: מרוה מרושתת ושום הגלגל",
+      "locations": [
+        {
+          "location_name": "עין אלון",
+          "flowers": [
+            "Senecio vernalis",
+             "Gladiolus italicus",
+            "Orchis punctulata",
+             "Carmelina communis"
+          ],
+           "maps_query_location": "Ein Alon"
+        },
+        {
+          "location_name": "גני הנדיב",
+          "flowers": [
+            "Salvia dominica",
+            "Allium rotundum"
+           ],
+          "maps_query_location": "Ganei HaNadiv"
+        }
+      ]
+    },
+    {
+      "date": "07/04/2011",
+      "observer": null,
+      "original_text": "דבורנית נאה, המוני סחלב אנטולי, סחלבן החורש התחיל לפרוח, סחלב איטלקי, ואולי בעוד שבוע-שבועיים יפרח שנק החורש",
+      "locations": [
+        {
+          "location_name": "הר חלוץ",
+          "flowers": [
+             "Ophrys umbilicata",
+            "Anacamptis laxiflora",
+            "Orchis punctulata",
+            "Orchis italica",
+            "Senecio vernalis"
+
+          ],
+          "maps_query_location": "Har Halutz"
+        },
+         {
+          "location_name": "הר אדיר",
+           "flowers": [
+             "Ophrys umbilicata",
+            "Anacamptis laxiflora",
+            "Orchis punctulata",
+            "Orchis italica",
+            "Senecio vernalis"
+          ],
+          "maps_query_location":"Har Adir"
+        }
+      ]
+    },
+     {
+      "date": "06/04/2011",
+      "observer": "אורי שטיין",
+      "original_text": "למרות ההרס טופח כדורי, פשתנית ריסנית, חרצית משוננת,זעזועית גדולה וקטנה, תורמוס צהובלוטם מרוני ושעיר, לוטמית ערבית בן חצב יקינטוני, כף עוף פחוסה",
+      "locations": [
+         {
+          "location_name": null,
+          "flowers": [
+             "Globularia arabica",
+            "Linaria micrantha",
+            "Chrysanthemum coronarium",
+            "Gagea reticulata",
+            "Lupinus luteus",
+             "Cistus creticus",
+            "Cistus villosus",
+             "Helianthemum stipulatum",
+             "Bellevalia flexuosa",
+              "Ornithogalum narbonense"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "06/04/2011",
+       "observer": "אורי שטיין",
+      "original_text": "התחלת פריחה של בוציץ סוככני ואקליפטה (אל-ציצית) לבנה",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+             "Phlomis umbrosa",
+            "Eucalyptus camaldulensis"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/04/2011",
+       "observer": "עירית",
+      "original_text": "הר עצמון ביום חורפי במיוחד עם פריחה אביבית במיוחד- ארבעה מיני ציפורנית- מצרית, מגוונת, נפוחה וענפה, דרדר כחול, סייפן התבואה, עצים פורחים: לבנה רפואי, כליל החורש, עוזרר, אדומים: כלניות, נוריות, פרגים, צבעונים, דם המכבים. סחלבים: פרפרני, אנטולי, שלוש השניים, הגליל. דבורניות: דינסמור, הקטיפה והמון פרפרניים וסוככיים.",
+      "locations": [
+        {
+          "location_name": "הר עצמון",
+          "flowers": [
+            "Dianthus sinaicus",
+            "Dianthus diversifolius",
+            "Dianthus strictus",
+             "Dianthus pendulus",
+            "Centaurea cyanoides",
+            "Gladiolus italicus",
+            "Styrax officinalis",
+            "Cercis siliquastrum",
+            "Crataegus aronia",
+              "Anemone coronaria",
+              "Ranunculus asiaticus",
+              "Papaver rhoeas",
+             "Tulipa agenensis",
+              "Adonis palaestina",
+               "Orchis papilionacea",
+              "Anacamptis laxiflora",
+             "Himantoglossum robertianum",
+             "Ophrys galilaea",
+              "Ophrys dinsmorei",
+             "Ophrys fuchsii"
+          ],
+          "maps_query_location": "Har Atzmon"
+        }
+      ]
+    },
+    {
+      "date": "06/04/2011",
+       "observer": null,
+      "original_text": "בדרך העולה לקברה של סוניה פורחים:\n כליל החורש, תלתן חקלאי, כתרונים, לוטוס משונץ, זקן-תיש וזקן -סב,  דרדית מצויה, תלתנים שונים, הרדופנין , גרגרנית בירותית ועוד",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+             "Cercis siliquastrum",
+            "Trifolium alexandrinum",
+            "Coronilla scorpioides",
+            "Lotus peregrinus",
+             "Tragopogon longirostris",
+              "Tragopogon sinuatus",
+            "Crepis aculeata",
+             "Nerium oleander",
+             "Sanguisorba minor"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/04/2011",
+       "observer": null,
+      "original_text": "שום קטן פרחים - תת מין גבעת ברנר פורח בגן",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "Allium parviflorum"
+          ],
+          "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2011",
+       "observer": null,
+      "original_text": "אשבל זוהרי וטופח קסיוס פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "Salvia judaica",
+            "Teucrium chamedrys"
+          ],
+          "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    },
+    {
+      "date": "05/04/2011",
+       "observer": null,
+      "original_text": "צבע אדום במבואות אשקלון - מרבדי פריחה אדומה מרהיבה ממזרח ל\"צומת פרי-אור\" במבואותיה הצפוניים של אשקלון. מרבד גדול נוסף נראה שלשום ממערב למחלף נס ציונה בכביש 431 (די בוודאות פרגים)",
+      "locations": [
+        {
+          "location_name": "אשקלון",
+            "flowers": [
+              "Papaver rhoeas"
+            ],
+           "maps_query_location": "Ashkelon"
+        },
+        {
+          "location_name": "צומת פרי אור",
+           "flowers": [
+              "Papaver rhoeas"
+            ],
+           "maps_query_location": "Pir-Or Junction"
+        },
+          {
+          "location_name":"נס ציונה",
+            "flowers":[
+                "Papaver rhoeas"
+              ],
+            "maps_query_location": "Ness Ziona"
+          }
+
+      ]
+    },
+     {
+      "date": "05/04/2011",
+      "observer": "עמיר פז",
+      "original_text": "בוצין קיסריון פורח בגן הבוטני בגעש",
+       "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "Verbascum caesareum"
+          ],
+          "maps_query_location": "Ga'ash Botanical Garden"
+        }
+      ]
+    }
+  ]
+}
+```

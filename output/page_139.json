@@ -1,0 +1,213 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/03/2022",
+      "observer": "אסף",
+      "original_text": "גביעונית הלבנון בנחל ראש פינה - כמה פרטים מייד בכניסה מעל בית העלמין, משמאל, ובהמשך בערך באמצע הדרך לעין גיא אוני קבוצות מרשימות מימין.",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "גביעונית הלבנון"
+          ],
+           "maps_query_location": "Nahal Rosh Pina"
+        },
+         {
+          "location_name": "עין גיא אוני",
+           "flowers": [
+            "גביעונית הלבנון"
+           ],
+           "maps_query_location": "Ein Gai Oni"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2022",
+      "observer": null,
+      "original_text": "שום תל-אביב, תורמוס א\"י , תורמוס צר עלים, תחילת פריחה : צבעונים, שפתנים, אזוביון דגול, לוטם מרווני, בן חצב יקנתוני רק התחיל , איריסים עדיין פורחים בואו לטייל אצלינו",
+      "locations": [
+        {
+          "location_name": "אילנות",
+           "flowers": [
+            "שום תל-אביב",
+             "תורמוס ארץ-ישראלי",
+             "תורמוס צר עלים",
+             "צבעוני",
+             "שפתניים",
+             "אזוביון דגול",
+             "לוטם מרווני",
+              "בן חצב יקנתוני",
+              "אירוס"
+          ],
+          "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2022",
+      "observer": "נעם בר-נוי",
+       "original_text": "בחציית נחל סנסן וכביש 367 ממזרח לכביש",
+      "locations": [
+        {
+          "location_name": "עמק האלה",
+          "flowers": [
+             "כלנית סגולה"
+          ],
+          "maps_query_location": "Elah Valley"
+         },
+        {
+          "location_name": "נחל סנסן",
+          "flowers": [
+               "כלנית סגולה"
+          ],
+           "maps_query_location":"Nahal Sansan"
+        }
+      ]
+    },
+     {
+      "date": "06/03/2022",
+      "observer": "יענקל'ה סער",
+       "original_text": "בחרבת לויה מרבדי תורמוסים בשטח עצום, לצד רקפות, כלניות ופריחה עונתית. בדרך לשם משטחי כלניות ללא הפסקה. ולא לפספס את החורבה עצמה. מערות מגורים , קולומבריום והשיא הוא הפסיפס המרהיב בכנסיה, שהשתמר כמעט בשלמותו. רק בסופי שבוע כי הנסיעה למקום עוברת בשטח אש.",
+      "locations": [
+        {
+          "location_name": "חרבת לויה",
+          "flowers": [
+             "תורמוס",
+             "רקפת",
+              "כלנית"
+          ],
+          "maps_query_location": "Khirbet Luya"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2022",
+       "observer": null,
+       "original_text": "פסיפס רקפות וצבעונים",
+      "locations": [
+        {
+           "location_name": "מעיין צבי",
+           "flowers": [
+            "רקפת",
+              "צבעוני"
+          ],
+          "maps_query_location": "Ma'ayan Zevi"
+        }
+      ]
+    },
+       {
+      "date": "06/03/2022",
+       "observer": null,
+        "original_text": "ראו תצלום \"פסיספס\" מהנה",
+      "locations": [
+        {
+           "location_name": "נעורה",
+           "flowers": [
+             "תורמוס ההרים"
+           ],
+           "maps_query_location":"Ne'ura"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2022",
+      "observer": null,
+      "original_text": "במצפה רמון ובהר הנגב",
+      "locations": [
+       {
+          "location_name": "מצפה רמון",
+          "flowers": [
+             "ריבס המדבר"
+          ],
+          "maps_query_location": "Mitzpe Ramon"
+        },
+       {
+          "location_name": "הר הנגב",
+           "flowers": [
+             "ריבס המדבר"
+          ],
+           "maps_query_location": "Har Hanegev"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2022",
+       "observer": null,
+        "original_text": "איריס הנגב, מנתור, ועוד רבים אחרים ראו בקישור",
+      "locations": [
+        {
+          "location_name": "בני נצרים",
+           "flowers": [
+            "איריס הנגב",
+             "מנתור"
+          ],
+           "maps_query_location":"Bnei Netzarim"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2022",
+       "observer": null,
+      "original_text": "בג'ובה הגדולה בגולן",
+      "locations": [
+        {
+          "location_name": "ג'ובה הגדולה",
+           "flowers": [
+             "רומוליאה זעירה"
+          ],
+          "maps_query_location": "Juba el Kubra"
+        },
+         {
+          "location_name": "גולן",
+           "flowers": [
+              "רומוליאה זעירה"
+          ],
+          "maps_query_location": "Golan"
+        }
+      ]
+    },
+     {
+      "date": "05/03/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בגעת העיזים פורחים: צבעוני ההרים-פרחים רבים, סחלב איטלקי,סחלב הגליל,דבורנית צהובה,שום משולש, מרווה דגולה, מסרק שולמית, רקפות,כלניות, קידה שעירה, לוטם מרווני ועוד.",
+       "locations": [
+        {
+          "location_name": "געת העיזים",
+          "flowers": [
+            "צבעוני ההרים",
+            "סחלב איטלקי",
+            "סחלב הגליל",
+             "דבורנית צהובה",
+            "שום משולש",
+            "מרווה דגולה",
+             "מסרק שולמית",
+            "רקפת",
+            "כלנית",
+            "קידה שעירה",
+            "לוטם מרווני"
+          ],
+           "maps_query_location": "Gat Ha'izim"
+        },
+         {
+          "location_name": "חיפה",
+           "flowers": [
+               "צבעוני ההרים",
+            "סחלב איטלקי",
+            "סחלב הגליל",
+             "דבורנית צהובה",
+            "שום משולש",
+            "מרווה דגולה",
+             "מסרק שולמית",
+            "רקפת",
+            "כלנית",
+            "קידה שעירה",
+            "לוטם מרווני"
+          ],
+           "maps_query_location":"Haifa"
+        }
+      ]
+    }
+  ]
+}
+```

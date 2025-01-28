@@ -1,0 +1,245 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/12/2011",
+      "observer": "עמיר פז",
+      "original_text": "איריס הסרגל,אצבוע אירופי,ונץ חלב איזמלני פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+            "Iris vartanii",
+            "Arisarum vulgare",
+            "Ornithogalum narbonense"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "13/12/2011",
+      "observer": null,
+       "original_text": "אתמול היינו בכרמל בשמורת קרן כרמל פרחו נרקיסים כרכומים דודאים בתחילת פריחה כתמה אירוס הסרגל רקפות זלזלת הקנוקנות ופרח אחד של בצלציה",
+      "locations": [
+        {
+          "location_name": "שמורת קרן כרמל",
+            "flowers": [
+              "Narcissus tazetta",
+              "Crocus",
+              "Mandragora autumnalis",
+              "Colchicum",
+              "Iris vartanii",
+              "Cyclamen persicum",
+               "Clematis cirrhosa",
+               "Bellevalia"
+            ],
+          "maps_query_location": "Mount Carmel"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2011",
+      "observer": null,
+       "original_text":"פורחים: נרקיס מצוי, שפע של חיננית הבתה וכרכום חורפי, כתמה עבת-שורשים, סביון אביבי, זלזלת הקנוקנות. אשבל ארץ-ישראלי.\nחרוב מצוי, סיתוונית היורה ובן-חצב-סיתווני לקראת סוף הפריחה וגם חורשף מצוייץ.",
+      "locations": [
+          {
+            "location_name":"כרמל",
+            "flowers":[
+              "Narcissus tazetta",
+              "Bellis sylvestris",
+              "Crocus hyemalis",
+              "Colchicum",
+              "Senecio vernalis",
+              "Clematis cirrhosa",
+              "Salvia hierosolymitana",
+              "Ceratonia siliqua",
+              "Colchicum stevenii",
+              "Prospero autumnale",
+              "Scolymus maculatus"
+            ],
+              "maps_query_location": "Mount Carmel"
+          },
+        {
+          "location_name": "חורבת רקית",
+           "flowers": [
+              "Narcissus tazetta",
+              "Bellis sylvestris",
+              "Crocus hyemalis",
+              "Colchicum",
+              "Senecio vernalis",
+              "Clematis cirrhosa",
+              "Salvia hierosolymitana",
+               "Ceratonia siliqua",
+               "Colchicum stevenii",
+              "Prospero autumnale",
+              "Scolymus maculatus"
+            ],
+          "maps_query_location": "Horbat Rakit"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2011",
+      "observer": "מלי רותם",
+       "original_text":"בשביל האלון בטבעון פריחה נאה של כרכומים מעט סיתווניות ונרקיסים ורשית פריחת הדודאים.",
+      "locations": [
+        {
+          "location_name": "שביל האלון",
+            "flowers":[
+              "Crocus",
+              "Colchicum",
+              "Narcissus tazetta",
+              "Mandragora autumnalis"
+            ],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "טבעון",
+          "flowers":[
+             "Crocus",
+             "Colchicum",
+             "Narcissus tazetta",
+             "Mandragora autumnalis"
+             ],
+            "maps_query_location": "Tiv'on"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2011",
+      "observer": null,
+      "original_text": "לאורך השביל האדום בכניסה ל\"קברות המכבים\" ממשיכים ישר בדרך הכורכר ונכנסים ליערות מסביב : הופתעתי לצפות היום בפריהח של מאות נרקיסים, כרכום חורפי והרבה פסולת של ישראלי \"נחמדים\"",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+             "Narcissus tazetta",
+             "Crocus hyemalis"
+           ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+      {
+      "date": "10/12/2011",
+      "observer": "עידן גולדווסר",
+       "original_text":"בטיול מהנה היום באזור מערות אפקה נצפו: שברק מצוי -סיום פריחה , כדן קטן-פרחים-פריטים אחרונים , סתוונית היורה - כמויות מכובדות ביותר נפרסות על שטח נרחב במתחם המערות . ראוי לציין לבלובים נהדרים של המינים הבאים: איריס הארגמן, חצב מצוי  - מחזה מרהיב של עלים בשרניים וגדולים, עיריות (המון) , איריס ארצישראלי (מעטים) . בעמק הנרקיסים ,צפונית לנחל אחיה מעט נרקיסים הוציאו עלים - נקווה לטוב!",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+            "flowers": [
+              "Mercurialis annua",
+              "Globularia arabica",
+              "Colchicum stevenii",
+              "Iris atropurpurea",
+              "Urginea maritima",
+              "Asphodelus",
+               "Iris palaestina"
+            ],
+          "maps_query_location": "Aphek Caves"
+        },
+         {
+          "location_name":"עמק הנרקיסים",
+            "flowers": [
+              "Narcissus tazetta"
+             ],
+              "maps_query_location": "Emek HaNarkisim"
+        },
+        {
+          "location_name": "גלילות",
+          "flowers":[
+              "Narcissus tazetta"
+            ],
+            "maps_query_location": "Glilot"
+        }
+      ]
+    },
+      {
+        "date":"10/12/2011",
+         "observer":"אלי ליבנה - ELV",
+         "original_text":"פורחות עדיין  סתוניות  היורה בגבעות הכוכר כמו כן שמשון סגלגל,  בן חצב סתוני , עכנאי שרוע.",
+         "locations":[
+             {
+                "location_name":"גבעות הכורכר נס ציונה",
+                "flowers":[
+                  "Colchicum stevenii",
+                  "Teucrium polium",
+                  "Prospero autumnale",
+                  "Echium humile"
+                ],
+                 "maps_query_location": "Ness Ziona"
+            }
+          ]
+      },
+     {
+        "date":"08/12/2011",
+         "observer":"גן בוטני",
+         "original_text":"פורחים : קוצן מכונף , סתוונית טוביה , כרכום גיירדו + חופי, אירוס הסרגל , גולנית ערב , מרסיה יפהפיה , רקפת סתווית , דודא רפואי , גומא צפוף ועוד . נבטו : קדד הקרקפות + אהרנברג , אבובית החרטומים , קרקפן נמוך  ועוד הרבה עשרות מינים  .",
+         "locations":[
+            {
+               "location_name":"גן איריס כפר יהושע",
+                "flowers":[
+                   "Onopordum algeriense",
+                  "Colchicum tuvianum",
+                    "Crocus gargaricus",
+                    "Iris vartanii",
+                   "Anagallis arvensis",
+                   "Merremia tridentata",
+                    "Cyclamen graecum",
+                   "Mandragora officinarum",
+                   "Cyperus congestus"
+                   ],
+                 "maps_query_location":"Kfar Yehoshua"
+            }
+           ]
+      },
+    {
+      "date": "07/12/2011",
+      "observer": "עירית",
+       "original_text":"ברמת אדמית חגיגת פריחה של רקפות. פורחים גם נרקיסים, חיננית הבתה, מעט סתוונית היורה וכרכום חורפי, כתמה,  וגם פריחה של חורף- סביון אביבי, צפורני חתול, מקור חסידה. היו גם שיחים אחדים של קידה שעירה בפריחה. והנוף....",
+      "locations": [
+        {
+          "location_name": "רמת אדמית",
+          "flowers": [
+            "Cyclamen persicum",
+            "Narcissus tazetta",
+            "Bellis sylvestris",
+            "Colchicum stevenii",
+             "Crocus hyemalis",
+             "Colchicum",
+            "Senecio vernalis",
+            "Calendula arvensis",
+            "Erodium cicutarium",
+              "Calicotome villosa"
+          ],
+          "maps_query_location": "Ramat Adomit"
+        }
+      ]
+    },
+        {
+      "date": "07/12/2011",
+      "observer": "עירית",
+       "original_text":"סתווניות התשבץ ששימחו אותנו מתחילת אוקטובר, סיימו את העונה. אתמול פגשתי אחדות בשלבי פריחה אחרונים. פרחו כרכומים נאים וכרכומים צהבהבים רבים מאד.",
+      "locations": [
+          {
+            "location_name":"הר בראון",
+           "flowers":[
+             "Colchicum",
+             "Crocus"
+            ],
+              "maps_query_location":"Mount Bental"
+          },
+         {
+           "location_name":"הר בנטל",
+            "flowers":[
+             "Colchicum",
+             "Crocus"
+            ],
+              "maps_query_location":"Mount Bental"
+         }
+        ]
+    }
+  ]
+}
+```

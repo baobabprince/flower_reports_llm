@@ -1,0 +1,198 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/04/2021",
+      "observer": "ירון וול",
+      "original_text": "התחלת פריחת אדמונית החורש בשביל האדמוניות במסגרת מטיילי יום ד ראינו כ ארבע אולי חמישה שיחים עם פריחה . נראה דל לעומת שנים קודמות",
+      "locations": [
+        {
+          "location_name": "הר הלל",
+          "flowers": [
+            "אדמונית החורש"
+          ],
+            "maps_query_location": "Har Hilel"
+        }
+      ]
+    },
+    {
+      "date": "12/04/2021",
+      "observer": "יוסי מלכי",
+      "original_text": "פריחת הדובדבן בגולן אלרום ואזור בריכת רם מומלץ",
+      "locations": [
+        {
+          "location_name": "גולן",
+          "flowers": [
+            "דובדבן"
+          ],
+            "maps_query_location": "Golan Heights"
+        },
+         {
+          "location_name": "אלרום",
+           "flowers": [
+             "דובדבן"
+            ],
+            "maps_query_location": "Elrom"
+        },
+        {
+          "location_name": "בריכת רם",
+             "flowers": [
+             "דובדבן"
+            ],
+            "maps_query_location": "Birket Ram"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2021",
+      "observer": null,
+      "original_text": "חסת כחולת פרחים, מוצית קוצנית, נפית כחולה, ערבז (?), גזר קיפח, מרטווה משולשת, בן-סחלב צריפי, קערורית סגולה ועוד",
+        "locations": [
+        {
+          "location_name": "מושב גמזו",
+          "flowers": [
+            "חסת כחולת פרחים",
+            "מוצית קוצנית",
+            "נפית כחולה",
+             "ערבז",
+            "גזר קיפח",
+            "מרטווה משולשת",
+            "בן-סחלב צריפי",
+            "קערורית סגולה"
+          ],
+            "maps_query_location": "Gimzo"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2021",
+      "observer": null,
+      "original_text": "שיח של מרווה כחולה עם 3 עמודמ פריחה נצפ בנחל רפאים מול עין חניה בגדה הצפונית",
+      "locations": [
+        {
+          "location_name": "נחל רפאים",
+          "flowers": [
+            "מרווה כחולה"
+          ],
+            "maps_query_location": "Nahal Refa'im"
+        },
+          {
+          "location_name": "עין חניה",
+           "flowers": [
+            "מרווה כחולה"
+           ],
+           "maps_query_location": "Ein Haniya"
+          }
+      ]
+    },
+    {
+      "date": "09/04/2021",
+       "observer": "מילכה כרמל",
+      "original_text": null,
+       "locations": [ ]
+    },
+    {
+      "date": "10/04/2021",
+      "observer": "נורית שלו עמלי",
+      "original_text": "פורחות ב\"ביצה\" של יער חדרה",
+      "locations": [
+        {
+          "location_name": "יער חדרה",
+          "flowers": [
+            "נורית המים"
+          ],
+            "maps_query_location": "Hadera Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2021",
+      "observer": null,
+      "original_text": "לצד כביש 505 כחמישה ק\"מ מזרחית לצומת תפוח, מתחת לפילבוקס. הפריחה בשיאה.",
+      "locations": [
+        {
+          "location_name": "צומת תפוח",
+           "flowers": [
+            "אירוס הדור"
+          ],
+           "maps_query_location": "Tappuah Junction"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2021",
+       "observer": null,
+      "original_text": "הפריחה במדרון תלול. הגישה למקבצי הפריחה קשה.",
+        "locations": [ ]
+    },
+       {
+      "date": "10/04/2021",
+       "observer": "יענקל'ה סער",
+      "original_text": "הפריחה בשיאה במדרון תלול. הגישה למקבצי הפריחה קשה.",
+       "locations": [
+        {
+          "location_name": "צומת מגדלים",
+           "flowers": [],
+           "maps_query_location": "Migdalim Junction"
+        }
+      ]
+    },
+        {
+      "date": "09/04/2021",
+      "observer": "חני ברוכין",
+      "original_text": "סחלב פרפרני לצד השביל השחור העולה מעין טמיר למצפה הילה בשמורת הטבע נחל כזיב",
+      "locations": [
+        {
+          "location_name": "עין טמיר",
+          "flowers": [
+            "סחלב פרפרני"
+          ],
+          "maps_query_location": "Ein Tamir"
+        },
+        {
+          "location_name": "מצפה הילה",
+            "flowers": [
+             "סחלב פרפרני"
+           ],
+            "maps_query_location": "Mitzpe Hila"
+        },
+          {
+          "location_name": "שמורת הטבע נחל כזיב",
+           "flowers": [
+            "סחלב פרפרני"
+           ],
+            "maps_query_location": "Nahal Kziv Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "08/04/2021",
+        "observer": null,
+      "original_text": "בשביל הפיסגה במירון ובגן הבוטני בירושלים עוד מעט ... בהר הלל",
+      "locations": [
+        {
+          "location_name": "מירון",
+            "flowers": [
+            "אדמונית החורש"
+          ],
+           "maps_query_location": "Meron"
+        },
+        {
+          "location_name": "הגן הבוטני בירושלים",
+            "flowers": [
+            "אדמונית החורש"
+          ],
+           "maps_query_location": "Botanical Garden Jerusalem"
+        },
+        {
+          "location_name": "הר הלל",
+           "flowers": [
+            "אדמונית החורש"
+            ],
+             "maps_query_location": "Har Hilel"
+        }
+      ]
+    }
+  ]
+}
+```

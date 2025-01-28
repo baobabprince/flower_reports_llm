@@ -1,0 +1,245 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/02/2021",
+      "observer": null,
+      "original_text": "יערה איטלקית, ולריאנה איטלקית, כלניות, רקפות, נרקיסים ( כן זו לא טעות) זמזומית מצויה",
+      "locations": [
+        {
+          "location_name": "אריאל",
+          "flowers": [
+            "Lonicera etrusca",
+             "Valeriana italica",
+            "Anemone coronaria",
+            "Cyclamen persicum",
+            "Narcissus tazetta",
+            "Erodium cicutarium"
+          ],
+           "maps_query_location": "Ariel"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2021",
+      "observer": null,
+      "original_text": "נורית הלב- מאות פרחים\nזהבית השלוחות - וברוניקה סורית",
+      "locations": [
+        {
+          "location_name": "נבי סמואל",
+          "flowers": [
+            "Ranunculus asiaticus",
+             "Sternbergia clusiana",
+             "Veronica syriaca"
+          ],
+          "maps_query_location": "Nabi Samwil"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2021",
+      "observer": "יורם קדרון",
+      "original_text": "בגבעות הכורכר ליד בריכות הדגים, צפונית למעגן מיכאל  ודרומית למעיין צבי- רקפות( בשיא), צבעונים ( לפני השיא, כלניות ונוריות.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+             "Cyclamen persicum",
+            "Tulipa agenensis",
+             "Anemone coronaria",
+             "Ranunculus"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        },
+        {
+            "location_name": "מעיין צבי",
+            "flowers": [
+             "Cyclamen persicum",
+               "Tulipa agenensis",
+               "Anemone coronaria",
+               "Ranunculus"
+            ],
+             "maps_query_location": "Maayan Zvi"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2021",
+      "observer": "אפרת",
+      "original_text": "חניון חירבת חנות פריחה משגעת של רקפות וכלניות ותלתנים",
+       "locations": [
+        {
+          "location_name": "חירבת חנות",
+          "flowers": [
+            "Cyclamen persicum",
+            "Anemone coronaria",
+            "Trifolium"
+          ],
+            "maps_query_location": "Khirbet Hanot"
+        },
+        {
+            "location_name": "מטע",
+              "flowers": [
+                "Cyclamen persicum",
+                "Anemone coronaria",
+                "Trifolium"
+              ],
+              "maps_query_location": "Mata"
+         }
+      ]
+    },
+    {
+      "date": "15/02/2021",
+      "observer": "אפרת",
+      "original_text": "בפארק עדולם חירבת בורגין שפע של כלניות בשיא. וחירבת מדרס מרבד כלניות רקפות",
+      "locations": [
+        {
+          "location_name": "חירבת בורגין",
+            "flowers": [
+               "Anemone coronaria"
+          ],
+             "maps_query_location":"Khirbet Burgin"
+        },
+        {
+          "location_name": "חירבת מדרס",
+           "flowers": [
+                "Anemone coronaria",
+               "Cyclamen persicum"
+            ],
+          "maps_query_location": "Khirbet Midras"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2021",
+      "observer": "רונן שורץ",
+      "original_text": "צבעונים, רקפות, כלניות, לוטם מרווני - בגבעת הצבעונים במעגן מיכאל.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "Tulipa agenensis",
+            "Cyclamen persicum",
+            "Anemone coronaria",
+            "Cistus salviifolius"
+          ],
+            "maps_query_location":"Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2021",
+      "observer": "רנית ים",
+      "original_text": "שמורת אדמי, מכיוון מושב הזורעים, פרטים בודדים לבנים בין שפע תורמוסים כחולים",
+       "locations": [
+        {
+          "location_name": "שמורת אדמי",
+          "flowers": [
+            "Lupinus pilosus"
+          ],
+            "maps_query_location": "Adami Nature Reserve"
+        },
+         {
+           "location_name": "הזורעים",
+           "flowers": [
+             "Lupinus pilosus"
+           ],
+           "maps_query_location": "HaZor'im"
+         }
+      ]
+    },
+        {
+      "date": "14/02/2021",
+      "observer": "יורם קדרון",
+      "original_text": "תומוסים כחולים במרבדים בקניון הבזלת בנחל תבור, ליד קיבוץ גזית.",
+         "locations": [
+        {
+          "location_name": "נחל תבור",
+           "flowers": [
+            "Lupinus pilosus"
+          ],
+            "maps_query_location": "Nahal Tavor"
+        },
+           {
+             "location_name": "גזית",
+             "flowers": [
+               "Lupinus pilosus"
+             ],
+             "maps_query_location":"Gazit"
+           }
+      ]
+    },
+    {
+      "date": "14/02/2021",
+      "observer": "יורם קדרון",
+      "original_text": "פריחת רקפות וכלניות אדומות באמצעיתה, באיזורים שונים ביער בית קשת",
+       "locations": [
+        {
+          "location_name": "יער בית קשת",
+          "flowers": [
+            "Cyclamen persicum",
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Beit Keshet Forest"
+        }
+      ]
+    },
+    {
+        "date": "14/02/2021",
+        "observer": null,
+        "original_text": "תל-חזקה \nרקפת יוונית, סכיכון משונן, משקפיים מצויים,  לקוקיה כרתית \nאחו נב: רומוליאה סגלולית , קרנונית דביקה , כריך מחולק , פשתה צרת-עלים , \nמאגר בנטל\nקורידלית הסלעים , רקפת יוונית , שקד מצוי \nליד מחנה יפתח \nתלתן הכדורים , תלתן חקלאי, תלתן כוכבני, תלתן רפה´ תורמוס צר-עלים , רקפת מצויה,  \nצנון פיגיוני , ציפורנית מצרית, מקור-חסידה מצוי, מסרק מזרחי , לוענית גדולה , כתמה עבת-שורשים, כרמלית נאה  \nתל-חזקה \nרקפת יוונית, סכיכון משונן, משקפיים מצויים,  לקוקיה כרתית \nאחו נב: רומוליאה סגלולית , קרנונית דביקה , כריך מחולק , פשתה צרת-עלים , \nמאגר בנטל\nקורידלית הסלעים , רקפת יוונית , שקד מצוי \nליד מחנה יפתח \nתלתן הכדורים , תלתן חקלאי, תלתן כוכבני, תלתן רפה´ תורמוס צר-עלים , רקפת מצויה,  \nצנון פיגיוני , ציפורנית מצרית, מקור-חסידה מצוי, מסרק מזרחי , לוענית גדולה , כתמה עבת-שורשים, כרמלית נאה",
+        "locations": [
+          {
+            "location_name": "תל חזקה",
+            "flowers": [
+                "Cyclamen graecum",
+                "Gladiolus italicus",
+                "Ophrys speculum",
+                "Ophrys cretica"
+            ],
+              "maps_query_location":"Tel Hazeka"
+          },
+          {
+            "location_name": "אחו נב",
+            "flowers": [
+               "Romulea bulbocodium",
+                "Silene viscosa",
+                "Crupina crupinastrum",
+                "Linum strictum"
+            ],
+             "maps_query_location":"null"
+          },
+            {
+            "location_name": "מאגר בנטל",
+            "flowers": [
+               "Corydalis palaestina",
+                "Cyclamen graecum",
+                "Prunus dulcis"
+            ],
+              "maps_query_location":"Bental Reservoir"
+          },
+           {
+            "location_name": "מחנה יפתח",
+            "flowers": [
+                "Trifolium glomeratum",
+                "Trifolium alexandrinum",
+                "Trifolium stellatum",
+                 "Trifolium resupinatum",
+                "Lupinus angustifolius",
+                "Cyclamen persicum",
+                  "Raphanus raphanistrum",
+                 "Dianthus strictus",
+                "Erodium cicutarium",
+                "Erodium laciniatum",
+                "Antirrhinum majus",
+                 "Helianthemum ledifolium",
+                 "Alkanna tinctoria"
+
+            ],
+             "maps_query_location":"Camp Yiftah"
+           }
+        ]
+      }
+  ]
+}
+```

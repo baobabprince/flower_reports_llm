@@ -1,0 +1,172 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/08/2009",
+      "observer": "יובל עברון",
+      "original_text": "החורשף המצוייץ עוד אחד ממבשרי הסתו מתחיל לפרוח פרחים ראשונים נראו בהר טורעאן באיזור מצפה נטופה",
+      "locations": [
+        {
+          "location_name": "הר טורעאן",
+          "flowers": ["חורשף מצויץ"],
+           "maps_query_location": "Har Tur'an"
+        },
+        {
+          "location_name": "מצפה נטופה",
+           "flowers": ["חורשף מצויץ"],
+          "maps_query_location": "Mitzpe Netofa"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2009",
+       "observer": null,
+      "original_text": "בגולן, וכביש 6, שיא הפריחה במקומות אלה יהיה בשבוע הבא",
+      "locations": [
+         {
+          "location_name": "גולן",
+          "flowers": ["חצב"],
+          "maps_query_location":"Golan Heights"
+        },
+        {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+          "maps_query_location": "Highway 6"
+        }
+      ]
+    },
+    {
+      "date": "25/08/2009",
+       "observer": null,
+      "original_text": "בשבוע הבא יהיה שיא הפריחה, ויהיה גם מסלול הטיול במקום- שליד בריכות המלח בעתלית. (בדף טיולים)",
+      "locations": [
+        {
+           "location_name": "חירבת קרתה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Khirbet Karta"
+        },
+         {
+          "location_name": "עתלית",
+          "flowers": ["חצב"],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "24/08/2009",
+      "observer": "עירית קובצ'י",
+      "original_text": "הן הגיעו עד חוף בצת ומבשמות את החוף, עירית קובצ'י דיווחה על הפריחה בחוף בצת",
+       "locations": [
+        {
+          "location_name": "חוף בצת",
+          "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Bezet Beach"
+        }
+      ]
+    },
+     {
+      "date": "23/08/2009",
+       "observer": null,
+      "original_text": "בסיור (21/08/09) ברכס מערת אורנית (מול שכונת אחוזה). נראתה פריחה של חצב, זוטה לבנה, אשבל ארץ-ישראלי וצפורן משלתשל במפנה הצפוני של הרכס.",
+      "locations": [
+        {
+          "location_name": "רכס מערת אורנית",
+           "flowers": ["חצב", "זוטה לבנה", "אשבל ארץ-ישראלי", "צפורן משלתשל"],
+           "maps_query_location": "Me'arat Orenit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2009",
+       "observer": null,
+       "original_text": "סיור מיוחד אל מעינות הגולן לגולשי אתר צמח השדה יתקיים ביום רביעי בשבוע הבא, 26-8-09 מסלול הסיור:11:00-מפגש במצפה לשלום.עין פיקתצפית משולש הגבולותעין איהתצפית תל פארסבריכת אורחה אם יוותר זמן נלך אל בריכה פחות מוכרת במרחבי מזרח הגולן...סיום משוער 17:00.עלות: מבוגר- 30 ₪ זוג- 50 ₪ ילד- 20 ₪ משפחה- 100 ₪ מינימום משתתפים להוצאת הסיור: 4 רכבים. הרשמה בטלפון 04-6678809",
+      "locations": [
+         {
+          "location_name": "מצפה לשלום",
+            "flowers": [],
+           "maps_query_location": "Mitzpe haShalom"
+        },
+         {
+          "location_name": "עין פיק",
+            "flowers": [],
+            "maps_query_location":"Ein Fik"
+        },
+        {
+            "location_name": "תצפית משולש הגבולות",
+             "flowers": [],
+            "maps_query_location":"Mishulash haGvulot Lookout"
+          },
+         {
+          "location_name": "עין איה",
+           "flowers": [],
+           "maps_query_location": "Ein Aya"
+         },
+         {
+          "location_name": "תצפית תל פארס",
+          "flowers": [],
+          "maps_query_location": "Tel Fares Lookout"
+        },
+         {
+           "location_name": "בריכת אורחה",
+           "flowers": [],
+           "maps_query_location": "Breikhat Orha"
+        },
+         {
+            "location_name": "מזרח הגולן",
+            "flowers": [],
+            "maps_query_location": "Eastern Golan Heights"
+          }
+
+      ]
+    },
+    {
+      "date": "13/08/2009",
+       "observer": null,
+      "original_text": "פורחת גם בחוף בית ינאי",
+      "locations": [
+        {
+          "location_name": "חוף בית ינאי",
+          "flowers": ["חבצלת החוף"],
+          "maps_query_location": "Beit Yanai Beach"
+        }
+      ]
+    },
+    {
+      "date": "12/08/2009",
+       "observer": null,
+      "original_text": "חבצלת החוף, חצב מצוי,שמשון סגלגל,נר הלילה החופי,ופרחים אחרונים של לבנונית ימית פורחים בגן הלאומי חוף השרון. במדרונות הכורכר פורח הקריתמון הימי",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": ["חבצלת החוף", "חצב מצוי", "שמשון סגלגל", "נר הלילה החופי", "לבנונית ימית", "קריתמון ימי"],
+          "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+        {
+      "date": "11/08/2009",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "בגבעות הכורכר בנס ציונה. זה לא קצת מוקדם, בחום הזה, מבשרי הסתיו באמצע הקיץ?",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "11/08/2009",
+      "observer": null,
+       "original_text": "היום ראיתי ביהודיה ניצן חצב ראשון!",
+      "locations": [
+        {
+          "location_name": "יהודיה",
+          "flowers": ["חצב"],
+          "maps_query_location": "Yehudia"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,207 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/02/2016",
+      "observer": null,
+      "original_text": "החל לפרוח בגבעת המורה",
+      "locations": [
+        {
+          "location_name": "גבעת המורה",
+          "flowers": [
+            "איריס נצרתי"
+          ],
+           "maps_query_location": "Givat Hamore"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2016",
+       "observer": "צ'גין אולגה",
+      "original_text": "27/02/2016 אירוס ירוחם בנחל ימין",
+      "locations": [
+        {
+          "location_name": "נחל ימין",
+          "flowers": [
+            "אירוס ירוחם"
+          ],
+           "maps_query_location": "Nahal Yamin"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2016",
+      "observer": "מתן",
+      "original_text": "ב 27.2  פריחה יפה של אירוס ירוחם בשמורת אירוס ירוחם.",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+          "flowers": [
+            "אירוס ירוחם"
+          ],
+          "maps_query_location": "Iris Yeruham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2016",
+      "observer": null,
+      "original_text": "תורמוס צהוב ותורמוס צר-עלים",
+        "locations": [
+        {
+          "location_name": "עין שריד",
+          "flowers": [
+            "תורמוס צהוב",
+             "תורמוס צר-עלים"
+          ],
+          "maps_query_location": "Ein Sharid"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2016",
+      "observer": null,
+      "original_text": "פריחת מספר פרטים של  עריוני צהוב  נצפתה ביום ו 26.2 בשולי הכביש מעין תות לצומת אליקים בצד המזרחי.",
+      "locations": [
+        {
+         "location_name": "עין תות",
+          "flowers": [
+            "עריוני צהוב"
+          ],
+          "maps_query_location": "Ein Tut"
+        },
+         {
+          "location_name": "צומת אליקים",
+          "flowers": [
+            "עריוני צהוב"
+          ],
+           "maps_query_location": "Eliyakim Junction"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2016",
+      "observer": null,
+      "original_text": "נראתה פורחת היום באיזור אנדרטת חטיבת הנגב בבאר שבע",
+      "locations": [
+        {
+          "location_name": "אנדרטת חטיבת הנגב",
+          "flowers": [
+            "לשון-פר מדברית"
+          ],
+          "maps_query_location": "Negev Brigade Memorial"
+        },
+         {
+          "location_name": "באר שבע",
+           "flowers": [
+            "לשון-פר מדברית"
+          ],
+          "maps_query_location": "Beersheba"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2016",
+      "observer": null,
+       "original_text": "סחלב 3 שיניים, סחלב פרפרני, דבורנית הקטיפה, סחלב הגליל\nודבורנית צהובה, רובן בתחילת פריחה..",
+      "locations": [
+        {
+          "location_name": "חירבת רקית",
+           "flowers": [
+            "סחלב 3 שיניים",
+            "סחלב פרפרני",
+            "דבורנית הקטיפה",
+            "סחלב הגליל",
+            "דבורנית צהובה"
+          ],
+          "maps_query_location": "Khirbet Rakit"
+        },
+        {
+            "location_name": "כרמל",
+             "flowers": [
+               "סחלב 3 שיניים",
+            "סחלב פרפרני",
+            "דבורנית הקטיפה",
+            "סחלב הגליל",
+            "דבורנית צהובה"
+           ],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2016",
+       "observer": null,
+       "original_text":"בין היתר פרחו ארביס נאה, ארביס אביבי, יקינטון מזרחי, חיננית רב-שנתית, חיננית הבתה, סחלב מצוייר, תריסנית מלולה, רומולאה סגלולית, שזיף הדב, אגס סורי, דלעת נחש סורית...",
+      "locations": [
+        {
+          "location_name": "רכס פקיעין",
+            "flowers": [
+            "ארביס נאה",
+            "ארביס אביבי",
+            "יקינטון מזרחי",
+            "חיננית רב-שנתית",
+            "חיננית הבתה",
+            "סחלב מצוייר",
+            "תריסנית מלולה",
+             "רומולאה סגלולית",
+             "שזיף הדב",
+             "אגס סורי",
+             "דלעת נחש סורית"
+           ],
+          "maps_query_location": "Peki'in Ridge"
+        }
+      ]
+    },
+      {
+        "date": "27/02/2016",
+        "observer": null,
+        "original_text": "בחורשה שמאחורי תחנת הדלק והסטקייה ביד לשריון, מרבדים ענקיים של רקפות בכל הצבעים, פריחת כלניות, חרדלים, ועוד מלא\nבסביבה עוד פורחות שקדיות- אך בסוף תקופת הפריחה.",
+        "locations": [
+          {
+            "location_name": "יד לשיריון",
+           "flowers": [
+            "רקפת",
+            "כלנית",
+            "חרדל",
+            "שקד"
+            ],
+            "maps_query_location": "Yad La-Shiryon"
+          },
+           {
+            "location_name": "לטרון",
+             "flowers": [
+            "רקפת",
+            "כלנית",
+            "חרדל",
+            "שקד"
+            ],
+             "maps_query_location": "Latrun"
+          }
+        ]
+    },
+    {
+      "date": "27/02/2016",
+       "observer": "מהרש\"ק שרי",
+       "original_text":"פריחה נהדרת במנחת מגידו כלניות ורודות סגולות וגם אדומות נפלא!!! שמורת אלונים שלל פרחים רקפות, כלניות ועוד פרחי אביב צהובים וורודים. כדאי ומומלץ.",
+      "locations": [
+        {
+           "location_name":"מנחת מגידו",
+            "flowers": [
+              "כלנית"
+            ],
+             "maps_query_location":"Megiddo Airfield"
+        },
+        {
+            "location_name": "שמורת אלונים",
+            "flowers": [
+              "רקפת",
+              "כלנית"
+            ],
+             "maps_query_location": "Alonim Reserve"
+        }
+      ]
+    }
+  ]
+}
+```

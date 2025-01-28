@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/09/2019",
+      "observer": null,
+      "original_text": "החלה בפריחה ליד ממשית",
+      "locations": [
+        {
+          "location_name": "ממשית",
+           "flowers": ["חבצלת הנגב"],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2019",
+      "observer": "רוני בראונר",
+      "original_text": "סיתוונית הקליפות",
+      "locations": [
+        {
+          "location_name": "בור חמת",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Bor Hamat"
+        }
+      ]
+    },
+      {
+      "date": "15/09/2019",
+      "observer": null,
+      "original_text": "כרמל: עוקץ עקרב ארם צובא, שום סתווי, קוצן קיפח. \nנחל המערות: ציפורן משתלשל\nמעיין צבי: לפופית החיצים, אמברוסיה צרת עלים, חנק מחודד וחבצלת החוף\nאחו בנימינה: מדד זוחל, אל-ציצית לבנה, נטופית רפואית",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["עוקץ עקרב ארם צובא", "שום סתווי", "קוצן קיפח"],
+           "maps_query_location": "Carmel"
+        },
+          {
+          "location_name": "נחל המערות",
+          "flowers": ["ציפורן משתלשל"],
+           "maps_query_location": "Nahal HaMearot"
+        },
+        {
+          "location_name": "מעיין צבי",
+           "flowers": ["לפופית החיצים", "אמברוסיה צרת עלים", "חנק מחודד", "חבצלת החוף"],
+          "maps_query_location": "Maayan Zvi"
+        },
+         {
+          "location_name": "אחו בנימינה",
+          "flowers": ["מדד זוחל", "אל-ציצית לבנה", "נטופית רפואית"],
+           "maps_query_location": "Ahu Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2019",
+        "observer": null,
+      "original_text": "נטופית רפואית באחו בנימינה 11.9.19",
+      "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": ["נטופית רפואית"],
+          "maps_query_location": "Ahu Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2019",
+        "observer": null,
+      "original_text": "ציפורן משתלשל התחיל לפרוח בכרמל, 11.9.19",
+      "locations": [
+         {
+          "location_name": "כרמל",
+          "flowers": ["ציפורן משתלשל"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "11/09/2019",
+        "observer": null,
+      "original_text": "נטופית רפואית, קישוא משולש, געדת הביצות, גומא הירקון, דוחנן קיפח, ישרוע מאוגד, ובן חילף הביצות פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["נטופית רפואית", "קישוא משולש", "געדת הביצות", "גומא הירקון", "דוחנן קיפח", "ישרוע מאוגד", "בן חילף הביצות"],
+           "maps_query_location": null
+         }
+       ]
+    },
+    {
+      "date": "11/09/2019",
+        "observer": null,
+      "original_text": "לפופית החיצים, בורהביה זוחלת, ושום סתווי פורחים בגן",
+       "locations": [
+         {
+          "location_name": "גן הנדירים",
+            "flowers": ["לפופית החיצים", "בורהביה זוחלת", "שום סתווי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "07/09/2019",
+        "observer": null,
+      "original_text": "חבצלת החוף פורחת בחוף ראשלצ",
+       "locations": [
+        {
+          "location_name": "חוף ראשלצ",
+            "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Rishon LeZion"
+        }
+      ]
+    },
+    {
+      "date": "07/09/2019",
+      "observer": "תומר ושרון קרניאלי",
+      "original_text": "07.09.2019 חצבים פורחים בגבעת התנ\"ך בירושלים.",
+       "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": ["חצב"],
+          "maps_query_location": "Givat HaTanakh"
+         },
+         {
+           "location_name": "ירושלים",
+           "flowers": ["חצב"],
+           "maps_query_location": "Jerusalem"
+          }
+       ]
+    },
+    {
+      "date": "07/09/2019",
+      "observer": null,
+      "original_text": "סתוונית הקליפות בהר הנגב",
+       "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Har HaNegev"
+        }
+      ]
+    }
+  ]
+}
+```

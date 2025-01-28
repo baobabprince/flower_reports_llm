@@ -1,0 +1,208 @@
+```json
+{
+  "reports": [
+    {
+      "date": "27/12/2014",
+      "observer": "אבנר",
+      "original_text": "שיא פריחה של נרקיס מצוי בלבד אין פריחה נוספת כלניות ציבעוניות טרם פורחות מצורפת קישורית שצולמה במקום  במספר עדשות בניקון 7000 אבנר 052 3351549 לא בשבת",
+      "locations": [
+        {
+          "location_name": "שמורת נוב",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Nov Nature Reserve"
+        },
+         {
+          "location_name": "רמת הגולן",
+            "flowers": [
+              "נרקיס מצוי"
+             ],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2014",
+      "observer": "אבנר",
+      "original_text": "שיא פריחה של יקינתון מזרחי\nישנה פריחה נוספת של דודאים וגם נץ חלב מצורפת קישורית מקורית שצולמה במקום אבנר 052 3351549",
+      "locations": [
+        {
+          "location_name": "שמורת קרני חיטין",
+          "flowers": [
+            "יקינתון מזרחי",
+            "דודא רפואי",
+            "נץ חלב"
+          ],
+           "maps_query_location": "Karei Hittin"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2014",
+       "observer": "שמעון כהן",
+      "original_text": "פריחת נרקיסים בשמורת נרקיסחי נחל מסעד",
+      "locations": [
+        {
+          "location_name": "רחובות",
+          "flowers": [
+            "נרקיס"
+          ],
+            "maps_query_location": "Rehovot"
+        },
+        {
+          "location_name": "שמורת נרקיסחי נחל מסעד",
+           "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Nahal Masad"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2014",
+      "observer": "דורית ועדיה",
+      "original_text": "ולרינה איטלקית בתחילת פריחה במצוקי נחל ספונים, על הרכס שמדרום לנחל - רומוליאה צידונית בפריחה מדהימה. במורדות המערביים של הרכס - מרבדי כרמלית נאה.",
+      "locations": [
+        {
+          "location_name": "נחל ספונים",
+          "flowers": [
+             "ולריאנה איטלקית",
+            "רומוליאה צידונית",
+             "כרמלית נאה"
+          ],
+           "maps_query_location": "Nahal Sfunim"
+        },
+         {
+          "location_name": "הכרמל",
+           "flowers": [
+             "ולריאנה איטלקית",
+             "רומוליאה צידונית",
+             "כרמלית נאה"
+            ],
+           "maps_query_location": "Carmel"
+          }
+      ]
+    },
+     {
+      "date": "26/12/2014",
+      "observer": null,
+      "original_text": "בצפון שדות יטבתה פורחים עשרות צמחי יחנוק המלחות",
+      "locations": [
+       {
+          "location_name": "יטבתה",
+          "flowers": [
+            "יחנוק המלחות"
+          ],
+          "maps_query_location": "Yotvata"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2014",
+      "observer": null,
+      "original_text": "וגם ליד מבצר אנטיפטרוס .",
+        "locations": [
+       {
+          "location_name": "נחל חצץ",
+             "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Nahal Hatzatz"
+        },
+          {
+          "location_name": "מבצר אנטיפטרוס",
+            "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Antipatris Fortress"
+        }
+       ]
+    },
+    {
+      "date": "23/12/2014",
+      "observer": null,
+      "original_text": "דודאים, יקינטון מזרחי, נץ חלב, רקפות, כרמלית נאה, ציפורן חתול",
+      "locations": [
+        {
+          "location_name": "ארבל",
+          "flowers": [
+            "דודא רפואי",
+            "יקינתון מזרחי",
+            "נץ חלב",
+              "רקפת",
+            "כרמלית נאה",
+            "ציפורן חתול"
+          ],
+          "maps_query_location":"Arbel"
+        },
+          {
+            "location_name": "קרני חיטין",
+            "flowers": [
+              "דודא רפואי",
+              "יקינתון מזרחי",
+              "נץ חלב",
+              "רקפת",
+               "כרמלית נאה",
+              "ציפורן חתול"
+            ],
+             "maps_query_location": "Karei Hittin"
+         }
+      ]
+    },
+    {
+      "date": "20/12/2014",
+       "observer": null,
+      "original_text": "עירית גדולה פורחת ליד כפר החורש",
+      "locations": [
+        {
+          "location_name": "כפר החורש",
+          "flowers": [
+            "עירית גדולה"
+          ],
+          "maps_query_location": "Kfar HaHoresh"
+        }
+      ]
+    },
+        {
+      "date": "20/12/2014",
+       "observer": null,
+      "original_text": "בהר העגול בעמיקם 16/12/14: כלניות, רקפות,, כרכום, דודאים.",
+      "locations": [
+        {
+          "location_name": "עמיקם",
+           "flowers": [
+              "כלנית",
+              "רקפת",
+              "כרכום",
+              "דודא רפואי"
+            ],
+          "maps_query_location": "Amikam"
+        },
+        {
+          "location_name": "הר העגול",
+           "flowers": [
+            "כלנית",
+            "רקפת",
+            "כרכום",
+            "דודא רפואי"
+           ],
+           "maps_query_location": "Har HaAgol"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2014",
+      "observer": "אבנר",
+       "original_text":"מסלול קל ומהנה עם מגוון פריחה מצורפת קישורית צולם במספר עדשות פריחת חורף עדין לא בשיא צפייה מהנה אבנר לא בשבת 052 3351549",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני יצחק",
+           "flowers": [],
+          "maps_query_location": "Aloney Yitzhak Nature Reserve"
+        }
+      ]
+    }
+  ]
+}
+```

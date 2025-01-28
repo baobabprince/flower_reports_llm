@@ -1,0 +1,229 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/03/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "בסמוך לכביש מספר 3953 המוביל מרמת רזיאל לכיוון אנדרטת מגילת האש - בערך כ-200 מטר מהכניסה לכביש בצד שמאל - יש מרחב ובו ציבעונים לרוב, צהרון מצוי, כלניות רקפות וכמו כן סחלבים - סלחב אנטולי וסחלב פרפרני.",
+      "locations": [
+        {
+          "location_name": "רמת רזיאל",
+          "flowers": [
+            "Tulipa agenensis",
+            "Alkanna tinctoria",
+             "Anemone coronaria",
+            "Cyclamen persicum",
+             "Ophrys levantina",
+            "Orchis papilionacea"
+           ],
+          "maps_query_location": "Ramat Raziel"
+        },
+         {
+          "location_name": "אנדרטת מגילת האש",
+          "flowers": [
+            "Tulipa agenensis",
+            "Alkanna tinctoria",
+             "Anemone coronaria",
+            "Cyclamen persicum",
+             "Ophrys levantina",
+            "Orchis papilionacea"
+           ],
+          "maps_query_location": "Megilat Ha'esh Memorial"
+        }
+       ]
+    },
+    {
+      "date": "07/03/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "ניתן להבחין בפריחה מרהיבה של רקפות. צבע הרקפות הינו בוורוד נועז וזה נצפה לאורך כל מסלול הדרך.\n\nבנוסף פריחה בולטת של אחירותם החורש.",
+       "locations": [
+        {
+          "location_name": "יער צרעה",
+           "flowers": [
+             "Cyclamen persicum",
+             "Sarothamnus scoparius"
+              ],
+          "maps_query_location": "Tzora Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "ביער הקדושים יש פריחה של צמחים רבים - רקפות, כלניות ,שקדיות וגם - ליד החניה -ניתן להבחין בפריחה של שום משולש.",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+          "flowers": [
+           "Cyclamen persicum",
+           "Anemone coronaria",
+           "Prunus dulcis",
+            "Allium triquetrum"
+           ],
+          "maps_query_location": "Kdosheem Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2023",
+      "observer": "דוד ח\"צ",
+       "original_text": "פריחה מרהיבה של כליל החורש.\n\nניתן לראות לאורך כביש 44 בסמוך לכניסה למושב צלפון ובסמוך לכניסה ליער צרעה יש פריחה שופעת של כליל החורש.",
+      "locations": [
+        {
+           "location_name": "כביש 44",
+          "flowers": [
+            "Cercis siliquastrum"
+          ],
+          "maps_query_location": "Highway 44"
+        },
+         {
+          "location_name": "צלפון",
+          "flowers": [
+            "Cercis siliquastrum"
+           ],
+          "maps_query_location": "Tzalfon"
+        },
+        {
+          "location_name": "יער צרעה",
+           "flowers": [
+            "Cercis siliquastrum"
+           ],
+           "maps_query_location": "Tzora Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2023",
+      "observer": "עמית",
+      "original_text": "מעט צבעונים, כלניות לקראת הסוף , המון רקפות, חמציצים, תורמוסים, קחוונים, חרדל , מרגנית, שום, תלתן",
+        "locations": [
+         {
+          "location_name": "יער ראש העין",
+           "flowers": [
+             "Tulipa agenensis",
+             "Anemone coronaria",
+              "Cyclamen persicum",
+              "Oxalis pes-caprae",
+              "Lupinus",
+               "Matricaria",
+             "Sinapis",
+             "Bellis sylvestris",
+             "Allium",
+             "Trifolium"
+           ],
+           "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2023",
+      "observer": "אורנה ניסן",
+      "original_text": "התחלת פריחת האירוס המצאתי בהר יונה נוף הגליל. חמישה פריטים ( אבל בפריחה יפה) , בהמשך שמורת האירוסים, בתוך מקטע שביל ישראל, לכיוון היער, מצד שמאל.",
+      "locations": [
+        {
+          "location_name": "הר יונה",
+          "flowers": [
+            "Iris haynei"
+          ],
+          "maps_query_location": "Har Yona"
+         },
+         {
+          "location_name": "שמורת האירוסים",
+           "flowers": [
+            "Iris haynei"
+           ],
+          "maps_query_location": "Iris Reserve"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2023",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "קדד קוטבי בגוון מעט סגול יותר, פורח ליד מצפה חגי.",
+      "locations": [
+        {
+           "location_name": "מצפה חגי",
+          "flowers": [
+             "Astragalus cruciatus"
+            ],
+          "maps_query_location": "Mitzpe Haggi"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2023",
+       "observer": "אלחנן נוסינסון",
+      "original_text": "אירוס ירוחם בתחילת פריחה בשמורת אירוס ירוחם, וגם בן פרג סגול. אירוס הנגב בפריחה יפהפיה בחולות שונרא , יחנוק. המלחות פורח בכביש 211 , וגם קדד קוטבי, צבעוני המדבר פורח במצפה חגי, ובצד הנגדי של הכביש פורחת ישימונית דו-גונית.",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+           "flowers": [
+              "Iris yerochamensis",
+              "Papaver umbonatum"
+            ],
+          "maps_query_location": "Yeruham Iris Reserve"
+        },
+          {
+           "location_name": "חולות שונרא",
+          "flowers": [
+            "Iris regis-uzziae",
+             "Cistanche tubulosa"
+            ],
+          "maps_query_location": "Shunra Sands"
+        },
+        {
+            "location_name": "כביש 211",
+           "flowers": [
+             "Helianthemum vesicarium"
+              ],
+             "maps_query_location": "Highway 211"
+          },
+         {
+          "location_name": "מצפה חגי",
+            "flowers": [
+               "Astragalus cruciatus",
+              "Tulipa desertorum"
+            ],
+          "maps_query_location": "Mitzpe Haggi"
+        },
+          {
+           "location_name": null,
+           "flowers": [
+                "Echiochilon arenarium"
+              ],
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "05/03/2023",
+      "observer": null,
+      "original_text": "בחום הזה לא יחזיק מעמד זמן רב, סעו ליער מלכישוע",
+       "locations": [
+        {
+          "location_name": "יער מלכישוע",
+           "flowers": [
+             "Iris haynei"
+           ],
+          "maps_query_location": "Malkishua Forest"
+        }
+      ]
+    },
+    {
+      "date": "05/03/2023",
+      "observer": null,
+      "original_text": "שטיחי תורמוסים ורקפות , בשיא עדיין לא הגיע,",
+       "locations": [
+         {
+           "location_name": "חירבת לויה",
+           "flowers": [
+            "Lupinus",
+            "Cyclamen persicum"
+             ],
+           "maps_query_location": "Khirbet Loya"
+          }
+        ]
+    }
+  ]
+}
+```

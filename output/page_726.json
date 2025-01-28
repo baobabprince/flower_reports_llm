@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/10/2010",
+      "observer": null,
+      "original_text": "מלא חצבים פורחים באשקלון ליד אולמי לשם",
+      "locations": [
+        {
+          "location_name": "אשקלון",
+          "flowers": ["חצב"],
+           "maps_query_location": "Ashkelon"
+        }
+      ]
+    },
+    {
+      "date": "07/10/2010",
+      "observer": "נעם עביצל",
+      "original_text": "דטורה אכזרית מציגה את פרחיה הקטנים יחסית  ופירותיה המדהימים. נצפתה כעשב רע בנטיעות של פרדס  בין כפר פינס לכפר גליקסון.",
+      "locations": [
+        {
+          "location_name": "כפר פינס",
+          "flowers": ["דטורה אכזרית"],
+           "maps_query_location": "Kfar Pines"
+        },
+        {
+           "location_name": "כפר גליקסון",
+           "flowers": ["דטורה אכזרית"],
+            "maps_query_location": "Kfar Glikson"
+        }
+      ]
+    },
+     {
+      "date": "07/10/2010",
+      "observer": "עביצל נעם",
+      "original_text": "אספסת תרבותית המוגדרת כצמח נדיר ביותר נצפתה (למרות התאריך המאוחר) בכפר גליקסון ליד הגדר הדרומית",
+      "locations": [
+        {
+          "location_name": "כפר גליקסון",
+          "flowers": ["אספסת תרבותית"],
+           "maps_query_location": "Kfar Glikson"
+        }
+      ]
+    },
+    {
+      "date": "05/10/2010",
+      "observer": "אורון יעקב",
+      "original_text": "מלפפון משולש צומח בהמוניו בבריכות הדגים של קיבוצי העוגן ומעברות יש פרחים ופירות (תודה לרותי רם על ההכוונה)",
+      "locations": [
+        {
+          "location_name": "העוגן",
+           "flowers": ["מלפפון משולש"],
+           "maps_query_location": "HaOgen"
+        },
+        {
+          "location_name": "מעברות",
+           "flowers": ["מלפפון משולש"],
+            "maps_query_location":"Ma'abarot"
+        }
+      ]
+    },
+     {
+      "date": "04/10/2010",
+      "observer": null,
+      "original_text": "קיבלנו דיווחים על הפריחות הללו: (מעט מעט)\nבשביל הפיסגה במירון: סיתוונית בכירה, בגולן (רכס בשנית) : חלמוניות וסיתוונית התשבץ\nחרמון סיתוונית החרמון\nובדרום באזור שדה בוקר: סיתוונית הקליפות\nעם מזג אוויר כה חם מי רוצה לצאת מבטן האדמה?\nוהחצבים עדיין מככבים בגדול",
+      "locations": [
+        {
+           "location_name": "מירון",
+           "flowers": ["סתוונית בכירה"],
+           "maps_query_location": "Meron"
+        },
+         {
+           "location_name": "רכס בשנית",
+          "flowers": ["חלמונית", "סתוונית התשבץ"],
+            "maps_query_location": "Bashanit Ridge"
+        },
+        {
+           "location_name": "חרמון",
+          "flowers": ["סתוונית החרמון"],
+            "maps_query_location":"Hermon"
+        },
+         {
+          "location_name":"שדה בוקר",
+           "flowers": ["סתוונית הקליפות"],
+            "maps_query_location": "Sde Boker"
+        }
+      ]
+    },
+    {
+      "date": "01/10/2010",
+       "observer": null,
+      "original_text": "פורחת באזור גבעת רגב ולאורך שביל ישראל באזור זה ויער בן שמן",
+      "locations": [
+        {
+          "location_name": "גבעת רגב",
+          "flowers": ["חבצלת קטנת פרחים"],
+            "maps_query_location": "Givat Regav"
+        },
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["חבצלת קטנת פרחים"],
+            "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "01/10/2010",
+       "observer": null,
+      "original_text": "בכביש המהיר תל-אביב חיפה \nבשני הצדדים ישנה פריחה נהדרת של חצבים, המראה יפה במיוחד כשברקע הים בכחול",
+       "locations": [
+         {
+          "location_name": "תל אביב",
+          "flowers": ["חצב"],
+           "maps_query_location":"Tel Aviv"
+         },
+         {
+           "location_name": "חיפה",
+           "flowers": ["חצב"],
+           "maps_query_location": "Haifa"
+         }
+       ]
+    },
+      {
+      "date": "29/09/2010",
+      "observer": "עירית",
+      "original_text": "בחרמון, מצפה שלגים, פורחות חלמוניות ראשונות ומעט כרכום נאה. עוד פורחים  בחרמון - שינן סורי, כונדרילה, מררית סמורה, נפית, חד אבקן, ציפורן ענף, ארכובית הארזים וזיפנית, דרדר חוחני. פירות אדומים לוהטים לעוזרר סיני וורד הכלב וחבושית. חג שמח!",
+      "locations": [
+         {
+          "location_name": "חרמון",
+          "flowers": ["חלמונית", "כרכום נאה", "שינן סורי", "כונדרילה", "מררית סמורה", "נפית", "חד אבקן", "ציפורן ענף", "ארכובית הארזים", "זיפנית", "דרדר חוחני"],
+            "maps_query_location": "Hermon"
+        }
+      ]
+    },
+     {
+      "date": "28/09/2010",
+      "observer": "סאקרה",
+      "original_text": "בשמורת הר חוזק שמעל אלוני הבשן החלה פריחת סתונית התשבץ, במגרש החניה העליון נצפו 2 חלמוניות.",
+      "locations": [
+         {
+          "location_name": "אלוני הבשן",
+          "flowers": ["סתוונית התשבץ", "חלמונית"],
+             "maps_query_location":"Aloney HaBashan"
+        }
+      ]
+    },
+     {
+      "date": "26/09/2010",
+      "observer": null,
+      "original_text": "פורח במערת פער- חג שמח",
+      "locations": [
+        {
+          "location_name": "מערת פער",
+          "flowers": ["חמשן זוחל"],
+           "maps_query_location": "Me'arat Pa'er"
+        }
+      ]
+    }
+  ]
+}
+```

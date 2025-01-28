@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/03/2024",
+      "observer": null,
+      "original_text": "בעליות פגשתי שני פרטים של סומקן דוקרני דרומית למבוא חמה ריכוז של של 7 גושים בגדלים שונים של אירוס הגלבוע.חלקם החלו לפרוח ובגדול שבהם היו 19 ניצנים!",
+       "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": ["סומקן דוקרני","אירוס הגלבוע"],
+          "maps_query_location": "Me'vo Hama"
+         }
+      ]
+    },
+    {
+      "date": "09/03/2024",
+      "observer": "ישראלי בני",
+      "original_text": "פריחה בשיא וצבעונים",
+      "locations": [],
+        "flowers": ["צבעוני"]
+    },
+    {
+      "date": "09/03/2024",
+      "observer": "יורם קדרון",
+        "original_text": "נוריות רקפות צבעונים, קוציץ סורי, חלבלוב סמור, גתית, כלנית, שום בר, פשתה, חרדל קחוונים, חרצית וכו׳- בעיקר- משטחי רקפות והמון נוריות במסלול פריחת הבר ביער ראש העין 9.3.24",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [ "נורית", "רקפת", "צבעוני", "קוציץ סורי", "חלבלוב סמור", "גתית", "כלנית", "שום בר", "פשתה", "חרדל", "חרצית"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2024",
+      "observer": "נעמי דגוני",
+       "original_text": "אירוס הגלבוע פורח באום זוקא ובמצוקים של ואדי אל מליח",
+      "locations": [
+        {
+          "location_name": "אום זוקא",
+           "flowers": ["אירוס הגלבוע"],
+          "maps_query_location": "Umm Zuqa"
+        },
+         {
+           "location_name": "ואדי אל מליח",
+           "flowers": ["אירוס הגלבוע"],
+          "maps_query_location": "Wadi al-Malih"
+        }
+       ]
+    },
+    {
+      "date": "08/03/2024",
+      "observer": "שרון פירסט",
+       "original_text":"אירוס נצרתי בשיא פריחתו בגבעת המורה בעפולה.נוסעים עד הסינגל גבעת המורהוחונים ליד האנטנות הגדולות האירוס בדרום מערב לאנטנות",
+      "locations": [
+       {
+          "location_name": "גבעת המורה",
+           "flowers": ["אירוס נצרתי"],
+          "maps_query_location": "Givat HaMoreh"
+        },
+        {
+          "location_name":"עפולה",
+          "flowers": ["אירוס נצרתי"],
+          "maps_query_location": "Afula"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2024",
+      "observer": null,
+       "original_text": "מרווה כחולה",
+      "locations": [
+        {
+          "location_name":"קרית מנחם",
+          "flowers": ["מרווה כחולה"],
+           "maps_query_location": "Kiryat Menahem"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2024",
+       "observer": null,
+       "original_text":"חרציות, ים של חרדל לבן, רקפות, לוענית גדולה, ציפורנית מצרית, סביונים, חלבינה מרושתת, שרידי תורמוס ההרים, מרור הגינות, ברושים, לשון -פר מצויה, חרצית עטורה, ניזמית לופתת  ועוד.ציפורי שיר, עורבנים, פרפרים",
+      "locations": [
+        {
+          "location_name":"גבעת הברושים מודיעין",
+          "flowers": ["חרצית", "חרדל לבן", "רקפת", "לוענית גדולה", "ציפורנית מצרית", "סביון", "חלבינה מרושתת", "תורמוס ההרים", "מרור הגינות", "לשון-פר מצויה", "חרצית עטורה", "ניזמית לופתת"],
+           "maps_query_location": "Givat Habroshim Modi'in"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2024",
+      "observer": null,
+       "original_text": "אירוס הנגב פורח ויש עוד ניצנים רבים לשבוע פריחה נוסף. כל זה ליד הכביש צפון-מערבה לרתמים.",
+      "locations": [
+        {
+          "location_name": "רתמים",
+          "flowers": ["אירוס הנגב"],
+          "maps_query_location": "Retamim"
+        }
+      ]
+    },
+     {
+      "date":"06/03/2024",
+       "observer": "כרמי זילכה",
+      "original_text":"6/3/24 פריחה יפה של צבעוני ההרים ליד הר יעלה. מיקום מדוייק בקישור המצורף.",
+      "locations":[
+        {
+           "location_name": "הר יעלה",
+           "flowers": ["צבעוני ההרים"],
+          "maps_query_location":"Har Ya'ala"
+        }
+      ]
+     },
+    {
+      "date": "06/03/2024",
+      "observer": "יורם קדרון",
+        "original_text": "שקדיות פורחות לנד מערות לוזית, וגם- תורמוסים בתל שוכה, ביום 2.3.24",
+      "locations": [
+        {
+          "location_name": "מערות לוזית",
+           "flowers": ["שקד"],
+          "maps_query_location": "Luzit caves"
+        },
+        {
+           "location_name": "תל שוכה",
+          "flowers": ["תורמוס"],
+          "maps_query_location": "Tel Sokha"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,195 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/10/2020",
+      "observer": "ילתא",
+      "original_text": "פריחת חלמוניות וסיתוונית התשבץ היפהפיה",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": [
+            "חלמונית",
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "20/10/2020",
+      "observer": null,
+      "original_text": "רכס בשנית בגולן שביל הירוק בחיבור לשביל הגולן, החלה פריחה של סתווניות לאורך המסלול.",
+      "locations": [
+        {
+          "location_name": "רכס בשנית",
+          "flowers": [
+            "סתוונית"
+          ],
+          "maps_query_location": "Bashanit Ridge"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": [
+            "סתוונית"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2020",
+       "observer": null,
+      "original_text": "במנזר מר אליאס/גבעת המטוס, ירושלים 14.10.20\nבודדים, תחילת פריחה...",
+       "locations": [
+        {
+          "location_name": "מנזר מר אליאס",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Mar Elias Monastery"
+        },
+         {
+          "location_name": "גבעת המטוס",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Givat Hamatos"
+        },
+        {
+          "location_name": "ירושלים",
+           "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2020",
+       "observer": null,
+      "original_text": "סיתווניות בכירות בפריחה מלאה גם חלמוניות . ראו אלבום",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+            "סתוונית",
+             "חלמונית"
+          ],
+           "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "17/10/2020",
+       "observer": null,
+      "original_text": "במיצד עטרת בצפון מאות ואולי אלפי חצבים פורחים וגם בואדיות במדבר יהודה",
+       "locations": [
+        {
+          "location_name": "מיצד עטרת",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Metzad Ateret"
+        },
+         {
+          "location_name": "מדבר יהודה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Judean Desert"
+        }
+      ]
+    },
+    {
+      "date": "16/10/2020",
+      "observer": "יענקל'ה סער",
+      "original_text": "חבצלת הנגב פורחת בכניסה לממשית. פונים דרומה מכביש 25 ואחרי 20 מטרים פונים לדרך עפר חולית. החבצלות מצד שמאל. שבת שלום.",
+      "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+          "maps_query_location": "Mamshit"
+        }
+      ]
+    },
+      {
+      "date": "14/10/2020",
+       "observer": null,
+      "original_text": "החל לפרוח את פריחתו הראשונה לפני הגשם , באתרים שונים. חפשו אותם בטווח 1000 מטר מהבית :)\nכנ\"ל כדן קטן פרחים",
+      "locations": [
+       {
+          "location_name": null,
+          "flowers": [
+            "בן חצב סיתווני",
+             "כדן קטן פרחים"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "14/10/2020",
+       "observer": null,
+      "original_text": "חבצלת קטנת פרחים, חורשף מצוייץ, טיון דביק פרפרים ועוד\nראו קישור לאלבום",
+      "locations": [
+        {
+          "location_name": "יער המגינים",
+           "flowers": [
+            "חבצלת קטנת פרחים",
+            "חורשף מצויץ",
+            "טיון דביק"
+          ],
+           "maps_query_location": "Magenim Forest"
+        }
+      ]
+    },
+       {
+      "date": "14/10/2020",
+       "observer": null,
+      "original_text": "ברכס בוקר וברכס ירוחם.\nפורחים ש גם חצבים לרוב.\nחלמונות החלו לפרוח גם בשביל הפיסגה במירון",
+      "locations": [
+        {
+          "location_name": "רכס בוקר",
+          "flowers": [
+            "חלמונית",
+             "חצב"
+          ],
+          "maps_query_location": "Boker Ridge"
+        },
+        {
+          "location_name": "רכס ירוחם",
+          "flowers": [
+             "חלמונית",
+              "חצב"
+          ],
+          "maps_query_location": "Yeruham Ridge"
+        },
+         {
+          "location_name": "הר מירון",
+          "flowers": [
+             "חלמונית"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "14/10/2020",
+       "observer": null,
+      "original_text": "בחולות ממשית ליד חוות הגמלים",
+       "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "חבצלת הנגב"
+          ],
+           "maps_query_location":"Mamshit"
+        }
+      ]
+    }
+  ]
+}
+```

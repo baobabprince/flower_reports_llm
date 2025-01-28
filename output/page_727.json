@@ -1,0 +1,215 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/09/2010",
+      "observer": null,
+      "original_text": "במסלול השחור שבין שניר לשאר ישוב פרטים בודדים באמצע פריחה",
+      "locations": [
+        {
+          "location_name": "שניר",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+           "maps_query_location": "Senir"
+        },
+        {
+          "location_name": "שאר ישוב",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+           ],
+           "maps_query_location": "She'ar Yashuv"
+        }
+      ]
+    },
+    {
+      "date": "24/09/2010",
+      "observer": "ליאורה קרת",
+      "original_text": "חבצלת קטנת-פרחים בפריחה מלאה ותחילת הבשלת פרי ביער ראש-העין. השנה נראה גידול משמעותי במספר הפרטים בעיקר בצידו המזרחי של \"שביל הפריחה\".",
+       "locations": [
+        {
+          "location_name": "יער ראש העין",
+           "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+           "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2010",
+      "observer": "נועם עביצל",
+      "original_text": "צמח נדיר ביותר נוספה לאתר.\nהצמח צולם ע\"י נועם עביצל מפרדס-חנה,  זוהה והוגדר בשמו ע\"י פרופ אבי שמידע באחו בנימינה",
+      "locations": [
+         {
+          "location_name": "פרדס חנה",
+           "flowers": [
+             "קייצנית אשכולית"
+            ],
+            "maps_query_location": "Pardes Hanna"
+        },
+        {
+           "location_name": "אחו בנימינה",
+            "flowers": [
+               "קייצנית אשכולית"
+            ],
+            "maps_query_location":"Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "20/09/2010",
+      "observer": "אורון יעקב",
+      "original_text": "חבצלות קטנות-פרחים פורחות\nבשמורת ביתן אהרון וברמת הנדיב. חג סוכות שמח :)",
+       "locations": [
+        {
+          "location_name": "שמורת ביתן אהרון",
+          "flowers": [
+             "חבצלת קטנת פרחים"
+           ],
+           "maps_query_location": "Beitan Aharon Reserve"
+        },
+        {
+           "location_name":"רמת הנדיב",
+            "flowers":[
+              "חבצלת קטנת פרחים"
+             ],
+            "maps_query_location": "Ramat Hanadiv"
+         }
+      ]
+    },
+    {
+      "date": "20/09/2010",
+      "observer": null,
+       "original_text": "בגן הבוטני בירושלים בהר הצופים בירושלים.\nהן התבלבלו???",
+       "locations": [
+        {
+          "location_name": "הגן הבוטני בירושלים",
+           "flowers": [
+              "חלמונית"
+             ],
+           "maps_query_location": "Jerusalem Botanical Garden"
+        },
+          {
+          "location_name":"הר הצופים",
+            "flowers":[
+              "חלמונית"
+            ],
+           "maps_query_location": "Mount Scopus"
+         }
+      ]
+    },
+     {
+      "date": "17/09/2010",
+       "observer": null,
+       "original_text": "בכניסה למערת פער, ממש ליד הכביש, זוהרים שני עצי עוזרר אדום בשפע פרי ארגמני, ולידם שיחי ורד הכלב בפרי כתום.\nובהזדמנות זאת: מכל ריכוזי החצב התרשמתי במיוחד מיערות צפופים ונרחבים של עמודי חצב בכביש הצפון, בין קדש לבין הפילבוקס, בואך מלכיה.\nגמר חתימה טובה",
+      "locations": [
+          {
+           "location_name": "מערת פער",
+             "flowers": [
+              "עוזרר אדום",
+              "ורד הכלב",
+               "חצב מצוי"
+              ],
+             "maps_query_location": "Paa Cave"
+          },
+          {
+           "location_name":"כביש הצפון",
+             "flowers":[
+               "חצב מצוי"
+             ],
+              "maps_query_location": "Northern Road Israel"
+          },
+          {
+           "location_name":"קדש",
+              "flowers":[
+               "חצב מצוי"
+              ],
+            "maps_query_location": "Qadesh"
+          },
+           {
+           "location_name":"הפילבוקס",
+             "flowers":[
+               "חצב מצוי"
+            ],
+            "maps_query_location": "Pillbox Israel"
+          },
+          {
+            "location_name": "מלכיה",
+            "flowers":[
+              "חצב מצוי"
+            ],
+             "maps_query_location": "Malkia"
+           }
+        ]
+    },
+    {
+      "date": "13/09/2010",
+      "observer": null,
+      "original_text": "בתל חדיד עשרות חצבים בתחילת פריחה בשולי השביל לכיוון צפון ,ליד ההתנחלות הבדווים.\nבמגדל צדק מאות עצמודי חצבים בתחילת פריחה בתל מצפון למגדל במקום בו היתה השרפה - רואים את הסברס השרופים. גם ליד המאוזוליאום של מזור פורחים חצבים ( מצפון לבנין)\nמספרים שבת ידפת פורחים ים של חצבים- אז צאו עם כל המשפחה - מזג האוויר נעים!!!",
+       "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": [
+             "חצב מצוי"
+            ],
+           "maps_query_location": "Tel Hadid"
+         },
+           {
+          "location_name": "מגדל צדק",
+           "flowers": [
+             "חצב מצוי"
+            ],
+             "maps_query_location":"Migdal Tzedek"
+          },
+         {
+           "location_name": "מזור",
+            "flowers": [
+                "חצב מצוי"
+            ],
+            "maps_query_location": "Mazor"
+          },
+          {
+           "location_name":"ידפת",
+              "flowers":[
+               "חצב מצוי"
+              ],
+             "maps_query_location": "Yodfat"
+           }
+      ]
+    },
+      {
+      "date": "12/09/2010",
+      "observer": "אילן טל",
+      "original_text": "הקיץ עדיין שולט בכיפה , אך מבשרי הגשמים מתחילים לפרוח , כמו חבצלת החוף + קטנת פרחים , חצב מצוי + גלוני , פשטה שעירה , מדד זוחל ועוד .שתהיה שנה גשומה , הרבה נביטות ופריחות . אילן טל .",
+       "locations": [
+         {
+          "location_name":"כפר יהושע",
+            "flowers": [
+             "חבצלת החוף",
+              "חבצלת קטנת פרחים",
+              "חצב מצוי",
+               "פשטה שעירה",
+               "מדד זוחל"
+             ],
+            "maps_query_location": "Kfar Yehoshua"
+          }
+       ]
+     },
+     {
+       "date": "12/09/2010",
+       "observer": null,
+      "original_text":"בתל-חדיד ליד שביל ישראל",
+       "locations":[
+         {
+          "location_name": "תל חדיד",
+            "flowers": [
+               "חצב מצוי"
+              ],
+             "maps_query_location": "Tel Hadid"
+           }
+        ]
+    }
+  ]
+}
+```

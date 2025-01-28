@@ -1,0 +1,268 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/10/2012",
+      "observer": "עדו שפירא",
+      "original_text": "בנחל קציון פריחות ראשונות של רקפות חסרות עלים.",
+      "locations": [
+        {
+          "location_name": "נחל קציון",
+          "flowers": [
+            "רקפת מצויה"
+          ],
+           "maps_query_location": "Nahal Ktsiyon"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2012",
+      "observer": "אורי שטיין",
+       "original_text": "19.10.12 בדרך לכחל רקפת סתווית. בחרמון כרכום נאה וכרכום החרמון, סתוונית החרמון,קוצן קיפח, ארכובית הארזים, מקור חסידה  רומאי\nחלמונית גדולה. במטעים בין מג'דל שמס ומסעדה טגטס קטנה, בהר חוזק חלמונית גדולה.סתוונית התשבץ מעבר לשיא, בדרך למאגר דליות עטינית ארוכה וורבנה שרועה. השתתפו עוז גולן, יעקב אורון ומיכאל בועז",
+      "locations": [
+        {
+          "location_name": "כחל",
+           "flowers": [
+            "רקפת סתווית"
+           ],
+            "maps_query_location": "Kahal"
+        },
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "כרכום נאה",
+             "כרכום החרמון",
+             "סתוונית החרמון",
+            "קוצן קיפח",
+            "ארכובית הארזים",
+            "מקור חסידה רומאי",
+             "חלמונית גדולה"
+           ],
+            "maps_query_location": "Mount Hermon"
+        },
+         {
+          "location_name": "מג'דל שמס",
+          "flowers": [
+             "טגטס קטנה"
+          ],
+           "maps_query_location": "Majdal Shams"
+        },
+         {
+          "location_name": "מסעדה",
+           "flowers": [
+            "טגטס קטנה"
+          ],
+           "maps_query_location": "Mas'ade"
+        },
+        {
+          "location_name": "הר חוזק",
+           "flowers": [
+            "חלמונית גדולה"
+           ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "מאגר דליות",
+          "flowers": [
+              "סתוונית התשבץ",
+             "עטינית ארוכה",
+             "ורבנה שרועה"
+          ],
+           "maps_query_location": "Daliyyot Reservoir"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2012",
+      "observer": "עידן גולדווסר",
+      "original_text": "במצוק הארבעים בכרמל פריחת הנרקיסים החלה ויש עוד עשרות ואולי מאות ניצנים ופרטים לפני השיא . בנוסף סתוונית היורה מתקרבת לשיאה ופורחת במאות פריטים ובן חצב סתווני פורח באלפי פריטים ברחבי החורשה ומצוקים . שווה לבוא בשבועות הקרובים !",
+      "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+          "flowers": [
+            "נרקיס מצוי",
+            "סתוונית היורה",
+             "בן-חצב סתווני"
+           ],
+            "maps_query_location": "Mitzok Ha'Arba'im"
+        },
+        {
+           "location_name": "כרמל",
+           "flowers": [
+            "נרקיס מצוי",
+            "סתוונית היורה",
+             "בן-חצב סתווני"
+           ],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "18/10/2012",
+       "observer": "שמעון דדון",
+      "original_text": "פורח כרכום דמשקאי פרטים מעטים, יפרוק תלת כנפי, כלך דו דורי.\nבוצין סיני , מוריקה מבריקה, קזוח עקום, עדעד מאובק, ציפורן סיני,  שמשון הדור, - סוף פריחה",
+      "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": [
+            "כרכום דמשקאי",
+            "יפרוק תלת כנפי",
+            "כלך דו-דורי",
+            "בוצין סיני",
+            "מוריקה מבריקה",
+            "קזוח עקום",
+            "עדעד מאובק",
+             "ציפורן סיני",
+             "שמשון הדור"
+          ],
+           "maps_query_location": "Negev Highlands"
+        }
+      ]
+    },
+    {
+      "date": "16/10/2012",
+      "observer": null,
+       "original_text": "ביער אדם למרגלות תל קצעה פריחת כרכום נאה – התחלה . בבאב אל הוא ולמרגלות הר בראון , ריכוזי סתונית התשבץ",
+      "locations": [
+        {
+          "location_name": "יער אדם",
+           "flowers": [
+            "כרכום נאה"
+           ],
+           "maps_query_location": "Ya'ar Adam"
+        },
+        {
+          "location_name": "תל קצעה",
+           "flowers": [
+            "כרכום נאה"
+           ],
+           "maps_query_location": "Tel Katza'a"
+        },
+         {
+          "location_name": "באב אל הוא",
+          "flowers": [
+            "סתוונית התשבץ"
+           ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "הר בראון",
+           "flowers": [
+             "סתוונית התשבץ"
+           ],
+           "maps_query_location": "Mount Bental"
+        }
+      ]
+    },
+    {
+     "date": "12/10/2012",
+      "observer": null,
+      "original_text": "היורה שטף את חצרנו שעל הכרמל (בגבעת נשר) הלילה ועם צאתי לחצר בבוקר הבחנתי בפריחה מקסימה של כתמה עבת שורשים. לא זכור לי עד היום פריחה מאוחרת כל כך מצמח בר זה המעטר את חצרנו דרך קבע. אכן, הפתעה סתווית.",
+       "locations": [
+        {
+          "location_name": "גבעת נשר",
+          "flowers": [
+            "כתמה עבת שורשים"
+           ],
+           "maps_query_location": "Givat Nesher"
+         },
+         {
+          "location_name": "כרמל",
+           "flowers": [
+            "כתמה עבת שורשים"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "10/10/2012",
+       "observer": null,
+      "original_text": "פורחים : סתוונית התשבץ + ירושלים , חבצלת הנגב , אזובית המדבר ,",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+          "flowers": [
+            "סתוונית התשבץ",
+            "חבצלת הנגב",
+            "אזובית המדבר"
+          ],
+           "maps_query_location": null
+        },
+          {
+           "location_name": "גן בוטני",
+          "flowers": [
+            "סתוונית התשבץ",
+            "חבצלת הנגב",
+            "אזובית המדבר"
+          ],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "כפר יהושע",
+          "flowers": [
+             "סתוונית התשבץ",
+            "חבצלת הנגב",
+             "אזובית המדבר"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+     {
+      "date": "10/10/2012",
+       "observer": null,
+      "original_text": "ביום שלישי ה - 30 לאוקטובר \nיד- במרחשוון , פרטים בקישור .",
+       "locations": []
+    },
+    {
+      "date": "09/10/2012",
+      "observer": "שמעון דדון",
+      "original_text": "בחירבת מלח ליד בית חנניה פרחו היום :אחילוף צר עלים- 2 צמחים, חצבים מאות צמחים בשיא הפריחה, עפרית אירופית, ציפורן נקוד,",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [
+            "אחילוף צר עלים",
+            "חצב מצוי",
+            "עפרית אירופית",
+             "ציפורן נקוד"
+           ],
+            "maps_query_location": null
+        },
+        {
+          "location_name": "בית חנניה",
+          "flowers": [
+             "אחילוף צר עלים",
+            "חצב מצוי",
+             "עפרית אירופית",
+            "ציפורן נקוד"
+           ],
+            "maps_query_location": "Beit Hananya"
+        }
+      ]
+    },
+    {
+       "date": "09/10/2012",
+      "observer": null,
+      "original_text": "ארכובית הארזים פורחת בגן הבוטני בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "ארכובית הארזים"
+            ],
+           "maps_query_location": "Ga'ash"
+        },
+        {
+           "location_name": "גן בוטני",
+          "flowers": [
+           "ארכובית הארזים"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

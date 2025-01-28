@@ -1,0 +1,208 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2011",
+      "observer": "עירית",
+      "original_text": "ב 19.5 2011 כילתה שרפה עזה את הצומח בעין תינה. אתמול ביקרתי שם וכצפוי בנופי מים, ההתאוששות יפה ומשיבת נפש. הנוף אחר, פתוח יותר אבל פטל, עצי תאנה וקנים מתחדשים מהשרידים המפוחמים, גושי פריחה ורודים סגלגלים של נענה משובלת וערברבה שעירה. האיריס הענף והגומא (גבוה דקיק ועדין, לא יודעת לזהות מין) לא נפגעו והמים זורמים.",
+      "locations": [
+        {
+          "location_name": "עין תינה",
+          "flowers": [
+            "Rubus",
+            "Ficus carica",
+            "Mentha longifolia",
+            "Anchusa strigosa",
+             "Iris",
+             "Cyperus"
+           ],
+           "maps_query_location": "Ein Tina"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2011",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "פרחו 10 ספט 2011:  חבצלת קטנת פרחים, חצב מצוי, פרע מסולסל, דרדר הקורים, שיטת המשוכות, עוקץ עקרב ריחני ועגול עלים, גבסנית ערבית.",
+        "locations": [
+        {
+          "location_name": "מגבעות הכורכר נס ציונה",
+          "flowers": [
+            "Pancratium parviflorum",
+            "Urginea maritima",
+            "Cyclospermum leptophyllum",
+            "Centaurea hyalolepis",
+            "Acacia saligna",
+            "Heliotropium rotundifolium",
+            "Gypsophila arabica"
+           ],
+           "maps_query_location": "Nes Ziona"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2011",
+      "observer": "עידן גולדוסר",
+      "original_text": "המוני חצבים פורחים בתל ! נראים גם מהכביש !!! הרוב בתחילת ובשיא הפריחה .",
+       "locations": [
+         {
+           "location_name": "תל חפר",
+           "flowers": ["Urginea maritima"],
+           "maps_query_location": "Tel Hefer"
+          }
+       ]
+    },
+    {
+      "date": "07/09/2011",
+      "observer": "שמעון דדון",
+      "original_text": "אתמול מצאנו סוף פריחה בהר מירון ציפורן נקוד,חרחבינה חרמשית,זלזלת מנוצה תפוצת זרעים,עוזרר אדום פירות,פטל קדוש פרחים ופירות,קוצן קיפח,קורטם מכחיל,קיצנית כרתית,ופרע קטן עלים בפריחה",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "Dianthus pallens",
+             "Echinops viscosus",
+             "Clematis cirrhosa",
+             "Crataegus aronia",
+            "Rubus sanctus",
+            "Onopordum alexandrinum",
+            "Carthamus coeruleus",
+            "Ptilostemon chamaepeuce",
+            "Cyclospermum leptophyllum"
+           ],
+           "maps_query_location": "Mount Meron"
+         }
+       ]
+    },
+    {
+      "date": "06/09/2011",
+      "observer": "נעם עביצל",
+       "original_text": "בין דרום חוף הבונים לחוף דור, ממש על קו החוף הסלעי ניתן לראות שפע של עדעד הביצות הגדל ברסס הגלים המתנפצים וגם לצפות בעדעד רותמי וקריתמון.",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+          "flowers": [
+            "Limonium narbonense",
+            "Limoniastrum monopetalum",
+            "Crithmum maritimum"
+            ],
+            "maps_query_location": "HaBonim Beach"
+        },
+         {
+           "location_name": "חוף דור",
+           "flowers": [
+             "Limonium narbonense",
+            "Limoniastrum monopetalum",
+            "Crithmum maritimum"
+            ],
+            "maps_query_location": "Dor Beach"
+        }
+      ]
+    },
+    {
+      "date": "05/09/2011",
+      "observer": null,
+      "original_text": "שום סתווי מתחיל לפרוח בגבעת ההגנה. עוד פורחים: קוצן קיפח, קיצנית כרתית, פרע קטן-עלים, חצבים מתחילים בחניון האגם וגם חרחבינה חרמשית, קיטה רותמית (סוף), רתמה קוצנית (סוף) חורשף מצוייץ, עופרית אירופית, אשבל ארץ-ישראלי",
+     "locations": [
+        {
+          "location_name": "גבעת ההגנה",
+          "flowers": [
+             "Allium autumnale",
+             "Onopordum alexandrinum",
+             "Ptilostemon chamaepeuce",
+             "Cyclospermum leptophyllum",
+            "Urginea maritima",
+             "Echinops viscosus",
+             "Retama raetam",
+            "Genista fasselata",
+             "Silybum marianum",
+              "Plumbago europaea",
+              "Salvia dominica"
+          ],
+           "maps_query_location": null
+        },
+        {
+           "location_name": "חניון האגם",
+           "flowers": [
+             "Urginea maritima"
+           ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/09/2011",
+      "observer": "שמעון דדון",
+       "original_text":"בחורבת קרתא החלה פריחת החצבים.ליד יער קדימה פורחים מאות חצבים וחבצלת קטנת פרחים.בתל חדיד החלה פריחת החצבים.בלטרון וליד הישוב נווה שלום עשרות חצבים פורחים,מול מושב תרום פריחת עשרות חצבים מול הכביש הראשי",
+      "locations": [
+        {
+          "location_name": "חורבת קרתא",
+          "flowers": ["Urginea maritima"],
+           "maps_query_location": "Hurvat Karta"
+        },
+        {
+          "location_name": "יער קדימה",
+          "flowers": ["Urginea maritima","Pancratium parviflorum"],
+          "maps_query_location": "Kadima Forest"
+        },
+         {
+           "location_name": "תל חדיד",
+           "flowers": ["Urginea maritima"],
+           "maps_query_location": "Tel Hadid"
+        },
+         {
+           "location_name": "לטרון",
+          "flowers": ["Urginea maritima"],
+           "maps_query_location": "Latrun"
+        },
+         {
+           "location_name": "נווה שלום",
+           "flowers": ["Urginea maritima"],
+            "maps_query_location": "Neve Shalom"
+         },
+         {
+           "location_name": "מושב תרום",
+            "flowers": ["Urginea maritima"],
+            "maps_query_location": "Moshav Tarum"
+         }
+      ]
+    },
+      {
+        "date": "05/09/2011",
+        "observer": "רחלי פרמן",
+       "original_text": "חצבים פורחים בשמורת ביתן אהרון",
+        "locations": [
+          {
+            "location_name": "שמורת ביתן אהרון",
+            "flowers": ["Urginea maritima"],
+            "maps_query_location": "Beitan Aharon Reserve"
+         }
+      ]
+     },
+    {
+      "date": "04/09/2011",
+      "observer": null,
+      "original_text": "פורחת בשיא בחוץ ראשון לציון על הגבעה הצבאית, רואים מהכביש משמאל לבודקה  בכניסה לחוף.",
+       "locations": [
+        {
+          "location_name": "ראשון לציון",
+          "flowers": ["Pancratium maritimum"],
+          "maps_query_location": "Rishon LeZion"
+         }
+      ]
+    },
+     {
+      "date": "04/09/2011",
+       "observer": null,
+      "original_text": "בשולי כביש 6 ליד מחלף דניאל",
+      "locations": [
+        {
+          "location_name": "מחלף דניאל",
+          "flowers": ["Urginea maritima"],
+          "maps_query_location": "Daniel Interchange"
+        }
+      ]
+    }
+  ]
+}
+```

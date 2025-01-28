@@ -1,0 +1,172 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/06/2010",
+      "observer": "עביצל נעם",
+      "original_text": "הקוץ נעצוצית סבוכה : ב\"שמורת בני ציון\" הנמצאת בלב השרון (כניסה מכביש 4 בצומת חרוצים) גדל הצמח הנמצא בסכנת הכחדה - נעצוצית. הוא פורח עתה בשיאו (כחול כחול) בעשרות פרטים... לדעתי תוך ימים ספורים יעלם. טוסו לראות !",
+      "locations": [
+        {
+          "location_name": "שמורת בני ציון",
+          "flowers": ["נעצוצית סבוכה", "נעצוצית"],
+            "maps_query_location": "Bnei Zion Nature Reserve"
+        },
+          {
+            "location_name": "השרון",
+            "flowers": ["נעצוצית סבוכה", "נעצוצית"],
+            "maps_query_location": "Sharon"
+          },
+          {
+              "location_name": "צומת חרוצים",
+              "flowers": ["נעצוצית סבוכה", "נעצוצית"],
+               "maps_query_location": "Harutzim Junction"
+          }
+      ]
+    },
+    {
+      "date": "10/06/2010",
+      "observer": "אורון יעקב",
+      "original_text": "פואנית איטלקית זלזלת מנוצה ועוד פורחים מצדי הכביש בין חניון חוממה לחניון הפסגה (ליד בי\"ס שדה הר מירון) ",
+      "locations": [
+        {
+          "location_name": "חניון חוממה",
+          "flowers": ["פואנית איטלקית", "זלזלת מנוצה"],
+           "maps_query_location": "Homat Parking Lot"
+        },
+        {
+          "location_name": "חניון הפסגה",
+          "flowers": ["פואנית איטלקית", "זלזלת מנוצה"],
+           "maps_query_location":"Summit Parking Lot"
+        },
+           {
+              "location_name": "הר מירון",
+                "flowers": ["פואנית איטלקית", "זלזלת מנוצה"],
+              "maps_query_location": "Mount Meron"
+            }
+      ]
+    },
+    {
+      "date": "10/06/2010",
+      "observer": null,
+      "original_text": "הכל אודות הלוחות המציגים את פרחי הבר של ישראל, בהוצאת חברת פלפוט : מחירים והיכן לרכוש יהיה בדף הבית באתר - עוד השבוע.",
+      "locations": [],
+        "flowers": null
+    },
+        {
+      "date": "08/06/2010",
+      "observer": null,
+       "original_text": "צלקנית החרבות, אהל הגבישים : פריחה ופירות - בדרך ממגרש החניה של האקוודוקט לאורך רכס הכורכר המוביל דרומה לכוון  'מגדל סטרטון' והעיר הצלבנית. פרגה צהובה מצפון לעיר הצלבנית, ",
+      "locations": [
+        {
+          "location_name": "מגרש החניה של האקוודוקט",
+          "flowers": ["צלקנית החרבות", "אהל הגבישים"],
+            "maps_query_location": "Aqueduct parking lot"
+        },
+          {
+            "location_name":"רכס הכורכר",
+              "flowers": ["צלקנית החרבות", "אהל הגבישים"],
+            "maps_query_location": "Kurkar ridge"
+          },
+           {
+             "location_name": "מגדל סטרטון",
+             "flowers": ["צלקנית החרבות", "אהל הגבישים"],
+              "maps_query_location": "Straton Tower"
+            },
+        {
+          "location_name": "העיר הצלבנית",
+          "flowers": ["צלקנית החרבות", "אהל הגבישים", "פרגה צהובה"],
+          "maps_query_location":"Crusader city"
+        }
+      ]
+    },
+    {
+      "date": "08/06/2010",
+      "observer": null,
+      "original_text": "נופרים פורחים , והרבה, לוביה מצרית בשלב הפריחה, מים רבים מוזרמים לבריכת הנופרים כניסה ללא תשלום",
+      "locations": [
+        {
+          "location_name": "ירקון",
+           "flowers": ["נופר", "לוביה מצרית"],
+           "maps_query_location": "Yarkon River"
+        },
+        {
+            "location_name":"אתר מקורות",
+             "flowers": ["נופר", "לוביה מצרית"],
+              "maps_query_location": "Mekorot site"
+        },
+        {
+             "location_name":"בריכת הנופרים",
+             "flowers": ["נופר", "לוביה מצרית"],
+               "maps_query_location": "Nymphaea pool"
+        }
+      ]
+    },
+    {
+      "date": "06/06/2010",
+      "observer": null,
+      "original_text": "ועדה מטעם המועצה האזורית הגליל העליון בחרה במייק לתואר \"יקיר הגליל 2010\". הטקס ייערך בעוד חודשים אחדים. בינתיים ישר כח מחבורת צמח-השדה ",
+       "locations": [
+        {
+          "location_name": "הגליל העליון",
+           "flowers": null,
+          "maps_query_location": "Upper Galilee"
+        }
+      ],
+        "flowers": null
+    },
+    {
+      "date": "06/06/2010",
+       "observer": null,
+      "original_text": "לא צלחו!!! האקרים תורכים ניסו לפרוץ גם לאתר \"צמח השדה\" - נסיונותיהם לא צלחו, ראינו נסיונות פריצה בניהול האתר כל הכבוד למתכנת שלנו - מיכאל פלוטניצקי",
+      "locations": [],
+        "flowers": null
+    },
+    {
+      "date": "04/06/2010",
+      "observer": null,
+      "original_text": "נחל מורן בנחל מורן פורחת המישויה הפעמונית. איתה פורח גם לוע ארי. באזור המפגש של נחל נריה ונחל מורן ערבז סוככני ומרבדי צתרנית משובלת, עם חגיגת דבורי בומבוס ושפע חרקים אחרים.",
+      "locations": [
+        {
+          "location_name": "נחל מורן",
+          "flowers": ["מישויה פעמונית", "לוע ארי", "ערבז סוככני", "צתרנית משובלת"],
+           "maps_query_location": "Nahal Moran"
+        },
+        {
+          "location_name": "נחל נריה",
+          "flowers": ["ערבז סוככני", "צתרנית משובלת"],
+           "maps_query_location": "Nahal Neria"
+        }
+      ]
+    },
+    {
+      "date": "03/06/2010",
+       "observer": null,
+      "original_text": "במאגרי המים בשמורה ליד יער חדרה פורחים עתה: דמסון כוכבני, כף צפרדע והרבה אזולה. לידם, עוקץ עקרב שרוע, מיני שנית, פרעושית ערבית,שחליל שרוע אפרורית וכן גומא ננסי. בבריכת דורה מצאנו גם פריחה של אולדנית, שוב גומא ננסי אך עיקר המציאה היתה של שרוכנית ושל אלטין עקום זרעים.",
+      "locations": [
+        {
+          "location_name": "יער חדרה",
+          "flowers": ["דמסון כוכבני", "כף צפרדע", "אזולה", "עוקץ עקרב שרוע", "שנית", "פרעושית ערבית", "שחליל שרוע אפרורית", "גומא ננסי", "אולדנית", "שרוכנית", "אלטין עקום זרעים"],
+          "maps_query_location": "Hadera Forest"
+        },
+           {
+            "location_name": "בריכת דורה",
+            "flowers": ["אולדנית", "גומא ננסי","שרוכנית", "אלטין עקום זרעים"],
+             "maps_query_location": "Dora Pool"
+          }
+      ]
+    },
+     {
+      "date": "30/05/2010",
+       "observer": null,
+      "original_text": "פורח במלכישוע",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+          "flowers": ["חלוק זהרי"],
+           "maps_query_location": "Malkishua"
+        }
+      ]
+    }
+  ]
+}
+```

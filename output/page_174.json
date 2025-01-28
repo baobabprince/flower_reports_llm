@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2021",
+      "observer": "שמעון אלדור",
+      "original_text": "פריחה נרחבת ויפה",
+       "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": [],
+            "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+    {
+      "date": "11/09/2021",
+      "observer": "שירה ברק",
+      "original_text": "פריחת חצבים במבצר נמרוד , צפון רמת הגולן",
+      "locations": [
+        {
+          "location_name": "מבצר נמרוד",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nimrod Fortress"
+        },
+          {
+            "location_name": "רמת הגולן",
+            "flowers": ["חצב"],
+            "maps_query_location": "Golan Heights"
+          }
+      ]
+    },
+    {
+      "date": "09/09/2021",
+      "observer": "פירסט ש",
+      "original_text": "פריחה מרהיבה של חצבים בשמורת כרמיה.",
+      "locations": [
+        {
+          "location_name": "שמורת כרמיה",
+           "flowers": ["חצב"],
+            "maps_query_location": "Carmia Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "09/09/2021",
+      "observer": "עמיר פז",
+      "original_text": "מאות חצבים פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["חצב"],
+             "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/09/2021",
+      "observer": null,
+      "original_text": "בשולי יער צרעה ותל דור",
+        "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": ["חצב"],
+            "maps_query_location": "Tzora Forest"
+        },
+         {
+          "location_name": "תל דור",
+          "flowers": ["חצב"],
+            "maps_query_location": "Tel Dor"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2021",
+      "observer": "איתי פלאות",
+      "original_text": "תל יודפת לא מצאנו פריחה בכלל",
+        "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": [],
+            "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2021",
+      "observer": "Dikla riger",
+      "original_text": "ניתן לראות את החצבים בכניסה לאגמון חפר בדרך לאגמון 2.9.21",
+        "locations": [
+         {
+          "location_name": "אגמון חפר",
+          "flowers": ["חצב"],
+             "maps_query_location": "Agmon Hefer"
+        },
+          {
+            "location_name": "אגמון פולג",
+             "flowers": ["חצב"],
+            "maps_query_location": "Agmon Poleg"
+          }
+      ]
+    },
+     {
+      "date": "01/09/2021",
+      "observer": null,
+      "original_text": "בכרמל בגבעת הרקפות...",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["שום סתווי"],
+           "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "גבעת הרקפות",
+           "flowers": ["שום סתווי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "01/09/2021",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "נענעת הכדורים וערבז משובל פורחים בפארק בריכת חורף ראש ציפור.",
+        "locations": [
+         {
+          "location_name": "פארק בריכת חורף ראש ציפור",
+          "flowers": ["נענעת הכדורים", "ערבז משובל"],
+            "maps_query_location": "Park Tzipori"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2021",
+      "observer": null,
+      "original_text": "מחצבים, חבצלת החוף, קייצנית כריתית, חורשף מצוייץ ועוד",
+       "locations": [
+        {
+          "location_name": "חוף גדור",
+          "flowers": ["חצב", "חבצלת החוף", "קייצנית כריתית", "חורשף מצוייץ"],
+            "maps_query_location": "Gador Beach"
+        }
+      ]
+    }
+  ]
+}
+```

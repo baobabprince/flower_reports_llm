@@ -1,0 +1,202 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/12/2023",
+      "observer": null,
+      "original_text": "חיננית הבתה, איריס ארצישקרלי, כלניות , רקפות, דבורנית שחומה, דודא רפואי וכליל החורש, כן כליל החורש פורח פעמיים בשנה",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+            "חיננית הבתה",
+            "איריס ארצישראלי",
+            "כלנית",
+            "רקפת",
+            "דבורנית שחומה",
+            "דודא רפואי",
+            "כליל החורש"
+          ],
+          "maps_query_location": "כרמל"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2023",
+      "observer": "ארד סימונה",
+      "original_text": "שביל  החלמוניות בהר תבור ,היום 20.12.23.עשרות פריטים נצפו",
+        "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+      {
+      "date": "17/12/2023",
+      "observer": null,
+      "original_text": ".אחילוף זעיר, חבצלת המנגב בפיזור זרעים  -בממשית, אצבוע אירופי ו טוריים זיפניים, -  בנחל-ניצנה, חמד המדבר וסתוונית הרמון -בבורות-לוץ",
+      "locations": [
+        {
+          "location_name": "ממשית",
+             "flowers": [
+            "אחילוף זעיר",
+            "חבצלת המנגב"
+          ],
+          "maps_query_location": "Mamshit"
+        },
+         {
+          "location_name": "נחל ניצנה",
+           "flowers": [
+             "אצבוע אירופי",
+            "טוריים זיפניים"
+          ],
+           "maps_query_location": "Nahal Nitzana"
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "חמד המדבר",
+            "סתוונית הרמון"
+          ],
+          "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2023",
+      "observer": "אושר נדיבי",
+      "original_text": "ליד אנדרטת אגרוף ורומח ישנה פריחת נרקיסים מטורפת. פרטים בקישור",
+      "locations": [
+        {
+          "location_name": "אנדרטת אגרוף ורומח",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "אנדרטת אגרוף ורומח"
+        }
+      ]
+    },
+     {
+      "date": "15/12/2023",
+      "observer": "סער אור",
+      "original_text": "ליד אנדרטאת אגרוף ורומח ביער קולה (ליד אלעד) מקבצים של נרקיסים במעלה הגבעה מול האנדרטה. לדעתי בשיא הםריחה",
+      "locations": [
+        {
+           "location_name": "אנדרטת אגרוף ורומח",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "אנדרטת אגרוף ורומח"
+        },
+        {
+           "location_name": "יער קולה",
+            "flowers": [
+            "נרקיס"
+          ],
+            "maps_query_location": "Kula Forest"
+        },
+         {
+           "location_name": "אלעד",
+           "flowers": [
+            "נרקיס"
+          ],
+             "maps_query_location": "Elad"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2023",
+      "observer": "גלעד",
+      "original_text": "שני עצים פורחים על יד המגדל",
+      "locations": [
+        {
+          "location_name": "יער עופר",
+           "flowers": [
+            "כליל החורש"
+          ],
+          "maps_query_location": "Ofer Forest"
+        }
+      ]
+    },
+     {
+      "date": "14/12/2023",
+      "observer": "גלעד",
+      "original_text": "נרקיסים; רקפות; חיננית הבתה; נץ חלב אזמלני",
+       "locations": [
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": [
+            "נרקיס",
+             "רקפת",
+             "חיננית הבתה",
+            "נץ חלב אזמלני"
+          ],
+            "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2023",
+      "observer": "שמואל קליין",
+      "original_text": "החלה פריחת הנרקיסים באחו נוב.. בחלק הגבוה יותר כרכום גיארדו",
+      "locations": [
+        {
+           "location_name": "אחו נוב",
+          "flowers": [
+            "נרקיס",
+            "כרכום גיארדו"
+          ],
+             "maps_query_location": "Nov Meadow"
+        }
+      ]
+    },
+     {
+      "date": "11/12/2023",
+       "observer": "ברקוביץ מרדכי",
+      "original_text": "בחניון קק\"ל מול אנדרטת הצלנג\"ר, מקבצים יפים של נרקיסים בשיא הפריחה. ברכס העליון  של נחל קטלב  בשביל היוצא מהחניון והירידה לנחל עצמו ,לאורך הרכס .פריחה יפה של כרכומים וסיתווניות",
+      "locations": [
+        {
+          "location_name": "חניון קק\"ל מול אנדרטת הצלנג\"ר",
+           "flowers": [
+            "נרקיס"
+          ],
+            "maps_query_location": "KKL Parking Lot near Tzalangar Memorial"
+        },
+           {
+          "location_name": "נחל קטלב",
+          "flowers": [
+              "כרכום",
+              "סתוונית"
+          ],
+               "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+      {
+      "date": "11/12/2023",
+      "observer": "ארד סימונה",
+      "original_text": "בחניון יופ ווסטרוויל  שליד גלעד מרבדים של עלי רקפות ותחילת פריחתם",
+        "locations": [
+        {
+          "location_name": "חניון יופ ווסטרוויל",
+          "flowers": [
+            "רקפת"
+          ],
+            "maps_query_location":"Yoav Westrovil Parking Lot"
+         },
+          {
+          "location_name": "גלעד",
+          "flowers": [
+              "רקפת"
+          ],
+              "maps_query_location": "Gilad"
+        }
+      ]
+    }
+  ]
+}
+```

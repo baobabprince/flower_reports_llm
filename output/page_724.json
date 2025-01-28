@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/10/2010",
+      "observer": null,
+      "original_text": "נרקיס סתווי פורח במסלעה ליד חדר האוכל בקיבוץ געש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Narcissus serotinus"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2010",
+       "observer": null,
+      "original_text": "פריחה של טיון דביק לאורך כביש עוקף בני עי\"ש באזור גדרה.",
+      "locations": [
+         {
+          "location_name": "בני עי\"ש",
+           "flowers": [
+            "Inula viscosa"
+          ],
+           "maps_query_location": "Bnei Ayish"
+        },
+        {
+          "location_name": "גדרה",
+          "flowers": [
+            "Inula viscosa"
+          ],
+           "maps_query_location": "Gedera"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2010",
+      "observer": "אילן טל",
+      "original_text": "פורחים : סתוונית בכירה + ירושלים + התשבץ (         60 פרחים ) , חלמונית גדולה  ( ראשונה ) , פשטה שעירה , בן    טיון בשרני ועוד , אילן טל , 0528254968",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+            "Colchicum autumnale",
+            "Gagea chlorantha",
+            "Fritillaria persica",
+            "Sternbergia clusiana",
+            "Pulicaria dysenterica",
+             "Limonium meyeri"
+          ],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "27/10/2010",
+      "observer": "אורון יעקב",
+      "original_text": "אלניה נאה בצדי הכביש המוביל לרהט בדרום",
+      "locations": [
+        {
+          "location_name": "רהט",
+          "flowers": [
+            "Echium judaeum"
+          ],
+           "maps_query_location":"Rahat"
+        }
+      ]
+    },
+    {
+      "date": "27/10/2010",
+      "observer": "אורון יעקב",
+      "original_text": "כונדרילה סמרנית פורחת בשיאה בשיחים גדולים מאחורי תחנת כיבוי אש בחדרה",
+      "locations": [
+        {
+          "location_name": "חדרה",
+          "flowers": [
+            "Chondrilla juncea"
+          ],
+           "maps_query_location":"Hadera"
+        }
+      ]
+    },
+    {
+       "date": "26/10/2010",
+       "observer": null,
+      "original_text": "חלמונית גדולה (סוף פריחה)+צהובה,סתוונית התשבץ,ואחילוף צר עלים פורחים בגן",
+      "locations": [
+        {
+           "location_name": "געש",
+          "flowers": [
+            "Sternbergia clusiana",
+             "Colchicum cupanii",
+             "Thesium linophyllon"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "26/10/2010",
+      "observer": "אורי שטיין",
+      "original_text": "למרגלות גשר כביש חיפה עדעד הביצות ואל ציצית לבנה",
+      "locations": [
+         {
+          "location_name": "נחל אלכסנדר",
+           "flowers": [
+             "Limonium meyeri",
+             "Cynanchum acutum"
+          ],
+           "maps_query_location":"Nahal Alexander"
+         }
+        ]
+     },
+     {
+      "date": "25/10/2010",
+      "observer": null,
+      "original_text": "פורחת המרבדים עצומים בשדות מצידי כביש פרדס-חנה בנימינה",
+      "locations": [
+        {
+          "location_name": "פרדס חנה",
+          "flowers": [
+            "Reichardia tingitana"
+          ],
+           "maps_query_location": "Pardes Hanna"
+        },
+        {
+          "location_name": "בנימינה",
+          "flowers": [
+             "Reichardia tingitana"
+          ],
+           "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2010",
+      "observer": "אורון יעקב",
+       "original_text": "כרכום צהבהב החל לפרוח במערת פער, בנוסף לחלמוניות הזעירות והסתוניות הבכירות.  במירון שביל הפסגה פורחות חלמוניות גדולות ,סתוניות בכירות והתחלה של כרכום נאה. ברכס בשנית חלמוניות גדולות וסיתונית התשבץ",
+      "locations": [
+        {
+          "location_name": "מערת פער",
+           "flowers": [
+            "Crocus flavus",
+            "Sternbergia clusiana",
+              "Colchicum autumnale"
+          ],
+           "maps_query_location": "Me'arat Pe'er"
+        },
+         {
+           "location_name": "מירון",
+          "flowers": [
+            "Sternbergia clusiana",
+            "Colchicum autumnale",
+             "Crocus pallasii"
+          ],
+            "maps_query_location":"Meron"
+        },
+         {
+          "location_name": "רכס בשנית",
+          "flowers": [
+              "Sternbergia clusiana",
+              "Fritillaria persica"
+           ],
+          "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2010",
+      "observer": "עירית",
+       "original_text": "בתחילת החודש טיילתי במונטנגרו. אויר סתיו קריר וצבעי שלכת, קניונים אגמים נהרות וים. לא שיא עונת הפריחה, ובכל זאת פגשתי לא מעט פרחים, וגם שיחים ועפצים מענינים ופטריות מדהימות. מוזמנים להציץ בקישור.",
+        "locations": [
+        {
+          "location_name": "מונטנגרו",
+          "flowers": [],
+            "maps_query_location": "Montenegro"
+         }
+      ]
+    }
+  ]
+}
+```

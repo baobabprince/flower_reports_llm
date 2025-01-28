@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/07/2018",
+      "observer": "עמיר פז",
+      "original_text": "בת אורז משושה פורחת בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["בת-אורז משושה"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "13/07/2018",
+       "observer": null,
+      "original_text": "בשיא פריחה בשלולית לוינסקי",
+      "locations": [
+        {
+          "location_name": "שלולית לוינסקי",
+          "flowers": ["נענת הכדורים"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "11/07/2018",
+       "observer": null,
+      "original_text": "פריחות ב קלעת-נמרוד: ארנין ההרים , כנפה חרוקה , שום קייצי .\nבנחל-ערער: קצח הציפורן, צלע-שור זקופה , אשבל הלבנון ,בוצין דק-שיבולת, דרדר חוחני  , טופח קסיוס, טריכודית סורית,\nמשק-לוי מושב שעל : בוען נאכל, כריך גומאי  גומאיים בביתו של שאולי בקרמן, בועינה-נוג'ידת : צנינה קוצנית, חלבלוב ארם-צובא.  ליד  הר-חרמונית: רפונטיקון זוחל = קרקפן זוחל , פרע מסולסל, ירבוז פלמר",
+      "locations": [
+        {
+          "location_name": "קלעת נמרוד",
+          "flowers": ["ארנין ההרים", "כנפה חרוקה", "שום קייצי"],
+          "maps_query_location": "Kalat Nimrod"
+         },
+        {
+          "location_name": "נחל ערער",
+           "flowers": ["קצח הציפורן", "צלע-שור זקופה", "אשבל הלבנון", "בוצין דק-שיבולת", "דרדר חוחני", "טופח קסיוס", "טריכודית סורית"],
+           "maps_query_location": null
+         },
+         {
+          "location_name": "משק לוי",
+          "flowers": ["בוען נאכל", "כריך גומאי"],
+           "maps_query_location": null
+         },
+         {
+           "location_name": "מושב שעל",
+          "flowers": ["בוען נאכל", "כריך גומאי"],
+           "maps_query_location": "Sha'al"
+        },
+         {
+           "location_name": "בועיינה-נוג'ידאת",
+           "flowers": ["צנינה קוצנית", "חלבלוב ארם-צובא"],
+           "maps_query_location": null
+        },
+         {
+           "location_name": "הר חרמונית",
+            "flowers": ["רפונטיקון זוחל", "פרע מסולסל", "ירבוז פלמר"],
+           "maps_query_location": "Har Hermonit"
+        }
+      ]
+    },
+    {
+      "date": "08/07/2018",
+      "observer": "עמיר פז",
+      "original_text": "מלפפון משולש פורח בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["מלפפון משולש"],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "08/07/2018",
+       "observer": null,
+      "original_text": "בועיינה-נוג'ידאת",
+       "locations": [
+        {
+          "location_name": "בועיינה-נוג'ידאת",
+          "flowers": ["קייצנית צמרנית"],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "07/07/2018",
+       "observer": null,
+      "original_text": "חצבים כבר החלו לפרוח שם \nוגם אחרים",
+       "locations": [
+        {
+           "location_name": "חירבת קרטא",
+           "flowers": ["חצב"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "07/07/2018",
+       "observer": null,
+       "original_text": "ביער שוויץ ליד פוריה פרחו בסוף יוני: חרטית עטורה ניסנית דו-קרנית ומספר שיחי בוען מצולע",
+      "locations": [
+         {
+           "location_name": "יער שוויץ",
+           "flowers": ["חרטית עטורה", "ניסנית דו-קרנית", "בוען מצולע"],
+           "maps_query_location": "Swiss Forest"
+         },
+         {
+           "location_name": "פוריה",
+            "flowers": ["חרטית עטורה", "ניסנית דו-קרנית", "בוען מצולע"],
+            "maps_query_location":"Poriya"
+         }
+      ]
+    },
+     {
+      "date": "29/06/2018",
+      "observer": "עמיר פז",
+      "original_text": "געדת הביצות, אולדנית הכף, בן חילף הביצות, בוציץ סוככני, פשתת החוף, ותלת מלען ארוך פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["געדת הביצות", "אולדנית הכף", "בן חילף הביצות", "בוציץ סוככני", "פשתת החוף", "תלת מלען ארוך"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "26/06/2018",
+       "observer": null,
+      "original_text": "ראו בקישור מסלול וגלריית פריחות",
+      "locations": [
+        {
+           "location_name": "חרמון",
+           "flowers": [],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "26/06/2018",
+       "observer": null,
+      "original_text": "שנית גדולה, לפופית החיצים,\nביצת נחל דליה-חוף הכרמל. ראו אלבום של איילה זלצמן",
+       "locations": [
+        {
+          "location_name": "נחל דליה",
+          "flowers": ["שנית גדולה", "לפופית החיצים"],
+          "maps_query_location": "Nahal Dalia"
+         },
+         {
+          "location_name": "חוף הכרמל",
+          "flowers": ["שנית גדולה", "לפופית החיצים"],
+           "maps_query_location":"Hof HaCarmel"
+        }
+       ]
+    }
+  ]
+}
+```

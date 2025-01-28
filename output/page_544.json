@@ -1,0 +1,280 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/11/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : אחילוף החורן , נרקיס סתווי . כרכום נאה + דמשקאי , סתוונית היורה + התשבץ + בכירה + ירושלים , חלמונית צהובה + גדולה , מרווה מדברית , בן חצב סתווי , חלביב יווני ועוד .",
+       "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+            "אחילוף החורן",
+            "נרקיס סתווי",
+            "כרכום נאה",
+            "כרכום דמשקאי",
+            "סתוונית היורה",
+            "סתוונית התשבץ",
+            "סתוונית בכירה",
+             "סתוונית ירושלים",
+             "חלמונית צהובה",
+            "חלמונית גדולה",
+            "מרווה מדברית",
+            "בן חצב סתווי",
+            "חלביב יווני"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2014",
+      "observer": "שרה סלפק",
+      "original_text": "עם אחיק,עין זיון,מרום גולן,מאגר מרום גולן באב אל הווא-שער הרוחות יער אודם,הר אודם,שעל,פריחה מעין זיון-סתונית התשבץ,כרכום נאה,לכיד קוצני,ארכובית שבטבטית,בן חצב סתווני,שנן עב שורש,ופירות העוזרר טעימים,,,",
+      "locations": [
+        {
+            "location_name": "אחיק",
+             "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+            "maps_query_location": "Ahik"
+         },
+        {
+          "location_name": "עין זיון",
+           "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+           "maps_query_location": "Ein Zivan"
+        },
+         {
+           "location_name": "מרום גולן",
+             "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+           "maps_query_location": "Merom Golan"
+        },
+        {
+            "location_name": "מאגר מרום גולן",
+             "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+            "maps_query_location": "Merom Golan Reservoir"
+        },
+        {
+          "location_name": "אב אל הווא-שער הרוחות",
+           "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "יער אודם",
+           "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+           "maps_query_location": "Odem Forest"
+        },
+        {
+          "location_name": "הר אודם",
+           "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+            "maps_query_location": "Har Odem"
+        },
+        {
+          "location_name": "שעל",
+           "flowers": [
+              "סתוונית התשבץ",
+              "כרכום נאה",
+              "לכיד קוצני",
+              "ארכובית שבטבטית",
+               "בן חצב סתווני",
+               "שנן עב שורש"
+            ],
+          "maps_query_location": "Sha'al"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2014",
+      "observer": null,
+      "original_text": "ציפורנית דקיקה , אסתר מרצעני \nועוקץ עקרב סגלגל",
+       "locations": [
+        {
+           "location_name": "חולות קיסריה",
+            "flowers": [
+            "ציפורנית דקיקה",
+            "אסתר מרצעני",
+            "עוקץ עקרב סגלגל"
+          ],
+           "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+     {
+      "date": "02/11/2014",
+      "observer": null,
+       "original_text": "בשביל בורגין בפארק מערות עדולם פורחות עשרות רבות של סתווניות היורה וגם לא מעט בן חצב סתווי. עלים של נרקיסים ללא פריחה והכל כבר ירוק שם.",
+       "locations": [
+        {
+          "location_name": "פארק מערות עדולם",
+           "flowers": [
+            "סתוונית היורה",
+             "בן חצב סתווי",
+             "נרקיס"
+          ],
+          "maps_query_location": "Adullam Grove Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "30/10/2014",
+      "observer": null,
+      "original_text": "גם ביער כוכב יאיר",
+       "locations": [
+        {
+          "location_name": "יער כוכב יאיר",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Kochav Yair Forest"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2014",
+      "observer": null,
+      "original_text": "במעגן מיכאל ,  בחוף מעיין צבי ובאזור.",
+        "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["נרקיס סתווי"],
+            "maps_query_location": "Ma'agan Michael"
+        },
+        {
+          "location_name": "חוף מעיין צבי",
+          "flowers": ["נרקיס סתווי"],
+           "maps_query_location": "Ma'ayan Zvi Beach"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2014",
+      "observer": null,
+       "original_text": "ביער ביריה פורחים נרקיסים , וכרמל כבר נראים ניצנים - בגשם קרוב יפרחו",
+        "locations": [
+        {
+            "location_name": "יער ביריה",
+             "flowers": ["נרקיס"],
+           "maps_query_location": "Biriya Forest"
+        },
+        {
+          "location_name": "כרמל",
+            "flowers": ["נרקיס"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "27/10/2014",
+      "observer": null,
+      "original_text": "בגני הנדיב ובכל הארץ",
+        "locations": [
+          {
+          "location_name": "גני הנדיב",
+           "flowers": ["כתלה חריפה"],
+            "maps_query_location": "Ramat Hanadiv"
+        },
+        {
+            "location_name": "כל הארץ",
+              "flowers": ["כתלה חריפה"],
+            "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "27/10/2014",
+      "observer": "אבנר",
+       "original_text": "פריחת חלמונית זעירה וגם בן חצב סתווני בעיקר בגן הרמיסדים בגבעת עדה צילום אבנר קישור מצורף",
+        "locations": [
+        {
+          "location_name": "גבעת עדה",
+          "flowers": [
+            "חלמונית זעירה",
+            "בן חצב סתווני"
+          ],
+          "maps_query_location": "Givat Ada"
+        },
+         {
+            "location_name": "אלוני יצחק",
+               "flowers": [
+                "חלמונית זעירה",
+                "בן חצב סתווני"
+            ],
+           "maps_query_location":"Alonei Itzhak"
+        }
+      ]
+    },
+      {
+      "date": "27/10/2014",
+      "observer": null,
+      "original_text": "שמורת רמת בוקר, בין צומת חלוקים לצומת טללים על כביש 40 בדרך לשדה-בוקר' פריחת החלמוניות ממש בשיאה",
+      "locations": [
+        {
+          "location_name": "שמורת רמת בוקר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Ramat Boker"
+        },
+         {
+          "location_name": "צומת חלוקים",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Halukim Junction"
+        },
+         {
+          "location_name": "צומת טללים",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Telalim Junction"
+        },
+         {
+           "location_name": "שדה בוקר",
+              "flowers": ["חלמונית"],
+           "maps_query_location": "Sde Boker"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,228 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/04/2022",
+      "observer": "גל מגלי",
+      "original_text": "אירוס הדור פורח בכמון\nסחלב איטלקי פורח בהר אדיר + דרך לקבר אסתר ומרדכי + דרך נוף נפתלי\nבגולן פריחת הדובדבן כבר עם עלים\nבקבר שייח מרזוק הפריחה בשיאה - אירוס הגולן\nבשלולית החורף ליד הר שיפון - פריחה מדהימה של נורית המים",
+      "locations": [
+        {
+          "location_name": "כמון",
+          "flowers": ["אירוס הדור"],
+          "maps_query_location": "Kamon"
+        },
+        {
+          "location_name": "הר אדיר",
+           "flowers": ["סחלב איטלקי"],
+          "maps_query_location": "Har Adir"
+        },
+        {
+         "location_name": "קבר אסתר ומרדכי",
+          "flowers": ["סחלב איטלקי"],
+          "maps_query_location": "Tomb of Esther and Mordechai"
+        },
+         {
+          "location_name": "דרך נוף נפתלי",
+          "flowers": ["סחלב איטלקי"],
+          "maps_query_location": "Nof Naftali scenic route"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": ["דובדבן"],
+          "maps_query_location": "Golan Heights"
+        },
+         {
+          "location_name": "קבר שייח מרזוק",
+           "flowers": ["אירוס הגולן"],
+          "maps_query_location": "Sheikh Marzuk Tomb"
+        },
+        {
+          "location_name": "הר שיפון",
+          "flowers": ["נורית המים"],
+          "maps_query_location": "Har Shifon"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2022",
+      "observer": "גל מגלי",
+      "original_text": "אליקים ליד תחנת סונול - מרבדי פרגים\nישעי לרגלי אזור תעשעה ברוש - מרבדי פרגים\nמגילות האש - בן סחלב צריפי",
+      "locations": [
+        {
+          "location_name": "אליקים",
+           "flowers": ["פרג"],
+          "maps_query_location": "Elyakim"
+        },
+        {
+          "location_name": "ישעי",
+           "flowers": ["פרג"],
+          "maps_query_location": "Yesha'ay"
+        },
+        {
+          "location_name": "אזור תעשייה ברוש",
+          "flowers": ["פרג"],
+           "maps_query_location": "Barosh Industrial Zone"
+        },
+           {
+          "location_name": "מגילות האש",
+          "flowers": ["בן סחלב צריפי"],
+          "maps_query_location": "Megilot HaEsh"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2022",
+      "observer": "גל מגלי",
+      "original_text": "חורשת הארבעים ודרך נוף כרמל - פריחת דבורנית נאה במופעים לבן וורוד",
+      "locations": [
+        {
+          "location_name": "חורשת הארבעים",
+          "flowers": ["דבורנית נאה"],
+          "maps_query_location": "Horeshat HaArba'im"
+        },
+        {
+          "location_name": "דרך נוף כרמל",
+          "flowers": ["דבורנית נאה"],
+           "maps_query_location": "Carmel scenic route"
+        }
+      ]
+    },
+    {
+      "date": "11/04/2022",
+      "observer": "שלומי ריזמן",
+       "original_text": "בהר הילל, בשביל השחור היורד צפונה מהאוכף,  הרבה צמחי אדמונית. אבל מצאנו רק אחד עם ניצן. עדיין סגור.",
+       "locations": [
+        {
+          "location_name": "הר הילל",
+          "flowers": ["אדמונית"],
+          "maps_query_location": "Har Hilel"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2022",
+      "observer": "אבי רימון",
+      "original_text": "בין חניון דליות להר יונתן\nזקן תיש, נוריות, פרגים ועוד.",
+       "locations": [
+        {
+          "location_name": "חניון דליות",
+           "flowers": ["זקן תיש","נורית", "פרג"],
+          "maps_query_location": "Daliyyot parking lot"
+        },
+         {
+          "location_name": "הר יונתן",
+           "flowers": ["זקן תיש","נורית", "פרג"],
+          "maps_query_location": "Har Yonatan"
+        }
+      ]
+    },
+    {
+      "date": "10/04/2022",
+      "observer": "נעמי דגוני",
+      "original_text": "כמות גדולה של בן חצב יקינטוני במורדות נחל שילה\nבן חצב יקינטוני בכמות גדולה במורדות נחל שילה כולל לבקנים",
+      "locations": [
+        {
+          "location_name": "נחל שילה",
+          "flowers": ["בן חצב יקינטוני"],
+           "maps_query_location": "Nahal Shilo"
+        }
+      ]
+    },
+    {
+      "date": "09/04/2022",
+       "observer": "אודי תמר",
+      "original_text": "פריחה ספורדית באיזור הפילבוקס בכביש 505",
+       "locations": [
+        {
+          "location_name": "כביש 505",
+          "flowers": ["אירוס השומרון"],
+          "maps_query_location": "Highway 505"
+        }
+      ]
+    },
+    {
+      "date": "09/04/2022",
+      "observer": "אודי תמר",
+      "original_text": "פריחה משמעותית במקבץ שמעל כביש 505, סמוך לצומת עם כביש 458 בכרם הזיתים של הכפר מג'דל",
+       "locations": [
+        {
+           "location_name": "כביש 505",
+          "flowers": ["אירוס השומרון"],
+           "maps_query_location": "Highway 505"
+         },
+         {
+          "location_name": "כביש 458",
+          "flowers": ["אירוס השומרון"],
+          "maps_query_location": "Highway 458"
+        },
+         {
+          "location_name": "מג'דל",
+           "flowers": ["אירוס השומרון"],
+          "maps_query_location": "Majdal"
+        }
+      ]
+    },
+    {
+      "date": "08/04/2022",
+      "observer": null,
+      "original_text": "בעין גיהר - זרים מרשימים יפהפיים",
+      "locations": [
+        {
+           "location_name": "עין גיהר",
+          "flowers": ["איריס שומרוני"],
+          "maps_query_location": "Ein Gihar"
+        }
+      ]
+    },
+    {
+       "date": "08/04/2022",
+      "observer": null,
+      "original_text": "שימשונית הטיפין, לוטם מרווני ושעיר, שני לטמיות דביקה וערבית, תלתן פלישטי משטחים, תלתן א\"י, משטחים, קחוון פלישתי, מרווה דגולה, אירי סהארגמן ( אחד ויחיד) , פרג אגסני ונחות, מק\"ח גדול , סחלב קדוש בהמוניו ניצנים, הורמוצקיה, זנב ארנבת, פרסיון גדול, מתנןם שעיר, אלמוות הכסף, דרדר הקורים, פיחשתנית יפו בהמוניה, שברק מצוי, תורמוס א\"י בשירת הברבור, אזוביון דגול, לפופית כפנית, פשתה מצויה, מצילות החוף רבות, מררית החוף, דבורנית דינסמור בודדות, שום ארדך בפירות, הרדופנין הציצית, פרסה רבת-תרמילים, דרדית מצויה, ברומיתה גגות בהמוניה, חומעת ראש הסוס בהמוניה, שמשון סגלגל, דגניים רבים ",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+           "flowers": [
+            "שימשונית הטיפין",
+            "לוטם מרווני",
+             "לוטם שעיר",
+            "לטמית דביקה",
+            "לטמית ערבית",
+            "תלתן פלישתי",
+             "תלתן ארץ ישראלי",
+            "קחוון פלישתי",
+             "מרווה דגולה",
+            "איריס ארגמן",
+             "פרג אגסני",
+            "מקח גדול",
+            "סחלב קדוש",
+             "הורמוצקיה",
+            "זנב ארנבת",
+            "פרסיון גדול",
+            "מתנן שעיר",
+             "אלמוות הכסף",
+            "דרדר הקורים",
+             "פיחשתנית יפו",
+            "שברק מצוי",
+            "תורמוס ארץ ישראלי",
+             "אזוביון דגול",
+             "לפופית כפנית",
+            "פשתה מצויה",
+            "מצילות החוף",
+             "מררית החוף",
+            "דבורנית דינסמור",
+            "שום ארדך",
+            "הרדופנין הציצית",
+            "פרסה רבת-תרמילים",
+            "דרדית מצויה",
+            "ברומית הגגות",
+             "חומעת ראש הסוס",
+            "שמשון סגלגל",
+            "דגניים"
+          ],
+          "maps_query_location": "Ness Ziona"
+        }
+      ]
+    }
+  ]
+}
+```

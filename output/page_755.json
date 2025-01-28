@@ -1,0 +1,226 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/01/2010",
+      "observer": null,
+      "original_text": "באזור נחל בוקר ועבדת יש פריחה בערוצי הנחלים וגם על הגבעות. בנחל בוקר פורחים הצמחים הבאים: מחרוזת משונצת, פשתנית ססגונית, פשתנית זעירה, בן שלח, מנתור, מתנן שעיר, צפורן חתול, סביון הערבות, בבונג, מקור חסידה, קחון, . באזור עבדת פורח זוגן השיח, ערטל מדברי, שמשון, נוניאה, רכפה.",
+      "locations": [
+        {
+          "location_name": "נחל בוקר",
+          "flowers": [
+            "Argyrolobium uniflorum",
+            "Linaria haelava",
+            "Linaria micrantha",
+             "Teucrium polium",
+            "Anabasis articulata",
+            "Matthiola aspera",
+             "Calendula arvensis",
+            "Senecio glaucus",
+            "Matricaria aurea",
+            "Erodium cicutarium",
+            "Cachrys libanotica"
+           ],
+          "maps_query_location": "Nahal Boker"
+        },
+        {
+          "location_name": "עבדת",
+          "flowers": [
+           "Zygophyllum dumosum",
+            "Gymnarrhena micrantha",
+             "Stipa capensis",
+            "Nonea pallens",
+            "Reseda arabica"
+          ],
+          "maps_query_location": "Avdat"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2010",
+      "observer": null,
+      "original_text": "לא נשכח את פרוייקט 60 הצמחים שצריך להכיר",
+      "locations": [],
+       "flowers": []
+    },
+        {
+      "date": "03/01/2010",
+      "observer": null,
+       "original_text": "הפנינג צלמים יתקיים ביום יום ו' 29.1.10 בשמורת נאות קדומים\nהחל משעה 08:30 ואילך\nהאירוע יסתיים בשעה 11:30\n\nצלמי אתר האינטרנט \"צמח השדה\"  wildflowers.co.il ילוו את האירוע ויתנו טיפים לצילום במוקדים שונים בשמורה.\nהתמונות המרגשות שיבחרו יוצגו בתערוכה בנאות קדומים, בלוח השנה של שנת תשע\"א ובאתרי האינטרנט צמח השדה ונאות קדומים.\n\nבמקום תוגש שתיה חמה, (יתכן שיהיו גם ספונסרים, ואז תתקים תחרות נושאת פרסים - נושא זה טרם סגור)\n\nהכניסה לשמורה תמורת 25 שקלים בלבד.\n\nבמקרה של מזג אויר גשום – האירוע יידחה בשבוע.\nפרטים נוספים בהקדם\n\nשריינו את התאריך",
+       "locations": [
+        {
+          "location_name": "נאות קדומים",
+            "flowers": [],
+          "maps_query_location": "Neot Kedumim"
+        }
+        ],
+      "flowers": []
+    },
+    {
+      "date": "03/01/2010",
+      "observer": "עירית",
+      "original_text": "עדכון טרי מהבוקר- יקינתון פורח על הצלע הצפונית של הואדי בין עין  כדן לעין פינה! עוד פורחים הדודאים והרקפות.",
+      "locations": [
+        {
+          "location_name": "עין כדן",
+          "flowers": ["Hyacinthus orientalis","Mandragora autumnalis", "Cyclamen persicum"],
+           "maps_query_location": "Ein Kadan"
+        },
+          {
+          "location_name": "עין פינה",
+          "flowers": ["Hyacinthus orientalis", "Mandragora autumnalis", "Cyclamen persicum"],
+           "maps_query_location": "Ein Pina"
+        }
+      ],
+       "flowers": ["Hyacinthus orientalis","Mandragora autumnalis", "Cyclamen persicum"]
+    },
+    {
+      "date": "03/01/2010",
+      "observer": "עירית",
+      "original_text": "גביעונית הלבנון יפיפיה ואצילית, התחילה לפרוח בואדי. בשקדיות רואים פה ושם פרחים ראשונים. כדן סגול וזהבית השלוחות על הסלעים שמדרום לעין פינה. ושלוות עצי הזית ופרות במרעה ומים זורמים. מעל הואדי הרבה עיריות, נץ החלב ומעט כלניות אדומות.",
+      "locations": [
+        {
+          "location_name": "עין פינה",
+           "flowers": ["Gagea libanotica", "Prunus dulcis", "Globularia arabica", "Anemone coronaria", "Ornithogalum narbonense", "Anemone coronaria"],
+          "maps_query_location": "Ein Pina"
+        }
+      ],
+      "flowers": ["Gagea libanotica", "Prunus dulcis", "Globularia arabica", "Anemone coronaria", "Ornithogalum narbonense", "Anemone coronaria"]
+    },
+    {
+      "date": "02/01/2010",
+      "observer": "דרור מלמד",
+      "original_text": "ביער חדרה, סמוך לתחנת רכבת חדרה-מערב, באזור בריכת סמר, עשרות פרטים של אירוס א\"י בשיא פריחה, רבים מהם בשטח המוצף.\nבעמק מהר\"ל, בפאתיו הצפוניים של מושב כרם מהר\"ל בכרמל - מאות כלניות צבעוניות בלבן, ורוד, קרם וכחול ורק מיעוטן באדום. מרהיב.",
+       "locations": [
+        {
+          "location_name": "יער חדרה",
+          "flowers": ["Iris palaestina"],
+          "maps_query_location": "Hadera Forest"
+        },
+          {
+           "location_name": "בריכת סמר",
+          "flowers": ["Iris palaestina"],
+          "maps_query_location": "Berekhat Samar"
+          },
+        {
+          "location_name": "עמק מהר\"ל",
+           "flowers": ["Anemone coronaria"],
+          "maps_query_location": "Emek Maharal"
+        },
+           {
+          "location_name": "כרם מהר\"ל",
+           "flowers": ["Anemone coronaria"],
+          "maps_query_location": "Kerem Maharal"
+        }
+      ],
+      "flowers": ["Iris palaestina", "Anemone coronaria"]
+    },
+    {
+      "date": "02/01/2010",
+      "observer": "עדו שפירא",
+      "original_text": "אירוס הסרגל (ואולי זה אירוס הלבנון) פורח בחורש ליד הגדר של קיבוץ ברעם.",
+      "locations": [
+         {
+          "location_name": "חורש יחיעם",
+          "flowers": ["Iris regis-uzziae", "Iris libanotica"],
+          "maps_query_location": "Hursh Yechiam"
+        },
+        {
+          "location_name": "ברעם",
+           "flowers": ["Iris regis-uzziae", "Iris libanotica"],
+          "maps_query_location": "Bar'am"
+        }
+      ],
+       "flowers": ["Iris regis-uzziae", "Iris libanotica"]
+    },
+    {
+      "date": "31/12/2009",
+      "observer": null,
+       "original_text": "נוסף לאתר",
+      "locations": [],
+       "flowers": []
+    },
+    {
+      "date": "30/12/2009",
+      "observer": "גרטמן יואב  מיגור",
+      "original_text": "נכון ליום 29.12.09 \nשיא פריחת הנרקיסים   באתר של נחל חצץ. מדהים וכדאי לבקר.פורחים עוד: טוריים זיפניים,מצלתיים מצוים, מוריקה  מבריקה,שמשון הדור, שמשון המדבר,זמזומית המדבר, זוגן השיח,מקור חסידה מדברי,אשבל מצרי,אזובית המדבר, מחרוזת משונצת,צפרני חתול מצויים , סביון הערבות  ,ערטל מדברי וזה לא הכל.זהבית דמשקאית וזהבית השלוחות\nחולות משאבים באותו יום\nזהבית  שרונית  זן מדברי,עדין אחילוף זעיר,פשתנית ססגונית,דמומית משוננת אטד ערבי  והשטח ירוק לגמרי+ מנתור  המדבר ועוד.",
+       "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": [
+            "Narcissus tazetta",
+             "Echinops polyceras",
+            "Tordylium aegyptiacum",
+            "Morettia philaeana",
+            "Stipa capensis",
+            "Stipa tortilis",
+            "Eremostachys laciniata",
+             "Zygophyllum dumosum",
+             "Erodium glaucophyllum",
+            "Salvia aegyptiaca",
+            "Thymbra deserti",
+             "Argyrolobium uniflorum",
+             "Calendula arvensis",
+             "Senecio glaucus",
+            "Gymnarrhena micrantha",
+            "Globularia davisiana",
+            "Globularia arabica"
+          ],
+          "maps_query_location": "Nahal Hatzatz"
+        },
+        {
+          "location_name": "חולות משאבים",
+           "flowers": [
+            "Globularia arabica",
+            "Globularia callianthema",
+            "Aizoon canariense",
+           "Linaria haelava",
+            "Papaver rhoeas",
+            "Lycium arabicum",
+           "Anabasis articulata"
+           ],
+          "maps_query_location": "Mashaabei Sade Dunes"
+        }
+      ],
+     "flowers": [
+            "Narcissus tazetta",
+             "Echinops polyceras",
+            "Tordylium aegyptiacum",
+            "Morettia philaeana",
+            "Stipa capensis",
+            "Stipa tortilis",
+            "Eremostachys laciniata",
+             "Zygophyllum dumosum",
+             "Erodium glaucophyllum",
+            "Salvia aegyptiaca",
+            "Thymbra deserti",
+             "Argyrolobium uniflorum",
+             "Calendula arvensis",
+             "Senecio glaucus",
+            "Gymnarrhena micrantha",
+            "Globularia davisiana",
+            "Globularia arabica",
+              "Globularia callianthema",
+            "Aizoon canariense",
+           "Linaria haelava",
+            "Papaver rhoeas",
+            "Lycium arabicum",
+           "Anabasis articulata"
+           ]
+    },
+    {
+      "date": "29/12/2009",
+      "observer": "חדוה קליין",
+      "original_text": "ביום א' 27.12 בקרתי במנחת מגידו. פריחת הכלניות החלה. אפשר יהיה להתרשם בעוד כשבוע וחצי מכמות מרשימה. עדיין לא השיא",
+        "locations": [
+         {
+          "location_name": "מנחת מגידו",
+          "flowers": ["Anemone coronaria"],
+          "maps_query_location": "Megiddo Airfield"
+        }
+      ],
+       "flowers": ["Anemone coronaria"]
+    }
+  ]
+}
+```

@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/01/2017",
+      "observer": null,
+      "original_text": "כלניות אדומות וסגולות, עירית גדולה, דודא רפואי",
+      "locations": [
+        {
+          "location_name": "קיבוץ דליה",
+          "flowers": ["כלנית אדומה", "כלנית סגולה", "עירית גדולה", "דודא רפואי"],
+           "maps_query_location": "Daliyya"
+        },
+         {
+          "location_name": "נחל רון",
+          "flowers": ["כלנית אדומה", "כלנית סגולה", "עירית גדולה", "דודא רפואי"],
+           "maps_query_location": "Nahal Ron"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2017",
+       "observer": null,
+      "original_text": "אטד רב--פרחים ,  אוכם ארצישראלי",
+      "locations": [
+        {
+          "location_name": "מלחת נערן",
+          "flowers": ["אטד רב-פרחים", "אוכם ארצישראלי"],
+           "maps_query_location": "Malhat Na'aran"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2017",
+       "observer": null,
+      "original_text": "יקינתונית מעורקת  פורחת  בעליה לסרטבה",
+      "locations": [
+        {
+          "location_name": "סרטבה",
+          "flowers": ["יקינתונית מעורקת"],
+          "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2017",
+       "observer": "רון ב.",
+      "original_text": "בקלומטר הראשון של נחל אשלון כמות ריכוזי ענק של נרקיסים, נכון ל 2/1",
+      "locations": [
+        {
+          "location_name": "נחל אשלון",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Ashalon"
+        }
+      ]
+    },
+     {
+      "date": "28/01/2017",
+       "observer": "רון ב.",
+      "original_text": "בקלומטר הראשון של נחל אשלון כמות ריכוזי ענק של נרקיסים, נכון ל 2/1",
+      "locations": [
+        {
+          "location_name": "נחל אשלון",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Nahal Ashalon"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2017",
+      "observer": "דוד רוזנשטיין",
+      "original_text": "פורחות כלניות , רקפות, עיריות, לוף, ארוס, ציפורני חתול ועוד...",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["כלנית", "רקפת", "עירית", "לוף", "ארוס", "ציפורני חתול"],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/01/2017",
+       "observer": "אורי שטיין",
+      "original_text": "סרטבה יקונטונית מעורקת בשיא, זהביות אשונה ודמשקאית\nמטע התמרים מול נירן ילקוטון שרוע, קרדמין שעיר,בירוניקות מבריקה והמים, בבונג זהוב\nבמלחה אטד רב פרחים וילקוטון שרוע\nבהתחלת העליה לרס אום חרובה התחלת פריחה של חלביב רותמי, זמזומית אייג, מרבדים של בצלציה ארצישראלית, דנדנה רפואית",
+      "locations": [
+          {
+            "location_name": "בקעת הירדן",
+             "flowers": ["יקינתונית מעורקת", "זהבית אשונה", "דמשקאית"],
+             "maps_query_location": "Jordan Valley"
+        },
+        {
+          "location_name": "סרטבה",
+           "flowers": ["יקינתונית מעורקת", "זהבית אשונה", "דמשקאית"],
+            "maps_query_location": "Sartaba"
+        },
+         {
+          "location_name": "מטע התמרים מול נירן",
+          "flowers": ["ילקוטון שרוע", "קרדמין שעיר", "בירוניקות מבריקה", "בבונג זהוב"],
+           "maps_query_location": null
+        },
+          {
+           "location_name":"מלחה",
+            "flowers": ["אטד רב פרחים", "ילקוטון שרוע"],
+             "maps_query_location": null
+        },
+         {
+          "location_name": "רס אום חרובה",
+           "flowers": ["חלביב רותמי", "זמזומית אייג", "בצלציה ארצישראלית", "דנדנה רפואית"],
+           "maps_query_location": "Ras Umm Kharuba"
+         }
+      ]
+    },
+      {
+      "date": "28/01/2017",
+       "observer": null,
+       "original_text": "דוחנן קיפח ודו פרית מכורבלת פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": ["דוחנן קיפח", "דו-פרית מכורבלת"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "27/01/2017",
+       "observer": "אראלה הרי",
+      "original_text": "צילמה וראתה אראלה הרי",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": ["איריס הלבנון"],
+           "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+    {
+      "date": "27/01/2017",
+       "observer": null,
+      "original_text": "רכפה מגובששת, שיכרון מדברי, ולוטוס מדברי בנחלי צופר-עשוש",
+      "locations": [
+        {
+          "location_name": "ערבה",
+           "flowers": ["רכפה מגובששת", "שיכרון מדברי", "לוטוס מדברי"],
+           "maps_query_location": "Arava"
+        },
+         {
+          "location_name": "נחלי צופר",
+           "flowers": ["רכפה מגובששת", "שיכרון מדברי", "לוטוס מדברי"],
+            "maps_query_location":"Nahal Tsofar"
+         },
+         {
+          "location_name": "נחלי עשוש",
+           "flowers": ["רכפה מגובששת", "שיכרון מדברי", "לוטוס מדברי"],
+            "maps_query_location":"Nahal Ashosh"
+         }
+      ]
+    }
+  ]
+}
+```

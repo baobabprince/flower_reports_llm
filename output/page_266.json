@@ -1,0 +1,291 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/02/2020",
+      "observer": "עידו מגן",
+      "original_text": "במערות אפקה ברמת אביב פורחים כלניות ואירוסים ארצישראליים; קצת צפונה, בשדה שמעבר לנחל עדיין פורחים נרקיסים. בתל גריסה ברמת גן (גבעת נפוליאון) פורחות כעשר שקדיות; בגבעת חומרה הרבה אירוסי ארגמן אבל השיא עוד לפנינו",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+          "flowers": [
+            "כלנית",
+            "אירוס ארצישראלי"
+           ],
+            "maps_query_location": "Aphek Caves"
+        },
+        {
+          "location_name": "רמת אביב",
+          "flowers": [
+            "כלנית",
+            "אירוס ארצישראלי"
+          ],
+          "maps_query_location": "Ramat Aviv"
+        },
+         {
+          "location_name": "שדה שמעבר לנחל",
+           "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "תל גריסה",
+          "flowers": [
+            "שקד"
+          ],
+            "maps_query_location": "Tel Gerisa"
+        },
+        {
+          "location_name": "רמת גן",
+           "flowers": [
+            "שקד"
+           ],
+          "maps_query_location": "Ramat Gan"
+        },
+         {
+          "location_name": "גבעת חומרה",
+            "flowers": [
+              "אירוס ארגמן"
+            ],
+            "maps_query_location":"Givat Humra"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2020",
+      "observer": "מנדי ונדר",
+      "original_text": "המון רקפות ביער צלפון. היער נמצא בכניסה לישוב",
+       "locations": [
+        {
+          "location_name": "יער צלפון",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Tzafon Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/02/2020",
+      "observer": null,
+      "original_text": "נקודות חן בגליל ובגולן עם מטיילי יום ד', 5.2.2020",
+       "locations": [
+        {
+           "location_name": "גליל",
+          "flowers": [
+            "דודא",
+            "יקינתון",
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+           "maps_query_location": "Galilee"
+        },
+        {
+           "location_name": "גולן",
+            "flowers": [
+            "דודא",
+            "יקינתון",
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+        {
+      "date": "07/02/2020",
+       "observer": null,
+      "original_text": "נקודות חן בגליל ובגולן עם מטיילי יום ד', 5.2.2020",
+       "locations": [
+        {
+           "location_name": "גליל",
+          "flowers": [
+           "דודא",
+            "יקינתון",
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+           "maps_query_location": "Galilee"
+        },
+        {
+           "location_name": "גולן",
+            "flowers": [
+            "דודא",
+            "יקינתון",
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2020",
+      "observer": "בית הספר ניצני הנגב בית קמה",
+      "original_text": "נרקיס מצוי בבית קמה , כיסא חותנת , ציפור גן עדן , חרדל , חרצית .",
+       "locations": [
+         {
+          "location_name": "בית קמה",
+          "flowers": [
+            "נרקיס מצוי",
+              "כיסא חותנת",
+              "ציפור גן עדן",
+            "חרדל",
+            "חרצית"
+          ],
+            "maps_query_location":"Beit Kama"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2020",
+      "observer": "עמיר פז",
+      "original_text": "פורחים בגן-כלנית ורקפת מצויות, זהבית שרונית, דוחנן קיפח, איריס הארגמן, אשבל השדה, בת אורז משושה, וארכובית צמירה",
+       "locations": [
+          {
+          "location_name": "גן שרוני",
+          "flowers": [
+            "כלנית",
+            "רקפת מצויה",
+              "זהבית שרונית",
+              "דוחנן קיפח",
+            "איריס הארגמן",
+              "אשבל השדה",
+              "בת אורז משושה",
+            "ארכובית צמירה"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/02/2020",
+      "observer": null,
+      "original_text": "סעו ל\"באר מרווה\" הפריחה מרשימה של המוני כלניות וטוריים מצויים",
+      "locations": [
+        {
+          "location_name": "באר מרווה",
+           "flowers": [
+            "כלנית",
+            "טורית מצויה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/02/2020",
+       "observer": null,
+      "original_text": "בשיא פריחה בגוונים רבים בעיקר בהירות",
+      "locations": [
+        {
+          "location_name": "חורשת טל",
+            "flowers": [
+              "כלנית"
+            ],
+          "maps_query_location": "Hurshat Tal"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2020",
+       "observer": null,
+      "original_text": "בצלציה א\"י, כדן סגול , זמזומית",
+      "locations": [
+         {
+          "location_name": "ואדי עוג'ה",
+            "flowers": [
+              "בצלציה",
+              "כדן סגול",
+             "זמזומית"
+             ],
+          "maps_query_location": "Wadi Auja"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2020",
+       "observer": null,
+       "original_text": "נחל ציחור : ארבעוני שעיר, טוריים מדבריים, כוכב ריחני , סהרון משתלשל, שלחלח האלה  מישור-חיון : גרגריון ערבי, דגנין גמוד, דו-קרן מדברית , לשון-הפר המדברית, חומעה משולחפת, סביון צהוב, קדד משולחף , רכפה דקת-שיבולת, עכנאי זיפני, שיבולת-שועל ערבתית, שיכרון המדבר  בקעת סיירים: קזוח עקום, פגוניית סיני , מרבה- חלב נגבי  ,  לענת המדבר בקעת-נעצוץ : דגנין גמוד, מכנפיים מדבריים צומת-הר-חיזקיהו : זוגן אדום, מלחית מסורגת : שיטים: ישימונית ורודה כביש 12, 30 ק\"מ צפונית לאילת : מסמור סיני",
+      "locations": [
+        {
+          "location_name": "נחל ציחור",
+             "flowers": [
+              "ארבעוני שעיר",
+              "טורית מדברית",
+              "כוכב ריחני",
+                "סהרון משתלשל",
+                "שלחלח האלה"
+              ],
+          "maps_query_location": "Nahal Tsihor"
+        },
+        {
+          "location_name": "מישור חיון",
+           "flowers": [
+            "גרגריון ערבי",
+              "דגנין גמוד",
+            "דו-קרן מדברית",
+            "לשון-הפר המדברית",
+              "חומעה משולחפת",
+              "סביון צהוב",
+              "קדד משולחף",
+              "רכפה דקת-שיבולת",
+            "עכנאי זיפני",
+              "שיבולת-שועל ערבתית",
+              "שיכרון המדבר"
+            ],
+           "maps_query_location": "Mishor Hayun"
+        },
+        {
+           "location_name": "בקעת סיירים",
+            "flowers": [
+              "קזוח עקום",
+              "פגוניית סיני",
+              "מרבה-חלב נגבי",
+              "לענת המדבר"
+            ],
+           "maps_query_location": "Bik'at Sayarim"
+        },
+        {
+           "location_name":"בקעת נעצוץ",
+            "flowers":[
+              "דגנין גמוד",
+              "מכנפיים מדבריים"
+              ],
+             "maps_query_location": "Bik'at Ne'ezuz"
+          },
+         {
+           "location_name": "צומת הר חיזקיהו",
+            "flowers": [
+              "זוגן אדום",
+                "מלחית מסורגת"
+             ],
+           "maps_query_location": "Tzomet Har Hizkiyahu"
+         },
+        {
+          "location_name": "שיטים",
+           "flowers": [
+             "ישימונית ורודה"
+           ],
+           "maps_query_location": "Shitim"
+         },
+         {
+          "location_name": "כביש 12",
+            "flowers": [
+              "מסמור סיני"
+            ],
+           "maps_query_location": "Highway 12"
+         },
+         {
+           "location_name": "אילת",
+           "flowers": [
+            "מסמור סיני"
+              ],
+           "maps_query_location": "Eilat"
+         }
+      ]
+    }
+  ]
+}
+```

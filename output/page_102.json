@@ -1,0 +1,176 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/12/2022",
+      "observer": null,
+      "original_text": "נרקיסים ורקפות פורחים בשפע בשמורת נחל המערות, גם סתוונית ניתן לראות פה ושם",
+      "locations": [
+        {
+          "location_name": "שמורת נחל המערות",
+          "flowers": ["Narcissus", "Cyclamen persicum", "Colchicum"] ,
+           "maps_query_location": "Nahal Mearot Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2022",
+      "observer": "דוד טחובר",
+      "original_text": "פריחת סתווניות במקבצים מפוזרים, וגם מעט כרכומים בגבעות בין מודיעין למבוא חורון",
+      "locations": [
+        {
+           "location_name": "מודיעין",
+           "flowers": ["Colchicum", "Crocus"],
+           "maps_query_location": "Modiin"
+        },
+         {
+           "location_name": "מבוא חורון",
+          "flowers": ["Colchicum", "Crocus"],
+           "maps_query_location": "Mevo Horon"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2022",
+      "observer": "מאיר גרשטיין",
+      "original_text": "פריחה של נרקיסים רבים בפארק קנדה, בסמוך למצפור, ועל גבעת 'תל עקד'.\nפריחה של רקפות רבות, סתווניות וכרכומים ביער אשתאול. (ממש לפני בית העלמין 'אשתאול')",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+          "flowers": ["Narcissus"],
+          "maps_query_location": "Canada Park"
+        },
+        {
+          "location_name": "תל עקד",
+           "flowers": ["Narcissus"],
+          "maps_query_location": "Tel Akkad"
+        },
+         {
+          "location_name": "יער אשתאול",
+          "flowers": ["Cyclamen persicum", "Colchicum", "Crocus"],
+          "maps_query_location": "Eshtaol Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2022",
+      "observer": null,
+      "original_text": "עמק מן והירידה לעמק מן \nכרכום גיארדו , כרכום החרמון , חסת השבטים, כרכום צהבהב, כרכום צהבהב , סתוונית החרמון, סתוונית קצרת עלים , עוזרר סיני , עוזרר קוצני , ציפורן נקוד , כרכום צהבהב  \nעמק יעפורי \nטגטס קטנה, ירוקת החמור, דושן זהוב   \nבוקעתה:\nכרכום השבכה , עוזרר חד-גלעיני (פרי) , שינן עב-שורש \nתל אביטל:\nכרכום השבכה , \nמאגר בני-צפת \nערברבה שעירה (פרי),  נר-הלילה,  סתוונית התשבץ \nיער אודם\nכרכום צהבהב",
+      "locations": [
+         {
+          "location_name": "עמק מן",
+           "flowers": ["Crocus cancellatus", "Crocus hermoneus", "Lactuca orientalis", "Crocus flavus", "Crocus flavus", "Colchicum hermoneum", "Colchicum brachyphyllum", "Crataegus pinnatifida", "Crataegus aronia", "Dianthus tripunctatus", "Crocus flavus"],
+          "maps_query_location": "Emek Man"
+        },
+       {
+          "location_name": "עמק יעפורי",
+          "flowers": ["Tagetes minuta", "Echium angustifolium", "Teucrium aureum"],
+           "maps_query_location": "Emek Yaafuri"
+        },
+         {
+          "location_name": "בוקעתה",
+          "flowers": ["Crocus reticulatus", "Crataegus monogyna", "Taraxacum syriacum"],
+          "maps_query_location": "Buq'ata"
+         },
+        {
+          "location_name": "תל אביטל",
+          "flowers": ["Crocus reticulatus"],
+          "maps_query_location": "Tel Avital"
+        },
+        {
+          "location_name": "מאגר בני-צפת",
+            "flowers": ["Erodium hirtum","Oenothera",  "Colchicum stevenii"],
+             "maps_query_location": "Bnei Tzafat Reservoir"
+        },
+        {
+          "location_name": "יער אודם",
+          "flowers": ["Crocus flavus"],
+          "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+        {
+      "date": "27/11/2022",
+      "observer": "עמיר פז",
+      "original_text": "כרכום גיארדו חופי פורח בגן",
+        "locations": [
+        {
+          "location_name": "גן מקלא שרוני",
+          "flowers": ["Crocus cancellatus"],
+          "maps_query_location": null
+        }
+       ]
+    },
+    {
+      "date": "26/11/2022",
+      "observer": "גיורא רמות",
+      "original_text": "פריחה יפה של נרקיס סתווי בגבעת הכורכר של מעגן מיכאל",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["Narcissus serotinus"],
+          "maps_query_location": "Ma'agan Mikhael"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2022",
+       "observer": "אביטל טביב",
+      "original_text": "ביער ראש העין בשביל פרחי הבר ניתן למצוא מקבץ של נרקיסים, סתווניות היורה ורקפות.",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+           "flowers": ["Narcissus", "Colchicum", "Cyclamen persicum"],
+          "maps_query_location":"Rosh HaAyin Forest"
+        }
+      ]
+    },
+        {
+      "date": "26/11/2022",
+      "observer": "יוסי ריגלר",
+      "original_text": "חורבת מלח, אזור תעשייה אור עקיבא.\nנמצא בוויז.",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": ["Crocus", "Colchicum", "Narcissus"],
+          "maps_query_location": "Horbat Melah"
+        },
+         {
+          "location_name": "אור עקיבא",
+          "flowers": ["Crocus", "Colchicum", "Narcissus"],
+          "maps_query_location": "Or Akiva"
+        }
+      ]
+    },
+    {
+      "date": "26/11/2022",
+       "observer": "אלחנן נוסינסון",
+      "original_text": "אירוס הסרגל-2פרטים החל לפרוח בתחילת שביל כחול העולה למצוק הארבעים מה-״באר״. לכל אורך שביל זה פורחים הרבה נרקיסים, וגם כרכונים.\nסתוונית היורה פורחת בחורשת הארבעים.",
+      "locations": [
+         {
+          "location_name":"מצוק הארבעים",
+          "flowers": ["Iris regis-uzziae", "Narcissus", "Crocus"],
+          "maps_query_location": "Mitzok HaArba'im"
+        },
+         {
+          "location_name":"חורשת הארבעים",
+            "flowers": ["Colchicum"],
+            "maps_query_location": null
+         }
+      ]
+    },
+        {
+      "date": "25/11/2022",
+      "observer": "שגיא",
+      "original_text": "קצת סיתוניות  בעליה מהמחצבה לרמת הנדיב",
+      "locations": [
+         {
+          "location_name": "רמת הנדיב",
+          "flowers": ["Colchicum"],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    }
+  ]
+}
+```

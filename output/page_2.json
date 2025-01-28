@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/01/2025",
+      "observer": null,
+      "original_text": "בשלולית החורף בנתניה",
+      "locations": [
+        {
+          "location_name": "נתניה",
+           "flowers": ["איריס הארגמן"],
+           "maps_query_location": "Netanya"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2025",
+      "observer": null,
+      "original_text": "בהר אלון, סמוך לצומת דמון, לכיוון תחילת מסלול נחל נשר עילי",
+      "locations": [
+        {
+          "location_name": "הר אלון",
+          "flowers": ["רומולאה צידונית"],
+          "maps_query_location": "Har Alon"
+        },
+		{
+          "location_name": "צומת דמון",
+          "flowers": ["רומולאה צידונית"],
+          "maps_query_location": "Damon Junction"
+        },
+		{
+          "location_name": "נחל נשר עילי",
+           "flowers": ["רומולאה צידונית"],
+           "maps_query_location": "Nahal Nesher Illit"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2025",
+      "observer": null,
+      "original_text": "באחו נב",
+      "locations": [
+        {
+          "location_name": "אחו נב",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ahu Nav"
+        }
+      ]
+    },
+    {
+      "date": "21/01/2025",
+      "observer": "נורית שחר",
+      "original_text": "השקדיות החלו לפרוח באיזור פרוד,אמירים מירון",
+      "locations": [
+        {
+          "location_name": "פרוד",
+          "flowers": ["שקד"],
+           "maps_query_location": "Parod"
+        },
+        {
+          "location_name": "אמירים",
+          "flowers": ["שקד"],
+          "maps_query_location": "Amirim"
+        },
+		{
+           "location_name": "מירון",
+            "flowers": ["שקד"],
+            "maps_query_location": "Meron"
+        }
+      ]
+    },
+     {
+      "date": "20/01/2025",
+      "observer": null,
+       "original_text": "כלניות לרוב ובנוסף גם פריחה בולטת של אירוס ארץ ישראלי. כמו כן פריחה של עירית גדולה ומעט רקפות.",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+           "flowers": ["כלנית", "אירוס ארץ ישראלי", "עירית גדולה", "רקפת"],
+           "maps_query_location": "Nahal Taninim"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2025",
+       "observer": null,
+       "original_text": "בנוסף לאירוס ארץ ישראלי ולכלנית (לעת עתה נצפתה רק כלנית בודדת)  נצפתה פריחה של עירת גדולה וכמו כן התחלה של פריחת לוטם מרווני.",
+      "locations": [
+        {
+          "location_name": "גבעת הציבעונים",
+		  "flowers": ["אירוס ארץ ישראלי", "כלנית", "עירית גדולה", "לוטם מרווני"],
+          "maps_query_location": "Givat HaTzivonim"
+        },
+        {
+          "location_name": "מעגן מיכאל",
+		  "flowers": ["אירוס ארץ ישראלי", "כלנית", "עירית גדולה", "לוטם מרווני"],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2025",
+       "observer": "שלומית מייזל",
+      "original_text": "בגבעת התיתורה במודיעין שקדיות בשיא הפריחה , רקפות בשפע , ראינו  גם אירוס ארץ ישראל",
+      "locations": [
+        {
+          "location_name": "גבעת התיתורה",
+          "flowers": ["שקד", "רקפת", "אירוס ארץ ישראלי"],
+          "maps_query_location": "Givat HaTitora"
+        },
+        {
+          "location_name": "מודיעין",
+           "flowers": ["שקד", "רקפת", "אירוס ארץ ישראלי"],
+           "maps_query_location": "Modi'in"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2025",
+      "observer": "גלעד",
+      "original_text": "החלה פריחת עיריות בחורש ליד כפר פינס",
+      "locations": [
+        {
+          "location_name": "כפר פינס",
+		  "flowers": ["עירית"],
+          "maps_query_location": "Kfar Pines"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2025",
+       "observer": null,
+       "original_text": "ליד מגילת האש וכמו כן ביער הקדושים יש פריחה של רקפות וכמו כן פריחה של סיתווניות בודדות.",
+      "locations": [
+         {
+          "location_name": "מגילת האש",
+		  "flowers": ["רקפת", "סתוונית"],
+          "maps_query_location": "Megilat HaEsh"
+        },
+        {
+          "location_name": "יער הקדושים",
+		   "flowers": ["רקפת", "סתוונית"],
+           "maps_query_location": "Yaar HaKedoshim"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2025",
+       "observer": null,
+       "original_text":"ביער צרעה שפע של רקפות ובנוסף החלה פריחה של נרקיסים",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": ["רקפת", "נרקיס"],
+          "maps_query_location": "Yaar Tzor'a"
+        }
+      ]
+    }
+  ]
+}
+```

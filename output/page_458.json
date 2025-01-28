@@ -1,0 +1,120 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/08/2016",
+      "observer": null,
+      "original_text": "באחו בנימינה  ישנה פריחה  יפה של קייצנית אשכולית, תודה לנועם עביצל על ההכוונה",
+      "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": ["קייצנית אשכולית"],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+    {
+      "date": "18/08/2016",
+      "observer": null,
+      "original_text": "במרכז ישנה פריחה יפה של חצבים בכביש 6 בין הנתיבים ולצד הכביש",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+           "flowers": ["חצב"],
+          "maps_query_location": "Highway 6 Israel"
+        }
+      ]
+    },
+     {
+      "date": "17/08/2016",
+       "observer": "עדנה מוסל",
+      "original_text": "פריחה יפה של חצבים בהר תבור. מסלול יפה בחורש ירוק ומוצל. סובב כיפת ההר. שפע ניצנים המבטיחים המשך פריחה בשבועות הקרובים. מומלץ מאד.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": ["חצב"],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "17/08/2016",
+       "observer": "עדנה מוסל",
+      "original_text": "פריחה נפלאה של חצבים בהר תבור. שפע ניצנים מבטיחים המשך פריחה בשבועות הקרובים.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": ["חצב"],
+           "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "16/08/2016",
+      "observer": null,
+      "original_text": "ראו תצלומים נהדרים",
+       "locations": []
+    },
+    {
+      "date": "16/08/2016",
+      "observer": null,
+       "original_text": "כבר פורח במרחבי הנגב  בדרך הבשור",
+      "locations": [
+        {
+          "location_name": "מרחבי הנגב",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Negev"
+        },
+         {
+          "location_name": "דרך הבשור",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Besor Trail"
+        }
+      ]
+    },
+      {
+      "date": "09/08/2016",
+      "observer": null,
+       "original_text": "פורחת בפינה הלחה",
+       "locations": [],
+      "flowers": ["בת אורז משושה"]
+    },
+    {
+      "date": "08/08/2016",
+      "observer": "דני פריש",
+       "original_text": "ממצודת אשדוד ים ודרומה, פריחה , יותר מהרגיל בתאריך זה",
+      "locations": [
+        {
+          "location_name": "מצודת אשדוד ים",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Ashdod Yam Fortress"
+         }
+      ]
+    },
+    {
+      "date": "08/08/2016",
+      "observer": null,
+      "original_text": "בשכונת נוף-ים במערב הרצליה - תחילת פריחה",
+        "locations": [
+        {
+          "location_name": "הרצליה",
+          "flowers": ["חצב"],
+          "maps_query_location": "Herzliya"
+        }
+      ]
+    },
+     {
+      "date": "08/08/2016",
+      "observer": "רונית קזס",
+      "original_text": "ראיתי חצב פורח במנזר האחיות מציון בעין כרם",
+        "locations": [
+        {
+          "location_name": "עין כרם",
+          "flowers": ["חצב"],
+          "maps_query_location": "Ein Kerem"
+        }
+      ]
+    }
+  ]
+}
+```

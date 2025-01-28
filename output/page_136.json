@@ -1,0 +1,494 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/03/2022",
+      "observer": null,
+      "original_text": "מחנה גדי בוצין הירדן, דמומית משוננת, מסוריים מצויים, מציץ סורי, חיעד ספרדי, נץ-חלב אייג , שרכרך ריחני, פעמונית כוכבנית, צורית בלוטית, קדד ארץ-ישראלי ",
+      "locations": [
+        {
+          "location_name": "מחנה גדי",
+          "flowers": [
+            "Verbascum gadeanum",
+            "Papaver subpiriforme",
+            "Sanguisorba minor",
+            "Asperula orientalis",
+            "Helianthemum syriacum",
+            "Ornithogalum umbellatum",
+            "Erodium cicutarium",
+            "Campanula stellaris",
+            "Cerinthe major",
+             "Astragalus terrestris"
+          ],
+           "maps_query_location": "Mahane Gadi"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2022",
+       "observer": null,
+      "original_text": "מזרח-השומרון דבורנית צהובה, דלעת-נחש סורית ‏‏איסטיס מצוי,  דרכנית מקופחת , זוטה מעורקת, זנב שועל מצוי, חד-שפה מצוי, כריך הערבות, מרווה מצויה, צמר מפוצל",
+      "locations": [
+        {
+          "location_name": "מזרח השומרון",
+          "flowers": [
+              "Ophrys flavomarginata",
+              "Trichosanthes cucumerina",
+              "Isatis tinctoria",
+              "Centaurea procurrens",
+              "Micromeria sinaica",
+              "Alopecurus myosuroides",
+              "Teucrium polium",
+             "Eremostachys laciniata",
+              "Salvia dominica",
+              "Aizoon canariense"
+            ],
+           "maps_query_location":"East Samaria"
+        }
+      ]
+    },
+     {
+      "date": "18/03/2022",
+      "observer": null,
+      "original_text": "מצפה גיתית לוף א\"י, לחך כרתי , מרווה דגולה , מלקולמיה חרוקה , כוכבן מצוי, זקן-סב מצוי , חבלבל עדין, חד-שפה מצוי , דמומית משוננת , דמומית א\"י, נורית אסיה, נץ-חלב אייג , עלקלוק צהוב-פרחים , תלתן הנביאים , שיבולת-שועל ערבתית",
+       "locations": [
+        {
+          "location_name": "מצפה גיתית",
+          "flowers": [
+             "Arisarum vulgare",
+              "Onosma erectum",
+              "Salvia grandiflora",
+               "Malcolmia chia",
+               "Echinops polycephalus",
+             "Cleome arabica",
+             "Convolvulus arvensis",
+             "Teucrium polium",
+            "Papaver subpiriforme",
+            "Papaver palaestinum",
+             "Ranunculus asiaticus",
+              "Ornithogalum umbellatum",
+            "Glaucium flavum",
+             "Trifolium pauciflorum",
+             "Avena sterilis"
+           ],
+            "maps_query_location": "Mitzpe Gitit"
+        }
+      ]
+    },
+   {
+      "date": "18/03/2022",
+       "observer": null,
+      "original_text": "נחל תרצה נורית אסיה, מררית החוף , טופח אדום, חורשף השבכה, חוחן הירדן , דרכמונית מצרית , ישימונית דו-גונית מצפה גיתית לוף א\"י, לחך כרתי , מרווה דגולה , מלקולמיה חרוקה , כוכבן מצוי, זקן-סב מצוי , חבלבל עדין, חד-שפה מצוי , שמשון מצוי  דמומית משוננת , דמומית א\"י , נץ-חלב צרפתי, סבונית השדה, קדד משולחף , שעורת העכבר, שעורת התבור, תודרה מעובה , עלקת נטויה, צללית אשונה, שום קטן-פרחים",
+        "locations": [
+        {
+          "location_name": "נחל תרצה",
+          "flowers": [
+              "Ranunculus asiaticus",
+              "Reichardia tingitana",
+             "Gagea dayana",
+             "Carlina lanata",
+             "Eryngium glomeratum",
+               "Erodium glaucophyllum",
+              "Gymnarrhena micrantha",
+               "Arisarum vulgare",
+              "Onosma erectum",
+              "Salvia grandiflora",
+               "Malcolmia chia",
+               "Echinops polycephalus",
+               "Cleome arabica",
+             "Convolvulus arvensis",
+             "Teucrium polium",
+             "Hexaptera hispanica",
+             "Papaver subpiriforme",
+             "Papaver palaestinum",
+             "Ornithogalum narbonense",
+              "Saponaria officinalis",
+              "Astragalus cruciatus",
+              "Hordeum murinum",
+              "Hordeum spontaneum",
+               "Thudera major",
+               "Orobanche ramosa",
+               "Paronychia argentea",
+               "Allium stamineum"
+
+            ],
+           "maps_query_location": "Nahal Tirza"
+        },
+          {
+          "location_name": "מצפה גיתית",
+           "flowers": [
+               "Arisarum vulgare",
+              "Onosma erectum",
+              "Salvia grandiflora",
+               "Malcolmia chia",
+               "Echinops polycephalus",
+               "Cleome arabica",
+             "Convolvulus arvensis",
+             "Teucrium polium",
+             "Hexaptera hispanica",
+             "Papaver subpiriforme",
+             "Papaver palaestinum",
+              "Ornithogalum narbonense",
+              "Saponaria officinalis",
+              "Astragalus cruciatus",
+              "Hordeum murinum",
+              "Hordeum spontaneum",
+               "Thudera major",
+               "Orobanche ramosa",
+               "Paronychia argentea",
+               "Allium stamineum"
+            ],
+             "maps_query_location": "Mitzpe Gitit"
+        }
+      ]
+    },
+     {
+       "date": "18/03/2022",
+       "observer": null,
+      "original_text": "מזרחית למכורה גרגרנית מצויה, דרכמונית מצרית, טופח ריסני, כמנון כרתי , כפיות שעירות, לוליינית מעובה, נוירת ירושלים, תלתן נאה, שופרית כרתית, קדד יפה",
+      "locations": [
+        {
+          "location_name": "מזרחית למכורה",
+           "flowers": [
+                "Helianthemum vesicarium",
+                "Erodium glaucophyllum",
+                "Gagea fibrosa",
+                "Cuminum cyminum",
+               "Sarcopoterium spinosum",
+               "Ceratonia siliqua",
+               "Scrophularia hierochuntina",
+               "Trifolium speciosum",
+               "Torilis nodosa",
+               "Astragalus callichrous"
+            ],
+            "maps_query_location": "Mekhora"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2022",
+      "observer": null,
+      "original_text": "ג'יבעית מזרח-השומרון תלתן הנביאים, סחלב פרפרני, תלתן תת-קרקעי, עשנן צפוף, שום ארץ-ישראלי,  שום מזרחי ",
+       "locations": [
+        {
+          "location_name": "ג'יבעית מזרח השומרון",
+          "flowers": [
+              "Trifolium pauciflorum",
+              "Orchis papilionacea",
+               "Trifolium subterraneum",
+               "Fumaria densiflora",
+                "Allium palaestinum",
+               "Allium orientale"
+            ],
+            "maps_query_location": "Jaba'it"
+        }
+      ]
+    },
+     {
+      "date": "18/03/2022",
+      "observer": null,
+      "original_text": "כביש הבקעה צמרורת בואסייה",
+       "locations": [
+        {
+          "location_name": "כביש הבקעה",
+          "flowers": [
+            "Phlomis boissieri"
+            ],
+             "maps_query_location": "Bekaa Road"
+         }
+        ]
+     },
+    {
+      "date": "18/03/2022",
+      "observer": null,
+      "original_text": "איריס ירוחם פורח בשמורת איריס ירוחם  איריס הנגב  פורח בדרום במקומות המוכרים והידועים איריס שחום פורח בשומרון ; אום זוקה ובדרום איריס הגחבוע ; החל לפרוח בעיער ליד מלכישוע איריס הארגמן סוף פריחה ; אילנות, נס ציונה, שומרון",
+      "locations": [
+        {
+          "location_name": "שמורת איריס ירוחם",
+           "flowers": [
+              "Iris yerochamensis"
+            ],
+           "maps_query_location": "Iris Yerocham Reserve"
+         },
+          {
+          "location_name": "דרום",
+           "flowers": [
+              "Iris mariae"
+            ],
+           "maps_query_location": "South Israel"
+        },
+         {
+           "location_name": "שומרון",
+           "flowers": [
+              "Iris atrofusca"
+              ],
+            "maps_query_location":"Samaria"
+         },
+         {
+            "location_name": "אום זוקה",
+             "flowers": [
+                "Iris atrofusca"
+              ],
+            "maps_query_location":"Umm Zuka"
+         },
+           {
+            "location_name": "דרום",
+             "flowers": [
+                "Iris atrofusca"
+              ],
+            "maps_query_location":"South Israel"
+         },
+         {
+             "location_name": "מלכישוע",
+             "flowers": [
+               "Iris haynei"
+              ],
+             "maps_query_location":"Malkishua"
+          },
+        {
+            "location_name":"אילנות",
+             "flowers": [
+                 "Iris atropurpurea"
+              ],
+            "maps_query_location": "Ilanot"
+        },
+          {
+            "location_name": "נס ציונה",
+            "flowers": [
+                "Iris atropurpurea"
+             ],
+             "maps_query_location":"Ness Ziona"
+        },
+         {
+            "location_name":"שומרון",
+             "flowers": [
+                 "Iris atropurpurea"
+                ],
+            "maps_query_location": "Samaria"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בשמורת בני ציון:ביקיה צרפתית,ביקיה שעירה,ביקיה תרבותית, ביקיה צהובה,המוני תורמוס  ארץ ישראלי בשלל גוונים, הרבה תורמוס צר עלים,,עכבית הגלגל,צמר מפוצל, צבעוני השרון,שום תל אביב גדולים ומרשימים, שום ארדל, מרסיה יפהפיה,שיפתן מצוי. בשמורת הדסים: גולנית ערב (כ-20 פרחים),דבורניות דינסמור, צבעוני השרון  ו- 2 בן חצב יקינתוני , ממש בהתחלת פריחה עם ניצניםם יפים.",
+      "locations": [
+        {
+          "location_name": "שמורת בני ציון",
+          "flowers": [
+            "Vicia narbonensis",
+            "Vicia hirsuta",
+            "Vicia sativa",
+            "Vicia lutea",
+            "Lupinus palaestinus",
+              "Lupinus angustifolius",
+            "Echiochilon fruticosum",
+             "Aizoon canariense",
+             "Tulipa agenensis",
+             "Allium telavivense",
+             "Allium erdelii",
+             "Marsilea strigosa",
+             "Ajuga chamaepitys"
+          ],
+           "maps_query_location": "Bnei Zion Reserve"
+        },
+        {
+          "location_name": "שמורת הדסים",
+          "flowers": [
+              "Echinops gaillardotii",
+              "Ophrys dinsmorei",
+               "Tulipa agenensis",
+             "Scilla hyacinthoides"
+           ],
+           "maps_query_location":"Hadassim Reserve"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2022",
+      "observer": "אלחנן נוסינסון",
+       "original_text": "בשמורת אירוס ירוחם: התחלת פריחה של אירוס ירוחם, צבעוני המדבר,מקור חסידה שעיר, מקור חסידה רומאי?(מצרי??),אטד ערבי, נץ חלב דק עלים, מחרוזת משונצת. תל ערד: אירוס שחום עדיין לא פורח אך יש עלים מרובים, קדד באר שבע (הסייף), קדד האצבעות,צמר מפוצל,.",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+           "flowers": [
+              "Iris yerochamensis",
+              "Tulipa desertorum",
+               "Erodium hirtum",
+               "Erodium romanum",
+                "Lycium arabicum",
+               "Ornithogalum brachystachys",
+                "Reichardia macrophylla"
+           ],
+            "maps_query_location": "Iris Yerocham Reserve"
+        },
+        {
+          "location_name": "תל ערד",
+           "flowers": [
+               "Iris atrofusca",
+              "Astragalus beershabensis",
+              "Astragalus digitatus",
+               "Aizoon canariense"
+            ],
+            "maps_query_location":"Tel Arad"
+        }
+      ]
+    },
+    {
+      "date": "17/03/2022",
+      "observer": "מיקי",
+      "original_text": "במפל עיט יש פריחה של נוריות, תלתן הארגמן, צנון מצוי,אלפלפה, תורמוס צר עלים , אלקנת הצבעים, לוענית",
+        "locations": [
+        {
+          "location_name": "מפל עיט",
+            "flowers": [
+              "Ranunculus",
+              "Trifolium purpureum",
+               "Raphanus raphanistrum",
+               "Medicago sativa",
+              "Lupinus angustifolius",
+               "Alkanna tinctoria",
+               "Antirrhinum"
+            ],
+            "maps_query_location": "Eit Waterfall"
+          }
+       ]
+    },
+   {
+      "date": "16/03/2022",
+      "observer": "יובל אופק",
+      "original_text": "פריחה בשמורת אילנות",
+       "locations": [
+        {
+          "location_name": "שמורת אילנות",
+          "flowers": [],
+          "maps_query_location":"Ilanot Reserve"
+         }
+       ]
+    },
+    {
+      "date": "15/03/2022",
+      "observer": "מיקי",
+      "original_text": "פריחה של עשנן מטפס, לוע הארי גד, קידה שעירה, פרסיון גדול, חלבלוב מגובשש, גביעונית הלבנון, גרניון, צמר מפוצל, רקפות ,עירית. ליד קיבוץ שמיר נוריות  , תורמוס הרים, וניזנמית לבנה",
+        "locations": [
+         {
+           "location_name": "נחל עיון",
+             "flowers": [
+                "Fumaria capreolata",
+              "Antirrhinum majus",
+             "Calicotome villosa",
+              "Forsskaolea tenacissima",
+             "Euphorbia hierosolymitana",
+            "Gagea libanotica",
+             "Geranium",
+              "Aizoon canariense",
+             "Cyclamen",
+               "Asphodelus"
+           ],
+           "maps_query_location": "Nahal Ayun"
+         },
+        {
+          "location_name": "קיבוץ שמיר",
+          "flowers": [
+            "Ranunculus",
+            "Lupinus pilosus",
+              "Nigella arvensis"
+           ],
+           "maps_query_location":"Kibbutz Shamir"
+        }
+      ]
+    },
+     {
+      "date": "15/03/2022",
+      "observer": null,
+       "original_text": "מרבדי רקפות אינסופיים, המוני צבעונים בסוף פריחה, תלתן כוכבני, שום ארדל, חרצית עטורה, חרצית משוננת, לוטם מרבני , קחוון החוף, מורית גדולה (לכיוון מזרח)  ועוד ועוד",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+              "Cyclamen",
+              "Tulipa",
+              "Trifolium stellatum",
+               "Allium erdelii",
+              "Glebionis coronaria",
+               "Glebionis segetum",
+               "Cistus salviifolius",
+               "Matricaria chamomilla",
+               "Morettia philaeana"
+            ],
+           "maps_query_location": "Ma'agan Michael"
+         }
+       ]
+    },
+     {
+      "date": "15/03/2022",
+       "observer": null,
+      "original_text": "הפריחות בשיא צאו לטייל באילנות: משטחי תורמוס א\"י, המוני בן-חצב יקינתוני, מאות שיפתנים, הרבה צבעונים, עשרות שום תל-אביב בשיא פריחה, זעזועית קטנה, זקן -סב מצוי וזקן-תיש, תורמוס צר-עלים ( סוף) איריס הארגמן( סוף) חלבלוב החוף, תלתנים, כרוב החו, קידה שעירה מפיצה ריח נעים, קחוונים, בקיה שעירה, חרצית עטורה וחרצית משוננת, גרניון הארגמן, שום משולש ( התחלה) אזוביון דגול, מקח יפה+ מקח תמים, מצילות החוף",
+      "locations": [
+        {
+          "location_name": "אילנות",
+           "flowers": [
+                "Lupinus palaestinus",
+              "Scilla hyacinthoides",
+               "Ajuga",
+              "Tulipa",
+              "Allium telavivense",
+             "Gagea tenuifolia",
+              "Cleome arabica",
+             "Tragopogon",
+              "Lupinus angustifolius",
+               "Iris atropurpurea",
+                "Euphorbia paralias",
+              "Trifolium",
+                "Brassica tournefortii",
+              "Calicotome villosa",
+              "Matricaria chamomilla",
+              "Vicia hirsuta",
+              "Glebionis coronaria",
+              "Glebionis segetum",
+              "Geranium sanguineum",
+               "Allium trifoliatum",
+                "Lavandula pubescens",
+              "Myagrum perfoliatum",
+               "Pallenis spinosa"
+            ],
+            "maps_query_location": "Ilanot"
+         }
+       ]
+    },
+   {
+      "date": "15/03/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בחולות שונרא ליד ה-ק״מ 133, מקבצים יפים של אירוס הנגב,קדד קהירי, מרווה צמירה,מנתור מחוספס, גרגרנית ערבית,בן שלח מנוצה ושלחלח האלה.בבורות לוץ: שמשון הדור, צבעוני ססגוני לצד השביל האדום ובתחילת דרך העפר המסומנת בכחול והמובילה מנכביש לחניון, במקומות אלו עלים ושרידי פריחה של אירוס טוביה, חלמית גדולה,קדד קדוש ,עריוני צהוב וכלניוח.",
+      "locations": [
+        {
+          "location_name": "חולות שונרא",
+          "flowers": [
+              "Iris mariae",
+               "Astragalus kahiricus",
+              "Salvia lanigera",
+               "Mentha longifolia",
+                "Helianthemum aegyptiacum",
+                "Anabasis articulata",
+                 "Salsola vermiculata"
+            ],
+          "maps_query_location":"Shunra Sands"
+         },
+         {
+          "location_name":"בורות לוץ",
+            "flowers":[
+              "Hexaptera hispanica",
+              "Tulipa biflora",
+              "Iris tuberosa",
+               "Malva sylvestris",
+              "Astragalus sanctus",
+              "Erodium laciniatum",
+                "Clary sage"
+           ],
+             "maps_query_location":"Borot Lotz"
+         }
+        ]
+     }
+  ]
+}
+```

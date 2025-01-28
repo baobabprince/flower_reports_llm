@@ -1,0 +1,213 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/03/2021",
+      "observer": "יעל בש",
+      "original_text": "האירוס הנצרתי פורח במלא הדרו בשמורת האירוס הנצרתי בנוף הגליל",
+      "locations": [
+        {
+          "location_name": "שמורת האירוס הנצרתי",
+          "flowers": [
+            "אירוס נצרתי"
+          ],
+           "maps_query_location": "Iris Nazareth nature reserve"
+        },
+        {
+          "location_name": "נוף הגליל",
+          "flowers": [
+            "אירוס נצרתי"
+          ],
+           "maps_query_location": "Nof HaGalil"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2021",
+      "observer": "קפלינסקי יפה",
+      "original_text": "פריחה בדרך מיער שוויץ לפוריה נווה עובד",
+      "locations": [
+         {
+          "location_name": "יער שוויץ",
+           "flowers": [],
+           "maps_query_location": "Switzerland Forest"
+        },
+         {
+          "location_name": "פוריה נווה עובד",
+           "flowers": [],
+           "maps_query_location": "Poriya Neve Oved"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2021",
+       "observer": "יואל רובין",
+      "original_text": "באיזור בריכת הקשתות שליד מבוא חורון מצאתי דבורניות קטיפה. התחלת הפריחה.",
+      "locations": [
+         {
+          "location_name": "בריכת הקשתות",
+          "flowers": [
+            "דבורנית קטיפה"
+          ],
+           "maps_query_location": "Brikhat Hakshatot"
+        },
+        {
+            "location_name": "מבוא חורון",
+            "flowers": [
+              "דבורנית קטיפה"
+            ],
+             "maps_query_location": "Mevo Horon"
+          }
+      ]
+    },
+    {
+      "date": "01/03/2021",
+      "observer": "עמיר פז",
+      "original_text": "כף עוף מנוצה, צבעוני, פרג אגסני, בת חול א\"י, חגווית החומות, תורמוס שעיר וצר עלים פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "כף עוף מנוצה",
+            "צבעוני",
+            "פרג אגסני",
+            "בת חול א\"י",
+             "חגווית החומות",
+            "תורמוס שעיר",
+            "תורמוס צר עלים"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "01/03/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "נצפו שיחים בבורות לוץ ולאורך כביש 171.",
+      "locations": [
+         {
+          "location_name": "בורות לוץ",
+           "flowers": [
+            "מוריקה מבריקה"
+          ],
+          "maps_query_location": "Borot Lotz"
+        },
+        {
+          "location_name": "כביש 171",
+          "flowers": [
+             "מוריקה מבריקה"
+           ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "01/03/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "אירוס טוביה בפריחה מלאה. 8 פרטים בצד בדרך העפר (מסומנת בכחול),המובילה מכביש 171 לבורות לוץ.4 פרטים נוספים בצידי השביל האדום היוצא מהניון, והחוזר לחניון בורות לוץ. פרט גדול נוסף ב-״אחו הקטנטן, ליד החניון סמוך לתחילת שביל אדום. במקום זה נראו 3 פרחים של צבעוני ססגוני, ושמשון השלחופיות בכביש 171, נראו: מרווה צמירה קדד משולחף. וטוריים מדבריים.",
+      "locations": [
+        {
+            "location_name": "דרך העפר",
+           "flowers": [
+               "אירוס טוביה"
+            ],
+            "maps_query_location": null
+          },
+        {
+          "location_name": "כביש 171",
+          "flowers": [
+            "אירוס טוביה",
+             "שמשון השלחופיות",
+            "מרווה צמירה",
+            "קדד משולחף",
+            "טוריים מדבריים"
+           ],
+           "maps_query_location": null
+         },
+         {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "אירוס טוביה"
+           ],
+            "maps_query_location": "Borot Lotz"
+          },
+           {
+          "location_name": "אחו הקטנטן",
+          "flowers": [
+            "אירוס טוביה",
+            "צבעוני ססגוני"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "28/02/2021",
+      "observer": "איריס",
+      "original_text": "ליד מלכישוע 28/2/21. כמה פרטים",
+      "locations": [
+        {
+          "location_name": "מלכישוע",
+          "flowers": [
+            "אירוס הגלבוע"
+          ],
+          "maps_query_location": "Malkishua"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2021",
+      "observer": "איריס",
+      "original_text": "שמורת אירוס נצרתי ליד בית העלמין בנצרת. 28/2/21. כמה פרטים",
+       "locations": [
+         {
+          "location_name": "שמורת אירוס נצרתי",
+          "flowers": [
+            "אירוס נצרתי"
+          ],
+          "maps_query_location": "Iris Nazareth nature reserve"
+        },
+         {
+          "location_name": "נצרת",
+           "flowers": [
+            "אירוס נצרתי"
+           ],
+           "maps_query_location": "Nazareth"
+        }
+      ]
+    },
+      {
+      "date": "28/02/2021",
+      "observer": "אסנת זימן",
+      "original_text": "בגבעת המורה תחילתה של פריחת האירוס הנצרתי.עדיין מעט פריחה אך מלא ניצנים.מרהיב ביופיו.",
+      "locations": [
+        {
+          "location_name": "גבעת המורה",
+           "flowers": [
+             "אירוס נצרתי"
+            ],
+            "maps_query_location":"Givat Hamoreh"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2021",
+       "observer": null,
+      "original_text": "גביעונית הלבנון ככה ( חומה) קדד פייברוןף, פרגה אדומה, חבלבל המשי, בן שלח מנוצה ועוד . ראו בקישור",
+       "locations": [
+        {
+          "location_name": "תל קריות",
+          "flowers": [
+            "גביעונית הלבנון",
+            "קדד פייברוןף",
+            "פרגה אדומה",
+            "חבלבל המשי",
+             "בן שלח מנוצה"
+           ],
+          "maps_query_location": "Tel Krayot"
+        }
+      ]
+    }
+  ]
+}
+```

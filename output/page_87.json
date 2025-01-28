@@ -1,0 +1,241 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "בחורשת הסרגנטים בנתניה, ביער אילנות, בנס ציונה בפלמחים ( חומרה) , בחוף גדור, ועוד",
+      "locations": [
+        {
+          "location_name": "חורשת הסרג'נטים",
+          "flowers": [
+            "איריס הארגמן"
+          ],
+           "maps_query_location": "Horeshat HaSarg'entim"
+        },
+        {
+          "location_name": "נתניה",
+          "flowers": [
+            "איריס הארגמן"
+          ],
+          "maps_query_location": "Netanya"
+        },
+        {
+          "location_name": "יער אילנות",
+           "flowers": [
+            "איריס הארגמן"
+          ],
+           "maps_query_location": "Ilanot Forest"
+        },
+         {
+          "location_name": "נס ציונה",
+           "flowers": [
+            "איריס הארגמן"
+          ],
+           "maps_query_location": "Ness Ziona"
+        },
+        {
+          "location_name": "פלמחים",
+           "flowers": [
+            "איריס הארגמן"
+          ],
+            "maps_query_location": "Palmachim"
+        },
+        {
+          "location_name": "חוף גדור",
+           "flowers": [
+            "איריס הארגמן"
+          ],
+            "maps_query_location": "Gador Beach"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "פריחה מהממת ורבה - ראו בקיושר למטה",
+      "locations": [],
+      "flowers":[]
+    },
+       {
+      "date": "13/02/2023",
+      "observer": null,
+       "original_text":"במטע זיתים בקיבוץ דליה - ראו קישור",
+      "locations": [
+         {
+          "location_name": "קיבוץ דליה",
+           "flowers": [
+              "כלנית"
+             ],
+           "maps_query_location": "Dalia"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "בבאר מרווה המוני כלניות ועו ד",
+      "locations": [
+        {
+          "location_name": "באר מרווה",
+           "flowers": [
+              "כלנית"
+             ],
+            "maps_query_location": "Be'er Marva"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "רקפות, נוריות אסיה שקדיות ועוד, חגיגה גדולה ראו אלבום בקישור",
+       "locations": [
+         {
+          "location_name": "יער שחריה",
+           "flowers": [
+              "רקפת",
+               "נורית אסיה",
+               "שקד"
+             ],
+              "maps_query_location": "Sha'ariya Forest"
+        },
+         {
+          "location_name": "עדולם",
+           "flowers": [
+              "רקפת",
+               "נורית אסיה",
+               "שקד"
+             ],
+              "maps_query_location": "Adulam"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "במעגן מיכאל",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+              "צבעוני"
+             ],
+            "maps_query_location":"Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text": "חניון הרואה גרגרנית מצויה , ישימונית דו-גונית , לחך חום-לוע , לחך כריתי, לחך משונן , לחך סגלגל , שנס המדבר , קדד קוטבי , מרור עדין , מלעניאל קטן-פרחים , ארנבית שרועה , בקיה מדורבנת בארי ברקן סורי , דבורנית דינסמור , סולנום פראי , שום מזרחי בור חמת גולנית ערב, זמזומית המדבר , זמזומית מושייף, חלבלוב הרמון נחל עקרב מקור-חסידה שעיר , איריס טוביה , כדן נאה חולות רביבים אחילוף זעיר,  אטד ערבי ,  מללנית ערבית",
+       "locations": [
+        {
+          "location_name": "חניון הרואה",
+           "flowers": [
+             "גרגרנית מצויה",
+              "ישימונית דו-גונית",
+              "לחך חום-לוע",
+               "לחך כריתי",
+               "לחך משונן",
+              "לחך סגלגל",
+             "שנס המדבר",
+               "קדד קוטבי",
+              "מרור עדין",
+                "מלעניאל קטן-פרחים",
+                "ארנבית שרועה",
+                "בקיה מדורבנת"
+             ],
+             "maps_query_location": "HaRo'e parking"
+        },
+         {
+          "location_name": "בארי",
+           "flowers": [
+              "ברקן סורי",
+               "דבורנית דינסמור",
+                "סולנום פראי",
+                "שום מזרחי"
+             ],
+             "maps_query_location": "Be'eri"
+        },
+        {
+          "location_name": "בור חמת",
+           "flowers": [
+              "גולנית ערב",
+               "זמזומית המדבר",
+                "זמזומית מושייף",
+                "חלבלוב הרמון"
+             ],
+              "maps_query_location":"Bor Hamat"
+        },
+         {
+           "location_name": "נחל עקרב",
+           "flowers": [
+              "מקור-חסידה שעיר",
+               "איריס טוביה",
+               "כדן נאה"
+             ],
+             "maps_query_location": "Nahal Akrab"
+         },
+         {
+           "location_name": "חולות רביבים",
+           "flowers": [
+              "אחילוף זעיר",
+               "אטד ערבי",
+              "מללנית ערבית"
+             ],
+            "maps_query_location": "Revivim Sands"
+         }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": null,
+      "original_text":"בבניאס לאורך השביל התלוי יש כלניות בצבעים שונים - לבן, סגול וכחול - וזאת בגוונים שונים של כחול וסגול. לא נצפו כלניות אדומות. הרקפות גם כן פורחות בשפע.",
+      "locations": [
+        {
+          "location_name": "בניאס",
+          "flowers": [
+            "כלנית",
+            "רקפת"
+          ],
+          "maps_query_location": "Banias"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "בכניסה למפל התנור פורחות כלניות אדומות ובנוסף כלניית סגולות במגוון גוונים של סגול. בנוסף יש גם רקפות הפורחות במרחבים גדולים יותר.",
+      "locations": [
+        {
+          "location_name": "מפל התנור",
+          "flowers": [
+            "כלנית",
+             "רקפת"
+          ],
+          "maps_query_location": "Tanur Waterfall"
+        }
+      ]
+    },
+    {
+      "date": "13/02/2023",
+      "observer": "עמיר פז",
+      "original_text": "איריס הארגמן והביצות, כלנית מצויה, ספה המים, אשבל השדה, רומוליאה זעירה, ורקפת מצויה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+              "איריס הארגמן",
+              "כלנית",
+               "ספה המים",
+              "אשבל השדה",
+               "רומוליאה זעירה",
+               "רקפת"
+          ],
+           "maps_query_location": "Gan Miklat Sharoni"
+        }
+      ]
+    }
+  ]
+}
+```

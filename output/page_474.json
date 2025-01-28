@@ -1,0 +1,188 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/03/2016",
+      "observer": null,
+      "original_text": "בגינה בסכנת הכחדה: בוצין אופקי, מרוות ירושלים,  טופח הגליל, סגל צנוע, איריס הנג ( שלושה  פרטים יפהפיים) ועוד",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+          "flowers": [
+            "Verbascum oreophilum",
+            "Salvia hierosolymitana",
+            "Gladiolus italicus",
+            "Viola modesta",
+            "Iris hennisii"
+          ],
+           "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2016",
+      "observer": "שאול רביד",
+      "original_text": "בגבעות ממזרח לקבוץ גברעם  ישנם רכוזי צבעוני ההרים, סחלב פרפרני, שפתן בשיא פריחה.",
+       "locations": [
+        {
+          "location_name": "גברעם",
+           "flowers": [
+              "Tulipa montana",
+              "Orchis papilionacea",
+              "Ajuga"
+            ],
+           "maps_query_location": "Gvar'am"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2016",
+      "observer": "ערן הלוי",
+      "original_text": "4.3 בהר יונה תחילת פריחה של איריס נצרתי",
+       "locations": [
+        {
+          "location_name": "הר יונה",
+          "flowers": [
+            "Iris nazarena"
+          ],
+           "maps_query_location": "Har Yona"
+        }
+      ]
+    },
+    {
+      "date": "04/03/2016",
+      "observer": null,
+      "original_text": "איריס הנגב ( שלושה יפהפיים) , דבשה מחורצת, דרדר כחול, מרוות ירושלים, זמזומית סגולה, סייפן התבואה , סיגל צנוע, ורבים אחרים שווה לבקר",
+       "locations": [
+         {
+           "location_name": "נאות קדומים",
+           "flowers": [
+              "Iris mariae",
+              "Bellevalia flexuosa",
+              "Centaurea cyanoides",
+              "Salvia hierosolymitana",
+              "Gagea commutata",
+              "Gladiolus segetum",
+               "Viola modesta"
+            ],
+            "maps_query_location": "Neot Kedumim"
+          }
+       ]
+    },
+    {
+      "date": "04/03/2016",
+      "observer": "מאיה שתיל",
+      "original_text": "סמוך לשלולית הדרומית אותר שפתן מצוי . על גבעת השלום אותרו פרחי צבעוני השרון ואירוס הארגמן . בנוסף ראינו בשמורה פרחי בן חצב יקינטוני , שום משולש , שום תל אביבי , תורמוס ארץ ישראלי ונוריות כן פורחים במלואם שפתניים רבים ומצליבים רבים ועוד ועוד , פשוט נהדר .",
+     "locations": [
+       {
+            "location_name": "שמורת פולג",
+            "flowers": [
+               "Ajuga",
+              "Tulipa agenensis",
+              "Iris atropurpurea",
+               "Scilla hyacinthoides",
+              "Allium trifoliatum",
+               "Allium telavivense",
+               "Lupinus palaestinus",
+                "Ranunculus"
+             ],
+             "maps_query_location": "Poleg Nature Reserve"
+          }
+      ]
+    },
+      {
+      "date": "04/03/2016",
+      "observer": "מאיה שתיל",
+      "original_text": "סמוך לשלולית הדרומית אותר שפתן מצוי . על גבעת השלום אותרו פרחי צבעוני השרון ואירוס הארגמן . בנוסף ראינו בשמורה פרחי בן חצב יקינטוני , שום משולש , שום תל אביבי , תורמוס ארץ ישראלי ונוריות כן פורחים במלואם שפתניים רבים ומצליבים רבים ועוד ועוד , פשוט נהדר .",
+     "locations": [
+       {
+            "location_name": "שמורת פולג",
+            "flowers": [
+               "Ajuga",
+              "Tulipa agenensis",
+              "Iris atropurpurea",
+               "Scilla hyacinthoides",
+              "Allium trifoliatum",
+               "Allium telavivense",
+               "Lupinus palaestinus",
+                "Ranunculus"
+             ],
+              "maps_query_location": "Poleg Nature Reserve"
+          }
+      ]
+    },
+    {
+      "date": "04/03/2016",
+      "observer": "מתן",
+      "original_text": "מלבד אירוס ירוחם נצפו גם: צהרון מצוי, זהבית דקת עלים , צבעוני המדבר. ועוד.",
+      "locations": [
+        {
+          "location_name": "שמורת ירוחם",
+          "flowers": [
+            "Iris yruhamensis",
+              "Anagallis arvensis",
+              "Sternbergia angustifolia",
+              "Tulipa desertorum"
+          ],
+           "maps_query_location": "Yeruham Nature Reserve"
+        }
+      ]
+    },
+   {
+      "date": "03/03/2016",
+      "observer": null,
+      "original_text": "איריס הרון, צבעוני ההרים, כלניות,  מרווה ריחנית, צנון מצוי, חרציות, עכנאי יהודה או זיפני,",
+      "locations": [
+        {
+          "location_name": "נחל תלכיד",
+          "flowers": [
+              "Iris hebronensis",
+              "Tulipa montana",
+              "Anemone coronaria",
+              "Salvia graveolens",
+              "Raphanus sativus",
+              "Chrysanthemum",
+              "Echium judaeum"
+            ],
+             "maps_query_location": "Nahal Telakhid"
+        }
+      ]
+    },
+     {
+      "date": "03/03/2016",
+      "observer": null,
+      "original_text": "דבורנית הקטיפה פורחת למרגלות הכרמל סמוך לכניסה לקיבוץ יגור",
+        "locations": [
+          {
+             "location_name": "יגור",
+            "flowers": [
+               "Ophrys umbilicata"
+              ],
+             "maps_query_location": "Yagur"
+          },
+           {
+             "location_name": "כרמל",
+            "flowers": [
+               "Ophrys umbilicata"
+              ],
+               "maps_query_location": "Carmel"
+          }
+        ]
+    },
+    {
+      "date": "03/03/2016",
+      "observer": null,
+      "original_text": "בצומת המפלים פורחים כבר איריסי החרמון",
+      "locations": [
+        {
+          "location_name": "צומת המפלים",
+          "flowers": [
+            "Iris hermona"
+           ],
+           "maps_query_location": "Zomet Hamafalim"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,137 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/08/2024",
+      "observer": "כתם אור",
+      "original_text": "4 שרביטי פריחה בכניסה לקשת בגולן",
+      "locations": [
+        {
+          "location_name": "קשת",
+           "flowers": ["חצב מצוי"],
+          "maps_query_location": "Keshet"
+        },
+        {
+          "location_name":"גולן",
+           "flowers": ["חצב מצוי"],
+           "maps_query_location":"Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "25/08/2024",
+      "observer": null,
+      "original_text": "בנחל הבשור ועוד אחרים , ראו קישור",
+       "locations": [
+        {
+          "location_name": "נחל הבשור",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Nahal HaBesor"
+         }
+        ]
+    },
+    {
+      "date": "25/08/2024",
+      "observer": "אליהו חסון",
+      "original_text": "לאורך כביש 6 באי תנועה ובצידי הדרך מאות חצבים.",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+           "flowers": ["חצב"],
+          "maps_query_location": "Highway 6"
+        }
+      ]
+    },
+    {
+      "date": "25/08/2024",
+      "observer": "שרה גולד",
+      "original_text": "בשמורת נחל תנינים, בהרי ירושלים , המוני חצבים בשמורת אודים, במצפה רמון , ובמקומות היגויעם, גם בגינה שלי ( שרה גולד )",
+      "locations": [
+        {
+          "location_name": "שמורת נחל תנינים",
+           "flowers": ["חצב"],
+          "maps_query_location": "Nahal Taninim Nature Reserve"
+        },
+         {
+          "location_name": "הרי ירושלים",
+           "flowers": ["חצב"],
+          "maps_query_location": "Jerusalem Mountains"
+        },
+         {
+          "location_name":"שמורת אודים",
+           "flowers": ["חצב"],
+           "maps_query_location": "Udim Nature Reserve"
+         },
+        {
+          "location_name": "מצפה רמון",
+           "flowers": ["חצב"],
+          "maps_query_location": "Mitzpe Ramon"
+        }
+      ]
+    },
+      {
+      "date": "24/08/2024",
+      "observer": null,
+       "original_text": "נטופית רפואית, געדת הביצות, גומא הירקון והפפירוס, עוקץ עקרב ביצני, , ועטיינית ארוכה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+           "flowers": ["נטופית רפואית", "געדת הביצות", "גומא הירקון", "פפירוס", "עוקץ עקרב ביצני", "עטיינית ארוכה"],
+          "maps_query_location": "null"
+        }
+       ]
+    },
+    {
+      "date":"13/08/2024",
+      "observer": "אמתי טל אור",
+      "original_text": "בירושלים ביער מיר בין פסגת זאב לנווה יעקב, פורחים במפנה הצפוני במדרונות מתחת לרחוב חיל האוויר ועד מתחת לרחוב המזלות. בעיקר בקו גובה מסוים כעשרים מטר מתחת לכביש. לפחות עשרות רבות של הצמח. הקוץ כולו יבש חוץ מהפרח. בעיניי מרהיב ביופיו בפרט סידור הקוצים.",
+       "locations": [
+         {
+          "location_name": "ירושלים",
+           "flowers": ["קוץ קוצן קיפח"],
+          "maps_query_location":"Jerusalem"
+        },
+        {
+           "location_name": "יער מיר",
+            "flowers": ["קוץ קוצן קיפח"],
+           "maps_query_location": "Ya'ar Mir"
+        },
+        {
+          "location_name": "פסגת זאב",
+           "flowers": ["קוץ קוצן קיפח"],
+          "maps_query_location":"Pisgat Ze'ev"
+        },
+         {
+          "location_name": "נווה יעקב",
+           "flowers": ["קוץ קוצן קיפח"],
+          "maps_query_location": "Neve Ya'akov"
+         }
+       ]
+    },
+     {
+      "date": "12/08/2024",
+      "observer": null,
+       "original_text":"חבצלת החוף,  לפופית החוף , סם-הכלב המזרחי",
+       "locations":[
+         {
+          "location_name": "חוף מעגן מיכאל",
+           "flowers": ["חבצלת החוף", "לפופית החוף", "סם-הכלב המזרחי"],
+           "maps_query_location": "Ma'agan Michael Beach"
+        }
+       ]
+    },
+     {
+      "date": "12/08/2024",
+       "observer": null,
+       "original_text":"ארכובית צמירה, גומא ריחני , חומעה משוננת , לפופית כפנית , עוקץ-עקרב  ריחני",
+      "locations": [
+        {
+           "location_name": "ברכת יער חדרה",
+          "flowers": ["ארכובית צמירה", "גומא ריחני", "חומעה משוננת", "לפופית כפנית", "עוקץ-עקרב ריחני"],
+          "maps_query_location": "Hadera Forest Pool"
+        }
+      ]
+    }
+  ]
+}
+```

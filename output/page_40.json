@@ -1,0 +1,176 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/02/2024",
+      "observer": null,
+      "original_text": "שמשון הדור, איריס טוביה, בוצין שיחני, זהבית דמשקאית ,   \nזמזומית זהרי, זמזומית מושיוף,  כריך הערבות , זמזומית אייג,",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": ["שמשון הדור", "איריס טוביה", "בוצין שיחני", "זהבית דמשקאית", "זמזומית זהרי", "זמזומית מושיוף", "כריך הערבות", "זמזומית אייג"],
+          "maps_query_location": "Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2024",
+      "observer": null,
+      "original_text": "קדד קוטבי, ציפורני-חתול מצויות, זהבית דקת-עלים, חלמית גדולה, כפיות שעירות , לחך סגלגל",
+      "locations": [
+        {
+          "location_name": "נחל עקרב",
+          "flowers": ["קדד קוטבי", "ציפורני-חתול מצויות", "זהבית דקת-עלים", "חלמית גדולה", "כפיות שעירות", "לחך סגלגל"],
+          "maps_query_location": "Nahal Akrab"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2024",
+       "observer": null,
+      "original_text": "מנתור המדבר, מקור-חסידה מפוצל, מררית שסועה, קדד קהירי, מגלית הדרום, לחך שסוע , כתריים אדמדמים, לחך החולות , חומעה מגויידת, קרדת המדבר,  בר-עכנאי שיחני",
+      "locations": [
+        {
+          "location_name": "חולות רביבים",
+           "flowers": ["מנתור המדבר", "מקור-חסידה מפוצל", "מררית שסועה", "קדד קהירי", "מגלית הדרום", "לחך שסוע", "כתריים אדמדמים", "לחך החולות", "חומעה מגויידת", "קרדת המדבר", "בר-עכנאי שיחני"],
+          "maps_query_location": "Holot Revivim"
+        }
+      ]
+    },
+        {
+      "date": "12/02/2024",
+      "observer": "אלגד",
+      "original_text": "פריחה מרשימה של הרבה בן חצב החורש ליד עין אלון בנחל אלון בכרמל",
+      "locations": [
+        {
+           "location_name": "עין אלון",
+           "flowers": ["בן חצב החורש"],
+          "maps_query_location": "Ein Alon"
+        },
+        {
+          "location_name": "נחל אלון",
+          "flowers": ["בן חצב החורש"],
+          "maps_query_location":"Nahal Alon"
+        },
+         {
+          "location_name": "כרמל",
+          "flowers": ["בן חצב החורש"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2024",
+      "observer": "גל מגלי",
+      "original_text": "דבורנית שחומה סיימה\nדבורנית הקטיפה התחלה\nסחלב נקוד התחלה\nבן חצב החורש בשיא - מדהים",
+      "locations": [
+        {
+          "location_name": "עין אלון",
+          "flowers": ["דבורנית שחומה", "דבורנית הקטיפה", "סחלב נקוד", "בן חצב החורש"],
+          "maps_query_location": "Ein Alon"
+        }
+      ]
+    },
+        {
+      "date": "12/02/2024",
+      "observer": "גל מגלי",
+       "original_text": "ביער ניר משה אלפי דבורניות בארי \nבגבעת לילי שרון הפריחה בשיא אבל פחות מרשים משחריה\nבאור הנר הפריחה מלאה",
+      "locations": [
+        {
+          "location_name": "יער ניר משה",
+           "flowers": ["דבורנית"],
+          "maps_query_location": "Nir Moshe Forest"
+         },
+        {
+          "location_name": "בארי",
+           "flowers": ["דבורנית"],
+          "maps_query_location": "Be'eri"
+         },
+          {
+           "location_name": "גבעת לילי שרון",
+           "flowers": [],
+           "maps_query_location": "Givat Lili Sharon"
+          },
+          {
+          "location_name":"אור הנר",
+            "flowers": [],
+             "maps_query_location":"Or HaNer"
+          }
+      ]
+    },
+    {
+      "date": "12/02/2024",
+      "observer": "גל מגלי",
+       "original_text": "סחלב השקיק בסוף\nנוריות בהתחלה\nהצבעונים בהתחלה. כדאי לטייל צמוד לבית הקברות של מעגן מיכאל",
+      "locations": [
+         {
+           "location_name": "מעיין צבי",
+            "flowers": ["סחלב השקיק", "נורית", "צבעוני"],
+           "maps_query_location":"Ma'ayan Tzvi"
+        },
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [],
+            "maps_query_location": "Ma'agan Mikhael"
+         }
+      ]
+    },
+    {
+      "date":"12/02/2024",
+      "observer": "גל מגלי",
+      "original_text": "בדרך נוף תורען הסחלב המצוייר בפריחה חלשה השנה\nבדרך נוף בית קשת פריחת חורף בשיא כולל מקבצי גביעונית.\nהדרך חסומה לנוף הגליל ויש לצאת דרך עין מאהל",
+       "locations": [
+        {
+          "location_name":"תורען",
+           "flowers": ["סחלב מצוייר"],
+            "maps_query_location":"Tor'an"
+        },
+         {
+            "location_name": "בית קשת",
+            "flowers": ["גביעונית"],
+             "maps_query_location":"Beit Keshet"
+          },
+          {
+            "location_name":"נוף הגליל",
+            "flowers":[],
+            "maps_query_location": "Nof HaGalil"
+          },
+          {
+           "location_name":"עין מאהל",
+            "flowers":[],
+             "maps_query_location":"Ein Mahil"
+           }
+      ]
+    },
+    {
+      "date": "11/02/2024",
+      "observer": "arie tennbaum",
+      "original_text": "בחורבת מלח החלה פריחת הנוריות ואירוס צהרון מצוי",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": ["נורית", "אירוס צהרון מצוי"],
+          "maps_query_location": "Horbat Melach"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2024",
+      "observer": "שיר רובינשטיין",
+      "original_text": "פריחה רקפות וכלניות בשוויצריה הקטנה וחי בר כרמל\nמומלץ",
+      "locations": [
+        {
+          "location_name": "שוויצריה הקטנה",
+          "flowers": ["רקפת", "כלנית"],
+          "maps_query_location": "Little Switzerland"
+        },
+         {
+           "location_name": "חי בר כרמל",
+           "flowers": ["רקפת", "כלנית"],
+           "maps_query_location": "Hai Bar Carmel"
+         }
+      ]
+    }
+  ]
+}
+```

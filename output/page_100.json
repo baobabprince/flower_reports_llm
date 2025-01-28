@@ -1,0 +1,208 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/12/2022",
+      "observer": "לאה מאיר",
+      "original_text": "לפני שבוע בביתן אהרון הרבה נרקיסים! לא בהתחלה-צריך ללכת קצת ואז...",
+      "locations": [
+        {
+          "location_name": "ביתן אהרון",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Beitan Aharon"
+        }
+      ]
+    },
+    {
+      "date": "14/12/2022",
+      "observer": "לאה מאיר",
+      "original_text": "שמורת אודים מלאה עם נרקיסים,התחלה של רקפות...",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": [
+            "נרקיס",
+            "רקפת"
+          ],
+          "maps_query_location": "Udim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2022",
+      "observer": null,
+      "original_text": "חניון הרועה\nאטד (לא מזוהה), בן-שלח מנוצה , ישימונית דו-גונית , לחך משונן , לחך סגלגל , מחרוזת משונצת, מלוח מילר, מלעניאל קטן-פרחים,  פילגון מדברי , שלוחית קרחת , לחך סגלגל ולחך משונן \nממשית \nעפעפית רבת-פרחים , פיגמית מגובששת , מרווה צמירה, חבצלת הנגב (פיזור זרעים) , חורשף צהוב , יפרוק המדבר , יפרוק תלת-כנפי \nאנדרטאת הנגב\nסתוונית טוביה , מלחית אשונה , מאירית קיצרת-עלים , מלחית אשונה \nשדה בוקר\nשמשון הנגב ,  אכילאה ריחנית, קזוח עקום, חמד המדבר ,    מרווה מצרית \nלהבים \nחלמונית גדולה",
+      "locations": [
+         {
+          "location_name": "חניון הרועה",
+          "flowers": [
+            "אטד",
+            "בן-שלח מנוצה",
+            "ישימונית דו-גונית",
+             "לחך משונן",
+            "לחך סגלגל",
+            "מחרוזת משונצת",
+            "מלוח מילר",
+            "מלעניאל קטן-פרחים",
+             "פילגון מדברי",
+             "שלוחית קרחת"
+          ],
+          "maps_query_location": "HaRo'e parking"
+        },
+        {
+          "location_name": "ממשית",
+          "flowers": [
+             "עפעפית רבת-פרחים",
+             "פיגמית מגובששת",
+             "מרווה צמירה",
+            "חבצלת הנגב",
+            "חורשף צהוב",
+            "יפרוק המדבר",
+            "יפרוק תלת-כנפי"
+          ],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "אנדרטאת הנגב",
+             "flowers": [
+            "סתוונית טוביה",
+            "מלחית אשונה",
+            "מאירית קיצרת-עלים"
+          ],
+          "maps_query_location": "Negev Brigade Memorial"
+        },
+         {
+          "location_name": "שדה בוקר",
+            "flowers": [
+            "שמשון הנגב",
+            "אכילאה ריחנית",
+            "קזוח עקום",
+            "חמד המדבר",
+             "מרווה מצרית"
+           ],
+          "maps_query_location": "Sde Boker"
+        },
+         {
+          "location_name": "להבים",
+            "flowers": [
+            "חלמונית גדולה"
+             ],
+          "maps_query_location": "Lahavim"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2022",
+       "observer": "דוד",
+      "original_text": "נרקיסים ביער צרעה",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Tzora Forest"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2022",
+      "observer": "דוד",
+      "original_text": "פריחת רקםות בשפע ביער הקדושים ובנוסף  כרכומים",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+          "flowers": [
+            "רקפת",
+            "כרכום"
+          ],
+          "maps_query_location": "Forest of the Martyrs"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2022",
+      "observer": null,
+      "original_text": "בהר תבור... שם הן תמיד פורחות מאוחר",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+              "חלמונית"
+           ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2022",
+      "observer": "אסנת רוזנברג",
+       "original_text": "שפע של נרקיסים , כרכומים, קחוונים רקפות ואפילו מעט אירוסים",
+      "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+          "flowers": [
+            "נרקיס",
+            "כרכום",
+            "קחוון",
+            "רקפת",
+             "אירוס"
+          ],
+           "maps_query_location": "Mitzok HaArba'im"
+        }
+      ]
+    },
+     {
+      "date": "10/12/2022",
+      "observer": null,
+      "original_text": "פורחות כמו בכל שנה עכשיו בפארק הנופלים בבאר-שבע. ראו קישור",
+       "locations": [
+        {
+          "location_name": "פארק הנופלים בבאר-שבע",
+          "flowers": [
+            "סתוונית טוביה"
+           ],
+            "maps_query_location": "Fallen Soldiers Park, Beersheba"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2022",
+      "observer": null,
+      "original_text": "כרכום פורח ליד כלוב הנשרים ברמת הנדיב",
+      "locations": [
+        {
+           "location_name": "רמת הנדיב",
+          "flowers": [
+            "כרכום"
+          ],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "09/12/2022",
+      "observer": "עידו מגן",
+      "original_text": "בשמורת רכס הכורכר שליד מושב אודים פורחים מאות נרקיסים, אבל כדאי למהר כי הם כבר אחרי השיא. יש לכתוב בוייז הכלנית 19 אודים.",
+      "locations": [
+        {
+          "location_name": "שמורת רכס הכורכר",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Kurkar Ridge Nature Reserve"
+        },
+          {
+          "location_name": "אודים",
+          "flowers": [
+            "נרקיס"
+          ],
+           "maps_query_location": "Udim"
+        }
+      ]
+    }
+  ]
+}
+```

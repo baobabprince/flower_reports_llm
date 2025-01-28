@@ -1,0 +1,256 @@
+```json
+{
+  "reports": [
+    {
+      "date": "05/02/2024",
+      "observer": null,
+      "original_text": "פריחות בנחל חבר:   \nקדד סיבר,   אבוטילון השיח  \nפריחות בייטב\nיקינתונית מעורקת,  ישימונית דו-גונית",
+      "locations": [
+        {
+          "location_name": "נחל חבר",
+          "flowers": [
+            "קדד סיבר",
+            "אבוטילון השיח"
+           ],
+          "maps_query_location": "Nahal Hever"
+        },
+        {
+          "location_name": "ייטב",
+           "flowers": [
+            "יקינתונית מעורקת",
+            "ישימונית דו-גונית"
+           ],
+          "maps_query_location": "Yitav"
+        }
+      ]
+    },
+    {
+      "date": "05/02/2024",
+      "observer": null,
+      "original_text": "פוקה קוצנית,  ששן מאפיר, אפרורית מצויה ,  בבונג זהוב, זקנונית הטבעות, חלבלוב הכדורים, ילקוטון שרוע - מטע תמרים",
+      "locations": [
+          {
+            "location_name": "נערן",
+            "flowers": [
+              "פוקה קוצנית",
+              "ששן מאפיר",
+              "אפרורית מצויה",
+              "בבונג זהוב",
+              "זקנונית הטבעות",
+              "חלבלוב הכדורים",
+              "ילקוטון שרוע"
+             ],
+            "maps_query_location": "Na'aran"
+          }
+      ]
+    },
+        {
+      "date": "05/02/2024",
+       "observer": null,
+      "original_text": "סולנום החדק,   סולנום פראי, סנא מדברי , עליעב חלוד, פרעושית טיונית , צלף רותמי , אבוטילון קהה, מורינגה רותמית",
+      "locations": [
+        {
+          "location_name": "עין גדי",
+            "flowers": [
+              "סולנום החדק",
+              "סולנום פראי",
+              "סנא מדברי",
+              "עליעב חלוד",
+              "פרעושית טיונית",
+              "צלף רותמי",
+             "אבוטילון קהה",
+             "מורינגה רותמית"
+            ],
+          "maps_query_location": "Ein Gedi"
+        },
+         {
+          "location_name": "נחל ערוגות",
+            "flowers": [
+              "סולנום החדק",
+              "סולנום פראי",
+              "סנא מדברי",
+              "עליעב חלוד",
+              "פרעושית טיונית",
+              "צלף רותמי",
+             "אבוטילון קהה",
+             "מורינגה רותמית"
+            ],
+          "maps_query_location": "Nahal Arugot"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2024",
+      "observer": null,
+      "original_text": "פריחות בחירבת מזין :\n\nמנתור המדבר, עוקץ-עקרב ים-המלח , פשתנית ססגונית , קחוון ים-המלח , רכפת ים-המלח , בן-דוחן מדברי, חיעד קנרי, דו-קרן מדברית \n\nבעליה למצוקי-דרגות:\n\nכוכב ריחני, כשות שטוח-פרחים, אצבוע ים-המלח, אבוטילון השיח, שושנת-יריחו אמיתית, פרעושית גלונית , פריינית קרחת \n\nצומת קומראן :\n\nחומעה ורודה,  חפורית קטנה, פגוניה רכה, עוקצר מצוי , מררית דמשקאית ,  מנתור מחוספס, מלוח ספוגי",
+      "locations": [
+        {
+          "location_name": "חירבת מזין",
+          "flowers": [
+            "מנתור המדבר",
+            "עוקץ-עקרב ים-המלח",
+             "פשתנית ססגונית",
+            "קחוון ים-המלח",
+             "רכפת ים-המלח",
+            "בן-דוחן מדברי",
+             "חיעד קנרי",
+             "דו-קרן מדברית"
+          ],
+          "maps_query_location": "Khirbet Mazin"
+        },
+        {
+          "location_name": "מצוקי דרגות",
+          "flowers": [
+            "כוכב ריחני",
+             "כשות שטוח-פרחים",
+            "אצבוע ים-המלח",
+             "אבוטילון השיח",
+             "שושנת-יריחו אמיתית",
+            "פרעושית גלונית",
+             "פריינית קרחת"
+          ],
+          "maps_query_location": "Metzukei Dragot"
+        },
+          {
+          "location_name": "צומת קומראן",
+          "flowers": [
+              "חומעה ורודה",
+              "חפורית קטנה",
+              "פגוניה רכה",
+              "עוקצר מצוי",
+               "מררית דמשקאית",
+              "מנתור מחוספס",
+               "מלוח ספוגי"
+          ],
+          "maps_query_location": "Qumran Junction"
+        }
+      ]
+    },
+        {
+      "date": "04/02/2024",
+      "observer": "אמיר אורבך",
+        "original_text": "באזור חורבת רקית",
+       "locations": [
+          {
+             "location_name": "חורבת רקית",
+             "flowers": [
+               "דבורנית הקטיפה"
+               ],
+            "maps_query_location": "Horbat Rakit"
+          }
+        ]
+    },
+    {
+      "date": "03/02/2024",
+      "observer": "עידו מגן",
+      "original_text": "מרבדי כלניות ורקפות בתל כסלון ובעין ירד שליד תל גזר. בתל בית שמש כלניות בלבד. שקדיות בודדות בתחילת פריחה בתל כסלון, עין ירד ולאורך כבישי הרי ירושלים.",
+      "locations": [
+        {
+          "location_name": "תל כסלון",
+          "flowers": [
+            "כלנית",
+            "רקפת",
+             "שקד"
+           ],
+          "maps_query_location": "Tel Ksalon"
+        },
+        {
+          "location_name": "עין ירד",
+           "flowers": [
+              "כלנית",
+            "רקפת",
+              "שקד"
+             ],
+          "maps_query_location": "Ein Yered"
+        },
+                {
+          "location_name": "תל בית שמש",
+           "flowers": [
+              "כלנית"
+           ],
+          "maps_query_location": "Tel Beit Shemesh"
+        },
+        {
+         "location_name":"הרי ירושלים",
+         "flowers": [
+           "שקד"
+          ],
+          "maps_query_location": "Jerusalem Mountains"
+          }
+      ]
+    },
+      {
+      "date": "03/02/2024",
+      "observer": null,
+        "original_text": "ביער המלאכים",
+      "locations": [
+        {
+          "location_name": "יער המלאכים",
+          "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Ya'ar HaMalakhim"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2024",
+      "observer": null,
+      "original_text":"באחו נב",
+      "locations": [
+        {
+          "location_name": "אחו נב",
+           "flowers": [
+            "איריס הביצות"
+          ],
+          "maps_query_location": "Ahu Nav"
+        }
+      ]
+    },
+        {
+      "date": "03/02/2024",
+      "observer": null,
+      "original_text": "איריס הלבנון והרבה רקפות יווניות",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": [
+             "איריס הלבנון",
+             "רקפת יוונית"
+             ],
+          "maps_query_location": "Tel Hazeka"
+        },
+         {
+          "location_name":"רמת הגולן",
+          "flowers": [
+            "איריס הלבנון",
+             "רקפת יוונית"
+          ],
+          "maps_query_location":"Golan Heights"
+          }
+      ]
+    },
+     {
+      "date": "03/02/2024",
+      "observer": "אריה",
+      "original_text": "תורמוס ראשון לעונה, ליד הישוב רקפת בשביל היוממות משגב",
+      "locations": [
+          {
+            "location_name": "רקפת",
+            "flowers": [
+                "תורמוס ההרים"
+            ],
+              "maps_query_location": "Rakefet"
+           },
+          {
+            "location_name":"משגב",
+            "flowers": [
+              "תורמוס ההרים"
+            ],
+            "maps_query_location":"Misgav"
+          }
+      ]
+    }
+  ]
+}
+```

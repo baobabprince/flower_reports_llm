@@ -1,0 +1,139 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/07/2016",
+      "observer": null,
+      "original_text": "בכנס מקרוסקופיה שנערך במאי 2016 הוצגו תצלומי גרגרי האבקה (ראו קישור ) שתוף פעולה של אתר צמח השדה והאגודה הישראלית למקרוסקופיה.",
+      "locations": []
+    },
+    {
+      "date": "13/07/2016",
+      "observer": "אריאל חיים רועה",
+      "original_text": "מרבד מרהיב ביותר של קנרס סורי בשמורת אירוס הביצות ליד הישוב נוב בגולן",
+      "locations": [
+        {
+          "location_name": "שמורת אירוס הביצות",
+          "flowers": ["קנרס סורי"],
+           "maps_query_location": "Iris ha-Bitzot Nature Reserve"
+        },
+        {
+          "location_name": "נוב",
+          "flowers": ["קנרס סורי"],
+          "maps_query_location": "Nov"
+        },
+         {
+          "location_name": "גולן",
+          "flowers": ["קנרס סורי"],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "08/07/2016",
+      "observer": null,
+      "original_text": "בעתלית כבר פורח חצב מצוי",
+      "locations": [
+        {
+          "location_name": "עתלית",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "08/07/2016",
+      "observer": null,
+      "original_text": "מאות רבות של פרטי ברגיה אמנית פורחים בגדות השלולית. בנוסף פורחים גם עטיינית מגובבת,נענת הכדורים, ונהרונית כלשהי",
+        "locations": [
+        {
+          "location_name": "שלולית לוינסקי",
+          "flowers": ["ברגיה אמנית", "עטיינית מגובבת", "נענת הכדורים", "נהרונית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "07/07/2016",
+      "observer": null,
+      "original_text": "זוגן לבן (אחרי פריחה), לפופית החיצים וסם כלב מזרחי בשיא פריחה בחוף הכרמל. תודה לנועם עביצל ולזלמן באומוול על ההכוונה,",
+       "locations": [
+        {
+          "location_name": "חוף הכרמל",
+          "flowers": ["זוגן לבן", "לפופית החיצים", "סם כלב מזרחי"],
+          "maps_query_location": "Hof HaCarmel"
+        }
+      ]
+    },
+    {
+      "date": "05/07/2016",
+      "observer": null,
+      "original_text": "זוגן לבן אחרי פריחה, סם כלב מזרחי ולפופית החיצים בשיא פריחה נצפו בחוף הכרמל. תודה לנועם עביצל ולזלמן באומוול על ההכוונה",
+        "locations": [
+        {
+          "location_name": "חוף הכרמל",
+          "flowers": ["זוגן לבן", "סם כלב מזרחי", "לפופית החיצים"],
+          "maps_query_location": "Hof HaCarmel"
+        }
+      ]
+    },
+     {
+      "date": "04/07/2016",
+      "observer": "רון חרמוני",
+        "original_text": "לאורך אמות המים ונחל תנינים: הגה מצויה, קורטם דק, יריקת החמור, לכיד נחלים, סולנום זיתני.\n\nעל חוף קיסריה: חלבלוב הים, ציפורנית בשרנית.",
+      "locations": [
+        {
+          "location_name": "נחל תנינים",
+          "flowers": ["הגה מצויה", "קורטם דק", "יריקת החמור", "לכיד נחלים", "סולנום זיתני"],
+          "maps_query_location": "Nahal Taninim"
+        },
+           {
+          "location_name":"חוף קיסריה",
+          "flowers": ["חלבלוב הים", "ציפורנית בשרנית"],
+           "maps_query_location": "Caesarea beach"
+        }
+      ]
+    },
+    {
+      "date": "03/07/2016",
+       "observer": null,
+      "original_text": "כל הפרטים בקישור",
+      "locations": []
+    },
+    {
+      "date": "02/07/2016",
+      "observer": "שאולי בקרמן, דרור מלמד, דרור קפוטא, ואנוכי",
+      "original_text": "ורד צידוני בסוף פריחה בנוחיילה, ואגרופירון מחוספס בסוף פריחה בלוע הר אביטל. השתתפו : שאולי בקרמן, דרור מלמד, דרור קפוטא, ואנוכי",
+      "locations": [
+        {
+          "location_name": "נוחיילה",
+          "flowers": ["ורד צידוני"],
+          "maps_query_location": null
+         },
+        {
+          "location_name": "הר אביטל",
+          "flowers": ["אגרופירון מחוספס"],
+           "maps_query_location": "Mount Avital"
+        }
+      ]
+    },
+    {
+      "date": "01/07/2016",
+      "observer": "רון חרמוני",
+      "original_text": "קיצנית כרתית\nצתרה ורודה\nחרחבינה חרמשית\nאשבל ארצישראלי\nצורית גבוהה",
+      "locations": [
+        {
+          "location_name": "יער עופר",
+           "flowers": ["קיצנית כרתית", "צתרה ורודה", "חרחבינה חרמשית", "אשבל ארצישראלי", "צורית גבוהה"],
+           "maps_query_location": "Ofer Forest"
+        },
+         {
+          "location_name": "גבעת שלוחית",
+           "flowers": ["קיצנית כרתית", "צתרה ורודה", "חרחבינה חרמשית", "אשבל ארצישראלי", "צורית גבוהה"],
+           "maps_query_location": "Givat Shluhit"
+        }
+      ]
+    }
+  ]
+}
+```

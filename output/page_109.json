@@ -1,0 +1,223 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/10/2022",
+      "observer": null,
+      "original_text": "כרכום תהבהב, סתוונית ירושלים ס. בכירה ועוד ועוד",
+      "locations": [
+        {
+          "location_name": "מערכת פער",
+          "flowers": [
+            "כרכום תהבהב",
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "null"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2022",
+      "observer": "תמר",
+      "original_text": "רקפות סתוויות, סתווניות בן חצב סתווני ואפילו נרקיס ליד החניה של חרבת חנות",
+      "locations": [
+        {
+          "location_name": "חרבת חנות",
+           "flowers": [
+            "רקפת מצויה",
+             "סתוונית",
+             "בן חצב סתווני",
+            "נרקיס"
+          ],
+          "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2022",
+      "observer": null,
+      "original_text": "פריחה שופעת מחייב לנסוע ברכב שטח, ראו אלבום",
+      "locations": [
+        {
+          "location_name": "נחל אלות",
+          "flowers": [
+            "חלמונית"
+          ],
+            "maps_query_location": "Nahal Elot"
+        }
+      ]
+    },
+     {
+      "date": "28/10/2022",
+      "observer": null,
+       "original_text": "פורחות גם ביער ביריה, בגולן בחרמון ,  נחל קטלב , ברכס בוקר ויער להב",
+      "locations": [
+          {
+            "location_name": "יער ביריה",
+             "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location": "Biriya Forest"
+          },
+          {
+            "location_name": "גולן",
+             "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location": "Golan Heights"
+          },
+          {
+           "location_name": "חרמון",
+            "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location":"Mount Hermon"
+          },
+          {
+             "location_name": "נחל קטלב",
+             "flowers": [
+              "חלמונית"
+            ],
+             "maps_query_location": "Nahal Katlav"
+          },
+         {
+            "location_name": "רכס בוקר",
+            "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location": "Har Boker"
+          },
+          {
+            "location_name": "יער להב",
+             "flowers": [
+              "חלמונית"
+            ],
+            "maps_query_location": "Lahav Forest"
+          }
+        ]
+    },
+     {
+      "date": "28/10/2022",
+      "observer": null,
+      "original_text": "בשביל הכחול מעל הנחל , קצת לפני הצינור שחוצה את הנחל \nפורחות שם חלמוניות וסתווניות התשבץ .",
+       "locations": [
+        {
+           "location_name": "נחל קטלב",
+           "flowers": [
+            "חלמונית",
+             "סתוונית התשבץ"
+            ],
+           "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2022",
+      "observer": null,
+      "original_text": "של סתוונית היורה - תחילת פריחה",
+      "locations": [
+        {
+           "location_name": "חרבת חנות",
+           "flowers": [
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Khirbet Hanut"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2022",
+       "observer": "דורית גלילי",
+      "original_text": "יש פריחה של כמה עשרות חלמוניות גדולות.",
+        "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": [
+            "חלמונית"
+            ],
+          "maps_query_location":"Lahav Forest"
+          }
+        ]
+    },
+   {
+      "date": "27/10/2022",
+       "observer": "אילת בר",
+      "original_text": "עשרות חלמוניות החלו לפרוח ביער להב בשמורה",
+       "locations": [
+         {
+          "location_name": "יער להב",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lahav Forest"
+          }
+        ]
+    },
+   {
+      "date": "26/10/2022",
+      "observer": "חזי ליברמן",
+      "original_text": "סתוונית היורה הראשונה בהחלט. גבעת התנ\"ך, ירושלים, 26.10.22. בנוסף, על כל צעד ושעל - בן חצב סתווני.",
+      "locations": [
+          {
+            "location_name": "גבעת התנ\"ך",
+             "flowers": [
+               "סתוונית היורה",
+               "בן חצב סתווני"
+             ],
+             "maps_query_location": "Givat HaTanakh"
+          },
+           {
+            "location_name": "ירושלים",
+             "flowers": [
+               "סתוונית היורה",
+               "בן חצב סתווני"
+             ],
+             "maps_query_location": "Jerusalem"
+          }
+        ]
+    },
+    {
+      "date": "24/10/2022",
+      "observer": null,
+      "original_text": "וגם ליד אגם ירוחם , ביער ביריה, בחרמון  ובגולן",
+      "locations": [
+        {
+            "location_name":"הר בוקר",
+            "flowers": [
+              "חלמונית"
+            ],
+             "maps_query_location": "Har Boker"
+        },
+         {
+            "location_name": "אגם ירוחם",
+            "flowers": [
+               "חלמונית"
+             ],
+            "maps_query_location": "Yeruham Lake"
+        },
+        {
+          "location_name": "יער ביריה",
+           "flowers": [
+              "חלמונית"
+            ],
+          "maps_query_location": "Biriya Forest"
+        },
+        {
+          "location_name": "חרמון",
+           "flowers": [
+              "חלמונית"
+            ],
+          "maps_query_location": "Mount Hermon"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": [
+              "חלמונית"
+            ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    }
+  ]
+}
+```

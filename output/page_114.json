@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/09/2022",
+      "observer": "עידית פוזנר",
+      "original_text": "גבעת התנ״ך פורחת עם מאות חצבים צופה להר ציון בנוף מרהיב",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": ["חצב מצוי"],
+            "maps_query_location": "Givat HaTanakh"
+        },
+         {
+          "location_name": "הר ציון",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Mount Zion"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2022",
+      "observer": "עמיר פז",
+      "original_text": "חצב מצוי, חבצלת החוף, עוקץ עקרב ביצני, אולדנית הכף, ושרוכנית א\"י פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["חצב מצוי", "חבצלת החוף", "עוקץ עקרב ביצני", "אולדנית הכף", "שרוכנית א\"י"],
+           "maps_query_location": "Gan Miklat Sharoni"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2022",
+      "observer": null,
+      "original_text": "בור חמת: \nאכילאה ריחנית, ציפורן סיני, סיתוונית הקליפות, \nפארק הבשור\nחצב גלוני, \nאנדרטאת הנגב\nמאירית קצרת עלים",
+      "locations": [
+        {
+          "location_name": "בור חמת",
+          "flowers": ["אכילאה ריחנית", "ציפורן סיני", "סיתוונית הקליפות"],
+           "maps_query_location": "Bor Hamat"
+        },
+        {
+          "location_name": "פארק הבשור",
+          "flowers": ["חצב גלוני"],
+            "maps_query_location": "Eshkol National Park"
+        },
+         {
+          "location_name": "אנדרטאת הנגב",
+          "flowers": ["מאירית קצרת עלים"],
+           "maps_query_location": "Negev Monument"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2022",
+       "observer": "אילת בר",
+      "original_text": "החלה לפרוח ביער כפר גליקסון קרוב לסינגל",
+      "locations": [
+        {
+          "location_name": "יער כפר גליקסון",
+          "flowers": ["בת חבצלת קטנת פרחים"],
+            "maps_query_location": "Kfar Glikson Forest"
+        }
+      ]
+    },
+     {
+      "date": "11/09/2022",
+      "observer": "אריה סעדה",
+       "original_text": "ליד נחל שושן (נחל הטחנות) - קריית שמונה",
+       "locations": [
+         {
+           "location_name": "נחל שושן",
+           "flowers": ["אשבל ארך-שיבולת"],
+            "maps_query_location": "Nahal Shoshan"
+        },
+         {
+           "location_name": "קריית שמונה",
+           "flowers": ["אשבל ארך-שיבולת"],
+            "maps_query_location": "Kiryat Shmona"
+        }
+      ]
+    },
+    {
+      "date": "11/09/2022",
+      "observer": null,
+      "original_text": "כבר פורחת בגבעות הכורכר נס-ציונה, בתל  חדיד , דווחו לנו על פריחות",
+      "locations": [
+        {
+          "location_name": "גבעות הכורכר נס-ציונה",
+          "flowers": ["בת חבצלת קטנת פרחים"],
+           "maps_query_location": "Nes Ziona"
+        },
+          {
+          "location_name": "תל חדיד",
+          "flowers": ["בת חבצלת קטנת פרחים"],
+             "maps_query_location":"Tel Hadid"
+        }
+      ]
+    },
+        {
+      "date": "11/09/2022",
+      "observer": null,
+      "original_text": "רוני בראונר קפץ לשמורת הטבע הר הנגב וצילם שם, ראו את האלבום בקישור למטה",
+      "locations": [
+        {
+          "location_name": "שמורת הטבע הר הנגב",
+            "flowers": [],
+            "maps_query_location":"Har Hanegev Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date":"11/09/2022",
+      "observer": null,
+      "original_text": "לירושלמים: בבית הנסן ובגבעת התנ\"ך , בתל ידפת וראו עוד בקישור שלמטה...",
+       "locations": [
+        {
+          "location_name": "בית הנסן",
+           "flowers": ["חצב מצוי"],
+            "maps_query_location": "Beit Hansen"
+        },
+         {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": ["חצב מצוי"],
+           "maps_query_location": "Givat HaTanakh"
+        },
+          {
+          "location_name": "תל ידפת",
+           "flowers": ["חצב מצוי"],
+             "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2022",
+      "observer": "אילת בר-חן",
+      "original_text": "הפריחה החלה. בשבוע הבא יהיו יותר פריחןת לדעתי. החבצלות ליד החוץ כבר שם",
+      "locations": [
+        {
+          "location_name": "חרבת קדיתא",
+           "flowers": ["חצב מצוי", "חבצלת"],
+            "maps_query_location": "Hurvat Kadita"
+        }
+      ]
+    },
+        {
+      "date": "08/09/2022",
+       "observer": "נוגן צברי",
+       "original_text":"נוגן צברי מחבל הבשור להר הנגב בעקבות מבשרי הסתיו-7.9.2022‏.",
+       "locations":[
+        {
+           "location_name": "חבל הבשור",
+           "flowers": [],
+            "maps_query_location": "Havel HaBsor"
+        },
+           {
+           "location_name": "הר הנגב",
+             "flowers": [],
+             "maps_query_location":"Har Hanegev"
+           }
+        ]
+      }
+  ]
+}
+```

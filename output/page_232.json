@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/10/2020",
+      "observer": null,
+      "original_text": "בשכונת גילוה, במפגש רחובות רוזמרין דוגא במטע הזיתים",
+      "locations": [
+        {
+          "location_name": "גילה",
+           "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Gilo"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2020",
+      "observer": null,
+      "original_text": "חרחבינה חרמונית, כרכום החרמון,   כרכום נאה,   מררית סמורה,  סתוונית התשבץ  סתווניתיים  מאגר-בנטל,  עוזרר קוצני  ורדיים  הר-שקד,  ציפורן הלבנון  ציפורניים (בפיזור זרעים)  שזיף הדוב,  שזיף הדוב  - פרי ,שלמון כוכבני",
+      "locations": [
+        {
+          "location_name": "חרמון",
+            "flowers": [
+              "חרחבינה חרמונית",
+              "כרכום החרמון",
+               "כרכום נאה",
+              "מררית סמורה",
+              "סתוונית התשבץ",
+              "סתווניתיים",
+              "עוזרר קוצני",
+               "ורדיים",
+               "ציפורן הלבנון",
+               "ציפורניים",
+               "שזיף הדוב",
+               "שלמון כוכבני"
+             ],
+          "maps_query_location": "Mount Hermon"
+        },
+         {
+          "location_name": "מאגר בנטל",
+          "flowers": [
+              "חרחבינה חרמונית",
+              "כרכום החרמון",
+               "כרכום נאה",
+              "מררית סמורה",
+              "סתוונית התשבץ",
+              "סתווניתיים",
+              "עוזרר קוצני",
+               "ורדיים",
+               "ציפורן הלבנון",
+               "ציפורניים",
+               "שזיף הדוב",
+               "שלמון כוכבני"
+             ],
+          "maps_query_location": "Bental Reservoir"
+        },
+         {
+          "location_name": "הר שקד",
+          "flowers": [
+              "חרחבינה חרמונית",
+              "כרכום החרמון",
+               "כרכום נאה",
+              "מררית סמורה",
+              "סתוונית התשבץ",
+              "סתווניתיים",
+              "עוזרר קוצני",
+               "ורדיים",
+               "ציפורן הלבנון",
+               "ציפורניים",
+               "שזיף הדוב",
+               "שלמון כוכבני"
+             ],
+          "maps_query_location": "Har Shaked"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2020",
+      "observer": null,
+       "original_text": "בגן של עתי יופה בנתיב הל\"ה",
+      "locations": [
+        {
+          "location_name": "נתיב הל\"ה",
+          "flowers": ["חלמונית זעירה"],
+          "maps_query_location": "Netiv HaLamed-He"
+        }
+      ]
+    },
+     {
+      "date": "29/10/2020",
+      "observer": null,
+       "original_text": "ראו קישור למטה",
+      "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": [],
+          "maps_query_location": "Khirbet Melah"
+        }
+      ]
+    },
+    {
+      "date": "29/10/2020",
+      "observer": null,
+       "original_text": "ראו בקישור שלמטה את מועדי הפריחה של החלמוניות באתרים השונים",
+        "locations": []
+    },
+    {
+      "date": "29/10/2020",
+      "observer": null,
+        "original_text": "חלמוניות בשיא וסיתווניות תשבץ גם בשיא (מעודכן ליו רביעי ה 28 בנובמבר )",
+       "locations": [
+        {
+           "location_name": "רכס חזקה",
+            "flowers": [
+              "חלמונית",
+              "סתוונית התשבץ"
+             ],
+          "maps_query_location": "Hezeka Ridge"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2020",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד'",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "28/10/2020",
+      "observer": "מיקי גורן",
+       "original_text": "פריחה מדהימה, של חבצלת הנגב על כל השטח משני צידי כביש הגישה לגן לאומי ממשית.  פריחה יפה של חלמונית גדולה בשמורת החלמוניות ירוחם. ללכת עם השביל הכחול עד השלט של החלמוניות ולטפס על הסלעים מעליו.",
+      "locations": [
+         {
+          "location_name": "ממשית",
+           "flowers": [
+              "חבצלת הנגב"
+            ],
+          "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "ירוחם",
+            "flowers": [
+              "חלמונית גדולה"
+            ],
+          "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+    {
+     "date": "28/10/2020",
+      "observer": "שלום סטרטן",
+       "original_text":"באתר החלמוניות בחורבת אבו חוף ביער להב אין אף חלמונית כרגע",
+      "locations": [
+          {
+          "location_name": "חורבת אבו חוף",
+            "flowers": ["חלמונית"],
+             "maps_query_location": "Khurvat Abu Hof"
+        },
+         {
+          "location_name": "יער להב",
+            "flowers": ["חלמונית"],
+             "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date":"28/10/2020",
+      "observer": "שלום סטרטן",
+      "original_text":"באתר החלמוניות ביעיר יתיר אין כעת אף חלמונית",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    }
+  ]
+}
+```

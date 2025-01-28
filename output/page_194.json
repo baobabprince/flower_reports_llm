@@ -1,0 +1,216 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/03/2021",
+      "observer": "אילנה סיגד",
+      "original_text": "הייתי ב16.3.21 בשיך מרזוק. לא זו בלבד שאין אף פרח, אלא אין אף ניצן. בצומת המפלים ראיתי 2 זוגות אירוסים.",
+      "locations": [
+        {
+          "location_name": "שיך מרזוק",
+          "flowers": ["אירוס"],
+           "maps_query_location": "Sheikh Marzuk"
+        },
+         {
+          "location_name": "צומת המפלים",
+          "flowers": ["אירוס"],
+           "maps_query_location": "Zomet HaMefalim"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2021",
+      "observer": "רמי לנר",
+      "original_text": "פרגת ארם צובא במורדות הדרומיים של הגולן לכיוון חמת גדר",
+      "locations": [
+        {
+          "location_name": "ארם צובא",
+           "flowers": ["פרגת ארם צובא"],
+           "maps_query_location": "Aram Tzova"
+        },
+         {
+           "location_name": "גולן",
+            "flowers": ["פרגת ארם צובא"],
+            "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name": "חמת גדר",
+           "flowers": ["פרגת ארם צובא"],
+           "maps_query_location": "Hamat Gader"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2021",
+       "observer": null,
+      "original_text": "איריס הגולן: צומת המפלים, מצפה אופיר ועל קבר שייך אבו מרזוק בגולן איריס שחום תל ערד ליד אנדרטת הנגב איריס נצרתי ליד נצרת המקומות הידועים ובהר יונה",
+      "locations": [
+         {
+          "location_name": "צומת המפלים",
+           "flowers": ["איריס הגולן"],
+           "maps_query_location": "Zomet HaMefalim"
+        },
+        {
+          "location_name": "מצפה אופיר",
+           "flowers": ["איריס הגולן"],
+           "maps_query_location": "Mitzpe Ofir"
+        },
+        {
+          "location_name": "גולן",
+          "flowers": ["איריס הגולן"],
+          "maps_query_location": "Golan Heights"
+        },
+        {
+           "location_name": "תל ערד",
+            "flowers": ["איריס שחום"],
+            "maps_query_location": "Tel Arad"
+        },
+        {
+          "location_name": "אנדרטת הנגב",
+           "flowers": ["איריס שחום"],
+           "maps_query_location": "Negev Monument"
+         },
+         {
+           "location_name": "נצרת",
+           "flowers": ["איריס נצרתי"],
+            "maps_query_location": "Nazareth"
+         },
+         {
+           "location_name": "הר יונה",
+           "flowers": ["איריס נצרתי"],
+            "maps_query_location": "Har Yona"
+         }
+      ]
+    },
+    {
+      "date": "18/03/2021",
+       "observer": null,
+      "original_text": "בעין עליה ליד עפרה",
+       "locations": [
+        {
+          "location_name": "עין עליה",
+          "flowers": ["מרווה כחולה"],
+           "maps_query_location":"Ein Aliya"
+        },
+        {
+            "location_name":"עפרה",
+            "flowers":["מרווה כחולה"],
+            "maps_query_location": "Ofra"
+        }
+      ]
+    },
+    {
+      "date": "18/03/2021",
+      "observer": "שמעון צור",
+        "original_text": "2 אתרים בהם צילמתי ב 15/3/21 מספר מקבצים יפים של אירוס החרמון. בצומת המפלים ברמת הגולן וכן במצפה אופיר",
+         "locations": [
+        {
+            "location_name": "צומת המפלים",
+            "flowers": ["אירוס החרמון"],
+            "maps_query_location":"Zomet HaMefalim"
+          },
+           {
+            "location_name": "רמת הגולן",
+            "flowers": ["אירוס החרמון"],
+             "maps_query_location": "Golan Heights"
+          },
+          {
+           "location_name": "מצפה אופיר",
+            "flowers": ["אירוס החרמון"],
+             "maps_query_location": "Mitzpe Ofir"
+           }
+        ]
+    },
+    {
+      "date": "18/03/2021",
+      "observer": "עמיר פז",
+      "original_text": "כריך שעיר, חלבלוב שעיר וקטן פרי פורחים בגן",
+       "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["כריך שעיר", "חלבלוב שעיר", "חלבלוב קטן פרי"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "17/03/2021",
+      "observer": null,
+      "original_text": "שום תל אביב,  תגית מצויה, תלתן הארגמן, תלתן דו גוני , תלתן פלישתי, ציפורנית אי, קחוון החוף, קחוון פלישתי , בן חצה יקינתוני, מרבדי פרגים עוד עשרטת מינים ",
+     "locations": [
+        {
+          "location_name": "אחו הפורח באריעקב",
+          "flowers": ["שום תל אביב", "תגית מצויה", "תלתן הארגמן", "תלתן דו גוני", "תלתן פלישתי", "ציפורנית אי", "קחוון החוף", "קחוון פלישתי", "בן חצה יקינתוני", "פרג"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "17/03/2021",
+      "observer": "שושנה פולטין",
+       "original_text": "תורמוס צהוב, תורמוס ארץ ישראלי, בן חצב יקינטוני, כלך מצוי, לוטם שעיר ולוטם מרווני, קידה שעירה, אזוביון דגול, תלתן דו גוני וארגמני, ציפורנית ארץ ישראלית, בקיה שעירה",
+      "locations": [
+        {
+          "location_name": "בריכת חורף לב השרון",
+          "flowers": ["תורמוס צהוב", "תורמוס ארץ ישראלי", "בן חצב יקינטוני", "כלך מצוי", "לוטם שעיר", "לוטם מרווני", "קידה שעירה", "אזוביון דגול", "תלתן דו גוני", "תלתן ארגמני", "ציפורנית ארץ ישראלית", "בקיה שעירה"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "16/03/2021",
+      "observer": null,
+       "original_text": "צהרון מצוי, צבעוני הנגב, איריס שחום, זהבית,",
+       "locations": [
+        {
+          "location_name": "אנדרטאת הנגב",
+           "flowers": ["צהרון מצוי", "צבעוני הנגב", "איריס שחום", "זהבית"],
+           "maps_query_location": "Negev Monument"
+        },
+         {
+          "location_name": "באר שבע",
+           "flowers": ["צהרון מצוי", "צבעוני הנגב", "איריס שחום", "זהבית"],
+            "maps_query_location": "Beersheba"
+        }
+      ]
+    },
+    {
+      "date":"16/03/2021",
+      "observer": null,
+      "original_text": "נחל תקוע: אביבית בינונית , אספסת החבית , ברומית הגגות, ברוניקה לבנה , גלעינית זעירת-פרחים , דבורנית צהובה , כרבה ספרדית , חבלבל סיצילי , חבלבל המשי, זמזומית ורבורג , זהבית השלוחות , דנדנה רפואית תל ערד ותל קריות : אכיליאה ערבתית, גביעונית הלבנון , גרגרנית ערבית קריית ארבע: אספסת הכתרים,  זהבית השלוחות , זוטה מעורקת , כדן נאה , מצפה יאיר: גרגרנית ירושלים,   דמומית משוננת , זהבית אשונה,   חבלבל זיתני,   חוטמית עין-הפרה,  כריך הערבות , כרבולת מצויה, יפית: חיעד ספרדי,  ישימונית דו-גונית , כנפן קוצני",
+         "locations": [
+        {
+            "location_name": "נחל תקוע",
+            "flowers": ["אביבית בינונית", "אספסת החבית", "ברומית הגגות", "ברוניקה לבנה", "גלעינית זעירת-פרחים", "דבורנית צהובה", "כרבה ספרדית", "חבלבל סיצילי", "חבלבל המשי", "זמזומית ורבורג", "זהבית השלוחות", "דנדנה רפואית"],
+            "maps_query_location":"Nahal Tekoa"
+        },
+          {
+           "location_name":"תל ערד",
+             "flowers": ["אכיליאה ערבתית", "גביעונית הלבנון", "גרגרנית ערבית"],
+              "maps_query_location":"Tel Arad"
+         },
+         {
+            "location_name":"תל קריות",
+             "flowers": ["אכיליאה ערבתית", "גביעונית הלבנון", "גרגרנית ערבית"],
+              "maps_query_location":"Tel Krayot"
+           },
+        {
+            "location_name": "קריית ארבע",
+             "flowers": ["אספסת הכתרים", "זהבית השלוחות", "זוטה מעורקת", "כדן נאה"],
+             "maps_query_location":"Kiryat Arba"
+        },
+         {
+           "location_name":"מצפה יאיר",
+            "flowers": ["גרגרנית ירושלים", "דמומית משוננת", "זהבית אשונה", "חבלבל זיתני", "חוטמית עין-הפרה", "כריך הערבות", "כרבולת מצויה"],
+             "maps_query_location":"Mitzpe Yair"
+        },
+        {
+            "location_name":"יפית",
+            "flowers": ["חיעד ספרדי", "ישימונית דו-גונית", "כנפן קוצני"],
+             "maps_query_location":"Yafit"
+        }
+      ]
+    }
+  ]
+}
+```

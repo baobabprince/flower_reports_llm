@@ -1,0 +1,195 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/12/2010",
+      "observer": null,
+      "original_text": "החרצית העטורה בעמק הקדימה מאד לפרוח:  ליד תל כיתן שדות שממזרח לנווה אור צפון עמק בית שאן עשרות בפריחה: צמחים גבוהים במיוחד מעל מטר וחצי עם קוטר קרקפת גדול מעל 6 ס\"מ",
+      "locations": [
+        {
+          "location_name": "תל כיתן",
+          "flowers": [
+            "חרצית עטורה"
+          ],
+          "maps_query_location": "Tel Kitan"
+        },
+        {
+          "location_name": "נווה אור",
+          "flowers": [
+            "חרצית עטורה"
+          ],
+          "maps_query_location": "Neve Or"
+        },
+         {
+          "location_name": "עמק בית שאן",
+           "flowers": [
+            "חרצית עטורה"
+           ],
+          "maps_query_location": "Beit She'an Valley"
+        }
+      ]
+    },
+    {
+      "date": "27/12/2010",
+      "observer": null,
+      "original_text": "נרקיסים וכרכומים פורחים בנחל כסלון, וגם רקפות. צאו לטייל במסלול המצורף בקישור",
+      "locations": [
+        {
+          "location_name": "נחל כסלון",
+          "flowers": [
+            "נרקיס",
+            "כרכום",
+             "רקפת"
+          ],
+          "maps_query_location": "Nahal Kisalon"
+        }
+      ]
+    },
+     {
+      "date": "27/12/2010",
+       "observer": null,
+      "original_text": "בנושא \n\"התחדשות לאחר השרפה בכרמל\"\nשל המגזין אקולוגיה וסביבה עם קפה דה-מרקר",
+       "locations": [
+         {
+          "location_name": "כרמל",
+          "flowers": [],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2010",
+      "observer": "צוות צמח השדה",
+      "original_text": "אין צורך בתצלומים נוספים ישר כח לכולם \nתודה על ההיענות",
+      "locations": [
+          {
+          "location_name": "כרמל",
+          "flowers": [],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "26/12/2010",
+      "observer": null,
+      "original_text": "הרבה כרכומים יפים ומלא מלא\n נרקיסים מדהימים וריחניים  בחרבת עקד שבפארק קנדה",
+      "locations": [
+        {
+          "location_name": "חרבת עקד",
+          "flowers": [
+            "כרכום",
+            "נרקיס"
+          ],
+           "maps_query_location": "Hurvat Ekad"
+        },
+         {
+          "location_name": "פארק קנדה",
+           "flowers": [
+            "כרכום",
+            "נרקיס"
+          ],
+          "maps_query_location": "Canada Park"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2010",
+      "observer": "אורי שטיין",
+      "original_text": "בשמורת אודים הנקיסים התרבו, סתוניות היורה נעלמו.\nבשלולית דורה השלולית יבשה. פריחה של שרוכנית א\"י ופרטים בודדים של עכנאי שרוע.\nליד שכונת המשתלה שרוכנית החוף טרם, פריחה מועטה בשטחים לחים של השדות של כרוב החוף וסביון אביבי",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Udim Reserve"
+        },
+        {
+          "location_name": "שלולית דורה",
+           "flowers": [
+              "שרוכנית א\"י",
+              "עכנאי שרוע"
+            ],
+          "maps_query_location": "Dora Pool"
+        },
+        {
+           "location_name": "שכונת המשתלה",
+           "flowers": [
+              "שרוכנית החוף",
+              "כרוב החוף",
+              "סביון אביבי"
+            ],
+          "maps_query_location": "Mishatla Neighborhood"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2010",
+       "observer": null,
+      "original_text": "כבר פורחים בבקעת יבניאל ושוליה גדילן מצוי, ירוקת החמור, סולנום שחור.",
+      "locations": [
+        {
+          "location_name": "בקעת יבניאל",
+          "flowers": [
+            "גדילן מצוי",
+            "ירוקת החמור",
+            "סולנום שחור"
+          ],
+          "maps_query_location": "Yavne'el Valley"
+        }
+      ]
+    },
+    {
+       "date": "25/12/2010",
+       "observer": "אורית",
+       "original_text": "בצומת בית אורן, ממש ליד הכביש הראשי לעוספייא, בצל העצים משטחי פריחת גביעים לבנים בהמוניהם.  התרסה כנגד האפר והשחור של השריפה.... פריחת סתו או חורף ?",
+       "locations": [
+          {
+            "location_name": "צומת בית אורן",
+            "flowers": [
+              "גביע"
+            ],
+             "maps_query_location": "Beit Oren Junction"
+          },
+           {
+            "location_name": "עוספייא",
+            "flowers": [
+              "גביע"
+            ],
+             "maps_query_location": "Usfiya"
+           }
+       ]
+    },
+    {
+      "date": "23/12/2010",
+      "observer": "זאב",
+      "original_text": "התחלת פריחה של נרקיסים מערבית למוצב הנטוש נ.ג.191621/1202307",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "23/12/2010",
+      "observer": "עירית",
+      "original_text": "חיפשתי את הסתוונית קצרת עלים בעקבות הדיווח של שכי לוריא. למרות הסבר מדויק שקיבלתי במייל, ושוטטות של יותר משעה, לא הצלחתי למצוא אותה. כן היו והרבה- כרכום צהבהב וכרכום גיירדו. נץ חלב איזמלני בראשית פריחה, עדר צבאים ומאות דיות.",
+        "locations": [
+          {
+            "location_name": "רמת דלתון",
+            "flowers": [
+             "כרכום צהבהב",
+             "כרכום גיירדו",
+              "נץ חלב איזמלני"
+             ],
+            "maps_query_location": "Dalton Plateau"
+          }
+        ]
+    }
+  ]
+}
+```

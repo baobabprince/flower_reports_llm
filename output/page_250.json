@@ -1,0 +1,120 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/04/2020",
+      "observer": "עוזי פז",
+      "original_text": "עוזי פז העלה אתר חדש. תהנו ותחכימו",
+      "locations": null
+    },
+    {
+      "date": "17/04/2020",
+      "observer": null,
+      "original_text": "מפארת אותו .",
+       "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": ["דבורנית גדולה"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2020",
+       "observer": null,
+      "original_text": "סימן שאנחנו לקראת הקיץ החם...",
+       "locations": [
+        {
+          "location_name": null,
+           "flowers": ["מעוג מנוקד", "נפית כפופה"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "16/04/2020",
+       "observer": null,
+      "original_text": "עכשיו ליד קיבוץ על דליה  מרבדי פרגים מרהיבים.",
+       "locations": [
+        {
+          "location_name": "דליה",
+           "flowers": ["פרג"],
+           "maps_query_location": "Dalia"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2020",
+      "observer": null,
+      "original_text": "ראו את שפע הנוריות- בצילומים שבקישור",
+       "locations": [
+          {
+            "location_name": "יער חדרה",
+            "flowers": ["נורית מים"],
+            "maps_query_location": "Hadera Forest"
+          }
+        ]
+    },
+    {
+      "date": "16/04/2020",
+      "observer": null,
+      "original_text": "ליד קיבוץ דליה , ראו בקישור",
+       "locations": [
+        {
+          "location_name": "דליה",
+          "flowers": ["פרג"],
+          "maps_query_location": "Dalia"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2020",
+      "observer": null,
+      "original_text": "ראו בקישור",
+      "locations": [
+        {
+          "location_name": "תל מגידו",
+           "flowers": ["פרג"],
+          "maps_query_location": "Tel Megiddo"
+        }
+      ]
+    },
+    {
+      "date": "16/04/2020",
+      "observer": "אלון מאיר",
+      "original_text": "צילום אלון מאיר הצלם הנפלא - ראו קישור",
+      "locations": [
+        {
+          "location_name": "יסעור",
+          "flowers": ["סייפן התבואה"],
+          "maps_query_location": "Yassur"
+        }
+      ]
+    },
+     {
+      "date": "16/04/2020",
+      "observer": "יעקב גנץ",
+      "original_text": "בדרך מהעבודה צילם יעקב גנץ. ראו בקישור",
+      "locations": [
+        {
+          "location_name": "הרי יהודה",
+          "flowers": null,
+          "maps_query_location": "Judean Mountains"
+        }
+      ]
+    },
+    {
+       "date": "14/04/2020",
+      "observer": null,
+      "original_text": "סייפן סגול, סגולית נאה, איריס הדור ( שומרוני)",
+       "locations": [
+        {
+           "location_name": "עופרה",
+           "flowers": ["סייפן סגול", "סגולית נאה", "איריס הדור"],
+           "maps_query_location": "Ofra"
+        }
+      ]
+    }
+  ]
+}
+```

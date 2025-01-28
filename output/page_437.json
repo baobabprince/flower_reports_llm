@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/02/2017",
+      "observer": null,
+      "original_text": "באזור רגבים ",
+      "locations": [
+        {
+          "location_name": "רגבים",
+           "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Regavim"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2017",
+      "observer": "יחיאל אוקנין",
+      "original_text": "צילומים בקישור יחיאל אוקנין ",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["זהבית דמשקאית"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "04/02/2017",
+      "observer": null,
+      "original_text": "איריס ארצישראלי וכלנית מצויה במרבדים נהדרים - ראו באלבום שבקישור ",
+      "locations": [
+         {
+          "location_name": "ג'סר א-זרקה",
+          "flowers": ["איריס ארצישראלי","כלנית מצויה"],
+          "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2017",
+      "observer": "אורי",
+      "original_text": "מספר שקדיות פורחות בכביש 444 לכיוון אלעד",
+      "locations": [
+       {
+          "location_name": "כביש 444",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location": "Road 444"
+        },
+       {
+          "location_name":"אלעד",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "El'ad"
+        }
+      ]
+    },
+    {
+      "date": "04/02/2017",
+      "observer": "נעמה",
+      "original_text": "כלניות אירוס א״י טיפה עיריות",
+       "locations": [
+        {
+          "location_name": "הנגב הדרומי",
+          "flowers": ["כלנית","איריס ארצישראלי", "עירית"],
+          "maps_query_location": "Southern Negev"
+        }
+      ]
+    },
+    {
+      "date": "03/02/2017",
+       "observer": null,
+      "original_text": "כרבולת אדומית  פורחת בצומת-עוזיהו ",
+      "locations": [
+        {
+          "location_name": "צומת עוזיהו",
+          "flowers": ["כרבולת אדומית"],
+          "maps_query_location": "Ozaiyahu Junction"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2017",
+      "observer": "אבנר אברהם",
+      "original_text": "צולם ע\"י אבנר אברהם ליד קיבוץ דליה : כלניות אדומות, דודא רפואי, עירית גדולה וחיננית הבתה",
+      "locations": [
+        {
+          "location_name": "קיבוץ דליה",
+          "flowers": ["כלנית אדומה", "דודא רפואי", "עירית גדולה", "חיננית הבתה"],
+          "maps_query_location": "Dalia"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2017",
+      "observer": "אדיר פאדוני",
+      "original_text": "פארק קנדה, בכניסה לישוב מבוא חורון, לצד כביש 1 בין מחלף דניאל ללטרון , בירידה מצפון בלטרון עצי שקד יפים פורחים, בכניסה ליער אלעד. מכיוון נחשונים עוברים את אלעד ובערך 200 מטר אחרי יש פניה שמאלה ליער השקדיות ממש בכניסה יש כ 5-6 עצים עם פריחה מרשימה . (דיווח אחרון של אדיר פאדוני) ",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Canada Park"
+        },
+        {
+         "location_name": "מבוא חורון",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location":"Mevo Horon"
+        },
+       {
+          "location_name": "כביש 1",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Road 1"
+        },
+        {
+          "location_name": "מחלף דניאל",
+           "flowers": ["שקד מצוי"],
+           "maps_query_location":"Daniel Interchange"
+        },
+        {
+          "location_name":"לטרון",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Latrun"
+        },
+         {
+          "location_name":"יער אלעד",
+           "flowers": ["שקד מצוי"],
+           "maps_query_location": "El'ad Forest"
+        },
+        {
+          "location_name":"נחשונים",
+          "flowers": ["שקד מצוי"],
+          "maps_query_location": "Nahshonim"
+        },
+        {
+          "location_name":"אלעד",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "El'ad"
+        },
+        {
+          "location_name":"יער השקדיות",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/02/2017",
+      "observer": null,
+      "original_text": "מרבדי רקפות ( עדיין לא השיא) , מעט כלניות אדומות , דודא רפואי , צמחים רבים בפריחה, עירית גדולה, עדיין בניצנים, ערטנית השדות בתחילת פריחה  ",
+       "locations": [
+        {
+          "location_name": "טל שחר",
+           "flowers": ["רקפת", "כלנית אדומה", "דודא רפואי", "עירית גדולה", "ערטנית השדות"],
+          "maps_query_location": "Tel Shahar"
+        }
+      ]
+    },
+     {
+      "date": "02/02/2017",
+      "observer": "ציבקה אבני",
+      "original_text": "בשטח הצמוד לאזור התעשיה של עומר בגדות מעלה נחל בתרים ממשיכה לפרוח סיתוונית הנגב אם כי כבר מעבר לשיא הפריחה. (פרטים מדויקים עיינו בעמוד ענן) \nבשטח זה ישנם פרטים פורחים של איריס א\"י.  \nכמו כן פורחים ביער הצמוד לנחל בתרים מספר מיני אקליפטוס כשהבולט בהם אקליפטוס טורווד. ",
+      "locations": [
+         {
+          "location_name": "אזור התעשייה עומר",
+           "flowers": ["סתוונית הנגב", "איריס ארצישראלי", "אקליפטוס"],
+          "maps_query_location": "Omer Industrial Area"
+        },
+         {
+           "location_name": "מעלה נחל בתרים",
+           "flowers": ["סתוונית הנגב", "איריס ארצישראלי", "אקליפטוס"],
+          "maps_query_location":"Nahal Batarim"
+        },
+         {
+          "location_name":"יער נחל בתרים",
+          "flowers": ["אקליפטוס"],
+           "maps_query_location":"Nahal Batarim Forest"
+        }
+      ]
+    }
+  ]
+}
+```

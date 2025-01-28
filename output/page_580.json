@@ -1,0 +1,203 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/01/2014",
+      "observer": "הגר",
+      "original_text": "התחלת פריחת נרקיסים בבקעת בית נטופה.בקרני חיטים פריחת יקינתונים.נרקיסים גם בחלק הצפוני של דרך נוף בית קשת.",
+      "locations": [
+        {
+          "location_name": "בקעת בית נטופה",
+          "flowers": [
+            "Narcissus",
+             "Hyacinthus orientalis"
+          ],
+            "maps_query_location": "Beit Netofa Valley"
+        },
+          {
+            "location_name": "קרני חיטים",
+            "flowers": [
+             "Hyacinthus orientalis"
+             ],
+            "maps_query_location": "Kfar Hittim"
+          },
+        {
+          "location_name": "דרך נוף בית קשת",
+           "flowers": [
+            "Narcissus"
+          ],
+           "maps_query_location": "Beit Keshet Scenic Route"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2014",
+      "observer": "נילי ויילר",
+      "original_text": "בעיר אלעד בגבול הדרום מזרחי נצפו גם נרקיסים, בנוסף לרקפות ואירוס הביצות",
+      "locations": [
+        {
+          "location_name": "אלעד",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen",
+            "Iris palaestina"
+          ],
+            "maps_query_location": "El'ad"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2014",
+      "observer": "נילי ויילר",
+       "original_text": "בתוך העיר אלעד, בגבול הצפון מערבי של העיר: בספטמבר חצבים בנובמבר סתוניות)  בינואר כרכומים , כדנים ורקפות, (בהמשך יהיו נוריות וכלניות). בגבול הדרום מזרחי של העיר: בינואר אירוס הביצות ורקפות",
+       "locations": [
+         {
+           "location_name": "אלעד",
+           "flowers": [
+             "Urginea maritima",
+             "Colchicum",
+             "Crocus",
+             "Globularia",
+             "Cyclamen",
+             "Ranunculus",
+             "Anemone" ,
+             "Iris palaestina"
+           ],
+           "maps_query_location": "El'ad"
+         }
+       ]
+    },
+    {
+      "date": "12/01/2014",
+      "observer": "דרור בר-ניר",
+      "original_text": "שקדיה ראשונה פורחת בעמק לבן, מעל למעיין. עוד פורחים: נרקיסים מצויים (בהמוניהם), רקפות מצויות, מציץ סורי, לשון הכלב הכרתית, ארכובית שבטבטית. הרבה ניצנים של עיריות גדולות.",
+      "locations": [
+        {
+          "location_name": "עמק לבן",
+          "flowers": [
+             "Prunus dulcis",
+            "Narcissus",
+            "Cyclamen",
+            "Bellardia trixago",
+            "Cynoglossum creticum",
+            "Polygonum equisetiforme",
+            "Asphodelus"
+          ],
+            "maps_query_location": "Emek Lavan"
+        }
+      ]
+    },
+    {
+       "date": "12/01/2014",
+      "observer": null,
+      "original_text": "בכביש בין בית שמש לצומת האלה, מול בית ג'מאל התחילה פריחת השקדיות, עצים בפריחה מלאה ממש ליד הכביש.",
+      "locations": [
+         {
+            "location_name": "בית שמש",
+            "flowers": [
+             "Prunus dulcis"
+            ],
+             "maps_query_location":"Beit Shemesh"
+         },
+         {
+           "location_name":"צומת האלה",
+            "flowers":[
+              "Prunus dulcis"
+            ],
+             "maps_query_location":"HaEla Junction"
+           },
+           {
+            "location_name": "בית ג'מאל",
+             "flowers": [
+              "Prunus dulcis"
+             ],
+              "maps_query_location":"Beit Jamal"
+         }
+      ]
+    },
+        {
+       "date": "11/01/2014",
+       "observer": null,
+       "original_text": "שריינו את היום : 25-3-2014 הנושא: הגן הים תיכוני במשתלת האלונים של עזרא ברנע בחרב לעת. פרטים בקישור המצורף למטה",
+       "locations": [
+         {
+           "location_name": "חרב לעת",
+           "flowers": [],
+           "maps_query_location": "Hirbet Laat"
+         }
+       ]
+     },
+    {
+      "date": "11/01/2014",
+      "observer": null,
+      "original_text": "נרקיסים בשיא, איריס הסרגל, רקפות, עירית גדולה",
+      "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+           "flowers": [
+            "Narcissus",
+            "Iris unguicularis",
+            "Cyclamen",
+             "Asphodelus"
+          ],
+            "maps_query_location": "Mitzuk HaArba'im"
+        },
+          {
+            "location_name": "כרמל",
+           "flowers": [
+             "Narcissus",
+              "Iris unguicularis",
+              "Cyclamen",
+              "Asphodelus"
+            ],
+            "maps_query_location": "Carmel"
+          }
+      ]
+    },
+    {
+      "date": "11/01/2014",
+       "observer": "נביל אבושקארה",
+      "original_text": "אומנם הגשם התעקב לו קצת אבל הגיע ''עדיף מאוחר מאשר בכלל'' אז כך שלשום בזמן מסלול  ההליכה  ראינו כמה סוגים פרחי חורף : רקפות נרקיסים ועודפרחים כמה סוגים  שלכלניות  וגם פרחים שאני לאיודע  את השמות שלהם .היה מצלמה והנייד  צילמתי המון תמונות יפות",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+            "Cyclamen",
+            "Narcissus",
+            "Anemone"
+          ],
+            "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "11/01/2014",
+      "observer": null,
+       "original_text": "הרי אילת - מיישר סעיפים ויובלי עתק עליונים",
+      "locations": [
+          {
+            "location_name": "הרי אילת",
+            "flowers": [
+              "Colchicum"
+             ],
+           "maps_query_location": "Eilat Mountains"
+         }
+      ]
+    },
+    {
+      "date": "10/01/2014",
+      "observer": "יואב סילברט ודליה בונס",
+      "original_text": "אתמול מצאנו ראשית פריחה של רקפת יוונית בתל חזקה.",
+       "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": [
+            "Cyclamen graecum"
+          ],
+            "maps_query_location": "Tel Hazeka"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,183 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/02/2018",
+      "observer": "עמיר פז",
+      "original_text": "חרצית דביקה, אשבל השדה, מיאגרון אזון, זמזומית ורבורג, אזוביון דגול, כריך נמוך, דרכמונית סורית, שרוכנית החוף+א\"י, וגומא הירקון פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן הנדירים",
+          "flowers": [
+            "חרצית דביקה",
+            "אשבל השדה",
+            "מיאגרון אזון",
+            "זמזומית ורבורג",
+             "אזוביון דגול",
+            "כריך נמוך",
+             "דרכמונית סורית",
+            "שרוכנית החוף",
+            "גומא הירקון"
+          ],
+          "maps_query_location": "גן הנדירים"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2018",
+       "observer": null,
+      "original_text": "איריס הארגמן בגוונים, תורמוס א\"י , ורבים אחרים",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני קדימה",
+          "flowers": [
+            "איריס הארגמן",
+            "תורמוס ארץ ישראלי"
+          ],
+          "maps_query_location": "אלוני קדימה"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2018",
+       "observer": null,
+       "original_text": "בדרך לחמת גדר",
+      "locations": [
+        {
+          "location_name": "חמת גדר",
+           "flowers": [
+            "טופל אדום"
+            ],
+           "maps_query_location": "Hamat Gader"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2018",
+       "observer": null,
+      "original_text": "ליד ברכת-מאן חרמון וביער אודם",
+      "locations": [
+        {
+          "location_name": "ברכת-מאן חרמון",
+          "flowers": [
+            "רקפת יוונית"
+          ],
+          "maps_query_location": "Birkat Man, Hermon"
+         },
+         {
+           "location_name": "יער אודם",
+           "flowers": [
+             "רקפת יוונית"
+            ],
+            "maps_query_location":"Odem Forest"
+         }
+      ]
+    },
+    {
+      "date": "18/02/2018",
+       "observer": null,
+      "original_text": "ביער קדימה יש פריחה נהדרת של אירוס הארגמן ותורמוס ארצישראלי",
+      "locations": [
+        {
+          "location_name": "יער קדימה",
+          "flowers": [
+            "איריס הארגמן",
+            "תורמוס ארץ ישראלי"
+          ],
+         "maps_query_location": "Kadima Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2018",
+      "observer": "עמיר פז",
+      "original_text": "אלמוות ארץ ישראלי ומחרוזת קשתית פורחים בחוף שבי ציון",
+      "locations": [
+        {
+          "location_name": "חוף שבי ציון",
+          "flowers": [
+            "אלמוות ארץ ישראלי",
+            "מחרוזת קשתית"
+          ],
+         "maps_query_location":"Shavei Zion Beach"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2018",
+      "observer": null,
+      "original_text": "רקפות וצבעונים בשיא פריחתם על הגבעות צפונית לבית העלמין במעגן מיכאל. מרבדי כלניות במגוון צבעים בכניסה למנחת מגידו. אירוס הארגמן במלוא תפארתו בשמורה בנתניה.",
+      "locations": [
+        {
+           "location_name": "מעגן מיכאל",
+           "flowers": [
+              "רקפת",
+              "צבעוני"
+           ],
+            "maps_query_location": "Ma'agan Michael"
+         },
+         {
+           "location_name": "מנחת מגידו",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Megiddo Airfield"
+        },
+         {
+          "location_name": "שמורה בנתניה",
+          "flowers": [
+            "איריס הארגמן"
+          ],
+          "maps_query_location":"Nature reserve in Netanya"
+        }
+      ]
+    },
+    {
+       "date": "17/02/2018",
+       "observer": "יונית בן שעיה",
+      "original_text": "מול הכניסה לקיבוץ רוחמה, מעבר לכביש, נכנסים לחלק הדרומי של יער רוחמה. הליכה קצרה מובילה לפריחה מרהיבה של כלניות ביער. משטחים פורחים באדום. אפשר לטייל על השבילים בלי לרמוס את הפרחים.",
+      "locations": [
+        {
+          "location_name": "יער רוחמה",
+          "flowers": [
+            "כלנית"
+           ],
+           "maps_query_location":"Ruhama Forest"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2018",
+      "observer": "עמיר פז",
+      "original_text": "מחרוזת קשתית ואלמוות א\"י פורחים בחוף",
+      "locations": [
+        {
+          "location_name": "חוף שבי ציון",
+           "flowers": [
+            "מחרוזת קשתית",
+            "אלמוות ארץ ישראלי"
+           ],
+           "maps_query_location":"Shavei Zion Beach"
+        }
+      ]
+    },
+   {
+      "date": "16/02/2018",
+       "observer": null,
+      "original_text": "ברחבי עמק לבן יש פריחה נהדרת של שקדיות, רקפות וגם כלניות ועיריות פה ושם.",
+      "locations": [
+        {
+          "location_name": "עמק לבן",
+           "flowers": [
+            "שקד",
+            "רקפת",
+            "כלנית",
+            "עירית"
+           ],
+            "maps_query_location": "Emeq Lavan"
+        }
+      ]
+    }
+  ]
+}
+```

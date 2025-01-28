@@ -1,0 +1,240 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/03/2019",
+      "observer": null,
+      "original_text": "מעלה-דרגות: אבוטילון, אצבוע ים-המלח, בלוטנית הדורים, בן-דוחן מדברי , דורית רפה, חבלבל מגובב, ישימונית דו-גונית , כוכב ריחני, מרית מדברית, פעמונית ירושלים   \nעין גדי : אבוטילון קהה, חיעד קנרי , גרויה שעירה , מרואה עבת-עלים, צלף-רותמי, ניל מכסיף     \nנחל אוג: יחנוק המדבר \nכביש הבקעה: שום יריחו , לועית קטנה, פעמונית כוכבנית  \nנחל-משמר: אהל מצוי, יחנוק המלחות, מלחית מסורגת  \nעיינות צוקים: סביון צהוב,´ בן-חורש גדול \nצומת קומרן: פשתנית ססגונית, ציפורנית דקיקה",
+      "locations": [
+        {
+          "location_name": "מעלה דרגות",
+          "flowers": [
+            "אבוטילון",
+            "אצבע ים-המלח",
+            "בלוטנית הדורים",
+            "בן-דוחן מדברי",
+            "דורית רפה",
+            "חבלבל מגובב",
+            "ישימונית דו-גונית",
+            "כוכב ריחני",
+            "מרית מדברית",
+            "פעמונית ירושלים"
+          ],
+          "maps_query_location": "Ma'aleh Dargot"
+        },
+        {
+          "location_name": "עין גדי",
+          "flowers": [
+            "אבוטילון קהה",
+            "חיעד קנרי",
+            "גרויה שעירה",
+            "מרואה עבת-עלים",
+             "צלף-רותמי",
+             "ניל מכסיף"
+          ],
+           "maps_query_location": "Ein Gedi"
+        },
+        {
+          "location_name": "נחל אוג",
+          "flowers": [
+            "יחנוק המדבר"
+           ],
+           "maps_query_location": "Nahal Og"
+        },
+         {
+          "location_name": "כביש הבקעה",
+          "flowers": [
+            "שום יריחו",
+             "לועית קטנה",
+             "פעמונית כוכבנית"
+           ],
+           "maps_query_location": "Highway of the Jordan Valley"
+        },
+         {
+          "location_name": "נחל משמר",
+           "flowers": [
+            "אהל מצוי",
+            "יחנוק המלחות",
+            "מלחית מסורגת"
+           ],
+            "maps_query_location": "Nahal Mishmar"
+        },
+         {
+          "location_name": "עיינות צוקים",
+          "flowers": [
+            "סביון צהוב",
+            "בן-חורש גדול"
+          ],
+           "maps_query_location": "Einot Tsukim"
+        },
+         {
+          "location_name": "צומת קומרן",
+          "flowers": [
+            "פשתנית ססגונית",
+            "ציפורנית דקיקה"
+          ],
+            "maps_query_location": "Qumran Junction"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2019",
+      "observer": "יוסף איקש",
+      "original_text": "עצים ספורים מדרום לקיבוץ בית קשת",
+      "locations": [
+        {
+          "location_name": "בית קשת",
+          "flowers": ["אגס סורי"],
+          "maps_query_location": "Beit Keshet"
+        }
+      ]
+    },
+    {
+      "date": "24/03/2019",
+      "observer": null,
+      "original_text": "גוש גדול ומרהיב של אירוס הגלבוע, פורח תחת הטיילת בין כפר חרוב למבוא חמה",
+       "locations": [
+        {
+          "location_name": "כפר חרוב",
+          "flowers": ["אירוס הגלבוע"],
+          "maps_query_location": "Kfar Haruv"
+        },
+         {
+          "location_name": "מבוא חמה",
+          "flowers": ["אירוס הגלבוע"],
+          "maps_query_location": "Mevo Hama"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2019",
+      "observer": "נעה סניפליסקי",
+      "original_text": "צבעוני המדבר, עיריוני צהוב, בן פרג סגול, ומרבדים של מנתור.",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": [
+            "צבעוני המדבר",
+            "עיריוני צהוב",
+            "בן פרג סגול",
+             "מנתור"
+           ],
+           "maps_query_location": "Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2019",
+      "observer": "נעמי",
+      "original_text": "תורמוס הרים.צבעונים.חרציות .חרדל. תגית.אירוס הסרגל.דמומיות.דרכמונית מצרית.לשון הפר.קחוונים.תלתן תריסני. צפורני חתול.טופח נאה.\nלפני אליקים על כביש 6 צפונה משטח של עריוני צהוב.",
+      "locations": [
+       {
+          "location_name": "מחנה אליקים",
+           "flowers": [
+            "תורמוס הרים",
+             "צבעוני",
+             "חרצית",
+             "חרדל",
+             "תגית",
+              "אירוס הסרגל",
+             "דמומית",
+             "דרכמונית מצרית",
+              "לשון הפר",
+             "קחוון",
+             "תלתן תריסני",
+              "ציפורני חתול",
+             "טופח נאה"
+           ],
+            "maps_query_location": "Eliakim Camp"
+        },
+        {
+           "location_name": "אליקים",
+          "flowers": ["עיריוני צהוב"],
+            "maps_query_location": "Elyakim"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2019",
+      "observer": "ערן פלד",
+      "original_text": "יפהפה להזהר לא לדרוס בשביל השדות \nבשדה מאחורי ניר יצחק הרבה",
+     "locations": [
+        {
+           "location_name": "שביל השדות",
+          "flowers": ["אירוס הנגב"],
+            "maps_query_location": null
+         },
+        {
+           "location_name": "סופה",
+          "flowers": ["אירוס הנגב"],
+           "maps_query_location": "Sufa"
+        },
+         {
+           "location_name": "ניר יצחק",
+          "flowers": ["אירוס הנגב"],
+          "maps_query_location": "Nir Yitzhak"
+        }
+      ]
+    },
+      {
+      "date": "23/03/2019",
+      "observer": "ערן פלד",
+      "original_text": "אירוס שחום וצהוב בלהבים ממש ליד הצומת  שיא פריחה",
+       "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": ["אירוס שחום","אירוס צהוב"],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "23/03/2019",
+      "observer": "טליה אלקיים",
+      "original_text": "עשרות רבות של פרחי בן-חצב יקינטוני באמצע הפריחה ובנוסף שלל פרחי אביב; שום משולש, חרציות, בקיה שעירה, תלתן הפוך, תלתן הארגמן ועוד",
+      "locations": [
+        {
+          "location_name": "שמורת יקום",
+           "flowers": [
+             "בן-חצב יקינטוני",
+            "שום משולש",
+            "חרצית",
+             "בקיה שעירה",
+            "תלתן הפוך",
+             "תלתן הארגמן"
+          ],
+          "maps_query_location": "Yekum Nature Reserve"
+        }
+      ]
+    },
+       {
+      "date": "21/03/2019",
+      "observer": null,
+      "original_text": "פורח בהר יונה במלוא הדרו",
+       "locations": [
+        {
+          "location_name": "הר יונה",
+          "flowers": ["איריס נצרתי"],
+          "maps_query_location": "Har Yona"
+        }
+      ]
+    },
+    {
+      "date": "21/03/2019",
+      "observer": null,
+      "original_text": "איריס הנגב -שיא פריחה , פשתנית אשקלון  , קדד הסייף",
+      "locations": [
+        {
+          "location_name": "רביבים",
+          "flowers": [
+            "איריס הנגב",
+            "פשתנית אשקלון",
+            "קדד הסייף"
+          ],
+          "maps_query_location": "Revivim"
+        }
+      ]
+    }
+  ]
+}
+```

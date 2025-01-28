@@ -1,0 +1,173 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/11/2021",
+      "observer": null,
+      "original_text": "בהר אדמון ובביריה",
+      "locations": [
+        {
+          "location_name": "הר אדמון",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Har Admon"
+        },
+        {
+          "location_name": "ביריה",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2021",
+      "observer": null,
+      "original_text": "הר מירון\nקטלב מצוי בשלב פרי, אחילוף קטן \nמערת פער\nורד הכלב -שלב פרי, כרכום צהבהב , סתוונית בכירה , קיטה רותמית \nעמק מאן \n שזיף הדב – שלב פרי, סתוונית קצרת-עלים , סתוונית החרמון , מקור-חסידה רומאי , כרכום נאה , כרכום החרמון",
+        "locations": [
+          {
+            "location_name": "הר מירון",
+             "flowers": ["קטלב מצוי", "אחילוף קטן", "ורד הכלב", "כרכום צהבהב", "סתוונית בכירה", "קיטה רותמית", "שזיף הדב", "סתוונית קצרת-עלים", "סתוונית החרמון", "מקור-חסידה רומאי", "כרכום נאה", "כרכום החרמון"],
+            "maps_query_location": "Har Meron"
+          },
+          {
+             "location_name":"מערת פער",
+             "flowers": ["קטלב מצוי", "אחילוף קטן", "ורד הכלב", "כרכום צהבהב", "סתוונית בכירה", "קיטה רותמית", "שזיף הדב", "סתוונית קצרת-עלים", "סתוונית החרמון", "מקור-חסידה רומאי", "כרכום נאה", "כרכום החרמון"],
+             "maps_query_location": "Me'arat Pa'ar"
+          },
+         {
+            "location_name": "עמק מאן",
+             "flowers": ["קטלב מצוי", "אחילוף קטן", "ורד הכלב", "כרכום צהבהב", "סתוונית בכירה", "קיטה רותמית", "שזיף הדב", "סתוונית קצרת-עלים", "סתוונית החרמון", "מקור-חסידה רומאי", "כרכום נאה", "כרכום החרמון"],
+            "maps_query_location":"Emek Ma'an"
+          }
+        ]
+    },
+   {
+      "date": "08/11/2021",
+       "observer": null,
+      "original_text":"אחילוף קטן  הר-אדיר,  גדותן הביצות  אחו-גונן  , טגטס קטנה   עמק-יעפורי ,  כף-זאב אירופית  אחו-גונן",
+      "locations": [
+         {
+           "location_name":"הר אדיר",
+             "flowers": ["אחילוף קטן", "גדותן הביצות"],
+             "maps_query_location": "Har Adir"
+        },
+        {
+           "location_name":"אחו גונן",
+            "flowers": ["גדותן הביצות", "כף-זאב אירופית"],
+            "maps_query_location": "Ahu Gonen"
+        },
+        {
+           "location_name":"עמק יעפורי",
+           "flowers": ["טגטס קטנה"],
+           "maps_query_location":"Emek Ya'afuri"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2021",
+      "observer": "עמיר פז",
+      "original_text": "עוקץ עקרב ביצני פורח (מושקה) כל השנה בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["עוקץ עקרב ביצני"],
+            "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "07/11/2021",
+      "observer": "דני",
+      "original_text": "ב-06/11/21 ניצפה מרבד של חלמוניות שמנו כמה עשרות גדולות בשיא פריחתן בקצה המזרחי של המסלול",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית גדולה"],
+           "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "07/11/2021",
+      "observer": "עמיר פז",
+      "original_text": "בן חילף הביצות ומלפפון משולש פורחים בגן",
+     "locations": [
+        {
+           "location_name": "גן מקלט שרוני",
+          "flowers": ["בן חילף הביצות", "מלפפון משולש"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "05/11/2021",
+      "observer": null,
+      "original_text": "השוואה בין יצחק ויעקב שנולדו בפרשת תולדות להדס ועצבונית החורש",
+      "locations": [],
+      "flowers": ["הדס", "עצבונית החורש"]
+    },
+    {
+      "date": "04/11/2021",
+      "observer": null,
+       "original_text": "התחילה לפרוח בגבעת עדה וכבר פורחת יפה באחו נוב בגולן",
+       "locations": [
+        {
+           "location_name": "גבעת עדה",
+          "flowers": ["חלמונית זעירה"],
+           "maps_query_location": "Givat Ada"
+        },
+          {
+          "location_name": "אחו נוב",
+          "flowers": ["חלמונית זעירה"],
+            "maps_query_location": "Ahu Nov"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2021",
+      "observer": "צילה וייס",
+       "original_text": "רקפות ללא עלים פורחות בגלבוע",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2021",
+      "observer": "אילת בר",
+      "original_text": "אחילוף הגליל ועוד איך פורח בגן המייסדים בגבעת עדה ואחרי הגשם האחרון צצו עוד 6-7 חדשים. כמו כן צצו היום חלמוניות זעירות.",
+     "locations": [
+        {
+          "location_name": "גן המייסדים",
+          "flowers": ["אחילוף הגליל", "חלמונית זעירה"],
+          "maps_query_location": "Gan Hameyasdim"
+        },
+        {
+           "location_name": "גבעת עדה",
+           "flowers": ["אחילוף הגליל", "חלמונית זעירה"],
+           "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "01/11/2021",
+      "observer": null,
+      "original_text": "אחילוף הגליל פורח באלוני יצחק אך בגן המייסדים טרם החלה הפריחה. סתיו אייט משהו",
+        "locations": [
+        {
+          "location_name": "אלוני יצחק",
+          "flowers": ["אחילוף הגליל"],
+          "maps_query_location": "Aloney Yitzhak"
+        },
+         {
+          "location_name": "גן המייסדים",
+            "flowers": ["אחילוף הגליל"],
+            "maps_query_location":"Gan Hameyasdim"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,190 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/01/2023",
+      "observer": null,
+      "original_text": "סיתוונית הנגב, סיתוונית טוביה, לשון פר סמורה בצבע תכלת מהמם ואכילאה ערבתית מתחילה לפרוח",
+      "locations": [
+        {
+          "location_name": "פארק תעשיות עומר",
+          "flowers": [
+            "סיתוונית הנגב",
+            "סיתוונית טוביה",
+             "לשון-פר סמורה",
+            "אכילאה ערבתית"
+          ],
+          "maps_query_location": "Omer Industrial Park"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2023",
+      "observer": null,
+      "original_text": "בשמורת האיריסים בנתניה , הקדים",
+       "locations": [
+        {
+          "location_name": "שמורת האיריסים נתניה",
+          "flowers": [
+             "איריס ארגמן"
+          ],
+          "maps_query_location": "Iris Reserve Netanya"
+        }
+      ]
+    },
+    {
+      "date": "03/01/2023",
+      "observer": "רוני בראונר",
+      "original_text": "וראה שם\nיקינתון מזרחי פורח, אחילוף הגליל (אפילו זוג) ומעט סיתוונית היור ה, ראו אלבום",
+      "locations": [
+        {
+          "location_name": "חירבת עמודים",
+           "flowers": [
+            "יקינתון מזרחי",
+            "אחילוף הגליל",
+             "סתוונית היורה"
+          ],
+          "maps_query_location": "Khirbet Amudim"
+        }
+      ]
+    },
+    {
+      "date": "01/01/2023",
+       "observer": null,
+      "original_text": "השיא יה בעוד כשבועיים עד שלוש",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+    {
+      "date": "01/01/2023",
+       "observer": "חוה גליקשטיין",
+      "original_text": "31.12.22 משטחי פריחה של מאות כרכום חורפי במרכז העיר ירושלים , קרית היובל צומת בוליביה וגולומב בפיסת קרקע  טבעית ללא בניה , לא ראיתי בשנים קודמות תופעה זו.  לופית מצויה פרטים רבים בהר איתן",
+       "locations": [
+        {
+           "location_name": "ירושלים",
+          "flowers": [
+            "כרכום חורפי"
+          ],
+          "maps_query_location": "Jerusalem"
+        },
+          {
+          "location_name": "קרית היובל",
+          "flowers": [
+            "כרכום חורפי"
+          ],
+           "maps_query_location": "Kiryat HaYovel"
+        },
+         {
+          "location_name": "הר איתן",
+            "flowers": [
+               "לופית מצויה"
+            ],
+             "maps_query_location": "Har Eitan"
+        }
+      ]
+    },
+    {
+      "date": "31/12/2022",
+       "observer": null,
+      "original_text": "ולריינית איטלקית, שבורנית שחומה, עירית גדולה,איריס א\"י , זלזלת הקנוקנות",
+      "locations": [
+        {
+          "location_name": "כרמל",
+          "flowers": [
+              "ולריינית איטלקית",
+              "שבורנית שחומה",
+              "עירית גדולה",
+              "איריס ארץ-ישראלי",
+              "זלזלת הקנוקנות"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "31/12/2022",
+       "observer": null,
+      "original_text": "בתל-חדיד, בחורבת מלח, מול גיסר-א-זרקא, בתל גמזו ועוד",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+           "flowers": [
+            "איריס ארץ-ישראלי"
+           ],
+          "maps_query_location": "Tel Hadid"
+        },
+         {
+          "location_name": "חורבת מלח",
+           "flowers": [
+            "איריס ארץ-ישראלי"
+          ],
+          "maps_query_location": "Khurbat Malah"
+        },
+        {
+          "location_name": "ג'סר א-זרקא",
+           "flowers": [
+             "איריס ארץ-ישראלי"
+          ],
+           "maps_query_location": "Jisr az-Zarqa"
+        },
+         {
+          "location_name": "תל גמזו",
+           "flowers": [
+             "איריס ארץ-ישראלי"
+          ],
+           "maps_query_location": "Tel Gamzu"
+        }
+      ]
+    },
+     {
+      "date": "31/12/2022",
+       "observer": "אלברט קשת",
+      "original_text": "ראו בקישו ר- ערך וצילם אלברט קשת",
+       "locations": [
+        {
+          "location_name": "הרי ירושלים",
+           "flowers": [
+            "איריס הסרגל"
+          ],
+          "maps_query_location": "Jerusalem Mountains"
+        }
+      ]
+    },
+        {
+      "date": "31/12/2022",
+      "observer": null,
+      "original_text": "החלה לפרוח בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "רומוליאה צידונית"
+          ],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "31/12/2022",
+      "observer": null,
+      "original_text": null,
+      "locations": [
+        {
+          "location_name": "אולגה",
+           "flowers": [
+              "כלנית"
+           ],
+          "maps_query_location": "Olga"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/09/2015",
+      "observer": null,
+      "original_text": "בגבעה מצפון לכניסה למרכז ליאון פורחים עשרות חצבים יפהפיים בשיא",
+      "locations": [
+        {
+          "location_name": "מרכז ליאורן",
+           "flowers": ["חצב"],
+          "maps_query_location": "Merkaz Li'oran"
+        },
+        {
+          "location_name": "עדולם",
+          "flowers": ["חצב"],
+          "maps_query_location": "Adullam"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2015",
+      "observer": null,
+       "original_text": "החלה לפרוח בהר הנגב",
+      "locations": [
+        {
+          "location_name": "הר הנגב",
+           "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": "Har HaNegev"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2015",
+      "observer": "רועי קן-תור",
+      "original_text": "שימטו מידכם לרגע את שלט המזגן, צאו החוצה, עמדו והתבוננו בשקט. צבעי האביב הזוהרים, שלא עמדו בנטל החום והיובש, הפכו דהויים ופסטליים. שילובים נפלאים של חומים וזהובים, כסופים וירוקים. זוהי שעתם של אניני הראות- אותם, שהאביב אינו מסנוור. אותם, שנהנים מן הדקויות העדינות שחבויות בבריאה. אסופת תצלומי קיץ בקישור",
+      "locations": []
+    },
+    {
+      "date": "13/09/2015",
+      "observer": null,
+      "original_text": "בגבעה בין צרעה לדיר רפת. קרוב למצפה צרעה.",
+      "locations": [
+        {
+          "location_name": "צרעה",
+          "flowers": ["חצב"],
+          "maps_query_location": "Tzora"
+        },
+         {
+          "location_name": "דיר רפת",
+           "flowers": ["חצב"],
+          "maps_query_location": "Deir Rafat"
+        },
+         {
+           "location_name": "מצפה צרעה",
+            "flowers": ["חצב"],
+          "maps_query_location": "Mitzpe Zora"
+        }
+      ]
+    },
+     {
+      "date": "12/09/2015",
+      "observer": null,
+      "original_text": "בצומת ואסט נצפו כדרורית המים,ספלילה מצויה,וורבנה שרועה בפריחה. בדרדרה נצפו בפריחה זיפן קטן פרחים,ושרעול שעיר מזן החולה. בברכת רם נצפו בפריחה בן חילף קטן,זיפן הדורים,ואספרג חד בשלבי חניטת פירות. תודה רבה לזלמן באומוול שהשתתף והוביל במדויק לצמחים",
+      "locations": [
+         {
+          "location_name": "צומת ואסט",
+          "flowers": ["כדרורית המים", "ספלילה מצויה", "ורבנה שרועה"],
+          "maps_query_location": "Vast Junction"
+        },
+        {
+          "location_name": "דרדרה",
+          "flowers": ["זיפן קטן פרחים", "שרעול שעיר"],
+           "maps_query_location": "Dardara"
+         },
+        {
+           "location_name":"ברכת רם",
+           "flowers": ["בן חילף קטן", "זיפן הדורים", "אספרג חד"],
+           "maps_query_location": "Birket Ram"
+        }
+      ]
+    },
+    {
+      "date": "11/09/2015",
+      "observer": "אילן טל",
+      "original_text": "פורחים : חלביב יווני , נימפיה לבנה + תכולה , סם הכלב המזרחי , פשטה שרועה , קוצן גיירדו + קפח , שום סתווי , שיח אברהם ועוד . שנה טובה לכולם !",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+           "flowers": ["חלביב יווני", "נימפיה לבנה", "נימפיה תכולה", "סם הכלב המזרחי", "פשטה שרועה", "קוצן גיירדו", "קפח", "שום סתווי", "שיח אברהם"],
+          "maps_query_location": "Kfar Yehoshua"
+         }
+      ]
+    },
+    {
+      "date": "10/09/2015",
+      "observer": null,
+      "original_text":"בכניסה למושב גמזו פורחים חצבים,  וגם בשדות המושב לכיוון הכרמים. בתל חדיד פורחים אי אלו חצבים לא במיקום הרגיל... אלא לאורך הדרך פה ושם",
+      "locations": [
+        {
+          "location_name": "גמזו",
+           "flowers": ["חצב"],
+          "maps_query_location": "Gamzu"
+        },
+         {
+          "location_name": "תל חדיד",
+           "flowers": ["חצב"],
+          "maps_query_location": "Tel Hadid"
+        }
+      ]
+    },
+     {
+      "date": "05/09/2015",
+      "observer": null,
+       "original_text": "מתחיל לפרוח בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": ["שום סתווי"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date":"04/09/2015",
+      "observer":"יעל סמואלסון",
+      "original_text": "הרנוג השיטים פורח גם על תאנה.נטפל  גם על עץ רימון  ברביבים.",
+      "locations": [
+          {
+            "location_name": "רביבים",
+            "flowers": ["הרנוג השיטים"],
+            "maps_query_location": "Revivim"
+          }
+      ]
+     },
+    {
+      "date": "03/09/2015",
+      "observer": null,
+      "original_text": "במצפה האחים בכוכב יאיר צור-יגאל  , במצפה רמון - התחלת פריחה",
+      "locations": [
+        {
+          "location_name": "כוכב יאיר",
+          "flowers": ["חצב"],
+           "maps_query_location": "Kochav Yair"
+        },
+        {
+           "location_name": "צור יגאל",
+            "flowers": ["חצב"],
+          "maps_query_location": "Tzur Yigal"
+        },
+        {
+           "location_name":"מצפה רמון",
+           "flowers": ["חצב"],
+           "maps_query_location": "Mitzpe Ramon"
+        }
+      ]
+    }
+  ]
+}
+```

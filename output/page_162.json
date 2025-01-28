@@ -1,0 +1,257 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "ביער שוהם ליד חורבות הכנסיה , \nביער בן-שמן מדרום למושב גמזו .",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Shoham Forest"
+        },
+         {
+          "location_name": "חורבות הכנסיה",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Khorbat HaKnesiya"
+        },
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["נרקיס"],
+            "maps_query_location": "Ben Shemen Forest"
+        },
+           {
+          "location_name": "גמזו",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Gamzo"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "מעלה מור",
+      "locations": [
+        {
+          "location_name": "מעלה מור",
+          "flowers": ["צמרורה אפריקאית", "עוקץ עקרב מדברי", "פגוניה דקת עלים", "פרושית גלונית", "פריינית קרחת", "קוטב דו זיזי"],
+          "maps_query_location": "Ma'aleh Mor"
+        }
+      ]
+    },
+   {
+      "date": "12/12/2021",
+      "observer": null,
+       "original_text": "סיתוונית ירושלים בעין תות",
+      "locations": [
+        {
+          "location_name": "עין תות",
+          "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Ein Tut"
+        }
+      ]
+    },
+     {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "בין עין גדי מצדה ונחל ערוגות ",
+         "locations": [
+        {
+          "location_name": "עין גדי",
+           "flowers": ["רחפתן המדבר","חבלבל מדברי","כופר לבן"],
+          "maps_query_location": "Ein Gedi"
+        },
+         {
+          "location_name": "מצדה",
+           "flowers": ["רחפתן המדבר","חבלבל מדברי"],
+          "maps_query_location": "Masada"
+        },
+         {
+          "location_name":"נחל ערוגות",
+           "flowers": [],
+            "maps_query_location": "Nahal Arugot"
+        }
+      ]
+    },
+     {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "שיטה חד קרנית מלונות ים המלח\nלבדנית צהבהבת מלונות ים המלח",
+      "locations": [
+         {
+          "location_name": "מלונות ים המלח",
+           "flowers": ["שיטה חד קרנית","לבדנית צהבהבת"],
+          "maps_query_location": "Dead Sea Hotels"
+         }
+       ]
+    },
+     {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "בולנטוס דק גבעול ליד מגרון",
+      "locations": [
+          {
+            "location_name": "מגרון",
+            "flowers": ["בולנטוס דק גבעול"],
+            "maps_query_location": "Migron"
+          }
+       ]
+    },
+     {
+      "date":"12/12/2021",
+      "observer":null,
+      "original_text": "דמיה לבידה\nגרויה שעירה\nצלף רותמי\nמלוחיה נאכלת\nמרואה עבת עלים\nמרווה מצרית\nניל מכסיף",
+      "locations": [
+        {
+            "location_name": "עין גדי",
+            "flowers": ["דמיה לבידה","גרויה שעירה","צלף רותמי","מלוחיה נאכלת","מרואה עבת עלים","מרווה מצרית","ניל מכסיף"],
+            "maps_query_location": "Ein Gedi"
+        }
+       ]
+    },
+     {
+      "date": "12/12/2021",
+      "observer": null,
+       "original_text": "כרכום החרמון תת מין ארץ ישראלי",
+      "locations": [
+         {
+          "location_name":"החרמון",
+           "flowers":["כרכום החרמון"],
+            "maps_query_location":"Mount Hermon"
+         }
+        ]
+    },
+      {
+      "date": "12/12/2021",
+      "observer": null,
+      "original_text": "אצבוע ים המלח בעליה לצוקי דרגות",
+      "locations": [
+         {
+          "location_name":"צוקי דרגות",
+          "flowers":["אצבוע ים המלח"],
+          "maps_query_location": "Zukei Dargot"
+          }
+        ]
+      },
+       {
+      "date": "12/12/2021",
+      "observer": null,
+       "original_text": "געדת הסלעים ליד עין תות",
+      "locations": [
+        {
+          "location_name": "עין תות",
+          "flowers": ["געדת הסלעים"],
+          "maps_query_location": "Ein Tut"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2021",
+      "observer": "מיכל ליפשיץ",
+      "original_text": "בדרך נוף בית-קשת, המתחילה מנצרת, נרקיסים מכסים את מורדות ההר.",
+      "locations": [
+        {
+          "location_name": "נצרת",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nazareth"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2021",
+      "observer": null,
+      "original_text": "בפריחה בשמורת אודים",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Udim Reserve"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2021",
+      "observer": "שי ל.",
+       "original_text": "הרבה נרקיסים, מרבדי כרכומים (התחלה) בחלק העליון בלבד של המסלול הירוק.",
+      "locations": [
+        {
+          "location_name": "מצפור קרן הכרמל",
+          "flowers": ["נרקיס","כרכום"],
+          "maps_query_location": "Keren HaCarmel Lookout"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2021",
+       "observer": null,
+      "original_text": "נרקיסים, \nסתווניות בסוף הפריחה",
+      "locations": [
+        {
+          "location_name": "יער עופר",
+          "flowers": ["נרקיס", "סתוונית"],
+          "maps_query_location": "Ofer Forest"
+        }
+      ]
+    },
+    {
+       "date": "11/12/2021",
+        "observer": null,
+      "original_text": "נראה היום למרגלות יודפת העתיקה בצד המזרחי...",
+      "locations": [
+        {
+          "location_name": "יודפת העתיקה",
+          "flowers": ["אחילוף הגליל"],
+          "maps_query_location": "Yodfat"
+        }
+      ]
+    },
+     {
+      "date": "11/12/2021",
+      "observer": null,
+      "original_text": " נרקיסים רבים בשיא פריחתם בדרך הקיסר בהרי יהודה. הרבה כרכומים, רקפות בודדות גם.",
+       "locations": [
+        {
+          "location_name": "הרי יהודה",
+          "flowers": ["נרקיס","כרכום","רקפת"],
+          "maps_query_location": "Judean Mountains"
+        }
+      ]
+    },
+    {
+      "date": "11/12/2021",
+      "observer": "עידו מגן",
+      "original_text": "בחורשה ממזרח לאנדרטת אגרוף ורומח ביער קולה פורחים מאות נרקיסים; גם ביער שהם, ליד חרבת תנשמת.",
+        "locations": [
+        {
+          "location_name": "יער קולה",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Kula Forest"
+        },
+         {
+          "location_name": "יער שהם",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Shoham Forest"
+        },
+         {
+           "location_name":"חרבת תנשמת",
+           "flowers": ["נרקיס"],
+            "maps_query_location":"Khorbat Tinshemet"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2021",
+      "observer": "יעקב ירון",
+       "original_text":"תחילת רקפות\nהמוני נרקיסים",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": ["רקפת", "נרקיס"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    }
+  ]
+}
+```

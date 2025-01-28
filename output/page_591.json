@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/10/2013",
+      "observer": null,
+      "original_text": "בשביל הפסגה בהר מירון פורחות סתווניות בכירות והתחלת פריחת חלמונית גדולה",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["סתוונית", "חלמונית גדולה"],
+            "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "05/10/2013",
+      "observer": "שמיל קליין",
+      "original_text": "ברכס חזקה\nעשרות חלמוניות ומאות סתוניות",
+      "locations": [
+        {
+          "location_name": "רכס חזקה",
+          "flowers": ["חלמונית", "סתוונית"],
+          "maps_query_location": "Har Hazakah"
+        }
+      ]
+    },
+    {
+      "date": "04/10/2013",
+      "observer": "יואב סילברט",
+      "original_text": "היום מצאנו פריחות של סתוונית הקליפות בבורות לוץ ובבור חמת (ליד מצפה רמון).",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": ["סתוונית הקליפות"],
+            "maps_query_location": "Borot Lutz"
+        },
+        {
+          "location_name": "בור חמת",
+           "flowers": ["סתוונית הקליפות"],
+            "maps_query_location": "Bor Hamat"
+        },
+         {
+            "location_name": "מצפה רמון",
+             "flowers": null,
+             "maps_query_location": "Mitzpe Ramon"
+         }
+      ]
+    },
+    {
+      "date": "01/10/2013",
+      "observer": "עירית",
+      "original_text": "דיווח מצולם ישיר מהשטח שקיבלתי מהמטייל אנדי גוטמן  הבוקר מראה פריחת חלמונית גדולה וסתוונית התשבץ בהר חוזק",
+      "locations": [
+        {
+          "location_name": "הר חוזק",
+           "flowers": ["חלמונית גדולה", "סתוונית התשבץ"],
+            "maps_query_location": "Har Hozek"
+        }
+      ]
+    },
+    {
+      "date": "29/09/2013",
+      "observer": null,
+      "original_text": "במצוקים של נחל מערות בכרמל., וגם הרבה חצבים (כבר מעבר לשיא), שומר פשוט. בגבעת ההגנה עדיין פורח שום סתווי . בדרך בית-אורן וגם בדרך סטלה-מאריס פורחת חבצלת קטנת-פרחים ופרע קטן-עלים",
+      "locations": [
+        {
+          "location_name": "נחל מערות",
+          "flowers": ["ציפורן משתלשל"],
+          "maps_query_location": "Nahal Mearot"
+        },
+          {
+          "location_name": "גבעת ההגנה",
+           "flowers": ["שום סתווי"],
+             "maps_query_location": "Givat Hahagana"
+         },
+        {
+          "location_name": "בית אורן",
+           "flowers": ["חבצלת קטנת פרחים", "פרע קטן עלים"],
+             "maps_query_location": "Beit Oren"
+        },
+        {
+          "location_name": "סטלה מאריס",
+           "flowers": ["חבצלת קטנת פרחים", "פרע קטן עלים"],
+          "maps_query_location":"Stella Maris"
+        }
+      ]
+    },
+     {
+      "date": "29/09/2013",
+      "observer": "עירית",
+      "original_text": "גם הרקפת וגם השינן \"סתוויים\" ללא עלים.",
+      "locations": [
+        {
+          "location_name": "יער ביריה",
+          "flowers": ["רקפת מצויה", "שינן עב שורש"],
+           "maps_query_location": "Biriya Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/09/2013",
+      "observer": "יואב סילברט",
+       "original_text": "28.9.2013, ראינו את חבצלת הנגב בשיא פריחה לאורך כביש הכניסה לממשית.",
+       "locations": [
+        {
+          "location_name": "ממשית",
+           "flowers": ["חבצלת הנגב"],
+            "maps_query_location":"Mamshit"
+        }
+      ]
+    },
+    {
+      "date": "26/09/2013",
+      "observer": "אוהד גור",
+      "original_text": "בשביל פרחי הבר ביער ראש העין המוני חבצלות קטנות פרחים",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": ["חבצלת קטנת פרחים"],
+          "maps_query_location": "Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "25/09/2013",
+      "observer": null,
+      "original_text": "בטיול בהר חוזק היום- רכס בשנית, נצפו כמה פריטים בפריחה מלאה ומרהיבה של סתוונית התשבץ. החלמונית הגדולה עדיין לא פורחת והיא תתחיל ,ככל ההנראה, לפרוח בעוד כמה-10 ימים.",
+       "locations": [
+          {
+              "location_name": "הר חוזק",
+              "flowers": ["סתוונית התשבץ"],
+               "maps_query_location": "Har Hozek"
+          },
+          {
+            "location_name": "רכס בשנית",
+              "flowers": ["סתוונית התשבץ"],
+               "maps_query_location": "Bashanit ridge"
+          }
+        ]
+    },
+     {
+      "date": "25/09/2013",
+      "observer": "נביל  אבושקארה",
+       "original_text": "אני ב ן אדם שאוהב טבע ואין צמח שלא צילמתי \nביום שני 23.09.2013 בחזרה מטבריה לכפר מגאר בכניסה לואדי חמאם על יד מאגר המים שטח של מאות מטרים מכוסים חצבים . פשוט מהמם \nנא להראות את האימיל שלי תודה רבה וחג שמח לכל בית ישראל",
+       "locations": [
+        {
+          "location_name": "טבריה",
+          "flowers": ["חצב"],
+            "maps_query_location": "Tiberias"
+        },
+         {
+          "location_name": "כפר מגאר",
+          "flowers": ["חצב"],
+          "maps_query_location": "Maghar"
+        },
+         {
+          "location_name": "ואדי חמאם",
+           "flowers": ["חצב"],
+            "maps_query_location": "Wadi Hamam"
+        }
+       ]
+    }
+  ]
+}
+```

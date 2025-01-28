@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/01/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "שפע כלניות לבנות ומעט ורודות ואדומות ו-שני פרטים של לופית מצויה, בתחילת הדרך לפארק יער שוהם.",
+      "locations": [
+        {
+          "location_name": "פארק יער שוהם",
+           "flowers": ["כלנית לבנה", "כלנית ורודה", "כלנית אדומה", "לופית מצויה"],
+          "maps_query_location": "Shoham Forest Park"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2022",
+      "observer": null,
+      "original_text": "המוני חינניות הבתה בשיא, כלניות התחלה, רקפות התחלה, המוני כתמה עבת שורשים, (וזבל...)",
+      "locations": [
+         {
+          "location_name": "יער קולה",
+          "flowers": ["חיננית הבתה", "כלנית", "רקפת", "כתמה עבת שורשים"],
+          "maps_query_location": "Kula Forest"
+        }
+      ]
+    },
+     {
+      "date": "12/01/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "רוזמרין רפואי פורח במערות אפקה (קברות השומרונים) ובכרמל באזור חורבת רקית.",
+      "locations": [
+        {
+          "location_name": "מערות אפקה",
+           "flowers": ["רוזמרין רפואי"],
+          "maps_query_location": "Aphek Caves"
+         },
+        {
+          "location_name": "כרמל",
+           "flowers": ["רוזמרין רפואי"],
+          "maps_query_location": "Carmel"
+        },
+        {
+           "location_name": "חורבת רקית",
+           "flowers": ["רוזמרין רפואי"],
+          "maps_query_location": "Hurvat Rakit"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2022",
+       "observer": "גיורא רמות",
+      "original_text": "פריחה עשירה של רקפות ביער בלפור ליד מגדל העמק",
+       "locations": [
+        {
+          "location_name": "יער בלפור",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Balfour Forest"
+        },
+        {
+          "location_name": "מגדל העמק",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Migdal HaEmeq"
+        }
+      ]
+    },
+    {
+       "date": "12/01/2022",
+      "observer": "אורנה ניסן",
+      "original_text": "מקבצי רקפות לאורך שביל הפלמ''ח בגליל העליון. יש בינייהן אפילו כמה כמעט סגולות! לתשומת לב מדריכי הטבע, השילוט של שביל הפלמ''ח וניל קדש, כמעט מחוקי לגמרי!",
+      "locations": [
+       {
+          "location_name": "שביל הפלמ''ח",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Palmach Trail"
+        },
+        {
+          "location_name": "גליל העליון",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Upper Galilee"
+        },
+         {
+           "location_name": "ניל קדש",
+            "flowers": ["רקפת"],
+          "maps_query_location": "Nir Kadesh"
+         }
+      ]
+    },
+    {
+      "date": "11/01/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "בצד ימין של דרך העפר המתפצלת מכביש גבעת וולפסון ויורדת לשביל כחול לעין אלון, נראו דבורניות שחומות רבות, וגם זלזלת הקנוקנות.",
+      "locations": [
+       {
+          "location_name": "גבעת וולפסון",
+           "flowers":["דבורנית שחומה", "זלזלת הקנוקנות"],
+          "maps_query_location": "Givat Wolfson"
+        },
+        {
+          "location_name": "עין אלון",
+           "flowers":["דבורנית שחומה", "זלזלת הקנוקנות"],
+          "maps_query_location": "Ein Alon"
+        }
+      ]
+    },
+      {
+      "date": "11/01/2022",
+      "observer": null,
+      "original_text": "כתמה עברת שורשים, רקפות, פטריות ( אורניות), אספרג מצמיח חוטרים טובים למאכל, לופית המונים ... איריס ארצישראלי קישט לנו את המסלול",
+      "locations": [
+        {
+          "location_name": "יער בן-שמן דרום",
+            "flowers": ["כתמה עברת שורשים", "רקפת", "אספרג", "לופית", "איריס ארצישראלי"],
+          "maps_query_location": "Ben Shemen Forest South"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2022",
+       "observer": "אהרון שגב",
+      "original_text": "רק 2 עצי שקדיה פורחים בפארק איילון קנדה במעלה הפארק רוב. השקדיות טרם פורחות.  מעט רקפות במעלה הפארק.  המעיין יבש",
+      "locations": [
+        {
+          "location_name": "פארק קנדה",
+           "flowers": ["שקד", "רקפת"],
+          "maps_query_location": "Canada Park"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2022",
+       "observer": "אהרון שגב",
+      "original_text": "כלניות לבנות לרוב בכניסה לפארק שוהם. מעט כלניות אדומות ורקפות",
+      "locations": [
+        {
+          "location_name": "פארק שוהם",
+          "flowers": ["כלנית לבנה", "כלנית אדומה", "רקפת"],
+          "maps_query_location": "Shoham Park"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2022",
+       "observer": "תמר פישר",
+      "original_text": "פריחה מרשימה של רקפות ומעט כרכומים בפארק בגין, בין צור הדסה לבר גיורא",
+      "locations": [
+         {
+          "location_name": "פארק בגין",
+          "flowers": ["רקפת", "כרכום"],
+          "maps_query_location": "Begin Park"
+        },
+        {
+           "location_name": "צור הדסה",
+           "flowers": ["רקפת", "כרכום"],
+          "maps_query_location": "Tzur Hadassah"
+         },
+         {
+          "location_name": "בר גיורא",
+           "flowers": ["רקפת", "כרכום"],
+          "maps_query_location": "Bar Giora"
+         }
+      ]
+    }
+  ]
+}
+```

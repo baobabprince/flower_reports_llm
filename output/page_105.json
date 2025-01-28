@@ -1,0 +1,216 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/11/2022",
+      "observer": "ברקוביץ מרדכי",
+      "original_text": "בחירבת סעדים בירושלים בצד המערביקימת פריחה יפה ורחבה של סיתווניות עם נביטה גדולה של עלי איריות",
+      "locations": [
+        {
+          "location_name": "חירבת סעדים",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Khirbet Sa'adim"
+        },
+        {
+           "location_name": "ירושלים",
+           "flowers": ["סתוונית"],
+            "maps_query_location": "Jerusalem"
+         }
+      ]
+    },
+    {
+      "date": "15/11/2022",
+      "observer": "אילת בר",
+      "original_text": "תיקון לדיווח מבלבל קודם: יש מספר פרטים מימין ומשמאל לכניסה הראשונה לשמורת אלוני יצחק",
+       "locations": [
+        {
+          "location_name": "שמורת אלוני יצחק",
+          "flowers": [],
+            "maps_query_location": "Alonai Itzhak"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2022",
+      "observer": null,
+       "original_text": "המלכה החלמונית הזעירה פורחת בפרטים רבים, סתוונית היורה, בן-חצב סתווני, נקרים מנקרים על עצי אלון התבור המשילים את הבלוטים  , גן רומנטי חמוד. לא מצאנו אף אחילוף... גם לא באלוני יצחק ...",
+      "locations": [
+        {
+          "location_name": "גן המייסדים גבעת עדה",
+          "flowers": ["חלמונית זעירה","סתוונית היורה", "בן-חצב סתווני"],
+           "maps_query_location": "Givat Ada"
+        },
+           {
+          "location_name": "אלוני יצחק",
+          "flowers": [],
+           "maps_query_location": "Alonai Itzhak"
+        }
+      ]
+    },
+     {
+      "date": "14/11/2022",
+      "observer": null,
+      "original_text": "צאו עכשיו למקום זה.ראו למטה בקישור מסלול טיול : מאות נרקיסים סתווים, מרבדי סתוונית היורה, וכן בן-חצב סיתווני",
+       "locations": [
+        {
+          "location_name": "חירבת מלח",
+          "flowers": ["נרקיס סתווי", "סתוונית היורה", "בן-חצב סתווני"],
+           "maps_query_location": "Khirbet Melakh"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2022",
+      "observer": null,
+      "original_text": "אבוטילון קהה - צומת-קומרן , אוכם השיח  -צומת-לידו , 9. גומא חום  עין-גדי,  גופנן (ערף) המדבר  עין-גדי ,  גרויה שעירה  בית-כנסת עין-גדי,  דמיה לבידה (פרי)  נחל-חבר,  ורבנה רפואית-עין-גדי,   זקנונית הטבעות - עין-גדי ,  חבלבל מגובב - נחל-חבר, סלוודורה פרסית  - צומת-קומרן סנא מדברי  - עין-גדי,  עוקץ-עקרב ים-מלחי  - חר'-מזין , עוקץ-עקרב מדברי  - מעלה-מור , עליעב - עין-גדי  , פגוניה צרת-עלים  -מעלה-מור,  פוקה קוצנית  - ים-המלח , פלומית בובה  -  נחל-בוקק,  פרעושית טיונית  -  עין-גדי , פתילת-המדבר הגדולה - עין-גדי, צלף רותמי (פרי) -בית-כנסת עין-גדי,  צלף-רותמי  - בית-כנסת עין-גדי , קוטב דו זיזי  - מעלה-מור, קוטב דו זיזי  זוגניים  עין-גדי",
+      "locations": [
+        {
+            "location_name": "צומת קומרן",
+           "flowers": ["אבוטילון קהה", "סלוודורה פרסית"],
+            "maps_query_location": "Qumran"
+        },
+         {
+            "location_name": "צומת לידו",
+            "flowers": ["אוכם השיח"],
+              "maps_query_location": null
+        },
+          {
+            "location_name": "עין גדי",
+            "flowers": ["גומא חום", "גופנן (ערף) המדבר", "ורבנה רפואית", "זקנונית הטבעות", "סנא מדברי", "עליעב", "פרעושית טיונית", "פתילת-המדבר הגדולה", "קוטב דו זיזי זוגניים"],
+               "maps_query_location": "Ein Gedi"
+         },
+          {
+           "location_name": "בית כנסת עין גדי",
+           "flowers": ["גרויה שעירה", "צלף רותמי", "צלף-רותמי"],
+            "maps_query_location": null
+           },
+           {
+           "location_name": "נחל חבר",
+           "flowers": ["דמיה לבידה", "חבלבל מגובב"],
+            "maps_query_location": "Nahal Hever"
+           },
+          {
+            "location_name":"חרבת מזין",
+            "flowers":["עוקץ-עקרב ים-מלחי"],
+             "maps_query_location":null
+            },
+           {
+            "location_name":"מעלה מור",
+            "flowers":["עוקץ-עקרב מדברי", "פגוניה צרת-עלים", "קוטב דו זיזי"],
+             "maps_query_location":null
+            },
+           {
+             "location_name": "ים המלח",
+             "flowers": ["פוקה קוצנית"],
+               "maps_query_location":"Dead Sea"
+           },
+           {
+             "location_name":"נחל בוקק",
+             "flowers": ["פלומית בובה"],
+              "maps_query_location":"Nahal Bokek"
+           }
+      ]
+    },
+     {
+      "date": "12/11/2022",
+      "observer": null,
+       "original_text": "בתל כיסלון, הגבעה ליד ג'יסר א זרקה, ביסעור, בחירבת חנות וביער קנדה",
+      "locations": [
+        {
+          "location_name": "תל כיסלון",
+          "flowers": ["סתוונית היורה"],
+            "maps_query_location": "Tel Kislon"
+        },
+          {
+          "location_name": "ג'יסר א זרקה",
+          "flowers": ["סתוונית היורה"],
+           "maps_query_location": "Jisr az-Zarqa"
+        },
+        {
+          "location_name":"יסעור",
+           "flowers": ["סתוונית היורה"],
+            "maps_query_location": "Yassur"
+        },
+         {
+          "location_name": "חירבת חנות",
+           "flowers": ["סתוונית היורה"],
+           "maps_query_location": "Khirbet Hanut"
+         },
+         {
+            "location_name":"יער קנדה",
+             "flowers": ["סתוונית היורה"],
+             "maps_query_location": "Canada Park"
+         }
+      ]
+    },
+    {
+        "date": "12/11/2022",
+        "observer": null,
+        "original_text":"חיכינו הרבה והנה היא פורחת : חלמונית זעירה, סתוונית היורה וגם בלוטים נושרים בחורשה הרומנטית הזו .",
+        "locations": [
+          {
+              "location_name":"גן המייסדים",
+              "flowers":["חלמונית זעירה","סתוונית היורה"],
+              "maps_query_location":null
+           }
+       ]
+    },
+    {
+      "date": "12/11/2022",
+      "observer": "אורית משעל",
+      "original_text": "סתווניות בירידה ממצפה הדר בשביל המסומן ירוק לכיוון צור נתן.",
+      "locations": [
+        {
+          "location_name": "מצפה הדר",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Mitzpe Heder"
+        },
+        {
+          "location_name": "צור נתן",
+           "flowers": ["סתוונית"],
+           "maps_query_location": "Tzur Natan"
+        }
+      ]
+    },
+     {
+      "date":"11/11/2022",
+      "observer": "אילת בר",
+      "original_text": "החלה פריחה בגן המייסדים",
+       "locations": [
+        {
+           "location_name":"גן המייסדים גבעת עדה",
+           "flowers":["חלמונית זעירה"],
+            "maps_query_location": "Givat Ada"
+        }
+       ]
+    },
+    {
+      "date": "11/11/2022",
+      "observer": "עידו מגן",
+      "original_text": "בחניון יער הקדושים שליד כסלון שפע סתווניות, וגם התחלה של פריחת רקפות ונרקיסים; בחניון לילה בר גיורא פורחות סתווניות בהמוניהן ובחורבת חנות גם כן סתווניות ומעט פריחה של נרקיסים, רקפות וכרכומים בראשיתה. כל המקומות הללו מוריקים בעקבות הגשם",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+          "flowers": ["סתוונית", "רקפת", "נרקיס"],
+          "maps_query_location":"Yekev Kedoshim Forest"
+        },
+        {
+          "location_name":"כסלון",
+           "flowers": ["סתוונית", "רקפת", "נרקיס"],
+            "maps_query_location": "Kesalon"
+        },
+        {
+          "location_name": "בר גיורא",
+          "flowers": ["סתוונית"],
+            "maps_query_location": "Bar Giora"
+        },
+         {
+           "location_name":"חורבת חנות",
+           "flowers":["סתוונית","נרקיס","רקפת","כרכום"],
+            "maps_query_location": "Khirbet Hanut"
+         }
+      ]
+    }
+  ]
+}
+```

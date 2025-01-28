@@ -1,0 +1,255 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/02/2015",
+      "observer": "אוקנין יחיאל",
+      "original_text": "תגלית \"מקור חסידה תמים\" הצפוני ביותר נצפה במעגן מיכאל.\n16.2.15 מס' רב של פריטים  על מאה מ\"מר על גבעה בחוף הים מול טירת כרמל בסמוך מדרום לנחל גלים הנישפך לים.\nועוד עדעד כחול .שום משולש. רותם .נורית אסיה ועוד.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+            "Erodium malacoides",
+            "עדעד כחול",
+            "Allium tripedale",
+             "רותם",
+            "Ranunculus asiaticus"
+           ],
+          "maps_query_location": "Ma'agan Michael"
+        },
+        {
+          "location_name": "טירת כרמל",
+           "flowers": [
+             "Erodium malacoides",
+             "עדעד כחול",
+             "Allium tripedale",
+              "רותם",
+             "Ranunculus asiaticus"
+            ],
+          "maps_query_location": "Tirat Carmel"
+        },
+         {
+          "location_name": "נחל גלים",
+           "flowers": [
+              "Erodium malacoides",
+             "עדעד כחול",
+             "Allium tripedale",
+              "רותם",
+              "Ranunculus asiaticus"
+            ],
+          "maps_query_location": "Nahal Galiim"
+        }
+
+      ]
+    },
+    {
+      "date": "17/02/2015",
+      "observer": null,
+      "original_text": "פשתנית משולשת,ורומוליאה זעירה פורחות בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Linaria triornithophora",
+            "Romulea minuta"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2015",
+      "observer": "יעל בר",
+      "original_text": "נחל הכובשים סמוך לשכונת נווה מנחם בב\"ש, שבת 14.2.16 דיווח מתוך הזיכרון \nכלניות ( די הרבה) , זהבית, נץ חלב, חרדל לבן, מרווה דגולה, סביונים , חרציות, מתנן (פורח), מרווה ריחנית, בן שלח, שלח, מנתור, מרגנית השדה, מצילות ארוכות עוקץ",
+       "locations": [
+        {
+          "location_name": "נחל הכובשים",
+          "flowers": [
+            "Anemone coronaria",
+            "Gagea spp.",
+            "Ornithogalum spp.",
+            "Sinapis alba",
+            "Salvia grandiflora",
+            "Senecio spp.",
+            "Chrysanthemum spp.",
+            "Globularia arabica",
+            "Salvia odorata",
+             "Bituminaria bituminosa",
+            "Coronilla scorpioides",
+            "Mentha longifolia",
+             "Bellis sylvestris",
+             "Tordylium aegyptiacum"
+          ],
+          "maps_query_location": "Nahal HaKovshim"
+        },
+        {
+           "location_name": "באר שבע",
+           "flowers": [
+             "Anemone coronaria",
+            "Gagea spp.",
+            "Ornithogalum spp.",
+            "Sinapis alba",
+            "Salvia grandiflora",
+            "Senecio spp.",
+            "Chrysanthemum spp.",
+            "Globularia arabica",
+            "Salvia odorata",
+             "Bituminaria bituminosa",
+            "Coronilla scorpioides",
+            "Mentha longifolia",
+             "Bellis sylvestris",
+             "Tordylium aegyptiacum"
+            ],
+           "maps_query_location": "Be'er Sheva"
+         },
+          {
+           "location_name": "נווה מנחם",
+            "flowers": [
+             "Anemone coronaria",
+             "Gagea spp.",
+             "Ornithogalum spp.",
+              "Sinapis alba",
+              "Salvia grandiflora",
+              "Senecio spp.",
+              "Chrysanthemum spp.",
+             "Globularia arabica",
+             "Salvia odorata",
+             "Bituminaria bituminosa",
+             "Coronilla scorpioides",
+              "Mentha longifolia",
+               "Bellis sylvestris",
+               "Tordylium aegyptiacum"
+            ],
+           "maps_query_location": "Neve Menachem"
+         }
+      ]
+    },
+    {
+      "date": "16/02/2015",
+      "observer": null,
+      "original_text": "פריחה בודדת  של סחלב פרפרני בקרני שומרון ופריחה המונית של צבעוני הרים בשכונות המזרחיות של קרני שומרון וסביב הגבעה של משה זר.",
+      "locations": [
+        {
+          "location_name": "קרני שומרון",
+          "flowers": [
+            "Orchis papilionacea",
+             "Tulipa montana"
+          ],
+          "maps_query_location": "Karnei Shomron"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2015",
+      "observer": null,
+      "original_text": "פשתנית זעירת פרחים,מצילות מצויצות וארוכות עוקץ פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+             "Linaria micrantha",
+            "Tordylium trachycarpum",
+            "Tordylium aegyptiacum"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2015",
+      "observer": null,
+      "original_text": "שפע פריחה בעיקר כלניות שיא הפריחה\nמי שצריך עזרה איך להגיע שיתקשר 052 3351549 לא בשבת",
+      "locations": [
+        {
+          "location_name": "נחל אדורים",
+          "flowers": [
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Nahal Adorim"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2015",
+       "observer": null,
+      "original_text": "שיא פריחה של תורמוסים כחולים ועוד שפע פריחה",
+        "locations": [
+        {
+          "location_name": "תל שוכה",
+          "flowers": [
+            "Lupinus pilosus"
+           ],
+          "maps_query_location": "Tel Shokha"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2015",
+      "observer": "אלי ליבנה",
+      "original_text": "פרחו:\nסחלב נקוד,  כרמלית נאה,  דבורנית שחומה,  סחלב פרפרני,  בן חצב החורש,  זמזומית מצויה,  רקפת מצויה וכלניות.",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+           "Orchis punctulata",
+            "Gynandriris sisyrinchium",
+            "Ophrys umbrosa",
+            "Orchis papilionacea",
+            "Scilla hyacinthoides",
+            "Cerinthe major",
+            "Cyclamen persicum",
+            "Anemone coronaria"
+          ],
+           "maps_query_location":"Carmel"
+         }
+      ]
+    },
+       {
+      "date": "10/02/2015",
+      "observer": null,
+       "original_text":"חומעת האווירון,שום הפטמות,חלבלוב השיח,אזוביון דגול,ונוניאה נאה פורחים בגן בגעש",
+      "locations": [
+        {
+           "location_name": "געש",
+          "flowers": [
+            "Rumex bucephalophorus",
+            "Allium papillare",
+            "Euphorbia hierosolymitana",
+             "Lavandula stoechas",
+             "Nonea pallens"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "10/02/2015",
+      "observer": null,
+       "original_text":"באילנות ובגבעת האיריסים בנתניה",
+       "locations": [
+         {
+           "location_name":"אילנות",
+           "flowers": [
+             "Allium telavivense"
+           ],
+           "maps_query_location": "Ilanot"
+         },
+         {
+           "location_name": "גבעת האיריסים",
+           "flowers": [
+            "Allium telavivense"
+           ],
+          "maps_query_location": "Givat HaIrsisim"
+        },
+         {
+            "location_name":"נתניה",
+             "flowers": [
+             "Allium telavivense"
+              ],
+           "maps_query_location":"Netanya"
+          }
+        ]
+    }
+  ]
+}
+```

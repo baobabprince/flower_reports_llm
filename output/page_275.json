@@ -1,0 +1,201 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/12/2019",
+      "observer": null,
+      "original_text": "חלמוניות שמורת נחל ראש פינה בהר מול שלט הכניסה לשמורה",
+      "locations": [
+        {
+          "location_name": "שמורת נחל ראש פינה",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Nahal Rosh Pina Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2019",
+      "observer": null,
+      "original_text": "לבקשת זוג מטיילים נחמד. פריחת חלמוניות על השביל האדום מעל הנחל. עשרות פריטים. נראו כמה פריטים בודדים של כרכום גריידו. בנוסף נצפו: לופית מצויה. ציפורנית מצוירת. שברק מצוי. עופרית אירופאית. סתוונית היורה.",
+      "locations": [
+        {
+          "location_name": "נחל מחניים",
+           "flowers": [
+            "חלמונית",
+            "כרכום גריידו",
+            "לופית מצויה",
+            "ציפורנית מצוירת",
+            "שברק מצוי",
+             "עופרית אירופאית",
+             "סתוונית היורה"
+          ],
+          "maps_query_location": "Nahal Mahanayim"
+        }
+      ]
+    },
+    {
+      "date": "06/12/2019",
+      "observer": null,
+       "original_text": "עם מטיילי יום ד'",
+      "locations": [
+        {
+          "location_name": "הנגב",
+          "flowers": [],
+           "maps_query_location": "Negev"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2019",
+      "observer": "עידו מגן",
+      "original_text": "נכון לכ\"ט בנובמבר, מאות חלמוניות פורחות בעמק שבין מצפור אור אסרף ביער להבים למנהרה שמתחת לכביש 6",
+      "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": [
+            "חלמונית"
+           ],
+          "maps_query_location": "Lahavim"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2019",
+      "observer": "אילן סקלי",
+       "original_text": "חזרנו מלהבים ממש מתלהבים. למרות היובש החלמוניות ליד הישוב להבים חוגגות. יד אלמונית אוהבת בנתה גדרות זעירות סביב חלמוניות שעוד לא גדלו מספיק.",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lahavim"
+        }
+      ]
+    },
+     {
+      "date": "28/11/2019",
+      "observer": null,
+      "original_text": "עם חבורת מטיילי יום ד' .",
+      "locations": [
+         {
+          "location_name": "רמת הגולן",
+          "flowers": [
+            "גאופיטים"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2019",
+      "observer": null,
+      "original_text":"עם חבורת מטיילי יום ד'.",
+      "locations": [
+        {
+          "location_name": "צומת גלוני",
+           "flowers": [
+            "סתוונית ירושלים"
+           ],
+          "maps_query_location": "Galoni Junction"
+        },
+        {
+         "location_name": "גליל תחתון",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location":"Lower Galilee"
+        }
+      ]
+    },
+    {
+      "date": "27/11/2019",
+      "observer": null,
+       "original_text": "מלפפון הנביאים, צומח בין פוריה עלית לכפר עבודה (מערב) בסמוך לצינור הגז. במשך הזמן, מצאתי סביב כפר עבודה מקומות נוספים בהם הוא צומח. קוטר של חלקם מגיע אף למטר וחצי.",
+      "locations": [
+        {
+           "location_name": "פוריה עלית",
+          "flowers": [
+            "מלפפון הנביאים"
+          ],
+          "maps_query_location": "Poria Illit"
+        },
+         {
+           "location_name": "כפר עבודה",
+          "flowers": [
+            "מלפפון הנביאים"
+          ],
+           "maps_query_location": "Kfar Avoda"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2019",
+      "observer": null,
+       "original_text": "איפה הגשם ? ראו קישור",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+            "איריס הסרגל"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+     {
+      "date": "24/11/2019",
+      "observer": null,
+      "original_text": "הר-אדיר : אחילוף קטן , עצבונית החורש בפרי , שבטן לבן , סתוונית בכירה, כרכום חורפי  מערת פער: כרכום צהבהב , עפעפית עגולת-עלים הר מירון : כרכום נאה , חלמונית גדולה, אחילוף קטן מערת עלמה: אשחר מנוקד , אלון תולע בריכת סאסא: אפרורית מצויה, קייצת קנדית",
+       "locations": [
+        {
+           "location_name": "הר אדיר",
+           "flowers": [
+            "אחילוף קטן",
+            "עצבונית החורש",
+            "שבטן לבן",
+            "סתוונית בכירה",
+            "כרכום חורפי"
+          ],
+           "maps_query_location": "Har Adir"
+        },
+        {
+          "location_name": "מערת פער",
+          "flowers": [
+             "כרכום צהבהב",
+            "עפעפית עגולת-עלים"
+          ],
+           "maps_query_location": "Me'arat Pa'er"
+        },
+         {
+          "location_name": "הר מירון",
+          "flowers": [
+            "כרכום נאה",
+            "חלמונית גדולה",
+             "אחילוף קטן"
+          ],
+           "maps_query_location":"Har Meron"
+        },
+        {
+           "location_name": "מערת עלמה",
+           "flowers": [
+             "אשחר מנוקד",
+              "אלון תולע"
+           ],
+           "maps_query_location": "Me'arat Alma"
+        },
+       {
+           "location_name": "בריכת סאסא",
+           "flowers": [
+             "אפרורית מצויה",
+             "קייצת קנדית"
+           ],
+           "maps_query_location": "Sasa Pool"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/11/2021",
+      "observer": null,
+      "original_text": "פריחת שיא בקיבוץ יסעור , בגבעת הסיתווניות בג'סר א זרקה, וברוב חלקי מרכז הארץ  ",
+      "locations": [
+        {
+          "location_name": "קיבוץ יסעור",
+           "flowers": ["סתוונית"],
+          "maps_query_location": "Kibbutz Yas'ur"
+        },
+        {
+          "location_name": "גבעת הסיתווניות",
+            "flowers": ["סתוונית"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "ג'סר א זרקה",
+           "flowers": ["סתוונית"],
+          "maps_query_location": "Jisr az-Zarqa"
+        },
+        {
+          "location_name": "מרכז הארץ",
+          "flowers": ["סתוונית"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "29/11/2021",
+       "observer": null,
+      "original_text": "מרבדי סתוונית היורה, מרבדי נרקיס סתווי , \nבן-חצב סיתווני וכדן קטן פרחים ",
+      "locations": [
+        {
+           "location_name": "ג'יסר-א-זרקה",
+            "flowers": ["סתוונית היורה", "נרקיס סתווי", "בן-חצב סיתווני", "כדן קטן פרחים"],
+          "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2021",
+       "observer": null,
+      "original_text": "ממשית\nאחילוף הנגב,  דוביאליס קוצני, יפרוק המדבר, חבצלת הנגב (פיזור זרעים) \nעין-הנצי''ב\nאספרג ארץ-ישראלי, ירבוז שרוע, זליה מחומשת \nנחל אצבוע : זוגן השיח, אזובית המדבר  \nלהבים: חלמוניות ונרקיסים וסתווניות \n: מלחת נגדית \nניידת החוף : על אגם-ירוחם",
+      "locations": [
+         {
+          "location_name": "ממשית",
+           "flowers": ["אחילוף הנגב", "דוביאליס קוצני", "יפרוק המדבר", "חבצלת הנגב"],
+          "maps_query_location": "Mamshit"
+        },
+        {
+           "location_name": "עין הנציב",
+           "flowers": ["אספרג ארץ-ישראלי", "ירבוז שרוע", "זליה מחומשת"],
+          "maps_query_location": "Ein HaNetziv"
+        },
+           {
+          "location_name": "נחל אצבוע",
+           "flowers": ["זוגן השיח", "אזובית המדבר"],
+          "maps_query_location": "Nahal Atzboa"
+        },
+        {
+          "location_name": "להבים",
+          "flowers": ["חלמונית", "נרקיס", "סתוונית"],
+          "maps_query_location": "Lehavim"
+        },
+          {
+          "location_name": "אגם ירוחם",
+           "flowers": ["מלחת נגדית"],
+          "maps_query_location": "Yeruham Lake"
+        }
+      ]
+    },
+     {
+      "date": "26/11/2021",
+      "observer": null,
+      "original_text": "פריחת חלמוניות שיא פריחה. במקום נצפה גם פריחה דלילה של אלקנה סמורה ומרגנית השדה",
+      "locations": [
+        {
+          "location_name": "גבעת הראל",
+          "flowers": ["חלמונית", "אלקנה סמורה", "מרגנית השדה"],
+           "maps_query_location": "Givat Harel"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2021",
+      "observer": "ענת טל",
+      "original_text": "סיתונית היורה בבודדות ומשטחים גם בפארק גורן.",
+       "locations": [
+        {
+          "location_name": "פארק גורן",
+           "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Goren Park"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2021",
+       "observer": "אלחנן נוסינסון",
+      "original_text": "שפע של סתוניות קצרות עלים , בעמק מן לפני וליד הבריכה ,(הירידה לעמק מן בשביל האדום מהחניון  ליד הקופות).\nכרכום החרמון: נראו 5 פרטים, בירידה (הרגלית), מיד בתחילת הירידה בכביש האדום מהשער הצהוב הסגור.",
+      "locations": [
+        {
+          "location_name": "עמק מן",
+           "flowers": ["סתוונית קצרת עלים", "כרכום החרמון"],
+          "maps_query_location": "Emeq Man"
+        }
+      ]
+    },
+    {
+      "date": "24/11/2021",
+      "observer": null,
+       "original_text": "בקיבוץ יסעור הן פורחות במרבד - צצו תוך 3 ימים ופרחו \nהמרבד נחמד אבל אל כמו בשנים קודמות ",
+      "locations": [
+        {
+          "location_name": "קיבוץ יסעור",
+           "flowers": ["סתוונית"],
+          "maps_query_location": "Kibbutz Yas'ur"
+        }
+      ]
+    },
+        {
+      "date": "24/11/2021",
+      "observer": null,
+      "original_text": "מרבדים בפארק איילון ובחורבת חנות ",
+      "locations": [
+        {
+           "location_name": "פארק איילון",
+           "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Ayalon Park"
+        },
+         {
+          "location_name": "חורבת חנות",
+           "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Khurbat Hanot"
+        }
+      ]
+    },
+     {
+      "date": "23/11/2021",
+       "observer": null,
+      "original_text": "נרקיס סתווי, סיתווניות לרוב, כרכום גיארדו ועוד מעוד. פתחו את הקישור ",
+      "locations": [
+        {
+           "location_name": "חירבת מלח",
+           "flowers": ["נרקיס סתווי", "סתוונית", "כרכום גיארדו"],
+           "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "23/11/2021",
+      "observer": "ראובן כהן",
+      "original_text": "בחלק הצפוני בקרבת חניון מוזיאון ישראל - כרכום חורפי, סתוונית היורה",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+           "flowers": ["כרכום חורפי", "סתוונית היורה"],
+          "maps_query_location": "Valley of the Cross"
+        }
+      ]
+    }
+  ]
+}
+```

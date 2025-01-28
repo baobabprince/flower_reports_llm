@@ -1,0 +1,191 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/12/2017",
+      "observer": "יאיר כהן",
+      "original_text": "פריחת נרקיס מצוי, סתוונית היורה, רקפת בראשית פריחה, פריחה של כרכום חורפי באזור העליה ימינה לכיוון גדר הקיבוץ (מהחניון התחתון).",
+       "locations": [
+        {
+          "location_name": "יער חורשים",
+           "flowers": [
+            "Narcissus tazetta",
+            "Colchicum autumnale",
+            "Cyclamen persicum",
+             "Crocus hyemalis"
+          ],
+          "maps_query_location": "Ya'ar Horeshim"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2017",
+      "observer": null,
+      "original_text": "כבר פורח באיזור הכרמל וגני הנדיב",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+           "flowers": [
+            "Ornithogalum montanum"
+          ],
+          "maps_query_location": "Carmel"
+        },
+        {
+           "location_name": "גני הנדיב",
+            "flowers": [
+            "Ornithogalum montanum"
+           ],
+          "maps_query_location": "Ganei Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2017",
+      "observer": null,
+      "original_text": "נרקיס מצוי, נרקיס סתווי, סיתווניות היורה, כדן קטן פרחים ועוד",
+      "locations": [
+         {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "Narcissus tazetta",
+            "Narcissus serotinus",
+            "Colchicum autumnale",
+             "Globularia cordifolia"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2017",
+      "observer": null,
+      "original_text": "אכסף מבריק ונרקיס סתווי פורחים בגן",
+       "locations": [
+        {
+           "location_name": "גן הנדירים",
+           "flowers": [
+            "Sternbergia candida",
+            "Narcissus serotinus"
+           ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "27/11/2017",
+      "observer": null,
+      "original_text": "מקבצי סיתוונית היורה רבים פורחים בנחל המערה עליון",
+       "locations": [
+        {
+          "location_name": "נחל המערה עליון",
+           "flowers": [
+            "Colchicum autumnale"
+           ],
+          "maps_query_location": "Nahal HaMe'ara Elyon"
+        }
+      ]
+    },
+    {
+      "date": "27/11/2017",
+      "observer": null,
+      "original_text": "בנחל רז",
+      "locations": [
+        {
+          "location_name": "נחל רז",
+          "flowers": [
+            "Iris unguicularis"
+            ],
+          "maps_query_location": "Nahal Raz"
+        }
+      ]
+    },
+    {
+      "date": "27/11/2017",
+      "observer": null,
+      "original_text": "פתילת המדבר הגדולה הרחבת תפוצה ?",
+       "locations": [],
+        "flowers": [
+            "Calotropis procera"
+           ]
+
+    },
+   {
+      "date": "22/11/2017",
+      "observer": "דוד פורת",
+      "original_text": "פתילת המדבר הגדולה הרחבת תפוצה? ודאי רבים שמו לב שבחופי הכנרת הנסוגים מאות מאות  פתילות המדבר לרבות נבטים צעירים ראו למשל חוף לידו טבריה. עדכון מפת התפוצה?",
+      "locations": [
+        {
+          "location_name": "הכנרת",
+          "flowers": [
+           "Calotropis procera"
+          ],
+           "maps_query_location": "Sea of Galilee"
+        },
+         {
+          "location_name": "טבריה",
+          "flowers": [
+           "Calotropis procera"
+          ],
+           "maps_query_location": "Tiberias"
+        }
+      ]
+    },
+    {
+       "date":"26/11/2017",
+      "observer": "דליה שולמן",
+      "original_text": "באיזור המזרחי ביער בין הסלעים נרקיס, רקפת בתחילת פריחה. על שביל הכניסה אחרי העיקול פורחים הכתמה וסיתווניות. בכל האיזור זלזל הקנקונות",
+      "locations": [
+        {
+          "location_name": "יער ראש העין",
+          "flowers": [
+            "Narcissus",
+            "Cyclamen persicum",
+            "Sternbergia clusiana",
+             "Colchicum" ,
+             "Clematis cirrhosa"
+          ],
+          "maps_query_location":"Rosh HaAyin Forest"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2017",
+      "observer": null,
+      "original_text": "נרקיס מצוי, רקפות , כרכום חורפי, איריס הסרגל וסיתווניות היורה",
+      "locations": [
+        {
+          "location_name":"חורשת הארבעים בכרמל",
+           "flowers": [
+            "Narcissus tazetta",
+            "Cyclamen",
+             "Crocus hyemalis",
+            "Iris unguicularis",
+            "Colchicum autumnale"
+          ],
+          "maps_query_location": "Horeshat Ha'Arba'im"
+        }
+      ]
+    },
+    {
+      "date": "19/11/2017",
+      "observer": null,
+      "original_text": "למרות שלא ירדו כמעט גשמים : פורחים כבר בכרמל: כלנית, דודא רפואי , נרקיסים, איריס הסרגל , נץ-חלב הררי רקפות כרכום חורפי ועוד",
+      "locations": [
+       {
+          "location_name": "הכרמל",
+          "flowers": [
+            "Anemone coronaria",
+            "Mandragora autumnalis",
+            "Narcissus",
+            "Iris unguicularis",
+            "Ornithogalum montanum",
+             "Cyclamen",
+             "Crocus hyemalis"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

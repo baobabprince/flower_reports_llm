@@ -1,0 +1,184 @@
+```json
+{
+  "reports": [
+    {
+      "date": "14/01/2011",
+      "observer": null,
+      "original_text": "אירוס ארצישראלי פורח בשמורת ביתן אהרון ברמת הנדיב וביער חדרה",
+      "locations": [
+        {
+          "location_name": "שמורת ביתן אהרון",
+          "flowers": [
+            "אירוס ארצישראלי"
+          ],
+          "maps_query_location": "Beit Hanan Nature Reserve"
+        },
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": [
+            "אירוס ארצישראלי"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+         },
+        {
+          "location_name": "יער חדרה",
+           "flowers": [
+            "אירוס ארצישראלי"
+          ],
+          "maps_query_location": "Hadera Forest"
+        }
+      ]
+    },
+    {
+      "date": "14/01/2011",
+      "observer": null,
+      "original_text": "והנסיך, שמחת היום- איריס ארץ ישראלי!",
+        "locations": [
+        {
+          "location_name": "שמורת אלונה",
+           "flowers": [
+            "אירוס ארצישראלי"
+          ],
+          "maps_query_location": "Alona Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2011",
+      "observer": null,
+      "original_text": "נרקיס מצוי, רקפות, כרכום חורפי, כתמב עבת שורשים",
+       "locations": [
+        {
+          "location_name": "יער אלונה",
+          "flowers": [
+            "נרקיס מצוי",
+            "רקפת",
+            "כרכום חורפי",
+             "כתמב עבת שורשים"
+          ],
+          "maps_query_location": "Alona Forest"
+        }
+      ]
+    },
+    {
+      "date": "13/01/2011",
+      "observer": null,
+      "original_text": "באתר גלילות- פריחה ושפעת\nבשמורת נוב - כנ\"ל\nבכרמל, לצידי הדרך לקיבוץ אורן",
+      "locations": [
+        {
+          "location_name": "גלילות",
+          "flowers": [
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Glilot"
+        },
+        {
+          "location_name": "שמורת נוב",
+          "flowers": [
+             "נרקיס מצוי"
+          ],
+          "maps_query_location": "Nov Nature Reserve"
+        },
+           {
+          "location_name": "כרמל",
+          "flowers": [
+             "נרקיס מצוי"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2011",
+      "observer": "אראלה",
+      "original_text": "דבורנית שחומה החלה לפרוח מעל לעין-אלון.\nאיריס ארץ-ישראלי פורח לרגלי בית-אורן",
+      "locations": [
+        {
+          "location_name": "עין אלון",
+          "flowers": [
+            "דבורנית שחומה"
+          ],
+          "maps_query_location": "Ein Allon"
+        },
+         {
+          "location_name": "בית אורן",
+          "flowers": [
+            "אירוס ארצישראלי"
+           ],
+          "maps_query_location": "Beit Oren"
+        }
+      ]
+    },
+    {
+     "date": "11/01/2011",
+     "observer": null,
+      "original_text": "הערב אנו משיקים את המדור : עצים ביערות קק\"ל, בשיתוף עם קקל. ראו בקישור 36 עצים ושיחים, חלקם גדלים בבר וחלקם מיובאים.",
+       "locations": [
+         {
+          "location_name": "יערות קק\"ל",
+          "flowers": [],
+          "maps_query_location": "KKL Forests"
+         }
+        ]
+    },
+    {
+      "date": "11/01/2011",
+      "observer": "נעם עביצל",
+      "original_text": "היום (ה  11/01/11) עליתי שוב לגבעת 186 (מנרה)  שרק לפני שבוע דיווחתי על היותה שופעת באירוס הסרגל.  צר לי לכתוב  אך לא נותר מהתכלת הנהדר מאומה !  המקום לשעצמו יפה...",
+      "locations": [
+        {
+          "location_name": "גבעת 186",
+          "flowers": [
+            "אירוס הסרגל"
+          ],
+         "maps_query_location": "Menara"
+        }
+      ]
+    },
+     {
+      "date": "11/01/2011",
+      "observer": "עמיר פז",
+      "original_text": "יקינטונית מעורקת פורחת בגן געש",
+      "locations": [
+        {
+          "location_name": "גן געש",
+          "flowers": [
+            "יקינטונית מעורקת"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+      {
+      "date": "10/01/2011",
+       "observer": "מורי חן",
+      "original_text": "עשרות יחנוקים החלו להבקיע את קרום החולות. בגוש הצפוני מזרחי בשולי שדות יטבתה.",
+       "locations": [
+         {
+          "location_name": "יטבתה",
+          "flowers": [
+            "יחנוק המלחות"
+          ],
+          "maps_query_location": "Yotvata"
+        }
+      ]
+    },
+     {
+      "date": "10/01/2011",
+      "observer": "עמיר פז",
+      "original_text": "רומוליאה צידונית,זמזומית הערבות,וולריאנה איטלקית פורחים בגן",
+       "locations": [
+         {
+          "location_name": "גן געש",
+          "flowers": [
+            "רומוליאה צידונית",
+            "זמזומית הערבות",
+             "ולריאנה איטלקית"
+          ],
+         "maps_query_location": "Ga'ash"
+        }
+      ]
+    }
+  ]
+}
+```

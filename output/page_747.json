@@ -1,0 +1,196 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/02/2010",
+      "observer": null,
+      "original_text": "תורמוס ההרים מרבדים, ביקיית הביצות מטפסת על כל הצמחים לצידי הכביש מצפון לכביש- פריחה של אלפי פרחים!!!",
+      "locations": [
+        {
+          "location_name": "פורדיס",
+          "flowers": [
+            "תורמוס ההרים",
+            "ביקיית הביצות"
+          ],
+          "maps_query_location": "Fureidis"
+        },
+        {
+           "location_name": "צומת אליקים",
+          "flowers": [
+             "תורמוס ההרים",
+            "ביקיית הביצות"
+            ],
+          "maps_query_location": "Eliakim Junction"
+         }
+       ]
+    },
+    {
+      "date": "17/02/2010",
+      "observer": null,
+      "original_text": "תורמוס ההרים, מרווה ריחנית, מרוות יורושלים, עריוני צהוב, אחירותם החורש, עירית גדולה, מרווה משולשת, שקד מצוי,  שזיף,  תפוח וחטמית זיפנית.",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+           "flowers": [
+              "תורמוס ההרים",
+              "מרווה ריחנית",
+              "מרוות ירושלים",
+              "עריוני צהוב",
+              "אחירותם החורש",
+              "עירית גדולה",
+              "מרווה משולשת",
+              "שקד מצוי",
+              "שזיף",
+              "תפוח",
+              "חטמית זיפנית"
+          ],
+          "maps_query_location": "Highway 6"
+        }
+      ]
+    },
+    {
+      "date": "17/02/2010",
+      "observer": null,
+      "original_text": "צבעונים בהמונים מתחילים לנבול מהחום, משנצת , מרסיה, מרווה מצויה, כלניות נוריות, ציפורניות והכל יחד- והלהיט פשתה צרת עלים- הכוונה למיקום הפריחה בכתבה בדף טיולים .",
+      "locations": [
+        {
+          "location_name": "חוף הבונים",
+          "flowers": [
+            "צבעוני",
+            "משנצת",
+            "מרסיה",
+             "מרווה מצויה",
+             "כלנית",
+             "נורית",
+            "ציפורנית",
+            "פשתה צרת עלים"
+          ],
+           "maps_query_location": "Hof HaBonim"
+        }
+      ]
+    },
+     {
+      "date": "16/02/2010",
+      "observer": null,
+      "original_text": "מרבדי רקפות ביער ישעי, פריחה ססגוגית של אירוס אחרי הצהרים, כלניות אדומות, לוענית גדולה  ועוד בחורבת מדרס.",
+       "locations": [
+        {
+          "location_name": "יער ישעי",
+           "flowers": [
+            "רקפת",
+             "אירוס",
+             "כלנית אדומה",
+              "לוענית גדולה"
+          ],
+           "maps_query_location": "Ya'ar Yesha'ay"
+         },
+         {
+           "location_name": "חורבת מדרס",
+             "flowers": [
+              "רקפת",
+             "אירוס",
+             "כלנית אדומה",
+              "לוענית גדולה"
+          ],
+          "maps_query_location": "Khurbat Midras"
+         }
+      ]
+    },
+     {
+      "date": "16/02/2010",
+      "observer": null,
+      "original_text": "בבורות לוץ: צבעוני ססגוני",
+       "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": [
+             "צבעוני"
+          ],
+           "maps_query_location": "Borot Lutz"
+         }
+      ]
+    },
+    {
+      "date": "15/02/2010",
+      "observer": null,
+       "original_text": "מרבדים של צבעונים בשמורת חוף הבונים. כדאי לבקר",
+       "locations": [
+        {
+          "location_name": "שמורת חוף הבונים",
+          "flowers": [
+             "צבעוני"
+            ],
+          "maps_query_location": "Hof HaBonim Nature Reserve"
+         }
+        ]
+    },
+    {
+      "date": "15/02/2010",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "במושב עשרת\nצבעונים ולצדם שום תל אביב,\nבחורשות האקליפטוסים הפזורות במקום.",
+      "locations": [
+        {
+           "location_name": "עשרת",
+          "flowers": [
+             "צבעוני",
+             "שום תל אביב"
+          ],
+          "maps_query_location": "Aseret"
+         }
+      ]
+    },
+    {
+      "date": "15/02/2010",
+      "observer": "יהודה מרתה",
+      "original_text": "צמח חדש באתר : חזרזרת מחוספסת\nצילום השבוע יהודה מרתה\nאיזה שם לצמח הזה!!!",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+              "חזרזרת מחוספסת"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+     {
+      "date": "14/02/2010",
+      "observer": null,
+      "original_text": "פירוט הזוכים בקישור המצורף\nתודה לכל המשתתפים,  אנו ניצור קשר עם הזוכים",
+      "locations": []
+    },
+    {
+      "date": "14/02/2010",
+      "observer": null,
+      "original_text": "גולנית ערב פורחת בשפע בשמורה",
+        "locations": [
+        {
+          "location_name": "שמורת הדסים",
+          "flowers": [
+              "גולנית ערב"
+          ],
+          "maps_query_location": "Hadassim Nature Reserve"
+        }
+      ]
+     },
+    {
+      "date": "14/02/2010",
+      "observer": null,
+      "original_text": "כלנית מצויה,רקפת מצויה,דבורנית צהובה,סחלב פרפרני,וכתמה עבת שורשים פורחים ביער",
+       "locations": [
+        {
+           "location_name": "יער משמר העמק",
+            "flowers": [
+            "כלנית מצויה",
+            "רקפת מצויה",
+            "דבורנית צהובה",
+            "סחלב פרפרני",
+            "כתמה עבת שורשים"
+           ],
+           "maps_query_location": "Mishmar HaEmek Forest"
+         }
+      ]
+    }
+  ]
+}
+```

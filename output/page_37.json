@@ -1,0 +1,185 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "כלנית מצויה בצבע פוקסיה,  גרניון גזור , איריס הביצות, רומוליאה סגלולית, צנון פגיוני",
+      "locations": [
+        {
+          "location_name": "אחו נב",
+          "flowers": [
+            "כלנית מצויה",
+            "גרניון גזור",
+            "איריס הביצות",
+             "רומוליאה סגלולית",
+            "צנון פגיוני"
+           ],
+          "maps_query_location": "null"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+       "observer": null,
+      "original_text": "פריחת כ 8-10 פריטים נאים מאד בכניסה לנחל עובדיה, ממש קרוב לשביל הירידה לנחל. קויפמן פינת אבא חושי, חיפה.",
+      "locations": [
+        {
+          "location_name": "נחל עובדיה",
+          "flowers": ["צבעוני ההרים"],
+          "maps_query_location": "Nahal Ovadiya"
+        },
+        {
+           "location_name": "חיפה",
+          "flowers": ["צבעוני ההרים"],
+          "maps_query_location": "Haifa"
+        }
+      ]
+    },
+   {
+      "date": "24/02/2024",
+      "observer": "עידו מגן",
+      "original_text": "שקדיות בר פורחות לאורך כביש רמלה-לטרון (424), כביש 38 ופארק בריטניה. המטע ליד מיני ישראל לקראת שיא פריחה. כלניות, רקפות ועיריות בפארק עדולם. בתל שוכה התורמוסים בשיא פריחה ויש גם כלניות ורקפות",
+      "locations": [
+         {
+          "location_name": "כביש רמלה-לטרון",
+            "flowers": ["שקד בר"],
+             "maps_query_location": "Ramla-Latrun Road"
+        },
+        {
+          "location_name": "כביש 38",
+             "flowers": ["שקד בר"],
+             "maps_query_location": "Road 38"
+        },
+        {
+          "location_name": "פארק בריטניה",
+          "flowers": ["שקד בר"],
+           "maps_query_location": "Britannia Park"
+        },
+         {
+          "location_name": "מיני ישראל",
+          "flowers": ["שקד בר"],
+          "maps_query_location": "Mini Israel"
+        },
+          {
+          "location_name": "פארק עדולם",
+          "flowers": [
+            "כלנית",
+             "רקפת",
+            "עירית"
+          ],
+          "maps_query_location": "Adullam Park"
+        },
+        {
+          "location_name": "תל שוכה",
+          "flowers": [
+             "תורמוס",
+             "כלנית",
+             "רקפת"
+          ],
+            "maps_query_location": "Tel Sokho"
+        }
+      ]
+    },
+    {
+      "date": "24/02/2024",
+      "observer": "רוני גבע",
+       "original_text": "תחעלת פריחת איריס  הנגב על כביש 222 ליד רתמים",
+      "locations": [
+        {
+          "location_name": "כביש 222",
+          "flowers": ["איריס הנגב"],
+          "maps_query_location": "Road 222"
+        },
+        {
+          "location_name": "רתמים",
+            "flowers": ["איריס הנגב"],
+           "maps_query_location": "Retamim"
+        }
+      ]
+    },
+     {
+      "date": "24/02/2024",
+      "observer": "עירית אבישי-צביאל",
+      "original_text": "האם אירוס הארגמן עדיין פורח בגבעת הכורכר בחדרה?",
+      "locations": [
+        {
+          "location_name": "גבעת הכורכר",
+           "flowers": ["אירוס הארגמן"],
+          "maps_query_location": "null"
+        },
+          {
+          "location_name": "חדרה",
+           "flowers": ["אירוס הארגמן"],
+          "maps_query_location": "Hadera"
+        }
+      ]
+    },
+     {
+      "date": "24/02/2024",
+      "observer": null,
+      "original_text": "מאות זהביות פורחות ליד גבעת ברנר",
+      "locations": [
+        {
+          "location_name": "גבעת ברנר",
+           "flowers": ["זנבית שרונית"],
+          "maps_query_location": "Givat Brenner"
+        }
+      ]
+    },
+    {
+      "date": "23/02/2024",
+        "observer": null,
+      "original_text": "בכניסה לקיבוץ הראל מחוץ לגדר וגם בכניסה מאחרי הגדר, ביער גיזו מרבדי רקפות בכניסה לישוב ובהרחבה ביער",
+      "locations": [
+        {
+          "location_name": "קיבוץ הראל",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Kibbutz Harel"
+         },
+        {
+          "location_name": "יער גיזו",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Gizo Forest"
+        }
+      ]
+    },
+    {
+      "date": "23/02/2024",
+      "observer": null,
+      "original_text": "מקבץ מרשים של שום תל אביב",
+      "locations": [
+         {
+          "location_name": "יער קדימה",
+           "flowers": ["שום תל אביב"],
+          "maps_query_location": "Kadima Forest"
+        }
+      ]
+    },
+    {
+      "date": "22/02/2024",
+       "observer": "דותן שער-משה",
+      "original_text": "כלניות עצומות בקיבוץ רמת השופט",
+      "locations": [
+        {
+          "location_name": "קיבוץ רמת השופט",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Kibbutz Ramat HaShofet"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2024",
+        "observer": "Zila Gilboa",
+      "original_text": "מרבדים מרבדים של תורמוסים סגולים  ואחדים בורוד כתום בפארק אריאל שרון - חניה חינם כניסה חינם",
+      "locations": [
+        {
+          "location_name": "פארק אריאל שרון",
+          "flowers": ["תורמוס"],
+          "maps_query_location": "Ariel Sharon Park"
+        }
+      ]
+    }
+  ]
+}
+```

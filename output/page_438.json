@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "02/02/2017",
+      "observer": "אדיר פאדוני נדוף",
+      "original_text": "פריחת השקדייה ביער אלעד בליווי דבורים חרוצות",
+      "locations": [
+        {
+          "location_name": "יער אלעד",
+          "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Ya'ar El'ad"
+        }
+      ]
+    },
+    {
+      "date": "02/02/2017",
+      "observer": "סימה נבון",
+        "original_text": "1/2/17\nוינקה עשבונית בשמורת פורה",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": [
+            "וינקה עשבונית"
+          ],
+          "maps_query_location": "Shmurat Pura"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2017",
+      "observer": null,
+      "original_text": "באזור מנזר בית ג'ימל , לאורך הדרך מבית ג'ימל לכיוון דרום, וליד מושב זכריה פורחים עצי שקד בפריחה יפה",
+      "locations": [
+         {
+          "location_name": "מנזר בית ג'ימל",
+          "flowers": [
+            "שקד מצוי"
+           ],
+          "maps_query_location": "Beit Jimal Monastery"
+        },
+        {
+          "location_name": "מושב זכריה",
+           "flowers": [
+            "שקד מצוי"
+          ],
+          "maps_query_location": "Moshav Zakariya"
+        }
+      ]
+    },
+      {
+      "date": "01/02/2017",
+       "observer": null,
+        "original_text": "כבר פורח בדרום",
+      "locations": [
+         {
+          "location_name": "דרום",
+          "flowers": [
+            "איריס טוביה"
+          ],
+          "maps_query_location": "South Israel"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2017",
+      "observer": null,
+      "original_text": "ביער אודם , בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": [
+             "רקפת יוונית"
+          ],
+          "maps_query_location": "Ya'ar Odem"
+        }
+      ]
+    },
+    {
+      "date": "01/02/2017",
+        "observer": null,
+      "original_text": "בגבעת העיזים בחיפה פריחה יפה של\nרומוליאה צידונית",
+      "locations": [
+        {
+          "location_name": "גבעת העיזים",
+          "flowers": [
+            "רומוליאה צידונית"
+          ],
+            "maps_query_location": "Givat HaEzim, Haifa"
+        }
+      ]
+    },
+    {
+      "date": "31/01/2017",
+       "observer": null,
+      "original_text": "מושיובית הגליל החלה לפרוח בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "מושיובית הגליל"
+          ],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2017",
+      "observer": null,
+      "original_text": "מרבדים של איריס א\"י פורחים במעיין צבי",
+      "locations": [
+        {
+          "location_name": "מעיין צבי",
+          "flowers": [
+            "איריס ארץ-ישראלי"
+          ],
+          "maps_query_location": "Ma'ayan Zvi"
+        }
+      ]
+    },
+    {
+      "date": "29/01/2017",
+      "observer": null,
+      "original_text": "בצלצייה ארצישראלית פורחת במקבצים גדולים  ליד צומת-דמיה, וזהבית דמשקאית פורחת בעליה לסרטבה",
+      "locations": [
+          {
+            "location_name": "צומת דמיה",
+            "flowers": [
+              "צלציה ארצישראלית"
+            ],
+            "maps_query_location": "Tzomet Damiya"
+          },
+        {
+          "location_name": "סרטבה",
+          "flowers": [
+            "זהבית דמשקאית"
+          ],
+          "maps_query_location": "Sartaba"
+        }
+      ]
+    },
+     {
+      "date": "29/01/2017",
+      "observer": null,
+         "original_text": "בצלציה א\"י, שרכרך ריחני, שרכרך הסלעים, מציץ סורי, בבונג זהוב,  דוקרן מדברי , שלח ספרגי, בן-חרדל מצוי, גרגרנית לא מזוהה, מרווה מצרית חלביב רותמי ,  אהל מצוי",
+      "locations": [
+         {
+           "location_name": "בקעה",
+            "flowers": [
+              "צלציה ארצישראלית",
+              "שרכרך ריחני",
+              "שרכרך הסלעים",
+              "מציץ סורי",
+              "בבונג זהוב",
+              "דוקרן מדברי",
+               "שלח ספרגי",
+              "בן-חרדל מצוי",
+              "גרגרנית",
+               "מרווה מצרית",
+              "חלביב רותמי",
+              "אהל מצוי"
+            ],
+           "maps_query_location": "בקעת הירדן"
+        }
+      ]
+    }
+  ]
+}
+```

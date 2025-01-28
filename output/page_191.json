@@ -1,0 +1,231 @@
+```json
+{
+  "reports": [
+    {
+      "date": "30/03/2021",
+      "observer": "יואל רובין",
+      "original_text": "סחלב פרפרני, סחלב משולש, פעמוניות קיפחת, בן חצב יקינתון, דרדר כחול- נדיר!!, מרווה ירושלים, מרווה משולשת, אגס סורי, אולי: פרגית צהובה, ועוד המון (לא זיהיתי את הכל). כל זאת בטיול מחניון נס הרים, במסלול המסומן אדום, עליתי לשחור, וירדתי לכיוון עין חוד, וחזור באדום לחניון. הפרגית הצהובה (אולי) נמצא מחוץ למסלול! כשמגיעים לקיר אבן הבנוי בשטח (למעלה בהר) רק מתחילים לרדת ומצד שמאל נמצאים כמה פריטים בקבוצה. הדרדר הכחול בהמשך השביל! נמצאורק 2-3 פריטים.",
+      "locations": [
+        {
+          "location_name": "נס הרים",
+          "flowers": [
+            "Anacamptis papilionacea",
+            "Orchis trifolia",
+            "Campanula rapunculoides",
+            "Scilla hyacinthoides",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+            "Salvia fruticosa",
+             "Pyrus syriaca",
+            "Glaucium flavum"
+           ],
+          "maps_query_location": "Nes Harim"
+        },
+        {
+          "location_name": "עין חוד",
+          "flowers": [
+            "Anacamptis papilionacea",
+            "Orchis trifolia",
+            "Campanula rapunculoides",
+             "Scilla hyacinthoides",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+            "Salvia fruticosa",
+             "Pyrus syriaca",
+            "Glaucium flavum"
+           ],
+          "maps_query_location": "Ein Hod"
+        },
+        {
+            "location_name": "חורבת עיתאב",
+             "flowers": [
+              "Anacamptis papilionacea",
+              "Orchis trifolia",
+             "Campanula rapunculoides",
+             "Scilla hyacinthoides",
+            "Centaurea cyanoides",
+            "Salvia hierosolymitana",
+            "Salvia fruticosa",
+            "Pyrus syriaca",
+             "Glaucium flavum"
+          ],
+          "maps_query_location": "Hurvat Itab"
+        }
+      ]
+    },
+    {
+      "date": "29/03/2021",
+      "observer": null,
+      "original_text": "מרווה משולשת, נורית אסיה, דונגית אי, ציפורנית חדת שיניים, לוטם מרווני, קידה שעירה, כליל החורש, רקפות, יערה איטלקית ועוד רבים אחרים",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+          "flowers": [
+             "Salvia fruticosa",
+            "Ranunculus asiaticus",
+            "Linaria chalepensis",
+            "Dianthus acutidentatus",
+             "Cistus × boranensis",
+            "Calicotome villosa",
+            "Cercis siliquastrum",
+            "Cyclamen persicum",
+            "Lonicera etrusca"
+          ],
+         "maps_query_location":"Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2021",
+      "observer": null,
+      "original_text": "עדיין אין פריחה . יש כבר ניצנים . אבל פורחים שם סחלבים ועוד ",
+       "locations": [
+        {
+          "location_name": "הר הלל",
+          "flowers": [
+            "Paeonia kesrouanensis",
+             "Orchidaceae"
+          ],
+          "maps_query_location": "Har Hilel"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2021",
+      "observer": null,
+      "original_text": "תורמוס צהוב, צבעונים, שפתנים( מצוי) , ובן חצב יקינתוני בשביל האיריסים ",
+      "locations": [
+        {
+          "location_name": "אילנות",
+          "flowers": [
+            "Lupinus luteus",
+             "Tulipa agenensis",
+             "Antirrhinum majus",
+            "Scilla hyacinthoides"
+          ],
+          "maps_query_location": "Ilanot"
+        }
+      ]
+    },
+     {
+      "date": "28/03/2021",
+      "observer": null,
+       "original_text": "פריחה של תלתן דו גוני  25.3.21 ביער אילנות",
+      "locations": [
+        {
+           "location_name": "יער אילנות",
+          "flowers": [
+            "Trifolium dichroum"
+           ],
+         "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2021",
+      "observer": "אורנה ניסן",
+      "original_text": "פריחת לוע הארי הגדול בוורוד עז יפיפה! בשטח מכללת תל חי, קמפוס מזרח, בדרך למגרש החניה, מצד ימין. יש מספר מקבצים.    ",
+      "locations": [
+        {
+          "location_name": "מכללת תל חי",
+          "flowers": [
+            "Antirrhinum majus"
+          ],
+           "maps_query_location": "Tel Hai College"
+        }
+      ]
+    },
+    {
+      "date": "28/03/2021",
+       "observer": "עידו מגן",
+      "original_text": "פרגים בארסוף קדם ובכניסה לאודים; תורמוסים לבנים וצהובים ובן חצב יקינתוני בבריכת חורף לב השרון; בשמורת בני ציון שאריות אחרונות של תורמוס ארצישראלי ובן חצב יקינתוני",
+      "locations": [
+        {
+          "location_name": "ארסוף קדם",
+           "flowers": [
+            "Papaver rhoeas"
+          ],
+          "maps_query_location": "Arsuf Kedem"
+        },
+        {
+          "location_name": "אודים",
+          "flowers": [
+            "Papaver rhoeas"
+          ],
+          "maps_query_location": "Udim"
+        },
+        {
+          "location_name": "לב השרון",
+           "flowers": [
+             "Lupinus albus",
+            "Lupinus luteus",
+            "Scilla hyacinthoides"
+          ],
+           "maps_query_location": "Lev HaSharon"
+        },
+         {
+          "location_name": "שמורת בני ציון",
+          "flowers": [
+            "Lupinus palaestinus",
+             "Scilla hyacinthoides"
+          ],
+           "maps_query_location":"Bnei Zion Reserve"
+        }
+      ]
+    },
+    {
+      "date": "26/03/2021",
+       "observer": null,
+      "original_text": "בן חצב יקינתוני, איריס הארגמן, פרגים, עדיין שרידי רותם המדבר, אלמוות הכסף, המוני חרציות, מצילות החוף ועוד ",
+      "locations": [
+        {
+          "location_name": "שמורת חוף השרון",
+           "flowers": [
+             "Scilla hyacinthoides",
+            "Iris atropurpurea",
+            "Papaver rhoeas",
+            "Retama raetam",
+            "Helichrysum sanguineum",
+            "Glebionis coronaria",
+            "Matthiola tricuspidata"
+          ],
+           "maps_query_location": "HaSharon Coast Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "26/03/2021",
+       "observer": null,
+      "original_text": "כל מה שיפה : איריס שומרוני , סייפן סגול ועוד . ראו בצילומים של שרון בקישור למטה ",
+       "locations": [
+        {
+          "location_name": "עין ג'יהר",
+          "flowers": [
+            "Iris samariae",
+             "Gladiolus italicus"
+          ],
+          "maps_query_location": "Ein Jihar"
+        }
+      ]
+    },
+    {
+      "date": "25/03/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "כאשר עולים בכביש הר מירון,כ-  מאה מטר לאחר האנדרטה בצוק שמשמאל לכביש, נראו : פרט אחד באמצע פריחה ו-3 פרטים קרוב לסיום פריחה. בתעלה שלצידו השמאלי של הכביש-פרט נוסף באמצע פריחה. נראו גם מספר פרטים של סחלב איטלקי בצד השמאלי של הכביש העולה לשביל הפיסגה, וסחלב גלילי ,פרפרני וסחלבן החורש.",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": [
+            "Ophrys carmeli",
+             "Orchis italica",
+             "Orchis galilaea",
+             "Anacamptis papilionacea",
+             "Cephalanthera longifolia"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    }
+  ]
+}
+```

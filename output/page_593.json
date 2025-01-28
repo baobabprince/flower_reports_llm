@@ -1,0 +1,221 @@
+```json
+{
+  "reports": [
+    {
+      "date": "11/09/2013",
+      "observer": null,
+      "original_text": "פריחה של קבוצות חצביםפ בשיא בתל חדיד לצד שביל ישראל וליד המאהל הבדואי",
+      "locations": [
+        {
+          "location_name": "תל חדיד",
+          "flowers": [
+            "חצב מצוי"
+          ],
+           "maps_query_location": "Tel Hadid"
+        },
+         {
+          "location_name": "שביל ישראל",
+           "flowers": [
+            "חצב מצוי"
+          ],
+           "maps_query_location": "Israel National Trail"
+        },
+        {
+          "location_name": "המאהל הבדואי",
+          "flowers": [
+             "חצב מצוי"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "11/09/2013",
+      "observer": null,
+      "original_text": "חצבים רבים פורחים בחורבת קרתא (עתלי) עוד לפני השיא. בשמורת דור-הבונים פריחה נהדרת של חבצלת-החוף. (כבר מעבר לשיא) פרחים אחרונים של עדעד רותמי, חנק מחודד והמון קריתמון ימי. לאורך כביש החוף מחיפה דרומה כבר רואים הרבה חצבים עדיין לפני השיא.",
+      "locations": [
+        {
+          "location_name": "חורבת קרתא",
+          "flowers": [
+            "חצב מצוי"
+          ],
+           "maps_query_location": "Hurvat Karta"
+        },
+        {
+          "location_name": "שמורת דור-הבונים",
+          "flowers": [
+            "חבצלת החוף",
+             "עדעד רותמי",
+             "חנק מחודד",
+            "קריתמון ימי"
+          ],
+           "maps_query_location": "Dor HaBonim Beach"
+        },
+         {
+          "location_name": "כביש החוף",
+          "flowers": [
+            "חצב מצוי"
+           ],
+            "maps_query_location": "Coastal Highway"
+        },
+        {
+         "location_name": "חיפה",
+         "flowers": [
+           "חצב מצוי"
+         ],
+         "maps_query_location": "Haifa"
+       }
+      ]
+    },
+    {
+      "date": "10/09/2013",
+      "observer": "נביל אבושקארה",
+      "original_text": "ביום שלישי 10.\\9\\2013 ניצפו בכפר מגאר חצבים מצוים",
+      "locations": [
+        {
+          "location_name": "כפר מגאר",
+          "flowers": [
+            "חצב מצוי"
+          ],
+          "maps_query_location": "Maghar"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2013",
+       "observer": "אילן טל , 0528254968",
+      "original_text": "פורחים ( בנסף לאלו שהוזכרו ב - 22.8 )\n: חלביב יווני , חצב גלוני , שום סתווי ועוד .",
+      "locations": [
+       {
+          "location_name": "גן איריס",
+          "flowers": [
+            "חלביב יווני",
+             "חצב גלוני",
+            "שום סתווי"
+          ],
+           "maps_query_location": null
+       },
+       {
+            "location_name": "גן בוטני",
+            "flowers": [
+                "חלביב יווני",
+                 "חצב גלוני",
+                "שום סתווי"
+           ],
+            "maps_query_location": null
+        },
+        {
+          "location_name":"כפר יהושע",
+           "flowers": [
+              "חלביב יווני",
+               "חצב גלוני",
+              "שום סתווי"
+           ],
+          "maps_query_location":"Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "10/09/2013",
+      "observer": "תמר פז",
+      "original_text": "פריחה של עשרות חצבים בשביל פסגת התבור לכל אורכו.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": [
+            "חצב מצוי"
+          ],
+           "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2013",
+      "observer": "אורי שטיין",
+      "original_text": "פורחים חבצלת קטנת פרחים-התחלה, חצב מצוי מאות פרטים, וצפורן נקוד",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": [
+             "חבצלת קטנת פרחים",
+            "חצב מצוי",
+            "צפורן נקוד"
+          ],
+          "maps_query_location": "Udim Reserve"
+        }
+      ]
+    },
+   {
+      "date": "08/09/2013",
+      "observer": null,
+      "original_text": "התחיל לפרוח בכרמל",
+      "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": [
+            "שום סתווי"
+          ],
+          "maps_query_location":"Carmel"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2013",
+      "observer": "נמרוד",
+      "original_text": "חבצלות קטנות פרחים התחילו לפרוח בשמורת ביתן אהרון, בנוסף חצבים בשיא פריחה",
+      "locations": [
+        {
+           "location_name":"שמורת ביתן אהרון",
+           "flowers":[
+             "חבצלת קטנת פרחים",
+             "חצב מצוי"
+          ],
+          "maps_query_location":"Beitan Aharon Reserve"
+        }
+      ]
+    },
+   {
+      "date": "06/09/2013",
+      "observer": "בנצי דקל",
+      "original_text": "פריחת חצבים בכביש נתיבי  איילון דרומה, בין מחלף 7 הכוכבים למחלף גלילות .",
+      "locations": [
+        {
+          "location_name": "נתיבי איילון",
+           "flowers":[
+            "חצב מצוי"
+          ],
+          "maps_query_location": "Ayalon Highway"
+        },
+        {
+           "location_name":"מחלף 7 הכוכבים",
+            "flowers":[
+              "חצב מצוי"
+           ],
+           "maps_query_location": null
+        },
+         {
+           "location_name":"מחלף גלילות",
+           "flowers":[
+              "חצב מצוי"
+           ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/09/2013",
+      "observer": "עירית",
+      "original_text": "החצבים בתל יודפת בתחילת פריחה צפופה ומרהיבה כמו בכל שנה. לדעתי הפריחה תימשך במהלך עונת החגים כולה ואף תתעצם. שנה ברוכה של בריאות שמחה ופריחה לכל גולשי אתר צמח השדה",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+          "flowers": [
+            "חצב מצוי"
+          ],
+           "maps_query_location": "Tel Yodfat"
+        }
+      ]
+    }
+  ]
+}
+```

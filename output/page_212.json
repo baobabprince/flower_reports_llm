@@ -1,0 +1,191 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/01/2021",
+      "observer": "עידו מגן",
+      "original_text": "לאורך כביש 67 (זכרון-יקנעם), כביש 672 (אליקים-חיפה) הרבה כלניות אדומות וכן בעליה למוחרקה; בקיבוץ דליה כלניות צבעוניות כ-600 מ' לאחר הכניסה מצד שמאל על מדשאה.",
+      "locations": [
+        {
+          "location_name": "זכרון יעקב",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Zikhron Ya'akov"
+        },
+          {
+          "location_name": "יקנעם",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Yokneam"
+        },
+        {
+          "location_name": "אליקים",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Elyakim"
+        },
+        {
+          "location_name": "חיפה",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Haifa"
+        },
+        {
+          "location_name": "מוחרקה",
+           "flowers": ["כלנית אדומה"],
+          "maps_query_location": "Muhraqa"
+        },
+        {
+          "location_name": "דליה",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Daliyya"
+        }
+      ]
+    },
+    {
+      "date": "23/01/2021",
+      "observer": "עמיר פז",
+      "original_text": "מחרוזת קשתית, איריס הארגמן, זהבית שרונית, שרוכנית א\"י והחוף, רקפת מצויה, וכלנית מצויה פורחים בגן",
+     "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "מחרוזת קשתית",
+            "איריס הארגמן",
+            "זהבית שרונית",
+            "שרוכנית א\"י והחוף",
+            "רקפת מצויה",
+            "כלנית מצויה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "21/01/2021",
+      "observer": "אבנר אברהם",
+        "original_text": "גליל וגולן ראו בקישור",
+      "locations": [
+       {
+          "location_name": "גליל",
+          "flowers": [],
+          "maps_query_location": "Galilee"
+        },
+        {
+          "location_name": "גולן",
+          "flowers": [],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "20/01/2021",
+      "observer": null,
+      "original_text": "בבארי ובמישור החוף כך נמסר לאתר צמח השדה",
+      "locations": [
+        {
+          "location_name": "בארי",
+          "flowers": ["דבורנית ינסמור"],
+          "maps_query_location": "Be'eri"
+         },
+        {
+          "location_name": "מישור החוף",
+           "flowers": ["דבורנית ינסמור"],
+          "maps_query_location": "Coastal Plain"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2021",
+      "observer": null,
+      "original_text": "שיא פריחה . המסלול בקישור",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "19/01/2021",
+      "observer": null,
+      "original_text": "החלו לפרוח בגולן אנחנו לא שם בגלל הסגר",
+        "locations": [
+        {
+          "location_name": "גולן",
+          "flowers": ["רקפת יוונית","איריס הלבנון"],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+       "date": "19/01/2021",
+      "observer": null,
+      "original_text": "דווחה ביקנעם ובבנימין. הגשם \"מפרק\" את הםרחים . אחרי הגשם תהיה פריחה יפהפיה. דווחו לנו על פריחת שקדיות ברחבי הארץ",
+       "locations": [
+         {
+          "location_name": "יקנעם",
+           "flowers": ["שקד"],
+           "maps_query_location": "Yokneam"
+         },
+        {
+          "location_name": "בנימין",
+           "flowers": ["שקד"],
+          "maps_query_location": "Binyamin"
+        }
+      ]
+    },
+     {
+      "date": "16/01/2021",
+      "observer": null,
+       "original_text": "שום מזרחי, המוני רקפות, איריס א\"י, מרווה מצויה, כתמה עבת שורשים, חרדל לבן, לשון פר מצרית, טוריים מצויים, ת. חתול מצויות",
+       "locations": [
+        {
+          "location_name": "יער המלאכים",
+          "flowers": [
+             "שום מזרחי",
+            "רקפת",
+            "איריס ארץ-ישראלי",
+            "מרווה מצויה",
+             "כתמה עבת שורשים",
+            "חרדל לבן",
+             "לשון פר מצרית",
+             "טוריים מצויים",
+              "טבורית חתול מצויה"
+          ],
+          "maps_query_location": "Ya'ar HaMal'akhim"
+         }
+      ]
+    },
+    {
+       "date": "16/01/2021",
+      "observer": null,
+      "original_text": "עוזרר קוצני, סחלב השקיק, איריס א\"י",
+        "locations": [
+        {
+          "location_name": "רגבים",
+           "flowers": [
+            "עוזרר קוצני",
+            "סחלב השקיק",
+             "איריס ארץ-ישראלי"
+          ],
+          "maps_query_location": "Regavim"
+        }
+      ]
+    },
+    {
+      "date": "16/01/2021",
+      "observer": "עידו מגן",
+      "original_text":"לאורך השביל השחור בשמורה (חלק משביל ישראל) די הרבה כלניות ורקפות וגם מעט אירוס ארצישראלי",
+         "locations": [
+        {
+          "location_name": "שמורת שער פולג",
+          "flowers": [
+            "כלנית",
+            "רקפת",
+            "אירוס ארצישראלי"
+           ],
+          "maps_query_location": "Sha'ar Poleg"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,294 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/10/2021",
+      "observer": null,
+      "original_text": "המוני סיתווניות בכירות בשיא , שני חלמוניות, צעםורן נקוד, קוצן קיפח שריד אחרון",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": [
+            "סתוונית בכירה",
+            "חלמונית",
+            "צעםורן נקוד",
+             "קוצן קיפח"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "06/10/2021",
+      "observer": "דוד פורת",
+      "original_text": "ירבוז קוצני, דטורה אכזרית, בוען מצולע ונאכל, סולנום המקור ואבוטילון תאופרסטיס פושטים כיונים  בפריחתם ופירותיהם במרכז העמק (יזרעאל) ומערבו,  שדות  סמוכים לאפיק נחל מזרע ועוד מזה חודשיים ויותר.   לגבי השלישייה הראשונה יש לעדכן מפות תפוצה, בעוד האחרון, יש להוסיף,  פורח גם במהלך אוקוטובר.",
+      "locations": [
+        {
+          "location_name": "עמק יזרעאל",
+          "flowers": [
+            "ירבוז קוצני",
+            "דטורה אכזרית",
+            "בוען מצולע",
+            "סולנום המקור",
+            "אבוטילון תאופרסטיס"
+          ],
+          "maps_query_location": "Jezreel Valley"
+        },
+        {
+          "location_name": "נחל מזרע",
+          "flowers": [
+            "ירבוז קוצני",
+            "דטורה אכזרית",
+            "בוען מצולע",
+            "סולנום המקור",
+            "אבוטילון תאופרסטיס"
+          ],
+           "maps_query_location": "Nahal Mizra"
+        }
+      ]
+    },
+    {
+      "date": "03/10/2021",
+       "observer": null,
+      "original_text": "נחל-ניצנה  \nאכילאה ריחנית , בוצין סיני , יפרוק תלת-כנפי , עוגנן נימי , \nחניון הרועה\nאלת הבוטנה , סתוונית הקליפות , ציפורן סיני \nבור חמת\nכוכב ננסי , כתלה חריפה , קזוח עקום \nממשית\nבן-חצב מדברי , חבצלת הנגב \nמלחית-אשונה  סלקיים  כביש 171 \nסוכה במדבר: סתוונית הקליפות \nבורות לוץ: כלך דו-דורי",
+      "locations": [
+        {
+          "location_name": "נחל ניצנה",
+          "flowers": [
+            "אכילאה ריחנית",
+            "בוצין סיני",
+            "יפרוק תלת-כנפי",
+            "עוגנן נימי"
+          ],
+          "maps_query_location": "Nahal Nitzana"
+        },
+         {
+          "location_name": "חניון הרועה",
+          "flowers": [
+            "אלת הבוטנה",
+            "סתוונית הקליפות",
+             "ציפורן סיני"
+          ],
+            "maps_query_location": "HaRoeh parking lot"
+        },
+        {
+           "location_name": "בור חמת",
+          "flowers": [
+             "כוכב ננסי",
+             "כתלה חריפה",
+             "קזוח עקום"
+          ],
+          "maps_query_location":"Bor Hamat"
+        },
+         {
+          "location_name": "ממשית",
+          "flowers": [
+             "בן-חצב מדברי",
+             "חבצלת הנגב"
+          ],
+            "maps_query_location": "Mamshit"
+        },
+         {
+          "location_name": "כביש 171",
+           "flowers": [
+            "מלחית אשונה"
+          ],
+          "maps_query_location": "Road 171"
+        },
+        {
+          "location_name": "סוכה במדבר",
+            "flowers": [
+             "סתוונית הקליפות"
+           ],
+            "maps_query_location": "Suka Bamidbar"
+        },
+         {
+          "location_name": "בורות לוץ",
+           "flowers": [
+              "כלך דו-דורי"
+           ],
+           "maps_query_location": "Borot Lotz"
+        },
+         {
+          "location_name": "נחל אשחרים",
+           "flowers": [
+              "דרדר דמשקאי"
+           ],
+           "maps_query_location": "Nahal Eshharim"
+        }
+      ]
+    },
+      {
+      "date": "02/10/2021",
+      "observer": null,
+       "original_text":"תחילת פריחה בבריכת בראון (בסמוך למאגר בנטל)",
+      "locations": [
+        {
+          "location_name": "בריכת בראון",
+           "flowers": [
+            "סתוונית היורה",
+             "סתוונית התשבץ"
+          ],
+          "maps_query_location":"Birket Brown"
+        },
+         {
+          "location_name": "מאגר בנטל",
+          "flowers": [
+              "סתוונית היורה",
+              "סתוונית התשבץ"
+            ],
+          "maps_query_location": "Maagar Bental"
+        }
+      ]
+    },
+     {
+      "date": "01/10/2021",
+       "observer": null,
+        "original_text": "הר חוזק - שמורת רכס בשנית (תל חזקה)",
+      "locations": [
+        {
+          "location_name": "הר חוזק",
+             "flowers": [
+            "חלמונית",
+            "סתוונית התשבץ"
+          ],
+         "maps_query_location": "Har Hozek"
+        },
+        {
+          "location_name": "שמורת רכס בשנית",
+            "flowers": [
+             "חלמונית",
+             "סתוונית התשבץ"
+          ],
+         "maps_query_location": "Reshes Bashanit Nature Reserve"
+        },
+        {
+          "location_name": "תל חזקה",
+            "flowers": [
+            "חלמונית",
+            "סתוונית התשבץ"
+          ],
+          "maps_query_location":"Tel Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "01/10/2021",
+       "observer": "עידו מגן",
+       "original_text": "לאורך כביש 431 יש כמה מקבצים יפים בין מחלף רמלה למחלף נשרים משני צידי הכביש. גם בכביש הגישה לנווה שלום יש כמה ריכוזים יפים.",
+      "locations": [
+        {
+          "location_name": "כביש 431",
+          "flowers": [
+            "חצב מצוי"
+          ],
+          "maps_query_location": "Road 431"
+        },
+        {
+          "location_name": "מחלף רמלה",
+           "flowers": [
+              "חצב מצוי"
+            ],
+           "maps_query_location": "Ramla Interchange"
+        },
+        {
+          "location_name": "מחלף נשרים",
+            "flowers": [
+              "חצב מצוי"
+            ],
+           "maps_query_location": "Nesharim Interchange"
+        },
+         {
+          "location_name": "כביש הגישה לנווה שלום",
+           "flowers": [
+              "חצב מצוי"
+            ],
+          "maps_query_location": "Access road to Neve Shalom"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2021",
+       "observer": "דרור בר-ניר",
+        "original_text":"חורשף מצוי, פרטים רבים מאד, חצב מצוי - רובם לקראת סוף פריחה או אחרי, בן-חצב סתווני, שני פרטים ראשונים. עפרית אירופית,  פטל קדוש, ציפורן נקוד, ארכובית שבטבטית, אספרג החורש - הרבה ניצנים ומעט פרחים, בוצין מפורץ, כתלה חריפה, קיצנית כרתית , שומר פשוט, קורטם דק",
+      "locations": [
+        {
+          "location_name": "נחל קטלב",
+            "flowers": [
+            "חורשף מצוי",
+             "חצב מצוי",
+            "בן-חצב סתווני",
+             "עפרית אירופית",
+             "פטל קדוש",
+            "ציפורן נקוד",
+            "ארכובית שבטבטית",
+             "אספרג החורש",
+              "בוצין מפורץ",
+              "כתלה חריפה",
+             "קיצנית כרתית",
+             "שומר פשוט",
+             "קורטם דק"
+          ],
+         "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    },
+     {
+      "date": "29/09/2021",
+       "observer": "גל מגלי",
+       "original_text": "פריחה בשיא במורדות הגולן צמוד לקיבוץ גונן. במיצד עתרת הפריחה עדיין לא בשיא וצפויה בעוד 10 ימים",
+      "locations": [
+        {
+          "location_name": "מורדות הגולן",
+            "flowers": [
+              "חצב מצוי"
+            ],
+            "maps_query_location": "Golan Heights Slopes"
+        },
+         {
+          "location_name": "קיבוץ גונן",
+            "flowers": [
+              "חצב מצוי"
+            ],
+          "maps_query_location": "Kibbutz Gonen"
+        },
+        {
+          "location_name": "מיצד עתרת",
+            "flowers": [
+                "חצב מצוי"
+              ],
+          "maps_query_location": "Metzad Ateret"
+        }
+      ]
+    },
+    {
+      "date": "29/09/2021",
+       "observer": null,
+        "original_text":"כרכום השבכה -  תת מין מיוחד להר הנגב. תואר בעבר ככרכום דמשקאי . צולם ליד בורות לוץ, 28.9.2021.",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+           "flowers": [
+              "כרכום השבכה"
+           ],
+          "maps_query_location": "Borot Lotz"
+         }
+       ]
+     },
+     {
+      "date": "29/09/2021",
+      "observer": null,
+        "original_text": "בבריכת המשושים",
+       "locations": [
+        {
+          "location_name": "בריכת המשושים",
+           "flowers": [
+              "כף זאב אירופית"
+            ],
+            "maps_query_location": "Hexagon Pool"
+          }
+        ]
+      }
+  ]
+}
+```

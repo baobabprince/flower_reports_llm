@@ -1,0 +1,203 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/01/2011",
+      "observer": "אילן טל",
+      "original_text": "פורחים : סתוונית הנגב , כרכום חורפי , זמזומית המדבר , נרקיס מצוי , כלנית מצויה , אירוס א\"י , רקפת מצויה +  יוונית , מרסיה יפהפיה , פשתנית יפו , אלקנת הצבעים , טופח אדום , כתמה עבת שרשים , ולריאנה איטלקית , אזוביון שעיר ועוד . צמחי ריבס המדבר מתפתחים יפה מאד ( קוטר העלים מגיע ל - 50 סנטימטר )  . מוזמנים לבקר .",
+      "locations": [
+        {
+          "location_name": "גן בוטני כפר יהושע",
+          "flowers": [
+            "סתוונית הנגב",
+            "כרכום חורפי",
+            "זמזומית המדבר",
+             "נרקיס מצוי",
+             "כלנית מצויה",
+             "אירוס ארץ-ישראלי",
+             "רקפת מצויה",
+            "מרסיה יפהפיה",
+            "פשתנית יפו",
+            "אלקנת הצבעים",
+             "טופח אדום",
+            "כתמה עבת שרשים",
+             "ולריאנה איטלקית",
+              "אזוביון שעיר"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2011",
+      "observer": "יובל עברון",
+      "original_text": "צפונית לכביש צומת גולני טבריה, קצת לפני קבוץ לביא שני עצי כליל החורש בפריחה מלאה והתחלת לבלוב.",
+       "locations": [
+        {
+          "location_name": "צומת גולני",
+          "flowers": [
+            "כליל החורש"
+          ],
+          "maps_query_location": "Golani Junction"
+        },
+         {
+          "location_name": "קבוץ לביא",
+           "flowers": [
+             "כליל החורש"
+          ],
+          "maps_query_location": "Lavi"
+         }
+      ]
+    },
+    {
+      "date": "06/01/2011",
+      "observer": "עמיר פז",
+      "original_text": "איריס א\"י+נרקיס מצוי פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": [
+              "אירוס ארץ-ישראלי",
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2011",
+      "observer": null,
+      "original_text": "יער צרעה, הר תנופה, ובכל אזורי הנארי ברכסים, פריחת נרקיסים מרשימה.",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Tzora Forest"
+        },
+         {
+          "location_name": "הר תנופה",
+           "flowers": [
+             "נרקיס"
+          ],
+          "maps_query_location": "Har Tanufa"
+        }
+      ]
+    },
+    {
+      "date": "05/01/2011",
+      "observer": null,
+       "original_text": "סרטון מקסים המסביר את תהליך פריחת החלבלובים - מומלץ מאוד",
+      "locations": [],
+      "flowers": [
+            "חלבלוב"
+          ]
+    },
+    {
+      "date": "04/01/2011",
+      "observer": null,
+      "original_text": "בין עפרה לעמונה תחילת פריחת איריסי הסרגל.",
+      "locations": [
+        {
+          "location_name": "עפרה",
+          "flowers": [
+            "אירוס הסרגל"
+          ],
+          "maps_query_location": "Ofra"
+        },
+        {
+           "location_name": "עמונה",
+            "flowers": [
+            "אירוס הסרגל"
+           ],
+          "maps_query_location": "Amona"
+        }
+      ]
+    },
+     {
+      "date": "03/01/2011",
+       "observer": null,
+        "original_text": "הכירו את פרחי הכרמל",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [],
+          "maps_query_location": "Carmel"
+         }
+        ]
+     },
+    {
+      "date": "03/01/2011",
+      "observer": "נעם עביצל",
+       "original_text": "על ובצד המזרחי של גבעה 186 (המכונה כגבעת מנרה)  שליד  הר חורשן, ניתן לצפות בשפע  אירוס הסרגל, מפרחים בודדים ועד לקבוצות תכולות ומרשימות.",
+      "locations": [
+       {
+          "location_name": "גבעה 186",
+           "flowers": [
+            "אירוס הסרגל"
+           ],
+         "maps_query_location": null
+        },
+        {
+           "location_name": "הר חורשן",
+            "flowers": [
+            "אירוס הסרגל"
+           ],
+           "maps_query_location": "Har Horeshan"
+        }
+      ]
+    },
+    {
+      "date": "29/12/2010",
+      "observer": "עירית",
+      "original_text": "בטיול בין פלגי נחל קורן והדן שבטבט גדול ושבטבט ענף. במים- נהרונית קרומית ועל הגדות הפתיע בפרחיו הצהובים והגדולים פרע ריחני.",
+      "locations": [
+        {
+          "location_name": "נחל קורן",
+          "flowers": [
+           "פרע ריחני"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "נחל דן",
+           "flowers": [
+           "פרע ריחני"
+          ],
+          "maps_query_location": "Dan River"
+         }
+      ]
+    },
+    {
+      "date": "28/12/2010",
+      "observer": "עירית",
+      "original_text": "החלמוניות בואדי ראש פינה בפריחת שיא מפתיעה! מאות פרטים גבוה בהר במפנה הדרומי. מרבד כרכום גיירדו מכסה את  גג המעיין השני- עין פינה באיחור משנים רגילות. נרקיסים ראשונים פורחים בתל אנפה. בחצר  של אמנון אסף כרכום חלמוני מעט אחרי השיא ורקפות מתחילות.",
+      "locations": [
+        {
+          "location_name": "ואדי ראש פינה",
+          "flowers": [
+            "חלמונית",
+             "כרכום גיירדו"
+          ],
+          "maps_query_location": "Rosh Pina"
+        },
+        {
+          "location_name": "עין פינה",
+           "flowers": [
+              "כרכום גיירדו"
+          ],
+          "maps_query_location": null
+         },
+         {
+          "location_name": "תל אנפה",
+           "flowers": [
+              "נרקיס"
+          ],
+          "maps_query_location": "Tel Anafa"
+        }
+      ]
+    }
+  ]
+}
+```

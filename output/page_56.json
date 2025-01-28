@@ -1,0 +1,187 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/10/2023",
+      "observer": null,
+      "original_text": "חבצלת החוף,  לבנונית ימית , עדעד הביצות , קריתמון ימי",
+      "locations": [
+        {
+          "location_name": "חוף בצת",
+          "flowers": [
+            "Pancratium maritimum",
+            "Leucanthemum cinerariifolium",
+             "Limonium narbonense",
+            "Centaurea aegialophila"
+          ],
+          "maps_query_location": "Bezet Beach"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2023",
+      "observer": null,
+      "original_text": "אגמון הכדורים, גלניה שעירה,  חבצלת החוף, לפופית החוף , מלחית אשלגנית",
+        "locations": [
+        {
+          "location_name": "חוף אכזיב",
+           "flowers": [
+            "Bolboschoenus maritimus",
+            "Galenia hispidissima",
+            "Pancratium maritimum",
+            "Calystegia soldanella",
+            "Suaeda vera"
+          ],
+          "maps_query_location": "Achziv Beach"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2023",
+      "observer": null,
+      "original_text": "בקבוקון מקומט , דוחנית השלחין , זנבה נטויה , חלבלוב עגול-עלים , לפופית הקיסוס , מלוכיה נאכלת , סידה קוצנית , עפעפית הקנוקנות , שוש קרח  (פרי)",
+      "locations": [
+       {
+          "location_name": "שבי ציון",
+           "flowers": [
+            "Sarcocornia fruticosa",
+             "Echinochloa stagnina",
+             "Aeluropus lagopoides",
+             "Euphorbia chamaesyce",
+              "Calystegia sepium",
+             "Corchorus olitorius",
+            "Sida spinosa",
+            "Cymbalaria muralis",
+            "Paronychia argentea"
+          ],
+           "maps_query_location": "Shavei Tzion"
+        }
+      ]
+    },
+      {
+      "date": "09/10/2023",
+      "observer": null,
+      "original_text": "פורחות בגולן ברכס בשנית",
+      "locations": [
+        {
+           "location_name": "רכס בשנית",
+          "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Bashanit Ridge"
+        }
+      ]
+    },
+    {
+      "date": "09/10/2023",
+      "observer": null,
+      "original_text": "חורשף מצוייץ, עוקץ עקרב, שומר פשוט, קייצת מסולסלת, חצב בסוף הדרך, טיון דביק, אספרג החורש",
+      "locations": [
+         {
+          "location_name": "יער בן שמן",
+         "flowers": [
+            "Scolymus maculatus",
+            "Heliotropium europaeum",
+            "Foeniculum vulgare",
+            "Nigella arvensis",
+            "Urginea maritima",
+            "Inula viscosa",
+             "Asparagus aphyllus"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "05/10/2023",
+      "observer": "אורנה ניסן",
+       "original_text": "באזור משמר הירדן, בעלייה מכיוון גולן לגליל העליון, מקבצי חצבים על ההר, משני צידי הכביש.",
+      "locations": [
+        {
+          "location_name": "משמר הירדן",
+           "flowers": [
+              "Urginea maritima"
+            ],
+          "maps_query_location": "Mishmar HaYarden"
+        },
+          {
+           "location_name": "גולן",
+           "flowers": [
+              "Urginea maritima"
+            ],
+          "maps_query_location": "Golan Heights"
+        },
+        {
+          "location_name": "גליל העליון",
+           "flowers": [
+              "Urginea maritima"
+            ],
+          "maps_query_location": "Upper Galilee"
+        }
+      ]
+    },
+        {
+      "date": "05/10/2023",
+      "observer": "ליאת שמחון",
+      "original_text": "חבצלת החוף פורחת במרבדים בחוף בצת",
+        "locations": [
+         {
+          "location_name": "חוף בצת",
+          "flowers": ["Pancratium maritimum"],
+          "maps_query_location": "Bezet Beach"
+        }
+      ]
+    },
+    {
+      "date": "02/10/2023",
+      "observer": null,
+      "original_text": "בעין המסייעת ליד בית נקופה",
+       "locations": [
+       {
+          "location_name": "עין המסייעת",
+          "flowers": ["Mentha longifolia"],
+          "maps_query_location": "Ein Hamesaya'at"
+        },
+        {
+          "location_name": "בית נקופה",
+          "flowers": ["Mentha longifolia"],
+          "maps_query_location":"Beit Nekofa"
+        }
+      ]
+    },
+    {
+      "date": "02/10/2023",
+       "observer": null,
+      "original_text": "גומא הירקון והפפירוס, געדת הביצות, לפופית החיצים, ישרוע מאוגד, ובן חילף הביצות פורחים בגן",
+        "locations": [
+         {
+          "location_name": "גן מקלט שרוני",
+           "flowers": [
+            "Cyperus papyrus",
+            "Juncus subulatus",
+             "Sagittaria sagittifolia",
+            "Sparganium erectum",
+            "Typha domingensis"
+          ],
+           "maps_query_location": "Gan Miklat Sharoni"
+        }
+      ]
+    },
+    {
+      "date": "01/10/2023",
+      "observer": null,
+      "original_text": "במאגר בנטל כבר פורחות מספר מהן , וגם בהר חוזק החלה הפריחה , עדיין רחוק מהשיא. טרם נראו חלמוניות פורחות .",
+      "locations": [
+         {
+          "location_name": "מאגר בנטל",
+          "flowers": ["Colchicum stevenii"],
+          "maps_query_location": "Bental Reservoir"
+        },
+         {
+          "location_name": "הר חוזק",
+           "flowers": ["Colchicum stevenii"],
+          "maps_query_location":"Har Hozek"
+        }
+      ]
+    }
+  ]
+}
+```

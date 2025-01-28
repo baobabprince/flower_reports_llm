@@ -1,0 +1,164 @@
+```json
+{
+  "reports": [
+    {
+      "date": "06/09/2019",
+      "observer": null,
+      "original_text": "המקום הרומנטי לבקר ולצלם אותן בחוף האקוודוקט בקיסריה",
+      "locations": [
+        {
+          "location_name": "חוף האקוודוקט",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Aqueduct Beach"
+        },
+         {
+          "location_name": "קיסריה",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2019",
+      "observer": null,
+      "original_text": "ראו צילומים של אראהל הרי למטה",
+      "locations": [
+       {
+          "location_name": "כרמל",
+          "flowers": ["שום סתווי"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2019",
+      "observer": null,
+      "original_text": "בדרך הבשור",
+      "locations": [
+        {
+          "location_name": "דרך הבשור",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Besor Route"
+        }
+      ]
+    },
+    {
+      "date": "04/09/2019",
+       "observer": null,
+      "original_text": "פורחים בשטח ההפרדה של כביש 6 ועל התלוליות בצדדים ליד גלגוליה, כפר דניאל ועוד",
+      "locations": [
+        {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+            "maps_query_location": "Highway 6"
+        },
+         {
+          "location_name": "גלגוליה",
+          "flowers": ["חצב"],
+            "maps_query_location": "Gelguliya"
+        },
+        {
+          "location_name": "כפר דניאל",
+           "flowers": ["חצב"],
+            "maps_query_location": "Kfar Daniel"
+        }
+      ]
+    },
+    {
+      "date": "03/09/2019",
+      "observer": null,
+      "original_text": "בהר הנגב",
+      "locations": [
+        {
+          "location_name": "הר הנגב",
+          "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Negev Highlands"
+        }
+      ]
+    },
+   {
+      "date": "27/08/2019",
+      "observer": null,
+       "original_text":"הפריחה כאן כבר באוגוסט: בקלעת נמורד, בתל יודפת (תחילת פריחה) , יער חורשים, לאורך כביש 4 ו-6, חוף הכרמל, יער חורשים, תל חדיד, סביב יער בן-שמן",
+      "locations": [
+         {
+          "location_name": "קלעת נמורד",
+          "flowers": ["חצב"],
+          "maps_query_location": "Nimrod Fortress"
+        },
+        {
+          "location_name": "תל יודפת",
+           "flowers": ["חצב"],
+           "maps_query_location": "Tel Yodfat"
+        },
+        {
+           "location_name": "יער חורשים",
+            "flowers": ["חצב"],
+            "maps_query_location": "Horeshim Forest"
+        },
+        {
+          "location_name": "כביש 4",
+           "flowers": ["חצב"],
+           "maps_query_location": "Highway 4"
+        },
+         {
+          "location_name": "כביש 6",
+          "flowers": ["חצב"],
+           "maps_query_location": "Highway 6"
+        },
+         {
+          "location_name": "חוף הכרמל",
+           "flowers": ["חצב"],
+            "maps_query_location": "Hof HaCarmel"
+        },
+        {
+          "location_name": "תל חדיד",
+            "flowers": ["חצב"],
+            "maps_query_location": "Tel Hadid"
+         },
+        {
+          "location_name": "יער בן שמן",
+          "flowers": ["חצב"],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "27/08/2019",
+      "observer": null,
+      "original_text": "בשיא פריחה בחבל הבשור",
+      "locations": [
+        {
+          "location_name": "חבל הבשור",
+            "flowers": ["חצב גלוני"],
+           "maps_query_location": "Besor area"
+        }
+      ]
+    },
+     {
+      "date": "26/08/2019",
+      "observer": null,
+      "original_text": "ראו מסלול ועוד על אתרים של פריחת החצבים בקישור למטה",
+       "locations": [
+        {
+          "location_name": "חירבת קרתא",
+           "flowers": ["חצב"],
+            "maps_query_location": "Khirbet Karta"
+        }
+      ]
+    },
+    {
+      "date": "24/08/2019",
+      "observer": null,
+      "original_text": "נמצאו לפחות 12 פרטים של מלפפון הנביאים בשלבי פריחה ופרי שונים ליד ביג טבריה",
+      "locations": [
+        {
+          "location_name": "ביג טבריה",
+          "flowers": ["מלפפון הנביאים"],
+          "maps_query_location": "Big Tiberias"
+        }
+      ]
+    }
+  ]
+}
+```

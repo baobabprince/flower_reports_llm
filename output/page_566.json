@@ -1,0 +1,223 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/03/2014",
+      "observer": null,
+      "original_text": "היפוכריס קרח,דו פרית מכורבלת,חרצית דביקה,וחודיים מנוצים פורחים בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Hypochaeris glabra",
+            "Erodium cicutarium",
+            "Chrysanthemum coronarium",
+             "Aegilops geniculata"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2014",
+      "observer": null,
+      "original_text": "הצבעונים כבר הרבה מעבר לשיא, נורית אסיה-שיא אלקנה סמורה, קחוון, חרציות, סחלב פרפרני, שפתן מצוי, דבורנית דינסמור, חומעת ראש-הסוס, לוטוס החוף, צהרון מצוי, מרסיה יפהפיה, קידה שעירה, לוטם מרווני, רותם לקראת סיום,אטד החוף, ניסנית דו-קרנית, כתמה עבת-שורשים, רקפת מצויה, סביון אביבי, מקור-חסידה, תלתן הפוך, תלתן הארגמן,",
+       "locations": [
+        {
+          "location_name": "שמורת דור-הבונים",
+          "flowers": [
+             "Tulipa agenensis",
+            "Ranunculus asiaticus",
+             "Alkanna tinctoria",
+            "Anthemis",
+            "Chrysanthemum",
+            "Orchis papilionacea",
+             "Ajuga orientalis",
+             "Ophrys bornmuelleri",
+            "Rumex bucephalophorus",
+            "Lotus cytisoides",
+             "Colchicum stevenii",
+             "Marsilea strigosa",
+            "Calicotome villosa",
+              "Cistus salviifolius",
+               "Retama raetam",
+             "Lycium schweinfurthii",
+             "Nitraria retusa",
+               "Catananche lutea",
+               "Cyclamen persicum",
+            "Senecio vernalis",
+             "Erodium",
+            "Trifolium resupinatum",
+            "Trifolium purpureum"
+          ],
+          "maps_query_location": "Dor HaBonim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2014",
+      "observer": "הדס יקיר",
+      "original_text": "נכנסים לסוללים ופונים פניה ראשונה שמאלה עם הרחוב עד הסוף. יש שער אך לרוב פתוח. הכל ירוק, האלונים מלבלבים ופורחים בשלל ירוקים. רקפות, עיריות וכלניות. טיול מרענן ויפה.",
+      "locations": [
+        {
+          "location_name": "יער הסוללים",
+           "flowers": [
+            "Quercus",
+            "Cyclamen",
+            "Asphodelus",
+            "Anemone coronaria"
+          ],
+          "maps_query_location": "Solelim Forest"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2014",
+      "observer": "הדס יקיר",
+        "original_text":"אירוסים פורחים לקראת סיום אם כי היו כמה ניצנים פה ושם. ע\"י בית הקברות שבכביש עוקף נצרת עילית ממזרח. מכביש הגישה לבית הקברות צפונה ועד חורשת אורנים בשטח הפתוח שביניהם. גם עיריוני צהוב בהמונים בסיום פריחה, אירוס אחה\"צ בהמונים, כלהיות ורקפות.",
+      "locations": [
+        {
+           "location_name": "נצרת עילית",
+          "flowers": [
+             "Iris haynei",
+             "Asphodeline lutea",
+             "Iris atropurpurea",
+            "Caltha",
+            "Cyclamen"
+          ],
+          "maps_query_location": "Nazareth Illit"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2014",
+      "observer": "הדס יקיר",
+       "original_text":"על שביל פיסגה מלמטה למעלה: יקינטון בשיא פריחה, רקפות, כלניות צבעוניות, סחלב פרפרני ואנטולי, כמה דבורניות, עצי אגס בר(?) יפהפיים, קידה שעירה וגם גביעונית הלבנון (2 פרטים). רוב העצים בקושי התחילו ללבלב.",
+        "locations": [
+        {
+           "location_name":"הר מירון",
+           "flowers": [
+            "Hyacinthus orientalis",
+            "Cyclamen",
+            "Anemone coronaria",
+            "Orchis papilionacea",
+              "Ophrys",
+            "Pyrus syriaca",
+               "Calicotome villosa",
+            "Gagea libanotica"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+     {
+      "date": "07/03/2014",
+      "observer": null,
+      "original_text": "גבעונית הלבנון פורחת בעיר בית קשת ",
+       "locations": [
+        {
+          "location_name": "בית קשת",
+          "flowers": [
+              "Gagea libanotica"
+          ],
+            "maps_query_location": "Beit Keshet"
+        }
+        ]
+    },
+      {
+      "date": "07/03/2014",
+      "observer": null,
+       "original_text":"בגבעת האירוסים ראשל\"צ ליד צומת גן הוורדים ,מעט אחרי השיא אבל עדיין פורחים יפה: עשרות אירוסי ארגמן, רותם,קידה. המון מקור חסידה ובקיה, מעט פרגים ונוריות.",
+        "locations": [
+        {
+           "location_name":"ראשון לציון",
+            "flowers": [
+            "Iris atropurpurea",
+              "Retama raetam",
+            "Calicotome villosa",
+             "Erodium",
+             "Vicia",
+            "Papaver",
+            "Ranunculus"
+          ],
+          "maps_query_location": "Rishon LeZion"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2014",
+      "observer": null,
+      "original_text": "פורח בבני ציון",
+      "locations": [
+        {
+           "location_name": "בני ציון",
+            "flowers": [
+            "Trigonella foenum-graecum"
+          ],
+          "maps_query_location": "Bnei Zion"
+        }
+      ]
+    },
+    {
+      "date": "06/03/2014",
+      "observer": "אבנר אברהם",
+       "original_text":"שפע פרחים מחוץ לחומה של גן הברון צמוד לחומה הצפונית ישנו מגרש חנייה מסודר",
+      "locations": [
+        {
+          "location_name": "זכרון יעקב",
+          "flowers": [],
+          "maps_query_location": "Zikhron Ya'akov"
+        }
+      ]
+    },
+     {
+      "date": "06/03/2014",
+      "observer": "אילן טל , 0528254968",
+      "original_text": "פורחים :דמומית א\"י ( 200 פרחים ) , איריס הנגב ( גוש עם יותר מ-30 פרחים ) + הגלבוע , צבעוני הנגב + ההרים , צמר מפוצל , שעמון מצולע , שום צנוע + אשרסון + מזרחי , בן פרג סגול , פרגה אדומה ( פרחים נהדרים ) , בר נורית חרמשי , מרווה מנוצה + ריחנית + דגולה + ירושלים + צמירה , שמשון הדור , עיריוני צהוב ( צהוב לימון ) , נץ חלב שטוח עלים ( נדיר מאד ) , אנדרוסקי חד שנתי ועוד עשרות מינים בפריחה .",
+     "locations": [
+        {
+          "location_name": "כפר יהושע",
+             "flowers": [
+            "Adonis palaestina",
+            "Iris regis-uzziae",
+             "Tulipa kaufmanniana",
+             "Pulicaria crispa",
+             "Echinophora tenuifolia",
+             "Allium modestum",
+               "Allium aschersonianum",
+               "Allium orientale",
+               "Roemeria hybrida",
+             "Papaver umbonatum",
+            "Ranunculus chius",
+               "Salvia pinnata",
+              "Salvia fragarioides",
+               "Salvia graveolens",
+               "Salvia hierosolymitana",
+                "Salvia lanigera",
+             "Paronychia argentea",
+            "Asphodeline lutea",
+              "Ornithogalum neurophyllum",
+             "Androsace maxima"
+            ],
+          "maps_query_location": "Kfar Yehoshua"
+        },
+         {
+          "location_name": "הגלבוע",
+          "flowers": [
+               "Iris regis-uzziae",
+               "Tulipa kaufmanniana"
+          ],
+           "maps_query_location": "Gilboa"
+         },
+        {
+           "location_name": "ההרים",
+          "flowers": [
+               "Tulipa kaufmanniana"
+          ],
+           "maps_query_location": "Mountains"
+        }
+       ]
+    }
+  ]
+}
+```

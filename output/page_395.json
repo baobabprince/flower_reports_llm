@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/09/2017",
+      "observer": "דוד פורת",
+      "original_text": "יהל פורת מדווח על פריחת סתוונית בכירה במירון תהנו בשטח ובינתיים הצילום",
+      "locations": [
+        {
+          "location_name": "מירון",
+          "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location": "Meiron"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2017",
+      "observer": null,
+      "original_text": "23.9.17 נראו חצבים בתל חדיד כמ פרטים וכן צפונית לתל ולכיוון העיר אלעד.",
+      "locations": [
+         {
+          "location_name": "תל חדיד",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Hadid"
+        },
+        {
+          "location_name": "אלעד",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location":"El'ad"
+          }
+      ]
+    },
+        {
+      "date": "23/09/2017",
+      "observer": "יענק'לה סער",
+      "original_text": "בצידו הצפוני של כביש 44 בגבעה שמתחת לתעוז יש פריחה של חצבים רבים.",
+       "locations": [
+        {
+          "location_name": "תעוז",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Ta'oz"
+        }
+      ]
+    },
+    {
+      "date": "23/09/2017",
+       "observer": null,
+      "original_text": "שום סתווי, גומא הירקון+צפוף שיבולת, ובן חצב סתווני פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+           "flowers": [
+             "שום סתווי",
+             "גומא הירקון",
+             "צפוף שיבולת",
+             "בן חצב סתווני"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "23/09/2017",
+       "observer": null,
+      "original_text": "חבצלת החוף, נר הלילה החופי, ולבנונית ימית פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+           "flowers": [
+             "חבצלת החוף",
+             "נר הלילה החופי",
+             "לבנונית ימית"
+          ],
+           "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+    {
+      "date": "22/09/2017",
+      "observer": "שלי פריצקר",
+       "original_text": "כמות גדולה מאוד של חצבים על כביש החוף בקטע של הים בין חיפה לעתלית. מרהיב",
+       "locations": [
+          {
+          "location_name": "חיפה",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Haifa"
+        },
+        {
+          "location_name": "עתלית",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "20/09/2017",
+       "observer": null,
+      "original_text": "חבצלות חוף רבות ונרות לילה חופיים רבים בגן לאומי חוף השרון",
+      "locations": [
+        {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+            "חבצלת החוף",
+            "נר הלילה החופי"
+          ],
+           "maps_query_location": "Hof HaSharon National Park"
+        }
+      ]
+    },
+     {
+      "date": "17/09/2017",
+      "observer": null,
+       "original_text": "החלה כבר לפרוח בהר מירון , סימן שהסתיו כבר ממש כן",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+             "סתוונית בכירה"
+          ],
+           "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2017",
+       "observer": "מרק צוק",
+      "original_text": "שלום רב ! היום 16.9.2017 טיילנו באזור שכונת חבצלת ברחובות ראינו פריחה של חצבים לא מעטה . הגעה:מקצה של רחוב הגליל לפנות להרותם . קצה אותו רחוב על שטח בור יש פריחת חצבים . שלום",
+      "locations": [
+        {
+          "location_name": "רחובות",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Rehovot"
+        }
+      ]
+    },
+    {
+      "date": "16/09/2017",
+      "observer": null,
+      "original_text": "כמויות גדולות של חבצלות החוף.",
+       "locations": [
+        {
+          "location_name": "גן לאומי סידנא עלי",
+          "flowers": [
+            "חבצלת החוף"
+          ],
+          "maps_query_location": "Sidna Ali National Park"
+        }
+      ]
+    }
+  ]
+}
+```

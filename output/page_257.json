@@ -1,0 +1,164 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/03/2020",
+      "observer": "דוד פורת",
+      "original_text": "אירוס נצרתי פורח בשמורת גבעת המורה עשרות עשרות יפייפיים וכן גם צבעוני ההרים ועוד משובבי לב מנחמה, ליעד ודוד פורת אפיקים",
+      "locations": [
+        {
+          "location_name": "שמורת גבעת המורה",
+          "flowers": [
+            "אירוס נצרתי",
+            "צבעוני ההרים"
+           ],
+           "maps_query_location": "Givat HaMoreh Nature Reserve"
+         }
+       ]
+    },
+    {
+      "date": "10/03/2020",
+      "observer": null,
+      "original_text": "תורמוסים בכביש המוביל למצוק ארבל במלוא פריחתם",
+       "locations": [
+        {
+          "location_name": "מצוק ארבל",
+          "flowers": [
+            "תורמוס"
+          ],
+           "maps_query_location": "Arbel Cliff"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2020",
+      "observer": "אביטל",
+      "original_text": "בשמורת ארוס ירוחם פרטים בודדים. אחד ארגמן אחד סגול. עדכני 5.3.20",
+       "locations": [
+        {
+          "location_name": "שמורת אירוס ירוחם",
+          "flowers": [
+            "אירוס ארגמן",
+             "אירוס סגול"
+          ],
+          "maps_query_location": "Yeroham Iris Reserve"
+        }
+      ]
+    },
+    {
+      "date": "09/03/2020",
+      "observer": "עדי חזות מנחמי",
+      "original_text": "במנחת מגידו מלבד שפע הכלניות פורח בסוף שביל הגישה מצד שמאל מרבץ עצום של עריוני צהוב מקסייםםם מעולם לא ראיתי כל כך הרבה פרטים בכמה מטר רבוע",
+       "locations": [
+        {
+          "location_name": "מנחת מגידו",
+           "flowers": [
+             "כלנית",
+             "עריוני צהוב"
+           ],
+          "maps_query_location": "Megiddo Airfield"
+        }
+      ]
+    },
+   {
+      "date": "08/03/2020",
+      "observer": null,
+      "original_text": "איירס נצרתי החל לפרוח בגבעת המורה, \nאיריס הארגמן עדיין פורח בשיאו ביער אילנות\nאיירס הנגב החל לפרוח - עדיין לא בשיא\nאיריס שחום - החל לפרוח \nאיריס ירוחם - טרם נמסר דיווח \nאיריס צהרון פרוח בכל המקומות משעות הצהריים \nדווחו על פריחות של איריסים",
+      "locations": [
+         {
+          "location_name": "גבעת המורה",
+           "flowers": [
+             "אירוס נצרתי"
+           ],
+          "maps_query_location":"Givat HaMoreh"
+        },
+        {
+          "location_name": "יער אילנות",
+          "flowers": [
+             "אירוס ארגמן"
+           ],
+          "maps_query_location":"Ilanot Forest"
+         }
+       ]
+    },
+    {
+      "date": "08/03/2020",
+       "observer": null,
+      "original_text": "בגבעות נעורה , ראו בקישור",
+       "locations": [
+        {
+          "location_name": "גבעות נעורה",
+           "flowers": [
+            "תורמוס"
+           ],
+          "maps_query_location": "Giv'ot Na'ura"
+        }
+       ]
+    },
+    {
+      "date": "08/03/2020",
+      "observer": null,
+      "original_text": "פריחת המוני איריס הארגמן, תורמוס א\"י, שום תל אביב, צבעוני ההרים, אזוביון דגול, בן-חצב יקינתוני, שפתן מצוי ועוד .",
+      "locations": [
+        {
+           "location_name": "יער אילנות",
+           "flowers": [
+              "אירוס ארגמן",
+              "תורמוס ארץ ישראלי",
+               "שום תל אביב",
+               "צבעוני ההרים",
+                "אזוביון דגול",
+              "בן-חצב יקינתוני",
+                "שפתן מצוי"
+              ],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+     {
+      "date": "07/03/2020",
+       "observer": "שי לביא",
+      "original_text": "אירוס הביצות, שיא פריחה בנוב",
+       "locations": [
+        {
+          "location_name": "נוב",
+           "flowers": [
+              "אירוס הביצות"
+           ],
+          "maps_query_location":"Nov"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2020",
+      "observer": null,
+      "original_text": "החל לפרוח באחו בנימינה",
+       "locations": [
+        {
+          "location_name": "אחו בנימינה",
+           "flowers": [
+             "סחלב הביצות"
+           ],
+           "maps_query_location": "Binyamina Meadow"
+        }
+      ]
+    },
+    {
+      "date": "07/03/2020",
+      "observer": null,
+      "original_text": "ראו צילומיה של שרון בן-צור:\nנוריות מרווה דגולה יוצרים מרבדי פריחה, איריס הגלבוע ועוד.",
+      "locations": [
+        {
+           "location_name": "הבקעה",
+           "flowers": [
+              "נורית",
+              "מרווה דגולה",
+              "איריס הגלבוע"
+             ],
+            "maps_query_location": "בקעת הירדן"
+        }
+      ]
+    }
+  ]
+}
+```

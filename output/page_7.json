@@ -1,0 +1,235 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/12/2024",
+      "observer": "עידו מגן",
+      "original_text": "בשביל המערות שביער קרן הכרמל, בנחל כרמילה שביער הקדושים ובפארק קנדה יש נרקיסים בשפע",
+      "locations": [
+        {
+          "location_name": "יער קרן הכרמל",
+          "flowers": [
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Keren HaCarmel Forest"
+        },
+        {
+          "location_name": "נחל כרמילה",
+           "flowers": [
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Nahal Carmila"
+        },
+        {
+          "location_name": "יער הקדושים",
+          "flowers": [
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Ya'ar HaKedoshim"
+        },
+        {
+          "location_name":"פארק קנדה",
+          "flowers": [
+            "Narcissus tazetta"
+          ],
+           "maps_query_location": "Canada Park"
+         }
+      ]
+    },
+    {
+      "date": "13/12/2024",
+       "observer": "הדס יקיר",
+      "original_text": "באחו נוב אין שום פריחה.\nבתצפית הנשרים בגן לאומי גמלא רקפות ונרקיסים יפים מאוד.",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+          "flowers": [],
+          "maps_query_location": "Ahu Nov"
+        },
+        {
+          "location_name": "גן לאומי גמלא",
+          "flowers": [
+            "Cyclamen persicum",
+            "Narcissus tazetta"
+          ],
+          "maps_query_location": "Gamla Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "12/12/2024",
+      "observer": "אורלב צח",
+      "original_text": "המוני כרכומים, מקבצים מרשימים של נרקיסים על הסלעים, סתווניות, נץ חלב הררי, קצת רקפות ודודאים, געדה, אזוב ופיגם (לא בפריחה) ופעילות ציפורים וחרקים",
+      "locations": [
+          {
+            "location_name": "ברקאי",
+            "flowers": [
+              "Crocus",
+              "Narcissus tazetta",
+              "Colchicum",
+              "Ornithogalum montanum",
+               "Cyclamen persicum",
+              "Mandragora autumnalis"
+            ],
+          "maps_query_location": "Barkai"
+          },
+          {
+            "location_name": "מענית",
+               "flowers": [
+              "Crocus",
+              "Narcissus tazetta",
+              "Colchicum",
+              "Ornithogalum montanum",
+               "Cyclamen persicum",
+              "Mandragora autumnalis"
+            ],
+          "maps_query_location": "Maanit"
+          }
+      ]
+    },
+    {
+      "date": "11/12/2024",
+      "observer": null,
+      "original_text": "המוני נרקיס מצוי פורחים בגבעות הכורכר ליד המערה והספינה הטבועה, כרכום גיארדו זן חופי גם פורח שם בהמוניו, מתנן שעיר בפריחה, טיונית החולות , קריטמון ימי בסוף סוף פריחה, דו-פרק חופי, בו-טיון בשרני,",
+      "locations": [
+        {
+          "location_name": "גבעות הכורכר",
+          "flowers": [
+            "Narcissus tazetta",
+            "Crocus cancellatus",
+            "Matthiola incana",
+            "Limonium sinuatum",
+            "Crithmum maritimum",
+             "Sarcocornia perennis",
+             "Suaeda monoica"
+          ],
+          "maps_query_location": "Kurkar hills"
+        }
+      ]
+    },
+    {
+      "date": "10/12/2024",
+      "observer": "בני של.",
+       "original_text": "ליד משטרת עין טינה בכניסה מכפר שמאי\nפריחה מהממת של נרקיסים וכרכומים ותחילת עונת הרקפות מיד בירידה לנחל",
+       "locations": [
+        {
+          "location_name":"עין טינה",
+           "flowers": [
+            "Narcissus tazetta",
+            "Crocus",
+            "Cyclamen persicum"
+          ],
+           "maps_query_location": "Ein Tina"
+        },
+         {
+           "location_name":"כפר שמאי",
+          "flowers": [
+            "Narcissus tazetta",
+            "Crocus",
+            "Cyclamen persicum"
+          ],
+          "maps_query_location": "Kfar Shamai"
+        }
+      ]
+    },
+     {
+      "date": "09/12/2024",
+      "observer": null,
+      "original_text": "במעלה הגלבוע בדרך נוף הגלבוע בולטים בעונה זו שיחים של שרביטן מצוי שהצבע השולט בו הוא אדום. צבע זה נובע מפירות הצמח.",
+       "locations": [
+        {
+          "location_name": "הגלבוע",
+          "flowers": [
+             "Ephedra foeminea"
+           ],
+          "maps_query_location":"Gilboa"
+        }
+      ]
+     },
+    {
+      "date": "09/12/2024",
+      "observer": null,
+      "original_text": "במעלה הגלבוע בהר שאול (סמוך לחניה לכיוון צפון  - החלק המשקיף לעמק) למרגלות הסלעים שפע של רקפות בגוונים שונים של וורוד.",
+      "locations": [
+        {
+          "location_name": "הגלבוע",
+          "flowers": [
+            "Cyclamen persicum"
+          ],
+          "maps_query_location": "Gilboa"
+        },
+        {
+            "location_name": "הר שאול",
+            "flowers":[
+               "Cyclamen persicum"
+            ],
+            "maps_query_location":"Har Shaul"
+         }
+      ]
+    },
+    {
+      "date": "07/12/2024",
+      "observer": "עידו מגן",
+      "original_text": "שיא פריחה של סתווניות בגבעת התנ\"ך שמול מתחם התחנה הראשונה בירושלים (ליד הסינמטק)",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": [
+            "Colchicum"
+          ],
+           "maps_query_location":"Givat HaTanakh"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": [
+            "Colchicum"
+          ],
+           "maps_query_location":"Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "07/12/2024",
+       "observer": "מירי ונד",
+      "original_text": "סתווניות, כרכומים וחצבים יבשים בגבעת התנ\"ך שבירולים",
+      "locations": [
+        {
+          "location_name": "גבעת התנ\"ך",
+          "flowers": [
+             "Colchicum",
+             "Crocus",
+             "Urginea maritima"
+          ],
+          "maps_query_location":"Givat HaTanakh"
+        },
+         {
+            "location_name": "ירושלים",
+           "flowers": [
+             "Colchicum",
+             "Crocus",
+             "Urginea maritima"
+          ],
+          "maps_query_location":"Jerusalem"
+         }
+      ]
+    },
+    {
+      "date": "07/12/2024",
+      "observer": "בתיה פריד",
+      "original_text": "אין בכלל חלמוניות בדביל החלמוניות בנחל חצור עליון ביער ביריה. באסה",
+      "locations": [
+         {
+            "location_name":"נחל חצור עליון",
+            "flowers":[],
+            "maps_query_location":"Nahal Hatzor Elion"
+        },
+        {
+            "location_name": "יער ביריה",
+             "flowers":[],
+            "maps_query_location":"Biria Forest"
+        }
+      ]
+    }
+  ]
+}
+```

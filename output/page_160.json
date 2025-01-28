@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "23/12/2021",
+      "observer": "יורם קדרון",
+      "original_text": "תחילת פריחת נרדיסים מזה שבוע בנחל חצץ. היינו בשבת18/12/21, והפריחה מתרבה.",
+      "locations": [
+        {
+          "location_name": "נחל חצץ",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatzatz"
+        }
+      ]
+    },
+    {
+      "date": "22/12/2021",
+      "observer": null,
+      "original_text": "פורחים בכפר חרוב , הם בהירים יותר מאלו שאנו מכירים בכרמל",
+      "locations": [
+        {
+          "location_name": "כפר חרוב",
+           "flowers": ["איריס הסרגל"],
+          "maps_query_location": "Kfar Haruv"
+        },
+         {
+          "location_name": "כרמל",
+           "flowers": ["איריס הסרגל"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2021",
+      "observer": "טירן צפריר",
+      "original_text": "נחל אלעל,הרבה מאוד מקבצים לאורך של כ 100 מטר קצת לפני המפל הלבן מכיוון המפל השחור. מקבצים אלה בשיא הפריחה אך לאורך המסלול יש הרבה מאוד \"הבטחות\" שמלבלבות מן הקרקע",
+      "locations": [
+        {
+          "location_name": "נחל אלעל",
+          "flowers": ["רקפת"],
+          "maps_query_location": "Nahal El Al"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2021",
+      "observer": null,
+      "original_text": "נחל דימונה\nחמד המדבר , מלחית חומה , סתוונית טוביה \nאנדרטאת הנגב \nמאירית קצרת-\nבורות לוץ \nמוריקה מבריקה ,  סתוונית הרמון",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+           "flowers": ["חמד המדבר", "מלחית חומה", "סתוונית טוביה"],
+          "maps_query_location": "Nahal Dimona"
+        },
+        {
+          "location_name": "אנדרטת הנגב",
+           "flowers": ["מאירית קצרת-"],
+           "maps_query_location": "Negev Monument"
+        },
+         {
+           "location_name": "בורות לוץ",
+           "flowers": ["מוריקה מבריקה", "סתוונית הרמון"],
+           "maps_query_location": "Borot Lotz"
+         }
+      ]
+    },
+    {
+      "date": "19/12/2021",
+       "observer": null,
+      "original_text": "נחל דימונה:\nחד שפה  מצןי ,  קזוח עקום, נרקיסים, יפרוק המדבר, אזובית המדבר, גלונית ערב, זומזומית המדבר\nבורות לוץ:\nכלך דו דורי , מוריקה מבריקה,  בוצין סיני\nאנדרטת הנגב\nסיתוונית טוביה",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+          "flowers": ["חד שפה מצוי", "קזוח עקום", "נרקיס", "יפרוק המדבר", "אזובית המדבר", "גלונית ערב", "זומזומית המדבר"],
+          "maps_query_location": "Nahal Dimona"
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["כלך דו דורי", "מוריקה מבריקה", "בוצין סיני"],
+          "maps_query_location": "Borot Lotz"
+        },
+        {
+          "location_name": "אנדרטת הנגב",
+           "flowers": ["סתוונית טוביה"],
+          "maps_query_location": "Negev Monument"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2021",
+      "observer": "א-ק",
+      "original_text": "בין מקבץ עצים בשביל שמאחרי קניון הרים ליד צומת גוש עציון ניתן למצוא 3 מיני של כרכומים - כרכום חורפי, כרכום גיירדו וכרכום החרמון.",
+     "locations": [
+        {
+          "location_name": "קניון הרים",
+          "flowers": ["כרכום חורפי", "כרכום גיירדו", "כרכום החרמון"],
+          "maps_query_location": "Harim Mall"
+        },
+        {
+           "location_name": "צומת גוש עציון",
+          "flowers": ["כרכום חורפי", "כרכום גיירדו", "כרכום החרמון"],
+          "maps_query_location": "Gush Etzion Junction"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2021",
+      "observer": null,
+      "original_text": "בנחל דימונה והרבה מהם",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Dimona"
+        }
+      ]
+    },
+     {
+      "date": "19/12/2021",
+      "observer": null,
+      "original_text": "ברמות מנשה",
+       "locations": [
+        {
+          "location_name": "רמות מנשה",
+           "flowers": ["רקפת"],
+          "maps_query_location": "Ramat Menashe"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2021",
+      "observer": "משה קופרברג",
+      "original_text": "לאחר 5 שנים נפתחה סוף-סןף שמורה . עדיין הכל שם ירוק, יש שביל אחד ובצידי השביל צילומים של הצמחים הגדלים בשמורה. רואים כאן השקעת שעות רבות. לא ראינו עדיין פרחים, אבל הם יבואו, זה בטוח.",
+      "locations": [
+        {
+          "location_name": "שמורת בני ציון",
+           "flowers": [],
+          "maps_query_location": "Bnei Zion Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2021",
+      "observer": "עמיר פז",
+       "original_text": "ארכובית צמירה וקחוון קצר פירות הקדימו לפרוח. בן חילף הביצות ועוקץ עקרב ביצתי פורחים כל השנה",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["ארכובית צמירה", "קחוון קצר פירות", "בן חילף הביצות", "עוקץ עקרב ביצתי"],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,126 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/07/2017",
+      "observer": null,
+      "original_text": "חדעד הלבנון וחבלבל הלבנון, ציפורן הלבנון וארכובית הלבנון  בשיא  פריחה.   פירות בשלים של דובדבן שרוע,",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": ["חדעד הלבנון","חבלבל הלבנון","ציפורן הלבנון","ארכובית הלבנון","דובדבן שרוע"],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "15/07/2017",
+      "observer": null,
+      "original_text": "חצב ראשון נראה בכפר יובל - מעט מוקדם?",
+      "locations": [
+        {
+          "location_name": "כפר יובל",
+          "flowers": ["חצב"],
+           "maps_query_location": "Kfar Yuval"
+        }
+      ]
+    },
+    {
+      "date": "15/07/2017",
+      "observer": null,
+      "original_text": "פורחת לאורך חופי הארץ",
+      "locations": [
+         {
+          "location_name": "חופי הארץ",
+          "flowers": ["חבצלת החוף"],
+          "maps_query_location": "Coastal Plain Israel"
+        }
+      ]
+    },
+     {
+      "date": "15/07/2017",
+      "observer": null,
+      "original_text": "פיורת: שוש קוצני , חרובים ותאנים וצמחים: שילשי רגלני, שיח אברהם מצוי , עדשת מים, חבלבל השדה ועוד",
+         "locations": [
+        {
+          "location_name": "נחל אלכסנדר",
+          "flowers": ["שוש קוצני","חרובים","תאנים","שילשי רגלני","שיח אברהם מצוי","עדשת מים","חבלבל השדה"],
+          "maps_query_location": "Nahal Alexander"
+        }
+      ]
+    },
+    {
+      "date": "09/07/2017",
+      "observer": null,
+      "original_text": "דבקת הנחלים, וחבלבלן המשוכות פורחים במים הזורמים",
+      "locations": [
+        {
+          "location_name": "עין דיבשה",
+           "flowers": ["דבקת הנחלים","חבלבלן המשוכות"],
+            "maps_query_location":"Ein Divehsa"
+        }
+      ]
+    },
+    {
+      "date": "04/07/2017",
+      "observer": "דוד פורת",
+      "original_text": "זיפן ירוק – אלפי תפרחות יפיפיות בשדות ושטחים הצמודים ממזרח לדרך המוליכה לפארק נהריים (אתר הבנות) בקעת כנרות.",
+         "locations": [
+        {
+          "location_name": "בקעת כנרות",
+           "flowers": ["זיפן ירוק"],
+            "maps_query_location": "Kinneret Valley"
+        },
+        {
+           "location_name": "פארק נהריים",
+           "flowers": ["זיפן ירוק"],
+            "maps_query_location": "Naharayim"
+
+        }
+      ]
+    },
+    {
+      "date": "01/07/2017",
+      "observer": null,
+      "original_text": "פורחת בהר יהושפט",
+        "locations": [
+        {
+          "location_name": "הר יהושפט",
+          "flowers": ["געדה מלבינה"],
+            "maps_query_location": "Mount of Olives"
+        }
+      ]
+    },
+    {
+         "date":"01/07/2017",
+         "observer": "אורי פרגשמן ושמואל שמש",
+         "original_text": "עם אורי פרגשמן ושמואל שמש כל הפרטים בקישור מהרו להרשם - מתאים גם לשומרי שבת",
+         "locations": [
+            {
+               "location_name":"ארביז'אן",
+               "flowers": [],
+               "maps_query_location": "Arbizhan"
+            }
+          ]
+      },
+    {
+      "date": "29/06/2017",
+      "observer": null,
+      "original_text": "חבצלת החוף וקריתמון ימי פורחים לאורך חופי הים בקו הרסס הראשון .",
+      "locations": [
+         {
+          "location_name": "חופי הים",
+          "flowers": ["חבצלת החוף","קריתמון ימי"],
+           "maps_query_location":"Coastal Plain Israel"
+        }
+      ]
+    },
+     {
+      "date": "28/06/2017",
+      "observer": "רועי קן-תור",
+        "original_text": "מבעד חלון, בקרירות המזגן, נשקף לו הגן מרחוק. הביטו וראו מי מחיה את הגן, מי משקהו בקיץ בצחוק. היכן הצבעים נשקפים לעיניים ~ הרי זה מולנו ברור ~ פרחי שיחי קיץ צוחקים בין ערביים ומספרים לי את כל הסיפור. 20 שיחים צבעוניים לקיץ",
+       "locations": []
+    }
+  ]
+}
+```

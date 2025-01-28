@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/05/2022",
+      "observer": "בוצי גולדברג",
+      "original_text": "בדרך למלון יערות הכרמל אחרי שער הסחלבים .בסיבוב מצד מזרח לדרך שער חירום היורד מחורבת רקית בעמוד השמאלי יש סימון אדום.הסחלבים כ 6-10  מ' מעבר לשער בעליה מימין בין שיחי הלוטם וגם צמוד לעץ חרוב צעיר שנקאה כמו שיח כדאי להעזר באפליקצית עמוד ענן מסומן במדויק",
+      "locations": [
+        {
+          "location_name": "מלון יערות הכרמל",
+          "flowers": ["דבורנית הדבורה","סחלב"],
+          "maps_query_location": "Yarot Hacarmel Hotel"
+        },
+         {
+          "location_name": "חורבת רקית",
+           "flowers": ["דבורנית הדבורה","סחלב"],
+          "maps_query_location": "Horbat Rakit"
+        }
+      ]
+    },
+    {
+      "date": "09/05/2022",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "עלקלוק דביק (פרטים רבים), בן סחלב צריפי (12 פרטים), סחלב ריחני (פרט אחד), שפתן ו-סייפן התבואה.",
+      "locations": [
+        {
+          "location_name": "נבי חזורי",
+          "flowers": ["עלקלוק דביק", "בן סחלב צריפי", "סחלב ריחני", "שפתן", "סייפן התבואה"],
+          "maps_query_location": "Nabi Hazuri"
+        }
+      ]
+    },
+    {
+      "date": "08/05/2022",
+      "observer": "מרדכי ליברמן",
+       "original_text":"היום נצפה פרח ראשון של שושן צחור בקרן ברתות. מיקום : השביל הכחול מצפון לברך שהשביל יוצר בפינה הצפונית מערבית שלו. כן ניצפו פרחי לע הארי הגדול רבים בצד הצפוני של השביל הכחול",
+      "locations": [
+        {
+          "location_name": "קרן ברתות",
+          "flowers": ["שושן צחור", "לע הארי הגדול"],
+          "maps_query_location": "Keren Bartot"
+         }
+      ]
+    },
+    {
+      "date": "08/05/2022",
+      "observer": null,
+        "original_text": "ליד האלון הבודד בכרכור",
+      "locations": [
+        {
+          "location_name": "כרכור",
+          "flowers": ["געדה קיפחת"],
+           "maps_query_location": "Karkur"
+        }
+      ]
+    },
+       {
+      "date": "07/05/2022",
+      "observer": null,
+        "original_text": "פריחת בכורה ממרחק רב על המצוק בנחל אורן . כרמל 6.5.22 עוד שבוע תחל הפריחה בנחל כלח.בקרן ברתות מדווחים שהפריחה תחל כנראה באמצע שבוע זה, אל תצאו לפני יום שלישי רביעי ...למטה בקישור מסלול נחל ברתות",
+     "locations": [
+       {
+          "location_name": "נחל אורן",
+           "flowers": ["שושן צחור"],
+          "maps_query_location": "Nahal Oren"
+        },
+       {
+          "location_name": "נחל כלח",
+          "flowers": ["שושן צחור"],
+           "maps_query_location":"Nahal Kelah"
+        },
+         {
+          "location_name": "קרן ברתות",
+          "flowers": ["שושן צחור"],
+          "maps_query_location": "Keren Bartot"
+        }
+     ]
+    },
+    {
+      "date": "07/05/2022",
+      "observer": "עידו מגן",
+         "original_text":"בשביל הנופי של נחל קטלב פורחות הרבה דבורניות. כדאי לחנות בחניון שלפני בר בהר (קצת מערבית לו, באותו צד) - אפשר להגיע אליהן גם מבר בהר אבל יותר רחוק. גם בשביל של גבעת יערים פורחות הרבה דבורניות בשטח קטן יחסית",
+      "locations": [
+       {
+          "location_name": "נחל קטלב",
+          "flowers": ["דבורנית גדולה"],
+          "maps_query_location":"Nahal Katlav"
+        },
+         {
+          "location_name":"בר בהר",
+           "flowers": ["דבורנית גדולה"],
+          "maps_query_location": "Bar Bahar"
+         },
+         {
+           "location_name":"גבעת יערים",
+            "flowers": ["דבורנית גדולה"],
+           "maps_query_location": "Givat Ya'arim"
+         }
+      ]
+    },
+    {
+      "date": "06/05/2022",
+      "observer": "רותי רן",
+        "original_text": "בתאריך 2/5 עדיין לא נצפו ניצנים או עמודי פריחה של רצועית הגליל בהר מירון. גם דבורנית כחלחלה לא היתה",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+           "flowers": ["רצועית הגליל", "דבורנית כחלחלה"],
+          "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "06/05/2022",
+      "observer": "אסף גולדברגר",
+         "original_text":"פונים מכביש 3 מזרחה לכיוון מנזר לטרון. ממשיכים ישר לדרך העפר כ 300 מטרים אחרי צומת הכניסה למנזר. מקבץ הפריחה יהיה משמאלכם. קואורדינטות 31°49'47.1\"N 34°58'35.7\"E",
+       "locations": [
+        {
+          "location_name": "מנזר לטרון",
+          "flowers": ["אירוס ארם נהריים"],
+          "maps_query_location": "Latrun Monastery"
+        }
+      ]
+    },
+    {
+      "date": "06/05/2022",
+      "observer": "אורנה ניסן",
+        "original_text": "מקבצי פריחה יפיפיים של חוטמית זיפנית,בין צומת יגור לקיבוץ אלונים.",
+       "locations": [
+         {
+            "location_name": "יגור",
+             "flowers": ["חוטמית זיפנית"],
+             "maps_query_location":"Yagur"
+         },
+        {
+          "location_name": "אלונים",
+          "flowers": ["חוטמית זיפנית"],
+          "maps_query_location": "Alonim"
+        }
+      ]
+    },
+     {
+      "date": "06/05/2022",
+       "observer": null,
+        "original_text":"מרווה כחולה, לוענית מצויה, ורוניקה קירחת, שנק החורש, ועוד",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["מרווה כחולה", "לוענית מצויה", "ורוניקה קירחת", "שנק החורש"],
+          "maps_query_location":"Har Meron"
+        }
+      ]
+    }
+  ]
+}
+```

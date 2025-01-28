@@ -1,0 +1,182 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "לאורך כביש 789 מנאות גולן לכיוון הכינרת - פריחה מדהימה של שקדיות.",
+      "locations": [
+        {
+          "location_name": "נאות גולן",
+          "flowers": [
+            "שקד"
+          ],
+           "maps_query_location": "Neot Golan"
+        },
+        {
+          "location_name": "הכינרת",
+          "flowers": [
+             "שקד"
+          ],
+          "maps_query_location": "Sea of Galilee"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2023",
+      "observer": "דוד ח\"צ",
+      "original_text": "לשני צידי כביש 808 בגולן משטחים מרהיבים של סביונים לצידי הכביש מצומת המפלים לכיוון חיספין.",
+      "locations": [
+        {
+          "location_name": "גולן",
+          "flowers": [
+            "סביון"
+          ],
+          "maps_query_location": "Golan Heights"
+        },
+		 {
+          "location_name": "צומת המפלים",
+          "flowers": [
+            "סביון"
+          ],
+		    "maps_query_location": "HaMafalim Junction"
+        },
+		{
+          "location_name": "חיספין",
+          "flowers": [
+            "סביון"
+          ],
+		   "maps_query_location": "Hispin"
+        }
+      ]
+    },
+    {
+      "date": "12/02/2023",
+       "observer": "אירוס הארגמן בגבעות הכורכר נס ציונה",
+      "original_text": "בגבעות הכורכר בנס ציונה התחלת פריחה מרהיבה של אירוס הארגמן. בנוסף פריחת כלניות רותם מידברי ואחירותם.",
+      "locations": [
+        {
+          "location_name": "נס ציונה",
+          "flowers": [
+            "אירוס הארגמן",
+             "כלנית",
+            "רותם המדבר",
+            "אחירותם"
+          ],
+           "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2023",
+      "observer": "איתמר אייזנשטיין",
+      "original_text": "קדד הסיף ליד כפר אוריה ממזרח",
+      "locations": [
+        {
+          "location_name": "כפר אוריה",
+          "flowers": [
+            "קדד הסיף"
+          ],
+          "maps_query_location": "Kfar Uriya"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2023",
+      "observer": "שמוליק מנגן",
+      "original_text": "כלניות צבעוניות בנחת מגידו - שיא הםריחה",
+      "locations": [
+        {
+          "location_name": "נחת מגידו",
+          "flowers": [
+            "כלנית"
+          ],
+           "maps_query_location": "Nahat Megiddo"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2023",
+      "observer": "נדב זק",
+      "original_text": "היום 11.2 המוני כדן סגול (אלפים) וגביעונית הלבנון במלוא הדרה, זמזומיות, כלניות גבוהות והרבה רקפות",
+      "locations": [
+        {
+           "location_name": "הר תבור",
+           "flowers": [
+            "כדן סגול",
+             "גביעונית הלבנון",
+             "זמזומית",
+             "כלנית",
+             "רקפת"
+            ],
+            "maps_query_location":"Mount Tabor"
+         }
+      ]
+    },
+    {
+      "date": "11/02/2023",
+      "observer": "אולי שרון",
+      "original_text": "גבעת הצבעונים מעגן מיכאל המון צבעונים ורקפות",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "צבעוני",
+             "רקפת"
+          ],
+           "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "11/02/2023",
+      "observer": "אילנה סיגד",
+      "original_text": "הר כסלון פריחת כלניות כבר מול החנייה. תל בית שמש: מורדות דרומיים (מול ישעי) ומערביים פריחה יפה.",
+      "locations": [
+        {
+          "location_name": "הר כסלון",
+            "flowers": [
+            "כלנית"
+           ],
+          "maps_query_location":"Mount Ksalon"
+        },
+        {
+          "location_name": "תל בית שמש",
+          "flowers": [
+            "כלנית"
+          ],
+          "maps_query_location": "Tel Beit Shemesh"
+        }
+      ]
+    },
+     {
+      "date": "11/02/2023",
+      "observer": "אלי ויס",
+      "original_text": "התחלת פריחת צבעונים בגבעת. הפרחים המעגן מיכאל",
+       "locations": [
+        {
+          "location_name":"מעגן מיכאל",
+           "flowers": [
+             "צבעוני"
+             ],
+          "maps_query_location": "Ma'agan Michael"
+         }
+       ]
+    },
+    {
+       "date": "10/02/2023",
+        "observer": null,
+      "original_text": "החלה פריחת אירוס טוביה בבורות לוץ  10022023",
+      "locations": [
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "אירוס טוביה"
+          ],
+          "maps_query_location": "Borot Lotz"
+        }
+      ]
+    }
+  ]
+}
+```

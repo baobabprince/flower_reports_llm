@@ -1,0 +1,278 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/12/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : בצלציה א\"י , כרכום חלמוני ( שיא   הפריחה ) + חורפי , סתוונית טוביה , נץ חלב הררי + אזמלני , רקפת מצויה , כלנית מצויה , נרקיס מצוי ועוד .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+          "flowers": [
+            "Biarum davisii",
+            "Crocus hyemalis",
+             "Colchicum tauri",
+            "Ornithogalum montanum",
+            "Cyclamen persicum",
+            "Anemone coronaria",
+             "Narcissus tazetta"
+           ],
+           "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "02/12/2014",
+      "observer": null,
+       "original_text": "זלזלת הקנוקנות רגע לפני פריחה ,\nטוריים קטנים, נץ חלב הררי בשיא פריחה , גרניון עגול ועוד",
+      "locations": [
+        {
+          "location_name": "גני הנדיב",
+          "flowers": [
+            "Clematis cirrhosa",
+            "Gagea spp",
+            "Ornithogalum montanum",
+             "Geranium rotundifolium"
+           ],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+     {
+      "date": "02/12/2014",
+      "observer": null,
+      "original_text": "המון נרקיסים,ו ולרינה איטלקית ,כלניות ,רקפות ועוד.",
+      "locations": [
+          {
+            "location_name": "שביל המעפילים",
+            "flowers": [
+              "Narcissus tazetta",
+              "Valeriana italica",
+              "Anemone coronaria",
+              "Cyclamen persicum"
+            ],
+            "maps_query_location": "Shvil Hama'apilim"
+          }
+        ]
+    },
+      {
+      "date": "02/12/2014",
+      "observer": null,
+      "original_text": "פורחת בגן בגעש",
+      "locations": [
+          {
+            "location_name": "געש",
+            "flowers": [
+              "Colchicum autumnale"
+            ],
+           "maps_query_location": "Ga'ash"
+         }
+      ]
+     },
+    {
+      "date": "02/12/2014",
+      "observer": null,
+      "original_text": "נץ חלב הררי",
+      "locations": [
+        {
+           "location_name": "גני הנדיב",
+           "flowers": [
+             "Ornithogalum montanum"
+            ],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "30/11/2014",
+      "observer": "יואב גרטמן",
+      "original_text": "איריסי סרגל ליד  המוחרקה.על שביל יגור נשר.לאורך שביל המעפילים.שביל המצוק חורשת הארבעים.כרכום צהבהב  במרבדים יפים במיוחד השנה ליד מערת פער.כרכום נאה  בהר מירון.רקפות,במוחרקה ,כחל,מבוא חמה,נחל המערות  בכרמל -סתוויות בשיא פריחה.כלניות בכרמל בעיקר ליד יגור מתחילות.\nכרכום גיירדו  במשטחים מדהימים בשטחי המטעים של סאסא.\nסתתונית בכירה בסיום במערת פער.סתוונית ירושליים סיום בסאסא ובמערת פער. בשיא בצומת גולני.\nחלמונית זעירה פרחה השנה(אולי יש שרידים כיום) בכחל,צומת גולני וגבעת עדה.בסוף מצאנו אותה גם במערת פער.\nלאורך כביש  העליה להר מיירון,פריחה נהדרת של קיסוס  החורש. זה על קצה המזלג כי לא הזכרתי נרקיסים,כרכום גיירדו חופי,סתוונית היור ועוד.",
+       "locations": [
+        {
+          "location_name": "המוחרקה",
+           "flowers": [
+            "Iris regis-uzziae",
+             "Cyclamen persicum"
+           ],
+           "maps_query_location": "Muhraka"
+        },
+         {
+          "location_name": "שביל יגור נשר",
+           "flowers": [
+           "Iris regis-uzziae"
+           ],
+           "maps_query_location": null
+        },
+         {
+           "location_name": "שביל המעפילים",
+            "flowers": [
+               "Iris regis-uzziae"
+            ],
+            "maps_query_location": "Shvil Hama'apilim"
+        },
+        {
+          "location_name": "חורשת הארבעים",
+           "flowers": [
+             "Iris regis-uzziae"
+           ],
+           "maps_query_location": null
+        },
+         {
+           "location_name": "מערת פער",
+            "flowers": [
+            "Crocus flavus",
+            "Colchicum hierosolymitanum",
+            "Sternbergia clusiana",
+            "Romulea bulbocodium"
+           ],
+           "maps_query_location":"Me'arat Pa'er"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+              "Crocus pulchellus"
+           ],
+           "maps_query_location":"Har Meron"
+        },
+         {
+          "location_name": "כחל",
+            "flowers": [
+            "Cyclamen persicum",
+             "Sternbergia clusiana",
+             "Romulea bulbocodium"
+           ],
+           "maps_query_location":"Kahal"
+         },
+        {
+          "location_name": "מבוא חמה",
+            "flowers": [
+            "Cyclamen persicum",
+             "Colchicum autumnale"
+           ],
+           "maps_query_location": "Mevo Hama"
+         },
+          {
+            "location_name": "נחל המערות",
+            "flowers": [
+                "Colchicum autumnale"
+           ],
+           "maps_query_location": "Nahal HaMe'arot"
+          },
+          {
+            "location_name": "יגור",
+             "flowers": [
+                "Anemone coronaria"
+            ],
+            "maps_query_location": "Yagur"
+          },
+         {
+          "location_name":"סאסא",
+           "flowers": [
+              "Crocus cancellatus",
+              "Colchicum hierosolymitanum",
+               "Romulea bulbocodium"
+           ],
+            "maps_query_location":"Sasa"
+         },
+         {
+          "location_name":"צומת גולני",
+           "flowers": [
+               "Romulea bulbocodium",
+               "Sternbergia clusiana"
+           ],
+           "maps_query_location":"Tzomet Golani"
+         },
+         {
+           "location_name":"גבעת עדה",
+            "flowers": [
+                "Romulea bulbocodium"
+             ],
+              "maps_query_location":"Giv'at Ada"
+          },
+          {
+            "location_name":"הר מירון",
+            "flowers":[
+             "Hedera helix"
+           ],
+             "maps_query_location":"Har Meron"
+          }
+      ]
+    },
+    {
+      "date": "30/11/2014",
+      "observer": null,
+       "original_text": "מגוון פריחה בכרמל תודות להדרכה של יואב גרטמן מקיבוץ יגור איש יקר בעל יידע רב במיקום אזורי פריחה מועדי פריחה ובעיקר אוהב לעזור לאורך השנים מצורפת קישורית מהשטח כולל נץ חלב אבנר לא בשבת 052 3351549",
+        "locations": [
+        {
+          "location_name":"כרמל",
+          "flowers": [
+            "Ornithogalum narbonense"
+            ],
+           "maps_query_location": "Carmel"
+          }
+        ]
+    },
+    {
+      "date": "29/11/2014",
+      "observer": "משה קופרברג",
+      "original_text": "היום היינו ביער טל-שחר וביער המגינים. יש המון רקפות אך עדיין ללא פרחים.\nמצאנו פריחה אחת של רקפת ואחת של כרכום.\nכן מצאתי פטריה \"אורניה\" אך השארתי אותה לאוהבי הפטריות...\nביער המגינים המון רקפות שטרם הוציאו פרחים כנראה בשבוע הקרוב.\nאז זהו חברים עונת הפריחה מתחילה.",
+      "locations": [
+        {
+           "location_name": "יער טל שחר",
+           "flowers": [
+              "Cyclamen persicum",
+              "Crocus spp"
+            ],
+           "maps_query_location": "Ya'ar Tal Shahar"
+        },
+         {
+           "location_name":"יער המגינים",
+           "flowers": [
+               "Cyclamen persicum"
+             ],
+              "maps_query_location":"Ya'ar Hameginim"
+          }
+      ]
+    },
+    {
+      "date": "29/11/2014",
+      "observer": null,
+      "original_text": "אחרי שפע הגשם שירד באזור השפלה הגבוהה והרי יהודה בשבוע האחרון, החלה פריחה של כרכומים ונרקיסים , הנרקיסים אינם בכל מקום, אלה בריכוזים קטנים במקומות שהם  פורחים שנה שנה. אי אפשר להחמיץ אותם, הכרכומים נפוצים יותר. רקפות עדין לא רואים,  אך העלים הרעננים נראים בכל מקום. פה ושם  רואים גם פרחי חיננית הבתה.",
+      "locations": [
+        {
+          "location_name": "השפלה הגבוהה",
+          "flowers": [
+            "Crocus spp",
+            "Narcissus tazetta",
+            "Bellis sylvestris"
+          ],
+          "maps_query_location": "Shfela"
+        },
+         {
+           "location_name":"הרי יהודה",
+            "flowers":[
+               "Crocus spp",
+               "Narcissus tazetta",
+              "Bellis sylvestris"
+             ],
+             "maps_query_location":"Judean Mountains"
+         }
+      ]
+    },
+     {
+      "date": "29/11/2014",
+       "observer": null,
+       "original_text":"פורחת בגן בגעש",
+       "locations":[
+         {
+           "location_name":"געש",
+            "flowers":[
+              "Biarum davisii"
+            ],
+           "maps_query_location": "Ga'ash"
+         }
+       ]
+     }
+  ]
+}
+```

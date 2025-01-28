@@ -1,0 +1,136 @@
+```json
+{
+  "reports": [
+    {
+      "date": "17/01/2011",
+      "observer": "עירית",
+      "original_text": "מחרתיים ט\"ו בשבט אבל עצי השקד עדיין לא התחילו לפרוח. כרכום גיירדו כבר סיים. חלמוניות  עדיין פורחות, לקראת סיום. מרבדי נץ החלב ומעט רקפות, עופרית, ציפורנית מצוירת ושברק.",
+      "locations": [
+        {
+          "location_name": "ואדי ראש פינה",
+           "flowers": ["שקד מצוי", "כרכום גיירדו", "חלמונית", "נץ חלב", "רקפת", "עופרית", "ציפורנית מצוירת", "שברק"],
+          "maps_query_location": "Wadi Rosh Pinna"
+        }
+      ]
+    },
+    {
+      "date": "17/01/2011",
+      "observer": null,
+      "original_text": "החלה בצורה מועטה בבוסתני גמזו",
+      "locations": [
+        {
+          "location_name": "בוסתני גמזו",
+          "flowers": ["שקד מצוי"],
+            "maps_query_location": "Gamzu"
+        }
+      ]
+    },
+     {
+      "date": "16/01/2011",
+      "observer": "משה קופרברג",
+      "original_text": "ממש מתחת לאף ליד תל אביב",
+        "locations": [
+        {
+          "location_name": "גלילות",
+           "flowers": ["אירוס", "כלנית"],
+          "maps_query_location": "Glilot"
+        },
+         {
+          "location_name": "תל אביב",
+          "flowers": ["אירוס", "כלנית"],
+            "maps_query_location": "Tel Aviv"
+        }
+      ]
+    },
+     {
+      "date": "15/01/2011",
+      "observer": "אורי שטיין",
+      "original_text": "מרסיה יפהפיה, בשטחים מושקים סביון אביבי, כרוב החוף, צנון מצוי",
+      "locations": [
+        {
+          "location_name": "מצפון לצהלה",
+            "flowers": ["מרסיה", "סביון אביבי", "כרוב החוף", "צנון מצוי"],
+          "maps_query_location": "North of Tzahal"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2011",
+      "observer": "אביחי ברג",
+      "original_text": "מרבדי נרקיסים בנחל כסלון (בעיקר בין מערת בני ברית לחיבור עם נחל כרמילה) ופרטים בודדים של אירוס ארץ ישראל בנחל כרמילה",
+      "locations": [
+        {
+          "location_name": "נחל כסלון",
+           "flowers": ["נרקיס", "אירוס ארץ ישראל"],
+          "maps_query_location": "Nahal Ksalon"
+        },
+          {
+          "location_name": "נחל כרמילה",
+           "flowers": ["אירוס ארץ ישראל"],
+            "maps_query_location": "Nahal Karmila"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2011",
+      "observer": null,
+      "original_text": "פריחה של פרטים רבים של סתוניות היורה.",
+        "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": ["סתוונית היורה"],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2011",
+      "observer": null,
+       "original_text": "כלנית ראשונה, פרטים רבים של נץ חלב איזמלני,  רקפות, נרקיסים, כתמה עבת שורש, טוריים קטנים",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+          "flowers": ["כלנית", "נץ חלב איזמלני", "רקפת", "נרקיס", "כתמה עבת שורש", "טוריים קטנים"],
+          "maps_query_location": "Shoham Forest"
+        }
+      ]
+    },
+       {
+      "date": "15/01/2011",
+      "observer": "דרור מלמד",
+      "original_text": "בפארק יקום החלו לפרוח שיחי הצחנן המבאיש.",
+      "locations": [
+        {
+          "location_name": "פארק יקום",
+            "flowers": ["צחנן מבאיש"],
+           "maps_query_location": "Yekum Park"
+        }
+      ]
+    },
+    {
+      "date": "15/01/2011",
+      "observer": "אורי שטיין",
+       "original_text": "גרנים הארגמן, מרקולית, צפרוני החתול, כתמה עבת שורש, ברקן סורי",
+      "locations": [
+        {
+          "location_name": "מאוזוליאום מזור",
+           "flowers": ["גרניון הארגמן", "מרקולית", "צפרוני החתול", "כתמה עבת שורש", "ברקן סורי"],
+          "maps_query_location": "Mausoleum Mazor"
+        }
+      ]
+    },
+     {
+      "date": "15/01/2011",
+      "observer": "אורי שטיין",
+        "original_text":"בביתן אהרון ב- 8.1.11 פרחו אירוס א\"י, נרקיסים, רקפות וצחנן מבאיש",
+      "locations": [
+         {
+          "location_name": "ביתן אהרון",
+           "flowers": ["אירוס ארץ ישראל", "נרקיס", "רקפת", "צחנן מבאיש"],
+          "maps_query_location": "Beitan Aharon"
+        }
+      ]
+    }
+  ]
+}
+```

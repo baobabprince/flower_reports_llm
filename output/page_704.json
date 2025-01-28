@@ -1,0 +1,318 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/03/2011",
+      "observer": "דודי הולצמן",
+      "original_text": "אירוסי ארגמן בשיא פריחה בשמורה הקטנה של קדימה",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני קדימה",
+          "flowers": [
+            "Iris atropurpurea"
+          ],
+          "maps_query_location": "Kadima"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2011",
+       "observer": null,
+      "original_text": "10מפה ובה  מסלולי טיול בכרמל  והיכרות עם 20 צמחים,לרכישה - פרטים בקישור.מכל מפה שנמכרת תניתן תרומה של 1 שקל לשיקום. היעקרות",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2011",
+      "observer": "שרה סלפק",
+      "original_text": "ברוב חלקי הארץ ישנה השנה פריחה שופעת מאין כמוה של איריות,לאורך הכביש מצמח, בואכה פרק הירדן,וכורזים,כלניות אדומות לבנות ורודות וכחול סגול בשפע, תורמוס ההרים וכרמלית נאה,צמר מפוצל,בסוסיתא-חלבלוב השיח שום שעיר שום ארדל,רקפות,טופח ריסני,שכרון זהוב,מרוה ריחנית,וחוץ מהמצליבים הצהובים למינהם גם צנון מצוי,שרה בן-שמן.",
+       "locations": [
+        {
+           "location_name": "צמח",
+          "flowers": [
+            "Iris",
+             "Anemone coronaria",
+              "Lupinus pilosus",
+              "Glebionis coronaria",
+              "Fumaria",
+              "Euphorbia hierosolymitana",
+             "Allium subhirsutum",
+             "Allium stellerianum",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Alkanna tinctoria",
+              "Salvia dominica",
+              "Raphanus raphanistrum",
+              "Sarcopoterium spinosum"
+            ],
+            "maps_query_location":"Tzemach"
+          },
+          {
+           "location_name": "פרק הירדן",
+             "flowers": [
+               "Iris",
+              "Anemone coronaria",
+              "Lupinus pilosus",
+              "Glebionis coronaria",
+              "Fumaria",
+              "Euphorbia hierosolymitana",
+             "Allium subhirsutum",
+             "Allium stellerianum",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Alkanna tinctoria",
+              "Salvia dominica",
+               "Raphanus raphanistrum",
+               "Sarcopoterium spinosum"
+            ],
+             "maps_query_location":"Jordan River Park"
+          },
+           {
+           "location_name": "כורזים",
+              "flowers": [
+                "Iris",
+              "Anemone coronaria",
+              "Lupinus pilosus",
+              "Glebionis coronaria",
+               "Fumaria",
+               "Euphorbia hierosolymitana",
+             "Allium subhirsutum",
+              "Allium stellerianum",
+              "Cyclamen persicum",
+               "Erodium cicutarium",
+              "Alkanna tinctoria",
+              "Salvia dominica",
+              "Raphanus raphanistrum",
+               "Sarcopoterium spinosum"
+            ],
+            "maps_query_location":"Korazim"
+         },
+         {
+           "location_name": "סוסיתא",
+              "flowers": [
+                "Iris",
+              "Anemone coronaria",
+              "Lupinus pilosus",
+              "Glebionis coronaria",
+              "Fumaria",
+              "Euphorbia hierosolymitana",
+             "Allium subhirsutum",
+             "Allium stellerianum",
+             "Cyclamen persicum",
+             "Erodium cicutarium",
+             "Alkanna tinctoria",
+              "Salvia dominica",
+              "Raphanus raphanistrum",
+              "Sarcopoterium spinosum"
+            ],
+            "maps_query_location":"Susita"
+          }
+      ]
+    },
+    {
+      "date": "03/03/2011",
+      "observer": null,
+      "original_text": "בראש מעלה אלישע הכביש העולה לכוכב הירדן שבגליל תחתון מזרחי שילוב פריחה מרשים של אלפי פעמוני גביעונית הלבנון ב\"יערות\" הצחנן המבאיש.  כמו כן פורחים שם עירית גדולה, כלנית מצוייה בשלל צבעים אבל בכתמים צנועים, מרווה ריחנית וקדד גדול פרחים.",
+     "locations": [
+       {
+          "location_name": "מעלה אלישע",
+          "flowers": [
+            "Fritillaria persica",
+             "Asphodelus aestivus",
+            "Anemone coronaria",
+            "Salvia dominica",
+            "Astragalus macrocarpus"
+          ],
+          "maps_query_location":"Ma'ale Elisha"
+        },
+         {
+          "location_name": "כוכב הירדן",
+         "flowers": [
+           "Fritillaria persica",
+             "Asphodelus aestivus",
+            "Anemone coronaria",
+            "Salvia dominica",
+            "Astragalus macrocarpus"
+         ],
+        "maps_query_location": "Kokhav HaYarden"
+        },
+        {
+         "location_name":"גליל תחתון מזרחי",
+         "flowers": [
+            "Fritillaria persica",
+             "Asphodelus aestivus",
+            "Anemone coronaria",
+            "Salvia dominica",
+           "Astragalus macrocarpus"
+          ],
+         "maps_query_location":"Lower Galilee"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2011",
+      "observer": "גן בוטני , כפר - יהושע",
+      "original_text": "פורחים : ביקיה קפריסאית + הביצות + א\"י , אירוס הגלבוע + הנגב   , דמומית עבת שיבולת + משוננת + קטנת פרחים       + א\"י , בן פרג סגול , פשתנית ססגונית + יפו + אשקלון + משולשת , כרבולתן השדות , פעמונית כוכבנית , בוצין מזרחי , ציפורנית נפוחה + דמשקאית   , דרדר כחול  , נורית אסיה ( גם צהובה ) , מרסיה יפהפיה , ספלול מטפס , כרמלית נאה , שפתן מצוי , סחלב הגליל + פרפרני  + הביצות , דבורנית הקטיפה + דנסמור + צהובה , קורידלית הסלעים , רקפת יוונית  ועוד ועוד . מוזמנים .אילן טל , 0528254968",
+    "locations": [
+         {
+            "location_name": "כפר יהושע",
+           "flowers": [
+              "Vicia cypria",
+             "Iris haynei",
+             "Papaver umbonatum",
+             "Papaver denticulatum",
+             "Papaver pygmaeum",
+              "Glaucium grandiflorum",
+               "Linum pubescens",
+               "Linum flavum",
+              "Linum strictum",
+             "Cephalaria syriaca",
+              "Campanula hierosolyma",
+             "Verbascum orientale",
+              "Silene bellidifolia",
+              "Centaurea cyanus",
+              "Ranunculus asiaticus",
+             "Marsilea strigosa",
+             "Convolvulus scammonia",
+             "Glebionis coronaria",
+              "Ajuga chamaepitys",
+             "Orchis galilaea",
+               "Ophrys flavomarginata",
+              "Ophrys transhyrcana",
+              "Ophrys lutea",
+             "Corydalis palaestina",
+              "Cyclamen graecum"
+          ],
+            "maps_query_location":"Kfar Yehoshua"
+        }
+      ]
+    },
+        {
+      "date": "02/03/2011",
+      "observer": null,
+      "original_text": "ביער בן-שמן מרבדי רקפות, בבוסתני גמזו ובדרום מודיעין פריחת שקדיות מדהימה",
+    "locations": [
+          {
+            "location_name": "יער בן שמן",
+            "flowers": [
+             "Cyclamen persicum",
+             "Prunus dulcis"
+             ],
+             "maps_query_location":"Ben Shemen Forest"
+           },
+        {
+          "location_name": "גמזו",
+            "flowers": [
+            "Prunus dulcis"
+           ],
+          "maps_query_location":"Gamzu"
+         },
+         {
+           "location_name":"דרום מודיעין",
+           "flowers": [
+             "Prunus dulcis"
+          ],
+           "maps_query_location":"Modi'in"
+         }
+      ]
+    },
+    {
+      "date": "01/03/2011",
+      "observer": null,
+      "original_text": "העריוני הצהוב פורח במלוא הדרו ברכס כוכב הים, לאורך השביל היורד מסטלה מאריס לכיוון הקפלה הקטנה.",
+    "locations": [
+          {
+           "location_name": "רכס כוכב הים",
+          "flowers": [
+            "Urospermum picroides"
+          ],
+           "maps_query_location":"Mount Carmel"
+         },
+         {
+           "location_name":"סטלה מאריס",
+             "flowers": [
+            "Urospermum picroides"
+          ],
+           "maps_query_location":"Stella Maris"
+         }
+      ]
+    },
+    {
+      "date": "28/02/2011",
+      "observer": "עמיר פז",
+      "original_text": "צבעוני ההרים,רקפת יוונית,שום משולש+מזרחי+ת\"א,איריס הביצות+הארגמן+הנגב,נורית אסיה,לשון הפר הסמורה,זמזומית סגולה,בן חצב החורש,דבורנית שחומה,מוריקה מבריקה,כרמלית נאה,פשתנית משולשת,דונגית א\"י,מרווה דגולה+צמירה,ישימונית דו גונית,אפון קיפח,ציפורנית א\"י,ומרסיה יפהפיה פורחים בגן - מוזמנים",
+    "locations": [
+        {
+          "location_name": "געש",
+          "flowers": [
+            "Tulipa montana",
+            "Cyclamen graecum",
+            "Allium trifoliatum",
+            "Allium orientale",
+            "Iris palaestina",
+            "Iris atropurpurea",
+            "Iris mariae",
+             "Ranunculus asiaticus",
+            "Anchusa strigosa",
+            "Gagea reticulata",
+           "Scilla hyacinthoides",
+           "Ophrys umbilicata",
+           "Bellardia trixago",
+           "Glebionis coronaria",
+           "Linum strictum",
+             "Onosma frutescens",
+             "Salvia grandiflora",
+             "Salvia lanigera",
+            "Gymnarrhena micrantha",
+            "Lathyrus cicera",
+            "Silene palaestina",
+            "Marsilea strigosa"
+          ],
+          "maps_query_location":"Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "28/02/2011",
+      "observer": null,
+      "original_text": "סחלב פרפרני בשפע,עירית גדולה,כלנית מצויה,דבורנית צהובת שוליים,לשון אפעה קטנה,אזוביון דגול,בן חצב יקינטוני,מצילות מצוייצות,והכי הכי : תלתן ישראלי פורחים בשמורה",
+      "locations": [
+        {
+          "location_name": "שמורת בני ציון",
+          "flowers": [
+            "Orchis papilionacea",
+             "Asphodelus aestivus",
+             "Anemone coronaria",
+             "Ophrys flavomarginata",
+            "Echium parviflorum",
+             "Micromeria fruticosa",
+             "Scilla hyacinthoides",
+             "Tordylium aegaeum",
+             "Trifolium israeliticum"
+          ],
+          "maps_query_location": "Bnei Zion"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2011",
+       "observer": null,
+      "original_text": "המוני פרחים תכלחלים שווה להגיע למקום",
+       "locations": [
+         {
+           "location_name": "עין אלון",
+           "flowers": [
+            "Scilla hyacinthoides"
+            ],
+          "maps_query_location":"Ein Alon"
+        }
+      ]
+    }
+  ]
+}
+```

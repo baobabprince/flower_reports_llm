@@ -1,0 +1,353 @@
+```json
+{
+  "reports": [
+    {
+      "date": "22/06/2011",
+      "observer": "אילן טל",
+      "original_text": "פורחים : פשטה שעירה , סם הכלב המזרחי , מעוג קפח , געדה קוצנית , פרע ריחני , עדעד כחול , מרווה מרושתת , נר הלילה החופי , ציפורנית גדולה , חבלבל השיח , ערבז סוככני , דרבנית סגולה , נימפיה תכולה ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+           "flowers": [
+            "Plectranthus barbatus",
+            "Cynoglossum officinale",
+            "Gundelia tournefortii",
+            "Echinops adenocaulos",
+             "Verbascum sinuatum",
+            "Echium judaeum",
+            "Salvia dominica",
+            "Oenothera drummondii",
+             "Dianthus giganteus",
+            "Convolvulus dorycnium",
+            "Echium glomeratum",
+            "Consolida orientalis",
+            "Nymphaea caerulea"
+          ],
+           "maps_query_location": null
+        },
+        {
+          "location_name":"כפר יהושע",
+           "flowers": [
+            "Plectranthus barbatus",
+            "Cynoglossum officinale",
+            "Gundelia tournefortii",
+            "Echinops adenocaulos",
+             "Verbascum sinuatum",
+            "Echium judaeum",
+            "Salvia dominica",
+            "Oenothera drummondii",
+             "Dianthus giganteus",
+            "Convolvulus dorycnium",
+            "Echium glomeratum",
+            "Consolida orientalis",
+            "Nymphaea caerulea"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "21/06/2011",
+      "observer": null,
+      "original_text": "פרע ריחני פורח בגן הבוטני בגעש",
+       "locations": [
+        {
+          "location_name": "גן הבוטני",
+          "flowers": [
+            "Verbascum sinuatum"
+          ],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "געש",
+          "flowers": [
+            "Verbascum sinuatum"
+           ],
+            "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "19/06/2011",
+       "observer": null,
+      "original_text": "קדד ארנברג נמצא בחרמון",
+      "locations": [
+        {
+          "location_name": "חרמון",
+           "flowers": [
+            "Astragalus arenarius"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+     {
+      "date": "14/06/2011",
+      "observer": null,
+      "original_text": "חופית נמוכה,חלבלוב הים,חרחבינה חופית,וגומא שרוני פורחים בחוף",
+       "locations": [
+        {
+          "location_name": "עתלית",
+          "flowers": [
+            "Suaeda monoica",
+            "Euphorbia paralias",
+            "Eryngium maritimum",
+            "Cyperus sharonensis"
+          ],
+          "maps_query_location": "Atlit"
+        }
+      ]
+    },
+      {
+      "date": "13/06/2011",
+       "observer": "עירית",
+      "original_text": "פריחה מגוונת בצבעים ובמינים. הרוב קוצניים. דרדרים, חוח ספרדי, חוחן הקנרס, קפודן מצוי, שברק קוצני, צלף זהרי (קוצני), מוצית קוצנית, פטל קדוש, גזר, כמנון, רימון, בוצין, והמיוחדים ביותר- ציפורנית מצוירת, קצח הציפורן וצלבית ארוכת שיבולת בכמויות ובגובה מרשימים. בשעת בין ערביים נפתחים הפרחים העדינים של הצלבית, וזו שעה נהדרת לטיול.",
+      "locations": [
+        {
+          "location_name": "נחל ראש פינה",
+          "flowers": [
+            "Centaurea",
+             "Scolymus hispanicus",
+            "Carlina lanata",
+            "Echinops polyceras",
+             "Ononis spinosa",
+            "Capparis zoharyi",
+            "Ballota undulata",
+            "Rubus sanctus",
+            "Daucus carota",
+             "Cuminum cyminum",
+            "Punica granatum",
+             "Verbascum",
+             "Dianthus pictus",
+            "Nigella arvensis",
+            "Aethionema grandiflorum"
+          ],
+          "maps_query_location": "Nahal Rosh Pina"
+        }
+      ]
+    },
+    {
+      "date": "13/06/2011",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "פורחים: דורבנית סגולה כמה עשרות צמחים, קורנית מקורקפת, שמשון סגלגל, דרדר הקורים, קורטם דק, סולנום זיתני, חוגית תמימה, שום גבוה, פרע מסולסל, קצח השדה, שברק מצוי, חד שפה תמים, שום ארדל, לנטנה ססגונית, ויתניה משכרת, צלף מצרי, פרג נחות.",
+      "locations": [
+        {
+          "location_name": "גבעות הכורכר",
+           "flowers": [
+             "Consolida orientalis",
+            "Thymbra capitata",
+            "Echium glomeratum",
+             "Centaurea hyalolepis",
+            "Carthamus tenuis",
+             "Solanum elaeagnifolium",
+            "Glandularia pulchella",
+            "Allium ampeloprasum",
+            "Verbascum undulatum",
+            "Nigella sativa",
+             "Ononis reclinata",
+            "Ajuga chamaepitys",
+             "Allium erdelii",
+            "Lantana camara",
+             "Withania somnifera",
+            "Capparis aegyptia",
+            "Papaver dubium"
+           ],
+           "maps_query_location": null
+        },
+        {
+            "location_name": "נס ציונה",
+              "flowers": [
+             "Consolida orientalis",
+            "Thymbra capitata",
+            "Echium glomeratum",
+             "Centaurea hyalolepis",
+            "Carthamus tenuis",
+             "Solanum elaeagnifolium",
+            "Glandularia pulchella",
+            "Allium ampeloprasum",
+            "Verbascum undulatum",
+            "Nigella sativa",
+             "Ononis reclinata",
+            "Ajuga chamaepitys",
+             "Allium erdelii",
+            "Lantana camara",
+             "Withania somnifera",
+            "Capparis aegyptia",
+            "Papaver dubium"
+           ],
+          "maps_query_location": "Ness Ziona"
+        }
+      ]
+    },
+     {
+      "date": "13/06/2011",
+       "observer": null,
+      "original_text": "בנחל חזורי וראינו הרבה אורנין ההרים פורח ולפני פריחה",
+       "locations": [
+        {
+          "location_name": "נחל חזורי",
+          "flowers": [
+             "Astragalus macrocephalus"
+          ],
+           "maps_query_location": "Nahal Hazori"
+        }
+      ]
+    },
+    {
+      "date": "13/06/2011",
+      "observer": "גדי פולק,נועה משה,ישי,ואנוכי",
+      "original_text": "גדי פולק,נועה משה,ישי,ואנוכי סיירנו אתמול במאגר ושמורת געש הצמודים זה לזה ומצאנו 3 מינים אדומים : עטיינית מגובבת,אמניה מצרית,ולשישית מקומטת. בנוסף ראינו בוציץ סוככני,דמסון כוכבני, ועוד מינים רבים",
+     "locations": [
+        {
+          "location_name": "מאגר געש",
+          "flowers": [
+            "Lythrum hyssopifolia",
+            "Ammannia aegyptiaca",
+             "Silene subconica",
+            "Bupleurum semicompositum",
+            "Damasonium alisma"
+          ],
+           "maps_query_location": "Ga'ash"
+        },
+        {
+          "location_name":"שמורת געש",
+           "flowers": [
+            "Lythrum hyssopifolia",
+            "Ammannia aegyptiaca",
+             "Silene subconica",
+             "Bupleurum semicompositum",
+            "Damasonium alisma"
+          ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "12/06/2011",
+      "observer": "שרה בן שמן",
+      "original_text": "רכבל תחתון ועליון,עמק סלעם,שלטה צרת עלים,חד אבקן אדום,קרקש צהוב,פרגה קרחת,כחלית ההרים,צללית ערערית,הרדופנין מנוצה,דבקה אמיתית,ומשחירה,ברוניקה אפרפרה ומזרחית,אנקון פגיוני,לשון  כלב הררית,גרניון הפקעות,תכלתן מזרחי,מרוה רחבת גביע,עריר הלבנון,לוף מאורך,דובדבן שרוע, קדד האורנים קדד אדום פרחים,שום שחור,יער אודם-צפורן נקוד,ערבז דק פרחים,דרדר מצוי,עכנאי מגובב,ספלול ססגוני,צפורנית כרסנית,ואכילאה קטנת פרחים",
+      "locations": [
+        {
+          "location_name": "חרמון",
+            "flowers": [
+            "Silene stenophylla",
+            "Andrachne telephioides",
+             "Onobrychis cornuta",
+            "Phlomis kurdica",
+            "Linaria haelava",
+             "Juniperus oxycedrus",
+            "Nerium oleander",
+            "Galium verum",
+            "Galium tricornutum",
+            "Veronica cinerea",
+            "Veronica orientalis",
+             "Anchusa strigosa",
+             "Cynoglossum montanum",
+            "Geranium tuberosum",
+            "Pseudolysimachion orientale",
+            "Salvia latifolia",
+             "Cedrus libani",
+            "Arum elongatum",
+            "Prunus prostrata",
+            "Astragalus pinetorum",
+            "Astragalus coccineus",
+             "Allium nigrum",
+             "Dianthus punctatus",
+            "Echium angustifolium",
+            "Centaurea iberica",
+             "Echium glomeratum",
+            "Thlaspi arvense",
+             "Dianthus strictus",
+            "Achillea santolina"
+          ],
+           "maps_query_location": "Mount Hermon"
+        },
+        {
+           "location_name":"יער אודם",
+            "flowers": [
+            "Silene stenophylla",
+            "Andrachne telephioides",
+             "Onobrychis cornuta",
+            "Phlomis kurdica",
+            "Linaria haelava",
+             "Juniperus oxycedrus",
+            "Nerium oleander",
+            "Galium verum",
+            "Galium tricornutum",
+            "Veronica cinerea",
+            "Veronica orientalis",
+             "Anchusa strigosa",
+             "Cynoglossum montanum",
+            "Geranium tuberosum",
+            "Pseudolysimachion orientale",
+            "Salvia latifolia",
+             "Cedrus libani",
+            "Arum elongatum",
+            "Prunus prostrata",
+            "Astragalus pinetorum",
+            "Astragalus coccineus",
+             "Allium nigrum",
+             "Dianthus punctatus",
+            "Echium angustifolium",
+            "Centaurea iberica",
+             "Echium glomeratum",
+            "Thlaspi arvense",
+             "Dianthus strictus",
+            "Achillea santolina"
+          ],
+           "maps_query_location": "Ya'ar Odem"
+        }
+      ]
+    },
+    {
+      "date": "11/06/2011",
+      "observer": "עירית",
+      "original_text": "בטיול מגוש חלב ליער ברעם פריחת קיץ נהדרת של דרדר מצוי בורוד, לבן וצהוב, חרחבינה מכחילה, עולש, חוחן הקנרס, קצח הציפורן, קערורית סגולה, געדת החורש, אזוב מצוי, בר דורבן אשון, חסה כחולת פרחים (סוף פריחה), מררית וקיטה, כמנון קיפח, שפרירה קשקשנית, אסתום מצוי  ודל קרניים כרמלי.",
+      "locations": [
+        {
+          "location_name": "גוש חלב",
+            "flowers": [
+             "Centaurea iberica",
+             "Echinops microcephalus",
+             "Cichorium intybus",
+             "Carlina lanata",
+             "Nigella arvensis",
+             "Scabiosa prolifera",
+             "Phlomis viscose",
+             "Origanum syriacum",
+              "Acanthus syriacus",
+             "Lactuca undulata",
+             "Picris hieracioides",
+             "Cuminum aegyptiacum",
+             "Anisosciadium isosciadium",
+              "Sanguisorba minor",
+              "Cerastium cerastoides"
+          ],
+          "maps_query_location": "Gush Halav"
+        },
+        {
+           "location_name":"יער ברעם",
+            "flowers": [
+             "Centaurea iberica",
+             "Echinops microcephalus",
+             "Cichorium intybus",
+             "Carlina lanata",
+             "Nigella arvensis",
+             "Scabiosa prolifera",
+             "Phlomis viscose",
+             "Origanum syriacum",
+              "Acanthus syriacus",
+             "Lactuca undulata",
+             "Picris hieracioides",
+             "Cuminum aegyptiacum",
+             "Anisosciadium isosciadium",
+              "Sanguisorba minor",
+              "Cerastium cerastoides"
+          ],
+          "maps_query_location": "Ya'ar Bar'am"
+        }
+      ]
+    }
+  ]
+}
+```

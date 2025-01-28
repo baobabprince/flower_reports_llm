@@ -1,0 +1,211 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/08/2021",
+      "observer": null,
+      "original_text": "בחבל הבשור ובאנדרטת הנגב",
+      "locations": [
+        {
+          "location_name": "חבל הבשור",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "HaBesor"
+        },
+        {
+           "location_name": "אנדרטת הנגב",
+           "flowers": ["חצב גלוני"],
+           "maps_query_location": "Anadartat HaNegev"
+        }
+      ]
+    },
+    {
+      "date": "22/08/2021",
+      "observer": null,
+      "original_text": "בבתרונות בארי, ורוחמה , מאוחר יותר יפרח גם ליד אנדרטאת הנגב בבאר שבע",
+      "locations": [
+        {
+          "location_name": "בתרונות בארי",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Be'erot Bairi"
+        },
+         {
+          "location_name": "רוחמה",
+          "flowers": ["חצב גלוני"],
+           "maps_query_location": "Ruhama"
+        },
+        {
+          "location_name": "אנדרטת הנגב",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Anadartat HaNegev"
+        },
+        {
+          "location_name": "באר שבע",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Beersheba"
+        }
+      ]
+    },
+    {
+      "date": "17/08/2021",
+      "observer": "נאוה שור",
+       "original_text": "חצבים מצפון לכיכר הראשונה ליוצאים מכביש 6 במחלף בית קמה",
+      "locations": [
+        {
+          "location_name": "מחלף בית קמה",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Beit Kama Interchange"
+        }
+      ]
+    },
+    {
+      "date": "14/08/2021",
+      "observer": null,
+       "original_text": "נבי חוזרי והר קטע, תל יודפת תחילת פריחה, בריכת חורף לב השרון, בריכת אודים, חוף אפולוניה, חוף אשקלון",
+      "locations": [
+        {
+          "location_name": "נבי חוזרי",
+          "flowers": ["חצב גלוני"],
+           "maps_query_location": "Nabi Huzri"
+        },
+        {
+          "location_name": "הר קטע",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Har Katea"
+        },
+        {
+          "location_name": "תל יודפת",
+          "flowers": ["חצב גלוני"],
+           "maps_query_location": "Tel Yodefat"
+        },
+        {
+          "location_name": "בריכת חורף לב השרון",
+          "flowers": ["חצב גלוני"],
+          "maps_query_location": "Lev HaSharon Winter Pool"
+         },
+         {
+           "location_name": "בריכת אודים",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Udim Pool"
+        },
+        {
+          "location_name": "חוף אפולוניה",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Apollonia Beach"
+        },
+        {
+          "location_name": "חוף אשקלון",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Ashkelon Beach"
+        }
+      ]
+    },
+     {
+      "date": "11/08/2021",
+      "observer": "דוד פורת",
+      "original_text": "ליבן משולש פורח ונושא פרי גדת הקישון 06.08.21 עשרות עשרות פרטים פורחים ונושאי פרי של ליבן משולש לאורך גדת הקישון מערב עמק יזרעאל .  כדאי לעדכן ולציין  אזור תפוצה   זה.   תודות ליואב גרטמן על ההגדרה. דוד פורת אפיקים 06.08.21 ובהזדמנות זו כדאי גם לעדכן את גל התפוצה השלישי של הפיטולקה האמריקאית בבקעת כנרות כפי שדיווחתי כאן לפני שבועיים+",
+      "locations": [
+        {
+          "location_name": "גדת הקישון",
+          "flowers": ["ליבן משולש"],
+          "maps_query_location": "Kishon River Bank"
+        },
+        {
+          "location_name": "עמק יזרעאל",
+           "flowers": ["ליבן משולש"],
+          "maps_query_location": "Jezreel Valley"
+        },
+        {
+         "location_name": "בקעת כנרות",
+         "flowers": ["פיטולקה אמריקאית"],
+          "maps_query_location": "Kinarot Valley"
+        }
+      ]
+    },
+      {
+      "date": "04/08/2021",
+      "observer": null,
+      "original_text": "דרדרה\nארכובית מחודדת,  דגנה הודית , חלבלוב הכדורים , דוחנית השלחין , דוחנית התרנגולים , זיפן קטן-פרי \nהירדן-ההיסטורי והמשוחזר\nכריך שחום , דטורה אכזרית, גומא חום , גומא הפפירוס, ברוניקת החולה ,   \nבניאס\nגדותן הביצות, גלונית הסלעים , כריך החורש \nאחו גונן \nאשבל ארך-שיבולת,  דבשה לבנה , היביסקוס משולש,  חבלבלן המשוכות,  חלבלוב סמור,  כדורן ענף,   כף-זאב אירופית  \nעין תינה: גומא צפוף",
+      "locations": [
+          {
+             "location_name": "דרדרה",
+              "flowers": [ "ארכובית מחודדת", "דגנה הודית", "חלבלוב הכדורים", "דוחנית השלחין", "דוחנית התרנגולים", "זיפן קטן-פרי"],
+               "maps_query_location": "Dardara"
+           },
+          {
+            "location_name": "הירדן",
+            "flowers": ["כריך שחום", "דטורה אכזרית", "גומא חום", "גומא הפפירוס", "ברוניקת החולה"],
+             "maps_query_location": "Jordan River"
+           },
+           {
+             "location_name": "בניאס",
+              "flowers": ["גדותן הביצות", "גלונית הסלעים", "כריך החורש"],
+               "maps_query_location":"Banias"
+           },
+           {
+              "location_name": "אחו גונן",
+               "flowers": ["אשבל ארך-שיבולת", "דבשה לבנה", "היביסקוס משולש", "חבלבלן המשוכות", "חלבלוב סמור", "כדורן ענף", "כף-זאב אירופית"],
+                "maps_query_location": "Gonen Marsh"
+            },
+            {
+              "location_name":"עין תינה",
+              "flowers": ["גומא צפוף"],
+              "maps_query_location": "Ein Tina"
+             }
+      ]
+    },
+    {
+      "date": "02/08/2021",
+      "observer": null,
+        "original_text": "קייצנית אשכולית , חסה, פטל קדוש,  בוצין , קורטם דק,תולענית, עוקץ עקרב סמר, רכבת שנית ועוד ועוד",
+      "locations": [
+         {
+          "location_name": "נחל עדה",
+          "flowers": ["קייצנית אשכולית", "חסה", "פטל קדוש", "בוצין", "קורטם דק", "תולענית", "עוקץ עקרב סמר", "רכבת שנית"],
+          "maps_query_location": "Nahal Ada"
+        },
+       {
+         "location_name":"אחו בנימינה",
+         "flowers": ["קייצנית אשכולית", "חסה", "פטל קדוש", "בוצין", "קורטם דק", "תולענית", "עוקץ עקרב סמר", "רכבת שנית"],
+        "maps_query_location": "Binyamina Marsh"
+       }
+      ]
+    },
+    {
+      "date": "26/07/2021",
+      "observer": "דוד פורת",
+      "original_text": "פיטולקה אמריקאית – נכון ל  16.07.21    גל  פלישה  שלישי   מאז  שנות התשעים בבקעת כנרות ולאחר ששני הגלים הקודמים הלכו ו\"דעכו\" -  אוכלוסייתם הצטמצמה ואף נעלמה,  ייתכן בשל המימשק החקלאי.  דוד פורת אפיקים",
+       "locations": [
+         {
+           "location_name": "בקעת כנרות",
+           "flowers": ["פיטולקה אמריקאית"],
+           "maps_query_location": "Kinarot Valley"
+         }
+       ]
+    },
+      {
+      "date": "25/07/2021",
+      "observer": null,
+      "original_text": "פרגה צהובה, קריתמון ימי, חורשף צהוב, עדעד רותמי, חבלבל החוף, קורנית מקורקפת ועוד",
+      "locations": [
+        {
+          "location_name": "חוף גדור",
+          "flowers": ["פרגה צהובה", "קריתמון ימי", "חורשף צהוב", "עדעד רותמי", "חבלבל החוף", "קורנית מקורקפת"],
+          "maps_query_location": "Gador Beach"
+        }
+      ]
+    },
+    {
+      "date": "25/07/2021",
+      "observer": null,
+      "original_text":"במקורות הירקון",
+      "locations": [
+        {
+          "location_name": "מקורות הירקון",
+           "flowers": ["נופר צהוב"],
+          "maps_query_location": "Yarkon sources"
+        }
+      ]
+    }
+  ]
+}
+```

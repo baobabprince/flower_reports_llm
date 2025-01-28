@@ -1,0 +1,267 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/11/2019",
+      "observer": "אסתי מולר",
+      "original_text": "ביער להב, אחרי החניה של גבעות גורל, ממשיכים ישר, עולים קצת ואז יורדים ירידה תלולה, העמק מלא בחלמוניות",
+      "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Lahav Forest"
+        },
+        {
+          "location_name": "גבעות גורל",
+           "flowers": [
+            "חלמונית"
+          ],
+         "maps_query_location": "Giv'ot Goral"
+        }
+      ]
+    },
+    {
+      "date": "23/11/2019",
+      "observer": "דוד פורת",
+      "original_text": "מאחרים ומעט מקדימים - פריחות בשמורת אלוני אבא מדוד פורת\nשלומות לכולם ובשמורת אלוני אבא בפרט במתחם  הגתות עדיין יבש תרתי משמע אבל רקע זה מבליט דווקא את פריחות בן חצב סתווני (מאות!!), כדן סגול, סתוונית היורה וירושלים וצפורן נקוד\nבברכה דוד פורת אפיקים",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני אבא",
+          "flowers": [
+            "בן חצב סתווני",
+            "כדן סגול",
+            "סתוונית היורה",
+            "סתוונית ירושלים",
+             "ציפורן נקוד"
+          ],
+          "maps_query_location": "Alonim-Abba Nature Reserve"
+        }
+      ]
+    },
+      {
+      "date": "21/11/2019",
+      "observer": null,
+        "original_text": "עם קבוצת מטיילי יום רביעי",
+      "locations": [
+       {
+           "location_name": "גליל עליון",
+           "flowers": [],
+          "maps_query_location": "Upper Galilee"
+        }
+      ]
+    },
+    {
+      "date": "17/11/2019",
+      "observer": null,
+      "original_text": "החרמון-הגבוה : שלמון כוכבני , סתוונית החרמון , שזיף הדובדבן , שיפון ההרים (יבש) , קרקש קיליקי , קיצנית כרתית (יבש) , ציפורן הלבנון , מררית סמורה , מרווה בוצינית , אשחר הלבנון , בן-חוזרר הררי , בן-קוצן מאפיר , ברברית הלבנון , זמזומית החרמון (יבש) , חלמונית גדולה , אוג הבורסקאים \nברכת-מאן : כרכום גיארדו  ,כרכום צהבהב , סתוונית החרמון , עוזרר סיני ,  עוזרר קוצני,\nארכובית הציפורים ,\nגבעות הקרב חרמון: מלחית מאפירה (יבש)",
+       "locations": [
+        {
+          "location_name": "החרמון",
+           "flowers": [
+            "שלמון כוכבני",
+             "סתוונית החרמון",
+            "שזיף הדובדבן",
+             "שיפון ההרים",
+            "קרקש קיליקי",
+             "קיצנית כרתית",
+             "ציפורן הלבנון",
+             "מררית סמורה",
+            "מרווה בוצינית",
+            "אשחר הלבנון",
+             "בן-חוזרר הררי",
+            "בן-קוצן מאפיר",
+            "ברברית הלבנון",
+             "זמזומית החרמון",
+            "חלמונית גדולה",
+            "אוג הבורסקאים"
+          ],
+          "maps_query_location": "Mount Hermon"
+        },
+        {
+         "location_name": "ברכת מאן",
+          "flowers": [
+            "כרכום גיארדו",
+            "כרכום צהבהב",
+             "סתוונית החרמון",
+            "עוזרר סיני",
+             "עוזרר קוצני",
+              "ארכובית הציפורים"
+           ],
+           "maps_query_location": "Birket Man"
+        },
+        {
+           "location_name": "גבעות הקרב חרמון",
+            "flowers": [
+                "מלחית מאפירה"
+            ],
+            "maps_query_location": "Mount Hermon battle hills"
+        }
+      ]
+    },
+     {
+      "date": "17/11/2019",
+       "observer": null,
+       "original_text": "עדיין פורח יפה בשמורת אחילוף החורן ( רוגוםאל הירי) ",
+      "locations": [
+        {
+          "location_name": "שמורת אחילוף החורן",
+          "flowers": [
+            "אחילוף החורן"
+          ],
+            "maps_query_location": "Aheloof HaHuran Nature Reserve"
+        }
+      ]
+    },
+    {
+       "date": "17/11/2019",
+      "observer": null,
+      "original_text": "עם קבוצת מטיילי יום רביעי",
+       "locations": [
+        {
+          "location_name": "החרמון",
+          "flowers": [],
+          "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2019",
+      "observer": null,
+      "original_text": "תחילת פריחה של חלמוניות ליד מעלה רחבעם, כמה עשרות פרטים פורחים",
+      "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+          "flowers": [
+            "חלמונית"
+          ],
+             "maps_query_location": "Ma'ale Rehav'am"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2019",
+       "observer": null,
+      "original_text": "ראו צילומים מקסימים של יחיעם סלץ ",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+       "date": "12/11/2019",
+       "observer": null,
+      "original_text": "ממשית: אחילוף הנגב, יפרוק המדבר , מלחית אשלגנית, מלענן קהה , שמשון ליפי , נואית קוצנית   \nנחל-חתירה : מלענן ריסני , מלחית קשקשנית , מוריקה מבריקה , זיפנוצה ריסני , ארכובית שבטבטית \nשדה-בוקר : ציפורן נקוד , גפסנית ערבית, אשבל מצרי , בן-חצב מדברי  \nצומת כמוס: אטד ערבי , יפרוק זיפני \nנחל ניצנה: אצבוע אירופי \nמישור ימין: חבצלת הנגב בשיא פריחה , \nבורות-לוץ : כרכום דמשקאי \nנחל עקרב: חמד המדבר , חמד המדבר ",
+       "locations": [
+        {
+          "location_name": "ממשית",
+          "flowers": [
+            "אחילוף הנגב",
+            "יפרוק המדבר",
+             "מלחית אשלגנית",
+            "מלענן קהה",
+            "שמשון ליפי",
+             "נואית קוצנית"
+          ],
+             "maps_query_location": "Mamshit"
+        },
+        {
+          "location_name": "נחל חתירה",
+           "flowers": [
+            "מלענן ריסני",
+             "מלחית קשקשנית",
+            "מוריקה מבריקה",
+            "זיפנוצה ריסני",
+            "ארכובית שבטבטית"
+          ],
+            "maps_query_location": "Nahal Hatira"
+        },
+        {
+          "location_name": "שדה בוקר",
+          "flowers": [
+              "ציפורן נקוד",
+            "גפסנית ערבית",
+            "אשבל מצרי",
+            "בן-חצב מדברי"
+           ],
+           "maps_query_location":"Sde Boker"
+        },
+           {
+            "location_name": "צומת כמוס",
+           "flowers":[
+                "אטד ערבי",
+                "יפרוק זיפני"
+            ],
+            "maps_query_location": "Kmos Junction"
+        },
+         {
+             "location_name": "נחל ניצנה",
+               "flowers": [
+                   "אצבוע אירופי"
+               ],
+             "maps_query_location":"Nahal Nitzana"
+         },
+        {
+          "location_name": "מישור ימין",
+           "flowers":[
+            "חבצלת הנגב"
+            ],
+           "maps_query_location":"Mishor Yamin"
+        },
+         {
+          "location_name": "בורות לוץ",
+            "flowers":[
+              "כרכום דמשקאי"
+           ],
+           "maps_query_location": "Borot Lutz"
+         },
+         {
+          "location_name":"נחל עקרב",
+           "flowers":[
+                "חמד המדבר"
+           ],
+             "maps_query_location": "Nahal Akrabim"
+         }
+      ]
+    },
+    {
+      "date": "12/11/2019",
+      "observer": "עידו מגן",
+      "original_text": "בחורבת חנות, על שביל צפונית לשביל הקיסר פורחים נרקיסים, רקפות וסתווניות; ליד ישיבת אתרי ובית צפאפא בדרום ירושלים פורחות חלמוניות וסתווניות",
+      "locations": [
+        {
+          "location_name": "חורבת חנות",
+          "flowers": [
+            "נרקיס",
+            "רקפת",
+            "סתוונית"
+          ],
+            "maps_query_location":"Khorbat Hanut"
+        },
+           {
+           "location_name": "ישיבת אתרי",
+            "flowers":[
+                "חלמונית",
+              "סתוונית"
+            ],
+            "maps_query_location":"Yeshivat Ateret Yerushalayim"
+        },
+           {
+           "location_name": "בית צפאפא",
+             "flowers":[
+               "חלמונית",
+              "סתוונית"
+           ],
+             "maps_query_location": "Beit Safafa"
+         }
+      ]
+    }
+  ]
+}
+```

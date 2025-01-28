@@ -1,0 +1,222 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/11/2009",
+      "observer": "אורית",
+      "original_text": "חברתי לעבודה , מרינה הגרה בסמוך ליער יוקנעם דיווחה ואף צילמה בנוסף לנרקיסים גם כרכומים נאים.",
+       "locations": [
+        {
+          "location_name": "יער יוקנעם",
+          "flowers": [
+            "נרקיס",
+            "כרכום נאה"
+          ],
+          "maps_query_location": "Yokne'am Forest"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2009",
+      "observer": "עתליה ניצן",
+      "original_text": "החלמוניות פרחו בשבת 14 נובמבר בלהבים וביער יתיר. הפריחה די מועטה בשל מיעוט הגשמים בחורף הקודם.",
+       "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lehavim"
+        },
+        {
+          "location_name": "יער יתיר",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2009",
+      "observer": "נעה סניפליסקי",
+      "original_text": "ביער להבים פורחות חלמוניות.",
+       "locations": [
+        {
+          "location_name": "יער להבים",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lehavim Forest"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2009",
+      "observer": null,
+      "original_text": "פריחת נרקיס מצוי בעשרות מקבצים סביב חניון האורנית ובשביל המוליך אליו ביער חורשים.",
+      "locations": [
+        {
+          "location_name": "חניון האורנית",
+          "flowers": [
+            "נרקיס מצוי"
+           ],
+          "maps_query_location": "Oranit Parking Lot"
+        },
+          {
+          "location_name": "יער חורשים",
+          "flowers": [
+            "נרקיס מצוי"
+           ],
+          "maps_query_location": "Horshim Forest"
+        }
+      ]
+    },
+      {
+      "date": "15/11/2009",
+      "observer": "אורית",
+      "original_text": "כעת בשיאן פריחות הורוד-סגול כחול של הסתווניות, בני החצב הסתווניים והכדנים בחורשות  הכרמל ובקרחות, שביניהן...מראה משטחי המרבדים הללו  ומרגש בעדינותו המאירה את האדמה.",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": [
+            "סתוונית",
+            "בן-חצב סתווני",
+             "כדן"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2009",
+      "observer": null,
+      "original_text": "כרכום גירדו בפריחה שופעת על מבנה עין פינה בואדי ראש פינה.\nהחלמוניות בשיאן בראש פינה ובנחל מחניים ורקפות בראשית פריחה",
+       "locations": [
+        {
+          "location_name": "עין פינה",
+           "flowers": [
+            "כרכום גירדו"
+          ],
+          "maps_query_location": "Ein Pina"
+        },
+         {
+          "location_name": "ראש פינה",
+            "flowers": [
+            "כרכום גירדו",
+            "חלמונית",
+              "רקפת"
+          ],
+          "maps_query_location": "Rosh Pina"
+        },
+        {
+          "location_name": "נחל מחניים",
+          "flowers": [
+             "חלמונית"
+          ],
+          "maps_query_location": "Nahal Mahanayim"
+        }
+      ]
+    },
+        {
+      "date": "14/11/2009",
+       "observer": null,
+      "original_text": "טיילתי ב  13.11, על קטע משביל גולן ליד גלגל רפאים ראיתי 5 פריטים של אחילוף החורן אחד מהם היה גדול ומרשים ,הפריטים היו מרוחקים זה מזה כמה עשרות מטרים",
+       "locations": [
+        {
+          "location_name": "גלגל רפאים",
+          "flowers": [
+            "אחילוף החורן"
+          ],
+          "maps_query_location": "Gilgal Refaim"
+        }
+      ]
+    },
+     {
+      "date": "12/11/2009",
+       "observer": null,
+      "original_text": "הדיווחים נשמרים בארכיון בדף \"דיווחי פריחה\" אותו ניתן למצוא בבר הנווט העליון באתר צמח השדה",
+       "locations": null
+    },
+    {
+      "date": "12/11/2009",
+      "observer": "עירית",
+      "original_text": "שני הסתוויים המקסימים והעדינים האלו פורחים במרבדים מרהיבים ביודפת, הר עצמון, כרמל ליד מחצבות קדומים, וחוף הים בין ראש הנקרה לחוף בצת.",
+      "locations": [
+        {
+          "location_name": "יודפת",
+           "flowers": [
+             "סתוונית",
+            "בן-חצב סתווני"
+          ],
+          "maps_query_location": "Yodfat"
+        },
+        {
+          "location_name": "הר עצמון",
+           "flowers": [
+             "סתוונית",
+             "בן-חצב סתווני"
+          ],
+          "maps_query_location": "Mount Atzmon"
+        },
+         {
+          "location_name": "הכרמל",
+           "flowers": [
+            "סתוונית",
+            "בן-חצב סתווני"
+          ],
+          "maps_query_location": "Carmel"
+        },
+        {
+           "location_name": "מחצבות קדומים",
+             "flowers": [
+             "סתוונית",
+            "בן-חצב סתווני"
+          ],
+           "maps_query_location": "Kedumim Quarries"
+        },
+          {
+          "location_name": "ראש הנקרה",
+           "flowers": [
+             "סתוונית",
+            "בן-חצב סתווני"
+          ],
+           "maps_query_location": "Rosh Hanikra"
+        },
+        {
+          "location_name": "חוף בצת",
+           "flowers": [
+              "סתוונית",
+            "בן-חצב סתווני"
+          ],
+           "maps_query_location": "Betzet beach"
+        }
+      ]
+    },
+      {
+      "date": "11/11/2009",
+      "observer": "אילן טל",
+       "original_text": "פורחים : בן חצב סתןןו , נרקיס סתווי , סתוונית התשבץ + בכירה , כרכום נאה + השבכה , צפורן משתלשל , אסתר הביצות , חלמונית גדולה + צהובה , קוצן מכונף ועוד . כולם מוזמנים .",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+            "flowers": [
+            "בן-חצב סתווני",
+            "נרקיס סתווי",
+             "סתוונית התשבץ",
+             "סתוונית בכירה",
+             "כרכום נאה",
+             "כרכום השבכה",
+             "צפורן משתלשל",
+            "אסתר הביצות",
+            "חלמונית גדולה",
+            "חלמונית צהובה",
+            "קוצן מכונף"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

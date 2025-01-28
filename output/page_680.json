@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/09/2011",
+      "observer": null,
+      "original_text": "אשבל נאה,אשבל ארך שיבולת,וערברבה מרובעת פורחים בשמורה",
+      "locations": [
+        {
+          "location_name": "נחל שניר",
+          "flowers": ["אשבל נאה", "אשבל ארך שיבולת", "ערברבה מרובעת"],
+           "maps_query_location": "Nahal Snir"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2011",
+      "observer": null,
+      "original_text": "שם הם החלו לפרוח עכשיו\nכך דווח לנו.\nקצת מאוחר לא?",
+        "locations": [
+        {
+          "location_name": "מבצר נמרוד",
+           "flowers": ["חצב"],
+           "maps_query_location": "Nimrod Fortress"
+        }
+      ]
+    },
+    {
+      "date": "17/09/2011",
+      "observer": null,
+       "original_text": "פריחה של חצבים רבים ליד הישוב קדומים ובדרך אלון בשומרון",
+      "locations": [
+        {
+          "location_name": "קדומים",
+          "flowers": ["חצב"],
+          "maps_query_location": "Kedumim"
+        },
+         {
+          "location_name": "דרך אלון",
+           "flowers": ["חצב"],
+            "maps_query_location": "Alon Road"
+        },
+         {
+          "location_name": "שומרון",
+           "flowers": ["חצב"],
+            "maps_query_location": "Shomron"
+        }
+      ]
+    },
+    {
+      "date": "17/09/2011",
+      "observer": "מיכאל בועז",
+     "original_text": "פריחה בשולי שדות: אבוטילון תיאופרסטוס, בוען מצולע, היביסקוס משולש, ערבז משובל. פריחה בגדות תעלות ניקוז: ארכובית הכתמים, חנק מחודד, נענע משובלת, פרעושית משלשלת, שנית מתפתלת, תולענית דוקרנית",
+      "locations": [
+        {
+          "location_name": "עמק יזרעאל",
+           "flowers": ["אבוטילון תיאופרסטוס", "בוען מצולע", "היביסקוס משולש", "ערבז משובל", "ארכובית הכתמים", "חנק מחודד", "נענע משובלת", "פרעושית משלשלת", "שנית מתפתלת", "תולענית דוקרנית"],
+           "maps_query_location": "Jezreel Valley"
+        }
+      ]
+    },
+     {
+      "date": "16/09/2011",
+       "observer": null,
+      "original_text": "לצידי כביש בית גוברים קית גת, פורחים חצבים בדבוקות יפות,  \nבכביש היורד מערד לים המלח מאות עמודי חצבים בתחילת פריחה(ליד הק\"מ ה 500 ובהמשך)",
+      "locations": [
+        {
+           "location_name": "כביש בית גוברים",
+          "flowers": ["קית גת", "חצב"],
+           "maps_query_location": "Beit Guvrin Road"
+        },
+        {
+          "location_name": "ערד",
+          "flowers": ["חצב"],
+           "maps_query_location": "Arad"
+        },
+        {
+          "location_name": "ים המלח",
+           "flowers": ["חצב"],
+            "maps_query_location": "Dead Sea"
+        }
+      ]
+    },
+     {
+      "date": "15/09/2011",
+      "observer": "נעם עביצל",
+       "original_text": "טילתי בעינות תמסח ושמורת נחל התנינים (שניהם ליד מעגן מיכאל), וראיתי כמובן פריחות נהדרות של חצבים וגם של: מלוח קיפח השולט בשטח, ביצן מכסיף, אל ציצית, פרעושית, שנית גדולה, כף זאב אירופית במי הנחל ומראות יפים...",
+      "locations": [
+        {
+          "location_name": "עינות תמסח",
+          "flowers": ["חצב", "מלוח קיפח", "ביצן מכסיף", "אל ציצית", "פרעושית", "שנית גדולה", "כף זאב אירופית"],
+          "maps_query_location": "Einot Timsach"
+        },
+         {
+          "location_name": "שמורת נחל התנינים",
+          "flowers": ["חצב", "מלוח קיפח", "ביצן מכסיף", "אל ציצית", "פרעושית", "שנית גדולה", "כף זאב אירופית"],
+          "maps_query_location": "Nahal Taninim Nature Reserve"
+        },
+        {
+           "location_name": "מעגן מיכאל",
+          "flowers": ["חצב", "מלוח קיפח", "ביצן מכסיף", "אל ציצית", "פרעושית", "שנית גדולה", "כף זאב אירופית"],
+           "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2011",
+      "observer": null,
+       "original_text": "ריכוזים גדולים מאוד יש בגבעת החצבים שליד שכונת החצבים של ערד, בעיקר בגדה הצפונית של נחל טביה וכן בנחל קינה.",
+      "locations": [
+          {
+          "location_name": "גבעת החצבים",
+          "flowers": ["חצב"],
+           "maps_query_location": "Givat Hatzavim"
+        },
+        {
+          "location_name": "שכונת החצבים",
+          "flowers": ["חצב"],
+           "maps_query_location": "Hatzavim neighborhood"
+        },
+           {
+          "location_name": "ערד",
+          "flowers": ["חצב"],
+          "maps_query_location": "Arad"
+        },
+          {
+          "location_name": "נחל טביה",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nahal Tviya"
+        },
+          {
+          "location_name": "נחל קינה",
+          "flowers": ["חצב"],
+           "maps_query_location": "Nahal Qina"
+        }
+      ]
+    },
+    {
+      "date": "13/09/2011",
+      "observer": null,
+       "original_text": "בגן בוטני תל אביב",
+      "locations": [
+        {
+          "location_name": "גן בוטני תל אביב",
+          "flowers": ["גולנית ערב"],
+           "maps_query_location": "Botanical Garden Tel Aviv"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2011",
+      "observer": "שמעון דדון",
+       "original_text": "חצב מצוי פורח בכל מקום בדרך הבשור,כמו כן יש בדרך הבשור סוף פריחה של החצב הגלוני מעט צמחים עדיין פורחים וכבר רואים פירות,כמו כן פורח האשל,ופרע מסולסל.",
+      "locations": [
+          {
+          "location_name": "דרך הבשור",
+          "flowers": ["חצב מצוי", "חצב גלוני", "אשל", "פרע מסולסל"],
+           "maps_query_location": "HaBesor Road"
+        }
+      ]
+    },
+     {
+      "date": "11/09/2011",
+       "observer": "אילן טל",
+      "original_text": "פורחים : חצב מצוי + גלוני , חבצלת החוף + קטנת פרחים , שנית גדולה , פרע ריחני , פשטה שרועה ועוד .",
+      "locations": [
+        {
+          "location_name": "גן איריס",
+            "flowers": ["חצב מצוי", "חצב גלוני", "חבצלת החוף", "קטנת פרחים", "שנית גדולה", "פרע ריחני", "פשטה שרועה"],
+           "maps_query_location": "Iris Garden"
+         },
+         {
+           "location_name": "כפר יהושע",
+            "flowers": ["חצב מצוי", "חצב גלוני", "חבצלת החוף", "קטנת פרחים", "שנית גדולה", "פרע ריחני", "פשטה שרועה"],
+            "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,204 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/12/2017",
+      "observer": null,
+      "original_text": "מרווה סורית בפריחה. להבנתי, היא גם נדירה למקום וגם מקדימה את מועד פריחתה הצפוי בשלושה - ארבעה חודשים. במקום פרחו גם כרכומים וסיתווניות",
+      "locations": [
+        {
+          "location_name": "כפר חרוב",
+          "flowers": [
+            "Salvia hierosolymitana",
+            "Crocus",
+             "Colchicum"
+           ],
+          "maps_query_location": "Kfar Haruv"
+        }
+      ]
+    },
+    {
+      "date": "21/12/2017",
+      "observer": null,
+      "original_text": "באיזור אתר יד לשריון ליד הכניסה ל'דרך הרמטכלים' על שביל ישראל. המון המון עלים לפני פריחה. ומעט כבר פרחו. שווה לחכות",
+      "locations": [
+         {
+          "location_name": "אתר יד לשריון",
+           "flowers": [
+              "Cyclamen"
+          ],
+          "maps_query_location": "Yad La-Shiryon"
+        },
+        {
+          "location_name": "דרך הרמטכלים",
+           "flowers": [
+              "Cyclamen"
+          ],
+          "maps_query_location": "Derech HaRamatkalim"
+        }
+      ]
+    },
+    {
+      "date": "21/12/2017",
+      "observer": null,
+      "original_text": "מספר קטן של פרטים בחורבת נכס. זה נמצא על שביל ישראל ממש קרוב למחלף ענבה",
+      "locations": [
+        {
+          "location_name": "חורבת נכס",
+          "flowers": [
+            "Ornithogalum montanum"
+          ],
+          "maps_query_location": "Khurbat Nekhes"
+        },
+         {
+          "location_name": "מחלף ענבה",
+           "flowers": [
+              "Ornithogalum montanum"
+            ],
+          "maps_query_location": "Anaba Interchange"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2017",
+      "observer": null,
+      "original_text": "שפע של נץ חלב מימין(מערבית) לחורבת רגב. ליד השובך שבנו שם.",
+       "locations": [
+        {
+          "location_name": "חורבת רגב",
+          "flowers": [
+            "Ornithogalum montanum"
+           ],
+          "maps_query_location": "Khurbat Regev"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2017",
+      "observer": null,
+      "original_text": "דרומית לקיבוץ תל קציר, על התפר בין בקעת כינרות לרמת הגולן. הן צומחות לצד כביש אספלט חקלאי המפריד בין שני מטעי מנגו צעירים. הנ.צ. על פי עמודענן: 258387/733561",
+      "locations": [
+         {
+          "location_name": "תל קציר",
+           "flowers": [
+             "Convolvulus tricolor"
+            ],
+          "maps_query_location": "Tel Katzir"
+        },
+       {
+          "location_name": "בקעת כינרות",
+           "flowers": [
+             "Convolvulus tricolor"
+           ],
+          "maps_query_location": "Kinarot Valley"
+        },
+        {
+            "location_name": "רמת הגולן",
+            "flowers": [
+                "Convolvulus tricolor"
+            ],
+             "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2017",
+      "observer": null,
+      "original_text": "זוטה לבנה בשיא פריחה וגם נץ-חלב הררי ליד האנדרטה למפקדי ההגנה שנהרגו במבצע דני . פה ושם רקפות ונרקיסים בכייסם קטנים",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+               "Micromeria fruticosa",
+               "Ornithogalum montanum",
+               "Cyclamen",
+               "Narcissus"
+           ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2017",
+       "observer": "יוסי ישורון",
+       "original_text": "התחלה של פריחת רקפות במקטע שבין צומת מצפה מודיעים לתל חדיד ביער בן שמן",
+      "locations": [
+        {
+          "location_name": "צומת מצפה מודיעים",
+           "flowers": [
+              "Cyclamen"
+           ],
+          "maps_query_location": "Mitzpe Modi'im Junction"
+        },
+        {
+          "location_name": "תל חדיד",
+           "flowers": [
+              "Cyclamen"
+            ],
+          "maps_query_location": "Tel Hadid"
+        },
+         {
+          "location_name": "יער בן שמן",
+           "flowers": [
+              "Cyclamen"
+            ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2017",
+       "observer": null,
+      "original_text": "במספר מקומות בשולי היער נחבאים כיסים קטנים של נרקיסים בשיא פריחה",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "Narcissus"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2017",
+      "observer": null,
+      "original_text": "גמא צהבהב, קחוון א\"י, נענת המים, מדד זוחל, ברוניקת המים, בוצין טברייני, ארכובית מחודדת",
+       "locations": [
+        {
+          "location_name": "נוחיילה",
+          "flowers": [
+               "Cyperus flavescens",
+               "Anthemis palaestina",
+               "Mentha aquatica",
+               "Galium aparine",
+               "Veronica anagallis-aquatica",
+               "Verbascum tiberiadense",
+               "Polygonum acuminatum"
+          ],
+          "maps_query_location": "Nuhayla"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2017",
+       "observer": null,
+      "original_text": "פרע ריחני, קנה סוכר מצרי , נענת המים, נופר צהוב, לוביה מצרית, חלבלוב שעיר והרבה עגורים אפורים",
+      "locations": [
+        {
+          "location_name": "גן בונטי החולה",
+          "flowers": [
+                "Echium italicum",
+                "Saccharum aegyptiacum",
+                "Mentha aquatica",
+                "Nuphar lutea",
+                 "Lablab purpureus",
+                 "Euphorbia hirta"
+          ],
+          "maps_query_location": "Hula Nature Reserve"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,192 @@
+```json
+{
+  "reports": [
+    {
+      "date": "19/11/2013",
+      "observer": null,
+      "original_text": "ביער שוהם ליד כיתת הלימוד (באיזור חירבת תנשמת), ריכוז של כ-10 נרקיסים בפריחה מרשימה. זו עדיין רק תחילת הפריחה.",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+          "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Shoham Forest"
+        },
+         {
+          "location_name": "חירבת תנשמת",
+          "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Khirbet Tinshemet"
+         }
+      ]
+    },
+    {
+      "date": "17/11/2013",
+      "observer": null,
+      "original_text": "ביער שהם סתווניות רבות במקבצים מרשימים, בן חצב סתווני, מקבץ רקפות עם עלים בירידה מגבעת הספלולים ונרקיס ראשון.",
+      "locations": [
+         {
+          "location_name": "יער שוהם",
+          "flowers": [
+            "סתוונית",
+            "בן חצב סתווני",
+            "רקפת",
+            "נרקיס"
+          ],
+          "maps_query_location": "Shoham Forest"
+        },
+        {
+         "location_name": "גבעת הספלולים",
+         "flowers": [
+            "רקפת"
+          ],
+          "maps_query_location": "Givat Hasaplulim"
+        }
+      ]
+    },
+    {
+      "date": "16/11/2013",
+      "observer": "אטי זילברשטיין",
+      "original_text": "ראיתי מספר רב של חלמוניות בשיא פריחתן בשביל החלמוניות בהר תבור. הגעה: כ 800 מ' במעלה הכביש להר תבור פניה ימינה ל\"סובב הר תבור\" . על השלט כתוב \"כניסה ליערנים בלבד\" כ 1 ק\"מ הליכה בשביל יש שילוט וירידה במדרגות ל\"שביל החלמוניות\" .הליכה קלה.",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "16/11/2013",
+      "observer": null,
+      "original_text": "סיתוונית היורה ובן חצב סיתווני",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "סתוונית",
+             "בן חצב סתווני"
+          ],
+           "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "16/11/2013",
+      "observer": null,
+      "original_text": "פורח בגן בגעש",
+       "locations": [
+        {
+         "location_name": "געש",
+          "flowers": [
+            "אסתר הביצות"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+     ]
+    },
+    {
+      "date": "16/11/2013",
+      "observer": "דוד פורת",
+      "original_text": "מצוק הארבעים בכרמל חיפה  15.11.13  פורחים  בין השאר  אירוס הסרגל, קיטה רותמית, כרכום חורפי וחורשף מצוייץ.",
+      "locations": [
+        {
+          "location_name": "מצוק הארבעים",
+           "flowers": [
+            "אירוס הסרגל",
+            "קיטה רותמית",
+            "כרכום חורפי",
+            "חורשף מצוייץ"
+          ],
+           "maps_query_location": "Mitzpe HaArba'im"
+         },
+          {
+          "location_name": "חיפה",
+           "flowers": [
+            "אירוס הסרגל",
+            "קיטה רותמית",
+            "כרכום חורפי",
+            "חורשף מצוייץ"
+          ],
+           "maps_query_location": "Haifa"
+         }
+      ]
+    },
+        {
+      "date": "14/11/2013",
+      "observer": "עזגד שלם",
+      "original_text": "פריחת חלמוניות בתבור- פרחים בקבוצות ובודדים, ניצנים רבים מאד",
+       "locations": [
+        {
+          "location_name": "תבור",
+          "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "14/11/2013",
+      "observer": null,
+      "original_text": "לאחר השיא ביער להב,בלהבים וביער יתיר",
+      "locations": [
+        {
+          "location_name": "יער להב",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lahav Forest"
+        },
+         {
+          "location_name": "להבים",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Lehavim"
+        },
+        {
+          "location_name": "יער יתיר",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Yatir Forest"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2013",
+      "observer": "דרור בר-ניר",
+       "original_text": "12-11-13 - עשרות חלמוניות פורחות עכשיו בוואדי. הפריחה תמשך לפחות עוד כשבוע.",
+      "locations": [
+        {
+          "location_name": "מעלה רחבעם",
+           "flowers": [
+            "חלמונית"
+          ],
+          "maps_query_location": "Ma'ale Rehav'am"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2013",
+      "observer": "עירית",
+      "original_text": "בבית הקברות של פרדס חנה משטחי פריחה עדינים של בן חצב סתווני ונרקיס אפיל פזור פה ושם.",
+      "locations": [
+       {
+          "location_name": "פרדס חנה כרכור",
+           "flowers": [
+            "בן חצב סתווני",
+            "נרקיס אפיל"
+          ],
+          "maps_query_location": "Pardes Hanna-Karkur"
+        }
+      ]
+    }
+  ]
+}
+```

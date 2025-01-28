@@ -1,0 +1,146 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/02/2017",
+      "observer": null,
+      "original_text": "איריס ארץישראלי, קדד פינברון, עירית גדולה, אלקנה סמורה ועוד ועוד",
+       "locations": [
+        {
+          "location_name": "שמורת פורה",
+          "flowers": ["איריס ארץ-ישראלי", "קדד פינברון", "עירית גדולה", "אלקנה סמורה"],
+          "maps_query_location": "Pura Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2017",
+      "observer": null,
+      "original_text": "אכסף מבריק  ורומוליאה צידונית - מעבר לשיא , ראו קישור",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["אכסף מבריק", "רומוליאה צידונית"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2017",
+      "observer": null,
+       "original_text": "פריחה יפה של כלניות צבעוניות מאחורי אורט בנימינה, בן חצב החורש פורח בנחל אורן, דבורנית דינסמור פורחת בכרמל.",
+      "locations": [
+        {
+          "location_name": "בנימינה",
+          "flowers": ["כלנית"],
+          "maps_query_location":"Binyamina"
+        },
+         {
+          "location_name": "נחל אורן",
+          "flowers": ["בן-חצב החורש"],
+          "maps_query_location": "Nahal Oren"
+        },
+         {
+          "location_name": "הכרמל",
+           "flowers": ["דבורנית דינסמור"],
+           "maps_query_location": "Carmel"
+         }
+      ]
+    },
+    {
+      "date": "08/02/2017",
+      "observer": null,
+      "original_text": "בשביל הכורכר המחבר בין מעגן מיכאל למעיין צבי (בין הבריכות) לכיוון מזרח בגבעות ליד המתח הגבוה מתחבאים המוני סחלב השקיק",
+      "locations": [
+         {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["סחלב השקיק"],
+           "maps_query_location":"Ma'agan Michael"
+        },
+         {
+          "location_name": "מעיין צבי",
+           "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Ma'ayan Zvi"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2017",
+       "observer": null,
+      "original_text": "פורח בנאות קודמים באזור בו היתה שרפה בקיץ האחרון וגם ליד מעגן מיכאל באזור בית הקברות",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+           "flowers": ["סחלב השקיק"],
+          "maps_query_location": "Neot Kedumim"
+        },
+         {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["סחלב השקיק"],
+            "maps_query_location":"Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "08/02/2017",
+      "observer": null,
+      "original_text": "בשלולית החורף בנתניה - סוף סוף !!!",
+       "locations": [
+        {
+          "location_name": "נתניה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Netanya"
+        }
+      ]
+    },
+      {
+      "date": "07/02/2017",
+       "observer": null,
+      "original_text": "פריחת שקד מצוי ( שקדיות) מדהימה , רקפות רבות מעט כלניות, חיננית הבתה, נורית הלב, ניצן של איריס הארגמן ( יפרח בעוד כ 10 ימים להערכתי)",
+      "locations": [
+        {
+          "location_name": "נאות קדומים",
+          "flowers": ["שקד מצוי", "רקפת", "כלנית", "חיננית הבתה", "נורית הלב", "איריס הארגמן"],
+           "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2017",
+      "observer": "גרטמן יואב",
+      "original_text": "מאות משני  המינים  על  הר הסרטבה",
+      "locations": [
+        {
+          "location_name": "הר הסרטבה",
+           "flowers": ["יקינטונית", "מגלית"],
+          "maps_query_location": "Mount Sartaba"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2017",
+       "observer": "משה קופרברג",
+       "original_text": "תאווה לעיניים. בהתחלה רואים כלניות אדומות והרבה יותר לבנות.  לאחר מכן כאשר עולים בשביל, מתגלה שטיח רקפות פשוט ה\"חגיגה בעיצומה\"",
+      "locations": [
+         {
+          "location_name": "פארק ראש העין",
+          "flowers": ["כלנית אדומה", "כלנית", "רקפת"],
+          "maps_query_location": "Rosh HaAyin Park"
+        }
+      ]
+    },
+    {
+      "date": "06/02/2017",
+      "observer": "אורית",
+       "original_text": "שלדי הנרקיסים כמשו במורדות הכרמל, אך במקומם פורחות כלניות, ומתוך העלים הירוקים הזקופים שחיכו בסבלנות צצים פרחי העירית המוורידים בלבן, והם  מתמרים מתוכם... וסמוך לקרקע קטנים אך מסגילים כוכבים עם לב זהוב מזדקר כלפי השמש הקרה ממעל - פרחי הרומוליאה הצידונית בבתה במורדות הכרמל הדשן ספוג  גשמי הברכה ...",
+      "locations": [
+        {
+          "location_name": "הכרמל",
+          "flowers": ["כלנית", "עירית", "רומוליאה צידונית"],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/04/2017",
+      "observer": "Sarkra Gen",
+      "original_text": "היתה וצילמה Sarkra Gen",
+      "locations": [
+        {
+          "location_name": "שביל סובב ברעם",
+          "flowers": [],
+           "maps_query_location": "Bar'am"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2017",
+      "observer": null,
+      "original_text": "חריריים מצוים.מרוה סורית.בר נורית.מניפנית גרוזית .דרדר אשקלון.מורה כחולה.סגולית נאה.קדד גדול פרי..כחלית הרים ועוד",
+      "locations": [
+        {
+          "location_name": "עפרה",
+          "flowers": [
+            "חרירית מצויה",
+            "מרווה סורית",
+            "נורית",
+             "מניפנית גרוזית",
+             "דרדר אשקלון",
+             "מורה כחולה",
+             "סגולית נאה",
+             "קדד גדול-פרי",
+            "כחלית ההרים"
+          ],
+          "maps_query_location":"Ofra"
+        }
+      ]
+    },
+    {
+      "date": "18/04/2017",
+      "observer": "מור גל",
+      "original_text": "צמח נדיר בסכנת הכחדה, פורח עכשיו בקטע מאוד קטן בתוך השמורה",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני אבא",
+          "flowers": [
+            "שום הגלגל"
+          ],
+           "maps_query_location": "Alonim Abba"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2017",
+      "observer": null,
+      "original_text": "פורחת מניפנית גרוזית",
+      "locations": [
+        {
+          "location_name": "צומת רימונים",
+           "flowers": ["מניפנית גרוזית"],
+           "maps_query_location": "Rimonim Junction"
+        }
+      ]
+    },
+    {
+      "date": "17/04/2017",
+      "observer": "לבנדה זיוה",
+      "original_text": "בשביל פסגת המירון ישנו פרח של אדמונית במלואו פריחתו ושני ניצנים",
+      "locations": [
+         {
+          "location_name": "שביל פסגת המירון",
+           "flowers": ["אדמונית החורש"],
+           "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+     {
+      "date": "17/04/2017",
+      "observer": "שרית נבט",
+      "original_text": "טילנו היום בהר הלל פגשנו ב 3 אדמוניות",
+      "locations": [
+        {
+          "location_name": "הר הלל",
+          "flowers": [
+            "אדמונית החורש"
+          ],
+          "maps_query_location":"Har Hilel"
+        }
+      ]
+    },
+     {
+      "date": "17/04/2017",
+       "observer": "רפי סהר",
+      "original_text": "בדרך נוף צפונית של הכסלון יש פריחה בשיאה של חוטמית זיפנית. ק. הרוכבים",
+      "locations": [
+        {
+          "location_name": "דרך נוף צפונית של הכסלון",
+          "flowers": ["חוטמית זיפנית"],
+          "maps_query_location": "Kesalon"
+        },
+        {
+            "location_name":"ק. הרוכבים",
+            "flowers": ["חוטמית זיפנית"],
+            "maps_query_location": "Kiryat HaRokvim"
+        }
+      ]
+    },
+    {
+      "date": "15/04/2017",
+      "observer": "אורון טל",
+       "original_text": "אירוס ארם נהריים החל לפרוח בשמורת אלוני יצחק , מעתה ובחודש הקרוב",
+      "locations": [
+        {
+          "location_name": "שמורת אלוני יצחק",
+          "flowers": [
+            "אירוס ארם נהריים"
+          ],
+          "maps_query_location": "Alonim Yitzhak"
+        }
+      ]
+    },
+    {
+      "date": "15/04/2017",
+      "observer": "אלי ז",
+      "original_text": "פריחת צבעונים כלניות צבעונים מסביב לג'ובה הגדולה ע\"י הר אודם",
+       "locations": [
+        {
+          "location_name": "ג'ובה הגדולה",
+          "flowers": [
+            "צבעוני",
+             "כלנית"
+          ],
+          "maps_query_location": "G'oba Hagdola"
+        },
+          {
+          "location_name": "הר אודם",
+           "flowers": [
+             "צבעוני",
+              "כלנית"
+           ],
+          "maps_query_location":"Mount Odem"
+        }
+      ]
+    },
+     {
+      "date": "15/04/2017",
+      "observer": "אלי ס",
+      "original_text":"פרטים בודדים נותרו בפריחה",
+      "locations": [
+        {
+          "location_name": "תל חצור",
+          "flowers": [
+            "אירוס הדור"
+          ],
+           "maps_query_location": "Tel Hazor"
+        }
+      ]
+    }
+  ]
+}
+```

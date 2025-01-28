@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "12/10/2018",
+      "observer": null,
+      "original_text": "נענת המים ודוחנן קיפח ענק פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": ["נענת המים", "דוחנן קיפח ענק"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "09/10/2018",
+      "observer": "ZVI AVNI",
+      "original_text": "במישור בין בהד 1 ליב\"א של הר אריכא ממשיכה לפרוח בערוצים סיתוונית הקליפות  (בדיווח קודם רשמתי בטעות סיתוונית הנגב) הפריחה בשלב שלאחר השיא. \nבדרך העפר לבורות לוץ פורח כרכום דמשקאי.\nבבורות לוץ השממה הרגילה בשל רעיית לחץ של פראים ובכ\"ז פה ושם פורח כלך דו דורי.\nבנפתול נחל אלות כ-11 ק\"מ במורד מבורות לוץ פורחים כ-10 פרחי חלמונית גדולה באתר הדרומי ביותר שלהם בישראל. גם נמצא שם פרט פורח של אזובית הרמון.",
+      "locations": [
+        {
+          "location_name": "בהד 1",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "יב\"א של הר אריכא",
+          "flowers": ["סתוונית הקליפות"],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": ["כרכום דמשקאי", "כלך דו דורי"],
+           "maps_query_location": "Borot Lutz"
+        },
+        {
+          "location_name": "נחל אלות",
+          "flowers": ["חלמונית גדולה", "אזובית הרמון"],
+           "maps_query_location": "Nahal Elot"
+        }
+      ]
+    },
+    {
+      "date": "08/10/2018",
+      "observer": "יוסי",
+      "original_text": "גן לאומי אכזיב- צמוד לחוף אכזיב מדרום. המוני חבצלות בפריחה יפהפיה וחנטת פירות",
+      "locations": [
+        {
+          "location_name": "גן לאומי אכזיב",
+          "flowers": ["חבצלת"],
+           "maps_query_location": "Achziv National Park"
+        },
+        {
+           "location_name": "חוף אכזיב",
+           "flowers": ["חבצלת"],
+            "maps_query_location": "Achziv Beach"
+        }
+      ]
+    },
+      {
+      "date": "07/10/2018",
+       "observer": null,
+      "original_text": "תל-חזקה : אגס סורי  פירות, חלמונית גדולה  \nמערת פער : אחישבת ענף, אספרג החורש, כריך החורש, סיתוונית בכירה , עפעפית עגולת-עלים , קצח ריסני \nפוריה כפר-עבודה:  בורהביה זוחלת  , מלפפון הנביאים, עוקץ-עקרב עגול-עלים  \n מוצב 117 גולן : דוגון ירושלמי  \nרמת מגשימים : חבלבל ארץ-ישראלי  \nמאגר-רמתניה :חרמשית השדות , סמר אפרפר, סתוונית התשבץ",
+      "locations": [
+         {
+          "location_name": "תל חזקה",
+          "flowers": ["אגס סורי", "חלמונית גדולה"],
+           "maps_query_location": "Tel Hazeka"
+         },
+         {
+          "location_name": "מערת פער",
+           "flowers": ["אחישבת ענף", "אספרג החורש", "כריך החורש", "סתוונית בכירה", "עפעפית עגולת-עלים", "קצח ריסני"],
+            "maps_query_location": null
+         },
+        {
+          "location_name": "פוריה כפר עבודה",
+           "flowers": ["בורהביה זוחלת", "מלפפון הנביאים", "עוקץ-עקרב עגול-עלים"],
+           "maps_query_location":"Poriya Kfar Avoda"
+         },
+          {
+           "location_name": "מוצב 117 גולן",
+           "flowers": ["דוגון ירושלמי"],
+            "maps_query_location": null
+          },
+          {
+           "location_name": "רמת מגשימים",
+           "flowers": ["חבלבל ארץ-ישראלי"],
+           "maps_query_location": "Ramat Magshimim"
+          },
+         {
+           "location_name": "מאגר רמתניה",
+           "flowers": ["חרמשית השדות", "סמר אפרפר", "סתוונית התשבץ"],
+             "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "06/10/2018",
+      "observer": null,
+      "original_text": "כרכום דמשקאי, אצבוע אירופי .",
+      "locations": [
+        {
+          "location_name": "שמורת הר הנגב",
+          "flowers": ["כרכום דמשקאי", "אצבוע אירופי"],
+           "maps_query_location": "Negev Highlands Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "05/10/2018",
+      "observer": null,
+       "original_text": "מצורף קישור",
+      "locations": [
+        {
+          "location_name": null,
+          "flowers": ["חלמונית"],
+           "maps_query_location": null
+        }
+     ]
+   },
+    {
+      "date": "03/10/2018",
+      "observer": "טיולים מדרשת ביחד",
+       "original_text": "פריחת חלמוניות ברכס ירוחם",
+      "locations": [
+        {
+          "location_name": "רכס ירוחם",
+           "flowers": ["חלמונית"],
+           "maps_query_location":"Yeroham Ridge"
+        }
+      ]
+    },
+    {
+      "date": "03/10/2018",
+      "observer": "Adaya Volk",
+       "original_text": "חלמוניות בשביל פסגה",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "02/10/2018",
+      "observer": null,
+      "original_text": "ברכס חזקה - זה תמיד קורה בסוכות: סיתוונית התשבץ פורחת ברכס חזקה ובכירה פורחת במירון ובמערת קשת",
+      "locations": [
+        {
+           "location_name": "רכס חזקה",
+           "flowers": ["סתוונית התשבץ"],
+            "maps_query_location":"Hazeka Ridge"
+        },
+         {
+          "location_name": "מירון",
+          "flowers": ["סתוונית בכירה"],
+            "maps_query_location": "Mount Meron"
+        },
+        {
+          "location_name": "מערת קשת",
+          "flowers": ["סתוונית בכירה"],
+            "maps_query_location":"Keshet Cave"
+        }
+      ]
+    },
+      {
+      "date": "02/10/2018",
+      "observer": null,
+      "original_text": "פורחת בתל חזקה - צילומים יחיאל אוקנין",
+      "locations": [
+         {
+          "location_name": "תל חזקה",
+           "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Tel Hazeka"
+         }
+      ]
+    }
+  ]
+}
+```

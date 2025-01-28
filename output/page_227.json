@@ -1,0 +1,190 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/11/2020",
+      "observer": null,
+      "original_text": "אספרג החורש בריחה מלאה, ארכובית ארצישראלית , כדן קטן-פרחים, כתמה עברת שורשים, בן חצב סיתווני - מליונים משטחים המוניים, מרבדים של סיתוונית היורה בגוונים שונים, מעט בת מבצלת קטנת פרחים ( סוף פריחה) , נרקיס סתווי זרים יפים",
+      "locations": [
+        {
+          "location_name": "גבעת הסיתווניות",
+          "flowers": [
+            "אספרג החורש",
+            "ארכובית ארצישראלית",
+            "כדן קטן-פרחים",
+            "כתמה עברת שורשים",
+             "בן חצב סתווני",
+            "סתוונית היורה",
+            "בת מבצל קטנת פרחים",
+            "נרקיס סתווי"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "גיסר א זרקה",
+           "flowers": [
+            "אספרג החורש",
+            "ארכובית ארצישראלית",
+            "כדן קטן-פרחים",
+            "כתמה עברת שורשים",
+             "בן חצב סתווני",
+            "סתוונית היורה",
+            "בת מבצל קטנת פרחים",
+            "נרקיס סתווי"
+          ],
+          "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "16/11/2020",
+      "observer": null,
+      "original_text": "פרטים רבים פורחים ביער אלוני יצחק מיד ליד השער הקרוב לכפר גליקסון .בגן בגבעת עדה ראינו שני לופים טרום פתיחה . אין בכלל חלמוניות זעירות",
+      "locations": [
+        {
+          "location_name": "יער אלוני יצחק",
+          "flowers": [
+            "אחילוף הגליל"
+           
+          ],
+          "maps_query_location": "Aloney Yitzhak Forest"
+        },
+          {
+          "location_name": "כפר גליקסון",
+          "flowers": [
+           "אחילוף הגליל"
+          ],
+          "maps_query_location": "Glikson"
+        },
+        {
+           "location_name": "גבעת עדה",
+           "flowers": [
+            
+           ],
+          "maps_query_location":"Givat Ada"
+         }
+        
+      ]
+    },
+    {
+      "date": "16/11/2020",
+      "observer": null,
+      "original_text": "נצפו מאות פריטים של כרכרם צהבהב ונאה.פריטים בודדים של כרכם חורפי וכדן קטן פרחים.סוף פריחה סתוונית בכירה\\ירושלים פרח גם אחילוף הגליל",
+      "locations": [
+        {
+          "location_name": "גוש הרי מירון",
+          "flowers": [
+            "כרכום צהבהב",
+            "כרכום חורפי",
+            "כדן קטן פרחים",
+             "סתוונית בכירה",
+             "אחילוף הגליל"
+          ],
+           "maps_query_location": "Har Meron"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2020",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד' 11.11.20",
+      "locations": [
+        {
+          "location_name": "תל חזקה",
+          "flowers": [],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "רמת הגולן",
+          "flowers": [],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2020",
+      "observer": null,
+       "original_text": "עם מטיילי יום ד' 11.11.20",
+      "locations": [
+         {
+          "location_name": "רמת הגולן",
+          "flowers": [],
+           "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2020",
+       "observer": "מיכאל פינטו",
+      "original_text": "פריחה של סיתוניות בכמות גדולה ויפה וחלמוניו גדולות יפה ומומלץ ביער להב",
+      "locations": [
+        {
+          "location_name": "יער להב",
+          "flowers": [
+            "סתוונית",
+            "חלמונית"
+          ],
+           "maps_query_location": "Lahav Forest"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2020",
+       "observer": "ענת ליבנה",
+      "original_text": "שטחי מרעה כפר כורזים.הרחבה מחכים להיתר הוצאה משטח.",
+      "locations": [
+        {
+          "location_name": "כפר כורזים",
+          "flowers": [
+            "חלמונית זעירה"
+          ],
+          "maps_query_location": "Korazim"
+        }
+      ]
+    },
+    {
+      "date": "15/11/2020",
+      "observer": "צלילה שפיר",
+      "original_text": "טבק השיח פורח גם עכשיו, אמצע נובמבר 2020 (באתר כתוב פעם עד ספטמבר, ופעם אחרת עד אוקטובר)",
+       "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+            "טבק השיח"
+          ],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "14/11/2020",
+      "observer": "דוד פורת",
+      "original_text": "לפופית החוף עדיין בשפעת פריחה ברצועת הרסס חופי כרמל צפוניים אמצע נובמבר 2020   תהנו בברכה דוד פורת אפיקים",
+      "locations": [
+        {
+           "location_name": "חופי כרמל צפוניים",
+           "flowers": [
+            "לפופית החוף"
+          ],
+           "maps_query_location": "Carmel Coast"
+        }
+      ]
+    },
+      {
+      "date": "14/11/2020",
+      "observer": "naomi dagoni",
+      "original_text": "11.11.20 משטחי סתווניות וכמה חלמוניות בשביל הכחול בנחל קטלב",
+      "locations": [
+        {
+           "location_name": "נחל קטלב",
+          "flowers": [
+            "סתוונית",
+            "חלמונית"
+          ],
+           "maps_query_location": "Nahal Katlav"
+        }
+      ]
+    }
+  ]
+}
+```

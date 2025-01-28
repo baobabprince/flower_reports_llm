@@ -1,0 +1,440 @@
+```json
+{
+  "reports": [
+    {
+      "date": "28/02/2014",
+      "observer": null,
+      "original_text": "בואדי הידוע נצפו היום:  ריבס המדבר בפריחה יפהפיה, צבעוני ססגוני רבים ויפים, צבעוני הנגב אחד, זהבית אחת, ערטניות , קדד קדוש, הרדופני יהודה מוריקה מבריקה ובדרך ליעד שיחי קרקש,   צאו לשם ותהנו ובדרך מבקרים גם בבורות לוץ",
+      "locations": [
+        {
+          "location_name": "מעלה ערוד",
+           "flowers": [
+            "Rheum palaestinum",
+            "Tulipa polychroma",
+            "Tulipa nebensis",
+            "Gagea dayana",
+            "Eremostachys laciniata",
+            "Astragalus sanctus",
+            "Nerium oleander",
+            "Lycium shawii"
+          ],
+          "maps_query_location": "Ma'aleh Arod"
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "Rheum palaestinum",
+            "Tulipa polychroma",
+             "Tulipa nebensis",
+             "Gagea dayana",
+            "Eremostachys laciniata",
+            "Astragalus sanctus",
+            "Nerium oleander",
+            "Lycium shawii"
+             ],
+          "maps_query_location": "Borot Lotz"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2014",
+      "observer": "דוד הר זהב",
+      "original_text": "בשטחי האש של צאלים: מרווה צמירה, תודרה מעובה, אירוס הנגב, שלח הערבות, סביון הערבות, אזנב מצוי, מנתור מדברי, צמרנית סלעים, רותם המדבר, עירית גדולה, לשון-פר איטלקית, פרסה מקרינה ועוד פרח מורכב גדול וסגול שלא זיהיתי.",
+      "locations": [
+        {
+          "location_name": "צאלים",
+          "flowers": [
+            "Salvia lanigera",
+            "Thudura crassifolia",
+            "Iris mariae",
+             "Echium arenarium",
+            "Senecio glaucus",
+            "Echiochilon fruticosum",
+             "Mentha longifolia",
+            "Paronychia argentea",
+             "Retama raetam",
+            "Asphodelus aestivus",
+            "Anchusa italica",
+            "Biscutella didyma"
+          ],
+          "maps_query_location": "Tze'elim"
+        }
+      ]
+    },
+     {
+      "date": "27/02/2014",
+      "observer": "אילן טל",
+      "original_text": "פורחים : ולריאנה אטלקית , לשון פר מצויה + סמורה , ספלול מטפס , גרניון הגליל , איריס הנגב ( שפע של פרחים וניצנים ) , מגלית גדולת פרחים , נזמית מקווקוות + לבנה , עיריוני צהוב ( צהוב ולא כתום ) ,פשתנית אשקלון ועוד הרבה עשרות מינים בפריחה .",
+      "locations": [
+        {
+           "location_name": "גן איריס",
+          "flowers": [
+             "Valeriana italica",
+            "Anchusa strigosa",
+             "Convolvulus arvensis",
+            "Geranium galilaeum",
+            "Iris mariae",
+            "Megalytha prostrate",
+            "Glechoma hirsuta",
+             "Sternbergia clusiana",
+            "Linaria ascalonica"
+          ],
+          "maps_query_location": null
+        },
+         {
+           "location_name": "גן בוטני",
+          "flowers": [
+             "Valeriana italica",
+            "Anchusa strigosa",
+             "Convolvulus arvensis",
+            "Geranium galilaeum",
+            "Iris mariae",
+            "Megalytha prostrate",
+            "Glechoma hirsuta",
+             "Sternbergia clusiana",
+            "Linaria ascalonica"
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "כפר יהושע",
+           "flowers": [
+             "Valeriana italica",
+            "Anchusa strigosa",
+             "Convolvulus arvensis",
+            "Geranium galilaeum",
+            "Iris mariae",
+            "Megalytha prostrate",
+            "Glechoma hirsuta",
+             "Sternbergia clusiana",
+            "Linaria ascalonica"
+          ],
+          "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2014",
+      "observer": "שרה סלפק",
+       "original_text": "ההר 25-2-2014-דמומית אי,כלך מצוי,שעמון מצולע,כלניות אדומות ולבנות,צנון פגיוני,דודא רפואי,ולריאנה איטלקית,צהרון מצוי,רקפות,חלבלוב מגובשש,לוענית גדולה,בשפע, פה ושם-גביעונית הלבנון,נורית ירושליםכרבולתן השדה,קדד גדול פרי,שרעול שעיר,צחנן מבאיש איסטיס,לשון הכלב הכרתית,כפיות שעירות,דלעת הנחש,לוענית גדולה,שום שעיר שושנתית וטבורית,תהנו,שרה בן-שמן",
+      "locations": [
+        {
+          "location_name": "הגלבוע",
+           "flowers": [
+            "Adonis palaestina",
+            "Tordylium aegyptiacum",
+            "Scabiosa prolifera",
+            "Anemone coronaria",
+            "Raphanus raphanistrum",
+            "Mandragora officinarum",
+            "Valeriana italica",
+            "Gynandriris sisyrinchium",
+             "Cyclamen persicum",
+            "Euphorbia macroclada",
+            "Antirrhinum majus",
+            "Gagea libanotica",
+            "Ranunculus asiaticus",
+             "Lamium amplexicaule",
+            "Astragalus macrocarpus",
+            "Phlomis viscosa",
+             "Erodium moschatum",
+            "Cynoglossum creticum",
+             "Silene vulgaris",
+            "Bryonia syriaca",
+            "Antirrhinum majus",
+             "Allium subhirsutum"
+          ],
+          "maps_query_location": "Gilboa"
+        },
+         {
+          "location_name": "מתלול אבינדב",
+          "flowers": [
+            "Adonis palaestina",
+            "Tordylium aegyptiacum",
+            "Scabiosa prolifera",
+            "Anemone coronaria",
+            "Raphanus raphanistrum",
+            "Mandragora officinarum",
+            "Valeriana italica",
+            "Gynandriris sisyrinchium",
+             "Cyclamen persicum",
+            "Euphorbia macroclada",
+            "Antirrhinum majus",
+            "Gagea libanotica",
+            "Ranunculus asiaticus",
+             "Lamium amplexicaule",
+            "Astragalus macrocarpus",
+            "Phlomis viscosa",
+             "Erodium moschatum",
+            "Cynoglossum creticum",
+             "Silene vulgaris",
+            "Bryonia syriaca",
+             "Antirrhinum majus",
+             "Allium subhirsutum"
+          ],
+          "maps_query_location": null
+        },
+         {
+          "location_name":"צביה עין מודע",
+            "flowers": [
+            "Adonis palaestina",
+            "Tordylium aegyptiacum",
+            "Scabiosa prolifera",
+            "Anemone coronaria",
+            "Raphanus raphanistrum",
+            "Mandragora officinarum",
+            "Valeriana italica",
+            "Gynandriris sisyrinchium",
+             "Cyclamen persicum",
+            "Euphorbia macroclada",
+            "Antirrhinum majus",
+            "Gagea libanotica",
+            "Ranunculus asiaticus",
+             "Lamium amplexicaule",
+            "Astragalus macrocarpus",
+            "Phlomis viscosa",
+             "Erodium moschatum",
+            "Cynoglossum creticum",
+             "Silene vulgaris",
+            "Bryonia syriaca",
+             "Antirrhinum majus",
+             "Allium subhirsutum"
+          ],
+          "maps_query_location":"Tzvia Ein Moda"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2014",
+      "observer": "שרה סלפק",
+      "original_text":"נ,תלכיד פיראנ והגלבוע עם גלעד-25,2,2014נורית אסיה,צמרורת בואסיה,מציץ סורי,צבעוני ההרים,כלך מצוי,אוג קוצני,רותם המדבר,פשתה שעירה,דמומית משוננת,חבלבל עדין,סלסילה מצויה,מקור חסידה גדול,שום אשרסון,מרוה דגולה וריחנית,שטיחים של נימית ממולענת,צנון מצוי,לוענית מצויה,צהרון מצוי,זיף-נוצה מחוספס וריסני,פריחה מרובה,פרג אגסני,טופח מעורק,קדד נאה,חלביב רותמי,בפריחה,נץ חלב צרפתי,זקן התיש המצוי,אירוס שחום,לשון הפר הסמורה,עפעפית מצרית,ורבים אחרים, שרה בן-שמן",
+      "locations": [
+         {
+          "location_name": "הבקעה",
+           "flowers": [
+             "Ranunculus asiaticus",
+            "Onosma bulbotrichum",
+            "Helianthemum syriacum",
+             "Tulipa montana",
+            "Tordylium aegyptiacum",
+            "Rhus tripartita",
+            "Retama raetam",
+            "Linum pubescens",
+            "Adonis dentata",
+             "Convolvulus elegantissimus",
+            "Coronilla scorpioides",
+             "Erodium gruinum",
+            "Allium aschersonianum",
+            "Salvia dominica",
+             "Kickxia acerbiana",
+             "Raphanus sativus",
+            "Antirrhinum orontium",
+            "Gynandriris sisyrinchium",
+             "Ptilostemon gnaphaloides",
+              "Papaver umbonatum",
+             "Gladiolus italicus",
+             "Astragalus callichrous",
+             "Helianthemum vesicarium",
+             "Ornithogalum narbonense",
+             "Tragopogon longirostris",
+            "Iris atropurpurea",
+             "Anchusa strigosa",
+             "Anagallis arvensis"
+          ],
+          "maps_query_location": "HaBik'a"
+        },
+        {
+          "location_name": "תלכיד פיראן",
+           "flowers": [
+             "Ranunculus asiaticus",
+            "Onosma bulbotrichum",
+            "Helianthemum syriacum",
+             "Tulipa montana",
+            "Tordylium aegyptiacum",
+            "Rhus tripartita",
+            "Retama raetam",
+            "Linum pubescens",
+            "Adonis dentata",
+             "Convolvulus elegantissimus",
+            "Coronilla scorpioides",
+             "Erodium gruinum",
+            "Allium aschersonianum",
+            "Salvia dominica",
+             "Kickxia acerbiana",
+             "Raphanus sativus",
+            "Antirrhinum orontium",
+            "Gynandriris sisyrinchium",
+             "Ptilostemon gnaphaloides",
+              "Papaver umbonatum",
+             "Gladiolus italicus",
+             "Astragalus callichrous",
+             "Helianthemum vesicarium",
+             "Ornithogalum narbonense",
+             "Tragopogon longirostris",
+             "Iris atropurpurea",
+             "Anchusa strigosa",
+             "Anagallis arvensis"
+
+          ],
+          "maps_query_location": null
+        },
+        {
+          "location_name": "הגלבוע",
+            "flowers": [
+             "Ranunculus asiaticus",
+            "Onosma bulbotrichum",
+            "Helianthemum syriacum",
+             "Tulipa montana",
+            "Tordylium aegyptiacum",
+            "Rhus tripartita",
+            "Retama raetam",
+            "Linum pubescens",
+            "Adonis dentata",
+             "Convolvulus elegantissimus",
+            "Coronilla scorpioides",
+             "Erodium gruinum",
+            "Allium aschersonianum",
+            "Salvia dominica",
+             "Kickxia acerbiana",
+             "Raphanus sativus",
+            "Antirrhinum orontium",
+            "Gynandriris sisyrinchium",
+             "Ptilostemon gnaphaloides",
+              "Papaver umbonatum",
+             "Gladiolus italicus",
+             "Astragalus callichrous",
+             "Helianthemum vesicarium",
+             "Ornithogalum narbonense",
+             "Tragopogon longirostris",
+             "Iris atropurpurea",
+             "Anchusa strigosa",
+             "Anagallis arvensis"
+          ],
+          "maps_query_location": "Gilboa"
+        },
+        {
+          "location_name": "גלעד",
+            "flowers": [
+             "Ranunculus asiaticus",
+            "Onosma bulbotrichum",
+            "Helianthemum syriacum",
+             "Tulipa montana",
+            "Tordylium aegyptiacum",
+            "Rhus tripartita",
+            "Retama raetam",
+            "Linum pubescens",
+            "Adonis dentata",
+             "Convolvulus elegantissimus",
+            "Coronilla scorpioides",
+             "Erodium gruinum",
+            "Allium aschersonianum",
+            "Salvia dominica",
+             "Kickxia acerbiana",
+             "Raphanus sativus",
+            "Antirrhinum orontium",
+            "Gynandriris sisyrinchium",
+             "Ptilostemon gnaphaloides",
+              "Papaver umbonatum",
+             "Gladiolus italicus",
+             "Astragalus callichrous",
+             "Helianthemum vesicarium",
+             "Ornithogalum narbonense",
+             "Tragopogon longirostris",
+            "Iris atropurpurea",
+             "Anchusa strigosa",
+             "Anagallis arvensis"
+          ],
+          "maps_query_location": "Gilad"
+        }
+      ]
+    },
+    {
+      "date":"26/02/2014",
+      "observer":"שאול רביד",
+      "original_text":"(להוסיף לדיווח קודם )פריחה חזקה של סחלב פרפרני , גוון כהה",
+      "locations": [
+       {
+          "location_name": "חורשות גברעם",
+           "flowers": [
+            "Orchis papilionacea"
+          ],
+          "maps_query_location": "Gvar'am"
+        }
+      ]
+    },
+     {
+      "date": "26/02/2014",
+       "observer": "שאול רביד",
+      "original_text": "לפני שבוע החלו פריחות משפחת הסחלביים: שפתן מצוי, דבורנית שחומה, דבורנית דינסמור. כמו כן בבת אחת החלו לפרוח פרחי צבעוני ההרים. למרות ההצתה אשתקד בחורשות הפרחים , רוב החדשנתיים לא נפגעו.",
+      "locations": [
+         {
+          "location_name": "חורשות גברעם",
+           "flowers": [
+             "Ophrys umbilicata",
+            "Ophrys fusca",
+            "Ophrys dindsenensis",
+            "Tulipa montana"
+          ],
+          "maps_query_location": "Gvar'am"
+        }
+      ]
+    },
+    {
+      "date":"26/02/2014",
+      "observer":"נביל אבושקטרה",
+      "original_text":"שלום לכולם אתם יודעים מתי מתחיל האביב אז אני אזכיר לכם ששזה ב21/3 ביום ראשון 23/2נסענו ל-'' ואדי עמוד ''לקטוף ''כלך ''שזה צמח דומה לאספראגוס  צמח מאכל מאד טעים ושם פגשנו כל מיני צמחים יפים תלתן הארגמן, תרמוס ההרים, כלניות,רקפות,  חרציות ,ושטחים גדולים בצבע צהוב  שזה  החרדל .יפה מאד....",
+      "locations": [
+       {
+          "location_name": "ואדי עמוד",
+          "flowers": [
+            "Tordylium aegyptiacum",
+            "Trifolium purpureum",
+            "Lupinus pilosus",
+            "Anemone coronaria",
+            "Cyclamen persicum",
+            "Chrysanthemum coronarium",
+            "Sinapis alba"
+          ],
+          "maps_query_location": "Wadi Amud"
+        }
+      ]
+    },
+    {
+      "date": "26/02/2014",
+      "observer": "עמיר פז",
+      "original_text": "איריס הארגמן+הנגב+הגלבוע+שחום פורחים בגן בגעש. בנוסף פורחים ספה המים,וסחלב ריחני,",
+       "locations": [
+        {
+           "location_name":"גן בגעש",
+             "flowers": [
+            "Iris atropurpurea",
+            "Iris mariae",
+            "Iris haynei",
+             "Iris atropurpurea",
+            "Nymphaea lotus",
+             "Gymnadenia conopsea"
+          ],
+            "maps_query_location":"Ga'ash"
+        }
+       ]
+    },
+    {
+     "date":"25/02/2014",
+      "observer":null,
+      "original_text":"פריחה המונית - ללכת במסלול האדום המעגלי, להיכנס לכל אחת מהכניסות ולחזור אי אפשר להחמיץ, יש שם איריס טוביה מעט כלניות, עירית , עריוני צהוב ועוד",
+       "locations": [
+        {
+          "location_name":"בורות לוץ",
+           "flowers": [
+             "Iris tuberosa",
+             "Anemone coronaria",
+             "Asphodelus aestivus",
+              "Sternbergia clusiana"
+            ],
+             "maps_query_location":"Borot Lotz"
+          }
+       ]
+    }
+  ]
+}
+```

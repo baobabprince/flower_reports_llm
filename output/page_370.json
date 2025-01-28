@@ -1,0 +1,161 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/02/2018",
+      "observer": "גלעד",
+      "original_text": "סמוך לחניית האוטובוסים. מספר עצים בפריחה מלאה",
+      "locations": [
+        {
+          "location_name": "רמת הנדיב",
+           "flowers": ["כליל החורש"],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2018",
+      "observer": null,
+      "original_text": "כלניות, רקפות במרבדים ענקיים, שקדיות ואיריס הארגמן כ 8 פרים בגן הצמחים בסכנת הכחדה",
+      "locations": [
+        {
+           "location_name": "בנאות קדומים",
+           "flowers": ["כלנית", "רקפת", "שקד", "אירוס הארגמן"],
+            "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+     {
+      "date": "16/02/2018",
+      "observer": null,
+      "original_text": "השקדיות כאן עדיין פורחות. בנאות קדומים, באזור ירושלים, בכביש 38 , המסרק ועד",
+      "locations": [
+        {
+          "location_name": "בנאות קדומים",
+          "flowers": ["שקד"],
+           "maps_query_location": "Neot Kedumim"
+        },
+         {
+          "location_name": "ירושלים",
+          "flowers": ["שקד"],
+            "maps_query_location": "Jerusalem"
+        },
+         {
+          "location_name": "כביש 38",
+          "flowers": ["שקד"],
+          "maps_query_location": "Road 38 Israel"
+        },
+        {
+          "location_name": "המסרק",
+          "flowers": ["שקד"],
+          "maps_query_location": "HaMesaq"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2018",
+      "observer": null,
+      "original_text": "מעגן מיכאל על הגבעה מאחורי בית הקברות. צבעוניים רקפות ועוד. שיא הפריחה",
+       "locations": [
+         {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["צבעוני", "רקפת"],
+          "maps_query_location":"Ma'agan Michael"
+        }
+      ]
+    },
+     {
+      "date": "15/02/2018",
+      "observer": "דניאל קאופמן",
+      "original_text": "סחלבים מצויירים לאורך השביל הכחול מעין הזקן לבית ג׳אן",
+       "locations": [
+         {
+          "location_name": "עין הזקן",
+           "flowers": ["סחלב מצויר"],
+           "maps_query_location": "Ein Hazaqen"
+        },
+        {
+          "location_name": "בית ג'אן",
+          "flowers": ["סחלב מצויר"],
+          "maps_query_location": "Beit Jann"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2018",
+      "observer": "דניאל קאופמן",
+      "original_text": "בשביל השחור העולה להר הילל: יקינטון מזרחי, כלניות במגוון צבעים, רקפות, סחלב מצויר, רומוליאה סגלולית ועוד",
+      "locations": [
+         {
+          "location_name": "הר הלל",
+           "flowers": ["יקינטון מזרחי", "כלנית", "רקפת", "סחלב מצויר", "רומוליאה סגלולית"],
+           "maps_query_location": "Har Hillel"
+        }
+      ]
+    },
+    {
+      "date":"15/02/2018",
+      "observer": null,
+      "original_text": "פריחת שקדיות ליד קיבוץ הזורע (מאחורי יקנעם המושבה)\nתמשיכו עד כביש הסרגל (כביש 65)",
+      "locations": [
+        {
+          "location_name": "קיבוץ הזורע",
+          "flowers": ["שקד"],
+          "maps_query_location":"Kibbutz HaZore'a"
+         },
+        {
+          "location_name": "יקנעם המושבה",
+          "flowers": ["שקד"],
+          "maps_query_location": "Yoqne'am Moshava"
+        },
+        {
+            "location_name": "כביש הסרגל",
+            "flowers": ["שקד"],
+            "maps_query_location": "Road 65 Israel"
+        }
+     ]
+    },
+    {
+      "date": "14/02/2018",
+      "observer": null,
+      "original_text":"רקפת מצויה, כלנית מצויה, סביון אביבי, עירית גדולה, צבעוני ההרים, סחלב השקיק, סחלב פרפרני, רומוליאה סגלולית, ציפורני חתול מצויות, ציפורנית מצרית, דודא רפואי",
+      "locations": [
+        {
+           "location_name": "גני הנדיב",
+           "flowers": ["רקפת מצויה", "כלנית מצויה", "סביון אביבי", "עירית גדולה", "צבעוני ההרים", "סחלב השקיק", "סחלב פרפרני", "רומוליאה סגלולית", "ציפורני חתול מצויות", "ציפורנית מצרית", "דודא רפואי"],
+            "maps_query_location": "Ramat Hanadiv Gardens"
+        }
+      ]
+    },
+     {
+      "date": "14/02/2018",
+       "observer": null,
+      "original_text": "בריכת צרטה: נוריות מים - מעט, אלמוות הכסף, מרווה דגולה, צהרונים ( אחה\"צ), לחך בלוטי, בצעוני מצוי, עכנאי יהדה, כלניות ורקפות ( מעט) קידה שעירה , שמשון מצוי, מיני טופח ודגניים",
+      "locations": [
+        {
+          "location_name": "בריכת צרטה",
+          "flowers": ["נורית מים", "אלמוות הכסף", "מרווה דגולה", "צהרון", "לחך בלוטי", "בצעוני מצוי", "עכנאי יהודה", "כלנית", "רקפת", "קידה שעירה", "שמשון מצוי", "מיני טופח"],
+           "maps_query_location": "Berekhat Tarta"
+         },
+         {
+          "location_name": "ברקת",
+           "flowers": ["נורית מים", "אלמוות הכסף", "מרווה דגולה", "צהרון", "לחך בלוטי", "בצעוני מצוי", "עכנאי יהודה", "כלנית", "רקפת", "קידה שעירה", "שמשון מצוי", "מיני טופח"],
+           "maps_query_location": "Berekhat Bareket"
+         }
+      ]
+    },
+    {
+      "date": "14/02/2018",
+      "observer": "שי",
+       "original_text": "תל שוכה גבעת התורמסים מלאה-זה הזמן! כעת ניתן עדיין ליהנות גם מהרקפות והכלניות עוד ועוד בשטחים מסביב לרגל הפריחה המוקדמת- חובה לראות-זה אחד מהההמקומות!",
+      "locations": [
+        {
+           "location_name": "תל שוכה",
+           "flowers": ["תורמוס", "רקפת", "כלנית"],
+            "maps_query_location": "Tel Sokho"
+        }
+      ]
+    }
+  ]
+}
+```

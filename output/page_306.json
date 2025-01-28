@@ -1,0 +1,160 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/03/2019",
+      "observer": "עמיר פז",
+      "original_text": "חרצית דביקה, כריך שעיר, אלמוות א\"י, בת חול א\"י, מצילות מצויצות, וכף עוף מנוצה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן מקלט שרוני",
+          "flowers": [
+            "חרצית דביקה",
+            "כריך שעיר",
+            "אלמוות א\"י",
+            "בת חול א\"י",
+            "מצילות מצויצות",
+             "כף עוף מנוצה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/03/2019",
+      "observer": null,
+      "original_text": "יער אילנות פריחה 1.3.19 קישורית מצורפת מהשטח",
+      "locations": [
+        {
+          "location_name": "יער אילנות",
+             "flowers": [],
+          "maps_query_location": "Ilanot Forest"
+        }
+      ]
+    },
+     {
+      "date": "02/03/2019",
+      "observer": null,
+      "original_text": "מותר לבקר שם רק בסופי שובע - קרוב לשטח אש , ראי את אלבומה של שרון בן-צור",
+       "locations": [
+        {
+           "location_name": "חירבת לויה",
+           "flowers": [],
+            "maps_query_location": null
+        }
+      ]
+     },
+    {
+      "date": "02/03/2019",
+      "observer": "אילת בר",
+      "original_text": "פורח עכשיו במזרח שדות גבעת עדה בשיפולי גבעה גובלת בכביש 6.",
+      "locations": [
+       {
+          "location_name": "גבעת עדה",
+          "flowers": ["קוציץ סורי"],
+          "maps_query_location": "Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2019",
+      "observer": "אביבה  דימנשטיין",
+      "original_text": "בתאריך1/03/2019 בבקעת הירדן אתר הסנדל",
+       "locations": [
+        {
+          "location_name": "בקעת הירדן",
+          "flowers": ["פעמונית כוכבנית"],
+          "maps_query_location": "Jordan Valley"
+        },
+         {
+          "location_name": "אתר הסנדל",
+           "flowers": ["פעמונית כוכבנית"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/03/2019",
+       "observer": "אביבה",
+      "original_text": "פריחה מדהימה באזור בקעת הירדן אתר הסנדל",
+       "locations": [
+        {
+          "location_name": "בקעת הירדן",
+          "flowers": ["פעמונית כוכבנית"],
+          "maps_query_location": "Jordan Valley"
+        },
+        {
+           "location_name": "אתר הסנדל",
+           "flowers": ["פעמונית כוכבנית"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "02/03/2019",
+      "observer": "עמיר פז",
+      "original_text": "פורחת ליד קיבוץ הגושרים",
+      "locations": [
+        {
+          "location_name": "קיבוץ הגושרים",
+          "flowers": ["נזמית ארגמנית"],
+           "maps_query_location": "Gushrim"
+        }
+      ]
+    },
+    {
+      "date": "01/03/2019",
+       "observer": "כרמל טיצ'ר",
+      "original_text": "1/3/19- ריכוזים אחדים של גביעונית הלבנון בגוון קרם עד ורוד, הרבה עריוני זהוב, שטיחי רקפות, כלניות מפוזרות, כרמלית נאה ועוד - בדרך נוף יער בית קשת ובשביל הטרשונים.",
+      "locations": [
+        {
+          "location_name": "יער בית קשת",
+           "flowers": [
+            "גביעונית הלבנון",
+            "עריוני זהוב",
+            "רקפת",
+            "כלנית",
+            "כרמלית נאה"
+          ],
+          "maps_query_location": "Beit Keshet Forest"
+        },
+        {
+          "location_name": "שביל הטרשונים",
+           "flowers": [
+            "גביעונית הלבנון",
+            "עריוני זהוב",
+            "רקפת",
+            "כלנית",
+            "כרמלית נאה"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "27/02/2019",
+      "observer": null,
+      "original_text": "ראו אלבום יפה של רוני בראונר : איריס הגלבוע ופרחים נוספים",
+        "locations": [
+        {
+          "location_name": "מלכישוע",
+           "flowers": ["איריס הגלבוע"],
+           "maps_query_location": "Malkishua"
+        }
+      ]
+    },
+    {
+      "date": "27/02/2019",
+      "observer": null,
+      "original_text": "ראו אלבום מדהים של אראלה הרי",
+         "locations": [
+        {
+           "location_name": "הר הנגב",
+           "flowers": ["ריבס המדבר"],
+           "maps_query_location": "Negev Highlands"
+        }
+      ]
+    }
+  ]
+}
+```

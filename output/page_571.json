@@ -1,0 +1,205 @@
+```json
+{
+  "reports": [
+    {
+      "date": "22/02/2014",
+      "observer": null,
+      "original_text": "פריחת רותם המדבר בחי בר יטבתה",
+      "locations": [
+        {
+          "location_name": "חי בר יטבתה",
+          "flowers": ["רותם המדבר"],
+          "maps_query_location": "Hai Bar Yotvata"
+        }
+      ]
+    },
+    {
+      "date": "22/02/2014",
+      "observer": "עמיר פז",
+       "original_text": "אזוביון דגול,אלמוות שיכני,גומא הירקון,דמומית עבת שיבולת,חומעת האווירון,ורומוליאה זעירה פורחים בגן",
+      "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["אזוביון דגול", "אלמוות שיכני", "גומא הירקון", "דמומית עבת שיבולת", "חומעת האווירון", "ורומוליאה זעירה"],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2014",
+      "observer": "ורדית זיימן",
+      "original_text": "החלה פריחת אירוס ירוחם  מול שיבטה",
+      "locations": [
+         {
+          "location_name": "ירוחם",
+          "flowers": ["אירוס ירוחם"],
+          "maps_query_location": "Yeruham"
+        },
+        {
+          "location_name": "שיבטה",
+          "flowers": ["אירוס ירוחם"],
+          "maps_query_location": "Shivta"
+        }
+       ]
+    },
+    {
+      "date": "20/02/2014",
+      "observer": "דוד פורת",
+      "original_text": "מזה שבועיים ויותר פורחת עלקת מוטל בשטחי בקעת כנרות לרבות טפילות על שרשי פרתניון אפיל.",
+      "locations": [
+        {
+          "location_name": "בקעת כנרות",
+            "flowers": ["עלקת מוטל", "פרתניון אפיל"],
+           "maps_query_location": "Kinarot Valley"
+        }
+      ]
+    },
+    {
+      "date": "20/02/2014",
+      "observer": "שמיל קליין",
+      "original_text": "אחו נוב ומורדות חספין לנחל אלעל איריס הביצות כמעט בשיא יחד עם הכלניות הסגולות/בורדו",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+           "flowers": ["איריס הביצות", "כלנית סגולה"],
+           "maps_query_location": "Ahu Nov"
+        },
+         {
+          "location_name": "מורדות חספין",
+          "flowers": ["איריס הביצות", "כלנית סגולה"],
+          "maps_query_location": "Hisfin"
+        },
+        {
+          "location_name": "נחל אלעל",
+           "flowers": ["איריס הביצות", "כלנית סגולה"],
+           "maps_query_location": "Nahal El Al"
+        }
+      ]
+    },
+    {
+      "date": "18/02/2014",
+      "observer": "צביקה אבני",
+      "original_text": "בנחל אליאב ואלות שיא פריחה של שקד הרמון וצבעוני ססגוני.\nבאזור בורות לוץ פריחה של אירוס טוביה. \nבנחל לוץ ובמדרונות המערביים של מכתש רמון הרבה מאד ריבסים עם ניצני פריחה גדולים - פריחה בימים הקרובים. \nעריוני צהוב בפריחה בראש אלות ובנחל אלות עליון. \nצבעוני מדבר טרם החל לפרוח.\nקרקש צהוב תחילת פריחה.\nמוריקה מבריקה, כולל אחת לבנה בנחל אליאב, בפריחה מלאה.\nשמשון הדור מעט מאד פרטים בפריחה.",
+      "locations": [
+        {
+           "location_name": "נחל אליאב",
+          "flowers": ["שקד הרמון", "צבעוני ססגוני", "מוריקה מבריקה"],
+           "maps_query_location": "Nahal Eliav"
+        },
+        {
+          "location_name": "אלות",
+          "flowers": ["שקד הרמון", "צבעוני ססגוני","עריוני צהוב"],
+            "maps_query_location": "Elot"
+        },
+         {
+          "location_name": "בורות לוץ",
+           "flowers": ["אירוס טוביה"],
+           "maps_query_location":"Borot Lotz"
+        },
+         {
+           "location_name": "נחל לוץ",
+          "flowers": ["ריבסים"],
+          "maps_query_location":"Nahal Lotz"
+        },
+         {
+          "location_name": "מדרונות המערביים של מכתש רמון",
+          "flowers": ["ריבסים"],
+            "maps_query_location":"Ramon Crater"
+        },
+          {
+           "location_name":"ראש אלות",
+            "flowers":["עריוני צהוב"],
+            "maps_query_location": "Elot"
+        },
+           {
+            "location_name":"נחל אלות עליון",
+            "flowers":["עריוני צהוב"],
+            "maps_query_location":"Nahal Elot"
+           },
+            {
+            "location_name": null,
+            "flowers": ["קרקש צהוב","שמשון הדור"],
+              "maps_query_location":null
+           }
+      ]
+    },
+    {
+      "date": "18/02/2014",
+      "observer": "אילן טל , 0528254968",
+      "original_text": "בנוסף לפריחות שפורסמו ב - 16.2 םורחים : אלקנה סמורה + הצבעים , בן חצב החורש , גרניון נאה , הרדופנין סורי , טופח הגליל , לשון פר מזרחית , מרווה שסועה , שום מזרחי ועוד רבים .",
+      "locations": [
+        {
+          "location_name": "גן איריס, גן בוטני, כפר יהושע",
+            "flowers": ["אלקנה סמורה", "בן חצב החורש", "גרניון נאה", "הרדופנין סורי", "טופח הגליל", "לשון פר מזרחית", "מרווה שסועה", "שום מזרחי"],
+             "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+   {
+      "date": "18/02/2014",
+      "observer": null,
+       "original_text": "בשיא הפריחה , מהרו למקום המלהיב הזה ותהנו",
+      "locations": [
+        {
+          "location_name": "יער טל שחר",
+             "flowers": ["רקפת"],
+             "maps_query_location":"Tal Shahar Forest"
+        }
+      ]
+    },
+     {
+      "date": "17/02/2014",
+      "observer": null,
+       "original_text": "תודה לשולחים , אנא השתדלו לשלוח דיווחים קצרים וללא תוספות מיותרות בכוכיות וכו- זה \"תוקע\" את הממשק",
+      "locations": null
+    },
+     {
+      "date": "17/02/2014",
+      "observer": null,
+       "original_text":"שרון , שמורת אלוני קדימה-צורן: הפריחה מרובה ועשירה טרם הגיעה לשיאה \nיער אילנות: פריחה דלילה אם כי מרהיבה - מומלץ! \nשמורת האיריסים בנתניה: שיא פריחה \nוינגייט: פריחה דלילה ולא עשירה\nמערות אפקה, תל אביב- פריחה מועטה במקומות הידועים סביב המערות\nנס ציונה: פריחה דלילה יחסית\nפלמחים: שיא פריחה בתוך ימים אחדים.",
+       "locations":[
+        {
+          "location_name":"שרון",
+          "flowers":["איריס הארגמן"],
+          "maps_query_location":"Sharon"
+         },
+        {
+           "location_name":"שמורת אלוני קדימה-צורן",
+           "flowers":["איריס הארגמן"],
+            "maps_query_location":"Kadima-Zoran"
+         },
+         {
+          "location_name": "יער אילנות",
+           "flowers": ["איריס הארגמן"],
+            "maps_query_location":"Ilanot Forest"
+        },
+         {
+          "location_name":"שמורת האיריסים בנתניה",
+          "flowers":["איריס הארגמן"],
+             "maps_query_location":"Netanya"
+        },
+         {
+          "location_name":"וינגייט",
+          "flowers":["איריס הארגמן"],
+             "maps_query_location": "Wingate Institute"
+        },
+        {
+           "location_name":"מערות אפקה, תל אביב",
+           "flowers":["איריס הארגמן"],
+            "maps_query_location":"Tel Aviv"
+          },
+          {
+            "location_name":"נס ציונה",
+             "flowers":["איריס הארגמן"],
+             "maps_query_location":"Nes Ziona"
+          },
+           {
+            "location_name":"פלמחים",
+             "flowers":["איריס הארגמן"],
+              "maps_query_location":"Palmachim"
+         }
+      ]
+    }
+  ]
+}
+```

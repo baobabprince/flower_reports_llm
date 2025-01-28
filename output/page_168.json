@@ -1,0 +1,171 @@
+```json
+{
+  "reports": [
+    {
+      "date": "01/11/2021",
+      "observer": null,
+      "original_text": "כבר פורחים נרקיסים ורקפות ללא עלים",
+      "locations": [
+        {
+          "location_name": "חירבת חנות",
+          "flowers": ["נרקיס", "רקפת"],
+          "maps_query_location": "Khirbet Hanut"
+         }
+      ]
+    },
+    {
+      "date": "31/10/2021",
+      "observer": null,
+      "original_text": "מושב נוב ואחו נוב\nערברבה מרובעת, דוגון ירושלמי , סיתוונית ירושלים \nצומת דליות : אחילוף החורן",
+       "locations": [
+         {
+            "location_name": "נוב",
+            "flowers": ["ערברבה מרובעת", "דוגון ירושלמי", "סתוונית ירושלים"],
+             "maps_query_location": "Nov"
+          },
+          {
+            "location_name": "אחו נוב",
+            "flowers": ["ערברבה מרובעת", "דוגון ירושלמי", "סתוונית ירושלים"],
+            "maps_query_location": "Nov Meadow"
+          },
+          {
+             "location_name":"צומת דליות",
+             "flowers": ["אחילוף החורן"],
+             "maps_query_location": "Daliyyot Junction"
+          }
+       ]
+    },
+     {
+      "date": "31/10/2021",
+      "observer": "דב רובין",
+      "original_text": "שלשום ביום שישי, נצפו הרבה חלמוניות בשביל הפסגה בתחילת השביל, (נראה לי שהלכנו מהכיוון ההפוך) בצד ימין של השביל",
+      "locations": [
+        {
+          "location_name": "שביל הפסגה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Pisga Trail"
+        }
+      ]
+    },
+     {
+      "date": "31/10/2021",
+      "observer": "תמר",
+        "original_text": "30.10.2021\n2חלמוניות פורחות בין מוסדות איתרע לבין בית צפאפה בירושלים",
+      "locations": [
+       {
+            "location_name": "איתרע",
+           "flowers": ["חלמונית"],
+           "maps_query_location":"Eitar'a"
+        },
+        {
+          "location_name": "בית צפאפה",
+           "flowers": ["חלמונית"],
+            "maps_query_location": "Beit Safafa"
+        },
+        {
+           "location_name": "ירושלים",
+           "flowers":["חלמונית"],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "date": "31/10/2021",
+      "observer": null,
+      "original_text": "סוף פריחה של החלמוניות והבתווניות, נצפו פריטים אחרונים. החלה פריחה של כרכם השבכה",
+      "locations": [
+        {
+           "location_name": "חזקה",
+           "flowers": ["חלמונית", "בתוונית", "כרכום השבכה"],
+          "maps_query_location": "Hazeka"
+        }
+       ]
+     },
+    {
+      "date": "30/10/2021",
+      "observer": "אריה טריינין",
+      "original_text": "בשביל הירוק היורד מתל חזקה לעין ג'ווייזה, ברחבה שבתחילת המסלול מצאנו רק כמה פרטים בודדים של חלמונית גדולה, רובם בסוף הפריחה. סיתווניות התשבץ יש בהמשך (בין ק\"מ 1 ל-2 של השביל, עד פאתי הכפר הנטוש ג'וייזה). מצאנו כמה עשרות פרטים בצידי השביל, בשיא הפריחה, מופיעים כבודדים או במקבצים קטנים. ברחבת החניה של תחילת המסלול יש כמה עצי אלון התולע עם הרבה עפצים גדולים, אשר נראים מרחוק כמו שזיפים בשלים.",
+      "locations": [
+         {
+           "location_name": "תל חזקה",
+           "flowers": ["חלמונית גדולה","סתוונית התשבץ"],
+            "maps_query_location":"Tel Hazeka"
+        },
+        {
+          "location_name": "עין ג'ווייזה",
+           "flowers": ["חלמונית גדולה","סתוונית התשבץ"],
+           "maps_query_location":"Ein Juweize"
+        },
+         {
+           "location_name": "ג'וייזה",
+           "flowers": ["סתוונית התשבץ"],
+            "maps_query_location":"Juweize"
+         }
+      ]
+    },
+    {
+      "date": "28/10/2021",
+      "observer": null,
+      "original_text": "קרוב לעין זתים , ראו קישור",
+      "locations": [
+        {
+          "location_name": "ביריה",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Biriya"
+        },
+        {
+          "location_name": "עין זתים",
+           "flowers": ["חלמונית"],
+           "maps_query_location":"Ein Zaytim"
+         }
+       ]
+     },
+    {
+      "date": "28/10/2021",
+       "observer": null,
+      "original_text": "ביער בריה פורחות שפע של חלמוניות",
+      "locations": [
+        {
+          "location_name": "יער בריה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Biriya Forest"
+        }
+       ]
+    },
+     {
+      "date": "28/10/2021",
+       "observer": null,
+       "original_text": "בנחל דומיה ליד ערד",
+      "locations": [
+        {
+          "location_name": "נחל דומיה",
+          "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Nahal Dumya"
+         },
+         {
+            "location_name":"ערד",
+            "flowers": ["סתוונית הקליפות"],
+            "maps_query_location": "Arad"
+         }
+      ]
+    },
+    {
+      "date": "27/10/2021",
+      "observer": "אילת בר",
+      "original_text": "החלה פריחה בגן המייסדים בגבעת עדה; 3 פרטים בינתיים.",
+      "locations": [
+        {
+           "location_name": "גן המייסדים",
+          "flowers": ["אחילוף הגליל"],
+          "maps_query_location":"Founders Garden"
+        },
+         {
+           "location_name":"גבעת עדה",
+            "flowers": ["אחילוף הגליל"],
+            "maps_query_location":"Givat Ada"
+         }
+      ]
+    }
+  ]
+}
+```

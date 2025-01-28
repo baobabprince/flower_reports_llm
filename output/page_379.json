@@ -1,0 +1,239 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/01/2018",
+      "observer": null,
+      "original_text": ", ביער מול מרום גולן,  מול מאגר בנטל ברכס חזקה, ",
+      "locations": [
+        {
+          "location_name": "מרום גולן",
+          "flowers": [
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+           "maps_query_location": "Merom Golan"
+        },
+        {
+          "location_name": "מאגר בנטל",
+            "flowers": [
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": "Bentel Reservoir"
+        },
+         {
+          "location_name": "רכס חזקה",
+            "flowers": [
+            "רקפת יוונית",
+            "איריס הלבנון"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "10/01/2018",
+       "observer": null,
+      "original_text": "אלפי נרקיסים בפריחה מדהימה , קרוב לישוב נב. הריח משכר",
+      "locations": [
+        {
+          "location_name": "נב",
+           "flowers": [
+            "נרקיס"
+          ],
+            "maps_query_location": "Nev"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2018",
+       "observer": null,
+      "original_text": "יקינתון מזרחי , (די עלוב ונגוס ע\"י הפרות הרועות שם) סיקרפד הכדורים בכמויות, כרכום חורפי, מקור חסידה מצוי, אחילוף הגליל בפריחה יפה ובלבלוב עלים, ציפורנית מצרית.   ",
+       "locations": [
+        {
+          "location_name": "חירבת עמודים",
+           "flowers": [
+            "יקינתון מזרחי",
+            "סיקרפד הכדורים",
+            "כרכום חורפי",
+            "מקור חסידה מצוי",
+             "אחילוף הגליל",
+              "ציפורנית מצרית"
+          ],
+            "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "10/01/2018",
+      "observer": null,
+      "original_text": "בשמורת איריס ירוחם , ראו אלבום בקישור ",
+      "locations": [
+        {
+          "location_name": "שמורת איריס ירוחם",
+          "flowers": [
+            "סיתוונית הנגב"
+          ],
+             "maps_query_location": "Iris Yeruham Reserve"
+        }
+      ]
+    },
+    {
+      "date": "10/01/2018",
+      "observer": "אנסטסיה סם",
+      "original_text": "מלא רקפות",
+       "locations": [
+        {
+          "location_name": "יער בן שמן",
+            "flowers": [
+            "רקפת"
+          ],
+             "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2018",
+      "observer": null,
+      "original_text": "סיתוונית טוביה בשיא , בצלציה א\"י ",
+      "locations": [
+        {
+          "location_name": "מישור אדומים",
+           "flowers": [
+            "סתוונית טוביה",
+             "בצלציה"
+          ],
+          "maps_query_location":"Mishor Adummim"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2018",
+       "observer": null,
+      "original_text": "תלתן תריסני, לוטוס מצוי, קרדה מכסיפה רומוליאה צידונית, שמשון  ועוד ",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+           "flowers": [
+            "תלתן תריסני",
+            "לוטוס מצוי",
+            "קרדה מכסיפה",
+             "רומוליאה צידונית",
+             "שמשון"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+        {
+      "date": "08/01/2018",
+      "observer": null,
+       "original_text": "שמורת לימן : אזוביון דגול שמשונית הטיפין,  לשון-אפעה קטנה מרסיה יפהפיה נחל-בצת: רב-רגל פשוט, שרכרך הסלעים, שרכרך ריחני חירבת-עירב על יד ערב-אל-ערמשה: רומוליאה סגלולית אשחר מנוקד גשר הזיו: סינפיטון א\", כרוב החוף, מקור -חסידה מפוצל , מקור-חסידה מצוי עין חרדלית : עשנן מטפס,  ציפורנית מגוונת , קחוון יווני ",
+       "locations": [
+         {
+          "location_name": "שמורת לימן",
+           "flowers": [
+            "אזוביון דגול",
+             "שמשונית הטיפין",
+              "לשון-אפעה קטנה",
+               "מרסיה יפהפיה"
+          ],
+            "maps_query_location": "Liman Reserve"
+        },
+          {
+          "location_name": "נחל בצת",
+            "flowers": [
+             "רב-רגל פשוט",
+            "שרכרך הסלעים",
+             "שרכרך ריחני"
+          ],
+           "maps_query_location":"Nahal Betzet"
+        },
+        {
+          "location_name":"חירבת עירב",
+            "flowers":[
+              "רומוליאה סגלולית",
+               "אשחר מנוקד"
+            ],
+            "maps_query_location":null
+         },
+        {
+         "location_name": "ערב אל ערמשה",
+         "flowers":[
+              "רומוליאה סגלולית",
+               "אשחר מנוקד"
+            ],
+         "maps_query_location":"Arab al-Aramshe"
+         },
+        {
+          "location_name": "גשר הזיו",
+           "flowers": [
+             "סינפיטון",
+            "כרוב החוף",
+             "מקור-חסידה מפוצל",
+              "מקור-חסידה מצוי"
+          ],
+           "maps_query_location": "Gesher HaZiv"
+        },
+         {
+          "location_name": "עין חרדלית",
+           "flowers": [
+            "עשנן מטפס",
+             "ציפורנית מגוונת",
+              "קחוון יווני"
+          ],
+           "maps_query_location":"Ein Hardalit"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2018",
+       "observer": "נעם",
+      "original_text": "כלניות לבנות וסגולות בנחל שגב",
+       "locations": [
+        {
+          "location_name": "משגב",
+          "flowers": [
+            "כלנית לבנה",
+             "כלנית סגולה"
+          ],
+             "maps_query_location": "Misgav"
+        },
+         {
+          "location_name": "נחל שגב",
+          "flowers": [
+            "כלנית לבנה",
+             "כלנית סגולה"
+          ],
+             "maps_query_location": "Nahal Segev"
+        }
+      ]
+    },
+    {
+      "date": "06/01/2018",
+      "observer": null,
+      "original_text": "פורחים: רומולאה צידונית, דבורנית שחומה, נזמית לבנה, כלניות, רקפות, כתמה עבת-שורשים, ציפורני-חתול מצויות, זמזומית מצויה, עירית גדולה, סביון אביבי, התחלתפריחה של בן-חצב החורש.",
+       "locations": [
+        {
+          "location_name": "הכרמל",
+            "flowers": [
+           "רומולאה צידונית",
+           "דבורנית שחומה",
+           "נזמית לבנה",
+            "כלנית",
+             "רקפת",
+              "כתמה עבת-שורשים",
+               "ציפורני-חתול מצויות",
+                "זמזומית מצויה",
+                 "עירית גדולה",
+                  "סביון אביבי",
+                   "בן-חצב החורש"
+          ],
+            "maps_query_location": "Carmel"
+        }
+      ]
+    }
+  ]
+}
+```

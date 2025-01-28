@@ -1,0 +1,186 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/11/2022",
+      "observer": "עמרם בר-יעקב",
+      "original_text": "הרבה מאד סיתוונית על התבור. ריכוז יוצא דופן יש באחד העיקולים בעליה",
+      "locations": [
+        {
+          "location_name": "תבור",
+           "flowers": ["סתוונית"] ,
+          "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2022",
+      "observer": "מיכאל פינטו",
+      "original_text": "חלמוניות גדולה בחניון החלמוניות בלהבים כרגע באמצע הפריחה יש פריחה בקירבת הרכב",
+      "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": ["חלמונית גדולה"] ,
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+     {
+      "date": "08/11/2022",
+      "observer": null,
+      "original_text": "בשביל החלמוניות",
+       "locations": [
+         {
+            "location_name": "תבור",
+            "flowers": ["חלמונית"] ,
+           "maps_query_location": "Mount Tabor"
+         }
+       ]
+    },
+    {
+      "date": "07/11/2022",
+      "observer": "עמיר פז",
+      "original_text": "נרקיס סתווי התחיל לפרוח בגן",
+      "locations": [
+        {
+          "location_name": "גן",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "06/11/2022",
+      "observer": "דורון אור",
+      "original_text": " 6 נובמבר 2022,  פריחה ראשונה של נרקיס סתווי ביער כ''ח, לאורך נחל נחשונים (2 פרטים, 4 פרחים)",
+      "locations": [
+        {
+          "location_name": "יער כ''ח",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Nakhshonim Forest"
+        },
+        {
+           "location_name": "נחל נחשונים",
+           "flowers": ["נרקיס סתווי"],
+            "maps_query_location": "Nekhashim River"
+        }
+      ]
+    },
+    {
+      "date": "06/11/2022",
+       "observer": null,
+      "original_text": "בשמרת נחל סנסן",
+      "locations": [
+        {
+          "location_name": "שמורת נחל סנסן",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Nahal Sansan Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "06/11/2022",
+       "observer": null,
+      "original_text": "אגס סורי (פרי) בחזקה\nאספלון הנקיקים במצפה שלגים\nאשחר הלבנון במצפש\nברזיליון  במצפה שלגים\nחלמונית גדולה בחזקה\nחלמונית גדולה במצפש\nחלמונית גדולה\nכרכום נאה בירידה לעמק מן\nכרכום נאה במצפה שלגים\nסיתוונית התשבץ בבנטל\nסיתוונית התשבץ בחזקה 1\nסיתוונית התשבץ במאגר בנטל\nעלקת כפופת חפים במצפה שלגים\nפעמונית הצלצל במצפש\nפרגה קרחת במצפה שלגים\nקיצנית קרירה במצפה שלגים",
+      "locations": [
+        {
+          "location_name": "חזקה",
+           "flowers": ["אגס סורי", "חלמונית גדולה","סתוונית התשבץ"] ,
+          "maps_query_location": "Hazeka"
+        },
+         {
+          "location_name": "מצפה שלגים",
+           "flowers": ["אספלון הנקיקים", "ברזיליון","כרכום נאה","עלקת כפופת חפים", "פרגה קרחת","קיצנית קרירה"] ,
+           "maps_query_location": "Mitzpe Shlagim"
+         },
+        {
+           "location_name": "מצפש",
+           "flowers": ["אשחר הלבנון","חלמונית גדולה","פעמונית הצלצל"],
+           "maps_query_location": null
+         },
+        {
+           "location_name": "ירידה לעמק מן",
+            "flowers": ["כרכום נאה"],
+            "maps_query_location": null
+         },
+        {
+          "location_name": "בנטל",
+          "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Mount Bental"
+        },
+         {
+          "location_name": "מאגר בנטל",
+          "flowers": ["סתוונית התשבץ"],
+           "maps_query_location": "Bental Reservoir"
+        }
+      ]
+    },
+    {
+       "date": "06/11/2022",
+        "observer": null,
+       "original_text": "צומת דליות\nאחילוף החורן , בן-חצב סתווני,  דוגון ירושלמי , \nאחו נב:\nטיון חריף , סתוונית ירושלים , עפעפית עגולת -עלים,  צנינה קוצנית (יבש) \nמאגר בוטמיה\nקוצן פשוט.  קרנן טבוע  , ערברבה שעירה , עדשת-מים זעירה , נהרונית צפה , כף-אווז אדומה , גומא ריחני , ברוניקת המים , ארכובית צמירה",
+      "locations": [
+        {
+          "location_name": "צומת דליות",
+           "flowers": ["אחילוף החורן", "בן-חצב סתווני", "דוגון ירושלמי"] ,
+          "maps_query_location": "Daliyyot Junction"
+        },
+          {
+          "location_name": "אחו נב",
+           "flowers": ["טיון חריף", "סתוונית ירושלים", "עפעפית עגולת -עלים", "צנינה קוצנית"] ,
+           "maps_query_location": null
+        },
+        {
+          "location_name": "מאגר בוטמיה",
+           "flowers": ["קוצן פשוט", "קרנן טבוע", "ערברבה שעירה", "עדשת-מים זעירה", "נהרונית צפה", "כף-אווז אדומה", "גומא ריחני", "ברוניקת המים", "ארכובית צמירה"],
+          "maps_query_location": "Butmiya Reservoir"
+        }
+      ]
+    },
+     {
+      "date": "05/11/2022",
+       "observer": null,
+      "original_text": "גדלה בכרמל, בגני הנדיב, בחירבת חנות ועוד",
+       "locations": [
+        {
+          "location_name": "כרמל",
+           "flowers": ["רקפת סתווית"],
+          "maps_query_location": "Carmel"
+        },
+         {
+          "location_name": "גני הנדיב",
+           "flowers": ["רקפת סתווית"],
+          "maps_query_location": "Ramat Hanadiv"
+        },
+         {
+           "location_name": "חירבת חנות",
+           "flowers": ["רקפת סתווית"],
+           "maps_query_location": "Khirbet Hanut"
+         }
+       ]
+    },
+    {
+      "date": "05/11/2022",
+      "observer": null,
+      "original_text": "חלמוניות וסתווניות בשמורת סנסן, רקפות ונרקיסים בחרבת חנות, וסתוונית ירושלים במאר-אליאס.",
+      "locations": [
+        {
+          "location_name": "שמורת סנסן",
+          "flowers": ["חלמונית", "סתוונית"],
+          "maps_query_location": "Nahal Sansan Nature Reserve"
+        },
+        {
+          "location_name": "חרבת חנות",
+           "flowers": ["רקפת","נרקיס"],
+          "maps_query_location": "Khirbet Hanut"
+        },
+        {
+          "location_name": "מאר-אליאס",
+          "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Mar Elias"
+        }
+      ]
+    }
+  ]
+}
+```

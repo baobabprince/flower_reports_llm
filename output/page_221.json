@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/12/2020",
+      "observer": "יחזקאל רבינוביץ",
+      "original_text": "המוני נרקיסים בסביבות הר חלוץ ובפסגה",
+      "locations": [
+        {
+          "location_name": "הר חלוץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Har Halutz"
+        },
+         {
+          "location_name": "פסגה",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "פסגה"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2020",
+      "observer": "יעקב מחלב",
+      "original_text": "פריחת רקפות, נרקיסים סתווניות היום 5.12.20 ביער הקדושים ליד מערת בני ברית.",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+           "flowers": ["רקפת", "נרקיס", "סתוונית"],
+          "maps_query_location": "Ya'ar HaKdoshim"
+        },
+        {
+          "location_name": "מערת בני ברית",
+           "flowers": ["רקפת", "נרקיס", "סתוונית"],
+          "maps_query_location": "Me'arat Bnei Brit"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2020",
+      "observer": "מיקי גוטמן",
+      "original_text": "פריחה יפה של נרקיסים ורקפות באזור מצפה מורן (מגיעים מבנימינה בשוליים הדרומיים של רמת הנדיב)",
+      "locations": [
+        {
+           "location_name": "מצפה מורן",
+          "flowers": ["נרקיס", "רקפת"],
+          "maps_query_location": "Mitzpe Moran"
+        },
+        {
+          "location_name": "רמת הנדיב",
+          "flowers": ["נרקיס", "רקפת"],
+           "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2020",
+      "observer": "אלינור רום",
+       "original_text": "ביער נחשונים המקסים מקבצי נרקיסים וסיתווניות ובשורות של המוני רקפות שעוד מעט יופיעו.\nהנחל גם זורם, מאוד מאוד יפה שם.",
+      "locations": [
+        {
+          "location_name": "יער נחשונים",
+          "flowers": ["נרקיס", "סתוונית", "רקפת"],
+           "maps_query_location": "Ya'ar Nakhshonim"
+        }
+      ]
+    },
+    {
+      "date": "05/12/2020",
+      "observer": "יוסי א.",
+      "original_text": "בשביל שמקיף את חירבת סעדים מצפון  כרכום חורפי.",
+       "locations": [
+        {
+          "location_name": "חירבת סעדים",
+          "flowers": ["כרכום חורפי"],
+           "maps_query_location": "Khirbet Sa'adim"
+         }
+      ]
+    },
+    {
+      "date": "04/12/2020",
+      "observer": "נדב זק",
+      "original_text": "בצד המזרחי של כביש מס 2. כביש החוף מצפון למעגן מיכאל פורחים עכשיו המוני נרקיסים סתויים",
+      "locations": [
+        {
+          "location_name": "כביש מס 2",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Kvish 2"
+         },
+         {
+           "location_name": "כביש החוף",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Kvish Hahof"
+         },
+         {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["נרקיס סתווי"],
+          "maps_query_location": "Ma'agan Mikha'el"
+         }
+      ]
+    },
+   {
+      "date": "03/12/2020",
+      "observer": null,
+      "original_text": "עם מטיילי יום ד'",
+      "locations": [
+       {
+        "location_name": "בקעת ים המלח",
+          "flowers": [],
+          "maps_query_location": "Bik'at Yam HaMelah"
+        }
+      ]
+    },
+    {
+      "date": "03/12/2020",
+      "observer": "דליה קדרון",
+       "original_text": "נרקיסים וכרכומים בהמוניהם\nהר סנה",
+      "locations": [
+        {
+          "location_name": "הר סנה",
+          "flowers": ["נרקיס", "כרכום"],
+           "maps_query_location": "Har Sene"
+        }
+      ]
+    },
+   {
+      "date": "03/12/2020",
+       "observer": "קפלינסקי יפה",
+      "original_text": "חלמוניות וכרכומים במבוא חמה",
+       "locations": [
+        {
+          "location_name": "מבוא חמה",
+          "flowers": ["חלמונית", "כרכום"],
+           "maps_query_location": "Mevo Hama"
+        }
+      ]
+    },
+    {
+      "date": "01/12/2020",
+      "observer": "ד\"ר ענת אביטל",
+      "original_text": "פריחת נרקיסים על שביל ישראל במרכז יער בן שמן",
+      "locations": [
+        {
+           "location_name": "יער בן שמן",
+           "flowers": ["נרקיס"],
+          "maps_query_location": "Ya'ar Ben Shemen"
+        }
+      ]
+    }
+  ]
+}
+```

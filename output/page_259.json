@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "03/03/2020",
+      "observer": null,
+      "original_text": "איריס הביצות בשיא, רומליאה סגלולית בהמוניה, כלניות גם בצבעים מיוחדים  , עיריוני  צהוב  תחילת פריחה",
+      "locations": [
+        {
+          "location_name": "אחו נב",
+          "flowers": [
+            "איריס הביצות",
+            "רומוליאה סגלולית",
+            "כלנית",
+             "עירית צהובה"
+          ],
+          "maps_query_location": "Nahal Nev"
+        }
+      ]
+    },
+    {
+      "date": "03/03/2020",
+      "observer": "רון",
+      "original_text": "ברכס הכורכר ליד בריכות הדגים של מעגן מיכאל: רקפות, כלניות, נוריות, צבעונים, תורמוסים",
+       "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "רקפת",
+            "כלנית",
+            "נורית",
+            "צבעוני",
+            "תורמוס"
+           ],
+          "maps_query_location": "Ma'agan Mikha'el"
+         }
+      ]
+    },
+    {
+      "date": "02/03/2020",
+      "observer": null,
+      "original_text": "מקבץ אירוסים ושדה תורמוסים בחמדת.ליד המצפור בצפון הישוב.",
+       "locations": [
+        {
+          "location_name": "חמדת",
+           "flowers": [
+            "אירוס",
+            "תורמוס"
+          ],
+          "maps_query_location": "Hamdat"
+        }
+      ]
+    },
+    {
+      "date": "02/03/2020",
+      "observer": "אופיר פורשט",
+      "original_text": "קבוצות קטנות/בינוניות של אירוס הארגמן בחוות הגמלים בנגב ממשית( ליד דימונה) בשביל שפונה מערבה ליד החניה של החווה. יש שפע פריחה אחרת באיזור",
+       "locations": [
+        {
+          "location_name": "חוות הגמלים",
+          "flowers": [
+            "אירוס הארגמן"
+          ],
+            "maps_query_location":"Camel Farm Negev"
+         },
+        {
+           "location_name":"ממשית",
+           "flowers": [
+             "אירוס הארגמן"
+           ],
+            "maps_query_location":"Mamshit"
+        },
+         {
+           "location_name": "דימונה",
+           "flowers": [
+             "אירוס הארגמן"
+           ],
+            "maps_query_location":"Dimona"
+         }
+      ]
+    },
+    {
+      "date": "02/03/2020",
+      "observer": "איתמר",
+      "original_text": "פריחה עשירה וססגונית של צבעונים, סחלבים ואחרים בשמורת חוף הבונים",
+       "locations": [
+        {
+          "location_name": "שמורת חוף הבונים",
+          "flowers": [
+            "צבעוני",
+            "סחלב"
+          ],
+          "maps_query_location": "Hof HaBonim Nature Reserve"
+        }
+      ]
+    },
+     {
+      "date": "01/03/2020",
+       "observer": null,
+      "original_text": "בנחל תבור פורחים מרבדים עצומים דל תורמוסים .",
+       "locations": [
+        {
+          "location_name": "נחל תבור",
+           "flowers": [
+            "תורמוס"
+          ],
+          "maps_query_location": "Nahal Tavor"
+        }
+      ]
+    },
+    {
+      "date": "01/03/2020",
+      "observer": "יעקב גרזון",
+      "original_text": "פריחות נדירות ראו בקישור כפי שצילם יעקב גרזון",
+       "locations": [
+         {
+           "location_name": "נתיה הל\"ה",
+            "flowers": [
+              null
+            ],
+            "maps_query_location": "Netia HaLamed-He"
+         }
+      ]
+    },
+    {
+     "date": "01/03/2020",
+      "observer": null,
+      "original_text": "כבר פורחים הצבעונים על רקע הים \nהיכנסו מכיוון הבונים",
+      "locations": [
+        {
+          "location_name": "שמורת דור הבונים",
+          "flowers": [
+            "צבעוני"
+          ],
+          "maps_query_location": "Dor Habonim Beach"
+        },
+         {
+           "location_name": "הבונים",
+           "flowers": [
+             "צבעוני"
+           ],
+            "maps_query_location": "HaBonim"
+         }
+       ]
+    },
+    {
+      "date": "28/02/2020",
+      "observer": "מהרש\"ק שרי",
+      "original_text": "פריחה נפלאה בגני הנדיב אלפי רקפות יפות כלניות ובפינה אחת גם אירוס.שווה ביקור גם צמחית הטבע וגם הגינון המוקפד שם נפלא.",
+       "locations": [
+        {
+          "location_name": "גני הנדיב",
+          "flowers": [
+            "רקפת",
+            "כלנית",
+            "אירוס"
+          ],
+          "maps_query_location": "Ramat Hanadiv"
+        }
+      ]
+    },
+     {
+      "date": "28/02/2020",
+      "observer": null,
+       "original_text": "בלוטנית  בפריחה יפה, כוכב ריחני \nשלח הערבה , קחוון ים המלח",
+      "locations": [
+        {
+          "location_name": "חירבת מזין",
+          "flowers": [
+            "בלוטנית",
+            "כוכב ריחני",
+            "שלח הערבה",
+              "קחוון ים המלח"
+          ],
+          "maps_query_location": "Khirbet Mazin"
+         }
+      ]
+    }
+  ]
+}
+```

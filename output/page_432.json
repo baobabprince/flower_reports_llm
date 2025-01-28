@@ -1,0 +1,181 @@
+```json
+{
+  "reports": [
+    {
+      "date": "16/02/2017",
+      "observer": null,
+      "original_text": "בדיונות בין פרדס חנה לקיסריה",
+      "locations": [
+        {
+          "location_name": "פרדס חנה",
+          "flowers": ["רותם המדבר"],
+           "maps_query_location": "Pardes Hanna-Karkur"
+        },
+        {
+          "location_name": "קיסריה",
+          "flowers": ["רותם המדבר"],
+          "maps_query_location": "Caesarea"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2017",
+      "observer": "גיורא פנחסי",
+       "original_text": "באילנות, בגבעת חומרה, בגבעת אולגה, בשלולית דורה ועוד",
+      "locations": [
+        {
+          "location_name": "אילנות",
+          "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Ilanot"
+        },
+        {
+          "location_name": "גבעת חומרה",
+           "flowers": ["איריס הארגמן"],
+          "maps_query_location": "Giv'at Khomra"
+        },
+         {
+          "location_name": "גבעת אולגה",
+          "flowers": ["איריס הארגמן"],
+          "maps_query_location":"Giv'at Olga"
+        },
+         {
+          "location_name": "שלולית דורה",
+          "flowers": ["איריס הארגמן"],
+           "maps_query_location": "Dora Pool"
+        }
+      ]
+    },
+    {
+      "date": "16/02/2017",
+      "observer": "שרון בן-צור",
+       "original_text": "במעגן מיכאל וזו רק ההתחלה",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": ["צבעוני"],
+          "maps_query_location":"Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "15/02/2017",
+      "observer": "דרור בר-ניר",
+       "original_text":"כלנית מצויה, דודא רפואי, אטד אירופי, איריס ארץ-ישראלי, צפורנית מצרית, צפורני חתול, כתמה עבת שורשים, מקורי חסידה, חלבלוב השמש",
+      "locations": [
+         {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית מצויה", "דודא רפואי", "אטד אירופי", "איריס ארץ-ישראלי", "צפורנית מצרית", "צפורני חתול", "כתמה עבת שורשים", "מקורי חסידה", "חלבלוב השמש"],
+          "maps_query_location": "Tel Beit Shemesh"
+        }
+      ]
+    },
+   {
+      "date": "15/02/2017",
+      "observer": "דרור בר-ניר",
+        "original_text":"מלבדם פורחים - ילקוט הרועים, זלזלת הקנוקנות, סביון אביבי, צפורנית מצרית, עשנן, רקפת מצויה, כלנית מצויה, עירית גדולה, חרדל לבן, צחנן מבאיש",
+      "locations": [
+        {
+          "location_name": "עמק האלה",
+          "flowers": ["תורמוס", "ילקוט הרועים", "זלזלת הקנוקנות", "סביון אביבי", "צפורנית מצרית", "עשנן", "רקפת מצויה", "כלנית מצויה", "עירית גדולה", "חרדל לבן", "צחנן מבאיש"],
+           "maps_query_location":"Elah Valley"
+         }
+      ]
+    },
+    {
+      "date": "15/02/2017",
+      "observer": null,
+       "original_text":"איריס הארגמן,  סחלב השקיק- כמויות, מקור חסידה תמים, כלניות, רותם המדבר, שקדיות, ואזוביון דגול מתכונן לפרוח",
+      "locations": [
+        {
+          "location_name": "חולות נס ציונה",
+           "flowers": ["איריס הארגמן", "סחלב השקיק", "מקור חסידה תמים", "כלנית", "רותם המדבר", "שקד מצוי", "אזוביון דגול"],
+            "maps_query_location":"Nes Ziona"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2017",
+      "observer": "דרור בר-ניר",
+       "original_text": "שקד מצוי, עירית גדולה, איריס ארץ ישראלי, רקפת מצויה, כלנית מצויה, מגלית מצרית, דודא רפואי, כתמה עבת-שורשים, נזמית לופתת, זלזלת הקנוקנות, מקורי חסידה, צפורנית מצרית, ילקוט הרועים, מתנן שעיר, שמשון הדור, טוריים זיפניים, לשון-פר מצרית, לופית מצויה, זהבית דמשקאית",
+      "locations": [
+        {
+          "location_name": "שמורת גבעות גד",
+          "flowers": ["שקד מצוי", "עירית גדולה", "איריס ארץ ישראלי", "רקפת מצויה", "כלנית מצויה", "מגלית מצרית", "דודא רפואי", "כתמה עבת-שורשים", "נזמית לופתת", "זלזלת הקנוקנות", "מקורי חסידה", "צפורנית מצרית", "ילקוט הרועים", "מתנן שעיר", "שמשון הדור", "טוריים זיפניים", "לשון-פר מצרית", "לופית מצויה", "זהבית דמשקאית"],
+          "maps_query_location":"Givat Gad Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "14/02/2017",
+      "observer": "גד נבו",
+       "original_text":"מרבדי רקפות שממש \" מתפרעות\" בחופש שניתן להם לגדול איך ולאן שרוצות , בשמורת גבעת עדה ( בסוף רחוב האלון",
+      "locations": [
+        {
+          "location_name": "שמורת גבעת עדה",
+          "flowers": ["רקפת מצויה"],
+          "maps_query_location": "Giv'at Ada"
+        }
+      ]
+    },
+   {
+      "date": "13/02/2017",
+      "observer": null,
+      "original_text":"בהרי ירושלים, צובא, סטף ועוד , כנ\"ל בחבל עדולם , ובכביש 1 מדרום למחלף כפר דניאל",
+      "locations": [
+        {
+          "location_name": "הרי ירושלים",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Jerusalem Mountains"
+        },
+        {
+          "location_name": "צובא",
+          "flowers": ["שקד מצוי"],
+           "maps_query_location": "Tzuba"
+        },
+        {
+          "location_name": "סטף",
+           "flowers": ["שקד מצוי"],
+          "maps_query_location": "Staf"
+        },
+         {
+          "location_name": "חבל עדולם",
+           "flowers": ["שקד מצוי"],
+           "maps_query_location": "Adullam Region"
+        },
+         {
+           "location_name": "כביש 1",
+           "flowers": ["שקד מצוי"],
+           "maps_query_location": null
+          },
+         {
+          "location_name": "מחלף כפר דניאל",
+           "flowers": ["שקד מצוי"],
+            "maps_query_location": "Kfar Daniel Interchange"
+        }
+      ]
+    },
+    {
+       "date": "13/02/2017",
+       "observer": null,
+       "original_text": "ליד מושב ישעי במדרון צפוני פריחה צפופה של כלניות אדומות, גם בתל בית שמש פריחה יפה של כלניות אדומות , בתל מצפון לפארקהקופים המוני כלניות",
+      "locations": [
+        {
+          "location_name": "מושב ישעי",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location":"Moshav Yesha'ay"
+        },
+        {
+          "location_name": "תל בית שמש",
+          "flowers": ["כלנית אדומה"],
+          "maps_query_location":"Tel Beit Shemesh"
+        },
+         {
+          "location_name": "פארק הקופים",
+           "flowers": ["כלנית"],
+           "maps_query_location":"Monkey Park"
+        }
+      ]
+    }
+  ]
+}
+```

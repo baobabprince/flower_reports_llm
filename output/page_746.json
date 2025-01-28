@@ -1,0 +1,200 @@
+```json
+{
+  "reports": [
+    {
+      "date": "21/02/2010",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "אחד הפרחים היפים פורח\nהצבעוני הססגוני, הזמן קצר עכשיו זה הזמן, ובנוסף באתר פורחים זמזומית אייג, ערטנית השדות, שמשון הדור בכל הגונים שלו, לשון פר סמורה, קרקש צהוב, צבעוני ההרים ( האדום), מעוג אפיל, וניצני עלים של בוצין סיני כבר מבצבצים.",
+      "locations": [
+        {
+          "location_name": "הר הנגב בורות לוץ",
+          "flowers": [
+            "Tulipa agenensis",
+            "Erodium cicutarium",
+             "Helianthemum stipulatum",
+            "Echium judaeum",
+            "Carthamus tenuis",
+            "Tulipa montana",
+            "Anagallis arvensis",
+             "Verbascum sinuatum"
+           ],
+           "maps_query_location": "Har HaNegev Borot Lutz"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2010",
+      "observer": "אלי ליבנה - ELV",
+      "original_text": "שמורת פורה פורחת\nבראש ובראשונה וינקה עשבונית, פורחת בכמה מקומות ליד השבילים המסומנים , צמר מפוצל, עירית גדולה דודא רפואי ערטנית השדות לשון פר סמורה וכמובן כלניות נוריות ושמשון הדור.",
+      "locations": [
+        {
+          "location_name": "שמורת פורה",
+           "flowers": [
+            "Vinca herbacea",
+            "Centaurea hyalolepis",
+            "Asphodelus aestivus",
+            "Mandragora autumnalis",
+            "Erodium cicutarium",
+             "Echium judaeum",
+            "Anemone coronaria",
+            "Ranunculus asiaticus",
+              "Helianthemum stipulatum"
+           ],
+           "maps_query_location": "Shmurat Pura"
+        }
+      ]
+    },
+    {
+       "date": "21/02/2010",
+       "observer": "עדו שפירא",
+       "original_text": "סחלב גלילי (פרטים רבים) וצבעוני (מעט פרטים) פורחים בהר דבורה. דבורנית הקטיפה פורחת בנחל ברק. גביעונית הלבנון (בשיא פריחה) פורחת לצד שביל עוקף פסגת התבור בצדו הצפוני.",
+      "locations": [
+        {
+          "location_name": "הר דבורה",
+          "flowers": [
+            "Ophrys galilaea",
+            "Tulipa agenensis"
+          ],
+           "maps_query_location": "Har Dvora"
+         },
+        {
+          "location_name": "נחל ברק",
+           "flowers": [
+            "Ophrys umbrosa"
+          ],
+          "maps_query_location": "Nahal Barak"
+        },
+         {
+          "location_name": "פסגת התבור",
+          "flowers": [
+           "Gagea libanotica"
+          ],
+          "maps_query_location": "Pigat HaTavor"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2010",
+      "observer": "שרה סלפק",
+      "original_text": "פורחים עכשיו כלניות,נורית אסיה,צבעוני ההרים,דמומיות,פרג זיפני,טופח מעורק,בן חרדל מצוי,צנון פגיוני,כפיות שעירות,מרוה דגולה,מרוה ריחנית,דמומית משוננת,חבלבל עדין,צמר מפוצל,סחלב פרפרני,שום שעיר,שום ארדל,צמרורת בואסיה,צהרון מצוי,מנתור מחוספס,והכל בשפע",
+      "locations": [
+        {
+          "location_name": "מדבר שומרון-שמורת פצאל",
+           "flowers": [
+           "Anemone coronaria",
+            "Ranunculus asiaticus",
+            "Tulipa montana",
+            "Papaver rhoeas",
+             "Papaver setigerum",
+             "Silybum marianum",
+            "Sinapis arvensis",
+            "Raphanus raphanistrum",
+            "Reseda aucheri",
+            "Salvia grandiflora",
+             "Salvia dominica",
+            "Papaver hybridum",
+             "Convolvulus arvensis",
+             "Centaurea hyalolepis",
+             "Orchis papilionacea",
+             "Allium subhirsutum",
+            "Allium stamineum",
+            "Galium spurium",
+            "Adonis palaestina",
+             "Mentha longifolia"
+           ],
+          "maps_query_location": "Midbar Shomron Shmurat Petzael"
+        }
+      ]
+    },
+    {
+      "date": "21/02/2010",
+      "observer": "אביה כהן",
+      "original_text": "שמח לדווח לכם על מרבד יפה של כלניות, ממנו יש תצפית מדהימה על כל ירושלים. דרום מזרחית לגן \"אורסון הייד\". 100 מ' בעלייה מכנסיית גת שמנים משמאל לכביש.",
+      "locations": [
+         {
+          "location_name": "הר הזיתים",
+           "flowers": [
+            "Anemone coronaria"
+          ],
+           "maps_query_location": "Har HaZeitim"
+         }
+      ]
+    },
+     {
+      "date": "21/02/2010",
+       "observer": null,
+       "original_text":"גרגרנית משובלת -פרח, חלוק שעיר - הכל , לוענית מצויה, רכפב צהובה, אשל הירדן, קנה סוכר גבוה - תודה לשולחים אנא שילחו למייל האתר",
+      "locations": [
+        {
+           "location_name": null,
+           "flowers": [
+             "Erucaria hispanica",
+              "Malva nicaeensis",
+            "Antirrhinum majus",
+            "Reseda lutea",
+             "Tamarix jordanis",
+             "Saccharum officinarum"
+             ],
+            "maps_query_location": null
+        }
+      ]
+    },
+   {
+      "date": "21/02/2010",
+      "observer": null,
+      "original_text": "והפריחה  המגוונת בגלבוע , בקישור המצורף",
+      "locations": [
+        {
+          "location_name": "הגלבוע",
+          "flowers": [],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+       "date": "20/02/2010",
+       "observer": null,
+       "original_text":"אירוס הגלבוע כבר פורח בכמה וכמה מאתריו המסורתיים אבל גם באחרים בגלבוע כולל גוש אחד אלבינו חלקית.",
+      "locations": [
+        {
+          "location_name": "הגלבוע",
+          "flowers": [
+             "Iris haynei"
+            ],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+     {
+      "date": "19/02/2010",
+      "observer": null,
+      "original_text": "היינו וראינו התל פורח וכחלחל מרוב תורמוסים",
+      "locations": [
+        {
+           "location_name": "תל סכה",
+           "flowers": [
+            "Lupinus"
+            ],
+           "maps_query_location": "Tel Suka"
+         }
+      ]
+    },
+    {
+      "date": "18/02/2010",
+      "observer": "עדו שפירא",
+      "original_text": "פריחת שיא של סחלב מצוייר ראינו בהר שזור. וגם כלניות סגולות בכמות מרשימה. עדיין אפשר לראות רקפת יוונית פורחת",
+      "locations": [
+        {
+          "location_name": "הר שזור",
+          "flowers": [
+            "Orchis picta",
+             "Anemone coronaria",
+            "Cyclamen graecum"
+          ],
+           "maps_query_location": "Har Shazor"
+        }
+      ]
+    }
+  ]
+}
+```

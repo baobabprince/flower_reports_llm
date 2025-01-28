@@ -1,0 +1,166 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/10/2012",
+      "observer": null,
+      "original_text": "עשרות פרטים כבר פורחים על גבעות הכורכר שסביב מעגן מיכאל וגם בחורבת מלח שמצפון לאור עקיבא.",
+      "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": ["נרקיס אפיל"],
+           "maps_query_location": "Ma'agan Mikhael"
+        },
+        {
+          "location_name": "חורבת מלח",
+          "flowers": ["נרקיס אפיל"],
+           "maps_query_location": "Khurvat Melakh"
+        },
+         {
+          "location_name": "אור עקיבא",
+           "flowers": ["נרקיס אפיל"],
+          "maps_query_location": "Or Akiva"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2012",
+      "observer": "שמיל קליין",
+      "original_text": "אחילוף החורן החל לפרוח ברוג'ום אל הירי, סתוונית ירושלים באחו נוב, ובין חספין לנוב",
+      "locations": [
+        {
+          "location_name": "רוג'ום אל הירי",
+          "flowers": ["אחילוף החורן"],
+           "maps_query_location": "Rujum el-Hiri"
+        },
+        {
+          "location_name": "אחו נוב",
+          "flowers": ["סתוונית ירושלים"],
+           "maps_query_location": "Ahun Nov"
+        },
+          {
+          "location_name": "חספין",
+           "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Hispin"
+        },
+         {
+          "location_name": "נוב",
+           "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Nov"
+        }
+      ]
+    },
+    {
+      "date": "28/10/2012",
+      "observer": null,
+      "original_text": "הצבוהות הגיעו לדרום- זה הזמן לבקר בירוחם ובשמורת החלמוניות",
+       "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Yeroham"
+        },
+         {
+           "location_name": "שמורת החלמוניות",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Shmurat Halmoniyot"
+        }
+       ]
+    },
+    {
+      "date": "26/10/2012",
+      "observer": "בנצי דקל",
+      "original_text": "פריחה של חבצלת החוף המחלף לה גווארדיה לדרום",
+       "locations": [
+        {
+          "location_name": "מחלף לה גווארדיה",
+           "flowers": ["חבצלת החוף"],
+           "maps_query_location": "La Guardia Interchange"
+        }
+      ]
+    },
+    {
+       "date": "26/10/2012",
+      "observer": null,
+      "original_text": "כדן קטן פרחים,חלמונית גדולה וצהובה,סתוונית הקליפות,שום סתווי,בוציץ סוככני,כף צפרדע לחכית ועוד פורחים בגן",
+      "locations": [
+        {
+          "location_name": "גן בוטני געש",
+          "flowers": ["כדן קטן פרחים", "חלמונית", "סתוונית הקליפות", "שום סתווי", "בוציץ סוככני", "כף צפרדע לחכית"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2012",
+      "observer": null,
+       "original_text":"אכן הסתיו כבר כאן, בן חצב סתווני נצפה במסלול \"בר בהר\"-הר יעלה, סמוך לבר גיורא בעשרות פרטים מפוזרים. מצפים לחבריו הסתוויים.",
+      "locations": [
+          {
+          "location_name": "הר יעלה",
+           "flowers": ["בן חצב סתווני"],
+           "maps_query_location":"Har Ya'ala"
+        },
+         {
+          "location_name": "בר גיורא",
+          "flowers": ["בן חצב סתווני"],
+            "maps_query_location": "Bar Giora"
+        }
+      ]
+    },
+     {
+      "date": "25/10/2012",
+      "observer": null,
+      "original_text": "על פטירת האחיין - בטרם עת. המשפחה יושבת שבעה בקיבוץ ניר עציון, עד מוצאי שבת ומיום ראשון בביתו של דרור ברחוב יהודה הנשיא 47 דירה 12רמת אביב. \"מן השמיים תנוחמו\"",
+        "locations": [
+          {
+           "location_name": "ניר עציון",
+            "flowers": [],
+            "maps_query_location": "Nir Etzion"
+          },
+          {
+            "location_name": "רמת אביב",
+              "flowers": [],
+             "maps_query_location": "Ramat Aviv"
+         }
+       ]
+    },
+    {
+      "date": "24/10/2012",
+      "observer": null,
+      "original_text": "נרקיס סתווי פורח במסלעה בקיבוץ געש",
+       "locations": [
+        {
+          "location_name": "געש",
+          "flowers": ["נרקיס סתווי"],
+           "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "23/10/2012",
+       "observer": "גן בוטני , אילן טל",
+       "original_text": "גוש של סתוונית התשבץ ( יותר מ - 75 פרחים ) , משגע . וגם סתוונית בכירה + ירושלים + הקליפות , חלמונית גדולה + צהובה , כרכום השבכה , רקפת סתווית ועוד",
+      "locations": [
+        {
+          "location_name": "כפר יהושע",
+            "flowers": ["סתוונית התשבץ", "סתוונית בכירה", "סתוונית ירושלים", "סתוונית הקליפות", "חלמונית", "כרכום השבכה", "רקפת סתווית"],
+             "maps_query_location": "Kfar Yehoshua"
+        }
+      ]
+    },
+    {
+      "date": "21/10/2012",
+      "observer": "עדו שפירא",
+      "original_text": "פריחה ראשונה של רקפות חסרות עלים (בשלב הזה) בנחל קציון",
+      "locations": [
+        {
+          "location_name": "נחל קציון",
+          "flowers": ["רקפת"],
+           "maps_query_location": "Nahal Kaziv"
+        }
+      ]
+    }
+  ]
+}
+```

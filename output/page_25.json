@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "04/05/2024",
+      "observer": "רותי רן",
+      "original_text": "שיא פריחה בשני המקומות",
+       "locations": [
+        {
+          "location_name": "נחל כלח",
+          "flowers": ["שושן צחור"],
+           "maps_query_location": "Nahal Klah"
+        },
+         {
+          "location_name": "קרן ברתות",
+          "flowers": ["שושן צחור"],
+           "maps_query_location": "Keren Bartot"
+         }
+      ]
+    },
+    {
+      "date": "04/05/2024",
+      "observer": "הדר ניר-טל",
+      "original_text": "שיא הפריחה , תל זרור מתחת ומעט שמאלה מהדגל",
+      "locations": [
+        {
+          "location_name": "תל זרור",
+           "flowers": ["געדה פיקחת"],
+            "maps_query_location": "Tel Zaror"
+        }
+       ]
+    },
+    {
+      "date": "02/05/2024",
+      "observer": "שרה גולד",
+      "original_text": "ליד האלון הבודד בכרכור , שיא פריחה",
+      "locations": [
+        {
+          "location_name": "כרכור",
+          "flowers": ["געדה קיפחת"],
+           "maps_query_location": "Karkur"
+        }
+      ]
+    },
+     {
+      "date": "02/05/2024",
+      "observer": null,
+      "original_text": "בנחל כלח",
+       "locations": [
+        {
+          "location_name": "נחל כלח",
+          "flowers": ["שושן צחור"],
+          "maps_query_location": "Nahal Klah"
+        }
+       ]
+    },
+    {
+      "date": "01/05/2024",
+      "observer": null,
+        "original_text": "ערבז החוף וקיטה סוככנית פורחים במקום הקבוע בצד היער",
+     "locations": [
+       {
+          "location_name": "יער אילנות",
+         "flowers": ["ערבז החוף", "קיטה סוככנית"],
+         "maps_query_location": "Ilanot Forest"
+       }
+      ]
+    },
+    {
+      "date": "29/04/2024",
+      "observer": "רותי רן",
+       "original_text": "בחג ראשון בהר הילל בן חורש פרטים רבים פורחים, מעט שנקים. היום בכזיב מתחת לאבירים מספר פרטים של מישויה פעמונית ולא מעט לוע הארי",
+      "locations": [
+        {
+          "location_name": "הר הילל בן חורש",
+           "flowers": ["שנק"],
+           "maps_query_location": "Har Hilel Ben Horesh"
+        },
+        {
+         "location_name": "כזיב",
+          "flowers": ["מישויה פעמונית", "לוע הארי"],
+          "maps_query_location": "Kziv"
+        }
+      ]
+    },
+    {
+      "date": "29/04/2024",
+      "observer": null,
+       "original_text": "פורחת בשמורת תל יצחק",
+      "locations": [
+         {
+          "location_name": "שמורת תל יצחק",
+           "flowers": ["פשתה משולשת"],
+           "maps_query_location": "Tel Yitzhak Reserve"
+        }
+      ]
+    },
+     {
+      "date": "28/04/2024",
+      "observer": null,
+       "original_text": "ברזילון ענף, חסה כחולת פרחים, צלף קוצני, דרדר גדול פרחים, דרדר קרומי, צמרנית הסלעים, דושן שעיר, חבלבל שעיר, חבלבל השדה, חבלבל כפני, נפית כפופה, מעוג מנוקד, כוכב מצוי, גזר קיפח, אמיתה גדולה, גזיר מזיק , גזר מצוי, גזיר דק עלים ועוד",
+       "locations": [
+        {
+          "location_name": "יער בן שמן",
+           "flowers": ["ברזילון ענף", "חסה כחולת פרחים", "צלף קוצני", "דרדר גדול פרחים", "דרדר קרומי", "צמרנית הסלעים", "דושן שעיר", "חבלבל שעיר", "חבלבל השדה", "חבלבל כפני", "נפית כפופה", "מעוג מנוקד", "כוכב מצוי", "גזר קיפח", "אמיתה גדולה", "גזיר מזיק", "גזר מצוי", "גזיר דק עלים"],
+            "maps_query_location": "Ben Shemen Forest"
+         }
+        ]
+    },
+    {
+      "date": "25/04/2024",
+      "observer": "עידו מגן",
+      "original_text": "בדרך נוף דרומית גבעת יערים דבורניות גדולות לקראת השיא - כעשרה פרטים - נכון ליום שלישי 23.4. בהר הטייסים פרט בודד בכניסה למגרש החניה",
+       "locations": [
+       {
+          "location_name": "גבעת יערים",
+          "flowers": ["דבורנית גדולה"],
+          "maps_query_location": "Givat Ya'arim"
+        },
+       {
+          "location_name": "הר הטייסים",
+           "flowers": ["דבורנית גדולה"],
+           "maps_query_location": "Har Hatayasim"
+        }
+      ]
+    },
+    {
+      "date": "23/04/2024",
+      "observer": "כרמי קוראין",
+      "original_text": "נראו 3 פרטים בסוף הפריחה, באותו מקום שניצפו פרטים ב 21/4",
+      "locations": [
+        {
+          "location_name": "הר גמל",
+          "flowers": ["אירוס הדור"],
+          "maps_query_location": "Har Gaml"
+        }
+      ]
+    }
+  ]
+}
+```

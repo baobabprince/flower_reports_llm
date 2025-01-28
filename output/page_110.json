@@ -1,0 +1,258 @@
+```json
+{
+  "reports": [
+    {
+      "date": "24/10/2022",
+      "observer": null,
+      "original_text": "טיול בחרמון + השלמות גולן עם חוג מטיילי מייק . לא יאמן, בעונה הכי לא פורחת מצאנו כארבעים מינים פורחים. צבעי שלכת נהדרים ופירות הסתיו להשביע הרעב. הפירות שטעמנו: חבושית המטבעות ורד הכלב ורד דביק שזיף הדובדבן שזיף הדוב עוזרר קוצני עוזרר סיני רשימת הפורחים שמצאנו: כונדרילה סמרנית מררית סמורה קחוון דל אונות חסת השבטים שינן סורי זקן תיש צהוב דרדר מצוי קורטם מכחיל בן קוצן מאפיר קוסיניה חרמונית קיפודן קוצן קיפח אחישבת דל חרחבינה ירוקה קדד האורנים כרבולת מקרינה לוטוס מקרין ברזילון הלבנון קערורית סגולה נפית ציפורנית הלבנון ציפורן קטן פרחים פרגה קרחת דבקת הלבנון אליסון הסלעים חלבלוב מול הלבנון שלמון כוכבני חבלבל הלבנון ארכובית הארזים כרכום נאה כרכום חרמוני חלמונית גדולה  חסרף מזרחי חד אבקן ארוך פרח קיפודן קוצן קיפח סתוונית החרמון סתוונית ירושלים סתוונית התשבץ",
+      "locations": [
+        {
+          "location_name": "חרמון",
+          "flowers": [
+            "Chondrilla juncea",
+            "Sonchus asper",
+             "Anthemis palaestina",
+            "Lactuca orientalis",
+            "Taraxacum syriacum",
+            "Tragopogon buphthalmoides",
+            "Carthamus lanatus",
+           "Echinops polyceras",
+            "Cousinia hermonis",
+            "Echinops",
+            "Echinops",
+            "Paronychia argentea",
+           "Crupina crupinastrum",
+            "Astragalus pinetorum",
+           "Torilis nodosa",
+            "Lotus halophilus",
+            "Onobrychis cornuta",
+             "Campanula hierosolymitana",
+            "Nepeta",
+            "Dianthus libanotis",
+            "Dianthus micranthus",
+            "Onosma hispida",
+            "Aethionema libanoticum",
+            "Alyssum saxatile",
+            "Euphorbia antilibanotica",
+            "Solenanthus circinnatus",
+             "Convolvulus libanoticus",
+            "Polygonum cedrorum",
+            "Crocus cancellatus",
+            "Crocus hermoneus",
+            "Sternbergia clusiana",
+            "Serratula cerinthifolia",
+            "Monadenium grandiflorum",
+             "Echinops",
+            "Echinops",
+            "Colchicum hermoneum",
+            "Colchicum hierosolymitanum",
+            "Colchicum tschernjajewii"
+          ],
+           "maps_query_location": "Mount Hermon"
+        },
+         {
+           "location_name": "גולן",
+          "flowers": [
+            "Chondrilla juncea",
+            "Sonchus asper",
+             "Anthemis palaestina",
+            "Lactuca orientalis",
+            "Taraxacum syriacum",
+            "Tragopogon buphthalmoides",
+            "Carthamus lanatus",
+           "Echinops polyceras",
+            "Cousinia hermonis",
+            "Echinops",
+            "Echinops",
+            "Paronychia argentea",
+           "Crupina crupinastrum",
+            "Astragalus pinetorum",
+           "Torilis nodosa",
+            "Lotus halophilus",
+            "Onobrychis cornuta",
+             "Campanula hierosolymitana",
+            "Nepeta",
+            "Dianthus libanotis",
+            "Dianthus micranthus",
+            "Onosma hispida",
+            "Aethionema libanoticum",
+            "Alyssum saxatile",
+            "Euphorbia antilibanotica",
+            "Solenanthus circinnatus",
+             "Convolvulus libanoticus",
+            "Polygonum cedrorum",
+            "Crocus cancellatus",
+            "Crocus hermoneus",
+            "Sternbergia clusiana",
+            "Serratula cerinthifolia",
+            "Monadenium grandiflorum",
+            "Echinops",
+            "Echinops",
+            "Colchicum hermoneum",
+            "Colchicum hierosolymitanum",
+            "Colchicum tschernjajewii"
+          ],
+          "maps_query_location": "Golan Heights"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2022",
+      "observer": "אבנר ירון",
+      "original_text": "חלמוניות פורחות בשיאן, על הגדה הדרומית של הנאקב, שנשפך לנחל רביבים, דרומית לאגם ירוחם.",
+       "locations": [
+        {
+          "location_name": "נאקב",
+          "flowers": ["Sternbergia clusiana"],
+           "maps_query_location": "Naqab"
+        },
+        {
+          "location_name": "נחל רביבים",
+          "flowers": ["Sternbergia clusiana"],
+          "maps_query_location": "Nahal Revivim"
+        },
+         {
+          "location_name": "אגם ירוחם",
+         "flowers": ["Sternbergia clusiana"],
+         "maps_query_location":"Yeruham Lake"
+        }
+      ]
+    },
+    {
+      "date": "23/10/2022",
+       "observer": null,
+      "original_text": "ממשית: בן-חצב מדברי , חבצלת הנגב,  מלחית חומה , נואית קוצנית, בן-חצב מדברי , פיגמית מגובששת בורות לוץ: כרכום דמשקאי , בוצין סיני,   בהד 1 : סתוונית הקליפות,  קיפודן בלנש , מלחית אשונה, יפרוק המדבר",
+      "locations": [
+        {
+          "location_name": "ממשית",
+           "flowers": [
+            "Urginea maritima",
+             "Pancratium sickenbergeri",
+             "Atriplex halimus",
+             "Notobasis syriaca",
+             "Urginea maritima",
+            "Neatostema apulum"
+          ],
+           "maps_query_location":"Mamshit"
+        },
+        {
+          "location_name": "בורות לוץ",
+           "flowers": [
+            "Crocus damascenus",
+             "Verbascum sinuatum"
+          ],
+          "maps_query_location":"Borot Lotz"
+        },
+        {
+          "location_name": "בהד 1",
+           "flowers": [
+             "Colchicum stevenii",
+             "Echinops blancheanus",
+             "Suaeda aegyptiaca",
+            "Anvillea garcinii"
+          ],
+           "maps_query_location":"Bahad 1"
+        }
+      ]
+    },
+   {
+      "date": "22/10/2022",
+      "observer": "תמר",
+     "original_text": "סתוונית היורה: ראשונות פורחות בעמק המצלבה",
+      "locations": [
+        {
+          "location_name": "עמק המצלבה",
+          "flowers": [
+            "Colchicum"
+           ],
+            "maps_query_location": "Emek HaMatzleva"
+         }
+      ]
+    },
+    {
+      "date": "21/10/2022",
+       "observer": "זהר דולב",
+      "original_text": "החלה הפריחה של חלמונית גדולה בשביל הפסגה של הר מירון",
+       "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "Sternbergia clusiana"
+           ],
+            "maps_query_location":"Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "21/10/2022",
+      "observer": "אילת בר",
+      "original_text": "עשרות פרטים פורחים בגן המייסדים בגבעת עדה.",
+      "locations": [
+        {
+          "location_name": "גבעת עדה",
+          "flowers": [
+            "Urginea maritima"
+          ],
+           "maps_query_location":"Givat Ada"
+        }
+      ]
+    },
+    {
+      "date": "20/10/2022",
+       "observer": "אילת בר",
+      "original_text": "כ-20  פרטים לפחות פורחים ברכס הכורכר לאורך השביל במפנה הצפוני \"גבעת הצבעונים\" במעגן מיכאל.",
+      "locations": [
+        {
+           "location_name": "מעגן מיכאל",
+          "flowers": [
+            "Echium angustifolium"
+          ],
+          "maps_query_location":"Ma'agan Mikhael"
+        }
+      ]
+    },
+    {
+      "date": "16/10/2022",
+      "observer": "אורית זיו-פחט",
+      "original_text": "החלמוניות בירוחם החלו לפרוח. 16.10.22",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+            "flowers": [
+            "Sternbergia clusiana"
+          ],
+          "maps_query_location": "Yeruham"
+        }
+      ]
+    },
+    {
+      "date": "16/10/2022",
+      "observer": "תמר קאהן",
+      "original_text": "ראשונות וכנראה יחידות בינתים בעמק המצלבה",
+      "locations": [
+       {
+         "location_name": "עמק המצלבה",
+         "flowers": [
+           "Colchicum hierosolymitanum"
+            ],
+           "maps_query_location":"Emek HaMatzleva"
+       }
+      ]
+    },
+        {
+      "date": "16/10/2022",
+       "observer": "טירן צפריר",
+      "original_text":"ריכוז חלמוניות מרשים ביותר  מומלץ לאוהבי הפריחה המדברית",
+      "locations": [
+        {
+          "location_name": "תל בוקר",
+          "flowers": [
+            "Sternbergia clusiana"
+           ],
+          "maps_query_location":"Tel Boker"
+        }
+      ]
+    }
+  ]
+}
+```

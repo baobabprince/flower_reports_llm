@@ -1,0 +1,220 @@
+```json
+{
+  "reports": [
+    {
+      "date": "20/12/2010",
+      "observer": "עירית",
+      "original_text": "מאות סתווניות היורה ברמת אדמי בין שדה אילן והזורעים. פרטים בודדים של כרכום חורפי בנחל אדמי ועשרות פרטים לאורך כרם הזיתים שמעל לנחל.",
+      "locations": [
+        {
+          "location_name": "רמת אדמי",
+          "flowers": [
+            "סתוונית היורה"
+          ],
+          "maps_query_location": "Ramat Adami"
+        },
+         {
+          "location_name": "שדה אילן",
+          "flowers": [
+            "סתוונית היורה"
+          ],
+           "maps_query_location": "Sde Ilan"
+        },
+         {
+          "location_name": "הזורעים",
+          "flowers": [
+            "סתוונית היורה"
+          ],
+           "maps_query_location":"HaZor'im"
+        },
+         {
+          "location_name": "נחל אדמי",
+           "flowers": [
+            "כרכום חורפי"
+          ],
+          "maps_query_location": "Nahal Adami"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2010",
+      "observer": "זאב בן נון",
+      "original_text": "בתאריך 19/12/10 בהר תבור,ע\"י השלט של שביל החלמוניות,באזור הקרחת השרופה,בשטח הרבה מאות פרחים לפני השיא .",
+      "locations": [
+        {
+          "location_name": "הר תבור",
+           "flowers": [
+            "חלמונית"
+          ],
+           "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2010",
+      "observer": "שכי לוריא",
+      "original_text": "סוף סוף ,לאחר השהייה של כחודש  נטול גשם ,ואחרי 2 מנות גשם  שמלאו את הרמה במיים -התחלת פריחה ברמת דלתון :\nסתוונית קצרת עלים -עשרות מעטות של פרטים ,באתר הרגיל שלהן (אגן לח).\nכרכום חלמוני -עשרות רבות של פרטים באגנים לחים .\nכרכום גיארדו-עשרות עד מאות של פרטים בשולי הרמה בין טרשי הבזלת .",
+      "locations": [
+        {
+          "location_name": "רמת דלתון",
+          "flowers": [
+            "סתוונית קצרת עלים",
+            "כרכום חלמוני",
+            "כרכום גיארדו"
+          ],
+          "maps_query_location": "Ramat Dalton"
+        }
+      ]
+    },
+    {
+      "date": "19/12/2010",
+       "observer": "אורי שטיין",
+      "original_text": "הפריחה היא נרקיס סתוי ולא חורפי.",
+       "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "נרקיס סתוי"
+          ],
+          "maps_query_location": "Ma'agan Mikhael"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2010",
+      "observer": "יהודה מרטה",
+       "original_text": "תחנת הדלק מישור אדומים .\n מאות פרטים בשיא פריחה על הגבעה מעל וליד התחנה.\n 17.12.10",
+      "locations": [
+        {
+          "location_name": "מישור אדומים",
+           "flowers": [
+            "סתוונית טוביה"
+          ],
+          "maps_query_location": "Mishor Adumim"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2010",
+      "observer": "אורי שטיין",
+      "original_text": "פורחים נרקיס חורפי, כרכום גיארדו, סתונית היורה ופרטים בודדים של בן חצה סתוי וכדן קטן פרחים.",
+     "locations": [
+        {
+          "location_name": "מעגן מיכאל",
+          "flowers": [
+             "נרקיס חורפי",
+             "כרכום גיארדו",
+            "סתוונית היורה",
+            "בן חצה סתוי",
+            "כדן קטן פרחים"
+          ],
+          "maps_query_location": "Ma'agan Mikhael"
+        }
+      ]
+    },
+     {
+      "date": "18/12/2010",
+      "observer": "אורי שטיין",
+      "original_text": "אירוס הסרגל וכרכום חורפי.\nהכניסה ליער מיציאת תחנת הדלק שאחרי בת שלמה בכיוון יקנעם",
+       "locations": [
+        {
+          "location_name": "יער בת שלמה",
+           "flowers": [
+            "אירוס הסרגל",
+            "כרכום חורפי"
+          ],
+           "maps_query_location": "Bat Shlomo Forest"
+        },
+         {
+          "location_name": "בת שלמה",
+           "flowers": [
+            "אירוס הסרגל",
+            "כרכום חורפי"
+          ],
+           "maps_query_location": "Bat Shlomo"
+        },
+        {
+            "location_name":"יקנעם",
+             "flowers": [
+            "אירוס הסרגל",
+            "כרכום חורפי"
+              ],
+              "maps_query_location": "Yokneam"
+        }
+      ]
+    },
+        {
+      "date": "17/12/2010",
+      "observer": "אורי שטיין",
+      "original_text": "מרבדי סתוניות היורה ונרקיסים מצויים בודדים.",
+      "locations": [
+        {
+          "location_name": "שמורת אודים",
+          "flowers": [
+            "סתוונית היורה",
+            "נרקיס מצוי"
+          ],
+          "maps_query_location": "Udim Nature Reserve"
+        }
+      ]
+    },
+    {
+      "date": "16/12/2010",
+      "observer": "נעם עביצל",
+      "original_text": "בחורבת מלח (מצפון לאזור התעשייה של אור עקיבא) שפע פריחה של סתוונית היורה ובין לבין גם פרחי נרקיס סתווי / אפיל",
+      "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": [
+            "סתוונית היורה",
+            "נרקיס סתווי"
+           ],
+          "maps_query_location":"Khurvat Melakh"
+        },
+       {
+          "location_name": "אור עקיבא",
+          "flowers": [
+            "סתוונית היורה",
+            "נרקיס סתווי"
+           ],
+          "maps_query_location":"Or Akiva"
+        }
+      ]
+    },
+    {
+      "date": "15/12/2010",
+      "observer": "עירית",
+      "original_text": "בשמורת נחל מיצר לפני הירידה לנחל פורחת סתוונית היורה בפריחה יפה ורעננה. בין הסלעים בנחל עצמו רקפות יפות בלי עלים. החלמוניות בנחל ראש פינה עדיין פורחות.",
+      "locations": [
+        {
+          "location_name": "שמורת נחל מיצר",
+          "flowers": [
+            "סתוונית היורה",
+             "רקפת",
+            "חלמונית"
+          ],
+          "maps_query_location":"Nahal Meitzar Nature Reserve"
+        },
+        {
+            "location_name":"נחל מיצר",
+            "flowers":[
+             "סתוונית היורה",
+               "רקפת",
+            "חלמונית"
+            ],
+            "maps_query_location":"Nahal Meitzar"
+        },
+         {
+          "location_name":"נחל ראש פינה",
+           "flowers":[
+             "סתוונית היורה",
+               "רקפת",
+            "חלמונית"
+            ],
+          "maps_query_location": "Nahal Rosh Pinna"
+        }
+      ]
+    }
+  ]
+}
+```

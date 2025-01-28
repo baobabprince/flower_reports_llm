@@ -1,0 +1,164 @@
+```json
+{
+  "reports": [
+    {
+      "date": "07/08/2016",
+      "observer": null,
+      "original_text": "בניוזלטר האחרון  פרסמנו חידה נושאת פרסים על החצב + מסלולים ואתרים בהם פורחים חצבים בארצינו",
+       "locations": [
+        {
+          "location_name": null,
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "07/08/2016",
+      "observer": null,
+      "original_text": "בעתלית, כוכב יאיר ובהר הנגב",
+      "locations": [
+        {
+          "location_name": "עתלית",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Atlit"
+        },
+        {
+          "location_name": "כוכב יאיר",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Kokhav Yair"
+        },
+        {
+          "location_name": "הר הנגב",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Har Hanegev"
+        }
+      ]
+    },
+    {
+      "date": "05/08/2016",
+      "observer": null,
+      "original_text": "בפריחה מחודשת בפינה הלחה בגני",
+      "locations": [
+          {
+            "location_name": "גנים",
+            "flowers": [
+              "מתקה טובענית"
+            ],
+             "maps_query_location": null
+          }
+        ]
+    },
+    {
+      "date": "04/08/2016",
+      "observer": "יחיאל אוקונין",
+       "original_text": "יחיאל אוקונין שולח לנו מפת פריחה של חצבים ליד עתלית",
+       "locations": [
+        {
+          "location_name": "עתלית",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Atlit"
+        }
+      ]
+    },
+    {
+      "date": "03/08/2016",
+       "observer": null,
+       "original_text": "פורח בשלולית לוינסקי",
+        "locations": [
+        {
+          "location_name": "שלולית לוינסקי",
+          "flowers": [
+            "אגמון שרוע"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+      {
+      "date": "01/08/2016",
+      "observer": null,
+      "original_text": "בשמורת אודים:חצבון ביבי הפציע לו כבר בתחילת אוגוסט",
+      "locations": [
+         {
+          "location_name": "שמורת אודים",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Udim"
+         }
+       ]
+    },
+    {
+      "date": "31/07/2016",
+       "observer": null,
+       "original_text": "החלה לפרוח בגן הלאומי חוף השרון",
+        "locations": [
+         {
+          "location_name": "גן לאומי חוף השרון",
+          "flowers": [
+            "חבצלת החוף"
+          ],
+          "maps_query_location": "Hof HaSharon National Park"
+         }
+       ]
+    },
+    {
+      "date": "26/07/2016",
+      "observer": null,
+      "original_text": "בפינה הלחה בגני פורחים סם כלב מזרחי, עטיינית מגובבת, חרחבינה טובענית, ישרוע מאוגד, וברגיה אמנית",
+       "locations": [
+         {
+          "location_name": "גנים",
+          "flowers": [
+            "סם כלב מזרחי",
+            "עטיינית מגובבת",
+            "חרחבינה טובענית",
+            "ישרוע מאוגד",
+            "ברגיה אמנית"
+          ],
+          "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "25/07/2016",
+      "observer": null,
+       "original_text": "בקיבוץ ברקאי",
+      "locations": [
+          {
+            "location_name": "קיבוץ ברקאי",
+             "flowers": [
+             "חבצלת קטנת פרחים"
+            ],
+            "maps_query_location": "Barkai"
+         }
+       ]
+    },
+     {
+      "date": "18/07/2016",
+      "observer": "אלי ליבנה",
+      "original_text": "פורחת באחו בנימינה , ראו תצלומים של אלי ליבנה בקישור",
+       "locations": [
+        {
+          "location_name": "אחו בנימינה",
+          "flowers": [
+            "קייצנית אשכולית"
+          ],
+          "maps_query_location": "Binyamina"
+        }
+      ]
+    }
+  ]
+}
+```

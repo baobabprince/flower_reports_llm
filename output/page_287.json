@@ -1,0 +1,141 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/07/2019",
+      "observer": "מיקה אזגורי",
+      "original_text": "חמניית בר בנחל שופט בצידי השביל הנגיש",
+      "locations": [
+        {
+          "location_name": "נחל שופט",
+          "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Nahal HaShofet"
+        }
+      ]
+    },
+    {
+      "date": "12/07/2019",
+      "observer": "גילה מלל",
+      "original_text": "בכל רחבי מושב היוגב גדלות חמניות בר",
+      "locations": [
+        {
+          "location_name": "מושב היוגב",
+          "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Yogev"
+        }
+      ]
+    },
+    {
+      "date": "12/07/2019",
+       "observer": "שחר מלל",
+      "original_text": "ריבוי תצפיות חמניות בר במושב היוגב",
+      "locations": [
+        {
+          "location_name": "מושב היוגב",
+           "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Yogev"
+        }
+      ]
+    },
+     {
+      "date": "11/07/2019",
+      "observer": null,
+      "original_text": "חמנית בר על כביש 3965\nלכיוון מבשרת ציון",
+     "locations": [
+        {
+          "location_name": "כביש 3965",
+          "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Road 3965"
+        },
+         {
+          "location_name": "מבשרת ציון",
+          "flowers": ["Helianthus annuus"],
+           "maps_query_location": "Mevaseret Zion"
+        }
+      ]
+    },
+    {
+      "date": "11/07/2019",
+      "observer": null,
+      "original_text": "פרע מסולסל, קייצת , שומר פשוט , זנב עקרב, צלף קוצני, בוצין מפורץ, ועוד מועטים בסיום פריחה: חבלבלים ועוד",
+      "locations": [
+        {
+            "location_name": "יער בן שמן",
+            "flowers": ["Glaucium corniculatum", "Hibiscus trionum", "Foeniculum vulgare", "Heliotropium europaeum", "Capparis spinosa", "Verbascum sinuatum", "Convolvulus arvensis"],
+            "maps_query_location": "Ben Shemen Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/07/2019",
+      "observer": "שרון מרוז",
+      "original_text": "חמניות בר בכניסה למול זיכרון",
+      "locations": [
+        {
+          "location_name": "זיכרון יעקב",
+          "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Zikhron Ya'akov"
+        }
+      ]
+    },
+     {
+      "date": "09/07/2019",
+      "observer": null,
+      "original_text": "חוף חצרות-יסף  : מדחול דוקרני,  מלחית הבורית,  עדעד כחול, עוקץ עקרב בשרני , קורנית מקורקפת,  ארכובית החוף , לפופית כפני, חלבלוב שרוע , גזיר מזיק \nשפך הנעמן: אגמון הכדורים , אספרג ארוך-עלים , לוטוס מכסיף , טיונית החולות, גלדן סמרני , \nנר-הלילה החופי, סמר חד,  עדעד הביצות , ציפורנית  בשרנית , \nבית נטופה: ערבז סוככני , ערבז משובל , עטיינית ארוכה, עפעפית עגולת-עלים, עפעפית שרועה ,  צנינה קוצנית , קנרס סורי , שנית הקורנית , שנית שוות-שיניים, אמניה מצרית , בוען מצולע , ברגיה אמנית, חלבלוב מגלי ´ חלבלוב ארם-צובא , חומעה משוננת , דרדר קיפח, גזר זהוב",
+       "locations": [
+         {
+            "location_name": "חוף חצרות-יסף",
+            "flowers": ["Echinops spinosissimus","Suaeda monoica", "Limonium sinuatum", "Heliotropium supinum", "Thymbra capitata", "Polygonum equisetiforme", "Convolvulus sabatius", "Euphorbia prostrata", "Anagallis arvensis"],
+            "maps_query_location": "Hatzrot Yassaf Beach"
+        },
+        {
+          "location_name": "שפך הנעמן",
+            "flowers": ["Bolboschoenus maritimus", "Asparagus acutifolius", "Lotus cytisoides", "Pulicaria arabica", "Gladiolus italicus", "Oenothera drummondii", "Juncus acutus", "Limonium gmelinii", "Paronychia argentea"],
+             "maps_query_location": "Naaman Estuary"
+        },
+        {
+          "location_name": "בית נטופה",
+           "flowers": ["Torilis arvensis", "Echinophora tenuifolia","Erodium laciniatum", "Anagallis arvensis", "Anagallis foemina", "Cynoglossum creticum", "Cirsium syriacum", "Teucrium capitatum", "Teucrium chamaedrys","Ammannia aegyptiaca", "Echium angustifolium", "Bergia capensis", "Euphorbia chamaesyce", "Euphorbia aleppica", "Rumex dentatus", "Centaurea procurrens", "Daucus aureus"],
+           "maps_query_location": "Beit Netofa"
+        }
+      ]
+    },
+     {
+      "date": "09/07/2019",
+      "observer": "קריקסט אפרת",
+      "original_text": "נראה לי שראיתי את הצמח בכתובת עפולה פינת רחוב קינמון וכביש עוקף",
+      "locations": [
+        {
+           "location_name": "עפולה",
+           "flowers": [null],
+           "maps_query_location": "Afula"
+        }
+      ]
+    },
+    {
+      "date": "07/07/2019",
+      "observer": null,
+      "original_text": "ביער אלוני יצחק צומחים צמחי  קנרס סורי גבוהים",
+      "locations": [
+        {
+           "location_name": "יער אלוני יצחק",
+           "flowers": ["Cirsium syriacum"],
+           "maps_query_location": "Aloney Itzhak Forest"
+        }
+      ]
+    },
+       {
+      "date": "07/07/2019",
+      "observer": "שרון צרימי",
+       "original_text": "חמניות גדלות בגינה פרטית ברחוב הרדוף 13 בעפולה",
+       "locations": [
+        {
+          "location_name": "עפולה",
+          "flowers": ["Helianthus annuus"],
+          "maps_query_location": "Afula"
+         }
+       ]
+    }
+  ]
+}
+```

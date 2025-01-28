@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "08/09/2022",
+      "observer": null,
+      "original_text": "כמו בכל שנה בעונה זו פורחים מאות חצבים בתל יודפת",
+      "locations": [
+        {
+          "location_name": "תל יודפת",
+           "flowers": ["חצב"],
+          "maps_query_location": "Tel Yodfat"
+         }
+      ]
+    },
+    {
+      "date": "08/09/2022",
+       "observer": "נוגן צברי",
+      "original_text": "החלה לפרוח ליד בור חמת",
+      "locations": [
+        {
+          "location_name": "בור חמת",
+           "flowers": ["סתוונית הקליפות"],
+          "maps_query_location": "Bor Hamat"
+        }
+      ]
+    },
+    {
+      "date": "08/09/2022",
+      "observer": null,
+      "original_text": "מאות חצבים פורחים במקום הידוע בשולי יער צרעה לכיוון הישוב צרעה . שווה לטייל שם",
+      "locations": [
+         {
+          "location_name": "יער צרעה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Ya'ar Zora"
+         },
+        {
+          "location_name": "צרעה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Zora"
+        }
+      ]
+    },
+     {
+      "date": "06/09/2022",
+      "observer": null,
+      "original_text": "פטל קדוש, צפצפה , דבשה לבנה, סוף רחב-עלים, קנה , שנית גדולה, דולב מזרחי, ארכובית, סנגלית ,כף-זאב אירופית, , שערות שולמית, חנק מחודד, ער אציל , מילה, איקליפטוס , קיקיון ועוד",
+      "locations": [
+         {
+          "location_name": "נחל קורן",
+          "flowers": [ "פטל קדוש", "צפצפה", "דבשה לבנה", "סוף רחב-עלים", "קנה", "שנית גדולה", "דולב מזרחי", "ארכובית", "סנגלית", "כף-זאב אירופית", "שערות שולמית", "חנק מחודד", "ער אציל", "מילה", "איקליפטוס", "קיקיון"],
+          "maps_query_location": "Nahal Koren"
+          },
+        {
+          "location_name": "עמק הנעלם",
+           "flowers": [ "פטל קדוש", "צפצפה", "דבשה לבנה", "סוף רחב-עלים", "קנה", "שנית גדולה", "דולב מזרחי", "ארכובית", "סנגלית", "כף-זאב אירופית", "שערות שולמית", "חנק מחודד", "ער אציל", "מילה", "איקליפטוס", "קיקיון"],
+          "maps_query_location": "Emek HaNeelam"
+        },
+           {
+           "location_name": "הגושרים",
+            "flowers": [ "פטל קדוש", "צפצפה", "דבשה לבנה", "סוף רחב-עלים", "קנה", "שנית גדולה", "דולב מזרחי", "ארכובית", "סנגלית", "כף-זאב אירופית", "שערות שולמית", "חנק מחודד", "ער אציל", "מילה", "איקליפטוס", "קיקיון"],
+          "maps_query_location": "Hagoshrim"
+        }
+      ]
+    },
+    {
+      "date": "06/09/2022",
+       "observer": null,
+      "original_text": "מדרום לבקה אל גרביה בצד מערב של כביש 6  לפני הירידה לצומת ניצני עוז יער של חצבים בפריחה !!",
+       "locations": [
+        {
+          "location_name": "בקה אל גרביה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Baka al-Gharbiyye"
+        },
+          {
+          "location_name": "צומת ניצני עוז",
+           "flowers": ["חצב"],
+           "maps_query_location": "Nitzanei Oz Junction"
+        }
+      ]
+    },
+     {
+      "date": "03/09/2022",
+       "observer": null,
+      "original_text": "פונים בעיגול הראשון ימינה אחרי הירידה מכביש 6 (לפני התחנת דלק)",
+      "locations": [
+        {
+          "location_name": "צומת בית קמה",
+          "flowers": ["חצב"],
+          "maps_query_location": "Beit Kama Junction"
+        }
+      ]
+    },
+    {
+      "date": "03/09/2022",
+       "observer": "פירסט ש",
+      "original_text": "יש הרבה עמודים אבל הרוב המכריע עוד לא פורחים. הרבה עמודים צעירים שרק יצאו מהקרקע. פריחה מלאה בטוח עוד שבועיים.",
+       "locations": [
+        {
+          "location_name": "קרתא",
+          "flowers": ["חצב"],
+           "maps_query_location": "null"
+         }
+      ]
+    },
+    {
+       "date": "02/09/2022",
+       "observer": null,
+      "original_text": "בתחילת פריחה ליד יער צרעה, בעוד כשבוע - עשרה ימים יהי השיא  , ראו מסלול טיול בקישור",
+      "locations": [
+        {
+          "location_name": "יער צרעה",
+           "flowers": ["חצב"],
+          "maps_query_location": "Ya'ar Zora"
+         }
+      ]
+    },
+    {
+       "date": "02/09/2022",
+       "observer": null,
+      "original_text": "החל לפרוח ליד אנדרטאת הנגב",
+      "locations": [
+        {
+          "location_name": "אנדרטאת הנגב",
+           "flowers": ["חצב גלוני"],
+          "maps_query_location": "Negev Brigade Memorial"
+        }
+      ]
+    },
+     {
+      "date": "30/08/2022",
+       "observer": null,
+      "original_text": "במעין עין עלווה שבמושב כרם בן זמרה כשמגיעים למטה למעיין משני צידי הגבעות , פורחים מאות חצבים!!",
+       "locations": [
+          {
+            "location_name": "עין עלווה",
+            "flowers": ["חצב"],
+            "maps_query_location": "Ein Alva"
+          },
+        {
+          "location_name": "כרם בן זמרה",
+            "flowers": ["חצב"],
+            "maps_query_location": "Kerem Ben Zimra"
+         }
+      ]
+    }
+  ]
+}
+```

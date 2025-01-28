@@ -1,0 +1,202 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/10/2020",
+      "observer": "דפנה בושושה",
+      "original_text": "קבוצות בודדות של סתוונית ירושלים\nבגבעת המטוס ירושלים\nמול מנזר מר אליאס",
+      "locations": [
+        {
+          "location_name": "גבעת המטוס",
+          "flowers": [
+            "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Givat Hamatos"
+        },
+        {
+         "location_name": "מנזר מר אליאס",
+          "flowers": [
+           "סתוונית ירושלים"
+          ],
+          "maps_query_location": "Mar Elias Monastery"
+       }
+      ]
+    },
+    {
+      "date": "25/10/2020",
+      "observer": null,
+      "original_text": "חניון הרועה : אזובית המדבר,   אלת הבוטנה ,  אשבל מצרי, ציפורן סיני , חבצלת הנגב\nבורות לוץ: בן-חצב מדברי , כלך דו-דורי , כרכום דמשקאי  , מלחית חומה , סתוונית הקליפות , לענת המדבר \nחוות הגמלית ממשית: חבצלת הנגב , יפרוק המדבר  \nסוכה במדבר על יד בהד 1 : מתלולן הערבות , \nבור חמת: עוגנן נימי , עדעד מאובק",
+      "locations": [
+        {
+          "location_name": "חניון הרועה",
+          "flowers": [
+            "אזובית המדבר",
+            "אלת הבוטנה",
+            "אשבל מצרי",
+            "ציפורן סיני",
+            "חבצלת הנגב"
+          ],
+           "maps_query_location": "HaRo'e Parking Lot"
+        },
+        {
+          "location_name": "בורות לוץ",
+          "flowers": [
+            "בן-חצב מדברי",
+            "כלך דו-דורי",
+            "כרכום דמשקאי",
+            "מלחית חומה",
+            "סתוונית הקליפות",
+            "לענת המדבר"
+          ],
+           "maps_query_location": "Borot Lotz"
+        },
+         {
+          "location_name": "חוות הגמלית ממשית",
+          "flowers": [
+            "חבצלת הנגב",
+             "יפרוק המדבר"
+          ],
+           "maps_query_location": "Mampsis Camel Farm"
+        },
+         {
+          "location_name": "סוכה במדבר",
+          "flowers": [
+             "מתלולן הערבות"
+          ],
+            "maps_query_location": "Sukka Bamidbar"
+        },
+        {
+          "location_name": "בור חמת",
+          "flowers": [
+            "עוגנן נימי",
+            "עדעד מאובק"
+          ],
+           "maps_query_location": "Bor Hamat"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2020",
+      "observer": null,
+      "original_text": "ראו אלבום :\nציפורן סיני עוגנן נימי סיתוונית הקליפות, , חבצלת הנגב, כרכום הסבכה ועוד",
+      "locations": [],
+      "flowers": [
+            "ציפורן סיני",
+            "עוגנן נימי",
+            "סתוונית הקליפות",
+            "חבצלת הנגב",
+            "כרכום הסבכה"
+          ]
+    },
+     {
+      "date": "25/10/2020",
+      "observer": null,
+      "original_text": "כדן קטן פרחים ודוגון ירושלמי",
+      "locations": [
+         {
+          "location_name": "עופרה",
+          "flowers": [
+            "כדן קטן פרחים",
+            "דוגון ירושלמי"
+          ],
+            "maps_query_location": "Ofra"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2020",
+       "observer": null,
+      "original_text": " מאגר בנטל למרגלות מרום-גולן\nראו אלבום",
+      "locations": [
+        {
+          "location_name": "מאגר בנטל",
+             "flowers": [
+            "סתוונית התשבץ"
+          ],
+           "maps_query_location": "Bental Reservoir"
+        },
+         {
+           "location_name": "מרום גולן",
+            "flowers": [
+             "סתוונית התשבץ"
+            ],
+            "maps_query_location": "Merom Golan"
+         }
+      ]
+    },
+     {
+      "date": "25/10/2020",
+      "observer": null,
+       "original_text": "נענע משובלת , לוטוס ועוד",
+      "locations": [
+        {
+           "location_name": "אלוני הבשן",
+          "flowers": [
+            "נענע משובלת",
+            "לוטוס"
+          ],
+          "maps_query_location": "Allonei HaBashan"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2020",
+      "observer": "יורם קדרון",
+      "original_text": "ב24/10/20 נצפו מעט חלמוניות, ויותר סיתווניות, בשביל הפסגה בהר מירון.",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "חלמונית",
+            "סתוונית"
+          ],
+          "maps_query_location": "Mount Meron"
+        }
+      ]
+    },
+    {
+      "date": "24/10/2020",
+      "observer": "יריב",
+      "original_text": "שני מוקדי פריחת חבצלת קטנת פרחים לאורך שביל סינגל יער שהם",
+      "locations": [
+        {
+          "location_name": "יער שוהם",
+          "flowers": [
+            "חבצלת קטנת פרחים"
+          ],
+           "maps_query_location":"Shoham Forest"
+        }
+      ]
+    },
+        {
+      "date": "24/10/2020",
+      "observer": "Ohad Gur",
+      "original_text": "תחילת פריחה בירוחם של חלמוניות. גם הרבה חצבים בשביל הסובב לקראת סיום.",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": [
+            "חלמונית",
+             "חצב"
+           ],
+          "maps_query_location": "Yeruham"
+         }
+      ]
+    },
+    {
+      "date": "21/10/2020",
+      "observer": "גניה ויהודה קדם",
+      "original_text": "20/10/20\nמאות חצבים ממלאים את השטח סביב הגבעה ולאורך השביל המסומן כחול. החל בעמודי פריחה חדשה לבנה וכלה בעמודים מכוסים בפרי ירוק. מרהיב",
+       "locations": [
+        {
+           "location_name": "חורבת קרתא",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Khurvat Karta"
+         }
+      ]
+    }
+  ]
+}
+```

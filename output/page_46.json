@@ -1,0 +1,232 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/01/2024",
+      "observer": null,
+      "original_text": "סלוודורה פרסית, שושנת יריחו האמיתית, פרסטיה מצרית, טוריים מדבריים, בלוטנית הדורים, מרווה מצרית, דמיה לבידה, פגוניה, קוטב דו-זיזי",
+      "locations": [
+        {
+          "location_name": "נחל בוקק",
+          "flowers": [
+            "סלוודורה פרסית",
+            "שושנת יריחו",
+             "פרסטיה מצרית",
+            "טוריים מדבריים",
+            "בלוטנית הדורים",
+            "מרווה מצרית",
+            "דמיה לבידה",
+             "פגוניה",
+            "קוטב דו-זיזי"
+          ],
+          "maps_query_location": "Nahal Bokek"
+        }
+      ]
+    },
+    {
+      "date": "12/01/2024",
+       "observer": "אהרון גבע",
+      "original_text": "בצמוד לכביש ליד החניון אירוס ארץ ישראלי,כרכומים,קצת כלניות ועיריות והרבה רקפות",
+      "locations": [
+        {
+          "location_name": "חירבת חנות",
+           "flowers": [
+            "אירוס ארץ ישראלי",
+             "כרכום",
+            "כלנית",
+             "עירית",
+             "רקפת"
+          ],
+          "maps_query_location": "Khirbet Hanot"
+        }
+      ]
+    },
+    {
+      "date": "11/01/2024",
+       "observer": "גל מגלי",
+      "original_text": "מנחת מגידו - הכלניות בשיא. ללכת עד הסוף דרומה \nהרבה כלניות עם יותר מ-6 עלי כותרת.\nשביל מחניון דליות למפל בזלת - פריחת שיא של נץ חלב והתחלת פריחת כדן סגול. השקדיות בנחל בשיא והגבוהות בהתחלה\n\nבעליה מאל-חמה לגולן השקדיות בשיא\n\nבכרמל בחניון ההגנה ובשביל האדום בהר שוקף הרומוליאה הצידונית בשיא\n\nבעין אלון הדבורנית השחומה שבוע לפני השיא\n\nבגבעות שמסביב לאתר הצבעונים של מעגן מיכאל האירוס א\"י בשיא\n\nלקינוח - מעל 50 פלמינגו בשמורת הדיפלה ( נמצא בין ברכות מעיין צבי)",
+      "locations": [
+        {
+          "location_name": "מנחת מגידו",
+          "flowers": ["כלנית"],
+          "maps_query_location": "Megiddo Airfield"
+        },
+        {
+            "location_name": "שביל מחניון דליות למפל בזלת",
+            "flowers": ["נץ חלב","כדן סגול"],
+             "maps_query_location": null
+         },
+        {
+           "location_name": "נחל",
+           "flowers": ["שקד"],
+             "maps_query_location": null
+        },
+         {
+          "location_name": "אל-חמה",
+          "flowers": ["שקד"],
+           "maps_query_location": "El Hama"
+        },
+         {
+          "location_name": "גולן",
+           "flowers": ["שקד"],
+          "maps_query_location": "Golan Heights"
+        },
+         {
+          "location_name": "חניון ההגנה",
+            "flowers": ["רומוליאה צידונית"],
+           "maps_query_location": null
+        },
+           {
+            "location_name": "הר שוקף",
+             "flowers": ["רומוליאה צידונית"],
+            "maps_query_location": "Har Shokef"
+         },
+        {
+          "location_name": "עין אלון",
+           "flowers": ["דבורנית שחומה"],
+          "maps_query_location": "Ein Alon"
+        },
+        {
+          "location_name": "מעגן מיכאל",
+            "flowers": ["אירוס ארץ ישראלי"],
+          "maps_query_location":"Ma'agan Michael"
+        },
+           {
+            "location_name": "שמורת הדיפלה",
+             "flowers": [],
+           "maps_query_location": "HaDafna Nature Reserve"
+        },
+           {
+             "location_name": "ברכות מעיין צבי",
+              "flowers": [],
+             "maps_query_location": "Ma'ayan Zvi"
+           }
+      ]
+    },
+    {
+      "date": "11/01/2024",
+      "observer": "menahcem pinto",
+      "original_text": "פריחות של רקפות, כלניות, אירוס טוביה , ציפורני חתול, התחלה של שקדיות, זלזלת הקנקונות, כרכומים, עירית גדולה והתחלת פריחה של לוטם שעיר",
+      "locations": [
+        {
+          "location_name": "יער הקדושים",
+           "flowers": [
+              "רקפת",
+            "כלנית",
+              "אירוס טוביה",
+            "ציפורני חתול",
+             "שקד",
+             "זלזלת הקנקונות",
+              "כרכום",
+             "עירית גדולה",
+            "לוטם שעיר"
+          ],
+          "maps_query_location": "Ya'ar HaKdoshim"
+        }
+      ]
+    },
+    {
+      "date": "09/01/2024",
+       "observer": null,
+      "original_text": "עדיין יקינתון מזרחי ועוד, ראו בקישור למטה",
+      "locations": [
+        {
+          "location_name": "קרני חיטין",
+          "flowers": ["יקינתון מזרחי"],
+          "maps_query_location":"Qarnei Hittin"
+        }
+      ]
+    },
+     {
+      "date": "09/01/2024",
+       "observer": null,
+      "original_text": "ביער לביא",
+      "locations": [
+        {
+          "location_name": "יער לביא",
+          "flowers": ["רקפת"],
+          "maps_query_location":"Lavi Forest"
+        }
+      ]
+    },
+     {
+       "date": "09/01/2024",
+       "observer": null,
+      "original_text": "רומוליאה סגלולית, רומוליאה צידונית, איירס א\"י , כלניות, דבורניות , זלזלת הקנוקנות , נרקיסים, רקפות וכלניות בשלל צבעים",
+        "locations": [
+            {
+              "location_name": "כרמל",
+              "flowers": [
+                "רומוליאה סגלולית",
+                "רומוליאה צידונית",
+                "אירוס ארץ ישראלי",
+                  "כלנית",
+                  "דבורנית",
+                "זלזלת הקנוקנות",
+                   "נרקיס",
+                 "רקפת",
+                 "כלנית"
+                ],
+               "maps_query_location":"Carmel"
+            },
+            {
+              "location_name": "סביבתו",
+                "flowers": [
+                   "רומוליאה סגלולית",
+                   "רומוליאה צידונית",
+                   "אירוס ארץ ישראלי",
+                    "כלנית",
+                     "דבורנית",
+                   "זלזלת הקנוקנות",
+                   "נרקיס",
+                   "רקפת",
+                   "כלנית"
+                   ],
+              "maps_query_location": null
+            }
+        ]
+    },
+    {
+      "date": "09/01/2024",
+      "observer": null,
+       "original_text": "בעליה לסוסיתא",
+      "locations": [
+        {
+          "location_name": "סוסיתא",
+           "flowers": ["בצלציה"],
+           "maps_query_location": "Sussita"
+        }
+      ]
+    },
+    {
+     "date":"09/01/2024",
+     "observer":null,
+     "original_text":"בין בית אורן לחורבת לובים \nגם כרכום חורפי ועוד, צאו לשם",
+      "locations":[
+        {
+          "location_name": "בית אורן",
+           "flowers": ["נרקיס","כרכום חורפי"],
+           "maps_query_location": "Beit Oren"
+        },
+         {
+           "location_name": "חורבת לובים",
+             "flowers": ["נרקיס","כרכום חורפי"],
+            "maps_query_location":"Horbat Lovim"
+         }
+      ]
+    },
+    {
+      "date":"09/01/2024",
+       "observer": null,
+      "original_text":"המוני נרקיסים פורחים שם",
+      "locations":[
+        {
+          "location_name": "נחל חצץ",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Nahal Hatatz"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,179 @@
+```json
+{
+  "reports": [
+    {
+      "date": "26/12/2015",
+      "observer": null,
+      "original_text": "קדד כלשהו, זהבית (אולי דמשקאית), דודא רפואי,כרכום חורפי,זלזלת מנוצה,ועירית גדולה,מרקולית מצויה פורחים בגלבוע. בנוסף נראו שפע עלי שעמון מצולע, וקצת עלי איריסים",
+      "locations": [
+        {
+          "location_name": "גלבוע",
+          "flowers": [
+            "קדד",
+            "זהבית דמשקאית",
+            "דודא רפואי",
+            "כרכום חורפי",
+             "זלזלת מנוצה",
+            "עירית גדולה",
+            "מרקולית מצויה",
+             "שעמון מצולע",
+              "איריס"
+          ],
+          "maps_query_location": "Gilboa"
+        }
+      ]
+    },
+    {
+      "date": "25/12/2015",
+      "observer": null,
+      "original_text": "החל פריחתו בגן בגעש",
+      "locations": [
+        {
+          "location_name": "געש",
+           "flowers": [
+             "מקור חסידה תמים"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2015",
+      "observer": "אלי ז.",
+      "original_text": "בנחל דימונה במסלול הכחול היוצא מהקצה המזרחי של הרחוב שמול רחוב התפוצות. פריחה מרשימה. כ 800 מ מהשכונה.",
+      "locations": [
+        {
+          "location_name": "נחל דימונה",
+           "flowers": [
+            "נרקיס"
+          ],
+          "maps_query_location": "Nahal Dimona"
+        }
+      ]
+    },
+    {
+      "date": "22/12/2015",
+      "observer": null,
+      "original_text": "בין עמונה לעפרה",
+       "locations": [
+        {
+          "location_name": "עמונה",
+            "flowers": [
+            "איריס הסרגל"
+           ],
+          "maps_query_location": "Amuna"
+        },
+         {
+          "location_name": "עפרה",
+           "flowers": [
+            "איריס הסרגל"
+           ],
+          "maps_query_location": "Ofra"
+        }
+      ]
+    },
+    {
+      "date": "22/12/2015",
+      "observer": "רועי קן-תור",
+      "original_text": "\"ירדה גשמיות ועלתה לה הרוח,\nפנים מתכנסת, במרחב הפתוח.\nפוקחת עינינו, פותחת דלתות,\nבחלון נשמתנו, הביטה לראות.\nנושבת ובאה, לרפא, לתקן,\nלתת בלבנו זמן להתבונן.\n...ארד אל גני עם בוא שמש חדש,\nאפסע לי בשקט, אצור ונרגש.\nצחצחות אגלי טל שואלות למשעול\nמובילות אל ניצן, מחכות מאתמול.\nנביט, נתבונן, נרגיש בגינה,\nהן עוד רגע קט תעור משינה.\"\nמתוך \"חורף שקט\" - הכנסו לקישור ובואו להתבונן...",
+       "locations": []
+    },
+      {
+      "date": "21/12/2015",
+      "observer": null,
+      "original_text": "נזמית ארגמנית,אשבל השדה,זהבית שרונית פורחים בגן",
+       "locations": [
+         {
+          "location_name": "געש",
+           "flowers": [
+              "נזמית ארגמנית",
+              "אשבל השדה",
+              "זהבית שרונית"
+           ],
+          "maps_query_location": "Ga'ash"
+        }
+      ]
+    },
+    {
+      "date": "21/12/2015",
+       "observer": "אלי זוננשיין",
+      "original_text": "פריחת נרקיסים בחניון חרבת רקת בכרמל.",
+       "locations": [
+        {
+          "location_name": "חרבת רקת",
+          "flowers": [
+            "נרקיס"
+           ],
+          "maps_query_location": "Horbat Rakit"
+        },
+         {
+          "location_name": "כרמל",
+           "flowers": [
+             "נרקיס"
+           ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2015",
+      "observer": null,
+      "original_text": "פורח בואדי נוב",
+       "locations": [
+        {
+          "location_name": "ואדי נוב",
+           "flowers": [
+              "כרכום חורפי"
+           ],
+          "maps_query_location": "Wadi Nov"
+        },
+        {
+          "location_name": "גולן",
+           "flowers": [
+              "כרכום חורפי"
+           ],
+          "maps_query_location": "Golan"
+        }
+      ]
+    },
+     {
+      "date": "19/12/2015",
+      "observer": null,
+      "original_text": "פורח ליד אילת - תודה למורי חן שהראה לי את המיקום המדוייק",
+       "locations": [
+        {
+          "location_name": "אילת",
+           "flowers": [
+            "לשון בובה"
+           ],
+          "maps_query_location": "Eilat"
+        }
+      ]
+    },
+    {
+      "date": "18/12/2015",
+      "observer": "אליהו נבון",
+      "original_text": "בהר שלמון נצפו עשרות רקפות ומספר עיריות גדולות בשלבי פריחה. בשביל אתר ההנצחה נצפו : מאות פרחי כרכום חורף,  מעט סתוונית היורה  וזלזלת הקנוקנות.",
+        "locations": [
+        {
+          "location_name": "הר שלמון",
+            "flowers": [
+               "רקפת",
+                "עירית גדולה"
+              ],
+          "maps_query_location": "Har Shlomo"
+        },
+          {
+          "location_name": "אתר ההנצחה",
+            "flowers": [
+               "כרכום חורף",
+               "סתוונית היורה",
+               "זלזלת הקנוקנות"
+              ],
+          "maps_query_location": null
+        }
+      ]
+    }
+  ]
+}
+```

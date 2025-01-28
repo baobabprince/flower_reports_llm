@@ -1,0 +1,176 @@
+```json
+{
+  "reports": [
+    {
+      "date": "25/12/2009",
+      "observer": null,
+      "original_text": "פריחה מפתיעה של אלון מצוי בגליל המערבי (חניתה) בחודש דצמבר",
+      "locations": [
+        {
+          "location_name": "גליל המערבי",
+          "flowers": ["אלון מצוי"],
+           "maps_query_location": "Western Galilee"
+        },
+        {
+          "location_name": "חניתה",
+          "flowers": ["אלון מצוי"],
+           "maps_query_location": "Hanita"
+        }
+      ]
+    },
+    {
+      "date": "24/12/2009",
+      "observer": "אודי כרמיאל",
+      "original_text": "פריחת כלניות ב\"גיבעת הבדואים\"גיבעת-ברנר",
+       "locations": [
+        {
+          "location_name": "גבעת הבדואים",
+           "flowers": ["כלנית"],
+           "maps_query_location": "Givat HaBedouim"
+        },
+        {
+          "location_name": "גבעת ברנר",
+           "flowers": ["כלנית"],
+          "maps_query_location": "Givat Brenner"
+        }
+       ]
+    },
+    {
+      "date": "22/12/2009",
+      "observer": null,
+      "original_text": "חיננית הבתה פורחת בשמורת המסרק בהרי ירושלים ביחוד ליד מגרש החניה",
+      "locations": [
+        {
+          "location_name": "שמורת המסרק",
+          "flowers": ["חיננית הבתה"],
+          "maps_query_location": "HaMasrek Nature Reserve"
+        },
+        {
+          "location_name": "הרי ירושלים",
+          "flowers": ["חיננית הבתה"],
+           "maps_query_location":"Jerusalem Mountains"
+        }
+      ]
+    },
+    {
+      "date": "20/12/2009",
+      "observer": "יובל עברון",
+      "original_text": "זלזלת הקנוקנות מעטרת את עצי החורש בגליל התחתון בפרחיה הלבנים והגדולים.",
+      "locations": [
+        {
+          "location_name": "גליל התחתון",
+           "flowers": ["זלזלת הקנוקנות"],
+           "maps_query_location": "Lower Galilee"
+         }
+      ]
+    },
+    {
+      "date": "20/12/2009",
+      "observer": null,
+      "original_text": "נראו כבר פרחי כדן סגול במורד הר קדומים (גישה קשה)",
+        "locations": [
+        {
+          "location_name": "הר קדומים",
+          "flowers": ["כדן סגול"],
+          "maps_query_location": "Har Kedumim"
+        }
+       ]
+    },
+    {
+      "date": "18/12/2009",
+      "observer": "עירית",
+      "original_text": "במפת סימון שבילים כתוב שהחלמונית בנחל ראש פינה פורחת מאמצע נובמבר עד סופו. נכון שזה שיא הפריחה שלה אבל אפשר למצוא כבר בסוף אוקטובר את הראשונות, והיום נר שמיני של חנוכה 18.12.09 עדיין פרחו 3 קבוצות! חג שמח",
+      "locations": [
+         {
+          "location_name": "ראש פינה",
+          "flowers": ["חלמונית גדולה"],
+           "maps_query_location": "Rosh Pina"
+         },
+        {
+           "location_name": "נחל ראש פינה",
+            "flowers": ["חלמונית גדולה"],
+             "maps_query_location":"Nahal Rosh Pina"
+          }
+      ]
+    },
+     {
+      "date": "18/12/2009",
+      "observer": "דרור מלמד",
+      "original_text": "ניתן להנות מהפריחה העדינה והמקסימה למשל בחולות שמזרחית לכניסה לאור-עקיבא ובחולות חוף תל-ברוך בתל-אביב.",
+      "locations": [
+        {
+          "location_name": "אור עקיבא",
+          "flowers": ["מרסיה יפהפיה"],
+          "maps_query_location": "Or Akiva"
+        },
+         {
+          "location_name": "תל ברוך",
+           "flowers": ["מרסיה יפהפיה"],
+           "maps_query_location": "Tel Baruch"
+        },
+         {
+          "location_name": "תל אביב",
+           "flowers": ["מרסיה יפהפיה"],
+            "maps_query_location":"Tel Aviv"
+          }
+      ]
+    },
+    {
+      "date": "16/12/2009",
+       "observer": null,
+      "original_text": "החלו לפרוח. במקומות שונים פורחות שקדיות: עין כרם, נחל כסלון, בואדי מילק. גם כליל החורש פורח פה ושם, בואדי מילק",
+       "locations": [
+        {
+          "location_name": "גלילות",
+           "flowers": ["נרקיס"],
+           "maps_query_location": "Glilot"
+         },
+          {
+            "location_name": "עין כרם",
+             "flowers": ["שקד"],
+             "maps_query_location":"Ein Kerem"
+          },
+         {
+           "location_name":"נחל כסלון",
+           "flowers": ["שקד"],
+           "maps_query_location": "Nahal Kisalon"
+         },
+         {
+          "location_name":"ואדי מילק",
+           "flowers": ["שקד", "כליל החורש"],
+            "maps_query_location": "Wadi Milek"
+         }
+      ]
+    },
+        {
+      "date": "15/12/2009",
+       "observer": null,
+      "original_text": "סביון אביבי, כלניות, וגם עיריות גדולות פה ושם",
+         "locations": [
+        {
+          "location_name": "כביש 6",
+          "flowers": ["סביון אביבי", "כלנית", "עירית גדולה"],
+           "maps_query_location": "Highway 6"
+        }
+      ]
+    },
+       {
+      "date": "13/12/2009",
+       "observer": null,
+      "original_text": "בכניסה למצפה הראל, \nוכרכומים בשביל שוסטר",
+      "locations": [
+        {
+          "location_name": "מצפה הראל",
+          "flowers": ["נרקיס"],
+           "maps_query_location": "Mitzpe Harel"
+        },
+          {
+          "location_name":"שביל שוסטר",
+           "flowers": ["כרכום"],
+            "maps_query_location":"Shvil Shuster"
+        }
+      ]
+    }
+  ]
+}
+```

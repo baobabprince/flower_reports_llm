@@ -1,0 +1,236 @@
+```json
+{
+  "reports": [
+    {
+      "date": "29/11/2009",
+      "observer": "משה קופרברג",
+      "original_text": "המון סיתווניות בשמורת \"חרוצים\" ליד מושב בצרה בשרון. נא ללכת בזהירות כי הן ממש ליד השבילים ובצדדים...חשוב לבוא תמיד עם מגדיר הפרחים.",
+      "locations": [
+        {
+          "location_name": "שמורת חרוצים",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Khorashim Nature Reserve"
+        },
+        {
+          "location_name": "בצרה",
+          "flowers": ["סתוונית"],
+           "maps_query_location":"Batzra"
+        },
+         {
+          "location_name": "השרון",
+           "flowers": ["סתוונית"],
+          "maps_query_location": "Sharon"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2009",
+      "observer": "אורית",
+       "original_text": "ליורדים בשביל היורד מתחת לאוניברסיטת חיפה (פארק הכרמל) במורדות הצפון-מערביים למתבונן מתחת לרגליו, נכונה הפתעה: המוני ציצים לבנים, חלקם ניצנים וחלקם גביעים לבנים קטנים ובתוכם הצהוב הריחני - עשרות ויותר כרכומים מלבינים. (עדיין יש שרידי הסתווניות המוורידות, מתוך שרדי הקיץ. וגם המוני עלים וחלקם החלו את פריחתם - הנרקיסים.",
+      "locations": [
+        {
+          "location_name": "אוניברסיטת חיפה",
+          "flowers": ["כרכום", "סתוונית", "נרקיס"],
+          "maps_query_location": "University of Haifa"
+        },
+         {
+          "location_name": "פארק הכרמל",
+           "flowers": ["כרכום", "סתוונית", "נרקיס"],
+           "maps_query_location": "Carmel National Park"
+        },
+         {
+          "location_name":"הכרמל",
+          "flowers":["כרכום", "סתוונית", "נרקיס"],
+           "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "29/11/2009",
+      "observer": null,
+      "original_text": "יד מושב בצרה, יש שמורה קטנה \"חרוצים\" . ראינו המון סיתווניות היורה בצבע ורוד.",
+      "locations": [
+          {
+            "location_name": "בצרה",
+            "flowers": ["סתוונית"],
+             "maps_query_location": "Batzra"
+          },
+          {
+          "location_name":"שמורת חרוצים",
+          "flowers":["סתוונית"],
+          "maps_query_location": "Khorashim Nature Reserve"
+          }
+      ]
+    },
+    {
+      "date": "28/11/2009",
+       "observer": "שרה סלפק",
+       "original_text": "בטיול עם אהרלה מייטליס,אזור הרודיון,נ,תקוע,ואדי מאחרב,צפורן נקוד,שימו לב נמצא בכל מקום באזור,ליד מערת חריטון-במצוקים מרור שנהבי,ואדי מאחרב ליד מעלה-רחבעם,החלמוניות-פורחות באלפים, 27,11,2009, שרה מושב בן-שמן,",
+      "locations": [
+        {
+          "location_name": "הרודיון",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+          "maps_query_location": "Herodium"
+        },
+         {
+          "location_name": "תקוע",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+           "maps_query_location": "Tkoa"
+        },
+        {
+          "location_name": "ואדי מאחרב",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+          "maps_query_location": "Wadi Machar"
+        },
+          {
+          "location_name": "צפורן נקוד",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+          "maps_query_location": null
+        },
+         {
+          "location_name": "מערת חריטון",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+          "maps_query_location": "Hariton Cave"
+        },
+          {
+          "location_name": "מעלה רחבעם",
+          "flowers": ["מרור שנהבי", "חלמונית"],
+          "maps_query_location": "Ma'ale Rehav'am"
+        },
+        {
+          "location_name": "מושב בן-שמן",
+           "flowers": ["מרור שנהבי", "חלמונית"],
+            "maps_query_location":"Ben Shemen"
+        }
+      ]
+    },
+    {
+      "date": "28/11/2009",
+      "observer": null,
+       "original_text":"פריחה של נרקיסים כרכומים ורקפות בנחל כסלון",
+      "locations": [
+        {
+          "location_name": "נחל כסלון",
+          "flowers": ["נרקיס", "כרכום", "רקפת"],
+           "maps_query_location": "Nahal Ksalon"
+        }
+      ]
+    },
+    {
+      "date": "27/11/2009",
+      "observer": null,
+      "original_text": "שפע נרקיסים בנחל כסלון מעט לפני מערת  קדושים  מצד ימין. הנרקיסים מופיעים בריכוזים במקומות רבים בהר יהודה.  גם  בשפלה, על הר צרעה  לאורך  דרכי הקרן קיימת, ניתן לראות ריכוזים יפים של נרקיסים.",
+      "locations": [
+          {
+            "location_name": "נחל כסלון",
+            "flowers": ["נרקיס"],
+             "maps_query_location":"Nahal Ksalon"
+          },
+           {
+          "location_name":"מערת קדושים",
+           "flowers": ["נרקיס"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "הר יהודה",
+           "flowers": ["נרקיס"],
+            "maps_query_location": "Judean Mountains"
+        },
+        {
+            "location_name": "השפלה",
+           "flowers": ["נרקיס"],
+             "maps_query_location": "Shfela"
+         },
+          {
+            "location_name": "הר צרעה",
+             "flowers": ["נרקיס"],
+              "maps_query_location": "Tel Tzora"
+          }
+      ]
+    },
+    {
+      "date": "26/11/2009",
+      "observer": null,
+      "original_text": "פריחה בפתח נחל יגור: נרקיס מצוי בשיאו. כרכום חורפי שיא פריחה. בחוף דדו, מרבדים ו\"יערות\" של סתונית היורה,בן חצב סתווני, וכדן קטן פרחים. קצת פחות הזן החופי של כרכום גיירדו, טיונית החולות והתחלת פריחה של נרקיס מצוי.",
+      "locations": [
+        {
+          "location_name": "נחל יגור",
+          "flowers": ["נרקיס מצוי", "כרכום חורפי"],
+          "maps_query_location": "Nahal Yagur"
+        },
+        {
+          "location_name": "חוף דדו",
+           "flowers": ["סתוונית היורה", "בן חצב סתווני", "כדן קטן פרחים", "כרכום גיירדו", "טיונית החולות", "נרקיס מצוי"],
+             "maps_query_location": "Dado Beach"
+        }
+      ]
+    },
+       {
+      "date": "26/11/2009",
+      "observer": "עירית",
+        "original_text": "לאורך החוף בין בצת לראש הנקרה שפע פריחת נרקיסים. בנוסף- בחרבת דנעילה מצאתי נרקיס חריג ולו 7 עלי כותרת ועוד תוספת על העטרה.",
+      "locations": [
+        {
+           "location_name":"בצת",
+          "flowers":["נרקיס"],
+          "maps_query_location": "Bezet"
+         },
+        {
+           "location_name":"ראש הנקרה",
+           "flowers":["נרקיס"],
+           "maps_query_location": "Rosh Hanikra"
+         },
+          {
+           "location_name":"חרבת דנעילה",
+           "flowers":["נרקיס"],
+           "maps_query_location": null
+         }
+      ]
+    },
+    {
+      "date": "25/11/2009",
+      "observer": null,
+        "original_text":"20-11 דלואה-,כרכום נאה,כרכם השבכה,כרכום צהבהב וכרכום גיירדו. מעט סתוניות התשבץ-סוף.סתונית קצרת עלים-התחלה.ביער אודם כרכום השבכה וכרכום צהבהב. מעט כרכום נאה וכן שינן עבה שורש + כתמה עבת שורשים. מרום גולן- מרבדי כרכום נאה ופחות מין האחרים. הר שיפון בעיקר גיירדו והשבכה. בחל דישון 21.0.11.03.9 כרכום חורפי,רקפות, נרקיסים וסוף החלמוניות. מיוחד שם פריחת הציפורנית המגוונת עדין כמעט בשיאה ופה ושם לוע הארי הגדול.",
+      "locations": [
+         {
+          "location_name":"דלואה",
+           "flowers":["כרכום נאה", "כרכום השבכה", "כרכום צהבהב", "כרכום גיירדו","סתונית התשבץ","סתונית קצרת עלים", "שינן עבה שורש", "כתמה עבת שורשים"],
+            "maps_query_location": null
+         },
+        {
+          "location_name": "יער אודם",
+          "flowers": ["כרכום השבכה", "כרכום צהבהב", "כרכום נאה", "שינן עבה שורש", "כתמה עבת שורשים"],
+           "maps_query_location": "Odem Forest"
+        },
+        {
+          "location_name": "מרום גולן",
+           "flowers": ["כרכום נאה", "כרכום השבכה", "כרכום צהבהב", "כרכום גיירדו","סתונית התשבץ","סתונית קצרת עלים", "שינן עבה שורש", "כתמה עבת שורשים"],
+            "maps_query_location": "Merom Golan"
+        },
+         {
+          "location_name":"הר שיפון",
+           "flowers":["כרכום גיירדו", "כרכום השבכה"],
+            "maps_query_location": "Mount Shifon"
+         },
+           {
+          "location_name": "נחל דישון",
+           "flowers": ["כרכום חורפי", "רקפת", "נרקיס", "חלמונית", "ציפורנית מגוונת", "לוע הארי הגדול"],
+            "maps_query_location": "Nahal Dishon"
+        }
+      ]
+    },
+    {
+      "date": "25/11/2009",
+      "observer": null,
+      "original_text": "בשמורת החולות של משאבי שדה את האחילוף הזעיר בשיא פריחה.",
+       "locations": [
+        {
+          "location_name": "משאבי שדה",
+           "flowers": ["אחילוף זעיר"],
+            "maps_query_location":"Mashabei Sadeh"
+        }
+      ]
+    }
+  ]
+}
+```

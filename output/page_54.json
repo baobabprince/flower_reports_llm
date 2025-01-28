@@ -1,0 +1,151 @@
+```json
+{
+  "reports": [
+    {
+      "date": "15/11/2023",
+      "observer": null,
+      "original_text": "באל-חמה, בית צפפה, מעט בתבור",
+       "locations": [
+        {
+          "location_name": "אל-חמה",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Al-Hamma"
+        },
+         {
+          "location_name": "בית צפפה",
+           "flowers": ["חלמונית"],
+             "maps_query_location": "Beit Safafa"
+        },
+         {
+          "location_name": "תבור",
+           "flowers": ["חלמונית"],
+              "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2023",
+      "observer": null,
+      "original_text": "המקום בד\"כ בין אחרוני הפורחים מבחינת חלמוניות",
+     "locations": [
+        {
+          "location_name": "הר תבור",
+          "flowers": ["חלמונית"],
+            "maps_query_location": "Mount Tabor"
+        }
+      ]
+    },
+    {
+      "date": "12/11/2023",
+       "observer": null,
+      "original_text": "ארכובית הארזים , כרכום נאה, עוזרר חד גרעיני (פירות)",
+      "locations": [
+        {
+          "location_name": "יער אודם",
+          "flowers": ["ארכובית הארזים", "כרכום נאה", "עוזרר חד-גרעיני"],
+           "maps_query_location": "Odem Forest"
+        }
+      ]
+    },
+    {
+      "date": "12/11/2023",
+       "observer": null,
+      "original_text": "כשות השדות, לפופית משולשת, מלוכיה משולשת, סידה קוצנית, ססבינה מצרית, עטיינית קצרה",
+      "locations": [
+        {
+          "location_name": "מאגר חרוד",
+          "flowers": ["כשות השדות", "לפופית משולשת", "מלוכיה משולשת", "סידה קוצנית", "ססבינה מצרית", "עטיינית קצרה"],
+          "maps_query_location": "Harod Reservoir"
+        },
+         {
+          "location_name": "עמק חרוד",
+            "flowers": ["כשות השדות", "לפופית משולשת", "מלוכיה משולשת", "סידה קוצנית", "ססבינה מצרית", "עטיינית קצרה"],
+            "maps_query_location": "Harod Valley"
+        }
+      ]
+    },
+   {
+      "date": "12/11/2023",
+       "observer": null,
+      "original_text":"אגס סורי , אלה ארצישראלית, (פירות) עפצים בחזקה, חלמונית גדולה, כרכום גיארדו, כרכום הסבכה, סיתוונית התשבץ",
+       "locations": [
+         {
+          "location_name": "חזקה",
+          "flowers": ["אגס סורי", "אלה ארצישראלית", "חלמונית גדולה", "כרכום גיארדו", "כרכום הסבכה", "סתוונית התשבץ"],
+            "maps_query_location": "Hazeka"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2023",
+      "observer": "משה ילובסקי",
+      "original_text": "מקבצים יפים של חלמוניות ביער דודאים - להבים",
+      "locations": [
+        {
+          "location_name": "יער דודאים",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Ya'ar Dudaim"
+        },
+         {
+          "location_name": "להבים",
+            "flowers": ["חלמונית"],
+              "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "08/11/2023",
+      "observer": null,
+      "original_text": "בא\"ח גולני- מזרחית לרגבים.8.11.23\nאחילוף הגליל\nעשרות פרטים פורחים.( למעלה מ 40)\nאתר אדיר\nבעקבות אילת בר - מגלת האתר\nתודות  לרוני בראונר  שעוד הוסיף כהנה וכהנה. ראו קישור",
+      "locations": [
+        {
+          "location_name": "בא\"ח גולני",
+          "flowers": ["אחילוף הגליל"],
+           "maps_query_location": "Bah Golani"
+        },
+         {
+          "location_name":"רגבים",
+            "flowers": ["אחילוף הגליל"],
+              "maps_query_location": "Regavim"
+        }
+      ]
+    },
+    {
+       "date": "12/11/2023",
+       "observer": "יעקב גנץ",
+      "original_text": "ליד מערב פער , נסע וצילם יעקב גנץ , ראו קישור",
+      "locations": [
+        {
+          "location_name": "מערב פער",
+          "flowers": ["כרכום צהבהב"],
+             "maps_query_location": "Ma'arav Pe'er"
+        }
+      ]
+    },
+    {
+       "date": "11/11/2023",
+       "observer": "תמר",
+      "original_text":"מספר תפרחות של סתוונית ירושלים במלוא הדרן במזבלה מאחורי איתרי בירושלים. לידן יש מעט חלמוניות.",
+       "locations": [
+        {
+          "location_name": "ירושלים",
+           "flowers": ["סתוונית ירושלים", "חלמונית"],
+           "maps_query_location": "Jerusalem"
+        }
+      ]
+    },
+      {
+      "date": "11/11/2023",
+       "observer":"תמר",
+      "original_text":"חלמוניות פורחות (מצאנו 6. 3 זוגות.) במזבלה מאחורי איתרי בירושלים.",
+       "locations": [
+        {
+          "location_name": "ירושלים",
+           "flowers": ["חלמונית גדולה"],
+             "maps_query_location": "Jerusalem"
+        }
+      ]
+    }
+  ]
+}
+```

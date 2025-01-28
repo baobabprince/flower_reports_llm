@@ -1,0 +1,264 @@
+```json
+{
+  "reports": [
+    {
+      "date": "09/10/2024",
+      "observer": null,
+      "original_text": "אלת המסטיק ,  אספרג החורש,  אשבל ארץ-ישראלי , ברומית סורית, הררית קטנה, זוטה , חצב מצוי,  כתלה חריפה,  מלעניאל קצר-מלענים, סקליגריה כרתית (פרי) ,  פרע קטן-עלים ,  קיפודן מצוי ,  קיצנית כרתית,   שרביטן מצוי (זכר ונקבה) ",
+      "locations": [
+        {
+          "location_name": "נחל ספונים",
+          "flowers": [
+            "אלת המסטיק",
+            "אספרג החורש",
+            "אשבל ארץ-ישראלי",
+            "ברומית סורית",
+             "הררית קטנה",
+             "זוטה",
+             "חצב מצוי",
+            "כתלה חריפה",
+            "מלעניאל קצר-מלענים",
+             "סקליגריה כרתית",
+            "פרע קטן-עלים",
+            "קיפודן מצוי",
+            "קיצנית כרתית",
+            "שרביטן מצוי"
+          ],
+           "maps_query_location": "Nahal Sefunim"
+        },
+         {
+          "location_name": "כרמל",
+          "flowers": [
+             "אלת המסטיק",
+            "אספרג החורש",
+            "אשבל ארץ-ישראלי",
+            "ברומית סורית",
+             "הררית קטנה",
+             "זוטה",
+             "חצב מצוי",
+            "כתלה חריפה",
+            "מלעניאל קצר-מלענים",
+             "סקליגריה כרתית",
+            "פרע קטן-עלים",
+            "קיפודן מצוי",
+            "קיצנית כרתית",
+            "שרביטן מצוי"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2024",
+      "observer": null,
+      "original_text": "דגנה הודית , חילף החולות , לפופית נאכלת (בטטה. צמח תרבות )",
+      "locations": [
+        {
+          "location_name": "תלמי אלעזר",
+          "flowers": [
+            "דגנה הודית",
+            "חילף החולות",
+            "לפופית נאכלת"
+          ],
+           "maps_query_location": "Telmei Elazar"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2024",
+      "observer": null,
+      "original_text": "עטיינית פקטורי ,  עפעפית ,  גומא התעלות ",
+       "locations": [
+        {
+          "location_name": "נחל רושרושי",
+            "flowers": [
+            "עטיינית פקטורי",
+             "עפעפית",
+            "גומא התעלות"
+          ],
+           "maps_query_location": "Nahal Roshroshi"
+        }
+      ]
+    },
+    {
+       "date": "30/09/2024",
+       "observer": null,
+       "original_text": "קוצן קיפח פורח  בכביש גבעת-וולפסון  ",
+      "locations": [
+        {
+          "location_name": "גבעת וולפסון",
+          "flowers": [
+            "קוצן קיפח"
+          ],
+          "maps_query_location": "Givat Wolfson"
+        },
+         {
+          "location_name": "כרמל",
+          "flowers": [
+            "קוצן קיפח"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2024",
+      "observer": null,
+      "original_text": "חצבים וחבצלות החוף ",
+      "locations": [
+        {
+          "location_name": "תל דור",
+          "flowers": [
+             "חצב מצוי",
+             "חבצלת החוף"
+          ],
+          "maps_query_location": "Tel Dor"
+        }
+      ]
+    },
+     {
+      "date": "30/09/2024",
+      "observer": null,
+       "original_text": "אמברוסיה מכונסת, חלבלוב הדגניים , חנק מחודד, לפופית משולשת ",
+      "locations": [
+        {
+          "location_name": "פארק חדרה",
+          "flowers": [
+            "אמברוסיה מכונסת",
+             "חלבלוב הדגניים",
+            "חנק מחודד",
+             "לפופית משולשת"
+          ],
+           "maps_query_location": "Hadera Park"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2024",
+      "observer": null,
+       "original_text": "לפופית רייט ( מעיין צבי), עוקץ-עקרב אפור , קנה-סוכר גבוה ",
+       "locations": [
+        {
+          "location_name": "מעיין צבי",
+          "flowers": [
+            "לפופית רייט",
+            "עוקץ-עקרב אפור",
+            "קנה-סוכר גבוה"
+          ],
+          "maps_query_location": "Maayan Zvi"
+        },
+        {
+         "location_name": "מעגן מיכאל",
+         "flowers": [
+           "לפופית רייט",
+            "עוקץ-עקרב אפור",
+            "קנה-סוכר גבוה"
+         ],
+           "maps_query_location": "Maagan Michael"
+       }
+      ]
+    },
+     {
+      "date": "30/09/2024",
+       "observer": null,
+       "original_text": "שרוכנית ארץ-ישראלית , כפתור החולות , ארכובית ארץ-ישראלית , עוקץ-עקרב ריחני  ",
+      "locations": [
+        {
+          "location_name": "מפעל שיקוע נחלי מנשה",
+           "flowers": [
+            "שרוכנית ארץ-ישראלית",
+             "כפתור החולות",
+            "ארכובית ארץ-ישראלית",
+             "עוקץ-עקרב ריחני"
+          ],
+           "maps_query_location":"Mif'al Shikua Nechalei Menashe"
+        }
+      ]
+    },
+    {
+      "date": "30/09/2024",
+      "observer": null,
+      "original_text": "שום סתווי , חורשף מצוייץ ",
+      "locations": [
+        {
+          "location_name": "חניון הרקפות",
+            "flowers": [
+            "שום סתווי",
+            "חורשף מצוייץ"
+          ],
+           "maps_query_location": "Hanyon HaRikfot"
+        },
+         {
+          "location_name": "כרמל",
+             "flowers": [
+            "שום סתווי",
+            "חורשף מצוייץ"
+          ],
+          "maps_query_location": "Carmel"
+        }
+      ]
+    },
+    {
+      "date":"25/09/2024",
+      "observer": null,
+      "original_text": "טמבור  עכו חלבלוב מצרי , לשישית בוצינית , עוקץ-עקרב שעיר , קנה-סוכר גבוה",
+        "locations": [
+        {
+         "location_name": "עין המפרץ",
+          "flowers": [
+             "טמבור עכו",
+            "חלבלוב מצרי",
+             "לשישית בוצינית",
+            "עוקץ-עקרב שעיר",
+            "קנה-סוכר גבוה"
+          ],
+           "maps_query_location": "Ein Hamifratz"
+        },
+         {
+            "location_name": "עכו",
+            "flowers": [
+               "טמבור עכו",
+            "חלבלוב מצרי",
+             "לשישית בוצינית",
+            "עוקץ-עקרב שעיר",
+            "קנה-סוכר גבוה"
+          ],
+            "maps_query_location": "Akko"
+         }
+      ]
+    },
+    {
+      "date": "25/09/2024",
+      "observer": null,
+      "original_text": "בוען מחודד-עלים, מלוח קטן-פרי ,   ערר כרתי ",
+      "locations": [
+        {
+          "location_name": "עין המפרץ",
+          "flowers": [
+             "בוען מחודד-עלים",
+            "מלוח קטן-פרי",
+              "ערר כרתי"
+          ],
+          "maps_query_location": "Ein Hamifratz"
+        }
+      ]
+    },
+      {
+        "date": "25/09/2024",
+        "observer": null,
+        "original_text": "בוען מחודד-עלים, מלוח קטן-פרי ,   ערר כרתי ",
+      "locations": [
+           {
+          "location_name": "ברכות עין המפרץ",
+          "flowers": [
+             "בוען מחודד-עלים",
+            "מלוח קטן-פרי",
+             "ערר כרתי"
+          ],
+             "maps_query_location": "Brekhot Ein Hamifratz"
+          }
+        ]
+      }
+  ]
+}
+```

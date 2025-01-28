@@ -1,0 +1,156 @@
+```json
+{
+  "reports": [
+    {
+      "date": "10/11/2024",
+      "observer": "עידו מגן",
+      "original_text": "בואדי יש פריחה עשירה אבל עוד לא בשיא. ריכוזים יפים במיוחד אפשר לראות על אבני הדרדרת שמדרום מערב לחניה, על שביל השחור.",
+      "locations": [
+        {
+          "location_name": "להבים",
+           "flowers": [],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+    {
+      "date": "09/11/2024",
+      "observer": "טובית",
+      "original_text": "B פריחה מרהיבה של הסתווניות בגבעת האשחרים ליד ג'סר אזרקא. לא נראה מהכביש להסתובב בין האשחרים",
+      "locations": [
+        {
+          "location_name": "גבעת האשחרים",
+          "flowers": ["סתוונית"],
+          "maps_query_location": "Givat HaEscharim"
+        },
+        {
+          "location_name": "ג'סר אזרקא",
+          "flowers": ["סתוונית"],
+           "maps_query_location": "Jisr az-Zarqa"
+        }
+      ]
+    },
+    {
+      "date": "05/11/2024",
+      "observer": "עידו מגן",
+      "original_text": "מעט מזרחית לחורבת סנסן שליד צור הדסה פורחות עשרות חלמוניות נכון ל-1.11. קצת מסובך להגיע לשם אז מי שמעוניין מוזמן ליצור איתי קשר.",
+      "locations": [
+         {
+          "location_name": "חורבת סנסן",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Hurvat Sansan"
+        },
+        {
+          "location_name": "צור הדסה",
+          "flowers": ["חלמונית"],
+          "maps_query_location":"Tzur Hadassah"
+        }
+      ]
+    },
+    {
+      "date": "03/11/2024",
+      "observer": "רוני גבע",
+      "original_text": "פריחה יפה לקראת השיא",
+      "locations": [
+        {
+          "location_name": "להבים",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Lehavim"
+        }
+      ]
+    },
+      {
+      "date": "02/11/2024",
+      "observer": null,
+      "original_text": "רקפת סתווית ללא עלים",
+      "locations": [
+        {
+          "location_name": "מושב כחל",
+          "flowers": ["רקפת סתווית"],
+           "maps_query_location": "Moshav Kahal"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2024",
+      "observer": null,
+       "original_text": "כתלה חריפה , עוקץ-עקרב ארם-צובא , עוקץ-עקרב שעיר , עופרית אירופית",
+      "locations": [
+        {
+          "location_name": "צומת גולני",
+           "flowers": ["כתלה חריפה", "עוקץ-עקרב ארם-צובא", "עוקץ-עקרב שעיר", "עופרית אירופית"],
+          "maps_query_location": "Golan Junction"
+        }
+      ]
+    },
+    {
+      "date": "02/11/2024",
+       "observer": null,
+      "original_text": "אחו נוב:\nבן-חצב סתווני, סתוונית ירושלים \n\nתל ורכס חזקה:\nכרכום נאה, חלמונית גדולה  \n\nמוצב 117 גולן \nדוגון ירושלמי, קנרס סורי \n\n\nבריכת בראון בגולן \nכרכום נאה, סתוונית התשבץ",
+      "locations": [
+        {
+          "location_name": "אחו נוב",
+           "flowers": ["בן-חצב סתווני", "סתוונית ירושלים"],
+          "maps_query_location": "Ahu Nov"
+        },
+        {
+           "location_name": "תל ורכס חזקה",
+           "flowers": ["כרכום נאה", "חלמונית גדולה"],
+          "maps_query_location": "Tel Hazeka"
+        },
+         {
+          "location_name": "מוצב 117 גולן",
+           "flowers": ["דוגון ירושלמי", "קנרס סורי"],
+          "maps_query_location": "Golan Heights"
+         },
+        {
+           "location_name": "בריכת בראון",
+           "flowers": ["כרכום נאה", "סתוונית התשבץ"],
+          "maps_query_location": "Brechat Brown"
+        }
+      ]
+    },
+    {
+      "date": "25/10/2024",
+      "observer": "עידו מגן",
+      "original_text": "בשביל הכחול של נחל קטלב תחילת פריחה של חלמוניות. במטע זיתים ברח' הרוזמרין פינת כביש 60 בגילה שיא פריחה של סתווניות ירושלים.",
+       "locations": [
+         {
+          "location_name": "נחל קטלב",
+          "flowers": ["חלמונית"],
+          "maps_query_location": "Nahal Katlav"
+        },
+        {
+          "location_name": "גילה",
+           "flowers": ["סתוונית ירושלים"],
+          "maps_query_location": "Gilo"
+        }
+      ]
+    },
+    {
+      "date": "22/10/2024",
+      "observer": "יונית",
+      "original_text": "הרבה חלמוניות פורחות בשמורת חלמונית ירוחם. מיד אחרי השלט חפשו על הצלע השמאלית  בין הסלעים",
+      "locations": [
+        {
+          "location_name": "שמורת חלמונית ירוחם",
+           "flowers": ["חלמונית"],
+          "maps_query_location": "Yeruham Iris Reserve"
+        }
+      ]
+    },
+    {
+      "date": "19/10/2024",
+      "observer": null,
+      "original_text": "לשם מותר ומומלץ לטייל -",
+      "locations": [
+        {
+          "location_name": "ירוחם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Yeruham"
+        }
+      ]
+    }
+  ]
+}
+```

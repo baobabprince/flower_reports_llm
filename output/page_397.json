@@ -1,0 +1,270 @@
+```json
+{
+  "reports": [
+    {
+      "date": "31/08/2017",
+      "observer": null,
+      "original_text": "ממערב למצפה צרעה, שולי יער בן שמן, תל חפר, גליל עליון ( תחילת פריחה) , כוכב יאיר צור-יגאל, חוף בצת, שער פולג, הגן של עתי,  נאות קדומים,",
+      "locations": [
+        {
+          "location_name": "מצפה צרעה",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Mitzpe Zora"
+        },
+        {
+          "location_name": "יער בן שמן",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+        },
+         {
+          "location_name": "תל חפר",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Hefer"
+        },
+        {
+          "location_name": "גליל עליון",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Upper Galilee"
+        },
+          {
+          "location_name": "כוכב יאיר",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Kokhav Yair"
+        },
+        {
+          "location_name": "צור יגאל",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tzur Yigal"
+        },
+        {
+          "location_name": "חוף בצת",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Bezet Beach"
+        },
+         {
+          "location_name": "שער פולג",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Sha'ar Poleg"
+        },
+          {
+          "location_name": "נאות קדומים",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Neot Kedumim"
+        }
+      ]
+    },
+    {
+      "date": "30/08/2017",
+       "observer": null,
+      "original_text": "היום 30.08 פריחת חצבים בתל חפר ( משמאל לבית העלמין). יש כ 15 פריטים",
+       "locations": [
+        {
+          "location_name": "תל חפר",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Hefer"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2017",
+       "observer": null,
+      "original_text": "ראו אלבום בקישור: \nלפופית החיצים , חנק מחודד ועוד",
+      "locations": [
+         {
+          "location_name": "מעגן מיכאל",
+           "flowers": [
+            "לפופית החיצים",
+            "חנק מחודד"
+          ],
+          "maps_query_location": "Ma'agan Michael"
+        }
+      ]
+    },
+    {
+      "date": "28/08/2017",
+       "observer": null,
+     "original_text": "חורשץ מצוייץ, חסת השבטים,, רגלת הגינה, בן-קוצן מאפיר , קייצני כרתית, שרביטן מצוי ומיני פיורת",
+       "locations": [
+          {
+          "location_name": "מצפה נטופה",
+          "flowers": [
+            "חורשף מצויץ",
+            "חסת השבטים",
+             "רגלת הגינה",
+             "בן-קוצן מאפיר",
+            "קייצני כרתית",
+            "שרביטן מצוי",
+             "פיורה"
+          ],
+          "maps_query_location": "Mitzpe Netofa"
+        }
+      ]
+    },
+    {
+      "date": "20/08/2017",
+       "observer": null,
+      "original_text": "בנחל הבשור כבר יש פריחה יפה של חצב גלוני",
+      "locations": [
+         {
+          "location_name": "נחל הבשור",
+          "flowers": [
+            "חצב גלוני"
+          ],
+           "maps_query_location": "Nahal HaBesor"
+        }
+      ]
+    },
+    {
+      "date": "17/08/2017",
+       "observer": null,
+     "original_text": "שלמון כוכבני עדיין פורח במרומי החרמון",
+      "locations": [
+         {
+          "location_name": "חרמון",
+          "flowers": [
+            "שלמון כוכבני"
+          ],
+           "maps_query_location": "Mount Hermon"
+        }
+      ]
+    },
+    {
+      "date": "17/08/2017",
+       "observer": null,
+       "original_text": "באחו בנימינה  כבר פורחת נטופית רפואית, שנית גדולה שנית מתפתלת,  ועוד רבים אחרים אשבל הביצה לוטוס הביצות",
+      "locations": [
+        {
+          "location_name": "אחו בנימינה",
+           "flowers": [
+            "נטופית רפואית",
+            "שנית גדולה",
+             "שנית מתפתלת",
+              "אשבל הביצה",
+              "לוטוס הביצות"
+          ],
+           "maps_query_location": "Binyamina"
+        }
+      ]
+    },
+     {
+      "date": "17/08/2017",
+       "observer": null,
+     "original_text": "במצפה רמון ( ראו בקישור צילום של תיקי עוזר) , בשדות מושב גמזו , בפולג, עתלית , כוכב יאר , ביצת אודים, שמורת פולג גבעת עדה ואזור צרעה",
+       "locations": [
+         {
+          "location_name": "מצפה רמון",
+           "flowers": [
+             "חצב"
+            ],
+          "maps_query_location": "Mitzpe Ramon"
+        },
+         {
+          "location_name": "מושב גמזו",
+          "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Gimzo"
+        },
+        {
+          "location_name": "פולג",
+           "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Poleg"
+        },
+         {
+          "location_name": "עתלית",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Atlit"
+        },
+         {
+          "location_name": "כוכב יאיר",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Kokhav Yair"
+        },
+         {
+          "location_name": "ביצת אודים",
+          "flowers": [
+            "חצב"
+          ],
+           "maps_query_location": "Udim"
+        },
+         {
+          "location_name": "שמורת פולג",
+           "flowers": [
+             "חצב"
+            ],
+          "maps_query_location": "Poleg Nature Reserve"
+        },
+         {
+          "location_name": "גבעת עדה",
+           "flowers": [
+             "חצב"
+            ],
+          "maps_query_location": "Givat Ada"
+        },
+          {
+          "location_name": "אזור צרעה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tzora"
+        }
+      ]
+    },
+    {
+      "date": "09/08/2017",
+       "observer": null,
+      "original_text": "בחירבת קרתא החלה כבר פריחה , היכן עוד יפרחו ראו למטה בקישור",
+     "locations": [
+         {
+          "location_name": "חירבת קרתא",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Khirbet Karta"
+        }
+      ]
+    },
+     {
+      "date": "09/08/2017",
+       "observer": "יחיאל אוקנין",
+      "original_text": "היביסקוס משולש ינבוט השדה",
+      "locations": [
+         {
+          "location_name": "עמק יזרעאל",
+          "flowers": [
+            "היביסקוס משולש",
+             "ינבוט השדה"
+          ],
+           "maps_query_location": "Jezreel Valley"
+        }
+      ]
+    }
+  ]
+}
+```

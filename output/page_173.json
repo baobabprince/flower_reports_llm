@@ -1,0 +1,243 @@
+```json
+{
+  "reports": [
+    {
+      "date": "18/09/2021",
+      "observer": null,
+      "original_text": "ראו קישור",
+      "locations": [
+        {
+          "location_name": "נחל טוביה",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Nahal Tuvia"
+        },
+        {
+          "location_name": "ערד",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Arad"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2021",
+      "observer": "דודי ריבנר",
+      "original_text": "שלשת שיחי ''הטפרוסיה-הנובית'', שהתגלו לפני כ שלוש שנים, באזור אילת,  על ידי דודי ריבנר (קיבוץ אילות) , החלו לפרוח לפני כחודש!!!! בשעה שכל צמחי המדבר שסביב להם, מתקשים לעבור הקיץ, הטפרוסיה מלבלבת ופורחת.",
+      "locations": [
+        {
+          "location_name": "אילת",
+           "flowers": [
+            "טפרוסיה נובית"
+          ],
+          "maps_query_location": "Eilat"
+        }
+      ]
+    },
+    {
+      "date": "18/09/2021",
+      "observer": "גילה ארז",
+        "original_text": "בגן לאומי מרר, ליד גדרה, פורחים החצבים.",
+      "locations": [
+          {
+          "location_name": "גן לאומי מרר",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Merar National Park"
+        },
+        {
+          "location_name": "גדרה",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Gedera"
+         }
+      ]
+    },
+    {
+      "date": "17/09/2021",
+      "observer": null,
+      "original_text": "בהר מירון ובשביל הפיסגה , ראו מסלול",
+      "locations": [
+        {
+          "location_name": "הר מירון",
+          "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location": "Mount Meron"
+        },
+         {
+          "location_name": "שביל הפיסגה",
+           "flowers": [
+            "סתוונית בכירה"
+          ],
+          "maps_query_location": "Pissga Trail"
+        }
+      ]
+    },
+    {
+      "date": "15/09/2021",
+      "observer": "פירסט ש",
+       "original_text": "המון חצבים במושב בית חנניה .(בכניסה למושב רואים אותם מכביש 4).",
+      "locations": [
+        {
+          "location_name": "בית חנניה",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Beit Hananya"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2021",
+      "observer": null,
+        "original_text": "פורחת בצמוד לשכונה הצפונית במצפה.",
+      "locations": [
+        {
+          "location_name": "מצפה",
+          "flowers": [
+            "סתוונית הקליפות"
+          ],
+          "maps_query_location": "Mitzpe"
+        }
+      ]
+    },
+    {
+      "date": "14/09/2021",
+       "observer": null,
+      "original_text": "בגיא בן הינום בירושלים ובתל ידפת ובכל הארץ",
+      "locations": [
+        {
+          "location_name": "גיא בן הינום",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Ben Hinnom Valley"
+        },
+        {
+          "location_name": "ירושלים",
+          "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Jerusalem"
+        },
+         {
+          "location_name": "תל ידפת",
+           "flowers": [
+            "חצב"
+          ],
+          "maps_query_location": "Tel Yodfat"
+         }
+      ]
+    },
+    {
+      "date": "13/09/2021",
+      "observer": null,
+       "original_text": "חורשף מצויץ, חצבים ( בתל חדיד) וובשולי שדות מושב גמזו , חורשף מצויץ, בת חבצלת קטנת פרחים ( בשבילי האופניים בואכה מודיעין , פירות אשחר בשלים, פרחי שומר פשוט אכילים שעוד מעט יהפכו לזרעים  וכדאי להצטייד מהם במטבח,",
+      "locations": [
+        {
+          "location_name": "יער בן שמן",
+          "flowers": [
+            "חורשף מצויץ",
+              "חצב",
+              "בת חבצלת קטנת פרחים",
+               "שומר פשוט"
+          ],
+          "maps_query_location": "Ben Shemen Forest"
+         },
+        {
+          "location_name": "תל חדיד",
+           "flowers": [
+              "חצב"
+           ],
+          "maps_query_location": "Tel Hadid"
+        },
+        {
+          "location_name": "מושב גמזו",
+          "flowers": [
+            "חורשף מצויץ"
+          ],
+          "maps_query_location": "Gimzo"
+        },
+         {
+          "location_name":"מודיעין",
+           "flowers": [
+            "בת חבצלת קטנת פרחים"
+           ],
+          "maps_query_location":"Modiin"
+        }
+      ]
+    },
+     {
+      "date": "13/09/2021",
+      "observer": "עידו מגן",
+      "original_text": "פריחה בשיאה בגבעת הכורכר בנס ציונה ובגבעת חומרה נכון לתאריך 10.9",
+      "locations": [
+        {
+           "location_name": "גבעת הכורכר",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Kurkar Hill"
+        },
+         {
+          "location_name": "נס ציונה",
+           "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Ness Ziona"
+        },
+        {
+          "location_name": "גבעת חומרה",
+          "flowers": [
+            "חצב"
+           ],
+          "maps_query_location": "Givat Humra"
+        }
+      ]
+    },
+    {
+      "date": "12/09/2021",
+      "observer": "אלחנן נוסינסון",
+      "original_text": "המוני חבצלות פורחות על רכס הכורכר מול חוף הילטון עד צפונה מול שדה דב. ליד רידינג פורחים מר הלילה החופי ו-לפופית החוף. בשמורת בריכת החורף שלולית לוינסקי פורחים חצבים, נענעת הכדורים ולנטנה ססגונית.",
+      "locations": [
+        {
+          "location_name": "חוף הילטון",
+          "flowers": [
+            "חבצלת"
+          ],
+          "maps_query_location": "Hilton Beach"
+        },
+         {
+          "location_name": "שדה דב",
+          "flowers": [
+             "חבצלת"
+          ],
+          "maps_query_location": "Sde Dov"
+        },
+        {
+          "location_name": "רידינג",
+            "flowers": [
+            "מר הלילה החופי",
+            "לפופית החוף"
+          ],
+          "maps_query_location":"Reading"
+        },
+        {
+           "location_name": "שמורת בריכת החורף שלולית לוינסקי",
+           "flowers": [
+            "חצב",
+            "נענעת הכדורים",
+            "לנטנה ססגונית"
+          ],
+           "maps_query_location": "Levinsky Pool"
+        }
+      ]
+    }
+  ]
+}
+```

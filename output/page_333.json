@@ -1,0 +1,216 @@
+```json
+{
+  "reports": [
+    {
+      "date": "13/11/2018",
+      "observer": null,
+      "original_text": "יער יתיר, להבים, הר מירון ושביל הפיסגה, הר תבור , נחל ראש פינה, בגנים הבוטניים , הר אדמון, הגן של עתי",
+      "locations": [
+        {
+          "location_name": "יער יתיר",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Yatir Forest"
+        },
+        {
+          "location_name": "להבים",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Lahavim"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Mount Meron"
+        },
+         {
+          "location_name": "שביל הפיסגה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": null
+        },
+        {
+          "location_name": "הר תבור",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Mount Tabor"
+        },
+        {
+          "location_name": "נחל ראש פינה",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Nahal Rosh Pina"
+        },
+         {
+          "location_name": "הגנים הבוטניים",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Botanical garden"
+        },
+        {
+          "location_name": "הר אדמון",
+           "flowers": ["חלמונית"],
+           "maps_query_location": "Har Admon"
+        },
+        {
+          "location_name": "הגן של עתי",
+           "flowers": ["חלמונית"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "13/11/2018",
+       "observer": null,
+      "original_text": "בנחל חלילים",
+      "locations": [
+        {
+          "location_name": "נחל חלילים",
+          "flowers": ["אצבוע אירופי"],
+           "maps_query_location": "Nahal Halilim"
+        }
+      ]
+    },
+    {
+      "date": "13/11/2018",
+      "observer": null,
+       "original_text": "הר-אדיר : אחילוף קטן , עצבונית החורש  הר-אדמון  : חלמונית גדולה,  חלמונית זעירה פורחת ב:  מערת-עלמה, הר אביבים, הר-מירון  : כרכום נאה וחלמונית גדולה , מערת-פער  : כרכום צהבהב, סיתוונית בכירה,  דלתון :שינן עבה-שורש , כרכום גיארדו , מערת-עלמה : עופרית אירופית , סיתוונית ירושלים,  נחל-דליות : תלת-מלען מצוי , בן-דוחן מדברי, בן-חילף מופסק , דורה רותמית , ישרוע מאוגד",
+      "locations": [
+        {
+          "location_name": "הר אדיר",
+          "flowers": ["אחילוף קטן", "עצבונית החורש"],
+          "maps_query_location": "Har Adir"
+        },
+         {
+          "location_name": "הר אדמון",
+          "flowers": ["חלמונית גדולה", "חלמונית זעירה"],
+          "maps_query_location": "Har Admon"
+        },
+        {
+          "location_name": "מערת עלמה",
+           "flowers": ["חלמונית זעירה", "עופרית אירופית", "סיתוונית ירושלים"],
+           "maps_query_location": null
+        },
+         {
+          "location_name": "הר אביבים",
+          "flowers": ["חלמונית זעירה"],
+          "maps_query_location": "Har Avivim"
+        },
+        {
+          "location_name": "הר מירון",
+          "flowers": ["חלמונית גדולה","כרכום נאה"],
+           "maps_query_location": "Mount Meron"
+        },
+         {
+          "location_name": "מערת פער",
+          "flowers": ["כרכום צהבהב", "סיתוונית בכירה"],
+          "maps_query_location": null
+        },
+          {
+          "location_name": "דלתון",
+          "flowers": ["שינן עבה-שורש","כרכום גיארדו"],
+          "maps_query_location": "Dalton"
+        },
+         {
+          "location_name": "נחל דליות",
+          "flowers": ["תלת-מלען מצוי", "בן-דוחן מדברי", "בן-חילף מופסק", "דורה רותמית", "ישרוע מאוגד"],
+           "maps_query_location": "Nahal Daliyyot"
+        }
+      ]
+    },
+    {
+      "date": "11/11/2018",
+      "observer": "אפרת נתן",
+      "original_text": "פריחת חלמוניות בעיצומה בגבעת הראל וכן בן חצב סתווני",
+      "locations": [
+        {
+          "location_name": "גבעת הראל",
+          "flowers": ["חלמונית","בן חצב סתווני"],
+          "maps_query_location": "Giv'at Harel"
+        }
+      ]
+    },
+     {
+      "date": "10/11/2018",
+       "observer": "מיכאל לרנר",
+      "original_text": "תחילת פריחה ליד הכביש מתחת לחורבת עקד ובדרך האדומה למגדל התצפית",
+      "locations": [
+         {
+          "location_name": "פארק איילון",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Ayalon Park"
+        },
+        {
+          "location_name": "חורבת עקד",
+          "flowers": ["נרקיס"],
+          "maps_query_location": "Hurvat Eqed"
+        },
+        {
+          "location_name": "מגדל התצפית",
+          "flowers": ["נרקיס"],
+           "maps_query_location": null
+        }
+      ]
+    },
+    {
+      "date": "10/11/2018",
+       "observer": "גילי כץ בן שפר",
+      "original_text": "בשמורת חלמוניות ירוחם פריחה יפיפיה של חלמוניות, בעיקר על מדרון ההר, שווה!",
+       "locations": [
+        {
+          "location_name": "שמורת חלמוניות ירוחם",
+          "flowers": ["חלמונית"],
+           "maps_query_location": "Yeruham Iris Reserve"
+        }
+      ]
+    },
+        {
+      "date": "10/11/2018",
+      "observer": null,
+      "original_text": "במקומות המועדים ביערות ובחורשות",
+      "locations": [
+          {
+          "location_name": "יערות",
+            "flowers": ["כרכום חורפי"],
+           "maps_query_location": "Forest"
+        },
+        {
+          "location_name": "חורשות",
+          "flowers": ["כרכום חורפי"],
+          "maps_query_location": "Grove"
+        }
+      ]
+    },
+     {
+      "date": "10/11/2018",
+       "observer": null,
+      "original_text": "ביער חורשים",
+       "locations": [
+        {
+          "location_name": "יער חורשים",
+          "flowers": ["בן-חצב סתווני"],
+           "maps_query_location": "Horashim Forest"
+        }
+      ]
+    },
+    {
+      "date": "10/11/2018",
+      "observer": null,
+       "original_text":"נרקיס סתווי, כדן קטן פרחים ועד, ראו בקישור",
+       "locations": [
+        {
+          "location_name": "חורבת מלח",
+          "flowers": ["נרקיס סתווי", "כדן קטן פרחים"],
+           "maps_query_location": "Hurvat Melach"
+        }
+      ]
+    },
+        {
+      "date": "10/11/2018",
+       "observer": "שרון בן-צור",
+       "original_text": "ביסעור צילום בקישור : שרון בן-צור",
+      "locations": [
+        {
+          "location_name": "יסעור",
+           "flowers": ["סיתוונית"],
+           "maps_query_location": "Yis'ur"
+        }
+      ]
+    }
+  ]
+}
+```
