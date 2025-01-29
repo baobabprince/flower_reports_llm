@@ -275,14 +275,17 @@ class FlowerMap {
 
         const filteredReports = reports.filter(report => {
             try {
-                let date;
+                 let date;
                 if (typeof report.date === 'string' && report.date.includes('/')) {
-                  // Assuming DD/MM/YYYY format
-                    const [day, month, year] = report.date.split('/');
+                   const [day, month, year] = report.date.split('/');
+                    date = new Date(`${year}-${month}-${day}`);
+                }
+                 else if (typeof report.date === 'string' && report.date.includes('-')) {
+                    const [year, month, day] = report.date.split('-');
                      date = new Date(`${year}-${month}-${day}`);
-                } else {
-                  // Try parsing as a standard date string
-                    date = new Date(report.date);
+                }
+                else {
+                  date = new Date(report.date);
                 }
                  if (isNaN(date.getTime())) {
                     flowerMapUtils.logger.warn('Invalid date in report', { report });
@@ -295,27 +298,30 @@ class FlowerMap {
             }
         });
 
-        filteredReports.forEach(report => {
-            for (const location of report.locations) {
-                if (report.geocoded_locations[location.location_name]) {
-                     try {
-                      const locationData = report.geocoded_locations[location.location_name];
-                      const marker = this.createMarker(report, locationData, location.location_name);
-                      this.currentMarkers.push(marker);
-                      this.markerCluster.addLayer(marker);
-                    } catch (error) {
-                        flowerMapUtils.logger.error('Error creating marker', { report, location, error });
+       filteredReports.forEach(report => {
+            if (Array.isArray(report.locations)) { // Check if report.locations is an array
+                 for (const location of report.locations) {
+                    if (report.geocoded_locations[location.location_name]) {
+                         try {
+                           const locationData = report.geocoded_locations[location.location_name];
+                             const marker = this.createMarker(report, locationData, location.location_name);
+                             this.currentMarkers.push(marker);
+                             this.markerCluster.addLayer(marker);
+                        } catch (error) {
+                            flowerMapUtils.logger.error('Error creating marker', { report, location, error });
+                        }
                     }
-                }
-            }
-        });
+                 }
+           } else {
+              flowerMapUtils.logger.warn('Report locations is not an array', { report });
+           }
+       });
 
         flowerMapUtils.logger.info('Markers updated', {
             total: reports.length,
             filtered: filteredReports.length
         });
     }
-
 
     createMarker(report, locationData, locationName) {
        const marker = L.marker([locationData.latitude, locationData.longitude]);
