@@ -197,10 +197,10 @@ class FlowerMap {
     }
 
     displayLastUpdateDate() {
-        fetch('./static/reports.json')
+        fetch('./merged_reports.json')
             .then(response => response.json())
             .then(data => {
-                 const dates = data.map(report => {
+                const dates = data.reports.map(report => {
                     if(typeof report.date === 'string' && report.date.includes('/')){
                         const [day, month, year] = report.date.split('/');
                         return new Date(`${year}-${month}-${day}`);
@@ -249,19 +249,20 @@ class FlowerMap {
     }
 
     async loadData() {
-        try {
+         try {
             flowerMapUtils.logger.info('Loading flower reports');
-            const response = await fetch('./static/reports.json');
+            const response = await fetch('./merged_reports.json');
+
 
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
 
-            const data = await response.json();
-            this.processData(data);
-            this.statistics.updateStatistics(data, this.dateRange);
+             const data = await response.json();
+            this.processData(data.reports);
+             this.statistics.updateStatistics(data.reports, this.dateRange);
 
-            flowerMapUtils.logger.info('Data loaded successfully', { count: data.length });
+            flowerMapUtils.logger.info('Data loaded successfully', { count: data.reports.length });
         } catch (error) {
             flowerMapUtils.logger.error('Failed to load data', error);
             this.showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
@@ -295,15 +296,15 @@ class FlowerMap {
         });
 
         filteredReports.forEach(report => {
-            for (const locationName in report.geocoded_locations) {
-                if (report.geocoded_locations.hasOwnProperty(locationName)) {
-                    const locationData = report.geocoded_locations[locationName];
-                    try {
-                        const marker = this.createMarker(report, locationData, locationName);
-                        this.currentMarkers.push(marker);
-                        this.markerCluster.addLayer(marker);
+            for (const location of report.locations) {
+                if (report.geocoded_locations[location.location_name]) {
+                     try {
+                      const locationData = report.geocoded_locations[location.location_name];
+                      const marker = this.createMarker(report, locationData, location.location_name);
+                      this.currentMarkers.push(marker);
+                      this.markerCluster.addLayer(marker);
                     } catch (error) {
-                        flowerMapUtils.logger.error('Error creating marker', { report, locationName, error });
+                        flowerMapUtils.logger.error('Error creating marker', { report, location, error });
                     }
                 }
             }
@@ -315,19 +316,20 @@ class FlowerMap {
         });
     }
 
+
     createMarker(report, locationData, locationName) {
-        const marker = L.marker([locationData.latitude, locationData.longitude]);
+       const marker = L.marker([locationData.latitude, locationData.longitude]);
         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
 
         const popupContent = `
             <div class="popup-content">
-                <h3 class="popup-title">${report.flowers.join(", ")}</h3> 
+                <h3 class="popup-title">${report.locations.flatMap(location => location.flowers).join(", ")}</h3>
                 <p><strong>מיקום:</strong> ${locationName}</p>
                 <p><strong>תאריך:</strong> ${formattedDate}</p>
-                <p><strong>דיווח מקורי:</strong> ${report.original_report}</p>
-                <button onclick="flowerMapUtils.shareUtils.shareLocation(${locationData.latitude}, ${locationData.longitude}, '${report.flowers.join(", ")}')" 
+                <p><strong>דיווח מקורי:</strong> ${report.original_text}</p>
+                <button onclick="flowerMapUtils.shareUtils.shareLocation(${locationData.latitude}, ${locationData.longitude}, '${report.locations.flatMap(location => location.flowers).join(", ")}')"
                         class="share-button">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" 
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
                         <polyline points="16 6 12 2 8 6"></polyline>
@@ -341,6 +343,7 @@ class FlowerMap {
         marker.bindPopup(popupContent);
         return marker;
     }
+
 
     handleDateSelect(date) {
         const selectedDate = new Date(date);

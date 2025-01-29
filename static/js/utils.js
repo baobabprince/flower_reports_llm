@@ -52,13 +52,30 @@ const dateUtils = {
             }
 
             // Try parsing DD/MM/YYYY format
-            const parts = input.split(/[\/.-]/);
+            let parts = input.split(/[\/.-]/);
             if (parts.length === 3) {
                 // Assume DD/MM/YYYY format if separator is / or . or -
                 const day = parseInt(parts[0], 10);
                 const month = parseInt(parts[1], 10) - 1; // Months are 0-based
                 const year = parseInt(parts[2], 10);
                 
+                date = new Date(year, month, day);
+                
+                // Validate the parsed date
+                if (!isNaN(date.getTime()) &&
+                    date.getDate() === day &&
+                    date.getMonth() === month &&
+                    date.getFullYear() === year) {
+                    return date;
+                }
+            }
+            
+             // Try parsing YYYY-MM-DD format
+           parts = input.split(/[\/.-]/);
+             if (parts.length === 3) {
+               const year = parseInt(parts[0], 10);
+                const month = parseInt(parts[1], 10) - 1; // Months are 0-based
+               const day = parseInt(parts[2], 10);
                 date = new Date(year, month, day);
                 
                 // Validate the parsed date
@@ -97,20 +114,20 @@ const dateUtils = {
     },
 
     isDateInRange: function(date, range) {
-        if (!range.from && !range.to) return true;
+         if (!range.from && !range.to) return true;
 
         try {
-            const checkDate = this.parseDate(date);
-            if (!checkDate) return false;
+             const checkDate = this.parseDate(date);
+             if (!checkDate) return false;
 
             // Normalize dates to start/end of day
             checkDate.setHours(0, 0, 0, 0);
             
-            if (range.from) {
+             if (range.from) {
                 const fromDate = this.parseDate(range.from);
                 if (!fromDate) return false;
                 fromDate.setHours(0, 0, 0, 0);
-                if (checkDate < fromDate) return false;
+                 if (checkDate < fromDate) return false;
             }
 
             if (range.to) {
@@ -128,8 +145,8 @@ const dateUtils = {
     },
 
     compareDates: function(date1, date2) {
-        const d1 = this.parseDate(date1);
-        const d2 = this.parseDate(date2);
+         const d1 = this.parseDate(date1);
+         const d2 = this.parseDate(date2);
         
         if (!d1 || !d2) return null;
 
@@ -183,7 +200,7 @@ const tabUtils = {
         tabButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const tabName = button.getAttribute('data-tab');
-                this.switchTab(tabName);
+                 this.switchTab(tabName);
             });
         });
     },
@@ -192,10 +209,10 @@ const tabUtils = {
         // Update button states
         document.querySelectorAll('.tab-button').forEach(btn => {
             btn.classList.toggle('active', btn.getAttribute('data-tab') === tabName);
-        });
+         });
 
-        // Update content visibility
-        document.querySelectorAll('.tab-content').forEach(content => {
+         // Update content visibility
+         document.querySelectorAll('.tab-content').forEach(content => {
             content.classList.toggle('hidden', content.id !== `${tabName}-tab`);
         });
 
