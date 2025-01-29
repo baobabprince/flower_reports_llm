@@ -272,7 +272,7 @@ class FlowerMap {
     processData(reports) {
         this.markerCluster.clearLayers();
         this.currentMarkers = [];
-
+    
         const filteredReports = reports.filter(report => {
             try {
                  let date;
@@ -282,9 +282,9 @@ class FlowerMap {
                 }
                  else if (typeof report.date === 'string' && report.date.includes('-')) {
                     const [year, month, day] = report.date.split('-');
-                     date = new Date(`${year}-${month}-${day}`);
+                    date = new Date(`${year}-${month}-${day}`);
                 }
-                else {
+                 else {
                   date = new Date(report.date);
                 }
                  if (isNaN(date.getTime())) {
@@ -297,38 +297,54 @@ class FlowerMap {
                 return false;
             }
         });
-
-       filteredReports.forEach(report => {
-            if (Array.isArray(report.locations)) { // Check if report.locations is an array
-                 for (const location of report.locations) {
-                      if(location && location.location_name && report.geocoded_locations[location.location_name]){
-                         try {
-                           const locationData = report.geocoded_locations[location.location_name];
-                             const marker = this.createMarker(report, locationData, location.location_name);
-                             this.currentMarkers.push(marker);
-                             this.markerCluster.addLayer(marker);
+    
+    
+        filteredReports.forEach(report => {
+             if (!report.geocoded_locations) {
+                flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
+                return;
+            }
+            if (Array.isArray(report.locations)) {
+                for (const location of report.locations) {
+                    if (typeof location === 'object' && location !== null && location.location_name && report.geocoded_locations[location.location_name]) {
+                        try {
+                            const locationData = report.geocoded_locations[location.location_name];
+                            const marker = this.createMarker(report, locationData, location.location_name);
+                            this.currentMarkers.push(marker);
+                            this.markerCluster.addLayer(marker);
                         } catch (error) {
-                            flowerMapUtils.logger.error('Error creating marker', { report, location, error });
+                             flowerMapUtils.logger.error('Error creating marker', {report, location, error});
                         }
-                      } else {
-                         flowerMapUtils.logger.warn('Invalid location object', {location, report});
-                      }
-                  }
-           } else {
-              flowerMapUtils.logger.warn('Report locations is not an array', { report });
-           }
-       });
-
+                    } else {
+                        flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
+                    }
+                }
+            } else {
+                 flowerMapUtils.logger.warn('Report locations is not an array', {report});
+            }
+    
+        });
+    
         flowerMapUtils.logger.info('Markers updated', {
             total: reports.length,
             filtered: filteredReports.length
         });
     }
+
     createMarker(report, locationData, locationName) {
-       const marker = L.marker([locationData.latitude, locationData.longitude]);
+
+        if (!locationData || typeof locationData !== 'object' || locationData === null) {
+            flowerMapUtils.logger.error('Invalid locationData passed to createMarker', {locationData, report, locationName});
+             return null;
+         }
+        if(!report){
+          flowerMapUtils.logger.error('Invalid report passed to createMarker', {report, locationData, locationName});
+          return null;
+        }
+        const marker = L.marker([locationData.latitude, locationData.longitude]);
         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
 
-        const popupContent = `
+          const popupContent = `
             <div class="popup-content">
                 <h3 class="popup-title">${report.locations.flatMap(location => location.flowers).join(", ")}</h3>
                 <p><strong>מיקום:</strong> ${locationName}</p>
@@ -350,7 +366,6 @@ class FlowerMap {
         marker.bindPopup(popupContent);
         return marker;
     }
-
 
     handleDateSelect(date) {
         const selectedDate = new Date(date);

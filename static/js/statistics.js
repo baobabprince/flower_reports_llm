@@ -16,18 +16,18 @@ class FlowerStatistics {
     updateStatistics(reports, dateRange) {
         try {
             const filteredReports = reports.filter(report => {
-                let date;
+                 let date;
                 if (typeof report.date === 'string' && report.date.includes('/')) {
                     const [day, month, year] = report.date.split('/');
                     date = new Date(`${year}-${month}-${day}`);
-                } else if (typeof report.date === 'string' && report.date.includes('-')) {
-                    const [year, month, day] = report.date.split('-');
+                }
+                 else if (typeof report.date === 'string' && report.date.includes('-')) {
+                   const [year, month, day] = report.date.split('-');
                     date = new Date(`${year}-${month}-${day}`);
                 }
-                 else {
-                    date = new Date(report.date);
+                else {
+                   date = new Date(report.date);
                 }
-
 
                 if (isNaN(date.getTime())) {
                     flowerMapUtils.logger.warn('Invalid date in report', { report });
@@ -50,28 +50,32 @@ class FlowerStatistics {
     calculateGeneralStats(reports) {
         this.generalStats = {
             totalReports: reports.length,
-           totalFlowers: reports.reduce((sum, report) => {
+            totalFlowers: reports.reduce((sum, report) => {
                let total = sum;
-               report.locations.forEach(location => {
-                   total += location.flowers.length;
-               });
+               if(report && report.locations){
+                  report.locations.forEach(location => {
+                     if(location && location.flowers){
+                       total += location.flowers.length;
+                    }
+                });
+               }
              return total;
              }, 0)
 
         };
     }
 
-
     calculateTopLocations(reports) {
         const locationCounts = {};
-        reports.forEach(report => {
-            report.locations.forEach(location => {
-                 if (report.geocoded_locations[location.location_name]) {
-                    locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
-                  }
-
-             });
-        });
+          reports.forEach(report => {
+                if(report && report.locations){
+                    report.locations.forEach(location => {
+                         if (location && location.location_name && report.geocoded_locations && report.geocoded_locations[location.location_name]) {
+                              locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
+                          }
+                    });
+                }
+           });
 
          this.topLocations = Object.entries(locationCounts)
             .sort(([, countA], [, countB]) => countB - countA)
@@ -79,45 +83,46 @@ class FlowerStatistics {
             .map(([location, count]) => `${location} (${count})`);
     }
 
-    getRecentReports(reports) {
-         this.recentReports = reports
-             .sort((a, b) => {
-                let dateA;
+     getRecentReports(reports) {
+        this.recentReports = reports
+            .sort((a, b) => {
+               let dateA;
                 if (typeof a.date === 'string' && a.date.includes('/')) {
-                   const [day, month, year] = a.date.split('/');
+                     const [day, month, year] = a.date.split('/');
                      dateA = new Date(`${year}-${month}-${day}`);
                 }
-                else if (typeof a.date === 'string' && a.date.includes('-')) {
+                 else if (typeof a.date === 'string' && a.date.includes('-')) {
                     const [year, month, day] = a.date.split('-');
-                    dateA = new Date(`${year}-${month}-${day}`);
+                   dateA = new Date(`${year}-${month}-${day}`);
                 }
                 else {
                   dateA = new Date(a.date);
                 }
 
                 let dateB;
-                 if (typeof b.date === 'string' && b.date.includes('/')) {
-                    const [day, month, year] = b.date.split('/');
+                if (typeof b.date === 'string' && b.date.includes('/')) {
+                     const [day, month, year] = b.date.split('/');
                      dateB = new Date(`${year}-${month}-${day}`);
-                }
-                 else if (typeof b.date === 'string' && b.date.includes('-')) {
-                    const [year, month, day] = b.date.split('-');
-                    dateB = new Date(`${year}-${month}-${day}`);
                  }
-                else {
+                  else if (typeof b.date === 'string' && b.date.includes('-')) {
+                     const [year, month, day] = b.date.split('-');
+                    dateB = new Date(`${year}-${month}-${day}`);
+                }
+                 else {
                     dateB = new Date(b.date);
                 }
                  return dateB - dateA; // Sort in descending order
-             })
+            })
             .slice(0, 5)
             .map(report => {
-                let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-                const flowers = report.locations.flatMap(location => location.flowers).join(', ');
-                return `${formattedDate}: ${flowers}`;
+               let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+                 const flowers = report && report.locations ? report.locations.flatMap(location => location.flowers).join(', ') : '';
+                 return `${formattedDate}: ${flowers}`;
         });
     }
 
-     calculateStats(reports) {
+
+    calculateStats(reports) {
         // Reset statistics
         this.stats = {
             totalReports: reports.length,
@@ -128,33 +133,34 @@ class FlowerStatistics {
             mostCommonFlowers: []
         };
 
-        reports.forEach(report => {
-            // Count flower types (handling arrays of flowers)
-            report.locations.forEach(location => {
-               location.flowers.forEach(flower => {
-                    this.stats.flowerTypes[flower] =
-                        (this.stats.flowerTypes[flower] || 0) + 1;
+         reports.forEach(report => {
+              if(report && report.locations){
+                report.locations.forEach(location => {
+                    if(location && location.flowers){
+                      location.flowers.forEach(flower => {
+                           this.stats.flowerTypes[flower] = (this.stats.flowerTypes[flower] || 0) + 1;
+                      });
+                    }
                 });
-            });
-
-
-            // Track monthly trends with proper date parsing
-             let date;
-                if (typeof report.date === 'string' && report.date.includes('/')) {
-                    const [day, month, year] = report.date.split('/');
-                    date = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof report.date === 'string' && report.date.includes('-')) {
-                    const [year, month, day] = report.date.split('-');
-                    date = new Date(`${year}-${month}-${day}`);
-                }
-                 else {
-                     date = new Date(report.date);
-                }
-            if (date) {
-                const month = date.toLocaleString('he-IL', { month: 'long', year: 'numeric' });
-                this.stats.monthlyTrends[month] = (this.stats.monthlyTrends[month] || 0) + 1;
             }
+
+
+             let date;
+            if (typeof report.date === 'string' && report.date.includes('/')) {
+               const [day, month, year] = report.date.split('/');
+                date = new Date(`${year}-${month}-${day}`);
+             }
+             else if (typeof report.date === 'string' && report.date.includes('-')) {
+                const [year, month, day] = report.date.split('-');
+                date = new Date(`${year}-${month}-${day}`);
+            }
+              else {
+                 date = new Date(report.date);
+            }
+           if (date) {
+               const month = date.toLocaleString('he-IL', { month: 'long', year: 'numeric' });
+               this.stats.monthlyTrends[month] = (this.stats.monthlyTrends[month] || 0) + 1;
+           }
         });
 
         // Calculate most common flowers
@@ -163,31 +169,33 @@ class FlowerStatistics {
             .slice(0, 5);
 
 
-         // Calculate top locations
+        // Calculate top locations
        const locationCounts = {};
         reports.forEach(report => {
-            report.locations.forEach(location => {
-                 if (report.geocoded_locations[location.location_name]) {
-                    locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
-                 }
-             });
-        });
+                if(report && report.locations){
+                    report.locations.forEach(location => {
+                       if (location && location.location_name && report.geocoded_locations && report.geocoded_locations[location.location_name]) {
+                           locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
+                        }
+                    });
+                }
+            });
 
         this.stats.topLocations = Object.entries(locationCounts)
             .sort(([, a], [, b]) => b - a)
             .slice(0, 5);
 
-        // Get recent reports with proper date sorting
-       this.stats.recentReports = reports
+
+        this.stats.recentReports = reports
             .sort((a, b) => {
-                let dateA;
-               if (typeof a.date === 'string' && a.date.includes('/')) {
+                 let dateA;
+                if (typeof a.date === 'string' && a.date.includes('/')) {
                     const [day, month, year] = a.date.split('/');
-                     dateA = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof a.date === 'string' && a.date.includes('-')) {
-                     const [year, month, day] = a.date.split('-');
                     dateA = new Date(`${year}-${month}-${day}`);
+                }
+                 else if (typeof a.date === 'string' && a.date.includes('-')) {
+                    const [year, month, day] = a.date.split('-');
+                   dateA = new Date(`${year}-${month}-${day}`);
                 }
                 else {
                    dateA = new Date(a.date);
@@ -196,24 +204,24 @@ class FlowerStatistics {
                 let dateB;
                 if (typeof b.date === 'string' && b.date.includes('/')) {
                     const [day, month, year] = b.date.split('/');
+                   dateB = new Date(`${year}-${month}-${day}`);
+                }
+                 else if (typeof b.date === 'string' && b.date.includes('-')) {
+                    const [year, month, day] = b.date.split('-');
                     dateB = new Date(`${year}-${month}-${day}`);
                 }
-                else if (typeof b.date === 'string' && b.date.includes('-')) {
-                     const [year, month, day] = b.date.split('-');
-                    dateB = new Date(`${year}-${month}-${day}`);
+                 else {
+                     dateB = new Date(b.date);
                 }
-                else {
-                   dateB = new Date(b.date);
-                 }
-                 return dateB - dateA;
+                return dateB - dateA;
             })
             .slice(0, 5);
     }
 
-    updateUI() {
-        // Update general stats
-        const generalStats = document.getElementById('generalStats');
-        if (generalStats) {
+   updateUI() {
+       // Update general stats
+         const generalStats = document.getElementById('generalStats');
+         if (generalStats) {
             generalStats.innerHTML = `
                 <div class="stat-item">
                     <span class="stat-label">סה"כ דיווחים:</span>
@@ -224,7 +232,7 @@ class FlowerStatistics {
                     <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
                 </div>
             `;
-        }
+         }
 
 
          // Update most common flowers card
@@ -248,12 +256,13 @@ class FlowerStatistics {
             `;
         }
 
+
         // Update top locations
-        const topLocations = document.getElementById('topLocations');
+         const topLocations = document.getElementById('topLocations');
         if (topLocations) {
-            topLocations.innerHTML = this.stats.topLocations
+           topLocations.innerHTML = this.stats.topLocations
                 .map(([location, count]) => `
-                    <div class="stat-item">
+                   <div class="stat-item">
                         <span class="location-name">${location}</span>
                         <span class="location-count">${count} דיווחים</span>
                     </div>
@@ -261,63 +270,65 @@ class FlowerStatistics {
                 .join('');
         }
 
-
-        // Update recent reports with properly formatted dates
+          // Update recent reports with properly formatted dates
         const recentReports = document.getElementById('recentReports');
-        if (recentReports) {
-            recentReports.innerHTML = this.stats.recentReports
-                .map(report => {
+         if (recentReports) {
+             recentReports.innerHTML = this.stats.recentReports
+                 .map(report => {
                    let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-                    const flowers = report.locations.flatMap(location => location.flowers).join(', ');
-                    const locations = report.locations.map(location => location.location_name).join(', ')
-                    return `
-                         <div class="recent-report">
+                    const flowers = report && report.locations ? report.locations.flatMap(location => location.flowers).join(', ') : '';
+                   const locations = report && report.locations ? report.locations.map(location => location.location_name).join(', ') : '';
+
+                     return `
+                      <div class="recent-report">
                             <span class="flower-name">${flowers}</span>
                             <span class="report-date">${formattedDate}</span>
                             <span class="report-location">${locations}</span>
                        </div>
-                    `;
-                })
+                   `;
+                 })
                 .join('');
         }
 
+
          // Create monthly trends chart if Chart.js is available
-          if (window.Chart && document.getElementById('monthlyTrendsChart')) {
-             this.updateMonthlyTrendsChart();
+        if (window.Chart && document.getElementById('monthlyTrendsChart')) {
+              this.updateMonthlyTrendsChart();
         }
     }
 
     updateMonthlyTrendsChart() {
-        const ctx = document.getElementById('monthlyTrendsChart').getContext('2d');
+       const ctx = document.getElementById('monthlyTrendsChart').getContext('2d');
 
         // Sort months chronologically
-        const sortedMonths = Object.entries(this.stats.monthlyTrends)
-            .sort(([a], [b]) => {
+       const sortedMonths = Object.entries(this.stats.monthlyTrends)
+           .sort(([a], [b]) => {
                 let dateA;
-                if (typeof a === 'string' && a.includes('/')) {
-                    const [day, month, year] = a.split('/');
+               if (typeof a === 'string' && a.includes('/')) {
+                   const [day, month, year] = a.split('/');
                     dateA = new Date(`${year}-${month}-${day}`);
-                 } else if (typeof a === 'string' && a.includes('-')) {
+                 }
+                 else if (typeof a === 'string' && a.includes('-')) {
                      const [year, month, day] = a.split('-');
                      dateA = new Date(`${year}-${month}-${day}`);
-                } else {
-                     dateA = new Date('01 ' + a)
+                }else {
+                   dateA = new Date('01 ' + a)
                 }
 
 
-                let dateB;
-               if (typeof b === 'string' && b.includes('/')) {
+               let dateB;
+                if (typeof b === 'string' && b.includes('/')) {
                     const [day, month, year] = b.split('/');
                      dateB = new Date(`${year}-${month}-${day}`);
-                } else if (typeof b === 'string' && b.includes('-')) {
+               }
+                 else if (typeof b === 'string' && b.includes('-')) {
                     const [year, month, day] = b.split('-');
                     dateB = new Date(`${year}-${month}-${day}`);
-                }else {
+                 } else {
                     dateB = new Date('01 ' + b);
-                 }
+               }
                  return dateA - dateB;
             });
-
 
 
         const months = sortedMonths.map(([month]) => month);
@@ -331,39 +342,40 @@ class FlowerStatistics {
                     label: 'דיווחים חודשיים',
                     data: counts,
                     borderColor: '#4f46e5',
-                    backgroundColor: 'rgba(79, 70, 229, 0.1)',
+                   backgroundColor: 'rgba(79, 70, 229, 0.1)',
                     tension: 0.4
                 }]
-            },
+           },
             options: {
                 responsive: true,
                 plugins: {
-                    legend: {
+                   legend: {
                         position: 'top',
-                    },
+                   },
                     title: {
-                        display: true,
-                        text: 'מגמות דיווחים חודשיים'
-                    }
-                },
-                scales: {
+                         display: true,
+                       text: 'מגמות דיווחים חודשיים'
+                   }
+               },
+               scales: {
                     y: {
-                        beginAtZero: true
-                    }
-                }
-            }
+                       beginAtZero: true
+                   }
+               }
+           }
         });
     }
 
+
     renderStats() {
         const generalStatsDiv = document.getElementById('generalStats');
-        const topLocationsDiv = document.getElementById('topLocations');
-        const recentReportsDiv = document.getElementById('recentReports');
+         const topLocationsDiv = document.getElementById('topLocations');
+         const recentReportsDiv = document.getElementById('recentReports');
 
 
-        generalStatsDiv.innerHTML = `
-          <p><strong>סה"כ דיווחים:</strong> ${this.generalStats.totalReports}</p>
-          <p><strong>סה"כ פרחים:</strong> ${this.generalStats.totalFlowers}</p>
+          generalStatsDiv.innerHTML = `
+            <p><strong>סה"כ דיווחים:</strong> ${this.generalStats.totalReports}</p>
+            <p><strong>סה"כ פרחים:</strong> ${this.generalStats.totalFlowers}</p>
         `;
         topLocationsDiv.innerHTML = this.topLocations.map(loc => `<p>${loc}</p>`).join('');
         recentReportsDiv.innerHTML = this.recentReports.map(report => `<p>${report}</p>`).join('');
