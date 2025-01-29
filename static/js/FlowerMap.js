@@ -301,7 +301,7 @@ class FlowerMap {
        filteredReports.forEach(report => {
             if (Array.isArray(report.locations)) { // Check if report.locations is an array
                  for (const location of report.locations) {
-                    if (report.geocoded_locations[location.location_name]) {
+                      if(location && location.location_name && report.geocoded_locations[location.location_name]){
                          try {
                            const locationData = report.geocoded_locations[location.location_name];
                              const marker = this.createMarker(report, locationData, location.location_name);
@@ -310,8 +310,10 @@ class FlowerMap {
                         } catch (error) {
                             flowerMapUtils.logger.error('Error creating marker', { report, location, error });
                         }
-                    }
-                 }
+                      } else {
+                         flowerMapUtils.logger.warn('Invalid location object', {location, report});
+                      }
+                  }
            } else {
               flowerMapUtils.logger.warn('Report locations is not an array', { report });
            }
@@ -322,7 +324,6 @@ class FlowerMap {
             filtered: filteredReports.length
         });
     }
-
     createMarker(report, locationData, locationName) {
        const marker = L.marker([locationData.latitude, locationData.longitude]);
         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
