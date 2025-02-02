@@ -197,7 +197,8 @@ class FlowerMap {
     }
 
     displayLastUpdateDate() {
-        fetch('./merged_reports.json')
+        //fetch('./merged_reports.json')
+        fetch('./tiuli_reports.json')
             .then(response => response.json())
             .then(data => {
                 const dates = data.reports.map(report => {
@@ -251,7 +252,8 @@ class FlowerMap {
     async loadData() {
          try {
             flowerMapUtils.logger.info('Loading flower reports');
-            const response = await fetch('./merged_reports.json');
+            //const response = await fetch('./merged_reports.json');
+             const response = await fetch('./tiuli_reports.json');
 
 
             if (!response.ok) {
