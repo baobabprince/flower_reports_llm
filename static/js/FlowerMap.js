@@ -190,9 +190,16 @@ class FlowerMap {
     }
     initializeMap() {
         flowerMapUtils.logger.info('Initializing map');
-
-        this.map = L.map('map').setView([31.7683, 35.2137], 8);
-
+      
+        mapboxgl.accessToken = 'ToTdsblYAzP3SYjjFYmo'; // Use your MapTiler API key as Mapbox GL JS access token
+      
+        this.map = new mapboxgl.Map({
+          container: 'map', // container ID
+          style: 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo', // style URL
+          center: [35.2137, 31.7683], // starting position [lng, lat]
+          zoom: 8 // starting zoom
+        });
+        
         var customStyledLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
             attribution: 'Map data: © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
