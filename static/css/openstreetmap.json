@@ -10,9 +10,17 @@
   "bearing": 0,
   "pitch": 0,
   "sources": {
-    "openmaptiles": {
-      "url": "https://api.maptiler.com/tiles/v3-openmaptiles/tiles.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
-      "type": "vector"
+    "open_zoomstack": {
+      "type": "vector",
+      "url": "https://s3-eu-west-1.amazonaws.com/tiles.os.uk/v2/data/vector/open-zoomstack/config.json"
+    },
+    "thunderforest_transport": {
+      "type": "vector",
+      "url": "https://tile.thunderforest.com/thunderforest.transport-v2.json?apikey=b71f7f0ba4064f5eb9e903859a9cf5c6"
+    },
+    "thunderforest_outdoors": {
+      "type": "vector",
+      "url": "https://tile.thunderforest.com/thunderforest.outdoors-v2.json?apikey=b71f7f0ba4064f5eb9e903859a9cf5c6"
     }
   },
   "sprite": "https://api.maptiler.com/maps/openstreetmap/sprite",
