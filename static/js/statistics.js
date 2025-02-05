@@ -368,16 +368,30 @@ class FlowerStatistics {
 
 
     renderStats() {
-        const generalStatsDiv = document.getElementById('generalStats');
+         const generalStatsDiv = document.getElementById('generalStats');
          const topLocationsDiv = document.getElementById('topLocations');
          const recentReportsDiv = document.getElementById('recentReports');
 
+        if (generalStatsDiv) {
+           generalStatsDiv.innerHTML = `
+               <p><strong>סה"כ דיווחים:</strong> ${this.generalStats.totalReports}</p>
+               <p><strong>סה"כ פרחים:</strong> ${this.generalStats.totalFlowers}</p>
+           `;
+        } else {
+           console.warn("Element with ID 'generalStats' not found!");
+        }
 
-          generalStatsDiv.innerHTML = `
-            <p><strong>סה"כ דיווחים:</strong> ${this.generalStats.totalReports}</p>
-            <p><strong>סה"כ פרחים:</strong> ${this.generalStats.totalFlowers}</p>
-        `;
-        topLocationsDiv.innerHTML = this.topLocations.map(loc => `<p>${loc}</p>`).join('');
-        recentReportsDiv.innerHTML = this.recentReports.map(report => `<p>${report}</p>`).join('');
-    }
+        if (topLocationsDiv) {
+           topLocationsDiv.innerHTML = this.topLocations.map(loc => `<p>${loc}</p>`).join('');
+       } else {
+           console.warn("Element with ID 'topLocations' not found!");
+       }
+
+        if (recentReportsDiv) {
+           recentReportsDiv.innerHTML = this.recentReports.map(report => `<p>${report}</p>`).join('');
+       } else {
+          console.warn("Element with ID 'recentReports' not found!");
+       }
+
+   }
 }

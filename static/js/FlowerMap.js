@@ -1,157 +1,3 @@
-const flowerMapUtils = {
-    dateUtils: {
-        formatDate(dateString, locale = 'en-HE') {
-            try {
-               if (!dateString || (typeof dateString === 'string' && dateString.trim() === '')) {
-                   return 'Invalid date';
-               }
-               let date;
-               if (typeof dateString === 'string' && dateString.includes('/')) {
-                 // Assuming DD/MM/YYYY format
-                 const [day, month, year] = dateString.split('/');
-                 date = new Date(`${year}-${month}-${day}`);
-               } else {
-                   // Try parsing as a standard date string
-                   date = new Date(dateString);
-               }
-
-
-               if (isNaN(date.getTime())) {
-                   throw new Error('Invalid date');
-               }
-
-               return date.toLocaleDateString(locale, {
-                   day: '2-digit',
-                   month: '2-digit',
-                   year: 'numeric'
-               });
-           } catch (error) {
-               flowerMapUtils.logger.error('Error formatting date:', error);
-               return 'Invalid date';
-           }
-       },
-
-        isDateInRange(dateString, dateRange) {
-            if (!dateRange.from && !dateRange.to) return true;
-
-           try {
-               let date;
-               if (typeof dateString === 'string' && dateString.includes('/')) {
-                 // Assuming DD/MM/YYYY format
-                 const [day, month, year] = dateString.split('/');
-                 date = new Date(`${year}-${month}-${day}`);
-               } else {
-                   // Try parsing as a standard date string
-                   date = new Date(dateString);
-               }
-               if (isNaN(date.getTime())) {
-                   flowerMapUtils.logger.warn('Invalid date string passed to isDateInRange', { dateString });
-                   return false;
-               }
-               date.setHours(0, 0, 0, 0);  // Normalize time to start of day
-
-               if (dateRange.from) {
-                   const fromDate = new Date(dateRange.from);
-                    if (isNaN(fromDate.getTime())) {
-                       flowerMapUtils.logger.error('Invalid fromDate in dateRange', { dateRange });
-                       return false;
-                   }
-                   fromDate.setHours(0, 0, 0, 0);
-                   if (date < fromDate) return false;
-               }
-
-               if (dateRange.to) {
-                   const toDate = new Date(dateRange.to);
-                   if (isNaN(toDate.getTime())) {
-                       flowerMapUtils.logger.error('Invalid toDate in dateRange', { dateRange });
-                       return false;
-                   }
-
-                   toDate.setHours(23, 59, 59, 999);  // End of day
-                   if (date > toDate) return false;
-               }
-
-               return true;
-           } catch (error) {
-               flowerMapUtils.logger.error('Error in isDateInRange:', error);
-               return false;
-           }
-       },
-
-        compareDates(date1, date2) {
-           try {
-               let d1;
-                if (typeof date1 === 'string' && date1.includes('/')) {
-                 // Assuming DD/MM/YYYY format
-                   const [day, month, year] = date1.split('/');
-                    d1 = new Date(`${year}-${month}-${day}`);
-               } else {
-                 // Try parsing as a standard date string
-                   d1 = new Date(date1);
-               }
-
-
-               let d2;
-                 if (typeof date2 === 'string' && date2.includes('/')) {
-                 // Assuming DD/MM/YYYY format
-                   const [day, month, year] = date2.split('/');
-                   d2 = new Date(`${year}-${month}-${day}`);
-               } else {
-                 // Try parsing as a standard date string
-                   d2 = new Date(date2);
-               }
-
-                if (isNaN(d1.getTime())) {
-                   flowerMapUtils.logger.warn('Invalid date1 passed to compareDates', { date1 });
-                   return NaN; // Or throw an error, depending on desired behavior
-               }
-
-                if (isNaN(d2.getTime())) {
-                   flowerMapUtils.logger.warn('Invalid date2 passed to compareDates', { date2 });
-                   return NaN; // Or throw, depending on your needs
-               }
-               d1.setHours(0, 0, 0, 0);
-               d2.setHours(0, 0, 0, 0);
-               return d1.getTime() - d2.getTime();
-           } catch (error) {
-               flowerMapUtils.logger.error('Error in compareDates:', error);
-               return NaN; // Or throw, depending on your needs
-           }
-       }
-   },
-   logger: {
-       info: (message, data) => console.log(message, data || ''),
-       error: (message, error) => console.error(message, error),
-       warn: (message, data) => console.warn(message, data || '')
-   },
-   tabUtils: {
-       initialize: () => {
-             const tabButtons = document.querySelectorAll('.tab-button');
-             const tabContents = document.querySelectorAll('.tab-content');
-
-           tabButtons.forEach(button => {
-               button.addEventListener('click', () => {
-                  const tabId = button.getAttribute('data-tab') + '-tab';
-                   tabButtons.forEach(btn => btn.classList.remove('active'));
-                   tabContents.forEach(content => content.classList.add('hidden'));
-
-
-                    button.classList.add('active');
-                   document.getElementById(tabId).classList.remove('hidden');
-                   if (tabId === 'stats-tab') {
-                     window.flowerMap.loadData()
-                    }
-               });
-           });
-       }
-   },
-    shareUtils: {
-        shareLocation: (lat, lon, flowers) => {
-            // Share location logic here
-        }
-    }
-};
-
 class FlowerMap {
     constructor() {
         this.map = null;
@@ -166,6 +12,8 @@ class FlowerMap {
             merged: true
         };
 
+        // Set development mode (true for development, false for production)
+        this.IS_DEVELOPMENT = true;
 
         // Initialize the map
         this.initializeMap();
@@ -176,29 +24,20 @@ class FlowerMap {
         // Load initial data
         this.loadData();
     }
-    initializeSourceFilter() {
-        const tiuliCheckbox = document.getElementById('tiuli-filter');
-        const mergedCheckbox = document.getElementById('merged-filter');
 
-        tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
-        mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
-    }
-
-    handleSourceFilterChange(source, isChecked) {
-        this.sourceFilters[source] = isChecked;
-        this.loadData();
-    }
     initializeMap() {
-        flowerMapUtils.logger.info('Initializing map');
+        flowerMapUtils.logger.info('Initializing map (Leaflet version)');
 
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
 
-        var customStyledLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 18,
-            attribution: 'Map data: © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            className: 'openstreetmap'
-        });
-        customStyledLayer.addTo(this.map);
+        // Custom style URL (API key already included)
+        //const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json'
+        const customStyleUrl = 'https://api.maptiler.com/tiles/outdoor/{z}/{x}/{y}.pbf?key=ToTdsblYAzP3SYjjFYmo'
+        //const customStyleUrl = 'https://api.maptiler.com/tiles/your-style-id/{z}/{x}/{y}.png?key=ToTdsblYAzP3SYjjFYmo';
+
+        L.tileLayer(customStyleUrl, {
+            attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>'
+        }).addTo(this.map);
 
         this.markerCluster = L.markerClusterGroup({
             maxClusterRadius: 50,
@@ -211,6 +50,7 @@ class FlowerMap {
 
         this.displayLastUpdateDate();
     }
+
      async displayLastUpdateDate() {
         try {
             const [tiuliData, mergedData] = await Promise.all([
@@ -256,7 +96,7 @@ class FlowerMap {
                 nextMonth: 'חודש הבא',
                 months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
                 weekdays: ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'],
-                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ש']
+                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', ו', 'ש']
             },
             onSelect: (date) => {
                 this.handleDateSelect(date);
@@ -271,7 +111,7 @@ class FlowerMap {
 
     }
 
-     async loadData() {
+    async loadData() {
         try {
             flowerMapUtils.logger.info('Loading flower reports');
 
@@ -355,7 +195,9 @@ class FlowerMap {
                               flowerMapUtils.logger.error('Error creating marker', {report, location, error});
                          }
                      } else {
-                         flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
+                          if(this.IS_DEVELOPMENT){
+                              flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
+                          }
                      }
                  }
              } else {
@@ -462,17 +304,29 @@ class FlowerMap {
            }
          }, 5000);
      }
+    initializeSourceFilter() {
+        const tiuliCheckbox = document.getElementById('tiuli-filter');
+        const mergedCheckbox = document.getElementById('merged-filter');
+
+        tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
+        mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
+    }
+
+    handleSourceFilterChange(source, isChecked) {
+        this.sourceFilters[source] = isChecked;
+        this.loadData();
+    }
 };
 
 
 // Initialize the map when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-   // Check if FlowerStatistics is defined before using it
+    // Check if FlowerStatistics is defined before using it
     if (typeof FlowerStatistics !== 'undefined') {
         if (window.flowerMap) {
-           // Add a cleanup method to FlowerMap if needed, or simply clear existing data
-             window.flowerMap = null; // Or window.flowerMap.clearData() if you add such a method
-         }
+            // Add a cleanup method to FlowerMap if needed, or simply clear existing data
+            window.flowerMap = null; // Or window.flowerMap.clearData() if you add such a method
+        }
         window.flowerMap = new FlowerMap();
     } else {
         console.error('FlowerStatistics is not defined. Ensure it is loaded before FlowerMap.');
