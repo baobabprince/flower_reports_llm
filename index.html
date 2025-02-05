@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flower Map</title>
+  <meta name="tilemap-api-key" content="ToTdsblYAzP3SYjjFYmo"> <!-- **IMPORTANT:** Replace! -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
@@ -86,31 +87,7 @@
   </div>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      // Initialize the map
-      function initializeMap() {
-        const mapTilerApiKey = 'YOUR_MAPTILER_API_KEY'; // Replace with your actual API key!
-
-        if (!mapTilerApiKey) {
-          console.warn('No API key loaded, map will not function correctly.');
-          return; // Don't initialize the map if the API key is missing
-        }
-
-        const map = L.map('map').setView([31.7683, 35.2137], 8); // Initial center and zoom
-
-        L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=' + mapTilerApiKey, {
-          attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>'
-        }).addTo(map);
-
-        // Example Marker (Just to confirm the map is working)
-        L.marker([31.7683, 35.2137]).addTo(map)
-          .bindPopup('A sample marker!');
-
-        console.log("Leaflet map initialized.");  // Confirm in the console
-      }
-
-      initializeMap(); // Call the map initialization function
-    });
+    // No inline script needed.  FlowerMap.js handles map initialization.
   </script>
 </body>
 
