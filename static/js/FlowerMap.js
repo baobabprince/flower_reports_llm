@@ -54,7 +54,7 @@ class FlowerMap {
         zoomToBoundsOnClick: true
       });
   
-      this.markerCluster.addTo(this.map); // Use addTo on the markerCluster, not addLayer on the map
+      this.markerCluster.addTo(this.map);
   
       this.displayLastUpdateDate();
     }
