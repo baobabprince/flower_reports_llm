@@ -89,13 +89,6 @@ class FlowerMap {
             container: calendar,
             bound: false,
             format: 'DD/MM/YYYY',
-            i18n: {
-                previousMonth: 'חודש קודם',
-                nextMonth: 'חודש הבא',
-                months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
-                weekdays: ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'],
-                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', ו', 'ש']
-            },
             onSelect: (date) => {
                 this.handleDateSelect(date);
             }
