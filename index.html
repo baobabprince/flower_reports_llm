@@ -15,9 +15,6 @@
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster-src.js" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js" defer></script>
 
-  <link href="https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.css" rel="stylesheet">
-  <script src="https://api.mapbox.com/mapbox-gl-js/v3.1.2/mapbox-gl.js"></script>
-
   <script src="./static/js/utils.js" defer></script>
   <script src="./static/js/statistics.js" defer></script>
   <script src="./static/js/FlowerMap.js" defer></script>
@@ -90,18 +87,9 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function () {
-      // Function to get the API key from a meta tag
-      function getApiKeyFromMetaTag() {
-        const apiKey = document.querySelector('meta[name="tilemap-api-key"]')?.content;
-        if (!apiKey) {
-          console.warn('API key not found in meta tag.');
-        }
-        return apiKey;
-      }
-
-      // Initialize the map with the API key
+      // Initialize the map
       function initializeMap() {
-        const mapTilerApiKey = getApiKeyFromMetaTag();
+        const mapTilerApiKey = 'YOUR_MAPTILER_API_KEY'; // Replace with your actual API key!
 
         if (!mapTilerApiKey) {
           console.warn('No API key loaded, map will not function correctly.');
@@ -118,7 +106,7 @@
         L.marker([31.7683, 35.2137]).addTo(map)
           .bindPopup('A sample marker!');
 
-        console.log("Leaflet map initialized with API key from meta tag.");  // Confirm in the console
+        console.log("Leaflet map initialized.");  // Confirm in the console
       }
 
       initializeMap(); // Call the map initialization function
