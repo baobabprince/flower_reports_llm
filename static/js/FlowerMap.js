@@ -302,12 +302,21 @@ class FlowerMap {
            }
          }, 5000);
      }
-    initializeSourceFilter() {
+     initializeSourceFilter() {
         const tiuliCheckbox = document.getElementById('tiuli-filter');
-        const mergedCheckbox = document.getElementById('mergedCheckbox');
-
-        tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
-        mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
+        const mergedCheckbox = document.getElementById('merged-filter');
+    
+        if (tiuliCheckbox) {
+            tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
+        } else {
+            console.warn('tiuliCheckbox not found');
+        }
+    
+        if (mergedCheckbox) {
+            mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
+        } else {
+            console.warn('mergedCheckbox not found');
+        }
     }
 
     handleSourceFilterChange(source, isChecked) {
