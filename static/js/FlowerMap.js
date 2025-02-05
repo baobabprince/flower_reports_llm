@@ -46,7 +46,7 @@ class FlowerMap {
         
 
         //Replace with your custom style URL from MapTiler:
-        const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo'
+        const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo';
         L.tileLayer(customStyleUrl, {
             attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>'
         }).addTo(this.map);
