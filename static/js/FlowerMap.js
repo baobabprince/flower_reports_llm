@@ -178,7 +178,7 @@ class FlowerMap {
 
         filteredReports.forEach(report => {
             if (!report.geocoded_locations) {
-                flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
+                //flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
                 return;
             }
              if (Array.isArray(report.locations)) {
@@ -194,7 +194,7 @@ class FlowerMap {
                          }
                      } else {
                           if(this.IS_DEVELOPMENT){
-                              flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
+                             // flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
                           }
                      }
                  }
