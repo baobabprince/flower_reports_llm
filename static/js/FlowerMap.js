@@ -31,7 +31,7 @@ class FlowerMap {
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
 
         // Custom style URL (API key already included)
-        const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo';
+        const customStyleUrl = "https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo";
 
         L.tileLayer(customStyleUrl, {
             attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -92,7 +92,7 @@ class FlowerMap {
             i18n: {
                 previousMonth: 'חודש קודם',
                 nextMonth: 'חודש הבא',
-                months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', מאי', יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
+                months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
                 weekdays: ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'],
                 weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ש']
             },
@@ -304,7 +304,7 @@ class FlowerMap {
      }
     initializeSourceFilter() {
         const tiuliCheckbox = document.getElementById('tiuli-filter');
-        const mergedCheckbox = document.getElementById('merged-filter');
+        const mergedCheckbox = document.getElementById('mergedCheckbox');
 
         tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
         mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
