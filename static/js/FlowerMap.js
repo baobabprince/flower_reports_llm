@@ -1,26 +1,29 @@
+
 class FlowerMap {
+    IS_DEVELOPMENT = false;  // Change to 'false' for production
     constructor() {
-      this.map = null;
-      this.markerCluster = null;
-      this.dateRange = { from: null, to: null };
-      this.currentMarkers = [];
-      this.statistics = new FlowerStatistics();
-      this.pikaday = null;
-      this.errorDiv = null;
-      this.sourceFilters = {
-        tiuli: true,
-        merged: true
-      };
-  
-      // Initialize the map
-      this.initializeMap();
-      this.initializeDatePicker();
-      this.initializeSourceFilter();
-      flowerMapUtils.tabUtils.initialize();
-  
-      // Load initial data
-      this.loadData();
+        this.map = null;
+        this.markerCluster = null;
+        this.dateRange = { from: null, to: null };
+        this.currentMarkers = [];
+        this.statistics = new FlowerStatistics();
+        this.pikaday = null;
+        this.errorDiv = null;
+        this.sourceFilters = {
+            tiuli: true,
+            merged: true
+        };
+
+        // Initialize the map
+        this.initializeMap();
+        this.initializeDatePicker();
+        this.initializeSourceFilter();
+        flowerMapUtils.tabUtils.initialize();
+
+        // Load initial data
+        this.loadData();
     }
+}
   
     initializeMap() {
       flowerMapUtils.logger.info('Initializing map (Leaflet version)');
@@ -40,7 +43,9 @@ class FlowerMap {
   
   
       //Replace with your custom style URL from MapTiler:
-      const customStyleUrl = 'https://api.maptiler.com/maps/streets/ToTdsblYAzP3SYjjFYmo/style.json';
+      //const customStyleUrl = 'https://api.maptiler.com/maps/streets/ToTdsblYAzP3SYjjFYmo/style.json';
+      //const customStyleUrl = 'https://api.maptiler.com/tiles/style-name/{z}/{x}/{y}.png?key=YOUR_API_KEY';
+      const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo';
       L.tileLayer(customStyleUrl, {
         attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>'
       }).addTo(this.map);
