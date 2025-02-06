@@ -31,12 +31,10 @@ class FlowerMap {
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
 
         // Custom style URL (API key already included)
-        //const customStyleUrl = 'https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json'
-        const customStyleUrl = 'https://api.maptiler.com/tiles/outdoor/{z}/{x}/{y}.pbf?key=ToTdsblYAzP3SYjjFYmo'
-        //const customStyleUrl = 'https://api.maptiler.com/tiles/your-style-id/{z}/{x}/{y}.png?key=ToTdsblYAzP3SYjjFYmo';
+        const customStyleUrl = "https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo";
 
         L.tileLayer(customStyleUrl, {
-            attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>'
+            attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(this.map);
 
         this.markerCluster = L.markerClusterGroup({
@@ -96,7 +94,7 @@ class FlowerMap {
                 nextMonth: 'חודש הבא',
                 months: ['ינואר', 'פברואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
                 weekdays: ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'],
-                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', ו', 'ש']
+                weekdaysShort: ['א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ש']
             },
             onSelect: (date) => {
                 this.handleDateSelect(date);
@@ -180,7 +178,7 @@ class FlowerMap {
 
         filteredReports.forEach(report => {
             if (!report.geocoded_locations) {
-                flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
+                //flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
                 return;
             }
              if (Array.isArray(report.locations)) {
@@ -196,7 +194,7 @@ class FlowerMap {
                          }
                      } else {
                           if(this.IS_DEVELOPMENT){
-                              flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
+                             // flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
                           }
                      }
                  }
@@ -304,12 +302,21 @@ class FlowerMap {
            }
          }, 5000);
      }
-    initializeSourceFilter() {
+     initializeSourceFilter() {
         const tiuliCheckbox = document.getElementById('tiuli-filter');
         const mergedCheckbox = document.getElementById('merged-filter');
-
-        tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
-        mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
+    
+        if (tiuliCheckbox) {
+            tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
+        } else {
+            console.warn('tiuliCheckbox not found');
+        }
+    
+        if (mergedCheckbox) {
+            mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
+        } else {
+            console.warn('mergedCheckbox not found');
+        }
     }
 
     handleSourceFilterChange(source, isChecked) {
@@ -317,7 +324,6 @@ class FlowerMap {
         this.loadData();
     }
 };
-
 
 // Initialize the map when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
