@@ -30,10 +30,8 @@ class FlowerMap {
 
         this.map = L.map('map').setView([31.7683, 35.2137], 8);
 
-        // Custom style URL (API key already included)
-        const customStyleUrl = "https://api.maptiler.com/maps/eab1918b-d2ce-41e0-abfb-e50d9c8d7a90/style.json?key=ToTdsblYAzP3SYjjFYmo";
-
-        L.tileLayer(customStyleUrl, {
+        //  Simple OSM tile layer
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(this.map);
 
