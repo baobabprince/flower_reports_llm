@@ -209,20 +209,23 @@ class FlowerMap {
     }
     createMarker(report, locationData, locationName) {
 
-         if (!locationData || typeof locationData !== 'object' || locationData === null) {
-             flowerMapUtils.logger.error('Invalid locationData passed to createMarker', {locationData, report, locationName});
-             return null;
-         }
-          if(!report){
-             flowerMapUtils.logger.error('Invalid report passed to createMarker', {report, locationData, locationName});
-             return null;
-         }
-        const marker = L.marker([locationData.latitude, locationData.longitude]);
-         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+        if (!locationData || typeof locationData !== 'object' || locationData === null) {
+            flowerMapUtils.logger.error('Invalid locationData passed to createMarker', { locationData, report, locationName });
+            return null;
+        }
+        if (!report) {
+            flowerMapUtils.logger.error('Invalid report passed to createMarker', { report, locationData, locationName });
+            return null;
+        }
 
-         const popupContent = `
+        const marker = L.marker([locationData.latitude, locationData.longitude]);
+        const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+
+        // Get unique flower names
+        const uniqueFlowers = [...new Set(report.locations.flatMap(location => location.flowers))];
+        const popupContent = `
             <div class="popup-content">
-                <h3 class="popup-title">${report.locations.flatMap(location => location.flowers).join(", ")}</h3>
+                <h3 class="popup-title">${uniqueFlowers.join(", ")}</h3>
                 <p><strong>מיקום:</strong> ${locationName}</p>
                 <p><strong>תאריך:</strong> ${formattedDate}</p>
                 <p><strong>מקור:</strong> ${report.source === 'tiuli' ? 'טיולי' : 'מיזוג'}</p>
@@ -240,10 +243,9 @@ class FlowerMap {
             </div>
         `;
 
-         marker.bindPopup(popupContent);
-         return marker;
-     }
-
+        marker.bindPopup(popupContent);
+        return marker;
+    }
 
     handleDateSelect(date) {
         const selectedDate = new Date(date);
