@@ -110,6 +110,7 @@ body {
     cursor: pointer;
 }
 
+
 /* Statistics grid */
 .stats-grid {
     display: grid;
@@ -122,28 +123,91 @@ body {
     background: #f9fafb;
     padding: 16px;
     border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Utility classes */
-.hidden {
-    display: none;
+.stats-card h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #374151;
 }
 
-/* RTL specific adjustments */
-.leaflet-popup-content {
-    direction: rtl;
-    text-align: right;
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #e5e7eb;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .card-header {
-        flex-direction: column;
-        gap: 12px;
-    }
-    
-    .date-filter {
-        width: 100%;
-        justify-content: space-between;
-    }
+.stat-item:last-child {
+    border-bottom: none;
+}
+
+.stat-label {
+    font-weight: 600;
+    color: #4b5563;
+}
+
+.stat-value {
+    color: #1f2937;
+}
+
+/* Flower-specific styles */
+.flower-name {
+    font-style: italic;
+    color: #6b7280;
+}
+
+.flower-count {
+    font-size: 0.875rem;
+    color: #9ca3af;
+}
+
+/* Recent report styling */
+.recent-report {
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #fff; /* Slightly different background */
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.recent-report .flower-name {
+    font-weight: bold;
+}
+
+.recent-report .report-date {
+    font-size: 0.75rem;
+    color: #6b7280;
+}
+
+.recent-report .report-location {
+    font-size: 0.75rem;
+    color: #6b7280;
+}
+
+/* Top flower badge */
+.top-flower {
+    position: relative;
+}
+
+.top-flower .flower-badge {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: #facc15;
+    color: #000;
+    padding: 2px 6px;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+/* Chart styles (if using chart.js) */
+#monthlyTrendsChart {
+    width: 100%; /* Ensure chart takes full width */
+    max-height: 300px; /* Limit chart height */
 }

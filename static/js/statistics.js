@@ -14,7 +14,7 @@ class FlowerStatistics {
         };
     }
 
-    updateStatistics(reports, dateRange) {
+    updateStatistics(reports, dateRange, sourceFilters) {
         try {
             const filteredReports = reports.filter(report => {
                 let date;
@@ -34,7 +34,7 @@ class FlowerStatistics {
                     flowerMapUtils.logger.warn('Invalid date in report', { report });
                     return false;
                 }
-                return flowerMapUtils.dateUtils.isDateInRange(report.date, dateRange);
+                return flowerMapUtils.dateUtils.isDateInRange(report.date, dateRange) && sourceFilters[report.source];
             });
 
             this.calculateGeneralStats(filteredReports);
@@ -43,7 +43,6 @@ class FlowerStatistics {
             this.calculateStats(filteredReports);
             this.calculateReportsPerFlower(filteredReports); // Calculate
             this.updateUI();
-            this.renderStats();
         } catch (error) {
             flowerMapUtils.logger.error('Error updating statistics', error);
         }
@@ -81,8 +80,7 @@ class FlowerStatistics {
 
         this.topLocations = Object.entries(locationCounts)
             .sort(([, countA], [, countB]) => countB - countA)
-            .slice(0, 5) // Get top 5
-            .map(([location, count]) => `${location} (${count})`);
+            .slice(0, 5);
     }
 
     getRecentReports(reports) {
@@ -240,98 +238,74 @@ class FlowerStatistics {
     }
 
     updateUI() {
-        // Update general stats
-        const generalStats = document.getElementById('generalStats');
-        if (generalStats) {
-            generalStats.innerHTML = `
-                <div class="stat-item">
-                    <span class="stat-label">סה"כ דיווחים:</span>
-                    <span class="stat-value">${this.stats.totalReports}</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">סוגי פרחים:</span>
-                    <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
-                </div>
+        const statsContainer = document.getElementById('stats-container');
+
+        if (statsContainer) {
+            statsContainer.innerHTML = `
+                <div class="stats-grid">
+                  <div class="stats-card">
+                      <h3>סטטיסטיקות כלליות</h3>
+                      <div class="stat-item">
+                          <span class="stat-label">סה"כ דיווחים:</span>
+                          <span class="stat-value">${this.generalStats.totalReports}</span>
+                      </div>
+                      <div class="stat-item">
+                          <span class="stat-label">סוגי פרחים:</span>
+                          <span class="stat-value">${Object.keys(this.stats.flowerTypes).length}</span>
+                      </div>
+                  </div>
+                  <div class="stats-card">
+                      <h3>פרחים נפוצים</h3>
+                      ${this.stats.mostCommonFlowers.map(([flower, count], index) => `
+                          <div class="stat-item ${index < 3 ? 'top-flower' : ''}">
+                              <span class="flower-name">${flower}</span>
+                              <span class="flower-count">${count} דיווחים</span>
+                              ${index < 3 ? '<span class="flower-badge">🌟</span>' : ''}
+                          </div>
+                      `).join('')}
+                  </div>
+                  <div class="stats-card">
+                      <h3>מיקומים מובילים</h3>
+                      ${this.stats.topLocations.map(([location, count]) => `
+                         <div class="stat-item">
+                              <span class="location-name">${location}</span>
+                              <span class="location-count">${count} דיווחים</span>
+                          </div>
+                      `).join('')}
+                  </div>
+                  <div class="stats-card">
+                      <h3>דיווחים אחרונים</h3>
+                      ${this.stats.recentReports.map(report => {
+                        let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
+                        const flowers = report && report.locations ? report.locations.flatMap(location => location.flowers).join(', ') : '';
+                        const locations = report && report.locations ? report.locations.map(location => location.location_name).join(', ') : '';
+
+                         return `
+                          <div class="recent-report">
+                                <span class="flower-name">${flowers}</span>
+                                <span class="report-date">${formattedDate}</span>
+                                <span class="report-location">${locations}</span>
+                           </div>
+                        `;
+                        }).join('')}
+                  </div>
+                  <div class="stats-card">
+                      <h3>דיווחים לפי פרח</h3>
+                      ${this.stats.reportsPerFlower.map(([flower, count]) => `
+                          <div class="stat-item">
+                              <span class="flower-name">${flower}</span>
+                              <span class="flower-count">${count} דיווחים</span>
+                          </div>
+                      `).join('')}
+                  </div>
+                  <div class="stats-card">
+                      <h3>מגמות דיווחים חודשיים</h3>
+                      <canvas id="monthlyTrendsChart" width="400" height="200"></canvas>
+                  </div>
+              </div>
             `;
         }
 
-
-        // Update most common flowers card
-        const commonFlowers = document.getElementById('commonFlowers');
-        if (commonFlowers) {
-            commonFlowers.innerHTML = `
-                <div class="card shadow-sm">
-                    <div class="card-header">
-                        <h3 class="text-lg font-semibold">פרחים נפוצים</h3>
-                    </div>
-                    <div class="card-body">
-                        ${this.stats.mostCommonFlowers.map(([flower, count], index) => `
-                            <div class="stat-item ${index < 3 ? 'top-flower' : ''}">
-                                <span class="flower-name">${flower}</span>
-                                <span class="flower-count">${count} דיווחים</span>
-                                ${index < 3 ? '<span class="flower-badge">🌟</span>' : ''}
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-            `;
-        }
-
-
-        // Update top locations
-        const topLocations = document.getElementById('topLocations');
-        if (topLocations) {
-            topLocations.innerHTML = this.stats.topLocations
-                .map(([location, count]) => `
-                   <div class="stat-item">
-                        <span class="location-name">${location}</span>
-                        <span class="location-count">${count} דיווחים</span>
-                    </div>
-                `)
-                .join('');
-        }
-
-        // Update recent reports with properly formatted dates
-        const recentReports = document.getElementById('recentReports');
-        if (recentReports) {
-            recentReports.innerHTML = this.stats.recentReports
-                .map(report => {
-                    let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-                    const flowers = report && report.locations ? report.locations.flatMap(location => location.flowers).join(', ') : '';
-                    const locations = report && report.locations ? report.locations.map(location => location.location_name).join(', ') : '';
-
-                    return `
-                      <div class="recent-report">
-                            <span class="flower-name">${flowers}</span>
-                            <span class="report-date">${formattedDate}</span>
-                            <span class="report-location">${locations}</span>
-                       </div>
-                   `;
-                })
-                .join('');
-        }
-
-        // Update reports per flower in UI
-        const reportsPerFlowerDiv = document.getElementById('reportsPerFlower'); // Get the DIV
-        if (reportsPerFlowerDiv) {
-            reportsPerFlowerDiv.innerHTML = `
-                <div class="card shadow-sm">
-                    <div class="card-header">
-                        <h3 class="text-lg font-semibold">דיווחים לפי פרח</h3>
-                    </div>
-                    <div class="card-body">
-                        ${this.stats.reportsPerFlower.map(([flower, count]) => `
-                            <div class="stat-item">
-                                <span class="flower-name">${flower}</span>
-                                <span class="flower-count">${count} דיווחים</span>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-            `;
-        }
-
-        // Create monthly trends chart if Chart.js is available
         if (window.Chart && document.getElementById('monthlyTrendsChart')) {
             this.updateMonthlyTrendsChart();
         }
@@ -404,34 +378,5 @@ class FlowerStatistics {
                 }
             }
         });
-    }
-
-
-    renderStats() {
-        const generalStatsDiv = document.getElementById('generalStats');
-        const topLocationsDiv = document.getElementById('topLocations');
-        const recentReportsDiv = document.getElementById('recentReports');
-
-        if (generalStatsDiv) {
-            generalStatsDiv.innerHTML = `
-               <p><strong>סה"כ דיווחים:</strong> ${this.generalStats.totalReports}</p>
-               <p><strong>סה"כ פרחים:</strong> ${this.generalStats.totalFlowers}</p>
-           `;
-        } else {
-            console.warn("Element with ID 'generalStats' not found!");
-        }
-
-        if (topLocationsDiv) {
-            topLocationsDiv.innerHTML = this.topLocations.map(loc => `<p>${loc}</p>`).join('');
-        } else {
-            console.warn("Element with ID 'topLocations' not found!");
-        }
-
-        if (recentReportsDiv) {
-            recentReportsDiv.innerHTML = this.recentReports.map(report => `<p>${report}</p>`).join('');
-        } else {
-            console.warn("Element with ID 'recentReports' not found!");
-        }
-
     }
 }
