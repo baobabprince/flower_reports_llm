@@ -266,7 +266,7 @@ def get_coordinates(locations):
         else:
             url = "https://api.locationiq.com/v1/autocomplete.php"
             params = {
-                'key': '[hidden]',
+                'key': 'LOCATIONIQ_API_KEY',
                 'q': location,
                 'limit': 1,
                 'countrycodes': 'il'
