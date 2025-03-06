@@ -181,34 +181,61 @@ def scrape_page(page_num):
 def extract_flower_and_location(report):
     report_text = f"{report['title']}\n" + "\n".join(report['description'])
     
-    # Primary prompt
+    # Primary prompt - providing more explicit instructions and examples
     prompt1 = f"""Given the following Hebrew text about flower sightings, extract:
-    1. The names of flowers mentioned
-    2. All location names mentioned (return as a list)
+    1. The names of flowers mentioned (like כלניות, רקפות, נרקיסים, איריס הארגמן, etc.)
+    2. All location names mentioned (like ירושלים, הר הכרמל, פארק הירקון, מעגן מיכאל, etc.)
     
     Text:
     {report_text}
     
-    Return the result in this format:
-    Flowers: [list of flower names]
-    Locations: [list of location names]
+    Important: Even for very short texts, try to find at least one flower and one location.
+    Return the result in this exact format:
+    Flowers: [flower1, flower2, flower3]
+    Locations: [location1, location2, location3]
     """
     
-    # Alternative prompt for retry
+    # Alternative prompt for retry - more specific with examples
     prompt2 = f"""Analyze this Hebrew text about flower sightings and identify:
-    1. Any flowers or plants mentioned
-    2. Any locations or place names mentioned (list all)
+    1. Any flowers or plants mentioned - including common flowers like:
+       - כלניות (anemones)
+       - רקפות (cyclamen)
+       - נרקיסים (narcissus)
+       - איריס/אירוס (iris)
+       - שקדיות (almond blossoms)
+       - עירית (asphodel)
+    
+    2. Any locations or place names mentioned - including:
+       - Cities/towns (e.g., ירושלים, תל אביב)
+       - Mountains/hills (e.g., הר כרמל, גבעת...)
+       - Parks/reserves (e.g., פארק הירקון, שמורת...)
+       - Rivers/streams (e.g., נחל...)
     
     Text:
     {report_text}
     
-    Provide the output like this:
-    Flowers: [list of flower or plant names]
-    Locations: [list of location names]
+    Provide the output in exactly this format:
+    Flowers: [flower1, flower2, flower3]
+    Locations: [location1, location2, location3]
+    
+    If no flowers or locations are found, return empty lists but maintain the format.
     """
     
-    prompts = [prompt1, prompt2]
+    # Add a third prompt as final fallback - extremely direct and simple
+    prompt3 = f"""Extract from this Hebrew text:
+    1. A list of flower names
+    2. A list of location names
+    
+    Input text: {report_text}
+    
+    Output (format exactly like this):
+    Flowers: [flower1, flower2]
+    Locations: [location1, location2]
+    """
+    
+    prompts = [prompt1, prompt2, prompt3]
     max_retries = 5
+    error_stats = {"empty_results": 0, "resource_exhausted": 0, "other_errors": 0}
     
     for attempt in range(max_retries):
         for prompt_index, prompt in enumerate(prompts):
@@ -224,31 +251,51 @@ def extract_flower_and_location(report):
                 for line in text.split('\n'):
                     if line.startswith('Flowers:'):
                         flowers_str = line.replace('Flowers:', '').strip(' []')
-                        flowers = [f.strip(" '") for f in flowers_str.split(',') if f.strip()]
+                        flowers = [f.strip(" '\"") for f in flowers_str.split(',') if f.strip()]
                     elif line.startswith('Locations:'):
                         locations_str = line.replace('Locations:', '').strip(' []')
-                        locations = [l.strip(" '") for l in locations_str.split(',') if l.strip()]
+                        locations = [l.strip(" '\"") for l in locations_str.split(',') if l.strip()]
                 
                 if flowers or locations:  # Success if either list is non-empty
                     logger.info(f"Extracted flowers: {flowers}, locations: {locations}")
+                    logger.info(f"Extraction stats: {error_stats}")
                     time.sleep(4)
                     return flowers, locations
                 else:
-                    logger.warning(f"Empty extraction from Gemini (prompt {prompt_index+1}), retrying")
+                    error_stats["empty_results"] += 1
+                    logger.warning(f"Empty extraction from Gemini (prompt {prompt_index+1}), retrying (empty results: {error_stats['empty_results']})")
                     if prompt_index == len(prompts) - 1 and attempt < max_retries - 1:
                         wait_time = 5 * (2 ** attempt)
                         logger.warning(f"All prompts failed, waiting {wait_time} seconds before next attempt")
                         time.sleep(wait_time)
             except exceptions.ResourceExhausted as e:
+                error_stats["resource_exhausted"] += 1
                 wait_time = 5 * (2 ** attempt)
-                logger.warning(f"Gemini API quota exceeded (attempt {attempt+1}/{max_retries}): {e}. Waiting {wait_time} seconds")
+                logger.warning(f"Gemini API quota exceeded (attempt {attempt+1}/{max_retries}): {e}. Waiting {wait_time} seconds. Error count: {error_stats['resource_exhausted']}")
                 time.sleep(wait_time)
             except Exception as e:
-                logger.error(f"Error with Gemini API: {e}")
+                error_stats["other_errors"] += 1
+                logger.error(f"Error with Gemini API: {e}. Error count: {error_stats['other_errors']}")
+                logger.error(f"Error type: {type(e).__name__}, Error details: {str(e)}")
                 time.sleep(2)
+                
+                # Try one more approach with a minimal prompt if we've had multiple errors
+                if error_stats["other_errors"] >= 3:
+                    try:
+                        logger.info("Attempting minimal fallback prompt as last resort")
+                        minimal_prompt = f"Extract flower names and location names from this text: {report['title']}"
+                        fallback_response = model.generate_content(minimal_prompt)
+                        logger.info(f"Fallback response: {fallback_response.text}")
+                        # Extract whatever we can from the response
+                        # At this point, any data is better than nothing
+                        return [], []
+                    except:
+                        logger.error("Even minimal fallback failed")
+                        return [], []
                 return [], []
     
-    logger.error(f"Failed to extract from Gemini for report: {report['title']} after all retries")
+    logger.error(f"Failed to extract from Gemini for report: {report['title']} after all retries. Error stats: {error_stats}")
+    # Report would be empty, not useful to add it
     return [], []
 
 def get_coordinates(locations):
@@ -266,7 +313,7 @@ def get_coordinates(locations):
         else:
             url = "https://api.locationiq.com/v1/autocomplete.php"
             params = {
-                'key': 'LOCATIONIQ_API_KEY',
+                'key': LOCATIONIQ_API_KEY,
                 'q': location,
                 'limit': 1,
                 'countrycodes': 'il'
