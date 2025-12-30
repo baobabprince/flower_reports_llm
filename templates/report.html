@@ -20,28 +20,15 @@
             </tr>
         </thead>
         <tbody id="reports-table">
+            {% for report in reports %}
+            <tr>
+                <td>{{ report.flowers|join(', ') }}</td>
+                <td>{{ report.locations|join(', ') }}</td>
+                <td>{{ report.date }}</td>
+                <td>{{ report.description|join('\n') }}</td>
+            </tr>
+            {% endfor %}
         </tbody>
     </table>
-
-    <script>
-        fetch('/static/reports.json')
-            .then(response => response.json())
-            .then(reports => {
-                const tableBody = document.getElementById('reports-table');
-                reports.forEach(report => {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${report.flowers.join(', ')}</td>
-                        <td>${report.locations}</td>
-                        <td>${report.maps_query_locations}</td>
-                        <td>${report.lat}</td>
-                        <td>${report.lon}</td>
-                        <td>${report.date}</td>
-                        <td>${report.original_report}</td>
-                    `;
-                    tableBody.appendChild(row);
-                });
-            });
-    </script>
 </body>
 </html>

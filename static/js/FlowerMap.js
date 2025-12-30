@@ -22,7 +22,7 @@ class FlowerMap {
         flowerMapUtils.tabUtils.initialize();
 
         // Load initial data
-        this.loadData();
+        this.processData(ALL_REPORTS);
     }
 
     initializeMap() {
@@ -43,31 +43,6 @@ class FlowerMap {
         });
 
         this.map.addLayer(this.markerCluster);
-
-        this.displayLastUpdateDate();
-    }
-
-     async displayLastUpdateDate() {
-        try {
-            const [tiuliData, mergedData] = await Promise.all([
-                fetch('./tiuli_reports.json').then(response => response.json()),
-                fetch('./merged_reports.json').then(response => response.json())
-            ]);
-        
-            const tiuliDates = tiuliData.reports.map(report => this.parseDate(report.date));
-            const mergedDates = mergedData.reports.map(report => this.parseDate(report.date));
-
-
-            const allDates = [...tiuliDates, ...mergedDates];
-
-            const latestDate = new Date(Math.max.apply(null, allDates));
-            const formattedDate = flowerMapUtils.dateUtils.formatDate(latestDate);
-            document.getElementById('last-update').innerText = `Last update: ${formattedDate}`;
-
-        } catch (error) {
-            console.error('Error fetching last update dates:', error);
-             this.showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
-        }
     }
     parseDate(dateString){
         if(typeof dateString === 'string' && dateString.includes('/')){
@@ -107,130 +82,37 @@ class FlowerMap {
 
     }
 
-    async loadData() {
-        try {
-            flowerMapUtils.logger.info('Loading flower reports');
-
-            const [tiuliResponse, mergedResponse] = await Promise.all([
-                fetch('./tiuli_reports.json'),
-                fetch('./merged_reports.json')
-            ]);
-
-            if (!tiuliResponse.ok) {
-                throw new Error(`HTTP error! status: ${tiuliResponse.status} for tiuli_reports.json`);
-            }
-             if (!mergedResponse.ok) {
-               throw new Error(`HTTP error! status: ${mergedResponse.status} for merged_reports.json`);
-             }
-
-
-            const tiuliData = await tiuliResponse.json();
-            const mergedData = await mergedResponse.json();
-
-
-           const tiuliReports = tiuliData.reports.map(report => ({...report, source: 'tiuli'}));
-             const mergedReports = mergedData.reports.map(report => ({...report, source: 'merged'}));
-
-            const allReports = [...tiuliReports, ...mergedReports];
-
-
-            this.processData(allReports);
-            this.statistics.updateStatistics(allReports, this.dateRange,this.sourceFilters);
-            flowerMapUtils.logger.info('Data loaded successfully', { count: allReports.length });
-        } catch (error) {
-            flowerMapUtils.logger.error('Failed to load data', error);
-            this.showError('לא ניתן לטעון את הנתונים. אנא נסה שוב מאוחר יותר.');
-        }
-    }
-
 
     processData(reports) {
-           this.markerCluster.clearLayers();
-           this.currentMarkers = [];
-           const filteredReports = reports.filter(report => {
-            try {
-                let date;
-                if (typeof report.date === 'string' && report.date.includes('/')) {
-                    const [day, month, year] = report.date.split('/');
-                     date = new Date(`${year}-${month}-${day}`);
-                } else if (typeof report.date === 'string' && report.date.includes('-')) {
-                       const [year, month, day] = report.date.split('-');
-                       date = new Date(`${year}-${month}-${day}`);
-                }
-                 else {
-                    date = new Date(report.date);
-                }
-                if (isNaN(date.getTime())) {
-                     flowerMapUtils.logger.warn('Invalid date in report', { report });
-                     return false;
-                 }
-                 return (
-                   flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange) &&
-                   this.sourceFilters[report.source]
-                 );
-             } catch (error) {
-                flowerMapUtils.logger.error('Error processing report date', { report, error });
-                 return false;
-             }
+        this.markerCluster.clearLayers();
+        this.currentMarkers = [];
+
+        const filteredReports = reports.filter(report => {
+            return flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange);
         });
 
         filteredReports.forEach(report => {
-            if (!report.geocoded_locations) {
-                //flowerMapUtils.logger.warn('skipping report due to missing geocoded_locations', {report});
-                return;
-            }
-             if (Array.isArray(report.locations)) {
-                 for (const location of report.locations) {
-                     if (typeof location === 'object' && location !== null && location.location_name && report.geocoded_locations[location.location_name]) {
-                         try {
-                             const locationData = report.geocoded_locations[location.location_name];
-                             const marker = this.createMarker(report, locationData, location.location_name);
-                            this.currentMarkers.push(marker);
-                             this.markerCluster.addLayer(marker);
-                         } catch (error) {
-                              flowerMapUtils.logger.error('Error creating marker', {report, location, error});
-                         }
-                     } else {
-                          if(this.IS_DEVELOPMENT){
-                             // flowerMapUtils.logger.warn('skipping invalid location:', {location, report});
-                          }
-                     }
-                 }
-             } else {
-                 flowerMapUtils.logger.warn('Report locations is not an array', {report});
-             }
-
-         });
+            const marker = this.createMarker(report);
+            this.currentMarkers.push(marker);
+            this.markerCluster.addLayer(marker);
+        });
 
         flowerMapUtils.logger.info('Markers updated', {
            total: reports.length,
             filtered: filteredReports.length
         });
     }
-    createMarker(report, locationData, locationName) {
-
-        if (!locationData || typeof locationData !== 'object' || locationData === null) {
-            flowerMapUtils.logger.error('Invalid locationData passed to createMarker', { locationData, report, locationName });
-            return null;
-        }
-        if (!report) {
-            flowerMapUtils.logger.error('Invalid report passed to createMarker', { report, locationData, locationName });
-            return null;
-        }
-
-        const marker = L.marker([locationData.latitude, locationData.longitude]);
+    createMarker(report) {
+        const marker = L.marker([report.lat, report.lon]);
         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
 
-        // Get unique flower names
-        const uniqueFlowers = [...new Set(report.locations.flatMap(location => location.flowers))];
         const popupContent = `
             <div class="popup-content">
-                <h3 class="popup-title">${uniqueFlowers.join(", ")}</h3>
-                <p><strong>מיקום:</strong> ${locationName}</p>
+                <h3 class="popup-title">${report.flowers}</h3>
+                <p><strong>מיקום:</strong> ${report.title}</p>
                 <p><strong>תאריך:</strong> ${formattedDate}</p>
-                <p><strong>מקור:</strong> ${report.source === 'tiuli' ? 'טיולי' : 'מיזוג'}</p>
-                <p><strong>דיווח מקורי:</strong> ${report.original_text}</p>
-                <button onclick="flowerMapUtils.shareUtils.shareLocation(${locationData.latitude}, ${locationData.longitude}, '${report.locations.flatMap(location => location.flowers).join(", ")}')"
+                <p><strong>דיווח מקורי:</strong> ${report.description}</p>
+                <button onclick="flowerMapUtils.shareUtils.shareLocation(${report.lat}, ${report.lon}, '${report.flowers}')"
                         class="share-button">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -245,46 +127,6 @@ class FlowerMap {
 
         marker.bindPopup(popupContent);
         return marker;
-    }
-
-    handleDateSelect(date) {
-        const selectedDate = new Date(date);
-        if (!this.dateRange.from || this.dateRange.to) {
-            // Start new range
-            this.dateRange = {
-                from: selectedDate,
-                to: null
-            };
-            document.getElementById('selectedDateRange').textContent =
-                flowerMapUtils.dateUtils.formatDate(date);
-        } else {
-             // Complete the range
-           const currentFromDate = new Date(this.dateRange.from);
-             if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) < 0) {
-                this.dateRange = {
-                  from: selectedDate,
-                  to: currentFromDate,
-                };
-            }
-             else if (flowerMapUtils.dateUtils.compareDates(selectedDate, currentFromDate) === 0) {
-                this.dateRange.to = selectedDate
-            } else {
-                 this.dateRange.to = selectedDate;
-             }
-
-            document.getElementById('selectedDateRange').textContent =
-                `${flowerMapUtils.dateUtils.formatDate(this.dateRange.from)} - ${flowerMapUtils.dateUtils.formatDate(this.dateRange.to)}`;
-
-            document.getElementById('calendar').classList.add('hidden');
-            this.loadData();
-        }
-    }
-
-    clearDateFilter() {
-        this.dateRange = { from: null, to: null };
-        document.getElementById('selectedDateRange').textContent = 'בחר תאריכים';
-        this.loadData();
-        flowerMapUtils.logger.info('Date filter cleared');
     }
 
     showError(message) {
@@ -302,27 +144,6 @@ class FlowerMap {
            }
          }, 5000);
      }
-     initializeSourceFilter() {
-        const tiuliCheckbox = document.getElementById('tiuli-filter');
-        const mergedCheckbox = document.getElementById('merged-filter');
-    
-        if (tiuliCheckbox) {
-            tiuliCheckbox.addEventListener('change', () => this.handleSourceFilterChange('tiuli', tiuliCheckbox.checked));
-        } else {
-            console.warn('tiuliCheckbox not found');
-        }
-    
-        if (mergedCheckbox) {
-            mergedCheckbox.addEventListener('change', () => this.handleSourceFilterChange('merged', mergedCheckbox.checked));
-        } else {
-            console.warn('mergedCheckbox not found');
-        }
-    }
-
-    handleSourceFilterChange(source, isChecked) {
-        this.sourceFilters[source] = isChecked;
-        this.loadData();
-    }
 };
 
 // Initialize the map when the DOM is loaded
