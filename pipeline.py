@@ -138,27 +138,26 @@ def scrape_wildflowers_page(page_num, session):
                 'reporter': '',
                 'links': []
             }
-            current = bold_tag.next_sibling
-            while current:
-                if isinstance(current, BeautifulSoup) and current.name == 'b':
+            # The date is usually in the text following the title
+            date_tag = bold_tag.find_next(string=re.compile(r'תאריך:'))
+            if date_tag:
+                report['date'] = date_tag.replace('תאריך:', '').strip()
+
+            # The reporter is usually in a mailto link
+            reporter_link = bold_tag.find_next('a', href=re.compile('mailto:'))
+            if reporter_link:
+                report['reporter'] = reporter_link.get_text(strip=True)
+
+            # Get the description text
+            description_text = ''
+            for sibling in bold_tag.next_siblings:
+                if sibling.name == 'b':
                     break
-                if isinstance(current, NavigableString):
-                    text = current.strip()
-                    if text:
-                        if text.startswith('תאריך:'):
-                            report['date'] = text.replace('תאריך:', '').strip()
-                        else:
-                            report['description'].append(text)
-                elif isinstance(current, BeautifulSoup):
-                    if current.name == 'a':
-                        if 'mailto:' in current.get('href', ''):
-                            report['reporter'] = current.get_text(strip=True)
-                        elif 'http' in current.get('href', ''):
-                            report['links'].append({
-                                'text': current.get_text(strip=True),
-                                'url': current['href']
-                            })
-                current = current.next_sibling
+                if isinstance(sibling, NavigableString):
+                    text = sibling.strip()
+                    if text and not text.startswith('תאריך:'):
+                        description_text += text + '\n'
+            report['description'] = [d.strip() for d in description_text.strip().split('\n') if d.strip()]
             if report['title'] and report['date'] and not report['title'].startswith(('סך הכל:', '[', 'דווחים')):
                 reports.append(report)
         logger.info(f"Extracted {len(reports)} valid reports from page {page_num}")
@@ -256,10 +255,9 @@ def get_coordinates(locations, geocache, session):
 # --- Main Processing Pipeline ---
 
 
-def process_tiuli_files(existing_data, geocache, session):
+def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scraped_reports'):
     """Processes HTML files from the tiuli_scraped_reports directory."""
     logger.info("Processing Tiuli HTML files...")
-    html_dir = 'tiuli_scraped_reports'
     if not os.path.exists(html_dir):
         logger.warning(f"Directory '{html_dir}' not found.")
         return []
@@ -303,6 +301,11 @@ def process_tiuli_files(existing_data, geocache, session):
 
                         # Extract report details
                         report_details = article.find('div', class_='report-details')
+                        original_text = ""
+                        if report_details:
+                            original_text_element = report_details.find('div', class_='mt-1')
+                            if original_text_element:
+                                original_text = original_text_element.get_text(strip=True)
 
                         flower_name_element = report_details.find('h2', class_='m-0 font-bold text-lg lg:text-2xl').find('a')
                         flower_name = flower_name_element.get_text(strip=True) if flower_name_element else None
@@ -331,12 +334,12 @@ def process_tiuli_files(existing_data, geocache, session):
                                             geocoded_locations[location] = {"latitude": latitude, "longitude": longitude}
                                  except:
                                         pass
+                        report['coordinates'] = []
                         if geocoded_locations :
-                             report['geocoded_locations'] = geocoded_locations
+                            for location, coords in geocoded_locations.items():
+                                report['coordinates'].append({'lat': coords['latitude'], 'lon': coords['longitude']})
                         else:
-                            report['geocoded_locations'] = {}
-
-                        report['coordinates'] = get_coordinates(report['locations'], geocache, session)
+                            report['coordinates'] = get_coordinates(report['locations'], geocache, session)
 
                         report['source_file'] = filepath
                         new_reports.append(report)
@@ -382,14 +385,15 @@ def process_wildflowers_website(existing_data, geocache, model, session):
 
 def main():
     """Main function to run the data processing pipeline."""
+    model = init_gemini()
     session = init_requests_session()
     geocache = load_geocache()
     existing_data = load_existing_data()
 
-    # wildflowers_data = process_wildflowers_website(existing_data, geocache, model, session)
+    wildflowers_data = process_wildflowers_website(existing_data, geocache, model, session)
     tiuli_data = process_tiuli_files(existing_data, geocache, session)
 
-    all_data = existing_data + tiuli_data
+    all_data = existing_data + wildflowers_data + tiuli_data
     save_data(all_data)
     logger.info("Data processing pipeline completed.")
 

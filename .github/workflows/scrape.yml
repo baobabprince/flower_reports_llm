@@ -1,0 +1,38 @@
+name: Scrape Flower Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual runs
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LOCATIONIQ_API_KEY: ${{ secrets.LOCATIONIQ_API_KEY }}
+        run: python3 pipeline.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Automated data scrape
+          title: 'Automated data scrape'
+          body: |
+            Automated data scrape
+          branch: 'automated-scrape'
+          delete-branch: true

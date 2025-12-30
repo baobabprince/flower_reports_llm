@@ -9,6 +9,8 @@ This project scrapes and parses flowering report data from various websites, pro
 - **`pipeline.py`**: The main data processing pipeline. This script scrapes data from `wildflowers.co.il`, processes local HTML files from the `tiuli_scraped_reports` directory, extracts flower and location information using the Gemini API, and geocodes the locations using the LocationIQ API. The processed data is saved to `wildflowers_data.json`.
 - **`background_worker.py`**: A background worker that runs the data processing pipeline every hour to keep the data fresh.
 - **`flask_app.py`**: A simple Flask web application that serves the processed data and displays it on an interactive map.
+- **`tests/`**: Contains the unit tests for the data pipeline.
+- **`.github/workflows/scrape.yml`**: A GitHub Action that runs the scraping pipeline daily.
 - **`templates/`**: Contains the HTML templates for the web application.
 - **`static/`**: Contains the static assets for the web application (CSS, JavaScript, etc.).
 - **`wildflowers_data.json`**: The consolidated, processed data from all sources.
@@ -54,3 +56,19 @@ This project scrapes and parses flowering report data from various websites, pro
     python3 flask_app.py
     ```
     The application will be available at `http://127.0.0.1:5000`.
+
+## Testing
+
+To run the unit tests, execute the following command:
+```bash
+python3 -m unittest discover tests
+```
+
+## Automated Scraping
+
+This project uses a GitHub Action to automatically scrape the data daily. To enable this, you need to add the following secrets to your GitHub repository:
+
+-   `GEMINI_API_KEY`: Your API key for the Gemini API.
+-   `LOCATIONIQ_API_KEY`: Your API key for the LocationIQ API.
+
+The workflow is defined in `.github/workflows/scrape.yml`.
