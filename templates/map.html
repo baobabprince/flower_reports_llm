@@ -4,19 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flower Map</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-        crossorigin=""/>
-     <link rel="stylesheet" href="/static/css/styles.css">
-     <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="data:,">
 </head>
 <body>
     <div class="container">
         <div class="card">
             <div class="card-header">
-                <div class="date-filter">
+                <div class="date-filter" dir="rtl" aria-label="פילטר לפי תאריכים">
                     <button class="button-secondary" id="datePickerButton">
-                        <span id="selectedDateRange">בחר תאריכים</span>
+                        <span id="selectedDateRange" aria-live="polite">בחר תאריכים</span>
                     </button>
                     <div class="date-picker-container">
                         <div id="calendar" class="calendar-dropdown hidden"></div>
@@ -29,6 +31,14 @@
                         </svg>
                          נקה
                     </button>
+
+                    <!-- Date presets -->
+                    <div class="date-presets" style="display:inline-block; margin-right:1rem;">
+                        <button class="button-secondary date-preset" data-preset="all">הכל</button>
+                        <button class="button-secondary date-preset" data-preset="7">7 ימים</button>
+                        <button class="button-secondary date-preset" data-preset="30">30 ימים</button>
+                        <button class="button-secondary date-preset" data-preset="year">השנה</button>
+                    </div>
                 </div>
                 <div class="source-filter">
                     <label><input type="checkbox" id="tiuli-filter" checked> Tiuli</label>
@@ -66,7 +76,10 @@
             </button>
         </div>
 
-        <div id="map-tab" class="tab-content"></div>
+        <div id="map-tab" class="tab-content">
+        <div id="map"></div>
+        <p id="no-data" class="hidden">אין דיווחים בטווח התאריכים הנבחר.</p>
+      </div> 
         <div id="stats-tab" class="tab-content hidden">
              <div class="stats-grid">
                 <div class="stats-card">

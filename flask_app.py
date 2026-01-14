@@ -30,32 +30,48 @@ def map_view():
     """Renders the map with all the flowering report locations."""
     all_reports = load_data()
 
-    # an array of report objects, each with lat and lon
+    # an array of report objects, each with lat and lon (only valid numeric coords)
     coords = []
     for report in all_reports:
+        # handle geocoded_locations (dict of named locations -> {latitude, longitude})
         if 'geocoded_locations' in report and report['geocoded_locations']:
             for location, coords_data in report['geocoded_locations'].items():
-                if coords_data and 'latitude' in coords_data and 'longitude' in coords_data:
-                    coords.append({
-                        'lat': coords_data['latitude'],
-                        'lon': coords_data['longitude'],
-                        'title': report['title'],
-                        'flowers': ', '.join(report['flowers']),
-                        'date': report['date'],
-                        'description': '\n'.join(report['description'])
-                    })
+                lat = coords_data.get('latitude') if coords_data else None
+                lon = coords_data.get('longitude') if coords_data else None
+                if lat is None or lon is None:
+                    continue
+                try:
+                    latf = float(lat)
+                    lonf = float(lon)
+                except Exception:
+                    continue
+                coords.append({
+                    'lat': latf,
+                    'lon': lonf,
+                    'title': report.get('title'),
+                    'flowers': ', '.join(report.get('flowers', [])),
+                    'date': report.get('date'),
+                    'description': '\n'.join(report.get('description', []))
+                })
+
         # handle reports with multiple coordinates
-        elif 'coordinates' in report and report['coordinates'] is not None:
+        if 'coordinates' in report and report['coordinates'] is not None:
             for c in report['coordinates']:
-                if c is not None and 'lat' in c and 'lon' in c:
-                    coords.append({
-                        'lat': c['lat'],
-                        'lon': c['lon'],
-                        'title': report['title'],
-                        'flowers': ', '.join(report['flowers']),
-                        'date': report['date'],
-                        'description': '\n'.join(report['description'])
-                    })
+                if not c or c.get('lat') is None or c.get('lon') is None:
+                    continue
+                try:
+                    latf = float(c['lat'])
+                    lonf = float(c['lon'])
+                except Exception:
+                    continue
+                coords.append({
+                    'lat': latf,
+                    'lon': lonf,
+                    'title': report.get('title'),
+                    'flowers': ', '.join(report.get('flowers', [])),
+                    'date': report.get('date'),
+                    'description': '\n'.join(report.get('description', []))
+                })
 
     return render_template('map.html', coords_list=coords)
 

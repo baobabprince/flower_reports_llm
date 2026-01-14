@@ -88,6 +88,30 @@ const dateUtils = {
             }
         }
 
+        // Try a fallback: find a date-like substring and parse it
+        try {
+            const match = input.match(/(\d{1,2}[\/\.-]\d{1,2}[\/\.-]\d{2,4})|(\d{4}-\d{2}-\d{2})/);
+            if (match) {
+                const candidate = match[0];
+                const parts = candidate.includes('-') ? candidate.split('-') : candidate.split(/[\/\.-]/);
+                if (candidate.includes('-')) {
+                    // YYYY-MM-DD
+                    const [year, month, day] = parts.map(p => parseInt(p, 10));
+                    const date = new Date(year, month - 1, day);
+                    if (!isNaN(date.getTime())) return date;
+                } else {
+                    // DD/MM/YYYY or similar
+                    const day = parseInt(parts[0], 10);
+                    const month = parseInt(parts[1], 10) - 1;
+                    const year = parseInt(parts[2], 10);
+                    const date = new Date(year, month, day);
+                    if (!isNaN(date.getTime())) return date;
+                }
+            }
+        } catch (e) {
+            // ignore and return null
+        }
+
         // If all parsing attempts fail
         return null;
     },

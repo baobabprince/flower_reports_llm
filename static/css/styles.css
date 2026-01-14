@@ -73,6 +73,15 @@ body {
     align-items: center;
 }
 
+/* Utility classes */
+.hidden { display: none; }
+
+#no-data {
+    margin-top: 8px;
+    color: #9ca3af;
+    font-weight: 600;
+}
+
 .date-picker-container {
     position: relative;
 }
@@ -86,6 +95,21 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
     z-index: 1000;
+    direction: rtl; /* Hebrew UI */
+    min-width: 280px;
+}
+
+/* Preset button active state */
+.date-preset.active {
+    background: #4f46e5;
+    color: #fff;
+    border-color: transparent;
+}
+
+/* Disabled clear button */
+#clearDates[disabled] {
+    opacity: 0.6;
+    cursor: not-allowed;
 }
 
 /* Button styles */

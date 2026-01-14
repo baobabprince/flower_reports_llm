@@ -5,8 +5,7 @@ This project scrapes and parses flowering report data from various websites, pro
 **Live Site:** [https://baobabprince.github.io/flower_reports_llm/](https://baobabprince.github.io/flower_reports_llm/)
 
 ## Project Structure
-
-- **`pipeline.py`**: The main data processing pipeline. This script scrapes data from `wildflowers.co.il`, processes local HTML files from the `tiuli_scraped_reports` directory, extracts flower and location information using the Gemini API, and geocodes the locations using the LocationIQ API. The processed data is saved to `wildflowers_data.json`.
+w - **`pipeline.py`**: The main data processing pipeline. This script scrapes data from `wildflowers.co.il`, processes local HTML files from the `tiuli_scraped_reports` directory, extracts flower and location information using the Gemini API, and geocodes the locations using the LocationIQ API. The processed data is saved to `wildflowers_data.json`.
 - **`background_worker.py`**: A background worker that runs the data processing pipeline every hour to keep the data fresh.
 - **`flask_app.py`**: A simple Flask web application that serves the processed data and displays it on an interactive map.
 - **`tests/`**: Contains the unit tests for the data pipeline.

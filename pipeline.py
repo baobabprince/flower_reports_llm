@@ -27,7 +27,8 @@ def init_gemini():
     """Initializes and returns the Gemini API model."""
     gemini_api_key = os.getenv('GEMINI_API_KEY')
     if not gemini_api_key:
-        raise ValueError("GEMINI_API_KEY not found in environment variables")
+        logger.warning("GEMINI_API_KEY not found in environment variables. Gemini features will be disabled.")
+        return None
     genai.configure(api_key=gemini_api_key)
     model_name = os.getenv('GEMINI_MODEL', 'gemini-1.5-flash')
     logger.info(f"Using Gemini model: {model_name}")
@@ -351,6 +352,10 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
 
 def process_wildflowers_website(existing_data, geocache, model, session):
     """Main pipeline to process the wildflowers.co.il website."""
+    if model is None:
+        logger.warning("Gemini model is not available. Skipping wildflowers.co.il processing.")
+        return []
+
     logger.info("Processing wildflowers.co.il...")
     existing_titles_dates = {(r.get('title'), r.get('date')) for r in existing_data}
 
