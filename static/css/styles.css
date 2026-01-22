@@ -1,237 +1,412 @@
-/* Base styles */
+:root {
+    --primary-color: #4f46e5;
+    --primary-hover: #4338ca;
+    --bg-color: #f8fafc;
+    --header-bg: #ffffff;
+    --text-primary: #1e293b;
+    --text-secondary: #64748b;
+    --border-color: #e2e8f0;
+    --card-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    --header-height: 70px;
+    --nav-height: 50px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    padding: 0;
+    font-family: 'Heebo', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    height: 100vh;
+    overflow: hidden; /* Prevent body scroll */
+}
+
+/* App Layout */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.app-header {
+    height: var(--header-height);
+    background: var(--header-bg);
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    flex-shrink: 0;
+    z-index: 1000;
+}
+
+.app-header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.main-nav {
+    height: var(--nav-height);
+    background: var(--header-bg);
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    padding: 0 24px;
+    flex-shrink: 0;
+}
+
+.content-area {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+}
+
+.view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    background: var(--bg-color);
+}
+
+.view.hidden {
+    display: none; /* or use visibility: hidden to keep state? display none is better for perf usually */
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 24px;
 }
 
-/* Card styles */
-.card {
+/* Filters Bar */
+.filters-bar {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.date-filter-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+}
+
+.source-filter-group {
+    display: flex;
+    gap: 16px;
+    border-right: 1px solid var(--border-color);
+    padding-right: 24px;
+}
+
+/* Tabs */
+.tabs-container {
+    display: flex;
+    gap: 4px;
+    height: 100%;
+}
+
+.tab-button {
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 0 16px;
+    height: 100%;
+    font-family: inherit;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+}
+
+.tab-button:hover {
+    color: var(--primary-color);
+    background-color: #f1f5f9;
+}
+
+.tab-button.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+    font-weight: 500;
+}
+
+/* Map Styles */
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+#no-data-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.no-data-message {
     background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-bottom: 20px;
+    padding: 24px 48px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
-.card-header {
+/* UI Elements */
+.button-secondary {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 8px 16px;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+}
+
+.button-secondary:hover {
+    border-color: #cbd5e1;
+    background-color: #f8fafc;
+}
+
+.chip-button {
+    background: #f1f5f9;
+    border: none;
+    border-radius: 9999px;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.chip-button:hover {
+    background: #e2e8f0;
+}
+
+.chip-button.active {
+    background: var(--primary-color);
+    color: white;
+}
+
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-button:hover {
+    background-color: #f1f5f9;
+    color: var(--text-primary);
+}
+
+.icon-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Reports Grid */
+.list-header-count {
+    margin-bottom: 16px;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+}
+
+.reports-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 24px;
+}
+
+.report-card {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: var(--card-shadow);
+}
+
+.report-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.report-header {
     padding: 16px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #f1f5f9;
+    background: #f8fafc;
+}
+
+.report-title {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.report-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.report-body {
+    padding: 16px;
+}
+
+.report-description {
+    margin: 0;
+    color: var(--text-primary);
+    line-height: 1.5;
+    font-size: 0.95rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.report-footer {
+    padding: 12px 16px;
+    border-top: 1px solid #f1f5f9;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-/* Tab styles */
-.tabs {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 16px;
-}
-
-.tab-button {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
-    border: none;
-    background: white;
+.location-badge {
+    background: #eff6ff;
+    color: #3b82f6;
+    padding: 4px 8px;
     border-radius: 6px;
-    cursor: pointer;
-    transition: background-color 0.2s;
+    font-size: 0.8rem;
+    font-weight: 500;
 }
 
-.tab-button.active {
-    background: #e0e7ff;
-    color: #4f46e5;
+/* Stats Cards (reused with tweaks) */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
 }
 
-.tab-icon {
-    stroke: currentColor;
-    fill: none;
-    stroke-width: 2;
-    stroke-linecap: round;
-    stroke-linejoin: round;
+.stats-card {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: var(--card-shadow);
 }
 
-/* Map styles */
-#map {
-    height: 600px;
-    width: 100%;
-    border-radius: 0 0 8px 8px;
+.stats-card h2 {
+    margin-top: 0;
+    margin-bottom: 16px;
+    font-size: 1.25rem;
+    color: var(--text-primary);
 }
 
-/* Date picker styles */
-.date-filter {
-    display: flex;
-    gap: 12px;
-    align-items: center;
-}
-
-/* Utility classes */
-.hidden { display: none; }
-
-#no-data {
-    margin-top: 8px;
-    color: #9ca3af;
-    font-weight: 600;
-}
-
-.date-picker-container {
-    position: relative;
-}
-
+/* Pikaday Tweaks */
 .calendar-dropdown {
     position: absolute;
     top: 100%;
     right: 0;
-    margin-top: 4px;
+    margin-top: 8px;
     background: white;
     border-radius: 8px;
-    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
-    z-index: 1000;
-    direction: rtl; /* Hebrew UI */
-    min-width: 280px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    z-index: 2000;
 }
 
-/* Preset button active state */
-.date-preset.active {
-    background: #4f46e5;
-    color: #fff;
-    border-color: transparent;
+.hidden {
+    display: none !important;
 }
 
-/* Disabled clear button */
-#clearDates[disabled] {
-    opacity: 0.6;
-    cursor: not-allowed;
-}
-
-/* Button styles */
-.button-primary {
-    background: #4f46e5;
-    color: white;
-    border: none;
-    padding: 8px 16px;
-    border-radius: 6px;
-    cursor: pointer;
+/* Checkbox Styling */
+.checkbox-label {
     display: flex;
     align-items: center;
     gap: 8px;
-}
-
-.button-secondary {
-    background: transparent;
-    color: #6b7280;
-    border: 1px solid #d1d5db;
-    padding: 8px 16px;
-    border-radius: 6px;
     cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--text-primary);
 }
 
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .app-header {
+        flex-direction: column;
+        height: auto;
+        padding: 12px;
+        gap: 12px;
+    }
 
-/* Statistics grid */
-.stats-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 16px;
-    padding: 16px;
-}
+    .filters-bar {
+        width: 100%;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 12px;
+    }
 
-.stats-card {
-    background: #f9fafb;
-    padding: 16px;
-    border-radius: 6px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+    .date-filter-group {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .source-filter-group {
+        border-right: none;
+        border-top: 1px solid var(--border-color);
+        padding-right: 0;
+        padding-top: 12px;
+        justify-content: center;
+    }
 
-.stats-card h3 {
-    font-size: 1.25rem;
-    font-weight: bold;
-    margin-bottom: 8px;
-    color: #374151;
-}
-
-.stat-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 8px 0;
-    border-bottom: 1px solid #e5e7eb;
-}
-
-.stat-item:last-child {
-    border-bottom: none;
-}
-
-.stat-label {
-    font-weight: 600;
-    color: #4b5563;
-}
-
-.stat-value {
-    color: #1f2937;
-}
-
-/* Flower-specific styles */
-.flower-name {
-    font-style: italic;
-    color: #6b7280;
-}
-
-.flower-count {
-    font-size: 0.875rem;
-    color: #9ca3af;
-}
-
-/* Recent report styling */
-.recent-report {
-    margin-bottom: 8px;
-    padding: 8px;
-    border-radius: 4px;
-    background-color: #fff; /* Slightly different background */
-    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-}
-
-.recent-report .flower-name {
-    font-weight: bold;
-}
-
-.recent-report .report-date {
-    font-size: 0.75rem;
-    color: #6b7280;
-}
-
-.recent-report .report-location {
-    font-size: 0.75rem;
-    color: #6b7280;
-}
-
-/* Top flower badge */
-.top-flower {
-    position: relative;
-}
-
-.top-flower .flower-badge {
-    position: absolute;
-    top: -8px;
-    right: -8px;
-    background-color: #facc15;
-    color: #000;
-    padding: 2px 6px;
-    border-radius: 9999px;
-    font-size: 0.75rem;
-    font-weight: bold;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-}
-
-/* Chart styles (if using chart.js) */
-#monthlyTrendsChart {
-    width: 100%; /* Ensure chart takes full width */
-    max-height: 300px; /* Limit chart height */
+    .date-presets {
+        display: none; /* Hide quick presets on mobile to save space */
+    }
+    
+    .main-nav {
+        justify-content: center;
+    }
+    
+    .tabs-container {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .tab-button {
+        flex: 1;
+        justify-content: center;
+        padding: 0 8px;
+        font-size: 0.85rem;
+    }
 }

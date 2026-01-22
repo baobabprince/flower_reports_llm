@@ -1,111 +1,170 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="he" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flower Map</title>
+    <title>מפת פריחה - דיווחי פריחה בישראל</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Libraries -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
-    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.2/css/pikaday.min.css">
+    
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="/static/css/styles.css">
-    <link rel="icon" href="data:,">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌸</text></svg>">
 </head>
 <body>
-    <div class="container">
-        <div class="card">
-            <div class="card-header">
-                <div class="date-filter" dir="rtl" aria-label="פילטר לפי תאריכים">
-                    <button class="button-secondary" id="datePickerButton">
-                        <span id="selectedDateRange" aria-live="polite">בחר תאריכים</span>
+    <div class="app-container">
+        
+        <!-- Header: Title & Filters -->
+        <header class="app-header">
+            <div class="logo-area">
+                <h1>🌸 דיווחי פריחה</h1>
+            </div>
+            
+            <div class="filters-bar">
+                <div class="date-filter-group">
+                    <button class="button-secondary date-picker-trigger" id="datePickerButton">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                        </svg>
+                        <span id="selectedDateRange">בחר תאריכים</span>
                     </button>
+                    
                     <div class="date-picker-container">
                         <div id="calendar" class="calendar-dropdown hidden"></div>
                     </div>
-                    <button class="button-secondary" id="clearDates">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+                    <div class="date-presets">
+                        <button class="chip-button" data-preset="all">הכל</button>
+                        <button class="chip-button" data-preset="7">7 ימים</button>
+                        <button class="chip-button" data-preset="30">30 ימים</button>
+                        <button class="chip-button" data-preset="year">השנה</button>
+                    </div>
+
+                    <button class="icon-button" id="clearDates" title="נקה סינון תאריך">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <line x1="18" y1="6" x2="6" y2="18"></line>
                             <line x1="6" y1="6" x2="18" y2="18"></line>
                         </svg>
-                         נקה
                     </button>
+                </div>
 
-                    <!-- Date presets -->
-                    <div class="date-presets" style="display:inline-block; margin-right:1rem;">
-                        <button class="button-secondary date-preset" data-preset="all">הכל</button>
-                        <button class="button-secondary date-preset" data-preset="7">7 ימים</button>
-                        <button class="button-secondary date-preset" data-preset="30">30 ימים</button>
-                        <button class="button-secondary date-preset" data-preset="year">השנה</button>
+                <div class="source-filter-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="tiuli-filter" checked>
+                        <span>טיולי</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="merged-filter" checked>
+                        <span>משולב</span>
+                    </label>
+                </div>
+            </div>
+        </header>
+
+        <!-- Navigation Tabs -->
+        <nav class="main-nav">
+            <div class="tabs-container">
+                <button class="tab-button active" data-tab="map-view">
+                    <svg class="tab-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                        <circle cx="12" cy="10" r="3"></circle>
+                    </svg>
+                    מפה
+                </button>
+                <button class="tab-button" data-tab="list-view">
+                    <svg class="tab-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="8" y1="6" x2="21" y2="6"></line>
+                        <line x1="8" y1="12" x2="21" y2="12"></line>
+                        <line x1="8" y1="18" x2="21" y2="18"></line>
+                        <line x1="3" y1="6" x2="3.01" y2="6"></line>
+                        <line x1="3" y1="12" x2="3.01" y2="12"></line>
+                        <line x1="3" y1="18" x2="3.01" y2="18"></line>
+                    </svg>
+                    רשימת דיווחים
+                </button>
+                <button class="tab-button" data-tab="stats-view">
+                    <svg class="tab-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 20V10"></path>
+                        <path d="M12 20V4"></path>
+                        <path d="M6 20v-6"></path>
+                    </svg>
+                    סטטיסטיקות
+                </button>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="content-area">
+            
+            <!-- Map View -->
+            <div id="map-view" class="view active">
+                <div id="map"></div>
+                <div id="no-data-overlay" class="hidden">
+                    <div class="no-data-message">
+                        <h3>לא נמצאו דיווחים</h3>
+                        <p>נסה לשנות את טווח התאריכים או את הסינונים</p>
                     </div>
                 </div>
-                <div class="source-filter">
-                    <label><input type="checkbox" id="tiuli-filter" checked> Tiuli</label>
-                    <label><input type="checkbox" id="merged-filter" checked> Merged</label>
+            </div>
+
+            <!-- List View -->
+            <div id="list-view" class="view hidden">
+                <div class="container">
+                    <div id="reports-count" class="list-header-count"></div>
+                    <div id="reports-grid" class="reports-grid">
+                        <!-- populated by JS -->
+                    </div>
+                    <div id="reports-pagination" class="pagination">
+                        <!-- populated by JS if needed -->
+                    </div>
                 </div>
             </div>
-            <div id="map"></div>
-        </div>
 
-        <div class="tabs">
-            <button class="tab-button active" data-tab="map">
-                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M12 2v20M2 12h20"></path>
-                </svg>
-                מפה
-            </button>
-            <button class="tab-button" data-tab="stats">
-                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M2 3h20v6H2V3z"></path>
-                    <path d="M2 13h20v8H2v-8z"></path>
-                    <path d="M12 13v8"></path>
-                </svg>
-                סטטיסטיקות
-            </button>
-            <button class="tab-button" data-tab="reports">
-                <svg class="tab-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
-                    <line x1="9" y1="3" x2="9" y2="21"></line>
-                    <line x1="15" y1="3" x2="15" y2="21"></line>
-                </svg>
-                דיווחים
-            </button>
-        </div>
-
-        <div id="map-tab" class="tab-content">
-        <div id="map"></div>
-        <p id="no-data" class="hidden">אין דיווחים בטווח התאריכים הנבחר.</p>
-      </div> 
-        <div id="stats-tab" class="tab-content hidden">
-             <div class="stats-grid">
-                <div class="stats-card">
-                    <h2>סטטיסטיקות כלליות</h2>
-                    <div id="generalStats"></div>
-                </div>
-                <div class="stats-card">
-                    <h2>מיקומים פופולריים</h2>
-                    <div id="topLocations"></div>
-                </div>
-                <div class="stats-card">
-                    <h2>דיווחים אחרונים</h2>
-                    <div id="recentReports"></div>
-                </div>
-                <div class="stats-card">
-                    <h2>מגמות חודשיות</h2>
-                    <canvas id="monthlyTrendsChart"></canvas>
+            <!-- Stats View -->
+            <div id="stats-view" class="view hidden">
+                <div class="container">
+                    <div class="stats-grid">
+                        <div class="stats-card">
+                            <h2>סטטיסטיקות כלליות</h2>
+                            <div id="generalStats"></div>
+                        </div>
+                        <div class="stats-card">
+                            <h2>מיקומים פופולריים</h2>
+                            <div id="topLocations"></div>
+                        </div>
+                        <div class="stats-card">
+                            <h2>דיווחים אחרונים</h2>
+                            <div id="recentReports"></div>
+                        </div>
+                        <div class="stats-card">
+                            <h2>מגמות חודשיות</h2>
+                            <canvas id="monthlyTrendsChart"></canvas>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div id="reports-tab" class="tab-content hidden">
-            <h2>דיווחים</h2>
-        </div>
+
+        </main>
     </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.2/pikaday.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
     <script src="/static/js/utils.js"></script>
     <script src="/static/js/statistics.js"></script>
     <script>
