@@ -8,10 +8,16 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # Added permissions to allow the GITHUB_TOKEN to push code and manage PRs
+    permissions:
+      contents: write
+      pull-requests: write
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
         with:
+          # Crucial: prevents duplicate Authorization header errors
           persist-credentials: false
 
       - name: Set up Python
@@ -29,7 +35,8 @@ jobs:
         run: python3 pipeline.py
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        # Upgraded from v4 to v6 to fix the "undefined reading number" error
+        uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Automated data scrape
