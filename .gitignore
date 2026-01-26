@@ -174,3 +174,4 @@ outputbkp/*
 GEMINI*node_modules/
 package-lock.json
 verify.js
+index.html

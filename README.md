@@ -7,11 +7,10 @@ This project scrapes and parses flowering report data from various websites, pro
 ## Project Structure
 
 - **`pipeline.py`**: The main data processing pipeline. This script scrapes data from `wildflowers.co.il`, processes local HTML files from the `tiuli_scraped_reports` directory, extracts flower and location information using the Gemini API, and geocodes the locations using the LocationIQ API. The processed data is saved to `wildflowers_data.json`.
-- **`background_worker.py`**: A background worker that runs the data processing pipeline every hour to keep the data fresh.
-- **`flask_app.py`**: A simple Flask web application that serves the processed data and displays it on an interactive map.
+- **`build_static.py`**: A script that generates the static `index.html` file by injecting the data from `wildflowers_data.json` into a template.
 - **`tests/`**: Contains the unit tests for the data pipeline.
 - **`.github/workflows/scrape.yml`**: A GitHub Action that runs the scraping pipeline daily.
-- **`templates/`**: Contains the HTML templates for the web application.
+- **`.github/workflows/deploy.yml`**: A GitHub Action that builds and deploys the static site to GitHub Pages.
 - **`static/`**: Contains the static assets for the web application (CSS, JavaScript, etc.).
 - **`wildflowers_data.json`**: The consolidated, processed data from all sources.
 - **`geocache.csv`**: A cache of geocoded locations to avoid redundant API calls.
@@ -36,7 +35,7 @@ This project scrapes and parses flowering report data from various websites, pro
         ```
     -   Open the `.env` file and add your API keys for the Gemini API and the LocationIQ API.
 
-## Running the Application
+## Running Locally
 
 1.  **Run the data processing pipeline:**
     To perform an initial run of the data processing pipeline, execute the following command:
@@ -45,17 +44,14 @@ This project scrapes and parses flowering report data from various websites, pro
     ```
     This will scrape the data, process it, and create the `wildflowers_data.json` file.
 
-2.  **Run the background worker (optional):**
-    To keep the data up-to-date automatically, you can run the background worker in a separate terminal:
+2.  **Build the static site:**
     ```bash
-    python3 background_worker.py
+    python3 build_static.py
     ```
+    This will generate the `index.html` file.
 
-3.  **Run the Flask application:**
-    ```bash
-    python3 flask_app.py
-    ```
-    The application will be available at `http://127.0.0.1:5000`.
+3.  **View the site:**
+    Open the `index.html` file in your web browser to see the map.
 
 ## Testing
 
@@ -64,11 +60,25 @@ To run the unit tests, execute the following command:
 python3 -m unittest discover tests
 ```
 
-## Automated Scraping
+## Automated Workflows
 
-This project uses a GitHub Action to automatically scrape the data daily. To enable this, you need to add the following secrets to your GitHub repository:
+This project uses GitHub Actions to automate data scraping and deployment.
 
--   `GEMINI_API_KEY`: Your API key for the Gemini API.
--   `LOCATIONIQ_API_KEY`: Your API key for the LocationIQ API.
+### Automated Scraping
 
-The workflow is defined in `.github/workflows/scrape.yml`.
+The workflow defined in `.github/workflows/scrape.yml` runs daily to keep the flower data fresh.
+
+### Automated Deployment to GitHub Pages
+
+The workflow defined in `.github/workflows/deploy.yml` automatically builds and deploys the site to GitHub Pages whenever changes are pushed to the `main` branch.
+
+To enable this, you need to:
+
+1.  **Add repository secrets:**
+    -   `GEMINI_API_KEY`: Your API key for the Gemini API.
+    -   `LOCATIONIQ_API_KEY`: Your API key for the LocationIQ API.
+
+2.  **Enable GitHub Pages:**
+    -   Go to your repository's **Settings** tab.
+    -   In the "Code and automation" section, click on **Pages**.
+    -   Under "Build and deployment", select **GitHub Actions** as the source.

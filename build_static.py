@@ -13,7 +13,7 @@ def main():
 
     # Inject the JSON data into the template
     # The placeholder `##DATA##` will be replaced by the actual data.
-    html_content = template.replace('\'##DATA##\'', json.dumps(data))
+    html_content = template.replace('\'##DATA##\'', json.dumps(data, ensure_ascii=False))
 
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html_content)
