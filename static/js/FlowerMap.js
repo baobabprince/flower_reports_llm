@@ -86,9 +86,10 @@ class FlowerMap {
     async loadData() {
         try {
             flowerMapUtils.logger.info('Loading flower reports');
-            this.allReports = ALL_REPORTS;
+            const rawReports = ALL_REPORTS;
+            this.allReports = this.flattenReports(rawReports);
             this.processData();
-            this.statistics.updateStatistics(this.allReports, this.dateRange,this.sourceFilters);
+            this.statistics.updateStatistics(this.allReports, this.dateRange, this.sourceFilters);
             flowerMapUtils.logger.info('Data loaded successfully', { count: this.allReports.length });
         } catch (error) {
             flowerMapUtils.logger.error('Failed to load data', error);
@@ -96,36 +97,76 @@ class FlowerMap {
         }
     }
 
+    flattenReports(rawReports) {
+        const flatData = [];
+        rawReports.forEach(report => {
+            const source = report.source_file ? 'tiuli' : 'merged';
+            const commonData = {
+                title: report.title,
+                flowers: report.flowers || [],
+                date: report.date,
+                description: report.description ? (Array.isArray(report.description) ? report.description.join('\n') : report.description) : '',
+                source_file: report.source_file,
+                source: source,
+            };
+
+            if (report.geocoded_locations) {
+                for (const location in report.geocoded_locations) {
+                    const coords_data = report.geocoded_locations[location];
+                    if (coords_data && coords_data.latitude != null && coords_data.longitude != null) {
+                        flatData.push({
+                            ...commonData,
+                            lat: coords_data.latitude,
+                            lon: coords_data.longitude,
+                        });
+                    }
+                }
+            }
+
+            if (report.coordinates) {
+                report.coordinates.forEach(c => {
+                    if (c && c.lat != null && c.lon != null) {
+                        flatData.push({
+                            ...commonData,
+                            lat: c.lat,
+                            lon: c.lon,
+                        });
+                    }
+                });
+            }
+        });
+        return flatData;
+    }
+
     processData() {
-           this.markerCluster.clearLayers();
-           this.currentMarkers = [];
-           const filteredReports = this.allReports.filter(report => {
+        this.markerCluster.clearLayers();
+        this.currentMarkers = [];
+        const filteredReports = this.allReports.filter(report => {
             try {
                 let date;
                 if (typeof report.date === 'string' && report.date.includes('/')) {
                     const [day, month, year] = report.date.split('/');
-                     date = new Date(`${year}-${month}-${day}`);
+                    date = new Date(`${year}-${month}-${day}`);
                 } else if (typeof report.date === 'string' && report.date.includes('-')) {
-                       const [year, month, day] = report.date.split('-');
-                       date = new Date(`${year}-${month}-${day}`);
-                }
-                 else {
+                    const [year, month, day] = report.date.split('-');
+                    date = new Date(`${year}-${month}-${day}`);
+                } else {
                     date = new Date(report.date);
                 }
                 if (isNaN(date.getTime())) {
-                     flowerMapUtils.logger.warn('Invalid date in report', { report });
-                     return false;
-                 }
+                    flowerMapUtils.logger.warn('Invalid date in report', { report });
+                    return false;
+                }
 
-                 const source = report.source_file ? 'tiuli' : 'merged';
-                 return (
-                   flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange) &&
-                   this.sourceFilters[source]
-                 );
-             } catch (error) {
+                const source = report.source;
+                return (
+                    flowerMapUtils.dateUtils.isDateInRange(report.date, this.dateRange) &&
+                    this.sourceFilters[source]
+                );
+            } catch (error) {
                 flowerMapUtils.logger.error('Error processing report date', { report, error });
-                 return false;
-             }
+                return false;
+            }
         });
 
         filteredReports.forEach(report => {
@@ -134,26 +175,30 @@ class FlowerMap {
                 this.currentMarkers.push(marker);
                 this.markerCluster.addLayer(marker);
             }
-         });
+        });
 
         flowerMapUtils.logger.info('Markers updated', {
-           total: this.allReports.length,
+            total: this.allReports.length,
             filtered: filteredReports.length
         });
     }
     createMarker(report) {
+        if (report.lat === null || report.lon === null) {
+            return null;
+        }
         const marker = L.marker([report.lat, report.lon]);
         const formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-        const source = report.source_file ? 'tiuli' : 'merged';
+        const source = report.source;
+        const flowersStr = Array.isArray(report.flowers) ? report.flowers.join(', ') : '';
 
         const popupContent = `
             <div class="popup-content">
-                <h3 class="popup-title">${report.flowers}</h3>
+                <h3 class="popup-title">${flowersStr}</h3>
                 <p><strong>מיקום:</strong> ${report.title}</p>
                 <p><strong>תאריך:</strong> ${formattedDate}</p>
                 <p><strong>מקור:</strong> ${source}</p>
                 <p><strong>דיווח מקורי:</strong> ${report.description}</p>
-                <button onclick="flowerMapUtils.shareUtils.shareLocation(${report.lat}, ${report.lon}, '${report.flowers}')"
+                <button onclick="flowerMapUtils.shareUtils.shareLocation(${report.lat}, ${report.lon}, '${flowersStr.replace(/'/g, "\\'")}')"
                         class="share-button">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
