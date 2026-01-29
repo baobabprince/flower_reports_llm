@@ -58,6 +58,24 @@ class TestPipeline(unittest.TestCase):
         self.assertEqual(report['flowers'], ['Test Flower'])
         self.assertEqual(report['observer'], 'Test Observer')
         self.assertEqual(report['date'], '01/01/2024')
+        self.assertEqual(report['original_text'], 'Test report content.')
+
+    @patch('pipeline.get_coordinates')
+    def test_process_tiuli_files_skips_existing(self, mock_get_coordinates):
+        # Mock the get_coordinates function to return empty coordinates
+        mock_get_coordinates.return_value = []
+
+        # Create existing data with the same report
+        existing_data = [{
+            'source_file': os.path.join(self.test_dir, 'test.html'),
+            'original_text': 'Test report content.'
+        }]
+
+        # Run the process_tiuli_files function
+        new_reports = process_tiuli_files(existing_data, self.mock_geocache, self.mock_session, html_dir=self.test_dir)
+
+        # Check that the function returns 0 new reports
+        self.assertEqual(len(new_reports), 0)
 
     def test_save_data(self):
         # Create some test data
