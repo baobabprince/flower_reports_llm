@@ -265,8 +265,12 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
     new_reports = []
     existing_reports_keys = set()
     for report in existing_data:
-        if 'source_file' in report and 'original_text' in report:
-            existing_reports_keys.add((report['source_file'], report['original_text']))
+        if 'source_file' in report:
+            ot = report.get('original_text')
+            if not ot and report.get('description') and len(report['description']) > 0:
+                ot = report['description'][0]
+            if ot:
+                existing_reports_keys.add((report['source_file'], ot))
 
 
     for filename in os.listdir(html_dir):
@@ -278,8 +282,17 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
                     soup = BeautifulSoup(html_content, 'html.parser')
                     articles = soup.find_all('article', class_='shadow-card')
                     for article in articles:
-                        original_text_element = article.find('div', class_='mt-1', recursive=False)
-                        original_text = original_text_element.get_text(strip=True) if original_text_element else ""
+                        # Extract report details
+                        report_details = article.find('div', class_='report-details')
+                        original_text = ""
+                        if report_details:
+                            original_text_element = report_details.find('div', class_='mt-1')
+                            if original_text_element:
+                                original_text = original_text_element.get_text(strip=True)
+
+                        if not original_text:
+                            original_text_element = article.find('div', class_='mt-1', recursive=False)
+                            original_text = original_text_element.get_text(strip=True) if original_text_element else ""
 
                         if (filepath, original_text) in existing_reports_keys:
                             continue
@@ -298,15 +311,6 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
                         report['date'] = date
                         report['observer'] = observer
 
-
-                        # Extract report details
-                        report_details = article.find('div', class_='report-details')
-                        original_text = ""
-                        if report_details:
-                            original_text_element = report_details.find('div', class_='mt-1')
-                            if original_text_element:
-                                original_text = original_text_element.get_text(strip=True)
-
                         flower_name_element = report_details.find('h2', class_='m-0 font-bold text-lg lg:text-2xl').find('a')
                         flower_name = flower_name_element.get_text(strip=True) if flower_name_element else None
                         location_element = report_details.find('span', string=re.compile(r'מיקום:.*'))
@@ -316,6 +320,7 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
                         report['description'] = [original_text]
                         report['locations'] = [location]
                         report['flowers'] = [flower_name]
+                        report['original_text'] = original_text
 
                         # Extract Waze and map button data, and extract coordinates if available.
                         geocoded_locations = {}
