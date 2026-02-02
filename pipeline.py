@@ -30,13 +30,31 @@ def init_gemini():
         logger.warning("GEMINI_API_KEY not found in environment variables. Gemini features will be disabled.")
         return None
     genai.configure(api_key=gemini_api_key)
-    model_name = os.getenv('GEMINI_MODEL', 'gemini-1.5-flash')
-    logger.info(f"Using Gemini model: {model_name}")
-    try:
-        return genai.GenerativeModel(model_name)
-    except Exception as e:
-        logger.error(f"Failed to initialize Gemini model '{model_name}': {e}")
-        raise
+    
+    models_to_try = [
+        os.getenv('GEMINI_MODEL', 'gemini-1.5-flash'),
+        'gemini-1.5-flash',
+        'gemini-1.5-pro',
+        'gemini-2.0-flash-exp',
+        'gemini-1.0-pro'
+    ]
+    
+    # Remove duplicates while preserving order
+    models_to_try = list(dict.fromkeys(models_to_try))
+
+    for model_name in models_to_try:
+        try:
+            logger.info(f"Attempting to initialize Gemini model: {model_name}")
+            model = genai.GenerativeModel(model_name)
+            # Test the model with a simple prompt to ensure it's accessible
+            response = model.generate_content("Test")
+            logger.info(f"Successfully initialized Gemini model: {model_name}")
+            return model
+        except Exception as e:
+            logger.warning(f"Failed to initialize model '{model_name}': {e}")
+    
+    logger.error("All Gemini models failed to initialize.")
+    return None
 
 def init_requests_session():
     """Initializes and returns a requests session with retries."""
@@ -350,6 +368,102 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
     logger.info(f"Found {len(new_reports)} new reports from Tiuli files.")
     return new_reports
 
+def process_local_wildflowers_files(existing_data, geocache, model, session, data_dir='data'):
+    """Processes local HTML files from the data directory (wildflowers.co.il format)."""
+    # Removed the check that returns if model is None. We will use fallback.
+    
+    logger.info(f"Processing local files in {data_dir}...")
+    if not os.path.exists(data_dir):
+        logger.warning(f"Directory '{data_dir}' not found.")
+        return []
+
+    existing_titles_dates = {(r.get('title'), r.get('date')) for r in existing_data}
+    new_data = []
+
+    # Process files matching page_*.html
+    for filename in os.listdir(data_dir):
+        if filename.startswith('page_') and filename.endswith('.html'):
+            filepath = os.path.join(data_dir, filename)
+            # logger.info(f"Processing local file: {filename}") # Reduce noise
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    html_content = f.read()
+                
+                soup = BeautifulSoup(html_content, 'html.parser')
+                content = soup.find('div', class_='aboutBody')
+                if not content:
+                    logger.warning(f"No content found with class 'aboutBody' in {filename}")
+                    continue
+
+                bold_tags = content.find_all('b')
+                reports = []
+                for bold_tag in bold_tags:
+                    report = {
+                        'title': bold_tag.get_text(strip=True),
+                        'date': '',
+                        'description': [],
+                        'reporter': '',
+                        'links': []
+                    }
+                    # The date is usually in the text following the title
+                    date_tag = bold_tag.find_next(string=re.compile(r'תאריך:'))
+                    if date_tag:
+                        report['date'] = date_tag.replace('תאריך:', '').strip()
+
+                    # The reporter is usually in a mailto link
+                    reporter_link = bold_tag.find_next('a', href=re.compile('mailto:'))
+                    if reporter_link:
+                        report['reporter'] = reporter_link.get_text(strip=True)
+
+                    # Get the description text
+                    description_text = ''
+                    for sibling in bold_tag.next_siblings:
+                        if sibling.name == 'b':
+                            break
+                        if isinstance(sibling, NavigableString):
+                            text = sibling.strip()
+                            if text and not text.startswith('תאריך:'):
+                                description_text += text + '\n'
+                    report['description'] = [d.strip() for d in description_text.strip().split('\n') if d.strip()]
+                    
+                    if report['title'] and report['date'] and not report['title'].startswith(('סך הכל:', '[', 'דווחים')):
+                         # Check against existing data immediately to save API calls
+                        title_date = (report['title'], report['date'])
+                        if title_date not in existing_titles_dates:
+                            reports.append(report)
+
+                # Process extracted reports from this file
+                for report in reports:
+                    flowers = []
+                    locations = []
+                    
+                    if model:
+                        flowers, locations = extract_flower_and_location(report, model)
+                    
+                    # Fallback if no locations found or model missing
+                    if not locations:
+                        # Use title as a potential location
+                        clean_title = report['title'].replace('פריחה ב', '').replace('פריחת', '').strip()
+                        locations.append(clean_title)
+                        # Also look for "location:" pattern if it existed in description (less likely in this source)
+
+                    coordinates = get_coordinates(locations, geocache, session)
+                    processed_report = {
+                        **report,
+                        'flowers': flowers,
+                        'locations': locations,
+                        'coordinates': coordinates,
+                        'source_file': filename # Track source
+                    }
+                    new_data.append(processed_report)
+                    existing_titles_dates.add((report['title'], report['date']))
+                    
+            except Exception as e:
+                logger.error(f"Error processing {filename}: {e}")
+
+    logger.info(f"Found {len(new_data)} new reports from local files.")
+    return new_data
+
 def process_wildflowers_website(existing_data, geocache, model, session):
     """Main pipeline to process the wildflowers.co.il website."""
     if model is None:
@@ -396,9 +510,10 @@ def main():
     existing_data = load_existing_data()
 
     wildflowers_data = process_wildflowers_website(existing_data, geocache, model, session)
+    local_data = process_local_wildflowers_files(existing_data, geocache, model, session)
     tiuli_data = process_tiuli_files(existing_data, geocache, session)
 
-    all_data = existing_data + wildflowers_data + tiuli_data
+    all_data = existing_data + wildflowers_data + local_data + tiuli_data
     save_data(all_data)
     logger.info("Data processing pipeline completed.")
 

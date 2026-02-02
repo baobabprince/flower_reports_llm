@@ -30,9 +30,28 @@ def map_view():
     """Renders the map with all the flowering report locations."""
     all_reports = load_data()
 
+    # Sort reports by date (descending) - assuming date is DD/MM/YYYY
+    def parse_date(date_str):
+        try:
+            if not date_str: return 0
+            parts = date_str.split('/')
+            if len(parts) == 3:
+                return int(parts[2]) * 10000 + int(parts[1]) * 100 + int(parts[0])
+            return 0
+        except:
+            return 0
+
+    all_reports.sort(key=lambda x: parse_date(x.get('date')), reverse=True)
+
     # an array of report objects, each with lat and lon (only valid numeric coords)
     coords = []
+    marker_count = 0
+    MAX_MARKERS = 10000 # Limit for performance
+
     for report in all_reports:
+        if marker_count >= MAX_MARKERS:
+            break
+
         # handle geocoded_locations (dict of named locations -> {latitude, longitude})
         if 'geocoded_locations' in report and report['geocoded_locations']:
             for location, coords_data in report['geocoded_locations'].items():
@@ -45,14 +64,17 @@ def map_view():
                     lonf = float(lon)
                 except Exception:
                     continue
+                
                 coords.append({
                     'lat': latf,
                     'lon': lonf,
                     'title': report.get('title'),
-                    'flowers': ', '.join(report.get('flowers', [])),
+                    'flowers': ', '.join([str(f) for f in (report.get('flowers') or []) if f]),
                     'date': report.get('date'),
-                    'description': '\n'.join(report.get('description', []))
+                    'description': '\n'.join([str(d) for d in (report.get('description') or []) if d]),
+                    'source': 'tiuli' if report.get('source_file') else 'merged'
                 })
+                marker_count += 1
 
         # handle reports with multiple coordinates
         if 'coordinates' in report and report['coordinates'] is not None:
@@ -64,14 +86,17 @@ def map_view():
                     lonf = float(c['lon'])
                 except Exception:
                     continue
+                
                 coords.append({
                     'lat': latf,
                     'lon': lonf,
                     'title': report.get('title'),
-                    'flowers': ', '.join(report.get('flowers', [])),
+                    'flowers': ', '.join([str(f) for f in (report.get('flowers') or []) if f]),
                     'date': report.get('date'),
-                    'description': '\n'.join(report.get('description', []))
+                    'description': '\n'.join([str(d) for d in (report.get('description') or []) if d]),
+                    'source': 'tiuli' if report.get('source_file') else 'merged'
                 })
+                marker_count += 1
 
     return render_template('map.html', coords_list=coords)
 

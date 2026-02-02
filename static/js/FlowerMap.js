@@ -204,7 +204,7 @@ class FlowerMap {
 
                 if (!date || isNaN(date.getTime())) return false;
 
-                const source = report.source_file ? 'tiuli' : 'merged';
+                const source = report.source || (report.source_file ? 'tiuli' : 'merged');
                 
                 // Simple date range check
                 let inDateRange = true;

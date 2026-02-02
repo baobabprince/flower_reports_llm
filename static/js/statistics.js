@@ -34,7 +34,8 @@ class FlowerStatistics {
                     flowerMapUtils.logger.warn('Invalid date in report', { report });
                     return false;
                 }
-                return flowerMapUtils.dateUtils.isDateInRange(report.date, dateRange) && sourceFilters[report.source];
+                const source = report.source || (report.source_file ? 'tiuli' : 'merged');
+                return flowerMapUtils.dateUtils.isDateInRange(report.date, dateRange) && sourceFilters[source];
             });
 
             this.calculateGeneralStats(filteredReports);
