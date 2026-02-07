@@ -172,7 +172,14 @@ class FlowerMap {
     async loadData() {
         try {
             flowerMapUtils.logger.info('Loading flower reports');
-            this.allReports = ALL_REPORTS; // Loaded from global var
+            
+            if (window.DATA_URL) {
+                const response = await fetch(window.DATA_URL);
+                this.allReports = await response.json();
+            } else if (typeof ALL_REPORTS !== 'undefined') {
+                this.allReports = ALL_REPORTS;
+            }
+
             this.processData();
             flowerMapUtils.logger.info('Data loaded successfully');
         } catch (error) {

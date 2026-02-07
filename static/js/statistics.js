@@ -53,29 +53,24 @@ class FlowerStatistics {
         this.generalStats = {
             totalReports: reports.length,
             totalFlowers: reports.reduce((sum, report) => {
-                let total = sum;
-                if (report && report.locations) {
-                    report.locations.forEach(location => {
-                        if (location && location.flowers) {
-                            total += location.flowers.length;
-                        }
-                    });
+                if (report.flowers) {
+                    if (Array.isArray(report.flowers)) {
+                        return sum + report.flowers.length;
+                    } else if (typeof report.flowers === 'string') {
+                        return sum + report.flowers.split(',').filter(f => f.trim()).length;
+                    }
                 }
-                return total;
+                return sum;
             }, 0)
-
         };
     }
 
     calculateTopLocations(reports) {
         const locationCounts = {};
         reports.forEach(report => {
-            if (report && report.locations) {
-                report.locations.forEach(location => {
-                    if (location && location.location_name && report.geocoded_locations && report.geocoded_locations[location.location_name]) {
-                        locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
-                    }
-                });
+            const locationName = report.title || (report.locations && report.locations[0] && report.locations[0].location_name);
+            if (locationName) {
+                locationCounts[locationName] = (locationCounts[locationName] || 0) + 1;
             }
         });
 
@@ -85,39 +80,16 @@ class FlowerStatistics {
     }
 
     getRecentReports(reports) {
-        this.recentReports = reports
+        this.recentReports = [...reports]
             .sort((a, b) => {
-                let dateA;
-                if (typeof a.date === 'string' && a.date.includes('/')) {
-                    const [day, month, year] = a.date.split('/');
-                    dateA = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof a.date === 'string' && a.date.includes('-')) {
-                    const [year, month, day] = a.date.split('-');
-                    dateA = new Date(`${year}-${month}-${day}`);
-                }
-                else {
-                    dateA = new Date(a.date);
-                }
-
-                let dateB;
-                if (typeof b.date === 'string' && b.date.includes('/')) {
-                    const [day, month, year] = b.date.split('/');
-                    dateB = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof b.date === 'string' && b.date.includes('-')) {
-                    const [year, month, day] = b.date.split('-');
-                    dateB = new Date(`${year}-${month}-${day}`);
-                }
-                else {
-                    dateB = new Date(b.date);
-                }
-                return dateB - dateA; // Sort in descending order
+                const dateA = flowerMapUtils.dateUtils.parseDate(a.date);
+                const dateB = flowerMapUtils.dateUtils.parseDate(b.date);
+                return (dateB || 0) - (dateA || 0);
             })
             .slice(0, 5)
             .map(report => {
                 let formattedDate = flowerMapUtils.dateUtils.formatDate(report.date);
-                const flowers = report && report.locations ? report.locations.flatMap(location => location.flowers).join(', ') : '';
+                const flowers = typeof report.flowers === 'string' ? report.flowers : (Array.isArray(report.flowers) ? report.flowers.join(', ') : '');
                 return `${formattedDate}: ${flowers}`;
             });
     }
@@ -132,34 +104,31 @@ class FlowerStatistics {
             recentReports: [],
             monthlyTrends: {},
             mostCommonFlowers: [],
-            reportsPerFlower: {}  // Reset
+            reportsPerFlower: {}
         };
 
         reports.forEach(report => {
-            if (report && report.locations) {
-                report.locations.forEach(location => {
-                    if (location && location.flowers) {
-                        location.flowers.forEach(flower => {
-                            this.stats.flowerTypes[flower] = (this.stats.flowerTypes[flower] || 0) + 1;
-                        });
+            // Flowers
+            let flowers = [];
+            if (Array.isArray(report.flowers)) {
+                flowers = report.flowers;
+            } else if (typeof report.flowers === 'string') {
+                flowers = report.flowers.split(',').map(f => f.trim()).filter(f => f);
+            } else if (report.locations) {
+                report.locations.forEach(loc => {
+                    if (Array.isArray(loc.flowers)) {
+                        flowers.push(...loc.flowers);
                     }
                 });
             }
 
+            flowers.forEach(flower => {
+                this.stats.flowerTypes[flower] = (this.stats.flowerTypes[flower] || 0) + 1;
+            });
 
-            let date;
-            if (typeof report.date === 'string' && report.date.includes('/')) {
-                const [day, month, year] = report.date.split('/');
-                date = new Date(`${year}-${month}-${day}`);
-            }
-            else if (typeof report.date === 'string' && report.date.includes('-')) {
-                const [year, month, day] = report.date.split('-');
-                date = new Date(`${year}-${month}-${day}`);
-            }
-            else {
-                date = new Date(report.date);
-            }
-            if (date) {
+            // Monthly Trends
+            const date = flowerMapUtils.dateUtils.parseDate(report.date);
+            if (date && !isNaN(date.getTime())) {
                 const month = date.toLocaleString('he-IL', { month: 'long', year: 'numeric' });
                 this.stats.monthlyTrends[month] = (this.stats.monthlyTrends[month] || 0) + 1;
             }
@@ -168,18 +137,15 @@ class FlowerStatistics {
         // Calculate most common flowers
         this.stats.mostCommonFlowers = Object.entries(this.stats.flowerTypes)
             .sort(([, a], [, b]) => b - a)
-            .slice(0, 5);
+            .slice(0, 10); // More flowers for better view
 
 
         // Calculate top locations
         const locationCounts = {};
         reports.forEach(report => {
-            if (report && report.locations) {
-                report.locations.forEach(location => {
-                    if (location && location.location_name && report.geocoded_locations && report.geocoded_locations[location.location_name]) {
-                        locationCounts[location.location_name] = (locationCounts[location.location_name] || 0) + 1;
-                    }
-                });
+            const locationName = report.title || (report.locations && report.locations[0] && report.locations[0].location_name);
+            if (locationName) {
+                locationCounts[locationName] = (locationCounts[locationName] || 0) + 1;
             }
         });
 
@@ -188,54 +154,18 @@ class FlowerStatistics {
             .slice(0, 5);
 
 
-        this.stats.recentReports = reports
+        this.stats.recentReports = [...reports]
             .sort((a, b) => {
-                let dateA;
-                if (typeof a.date === 'string' && a.date.includes('/')) {
-                    const [day, month, year] = a.date.split('/');
-                    dateA = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof a.date === 'string' && a.date.includes('-')) {
-                    const [year, month, day] = a.date.split('-');
-                    dateA = new Date(`${year}-${month}-${day}`);
-                }
-                else {
-                    dateA = new Date(a.date);
-                }
-
-                let dateB;
-                if (typeof b.date === 'string' && b.date.includes('/')) {
-                    const [day, month, year] = b.date.split('/');
-                    dateB = new Date(`${year}-${month}-${day}`);
-                }
-                else if (typeof b.date === 'string' && b.date.includes('-')) {
-                    const [year, month, day] = b.date.split('-');
-                    dateB = new Date(`${year}-${month}-${day}`);
-                }
-                else {
-                    dateB = new Date(b.date);
-                }
-                return dateB - dateA;
+                const dateA = flowerMapUtils.dateUtils.parseDate(a.date);
+                const dateB = flowerMapUtils.dateUtils.parseDate(b.date);
+                return (dateB || 0) - (dateA || 0);
             })
             .slice(0, 5);
     }
 
-    calculateReportsPerFlower(reports) { // New Function
-        const reportsPerFlower = {};
-        reports.forEach(report => {
-            if (report && report.locations) {
-                report.locations.forEach(location => {
-                    if (location && location.flowers) {
-                        location.flowers.forEach(flower => {
-                            reportsPerFlower[flower] = (reportsPerFlower[flower] || 0) + 1;
-                        });
-                    }
-                });
-            }
-        });
-        this.stats.reportsPerFlower = Object.entries(reportsPerFlower)
-            .sort(([, a], [, b]) => b - a)
-            .slice(0, 5); // Top 5 flowers
+    calculateReportsPerFlower(reports) {
+        // This is already covered by flowerTypes in calculateStats
+        this.stats.reportsPerFlower = this.stats.mostCommonFlowers.slice(0, 5);
     }
 
     updateUI() {
