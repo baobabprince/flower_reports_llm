@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup, NavigableString
 import json
+import gzip
 import os
 import time
 import logging
@@ -86,11 +87,11 @@ def save_geocache(geocache, filepath="geocache.csv"):
     except Exception as e:
         logger.error(f"Error saving geocache: {e}")
 
-def load_existing_data(filepath="wildflowers_data.json"):
+def load_existing_data(filepath="wildflowers_data.json.gz"):
     """Loads existing reports from a JSON file."""
     if os.path.exists(filepath):
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with gzip.open(filepath, 'rt', encoding='utf-8') as f:
                 content = f.read().strip()
                 if not content:
                     logger.warning(f"{filepath} is empty, starting fresh")
@@ -105,10 +106,10 @@ def load_existing_data(filepath="wildflowers_data.json"):
     logger.info(f"No existing data file found at {filepath}")
     return []
 
-def save_data(data, filepath="wildflowers_data.json"):
+def save_data(data, filepath="wildflowers_data.json.gz"):
     """Saves reports to a JSON file."""
     try:
-        with open(filepath, 'w', encoding='utf-8') as f:
+        with gzip.open(filepath, 'wt', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         logger.info(f"Saved {len(data)} reports to {filepath}")
     except Exception as e:

@@ -1,9 +1,10 @@
 import json
+import gzip
 
 def main():
     """Generates a static index.html file with embedded wildflower data."""
     try:
-        with open('wildflowers_data.json', 'r', encoding='utf-8') as f:
+        with gzip.open('wildflowers_data.json.gz', 'rt', encoding='utf-8') as f:
             data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         data = []

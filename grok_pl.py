@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup, NavigableString
 import json
+import gzip
 import os
 import time
 import logging
@@ -35,7 +36,7 @@ except Exception as e:
     raise
 
 # Files
-DATA_FILE = "wildflowers_data.json"
+DATA_FILE = "wildflowers_data.json.gz"
 GEOCACHE_FILE = "geocache.csv"
 
 # Set up requests session with retries
@@ -89,7 +90,7 @@ geocache = load_geocache()
 def load_existing_data():
     if os.path.exists(DATA_FILE):
         try:
-            with open(DATA_FILE, 'r', encoding='utf-8') as f:
+            with gzip.open(DATA_FILE, 'rt', encoding='utf-8') as f:
                 content = f.read().strip()
                 if not content:
                     logger.warning(f"{DATA_FILE} is empty, starting fresh")
@@ -108,7 +109,7 @@ def load_existing_data():
 
 def save_data(data):
     try:
-        with open(DATA_FILE, 'w', encoding='utf-8') as f:
+        with gzip.open(DATA_FILE, 'wt', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         logger.info(f"Saved {len(data)} reports to {DATA_FILE}")
     except Exception as e:
