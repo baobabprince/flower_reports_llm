@@ -265,8 +265,16 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
     new_reports = []
     existing_reports_keys = set()
     for report in existing_data:
-        if 'source_file' in report and 'original_text' in report:
-            existing_reports_keys.add((report['source_file'], report['original_text']))
+        if 'source_file' in report:
+            desc = report.get('description', [])
+            original_text = desc[0] if isinstance(desc, list) and len(desc) > 0 else ""
+            existing_reports_keys.add((
+                report['source_file'],
+                report.get('observer') or '',
+                report.get('date') or '',
+                report.get('title') or '',
+                original_text
+            ))
 
 
     for filename in os.listdir(html_dir):
@@ -278,38 +286,40 @@ def process_tiuli_files(existing_data, geocache, session, html_dir='tiuli_scrape
                     soup = BeautifulSoup(html_content, 'html.parser')
                     articles = soup.find_all('article', class_='shadow-card')
                     for article in articles:
-                        original_text_element = article.find('div', class_='mt-1', recursive=False)
-                        original_text = original_text_element.get_text(strip=True) if original_text_element else ""
-
-                        if (filepath, original_text) in existing_reports_keys:
-                            continue
-
-                        # ... (rest of the extraction logic from tiuli_parse.py)
-                        report = {}
-
                         # Extract user details
-                        user_details = article.find('div', class_='user-details')
-                        observer_element = user_details.find('span', class_='text-grey-900')
+                        user_details = article.find('div', class_='user-details') if article else None
+                        observer_element = user_details.find('span', class_='text-grey-900') if user_details else None
                         observer = observer_element.get_text(strip=True) if observer_element else None
 
-                        date_element = user_details.find('span', class_='text-grey-700')
+                        date_element = user_details.find('span', class_='text-grey-700') if user_details else None
                         date = date_element.get_text(strip=True) if date_element else None
 
-                        report['date'] = date
-                        report['observer'] = observer
-
-
                         # Extract report details
-                        report_details = article.find('div', class_='report-details')
+                        report_details = article.find('div', class_='report-details') if article else None
                         original_text = ""
                         if report_details:
                             original_text_element = report_details.find('div', class_='mt-1')
                             if original_text_element:
                                 original_text = original_text_element.get_text(strip=True)
 
-                        flower_name_element = report_details.find('h2', class_='m-0 font-bold text-lg lg:text-2xl').find('a')
-                        flower_name = flower_name_element.get_text(strip=True) if flower_name_element else None
-                        location_element = report_details.find('span', string=re.compile(r'מיקום:.*'))
+                        flower_name = None
+                        if report_details:
+                            h2_element = report_details.find('h2', class_='m-0 font-bold text-lg lg:text-2xl')
+                            if h2_element:
+                                flower_name_element = h2_element.find('a')
+                                if flower_name_element:
+                                    flower_name = flower_name_element.get_text(strip=True)
+
+                        # Check if report already exists in existing_data
+                        key = (filepath, observer or "", date or "", flower_name or "", original_text or "")
+                        if key in existing_reports_keys:
+                            continue
+
+                        report = {}
+                        report['date'] = date
+                        report['observer'] = observer
+
+                        location_element = report_details.find('span', string=re.compile(r'מיקום:.*')) if report_details else None
                         location = location_element.get_text(strip=True).replace("מיקום: ", "") if location_element else None
 
                         report['title'] = flower_name
