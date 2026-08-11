@@ -59,6 +59,25 @@ class TestPipeline(unittest.TestCase):
         self.assertEqual(report['observer'], 'Test Observer')
         self.assertEqual(report['date'], '01/01/2024')
 
+    @patch('pipeline.get_coordinates')
+    def test_process_tiuli_files_duplicate_filtering(self, mock_get_coordinates):
+        mock_get_coordinates.return_value = []
+
+        # Mock existing_data that should match our dummy HTML file
+        existing_data = [{
+            'source_file': os.path.join(self.test_dir, 'test.html'),
+            'observer': 'Test Observer',
+            'date': '01/01/2024',
+            'title': 'Test Flower',
+            'description': ['Test report content.']
+        }]
+
+        # Run the process_tiuli_files function with existing_data
+        new_reports = process_tiuli_files(existing_data, self.mock_geocache, self.mock_session, html_dir=self.test_dir)
+
+        # Since it is a duplicate, it should be filtered out
+        self.assertEqual(len(new_reports), 0)
+
     def test_save_data(self):
         # Create some test data
         test_data = [{'title': 'Test Flower', 'description': ['Test report content.']}]
